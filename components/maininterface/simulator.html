@@ -1,0 +1,165 @@
+<form id="paramForm">
+    <div id="scenario1" class="params">
+        <div class="param-block">
+            <label class="tooltip">PIB UE (croissance % initiale):
+                <span class="tooltiptext">
+                    <b>Produit Intérieur Brut</b><br>
+                    Mesure la croissance économique annuelle.<br>
+                    Une valeur positive indique une expansion.<br>
+                    Essentiel pour le niveau de vie et l'emploi.
+                </span>
+            </label>
+            <input type="number" id="pib_eu" min="0" max="4" step="0.1" value="2">
+            <span class="desc"><b>0 %</b> : stagnation – <b>4 %</b> : forte croissance annuelle</span>
+        </div>
+        <div class="param-block">
+            <label class="tooltip">Indice de Gini UE (0.2-0.6):
+                <span class="tooltiptext">
+                    <b>Mesure des inégalités</b><br>
+                    0 = parfaite égalité, 1 = inégalité extrême.<br>
+                    Impacte la cohésion sociale.<br>
+                    Un équilibre entre croissance et équité est crucial.
+                </span>
+            </label>
+            <input type="number" id="gini_eu" min="0.2" max="0.6" step="0.01" value="0.3">
+            <span class="desc"><b>0.2</b> : forte égalité – <b>0.6</b> : fortes inégalités</span>
+        </div>
+        <div class="param-block">
+            <label class="tooltip">CO₂/hab UE (2-10 t):
+                <span class="tooltiptext">
+                    <b>Emissions carbone par habitant</b><br>
+                    Mesure l'impact environnemental.<br>
+                    Des valeurs élevées accélèrent le changement climatique.<br>
+                    Objectif UE : réduire de 55% d'ici 2030.
+                </span>
+            </label>
+            <input type="number" id="co2_eu" min="2" max="10" step="0.1" value="4">
+            <span class="desc"><b>2 t/hab</b> : bas carbone – <b>10 t/hab</b> : très élevé</span>
+        </div>
+        <div class="param-block">
+            <label class="tooltip">VEB UE (0-100):
+                <span class="tooltiptext">
+                    <b>Vitalité Écosystémique et Biodiversité</b><br>
+                    Mesure la santé des écosystèmes.<br>
+                    Impacte la résilience climatique et la sécurité alimentaire.<br>
+                    Un indicateur clé du développement durable.
+                </span>
+            </label>
+            <input type="number" id="veb_eu" min="0" max="100" step="1" value="80">
+            <span class="desc"><b>0</b> : biodiversité dégradée – <b>100</b> : optimale</span>
+        </div>
+    </div>
+
+    <div id="scenario2" class="params" style="display:none;">
+        <div class="param-block">
+            <label class="tooltip">Stabilité UE (Normandie, 0-100):
+                <span class="tooltiptext">
+                    <b>Indice de stabilité géopolitique</b><br>
+                    Mesure la capacité à gérer les crises.<br>
+                    Influencé par les conflits et la coopération.<br>
+                    Essentiel pour la sécurité et l'influence globale.
+                </span>
+            </label>
+            <input type="number" id="normandie_eu" min="0" max="100" step="1" value="80">
+            <span class="desc"><b>0</b> : instabilité majeure – <b>100</b> : stabilité totale</span>
+        </div>
+        <div class="param-block">
+            <label class="tooltip">Démocratie UE (V-Dem, 0-1):
+                <span class="tooltiptext">
+                    <b>Indice démocratique (V-Dem)</b><br>
+                    Évalue la qualité démocratique des institutions.<br>
+                    Inclut les libertés civiles et l'État de droit.<br>
+                    Fondement de la légitimité politique de l'UE.
+                </span>
+            </label>
+            <input type="number" id="vdem_eu" min="0" max="1" step="0.01" value="0.85">
+            <span class="desc"><b>0</b> : autoritarisme – <b>1</b> : démocratie consolidée</span>
+        </div>
+        <div class="param-block">
+            <label class="tooltip">Croissance UE (% initiale):
+                <span class="tooltiptext">
+                    <b>Taux de croissance économique</b><br>
+                    Reflète la santé globale de l'économie.<br>
+                    Impacte le chômage et les investissements.<br>
+                    Clé pour le maintien du modèle social européen.
+                </span>
+            </label>
+            <input type="number" id="pib_growth_eu" min="-2" max="4" step="0.1" value="1.5">
+            <span class="desc"><b>-2 %</b> : récession – <b>4 %</b> : forte croissance</span>
+        </div>
+        <div class="param-block">
+            <label class="tooltip">IDH UE (0-1):
+                <span class="tooltiptext">
+                    <b>Indice de Développement Humain</b><br>
+                    Combine espérance de vie, éducation et revenu.<br>
+                    Mesure le bien-être au-delà du PIB.<br>
+                    Objectif : maintenir un niveau très élevé (>0,8).
+                </span>
+            </label>
+            <input type="number" id="idh_eu" min="0" max="1" step="0.01" value="0.92">
+            <span class="desc"><b>0</b> : très faible – <b>1</b> : optimal</span>
+        </div>
+    </div>
+</form>
+
+<div class="simulate">
+    <button type="button" id="simulButton">Simuler</button>
+</div>
+
+<div id="chartsContainer">
+    <h2>Courbes européennes</h2>
+    <div id="euChartContainer" class="canvas-container"><canvas id="euChart"></canvas></div>
+    <div id="succes"></div>
+
+    <h2>Résultats par État</h2>
+    <select id="countrySelect" class="sim-selector">
+        <option value="DE">Allemagne</option>
+        <option value="FR">France</option>
+        <option value="PL">Pologne</option>
+        <option value="IT">Italie</option>
+        <option value="SE">Suède</option>
+        <option value="HU">Hongrie</option>
+    </select>
+    <div id="countryChartContainer" class="canvas-container"><canvas id="countryChart"></canvas></div>
+    <div id="succesCountry"></div>
+
+    <h2>Projections politiques par parti</h2>
+    <div class="politique-container">
+        <select id="partiSelect" class="sim-selector">
+            <option value="PPE">PPE</option>
+            <option value="SDE">S&D</option>
+            <option value="RENEW">RE</option>
+            <option value="VERT">Verts</option>
+            <option value="ECR">ECR</option>
+            <option value="GUE">GUE</option>
+        </select>
+        <div class="politique-metrics" style="margin:12px 0 20px 0;">
+            <div class="metric"><span class="label">Satisfaction:</span> <span id="partiSatisfaction" class="value"></span></div>
+            <div class="metric"><span class="label">Députés</span> <span id="partiMEPs" class="value"></span></div>
+            <div class="metric"><span class="label">Conseil (% États):</span> <span id="partiConseil" class="value"></span></div>
+            <div class="metric"><span class="label">Commissaires:</span> <span id="partiCommissaires" class="value"></span></div>
+            <div class="metric"><span class="label">Influence Présidence:</span> <span id="partiPresidence" class="value"></span></div>
+        </div>
+        <div id="politiqueChartContainer" class="canvas-container"><canvas id="politiqueChart"></canvas></div>
+        <div id="scoreVictoire" style="text-align:center;font-size:1.1em;margin-top:10px;color:#1b5e20;font-weight:600;"></div>
+    </div>
+
+    <h2>Dynamique des Lobbies</h2>
+    <select id="lobbySelect" class="sim-selector">
+        <option value="BIG_TECH">Big Tech</option>
+        <option value="ENERGIES_FOSSILES">Énergies Fossiles</option>
+        <option value="BANQUES_FINANCE">Banques & Finance</option>
+        <option value="AGROCHIMIE">Agrochimie</option>
+        <option value="PHARMA">Industrie Pharmaceutique</option>
+        <option value="AUTOMOBILE">Industrie Automobile</option>
+    </select>
+    <div id="lobbyChartContainer" class="canvas-container">
+        <canvas id="lobbyChart" width="800" height="400"></canvas>
+    </div>
+    <div id="lobbyScore"></div>
+</div>
+
+<!-- Bouton flottant pour ouvrir le tableau de bord -->
+<button id="dashboardToggle" class="floating-dashboard-btn" title="Mode Tableau de Bord">
+    📊 Tableau de bord
+</button>

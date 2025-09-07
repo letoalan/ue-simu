@@ -1,0 +1,220 @@
+/* ---------------------------------------------------------
+   dashboard.css : Version compacte (inputs + bouton vert)
+   --------------------------------------------------------- */
+@import url('fullscreen.css'); /* lien vers le module zoom */
+
+/* ---------------------------------------------------------
+   1. Bouton flottant du tableau de bord
+--------------------------------------------------------- */
+.floating-dashboard-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #1976d2;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    padding: 15px 25px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0,0,0,.2);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 800;
+    transition: background .3s ease, transform .2s ease;
+}
+.floating-dashboard-btn:hover {
+    background: #1565c0;
+    transform: translateY(-2px);
+}
+
+/* ---------------------------------------------------------
+   2. Panneau principal
+--------------------------------------------------------- */
+.dashboard-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100vh;
+    background: white;
+    box-shadow: -4px 0 10px rgba(0,0,0,.1);
+    z-index: 800;
+    transform: translateX(100%);
+    transition: transform 0.4s cubic-bezier(.25,.46,.45,.94);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.dashboard-panel.open {
+    transform: translateX(0);
+}
+
+/* ---------------------------------------------------------
+   3. Bouton de fermeture (visible et accessible)
+--------------------------------------------------------- */
+.close-dashboard-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;        /* placé à droite pour rester visible */
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #fff;
+    background: rgba(0,0,0,.4);
+    border: none;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    cursor: pointer;
+    z-index: 960;
+    transition: background .3s ease;
+}
+.close-dashboard-btn:hover {
+    background: rgba(0,0,0,.6);
+}
+
+/* ---------------------------------------------------------
+   4. Header compact
+--------------------------------------------------------- */
+.dashboard-header {
+    height: 15%;
+    padding: 4px;
+    margin-bottom: 3px;
+    text-align: center;
+    font-size: 0.7em;
+    border-bottom: 1px solid #eee;
+    overflow: hidden;
+}
+
+/* ---------------------------------------------------------
+   5. Contrôles : 80 % inputs / 20 % bouton vert
+--------------------------------------------------------- */
+.dashboard-controls {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 8px;
+    padding: 6px;
+    background: #fafafa;
+    border-bottom: 1px solid #eee;
+    font-size: 0.7em;
+    align-items: stretch;
+}
+
+/* Colonne gauche : inputs */
+.dashboard-inputs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3px;
+}
+.param-input-row label {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 2px;
+}
+.param-input-row input {
+    font-size: 0.5em;
+    padding: 2px 2px;
+    height: 10px;
+    width: 60%;
+}
+
+/* Colonne droite : bouton vert */
+.simulate-btn {
+    width: 100%;
+    height: 100%;
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 6px;
+    background: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.1s ease;
+}
+.simulate-btn:hover {
+    background: #388e3c;
+}
+.simulate-btn:active {
+    transform: scale(0.95);
+}
+
+/* ---------------------------------------------------------
+   6. Grille de graphiques
+--------------------------------------------------------- */
+.dashboard-charts-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    gap: 20px;
+    padding: 20px;
+    flex-grow: 1;
+    overflow: hidden;
+}
+.cloned-chart-wrapper {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.05);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 0;
+}
+.chart-title {
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #1a237e;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+/* ---------------------------------------------------------
+   7. Media Queries
+--------------------------------------------------------- */
+@media (min-width: 600px) {
+    .dashboard-charts-grid {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+}
+@media (max-width: 599px) {
+    .dashboard-controls {
+        grid-template-columns: 1fr;
+    }
+    .dashboard-inputs {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ---------------------------------------------------------
+   8. 🔧  FIX : rendre les acronymes visibles dans le sélecteur
+--------------------------------------------------------- */
+/* Parti-select et lobby-select – labels lisibles */
+#partiSelect,
+#lobbySelect,
+.chart-selector.fullscreen-selector {
+    font-size: 0.9em;
+    color: #1a237e;
+    background: #fafafa;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 4px 6px;
+    min-width: 120px;
+    appearance: menulist;          /* arrow visible on mobile */
+}
+
+#partiSelect option,
+#lobbySelect option,
+.chart-selector.fullscreen-selector option {
+    color: #000;
+    background: #fff;
+}
+
+/* petite marge sous le sélecteur dans les tuiles */
+.cloned-chart-wrapper .chart-selector {
+    margin-top: 6px;
+}

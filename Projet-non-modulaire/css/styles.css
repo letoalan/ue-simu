@@ -1,0 +1,18 @@
+@import url('dependancy/variables.css');
+@import url('dependancy/header.css');
+@import url('dependancy/navigation.css');
+@import url('dependancy/carrousel.css');
+@import url('dependancy/main-content.css');
+@import url('dependancy/transition.css');
+@import url('dependancy/body.css');
+
+/* --- Base de l'application --- */
+html, body {
+    height: 100%; /* Règle la plus importante pour que les hauteurs en % fonctionnent */
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    overflow-x: hidden; /* Empêche le défilement horizontal accidentel */
+}
