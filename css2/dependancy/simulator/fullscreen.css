@@ -7,8 +7,8 @@
     position: fixed;
     inset: 0;
     background: rgba(0, 0, 0, 0.65);
-    z-index: 9999; /* ✅ identique à l’origine */
-    display: none; /* ✅ masqué jusqu’à activation JS */
+    z-index: 9999;
+    display: none;
     align-items: center;
     justify-content: center;
     animation: fadeIn 0.25s ease;
@@ -22,9 +22,9 @@
 /* Conteneur interne */
 .fullscreen-modal-content {
     position: relative;
-    width: 90vw;
-    height: 90vh;
-    max-width: 1200px;
+    width: 95vw;
+    height: 95vh;
+    max-width: 1500px;
     background: white;
     border-radius: 8px;
     display: grid;
@@ -33,41 +33,52 @@
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
 }
 
-/* Bouton de fermeture – visible uniquement quand modal ouvert */
-.fullscreen-close-btn {
-    position: absolute;
-    top: 12px;
-    right: 12px;
-    width: 36px;
-    height: 36px;
-    background: rgba(0, 0, 0, 0.45);
-    color: white;
-    font-size: 1.4rem;
-    border: none;
-    border-radius: 50%;
-    cursor: pointer;
-    z-index: 10000; /* ✅ au-dessus du canvas mais sous le modal global */
-    transition: background 0.25s ease;
-}
-.fullscreen-close-btn:hover {
-    background: rgba(0, 0, 0, 0.75);
-}
-
 /* Panneau de contrôles */
 .fullscreen-controls-panel {
-    padding: 12px 16px;
+    padding: 16px;
     background: #f7f7f7;
     border-bottom: 1px solid #e0e0e0;
+    display: grid;
+    grid-template-columns: 1fr 1fr 0.5fr; /* Trois colonnes: 2 pour les inputs, 1 pour les actions */
+    gap: 20px;
+    align-items: start;
+}
+
+/* Cibler les conteneurs d'input pour les deux premières colonnes */
+.fullscreen-controls-panel > .input-group-container:nth-child(1) { grid-column: 1; }
+.fullscreen-controls-panel > .input-group-container:nth-child(2) { grid-column: 2; }
+
+/* Conteneur pour les actions dans la troisième colonne */
+.fullscreen-actions-column {
+    grid-column: 3;
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    gap: 10px;
-    font-size: 0.9em;
+    flex-direction: column;
+    gap: 12px;
+    align-items: stretch; /* Les éléments prennent toute la largeur */
+}
+
+/* Style pour le bouton de fermeture, SANS position absolue */
+.fullscreen-close-btn {
+    /* La position absolue est retirée pour l'intégrer au flux */
+    width: 100%; /* Prend toute la largeur de sa colonne */
+    padding: 8px 12px;
+    background: #e0e0e0;
+    color: #333;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.25s ease, color 0.25s ease;
+    order: 3; /* Placé en dernier dans la colonne des actions */
+}
+.fullscreen-close-btn:hover {
+    background: #d1362c;
+    color: white;
 }
 
 /* Canvas */
 .fullscreen-canvas-container {
-    flex: 1;
     padding: 10px;
     overflow: hidden;
 }
@@ -77,6 +88,17 @@
 }
 
 /* Responsive */
+@media (max-width: 900px) { /* Point de rupture ajusté pour la nouvelle disposition */
+    .fullscreen-controls-panel {
+        grid-template-columns: 1fr 1fr; /* Deux colonnes sur tablette */
+    }
+    .fullscreen-actions-column {
+        grid-column: 1 / -1; /* La colonne d'actions prend toute la largeur */
+        flex-direction: row; /* Les actions sont en ligne */
+        justify-content: space-around;
+    }
+}
+
 @media (max-width: 600px) {
     .fullscreen-modal-content {
         width: 100vw;
@@ -84,7 +106,9 @@
         border-radius: 0;
     }
     .fullscreen-controls-panel {
-        flex-direction: column;
-        align-items: stretch;
+        grid-template-columns: 1fr; /* Une seule colonne sur mobile */
+    }
+    .fullscreen-actions-column {
+        flex-direction: column; /* Les actions reviennent en colonne */
     }
 }

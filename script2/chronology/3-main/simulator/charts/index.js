@@ -1,114 +1,277 @@
-/* ===========================================================
-   chronology/3-main/simulator/charts/index.js
-   Chart.js – toutes les fonctions de tracé
-   =========================================================== */
+import { ChartInstances, AppState, lobbies, simulationYears, partis } from '../../../../state/index.js';
 
-import { state } from '../../../../state/index.js';
-
-/* ------------------------------------------------------------
-   Fonction utilitaire – cycle de vie Chart.js
------------------------------------------------------------- */
+/**
+ * Crée ou met à jour un graphique Chart.js sur un canvas donné.
+ * Gère la destruction de l'instance précédente si elle existe.
+ * @param {string} chartId L'ID du canvas HTML pour le graphique.
+ * @param {string} type Le type de graphique (ex: 'line', 'bar').
+ * @param {object} data Les données du graphique.
+ * @param {object} options Les options de configuration du graphique.
+ * @returns {Chart|null} La nouvelle instance du graphique Chart.js, ou null en cas d'erreur.
+ */
 export function createOrUpdateChart(chartId, type, data, options) {
-    const canvas = document.getElementById(chartId);
-    if (!canvas) return null;
-    const ctx = canvas.getContext('2d');
+    const ctx = document.getElementById(chartId);
+    if (!ctx) {
+        console.error(`ERREUR: Canvas '${chartId}' non trouvé.`);
+        return null;
+    }
 
-    if (window.charts?.[chartId]) window.charts[chartId].destroy();
+    if (ChartInstances[chartId]) {
+        ChartInstances[chartId].destroy();
+    }
 
-    const chart = new Chart(ctx, { type, data, options });
-    (window.charts ||= {})[chartId] = chart;
-    return chart;
+    const newChartInstance = new Chart(ctx, { type, data, options });
+    ChartInstances[chartId] = newChartInstance;
+    return newChartInstance;
 }
 
-/* ------------------------------------------------------------
-   1.  EU
------------------------------------------------------------- */
-export function plotEU(years, data, scenario) {
-    const datasets = scenario === 1
-        ? [
-            { label: 'Croissance (%)',  data: data.arr1, borderColor: '#1976d2', yAxisID: 'y3' },
-            { label: 'Gini',            data: data.arr2, borderColor: '#ff9800', yAxisID: 'y2' },
-            { label: 'CO₂/hab (t)',     data: data.arr3, borderColor: '#388e3c', yAxisID: 'y3' },
-            { label: 'VEB',             data: data.arr4, borderColor: '#8e24aa', yAxisID: 'y'  },
-            { label: 'Satisfaction (0-1)', data: data.satisArr, borderColor: '#d32f2f', yAxisID: 'y2' }
-        ]
-        : [
-            { label: 'Croissance (%)',  data: data.arr1, borderColor: '#1976d2', yAxisID: 'y3' },
-            { label: 'Normandie',       data: data.arr2, borderColor: '#ff9800', yAxisID: 'y'  },
-            { label: 'V-Dem',           data: data.arr3, borderColor: '#388e3c', yAxisID: 'y2' },
-            { label: 'IDH',             data: data.arr4, borderColor: '#8e24aa', yAxisID: 'y2' },
-            { label: 'Satisfaction (0-1)', data: data.satisArr, borderColor: '#d32f2f', yAxisID: 'y2' }
-        ];
+export function plotEU(years, euData, scenario) {
+    let datasets = [];
+    let scales = {};
 
-    createOrUpdateChart('euChart', 'line', {
-        labels: years,
-        datasets
-    }, {
+    if (scenario === 1) {
+        datasets = [
+            { label: "Croissance (%)", data: euData.arr1, borderColor: "#1976d2", yAxisID: 'y3' },
+            { label: "Gini", data: euData.arr2, borderColor: "#ff9800", yAxisID: 'y2' },
+            { label: "CO₂/hab (t)", data: euData.arr3, borderColor: "#388e3c", yAxisID: 'y3' },
+            { label: "VEB", data: euData.arr4, borderColor: "#8e24aa", yAxisID: 'y' },
+            { label: "Satisfaction (0-1)", data: euData.satisArr, borderColor: "#d32f2f", borderWidth: 4, yAxisID: 'y2' }
+        ];
+        scales = {
+            y: { beginAtZero: true, min: 0, max: 100, title: { display: true, text: 'VEB' } },
+            y2: { position: 'right', beginAtZero: true, min: 0, max: 1, title: { display: true, text: 'Gini & Satisfaction' }, grid: { drawOnChartArea: false } },
+            y3: { position: 'right', beginAtZero: true, min: 0, max: 20, title: { display: true, text: 'Croissance & CO₂' }, grid: { drawOnChartArea: false } }
+        };
+    } else {
+        datasets = [
+            { label: "Croissance (%)", data: euData.arr1, borderColor: "#1976d2", yAxisID: 'y3' },
+            { label: "Normandie", data: euData.arr2, borderColor: "#ff9800", yAxisID: 'y' },
+            { label: "V-Dem", data: euData.arr3, borderColor: "#388e3c", yAxisID: 'y2' },
+            { label: "IDH", data: euData.arr4, borderColor: "#8e24aa", yAxisID: 'y2' },
+            { label: "Satisfaction (0-1)", data: euData.satisArr, borderColor: "#d32f2f", borderWidth: 4, yAxisID: 'y2' }
+        ];
+        scales = {
+            y: { beginAtZero: true, min: 0, max: 100, title: { display: true, text: 'Normandie' } },
+            y2: { position: 'right', beginAtZero: true, min: 0, max: 1, title: { display: true, text: 'V-Dem, IDH & Satisfaction' }, grid: { drawOnChartArea: false } },
+            y3: { position: 'right', beginAtZero: true, min: 0, max: 10, title: { display: true, text: 'Croissance (%)' }, grid: { drawOnChartArea: false } }
+        };
+    }
+
+    datasets.forEach(ds => {
+        ds.backgroundColor = ds.borderColor + '22';
+        ds.borderWidth = ds.borderWidth || 2.5;
+        ds.fill = false;
+        ds.tension = 0.4;
+    });
+
+    createOrUpdateChart('euChart', 'line', { labels: years, datasets }, {
         responsive: true,
-        maintainAspectRatio: false,
-        plugins: { legend: { position: 'top' } },
-        scales: { y: { beginAtZero: true } }
+        plugins: { title: { display: true, text: 'Évolution des indicateurs européens' } },
+        scales: scales
     });
 }
 
-/* ------------------------------------------------------------
-   2.  Pays
------------------------------------------------------------- */
-export function plotCountry(years, data, scenario) {
-    const country = state.EU_STATES_DATA.find(s => s.code === state.get.currentCountry());
-    if (!country) return;
+export function plotCountry(years, data, country, scenario) {
+    let datasets = [];
+    let scales = {};
 
-    plotEU(years, data, scenario); // même structure, titre adapté
-    const chart = window.charts.countryChart;
-    if (chart) chart.options.plugins.title.text = `Évolution – ${country.name}`;
+    if (scenario === 1) {
+        datasets = [
+            { label: "Croissance (%)", data: data.arr1, borderColor: "#1976d2", yAxisID: 'y3' },
+            { label: "Gini", data: data.arr2, borderColor: "#ff9800", yAxisID: 'y2' },
+            { label: "CO₂/hab (t)", data: data.arr3, borderColor: "#388e3c", yAxisID: 'y3' },
+            { label: "VEB", data: data.arr4, borderColor: "#8e24aa", yAxisID: 'y' },
+            { label: "Satisfaction (0-1)", data: data.satisArr, borderColor: "#d32f2f", borderWidth: 4, yAxisID: 'y2' }
+        ];
+        scales = {
+            y: { beginAtZero: true, min: 0, max: 100, title: { display: true, text: 'VEB' } },
+            y2: { position: 'right', beginAtZero: true, min: 0, max: 1, title: { display: true, text: 'Gini & Satisfaction' }, grid: { drawOnChartArea: false } },
+            y3: { position: 'right', beginAtZero: true, min: 0, max: 20, title: { display: true, text: 'Croissance & CO₂' }, grid: { drawOnChartArea: false } }
+        };
+    } else {
+        datasets = [
+            { label: "Croissance (%)", data: data.arr1, borderColor: "#1976d2", yAxisID: 'y3' },
+            { label: "Normandie", data: data.arr2, borderColor: "#ff9800", yAxisID: 'y' },
+            { label: "V-Dem", data: data.arr3, borderColor: "#388e3c", yAxisID: 'y2' },
+            { label: "IDH", data: data.arr4, borderColor: "#8e24aa", yAxisID: 'y2' },
+            { label: "Satisfaction (0-1)", data: data.satisArr, borderColor: "#d32f2f", borderWidth: 4, yAxisID: 'y2' }
+        ];
+        scales = {
+            y: { beginAtZero: true, min: 0, max: 100, title: { display: true, text: 'Normandie' } },
+            y2: { position: 'right', beginAtZero: true, min: 0, max: 1, title: { display: true, text: 'V-Dem, IDH & Satisfaction' }, grid: { drawOnChartArea: false } },
+            y3: { position: 'right', beginAtZero: true, min: 0, max: 10, title: { display: true, text: 'Croissance (%)' }, grid: { drawOnChartArea: false } }
+        };
+    }
+
+    datasets.forEach(ds => {
+        ds.backgroundColor = ds.borderColor + '22';
+        ds.borderWidth = ds.borderWidth || 2.5;
+        ds.fill = false;
+        ds.tension = 0.4;
+    });
+
+    createOrUpdateChart('countryChart', 'line', { labels: years, datasets }, {
+        responsive: true,
+        plugins: { title: { display: true, text: `Évolution des indicateurs – ${country.name}` } },
+        scales: scales
+    });
 }
 
-/* ------------------------------------------------------------
-   3.  Partis
------------------------------------------------------------- */
-export function plotPolitique(years, data, parti) {
-    const p = state.POLITICAL_PARTIES_DATA.find(p => p.code === state.get.currentParti());
-    if (!p) return;
+export function plotPolitique(years, parti) {
+    if (!parti || !parti.satisfactionArr) return;
 
     const datasets = [
-        { label: 'Députés',            data: parti.mepsArr,        borderColor: p.color,  stepped: true },
-        { label: 'Commissaires',       data: parti.commissairesArr, borderColor: '#888',   stepped: true },
-        { label: 'Conseil (% États)',  data: parti.conseilArr,    borderColor: '#1976d2', stepped: true },
-        { label: 'Présidence (%)',     data: parti.presArr,       borderColor: '#FFD700', stepped: true },
-        { label: 'Satisfaction (%)',   data: parti.satisfactionArr, borderColor: '#d32f2f' }
+        { label: 'Satisfaction (%)', data: parti.satisfactionArr, borderColor: '#d32f2f', borderDash: [10, 5], borderWidth: 3, yAxisID: 'y2' },
+        { label: 'Députés', data: parti.mepsArr, borderColor: parti.couleur, borderWidth: 3, stepped: true, yAxisID: 'y' },
+        { label: 'Commissaires', data: parti.commissairesArr, borderColor: '#888', borderWidth: 2, stepped: true, yAxisID: 'y' },
+        { label: 'Conseil (% États)', data: parti.conseilArr, borderColor: '#1976d2', borderWidth: 2, stepped: true, yAxisID: 'y2' },
+        { label: 'Présidence (%)', data: parti.presArr, borderColor: '#FFD700', borderWidth: 2, stepped: true, yAxisID: 'y2' }
     ];
 
-    createOrUpdateChart('politiqueChart', 'line', {
-        labels: years,
-        datasets
-    }, {
+    datasets.forEach(ds => {
+        ds.backgroundColor = ds.borderColor + '22';
+        ds.fill = false;
+        ds.tension = 0.4;
+    });
+
+    createOrUpdateChart('politiqueChart', 'line', { labels: years, datasets }, {
         responsive: true,
-        maintainAspectRatio: false,
-        plugins: { title: { display: true, text: `Projections – ${p.name}` } }
+        plugins: { title: { display: true, text: `Projections politiques - ${parti.nom}` } },
+        scales: {
+            y: { beginAtZero: true, title: { display: true, text: 'Députés / Commissaires' } },
+            y2: { position: 'right', beginAtZero: true, min: 0, max: 100, title: { display: true, text: '% Satisfaction/Conseil/Présidence' }, grid: { drawOnChartArea: false } }
+        }
     });
 }
 
-/* ------------------------------------------------------------
-   4.  Lobbies
------------------------------------------------------------- */
-export function plotLobby(years, data, lobby) {
-    const l = state.LOBBY_GROUPS_DATA.find(l => l.code === state.get.currentLobby());
-    if (!l) return;
+export function showScore(satisArr, elementId) {
+    const element = document.getElementById(elementId);
+    if (!element || !satisArr || satisArr.length === 0) return;
+
+    const adhInit = satisArr[0];
+    const adhFin = satisArr[satisArr.length - 1];
+    const ecart = adhFin - adhInit;
+
+    const scoreSucces = (0.4 * adhFin + 0.4 * (1 - Math.abs(0.8 - adhFin)) + 0.2 * ecart) * 100;
+    const icon = ecart > 0.1 ? "📈" : ecart < -0.1 ? "📉" : "➡️";
+
+    element.innerHTML = `
+        <div style="margin-bottom:4px;">
+            <b>${icon} Score de réussite :</b> <span style="font-weight:600">${scoreSucces.toFixed(1)}/100</span>
+        </div>
+        <div style="font-size:0.94em; color:#555; line-height:1.4;">
+            <div>• Niveau initial: ${(adhInit * 100).toFixed(1)}%</div>
+            <div>• Niveau final: ${adhFin.toFixed(2)}%</div>
+            <div>• Progression: ${ecart >= 0 ? "+" : ""}${(ecart * 100).toFixed(1)} points</div>
+        </div>`;
+}
+
+/**
+ * Crée ou met à jour le graphique des Lobbies.
+ * Lit l'état actuel depuis AppState et les données de simulation depuis l'objet `lobbies`.
+ */
+export function createLobbyChart() {
+    const selectedLobbyKey = AppState.currentLobbyId;
+    const lobby = lobbies[selectedLobbyKey];
+
+    if (!lobby) {
+        console.error("Lobby non trouvé pour la clé :", selectedLobbyKey);
+        return;
+    }
+
+    // Vérification que les données de simulation existent (générées par `simulerLobbies`)
+    if (!lobby.reputationArr || lobby.reputationArr.length < simulationYears.length) {
+        console.warn(`WARN: Données de simulation pour le lobby "${lobby.nom}" non disponibles. Le graphique ne sera pas tracé.`);
+        if (ChartInstances.lobbyChart) {
+            ChartInstances.lobbyChart.destroy();
+            delete ChartInstances.lobbyChart;
+        }
+        return;
+    }
 
     const datasets = [
-        { label: 'Réputation',         data: lobby.reputationArr,   borderColor: '#9c27b0' },
-        { label: 'Influence États',    data: lobby.infEtatsArr,     borderColor: '#1976d2' },
-        { label: 'Influence Parlement',data: lobby.infParlementArr, borderColor: '#388e3c' },
-        { label: 'Influence Commission', data: lobby.infCommissionArr, borderColor: '#f57c00' }
+        {
+            label: 'Réputation',
+            data: lobby.reputationArr,
+            borderColor: '#9c27b0',
+            backgroundColor: '#9c27b022',
+            borderWidth: 2,
+            fill: false,
+            tension: 0.4
+        },
+        {
+            label: 'Influence États',
+            data: lobby.infEtatsArr,
+            borderColor: '#1976d2',
+            backgroundColor: '#1976d222',
+            borderWidth: 2,
+            fill: false,
+            tension: 0.4
+        },
+        {
+            label: 'Influence Parlement',
+            data: lobby.infParlementArr,
+            borderColor: '#388e3c',
+            backgroundColor: '#388e3c22',
+            borderWidth: 2,
+            fill: false,
+            tension: 0.4
+        },
+        {
+            label: 'Influence Commission',
+            data: lobby.infCommissionArr,
+            borderColor: '#f57c00',
+            backgroundColor: '#f57c0022',
+            borderWidth: 2,
+            fill: false,
+            tension: 0.4
+        }
     ];
 
     createOrUpdateChart('lobbyChart', 'line', {
-        labels: years,
-        datasets
+        labels: simulationYears,
+        datasets: datasets
     }, {
         responsive: true,
-        maintainAspectRatio: false,
-        plugins: { title: { display: true, text: `Évolution – ${l.name}` } },
-        scales: { y: { beginAtZero: true, max: 100 } }
+        plugins: {
+            legend: { position: 'top' },
+            title: { display: true, text: `Évolution du lobby : ${lobby.nom}` },
+            tooltip: { mode: 'index', intersect: false }
+        },
+        scales: {
+            y: {
+                beginAtZero: true,
+                max: 100
+            }
+        }
     });
+
+    // Afficher le score
+    showLobbyScore(lobby);
+}
+
+/**
+ * Affiche les détails du score pour le lobby sélectionné.
+ * @param {object} lobby - L'objet du lobby avec ses données de simulation.
+ */
+function showLobbyScore(lobby) {
+    const scoreDiv = document.getElementById('lobbyScore');
+    if (!scoreDiv) {
+        console.error("Element 'lobbyScore' non trouvé.");
+        return;
+    }
+
+    const lastYearIndex = simulationYears.length - 1;
+
+    if (lobby.scoreDeReussite !== undefined && lobby.reputationArr?.length > lastYearIndex) {
+        scoreDiv.innerHTML = `
+            <h3>Score de Réussite: ${Math.round(lobby.scoreDeReussite)}%</h3>
+            <div>Réputation Finale: ${lobby.reputationArr[lastYearIndex].toFixed(2)}</div>
+            <div>Influence États Finale: ${lobby.infEtatsArr[lastYearIndex].toFixed(2)}</div>
+            <div>Influence Parlement Finale: ${lobby.infParlementArr[lastYearIndex].toFixed(2)}</div>
+            <div>Influence Commission Finale: ${lobby.infCommissionArr[lastYearIndex].toFixed(2)}</div>
+        `;
+    } else {
+        scoreDiv.innerHTML = `<p>Données de score non disponibles.</p>`;
+    }
 }

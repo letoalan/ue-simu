@@ -1,10 +1,11 @@
 /* ---------------------------------------------------------
-   dashboard.css : Version compacte (inputs + bouton vert)
+   dashboard.css : Version corrigée avec fermeture en bas,
+   titres plus lisibles, inputs visibles
    --------------------------------------------------------- */
-@import url('fullscreen.css'); /* lien vers le module zoom */
+@import url('fullscreen.css');
 
 /* ---------------------------------------------------------
-   1. Bouton flottant du tableau de bord
+   1. Bouton flottant d’ouverture
 --------------------------------------------------------- */
 .floating-dashboard-btn {
     position: fixed;
@@ -46,85 +47,85 @@
     transition: transform 0.4s cubic-bezier(.25,.46,.45,.94);
     display: flex;
     flex-direction: column;
-    overflow: hidden;
 }
 .dashboard-panel.open {
     transform: translateX(0);
 }
 
 /* ---------------------------------------------------------
-   3. Bouton de fermeture (visible et accessible)
+   3. Bandeau de fermeture (tout en bas)
 --------------------------------------------------------- */
+.dashboard-footer {
+    padding: 8px;
+    border-top: 1px solid #ccc;
+    background: #f7f7f7;
+}
 .close-dashboard-btn {
-    position: absolute;
-    top: 10px;
-    right: 10px;        /* placé à droite pour rester visible */
-    font-size: 1.8em;
+    width: 100%;
+    padding: 10px;
+    background: #e0e0e0;
+    color: #333;
+    font-size: 1em;
     font-weight: bold;
-    color: #fff;
-    background: rgba(0,0,0,.4);
-    border: none;
-    border-radius: 50%;
-    width: 36px;
-    height: 36px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
     cursor: pointer;
-    z-index: 960;
-    transition: background .3s ease;
+    transition: background 0.25s ease, color 0.25s ease;
 }
 .close-dashboard-btn:hover {
-    background: rgba(0,0,0,.6);
+    background: #d1362c;
+    color: #fff;
 }
 
 /* ---------------------------------------------------------
    4. Header compact
 --------------------------------------------------------- */
 .dashboard-header {
-    height: 15%;
-    padding: 4px;
-    margin-bottom: 3px;
+    padding: 8px;
     text-align: center;
-    font-size: 0.7em;
+    font-size: 1em;
     border-bottom: 1px solid #eee;
-    overflow: hidden;
+    background: #fafafa;
 }
 
 /* ---------------------------------------------------------
-   5. Contrôles : 80 % inputs / 20 % bouton vert
+   5. Zone de contrôles : inputs + bouton
 --------------------------------------------------------- */
 .dashboard-controls {
     display: grid;
     grid-template-columns: 4fr 1fr;
     gap: 8px;
-    padding: 6px;
+    padding: 10px;
     background: #fafafa;
     border-bottom: 1px solid #eee;
-    font-size: 0.7em;
-    align-items: stretch;
+    font-size: 0.85em;
+    align-items: start;
 }
 
 /* Colonne gauche : inputs */
 .dashboard-inputs {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 3px;
+    gap: 8px;
 }
 .param-input-row label {
     display: block;
-    font-size: 1em;
+    font-size: 0.9em;
     margin-bottom: 2px;
 }
 .param-input-row input {
-    font-size: 0.5em;
-    padding: 2px 2px;
-    height: 10px;
-    width: 60%;
+    font-size: 0.85em;
+    padding: 4px 6px;
+    height: 26px;         /* un peu plus compact que 30px */
+    width: 100%;
+    box-sizing: border-box;
 }
 
 /* Colonne droite : bouton vert */
 .simulate-btn {
     width: 100%;
     height: 100%;
-    font-size: 2em;
+    font-size: 1.1em;     /* réduit pour éviter qu’il déborde */
     font-weight: bold;
     border-radius: 6px;
     background: #4caf50;
@@ -141,16 +142,15 @@
 }
 
 /* ---------------------------------------------------------
-   6. Grille de graphiques
+   6. Grille des graphiques
 --------------------------------------------------------- */
 .dashboard-charts-grid {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: auto;
-    gap: 20px;
-    padding: 20px;
+    gap: 16px;
+    padding: 16px;
     flex-grow: 1;
-    overflow: hidden;
+    overflow-y: auto; /* permet de scroller pour tout voir */
 }
 .cloned-chart-wrapper {
     background: #fff;
@@ -160,17 +160,35 @@
     box-shadow: 0 2px 5px rgba(0,0,0,.05);
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     min-height: 0;
+    overflow: hidden;
 }
 .chart-title {
     font-weight: bold;
-    font-size: 0.8em;
+    font-size: 1em;       /* titres plus lisibles */
+    line-height: 1.3em;
     color: #1a237e;
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 6px;
 }
+
+/* Sélecteurs corrigés pour être visibles sans déborder */
+.cloned-chart-wrapper .sim-selector {
+    font-size: 0.95em;
+    color: #1a237e;
+    background: #fafafa;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px;
+    margin-top: 6px;
+    width: 95%;              /* prend presque toute la largeur */
+    max-width: none;          /* on enlève la contrainte trop stricte */
+    box-sizing: border-box;
+    white-space: normal;      /* permet le retour à la ligne */
+    overflow: visible;        /* plus de découpe */
+}
+
 
 /* ---------------------------------------------------------
    7. Media Queries
@@ -178,7 +196,6 @@
 @media (min-width: 600px) {
     .dashboard-charts-grid {
         grid-template-columns: 1fr 1fr;
-        grid-template-rows: 1fr 1fr;
     }
 }
 @media (max-width: 599px) {
@@ -190,31 +207,8 @@
     }
 }
 
-/* ---------------------------------------------------------
-   8. 🔧  FIX : rendre les acronymes visibles dans le sélecteur
---------------------------------------------------------- */
-/* Parti-select et lobby-select – labels lisibles */
-#partiSelect,
-#lobbySelect,
-.chart-selector.fullscreen-selector {
-    font-size: 0.9em;
-    color: #1a237e;
-    background: #fafafa;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    padding: 4px 6px;
-    min-width: 120px;
-    appearance: menulist;          /* arrow visible on mobile */
-}
-
-#partiSelect option,
-#lobbySelect option,
-.chart-selector.fullscreen-selector option {
+/* Options des sélecteurs */
+.sim-selector option {
     color: #000;
     background: #fff;
-}
-
-/* petite marge sous le sélecteur dans les tuiles */
-.cloned-chart-wrapper .chart-selector {
-    margin-top: 6px;
 }

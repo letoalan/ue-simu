@@ -50,13 +50,31 @@
 /* --- Zone d'affichage (Photo + Texte) --- */
 .content-display-area {
     display: flex;
-    flex-wrap: wrap;
     gap: 20px;
     width: 100%;
 }
 
-.photo-container {
-    flex: 1 1 48%; /* Prend ~50% de l'espace, permet de passer à la ligne sur petit écran */
+/* Disposition pour les images paysage/carrées (verticale, empilée) */
+.content-display-area.layout-vertical {
+    flex-direction: column;
+}
+.content-display-area.layout-vertical .photo-container,
+.content-display-area.layout-vertical .text-container {
+    width: 100%;
+}
+
+/* Disposition pour les images portrait (horizontale, côte à côte) */
+.content-display-area.layout-horizontal {
+    flex-direction: row;
+    flex-wrap: wrap; /* Permet de passer à la ligne sur les petits écrans */
+    align-items: center; /* CHANGEMENT: Centre les éléments verticalement */
+}
+.content-display-area.layout-horizontal .photo-container {
+    flex: 1 1 40%;
+    max-width: 450px; /* Limite la largeur de la photo portrait pour ne pas qu'elle soit trop grande */
+}
+.content-display-area.layout-horizontal .text-container {
+    flex: 1 1 55%;
 }
 
 .photo-container img {
@@ -68,8 +86,7 @@
 }
 
 .text-container {
-    flex: 1 1 48%; /* Prend ~50% de l'espace */
-    font-size: 1.05em;
+    font-size: 0.85em;
     line-height: 1.7;
     text-align: justify;
 }

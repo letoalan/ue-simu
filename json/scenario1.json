@@ -1,0 +1,837 @@
+{
+  "scenario": 1,
+  "directive": [
+    {
+      "id": 1,
+      "nom": "Pacte vert innovant",
+      "orientation": "Investir 2% du PIB dans les énergies renouvelables",
+      "proposition": "Financement massif de projets solaires/éoliens et R&D hydrogène",
+      "description": "Réduire les émissions de CO₂ de 50% d’ici 2035",
+      "declaration_intention": "La présente directive a pour objectif de renforcer l’action de l’Union européenne en faveur de la transition énergétique et de la lutte contre le changement climatique. Elle entend mobiliser des investissements massifs dans les énergies renouvelables et l’innovation technologique, afin de réduire significativement les émissions de CO₂, d’améliorer la sécurité énergétique, et de promouvoir une croissance durable et compétitive au sein du marché intérieur. Cette initiative s’inscrit dans la continuité des engagements pris par le Conseil européen et vise à garantir une mise en œuvre harmonisée et ambitieuse dans l’ensemble des États membres, en cohérence avec les priorités du Pacte vert pour l’Europe.",
+      "statistiques_depart": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.3,
+        "co2_eu": 8.0,
+        "veb_eu": 80
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "1A",
+          "description": "Augmenter la part du PIB investi à 2,5%",
+          "impact": {
+            "pib_eu": 2.5,
+            "gini_eu": 0.29,
+            "co2_eu": 6.0,
+            "veb_eu": 85
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "1B",
+          "description": "Cibler prioritairement les régions défavorisées",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.25,
+            "co2_eu": 7.5,
+            "veb_eu": 83
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "1C",
+          "description": "Imposer un moratoire sur les centrales à charbon",
+          "impact": {
+            "pib_eu": 1.8,
+            "gini_eu": 0.31,
+            "co2_eu": 5.0,
+            "veb_eu": 82
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "1D",
+          "description": "Accroître l’innovation dans l’hydrogène vert",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.29,
+            "co2_eu": 7.0,
+            "veb_eu": 86
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "1E",
+          "description": "Réduire l’investissement à 1,5% du PIB",
+          "impact": {
+            "pib_eu": 1.7,
+            "gini_eu": 0.32,
+            "co2_eu": 9.0,
+            "veb_eu": 78
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "1F",
+          "description": "Exclure l’industrie lourde des subventions",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.31,
+            "co2_eu": 8.5,
+            "veb_eu": 77
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "1G",
+          "description": "Prioriser l’emploi local",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.27,
+            "co2_eu": 8.2,
+            "veb_eu": 81
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "1H",
+          "description": "Relancer le nucléaire civil",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.3,
+            "co2_eu": 6.0,
+            "veb_eu": 77
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Marché unique numérique",
+      "orientation": "Harmoniser les régulations IA et cloud",
+      "proposition": "Créer un cadre légal pour les données et l’IA éthique",
+      "description": "Augmenter la part du numérique dans le PIB à 15%",
+      "declaration_intention": "La présente directive vise à accélérer la transformation numérique de l’Union européenne en harmonisant les cadres réglementaires relatifs à l’intelligence artificielle et à l’informatique en nuage. Elle entend garantir la sécurité, la compétitivité et la souveraineté numérique de l’UE, tout en protégeant les droits fondamentaux des citoyens et en stimulant l’innovation et la croissance inclusive. Cette initiative s’inscrit dans la stratégie du marché unique numérique et répond aux priorités du Conseil européen en matière de transition numérique, d’éthique et de compétitivité globale.",
+      "statistiques_depart": {
+        "pib_eu": 2.5,
+        "gini_eu": 0.32,
+        "co2_eu": 7.0,
+        "veb_eu": 78
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "2A",
+          "description": "Renforcer la protection des données personnelles",
+          "impact": {
+            "pib_eu": 2.4,
+            "gini_eu": 0.30,
+            "co2_eu": 7.0,
+            "veb_eu": 80
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "2B",
+          "description": "Taxer les géants du numérique",
+          "impact": {
+            "pib_eu": 2.7,
+            "gini_eu": 0.29,
+            "co2_eu": 6.9,
+            "veb_eu": 80
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "2C",
+          "description": "Soutenir les start-ups européennes",
+          "impact": {
+            "pib_eu": 2.8,
+            "gini_eu": 0.31,
+            "co2_eu": 6.8,
+            "veb_eu": 82
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "2D",
+          "description": "Limiter la surveillance de masse",
+          "impact": {
+            "pib_eu": 2.5,
+            "gini_eu": 0.30,
+            "co2_eu": 7.0,
+            "veb_eu": 81
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "2E",
+          "description": "Harmoniser la fiscalité numérique",
+          "impact": {
+            "pib_eu": 2.6,
+            "gini_eu": 0.30,
+            "co2_eu": 6.9,
+            "veb_eu": 79
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "2F",
+          "description": "Exclure les services essentiels de la régulation",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.33,
+            "co2_eu": 7.1,
+            "veb_eu": 77
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "2G",
+          "description": "Renforcer la cybersécurité",
+          "impact": {
+            "pib_eu": 2.6,
+            "gini_eu": 0.32,
+            "co2_eu": 6.8,
+            "veb_eu": 82
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "2H",
+          "description": "Limiter l’accès aux données personnelles",
+          "impact": {
+            "pib_eu": 2.4,
+            "gini_eu": 0.31,
+            "co2_eu": 7.0,
+            "veb_eu": 80
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Réforme financière agricole et agroécologique",
+      "orientation": "Réorienter les soutiens agricoles vers l’agroécologie et la durabilité",
+      "proposition": "Allouer 40% des subventions agricoles à l’agriculture biologique, à la réduction des pesticides et à la préservation des sols",
+      "description": "Renforcer la résilience, la durabilité et la compétitivité de l’agriculture européenne tout en réduisant les inégalités et l’impact environnemental.",
+      "declaration_intention": "La présente directive vise à accélérer la transition agroécologique en Europe en réformant l’allocation des soutiens agricoles. Elle entend encourager l’adoption de pratiques agricoles durables, la réduction de l’usage des pesticides, la préservation de la santé des sols et la promotion de l’agriculture biologique, tout en maintenant la compétitivité et la résilience du secteur. Cette initiative s’inscrit dans les priorités du Conseil européen en matière de souveraineté alimentaire, de protection de la biodiversité et de soutien équitable aux agriculteurs, conformément aux objectifs du Pacte vert pour l’Europe et aux engagements internationaux de l’Union.",
+      "statistiques_depart": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.28,
+        "co2_eu": 6.0,
+        "veb_eu": 82
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "3A",
+          "description": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.26,
+            "co2_eu": 5.5,
+            "veb_eu": 87
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "3B",
+          "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.27,
+            "co2_eu": 5.2,
+            "veb_eu": 85
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "3C",
+          "description": "Créer un fonds d’innovation pour la santé des sols",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.27,
+            "co2_eu": 5.8,
+            "veb_eu": 88
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "3D",
+          "description": "Soutenir les circuits courts et la relocalisation alimentaire",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.25,
+            "co2_eu": 5.9,
+            "veb_eu": 86
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "3E",
+          "description": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.29,
+            "co2_eu": 6.4,
+            "veb_eu": 80
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "3F",
+          "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.26,
+            "co2_eu": 6.1,
+            "veb_eu": 83
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "3G",
+          "description": "Inclure un soutien spécifique à l’irrigation durable",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.28,
+            "co2_eu": 6.0,
+            "veb_eu": 84
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "3H",
+          "description": "Reporter l’objectif de réduction des pesticides à 2040",
+          "impact": {
+            "pib_eu": 2.4,
+            "gini_eu": 0.29,
+            "co2_eu": 6.7,
+            "veb_eu": 79
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Flexisécurité européenne",
+      "orientation": "Chômage européen mutualisé (50% du salaire)",
+      "proposition": "Garantir un revenu transitoire pour les travailleurs en transition",
+      "description": "Réduire le chômage des jeunes à 8% et renforcer la cohésion sociale en Europe.",
+      "declaration_intention": "La présente directive entend instaurer un mécanisme européen de flexisécurité afin de soutenir les travailleurs confrontés à des transitions professionnelles et de renforcer la cohésion sociale dans l’Union. En mutualisant une partie du risque chômage au niveau européen et en garantissant un revenu transitoire, la directive vise à réduire les inégalités, améliorer la mobilité professionnelle et favoriser l’adaptation de la main-d’œuvre aux mutations économiques et technologiques. Cette initiative s’inscrit dans la continuité des priorités du Conseil européen en matière de solidarité, de compétitivité et de justice sociale.",
+      "statistiques_depart": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.27,
+        "co2_eu": 5.0,
+        "veb_eu": 85
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "4A",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.24,
+            "co2_eu": 5.0,
+            "veb_eu": 87
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "4B",
+          "description": "Inclure les travailleurs indépendants dans le dispositif",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.25,
+            "co2_eu": 5.0,
+            "veb_eu": 88
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "4C",
+          "description": "Financer la formation continue pour les demandeurs d’emploi",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.26,
+            "co2_eu": 4.8,
+            "veb_eu": 90
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "4D",
+          "description": "Soutenir la mobilité professionnelle transfrontalière",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.25,
+            "co2_eu": 4.9,
+            "veb_eu": 88
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "4E",
+          "description": "Limiter la couverture à 40% du salaire",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.29,
+            "co2_eu": 5.1,
+            "veb_eu": 84
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "4F",
+          "description": "Réserver le dispositif aux salariés en CDI",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.28,
+            "co2_eu": 5.0,
+            "veb_eu": 83
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "4G",
+          "description": "Soutenir prioritairement les régions en déclin industriel",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.26,
+            "co2_eu": 5.0,
+            "veb_eu": 87
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "4H",
+          "description": "Prioriser l’emploi local dans l’attribution des aides",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.25,
+            "co2_eu": 5.0,
+            "veb_eu": 86
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "Simplification et durabilité du reporting des entreprises",
+      "orientation": "Réforme des obligations de publication d’informations en matière de durabilité",
+      "proposition": "Alléger et harmoniser le reporting de durabilité pour les entreprises européennes, avec un report de deux ans pour certaines catégories et une simplification des exigences.",
+      "description": "Faciliter la compétitivité, la conformité et la transition durable des entreprises européennes par la simplification des obligations de reporting et la clarification des calendriers d’application.",
+      "declaration_intention": "La présente directive vise à simplifier et moderniser les obligations de publication d’informations en matière de durabilité imposées aux entreprises européennes, tout en assurant un haut niveau de transparence et de responsabilité. Elle entend réduire la charge administrative, clarifier les échéances d’application et garantir une mise en œuvre harmonisée dans l’ensemble des États membres. Cette initiative s’inscrit dans la stratégie de compétitivité durable de l’Union européenne et répond aux attentes du Conseil européen en matière de croissance, de transition écologique et de soutien aux entreprises.",
+      "statistiques_depart": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.30,
+        "co2_eu": 6.5,
+        "veb_eu": 80
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "5A",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+          "impact": {
+            "pib_eu": 1.9,
+            "gini_eu": 0.29,
+            "co2_eu": 6.3,
+            "veb_eu": 82
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "5B",
+          "description": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.29,
+            "co2_eu": 6.2,
+            "veb_eu": 85
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "5C",
+          "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.28,
+            "co2_eu": 6.5,
+            "veb_eu": 83
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "5D",
+          "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.30,
+            "co2_eu": 6.0,
+            "veb_eu": 84
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "5E",
+          "description": "Reporter de deux ans l’application pour les PME cotées",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.31,
+            "co2_eu": 6.7,
+            "veb_eu": 78
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "5F",
+          "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.30,
+            "co2_eu": 6.6,
+            "veb_eu": 80
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "5G",
+          "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.32,
+            "co2_eu": 6.7,
+            "veb_eu": 79
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "5H",
+          "description": "Exclure les micro-entreprises du champ d’application",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.31,
+            "co2_eu": 6.6,
+            "veb_eu": 78
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nom": "Industrie 5.0 et modernisation industrielle",
+      "orientation": "Subventionner à 30% les usines automatisées et décarbonées",
+      "proposition": "Moderniser l’industrie lourde (acier, ciment, chimie) par des investissements dans l’automatisation, la robotique et la décarbonation.",
+      "description": "Réduire l’empreinte carbone industrielle de 40% d’ici 2035 tout en renforçant la compétitivité et la résilience stratégique du tissu industriel européen.",
+      "declaration_intention": "La présente directive a pour objectif d’accélérer la modernisation du secteur industriel européen en soutenant l’automatisation, la digitalisation et la décarbonation des usines. Elle vise à renforcer la compétitivité, la souveraineté et la durabilité de l’industrie européenne, tout en réduisant de manière significative ses émissions de CO₂. Cette initiative s’inscrit dans la stratégie industrielle de l’Union européenne, en cohérence avec le Pacte vert et les priorités du Conseil européen en matière d’innovation, de transition écologique et de sécurité économique.",
+      "statistiques_depart": {
+        "pib_eu": 2.3,
+        "gini_eu": 0.31,
+        "co2_eu": 7.5,
+        "veb_eu": 76
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "6A",
+          "description": "Porter la subvention à 40% pour les usines les plus polluantes",
+          "impact": {
+            "pib_eu": 2.4,
+            "gini_eu": 0.30,
+            "co2_eu": 6.5,
+            "veb_eu": 78
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "6B",
+          "description": "Conditionner les aides à la création d’emplois locaux",
+          "impact": {
+            "pib_eu": 2.5,
+            "gini_eu": 0.28,
+            "co2_eu": 7.0,
+            "veb_eu": 77
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "6C",
+          "description": "Inclure un volet formation pour les travailleurs",
+          "impact": {
+            "pib_eu": 2.4,
+            "gini_eu": 0.29,
+            "co2_eu": 7.3,
+            "veb_eu": 78
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "6D",
+          "description": "Favoriser l’innovation dans les procédés industriels bas carbone",
+          "impact": {
+            "pib_eu": 2.6,
+            "gini_eu": 0.30,
+            "co2_eu": 7.0,
+            "veb_eu": 80
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "6E",
+          "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+          "impact": {
+            "pib_eu": 2.5,
+            "gini_eu": 0.32,
+            "co2_eu": 7.8,
+            "veb_eu": 75
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "6F",
+          "description": "Assouplir les critères de décarbonation pour les PME industrielles",
+          "impact": {
+            "pib_eu": 2.4,
+            "gini_eu": 0.31,
+            "co2_eu": 7.7,
+            "veb_eu": 76
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "6G",
+          "description": "Inclure un mécanisme de soutien temporaire à l’export",
+          "impact": {
+            "pib_eu": 2.6,
+            "gini_eu": 0.31,
+            "co2_eu": 7.6,
+            "veb_eu": 77
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "6H",
+          "description": "Permettre une flexibilité nationale dans l’allocation des subventions",
+          "impact": {
+            "pib_eu": 2.3,
+            "gini_eu": 0.33,
+            "co2_eu": 7.9,
+            "veb_eu": 75
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nom": "Plan logement social et rénovation durable",
+      "orientation": "Construire 5 millions de logements neutres en carbone, accélérer la rénovation énergétique et promouvoir la mixité sociale",
+      "proposition": "Déployer un plan européen pour la construction de logements sociaux à haute performance énergétique et la rénovation massive du parc existant, en ciblant la précarité énergétique et la cohésion sociale.",
+      "description": "Réduire la précarité énergétique à 5%, améliorer l’accès au logement abordable et accélérer la transition bas carbone du secteur résidentiel.",
+      "declaration_intention": "La présente directive vise à répondre à l’urgence sociale et climatique en Europe en soutenant la construction de logements sociaux durables et la rénovation énergétique du parc résidentiel. Elle entend lutter contre la précarité énergétique, renforcer la cohésion sociale et contribuer aux objectifs climatiques de l’Union. Cette initiative s’inscrit dans la stratégie européenne pour un logement abordable, la justice sociale et la neutralité carbone, conformément aux priorités du Conseil européen et du Pacte vert pour l’Europe.",
+      "statistiques_depart": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.26,
+        "co2_eu": 5.5,
+        "veb_eu": 87
+      },
+      "amendements": [
+        {
+          "type": "parlement",
+          "id": "7A",
+          "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+          "impact": {
+            "pib_eu": 2.2,
+            "gini_eu": 0.24,
+            "co2_eu": 5.0,
+            "veb_eu": 89
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "7B",
+          "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.25,
+            "co2_eu": 4.8,
+            "veb_eu": 90
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "7C",
+          "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.24,
+            "co2_eu": 5.4,
+            "veb_eu": 88
+          }
+        },
+        {
+          "type": "parlement",
+          "id": "7D",
+          "description": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.23,
+            "co2_eu": 5.5,
+            "veb_eu": 89
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "7E",
+          "description": "Permettre une flexibilité nationale sur le rythme de construction",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.27,
+            "co2_eu": 5.7,
+            "veb_eu": 86
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "7F",
+          "description": "Exclure les logements intermédiaires du champ de la directive",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.28,
+            "co2_eu": 5.6,
+            "veb_eu": 85
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "7G",
+          "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+          "impact": {
+            "pib_eu": 2.1,
+            "gini_eu": 0.27,
+            "co2_eu": 5.8,
+            "veb_eu": 86
+          }
+        },
+        {
+          "type": "conseil",
+          "id": "7H",
+          "description": "Autoriser des dérogations pour les zones rurales à faible densité",
+          "impact": {
+            "pib_eu": 2.0,
+            "gini_eu": 0.27,
+            "co2_eu": 5.6,
+            "veb_eu": 86
+          }
+        }
+      ]
+    },
+    {
+    "id": 8,
+    "nom": "Fédéralisme fiscal européen",
+    "orientation": "Harmonisation de l’impôt sur les sociétés à 18% et TVA à 20%",
+    "proposition": "Lutter contre l’évasion fiscale, la concurrence déloyale et renforcer la solidarité budgétaire au sein de l’Union.",
+    "description": "Augmenter les recettes fiscales de 150 Md€/an, améliorer la justice fiscale et renforcer l’intégration économique européenne.",
+    "declaration_intention": "La présente directive vise à instaurer un cadre fiscal harmonisé au sein de l’Union européenne, en alignant les taux d’imposition sur les sociétés et de TVA afin de lutter contre l’évasion fiscale, d’assurer une concurrence loyale et de renforcer la solidarité budgétaire. Elle s’inscrit dans la continuité des priorités du Conseil européen pour une Europe plus intégrée, compétitive et équitable, tout en garantissant la subsidiarité et la proportionnalité des mesures adoptées.",
+    "statistiques_depart": {
+      "pib_eu": 2.4,
+      "gini_eu": 0.30,
+      "co2_eu": 6.0,
+      "veb_eu": 83
+    },
+    "amendements": [
+      {
+        "type": "parlement",
+        "id": "8A",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "impact": {
+          "pib_eu": 2.3,
+          "gini_eu": 0.28,
+          "co2_eu": 6.0,
+          "veb_eu": 84
+        }
+      },
+      {
+        "type": "parlement",
+        "id": "8B",
+        "description": "Allouer une part des recettes fiscales à la transition écologique",
+        "impact": {
+          "pib_eu": 2.4,
+          "gini_eu": 0.29,
+          "co2_eu": 5.8,
+          "veb_eu": 86
+        }
+      },
+      {
+        "type": "parlement",
+        "id": "8C",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées",
+        "impact": {
+          "pib_eu": 2.4,
+          "gini_eu": 0.27,
+          "co2_eu": 6.0,
+          "veb_eu": 85
+        }
+      },
+      {
+        "type": "parlement",
+        "id": "8D",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "impact": {
+          "pib_eu": 2.4,
+          "gini_eu": 0.28,
+          "co2_eu": 6.0,
+          "veb_eu": 84
+        }
+      },
+      {
+        "type": "conseil",
+        "id": "8E",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "impact": {
+          "pib_eu": 2.5,
+          "gini_eu": 0.31,
+          "co2_eu": 6.1,
+          "veb_eu": 82
+        }
+      },
+      {
+        "type": "conseil",
+        "id": "8F",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "impact": {
+          "pib_eu": 2.5,
+          "gini_eu": 0.32,
+          "co2_eu": 6.1,
+          "veb_eu": 82
+        }
+      },
+      {
+        "type": "conseil",
+        "id": "8G",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "impact": {
+          "pib_eu": 2.6,
+          "gini_eu": 0.31,
+          "co2_eu": 6.2,
+          "veb_eu": 81
+        }
+      },
+      {
+        "type": "conseil",
+        "id": "8H",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "impact": {
+          "pib_eu": 2.5,
+          "gini_eu": 0.33,
+          "co2_eu": 6.2,
+          "veb_eu": 81
+        }
+      }
+    ]
+  }
+  ]
+}

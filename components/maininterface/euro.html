@@ -33,28 +33,124 @@
 
         <!-- Autres sous-onglets (vides pour l'instant) -->
         <div id="institutions-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "Les institutions de l'UE" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="institutions-menu">
+                <option value="etats_souverains">Une union d'états souverains</option>
+                <option value="separation_pouvoirs">Des institutions reposant sur la séparation des pouvoirs</option>
+                <option value="champ_action">Le champ d'action de la politique européenne</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="institutions-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="institutions-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="conseil-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "Le Conseil Européen" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="conseil-menu">
+                <option value="haute_politique">Le Conseil européen : l'instance de la haute politique</option>
+                <option value="missions_crises">Les missions stratégiques et la gestion des crises</option>
+                <option value="role_central">Un rôle central dans l'architecture institutionnelle</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="conseil-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="conseil-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="commission-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "La Commission Européenne" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="commission-menu">
+                <option value="pouvoir_executif">La Commission européenne : le pouvoir exécutif de l'UE</option>
+                <option value="role_legislatif">Un rôle central dans le processus législatif et la gestion du budget</option>
+                <option value="role_president">Le rôle spécifique du président de la Commission</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="commission-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="commission-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="concilium-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "Le Conseil de l'UE" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="concilium-menu">
+                <option value="voix_etats">Le Conseil de l'Union européenne : la voix des États membres</option>
+                <option value="missions_decision">Missions et processus de décision</option>
+                <option value="presidence_tournante">Le système de la présidence tournante</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="concilium-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="concilium-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="parlement-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "Le Parlement Européen" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="parlement-menu">
+                <option value="voix_citoyens">Le Parlement européen : la voix des citoyens</option>
+                <option value="missions_legislatives">Les missions législatives et budgétaires</option>
+                <option value="role_politique">Un rôle politique et un lien avec les citoyens</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="parlement-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="parlement-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="justice-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "La Cour de Justice européenne" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="justice-menu">
+                <option value="pouvoir_judiciaire">La Cour de justice de l'Union européenne : le pouvoir judiciaire de l'UE</option>
+                <option value="missions_arrets">Missions et arrêts emblématiques</option>
+                <option value="role_central_justice">Un rôle central dans l'architecture institutionnelle</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="justice-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="justice-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="partis-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "Les partis européens" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="partis-menu">
+                <option value="moteur_democratie">Les partis politiques européens : le moteur de la démocratie</option>
+                <option value="role_parlement">Un rôle central dans le Parlement européen</option>
+                <option value="legitimite_democratique">Une légitimité démocratique et un financement public</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="partis-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="partis-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
         <div id="lobbies-sub-tab" class="sub-tab-content">
-            <p>Contenu pour "Les lobbies européens" à venir.</p>
+            <select class="sim-selector sub-tab-menu" id="lobbies-menu">
+                <option value="acteurs_ombre">Les lobbies européens : les acteurs de l'ombre</option>
+                <option value="role_decision">Un rôle central dans le processus de décision</option>
+                <option value="zoom_geants">Zoom sur les géants du lobbying</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="lobbies-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="lobbies-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
         </div>
     </div>
 </div>

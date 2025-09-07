@@ -1,311 +1,622 @@
 /* Styles spécifiques pour le 3ème panneau du carrousel (Acteurs de la négociation) */
+
 .carousel-slide[data-slide="3"] {
+
     display: flex;
+
     flex-direction: column;
+
     justify-content: flex-start;
+
     align-items: center;
+
     padding: 20px;
+
     box-sizing: border-box;
+
     overflow-y: auto; /* Scroll global si tout dépasse */
+
     max-height: 100%;
+
 }
+
+
 
 .carousel-slide[data-slide="3"] h2 {
+
     margin-bottom: 10px;
+
 }
+
+
 
 /* Conteneur de la zone supérieure (import/saisie) */
+
 .group-input-area {
+
     width: 90%;
+
     max-width: 800px;
+
     flex: 0 0 auto; /* Hauteur selon le contenu */
+
     display: flex;
+
     justify-content: center;
+
     align-items: center;
+
     margin-bottom: 20px;
+
     box-sizing: border-box;
+
 }
+
+
 
 .group-input-area .input-group {
+
     width: 100%;
+
 }
+
+
 
 .group-input-area .input-group ul {
+
     list-style: none;
+
     padding: 0;
+
     margin: 0;
+
     width: 100%;
+
     display: flex;
+
     flex-direction: row;
+
     justify-content: space-around;
+
     gap: 15px;
+
     flex-wrap: wrap;
+
 }
+
+
 
 .group-input-area .input-group li {
+
     display: flex;
+
     flex-direction: column;
+
     align-items: center;
+
     flex: 1;
+
     min-width: 180px;
+
     padding: 10px;
+
     box-sizing: border-box;
+
     border: 1px solid #eee;
+
     border-radius: 8px;
+
     box-shadow: 0 1px 3px rgba(0,0,0,0.03);
+
 }
+
+
 
 .group-input-area .input-group li.or-separator {
+
     flex: 0 0 auto;
+
     width: auto;
+
     padding: 10px 15px;
+
     align-self: center;
+
     border: none;
+
     box-shadow: none;
+
     background: none;
+
     font-weight: bold;
+
     color: #7f8c8d;
+
 }
+
+
 
 .group-input-area input[type="file"],
+
 .group-input-area input[type="number"],
-.group-input-area button {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 10px;
-    border-radius: 5px;
-}
-.group-input-area input[type="file"] {
-    border: 2px dashed #3498db;
-    background-color: #ecf0f1;
-    cursor: pointer;
-    padding: 10px;
-}
 
 .group-input-area button {
-    margin-top: 8px;
-    font-size: 1em;
-    background-color: #27ae60;
-    color: white;
-    border: none;
+
+    width: 100%;
+
+    box-sizing: border-box;
+
+    padding: 10px;
+
+    border-radius: 5px;
+
+}
+
+.group-input-area input[type="file"] {
+
+    border: 2px dashed #3498db;
+
+    background-color: #ecf0f1;
+
     cursor: pointer;
+
+    padding: 10px;
+
+}
+
+
+
+.group-input-area button {
+
+    margin-top: 8px;
+
+    font-size: 1em;
+
+    background-color: #27ae60;
+
+    color: white;
+
+    border: none;
+
+    cursor: pointer;
+
     transition: background-color 0.3s ease;
+
 }
+
 .group-input-area button:hover {
+
     background-color: #229954;
+
 }
+
 /* Bouton télécharger */
+
 .group-input-area button.download-btn {
+
     background-color: #f39c12;
+
 }
+
 .group-input-area button.download-btn:hover {
+
     background-color: #e67e22;
+
 }
+
 /* Bouton désactivé */
+
 .group-input-area button.download-btn:disabled {
+
     background-color: #cccccc;
+
     cursor: not-allowed;
+
     opacity: 0.7;
+
 }
+
+
 
 /* Conteneur de la zone inférieure (affichage des résultats des groupes) */
+
 .group-results-display {
+
     width: 95%;
+
     flex: 1 1 auto;
+
     display: grid;
+
     grid-template-columns: 1fr 1fr;
+
     grid-template-rows: 1fr 1fr;
+
     gap: 15px;
+
     padding: 15px 0;
+
     box-sizing: border-box;
+
     height: 60vh; /* Hauteur fixe pour les 4 groupes */
+
 }
+
+
 
 /* Carrés de groupe (Commission, États, Partis, Lobbies) */
+
 .group-square {
+
     background-color: #f9f9f9;
+
     border: 1px solid #eee;
+
     border-radius: 10px;
+
     padding: 15px;
+
     text-align: center;
+
     box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+
     display: flex;
+
     flex-direction: column;
+
     align-items: stretch; /* Permet au contenu de remplir la largeur */
+
     box-sizing: border-box;
+
     width: 100%;
+
     min-width: 0;
+
     min-height: 0;
+
     overflow: hidden; /* Masque ce qui dépasse, seul ul scrolle */
+
 }
+
+
 
 .group-square h3 {
+
     color: #2c3e50;
+
     font-size: 1.3em;
+
     margin-top: 0;
+
     margin-bottom: 10px;
+
     flex-shrink: 0; /* Le titre ne rétrécit pas */
+
 }
+
+
 
 .group-square .group-icon {
+
     width: 40px;
+
     height: 40px;
+
     object-fit: contain;
+
 }
+
+
 
 /* Listes de membres dans les carrés */
+
 .group-square ul {
+
     flex: 1 1 auto; /* Occupe l’espace restant */
+
     min-height: 0; /* Indispensable pour activer le scroll interne */
+
     overflow-y: auto; /* Scroll vertical interne */
+
     overflow-x: hidden;
+
     list-style: none;
+
     padding: 0;
+
     margin: 0;
+
     width: 100%;
+
     text-align: left;
+
     box-sizing: border-box;
+
 }
+
+
 
 .group-square ul li {
+
     background-color: #eef;
+
     margin-bottom: 5px;
+
     padding: 8px;
+
     border-radius: 5px;
+
     color: #555;
+
     word-wrap: break-word;
+
 }
+
+
 
 /* Carré Commission */
+
 .group-results-display .group-square:first-child {
+
     width: 100%;
+
     min-width: 0;
+
 }
+
 .group-results-display .group-square:first-child ul {
+
     max-width: 100%;
+
     overflow-x: hidden;
+
     padding-right: 15px;
+
 }
+
+
 
 /* Sous-groupes */
+
 .sub-group-grid {
+
     display: grid;
+
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+
     gap: 10px;
+
     margin-top: 10px;
+
     width: 100%;
+
     flex-grow: 1;
+
     min-height: 0; /* Pour activer le scroll si nécessaire */
+
     overflow-y: auto; /* Scroll interne */
+
     white-space: normal;
+
     padding-bottom: 5px;
+
 }
+
+
 
 .sub-group-card {
+
     background-color: #e3f2fd;
+
     border: 1px solid #cce;
+
     border-radius: 8px;
+
     padding: 10px;
+
     text-align: center;
+
     box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+
     display: flex;
+
     flex-direction: column;
+
     align-items: center;
+
     justify-content: flex-start;
+
     min-height: 100px;
+
     box-sizing: border-box;
+
     flex-shrink: 0;
+
     min-width: 120px;
+
 }
+
+
 
 .sub-group-card img.sub-group-icon {
+
     width: 30px;
+
     height: 30px;
+
     margin-bottom: 5px;
+
     object-fit: contain;
+
     flex-shrink: 0;
+
 }
+
+
 
 .sub-group-card h4 {
+
     font-size: 0.9em;
+
     color: #34495e;
+
     margin-top: 0;
+
     margin-bottom: 5px;
+
     word-break: break-word;
+
     flex-shrink: 0;
+
 }
+
+
 
 .sub-group-card ul {
+
     font-size: 0.8em;
+
     color: #666;
+
     margin-top: 0;
+
     padding-left: 15px;
+
     list-style: disc;
+
     width: auto;
+
     flex-grow: 1;
+
     min-height: 0; /* Scroll interne activable */
+
     overflow-y: auto;
+
 }
+
+
 
 .sub-group-card ul li {
+
     word-wrap: break-word;
+
 }
 
+
+
 /* Media Queries pour la responsivité */
+
 @media (max-width: 768px) {
+
     .carousel-slide[data-slide="3"] {
+
         padding: 15px;
+
     }
+
     .group-input-area {
+
         height: auto;
+
         min-height: auto;
+
         padding-bottom: 10px;
+
     }
+
     .group-input-area .input-group ul {
+
         flex-direction: column;
+
         align-items: center;
+
     }
+
     .group-input-area .input-group li {
+
         width: 100%;
+
         min-width: unset;
+
         margin-bottom: 10px;
+
         padding: 8px;
+
     }
+
     .group-input-area .input-group li.or-separator {
+
         margin: 10px 0;
+
     }
+
     .group-results-display {
+
         grid-template-columns: 1fr;
+
         grid-template-rows: repeat(4, 1fr);
+
         height: auto; /* Sur mobile, la hauteur s’adapte */
+
     }
+
     .group-square {
+
         padding: 10px;
+
         min-height: 120px;
+
     }
+
     .group-square h3 {
+
         font-size: 1em;
+
     }
+
     .group-square .group-icon {
+
         width: 25px;
+
         height: 25px;
+
     }
+
     .sub-group-grid {
+
         grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
+
         gap: 5px;
+
     }
+
     .sub-group-card {
+
         padding: 5px;
+
         min-height: 80px;
+
     }
+
     .sub-group-card img.sub-group-icon {
+
         width: 20px;
+
         height: 20px;
+
     }
+
     .sub-group-card h4 {
+
         font-size: 0.75em;
+
     }
+
     .sub-group-card ul {
+
         font-size: 0.7em;
+
     }
+
 }
+
