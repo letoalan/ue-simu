@@ -41,6 +41,11 @@ async function loadScenarioData() {
             fetch(`${baseUrl}/json/scenario1.json`).then(r => r.json()),
             fetch(`${baseUrl}/json/scenario2.json`).then(r => r.json())
         ]);
+
+        console.log("Réponse scénario 1:", data1);
+        console.log("Réponse scénario 2:", data2);
+
+
         scenario1Data = data1;
         scenario2Data = data2;
     } catch (e) {
