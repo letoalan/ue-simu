@@ -23,7 +23,7 @@ L'euro est introduit en 1999 pour les transactions bancaires et en 2002 sous for
 Le 21e siècle est marqué par un élargissement sans précédent à l'Est, après la chute du mur de Berlin. En 2004, dix nouveaux pays, principalement d'Europe de l'Est, rejoignent l'UE. On passe de 15 à 25 membres, puis 27 aujourd'hui. L'UE doit faire face à de nouveaux défis : la crise financière de 2008, la crise des migrants, et plus récemment le Brexit, le départ du Royaume-Uni en 2020. Malgré ces épreuves, le projet européen continue d'évoluer, prouvant que l'unité, même imparfaite, reste une force face aux défis mondiaux.`
     },
     elargissements: {
-        photo: '/medias/images/euro/elargissement-ue.jpg',
+        photo: 'medias/images/euro/elargissement-ue.jpg',
         text: `Des "Six" à la première vague d'adhésions
 
 Au départ, la Communauté économique européenne (CEE) ne comptait que six membres fondateurs : la France, l'Allemagne de l'Ouest, l'Italie et les trois pays du Benelux (Belgique, Pays-Bas, Luxembourg). C'est ce qu'on appelait l'Europe des Six. Leur objectif était de consolider leur marché commun et d'éviter un retour des conflits.
@@ -47,7 +47,7 @@ Le Brexit : le premier départ
 Après des décennies de croissance, l'Union européenne connaît son premier retrait avec le Brexit. Le Royaume-Uni, qui avait rejoint la CEE en 1973, a voté en faveur de sa sortie de l'UE lors d'un référendum en 2016. La sortie est devenue effective le 31 janvier 2020. C'est une décision lourde de conséquences, qui a relancé le débat sur l'avenir du projet européen et montre que l'unité n'est pas un acquis.`
     },
     pouvoirs: {
-        photo: '/medias/images/euro/delegation-pouvoirs.jpg',
+        photo: 'medias/images/euro/delegation-pouvoirs.jpg',
         text: `Le principe de délégation et de subsidiarité
 
 Contrairement à un État fédéral classique, l'UE n'a pas de pouvoir "souverain" en propre sur tous les sujets. Son pouvoir repose sur un principe de délégation par les États membres. En clair, les pays de l'UE, en signant les traités, ont choisi de confier à l'Union certaines compétences pour qu'elles soient exercées en commun, parce qu'il est plus efficace de le faire à 27 plutôt que chacun de son côté.
@@ -76,7 +76,7 @@ La délégation de ces pouvoirs n'est pas un abandon de souveraineté, mais une 
 
 const institutionContent = {
     etats_souverains: {
-        photo: '/medias/images/euro/ETATSUE.jpg',
+        photo: 'medias/images/euro/ETATSUE.jpg',
         text: `Une union d'États souverains
 
 L'Union européenne n'est pas un État fédéral comme les États-Unis, ni une simple organisation internationale. Elle se situe à un niveau unique, souvent qualifié de "supranational", où des États souverains ont choisi de transférer une partie de leurs pouvoirs de décision pour agir ensemble. Ce n'est pas un abandon de souveraineté, mais une mise en commun. Les États restent les "maîtres des traités" : sans leur accord unanime, rien ne peut changer dans les textes fondateurs de l'Union. Ce principe se reflète dans l'existence du Conseil européen, qui réunit les chefs d'État ou de gouvernement des 27 pays membres. C'est l'instance politique suprême, qui définit les grandes orientations et priorités de l'Union, et qui montre que les pays gardent un rôle central et puissant dans la direction de l'UE.
@@ -86,7 +86,7 @@ Un autre principe clé est la subsidiarité. Il signifie que les décisions doiv
 Le processus de prise de décision est un bon exemple de cet équilibre : la Commission européenne propose les textes de loi, mais pour qu'ils soient adoptés, ils doivent être approuvés par les gouvernements nationaux (au sein du Conseil de l'Union européenne) et par le Parlement européen, qui représente directement les citoyens. Cette double validation assure que les lois européennes reflètent à la fois les volontés des États et celles des peuples.`
     },
     separation_pouvoirs: {
-        photo: '/medias/images/euro/instiue.jpg',
+        photo: 'medias/images/euro/instiue.jpg',
         text: `Des institutions reposant sur la séparation des pouvoirs
 
 Le fonctionnement de l'UE s'inspire du modèle démocratique de la séparation des pouvoirs, avec des institutions distinctes qui exercent des fonctions différentes, créant un système d'équilibre et de contrôle mutuel.
@@ -98,7 +98,7 @@ Le pouvoir exécutif est principalement incarné par la Commission européenne. 
 Enfin, le pouvoir judiciaire est exercé par la Cour de justice de l'Union européenne (CJUE), basée à Luxembourg. Elle garantit l'interprétation et l'application uniforme du droit européen dans tous les pays membres. Elle peut sanctionner les États qui ne respectent pas leurs obligations et les particuliers ou entreprises qui enfreignent les règles de l'UE. Ses arrêts ont force de loi pour tous les pays membres, ce qui assure une cohérence juridique essentielle au bon fonctionnement du marché unique.`
     },
     champ_action: {
-        photo: '/medias/images/euro/competences.jpg',
+        photo: 'medias/images/euro/competences.jpg',
         text: `Le champ d'action de la politique européenne
 
 Le champ d'action de l'Union européenne est vaste, mais il n'est pas illimité. Il est strictement encadré par les traités fondateurs, qui définissent les domaines de compétences. L'UE exerce des compétences exclusives dans certains domaines, où seule l'Union peut légiférer et adopter des actes contraignants. C'est le cas pour la politique commerciale commune (négocier les accords commerciaux avec les pays tiers) et les règles de concurrence sur le marché unique.
@@ -113,7 +113,7 @@ Sur les questions de politique étrangère et de sécurité, le pouvoir est surt
 
 const euroConseilContent = {
     haute_politique: {
-        photo: '/medias/images/euro/conseileuro.jpg',
+        photo: 'medias/images/euro/conseileuro.jpg',
         text: `Le Conseil européen : l'instance de la haute politique
 
 Le Conseil européen n'est pas à confondre avec le Conseil de l'Union européenne. C'est l'institution politique suprême de l'UE, qui incarne le leadership et la vision à long terme de l'Union. Il se compose des chefs d'État ou de gouvernement des 27 pays membres, du président du Conseil européen et du président de la Commission européenne. Le Haut représentant de l'Union pour les affaires étrangères et la politique de sécurité participe également à ses travaux. Le Conseil européen se réunit au moins quatre fois par an pour des sommets, mais des réunions extraordinaires peuvent être convoquées en cas de crise majeure. Il est la voix collective des États membres et le lieu où se forgent les grands consensus politiques. C'est ici que sont définies les priorités et les orientations générales de la politique de l'UE.
@@ -121,7 +121,7 @@ Le Conseil européen n'est pas à confondre avec le Conseil de l'Union européen
 Le Conseil européen agit comme une boussole pour l'Union. Il ne légifère pas, c'est-à-dire qu'il ne vote pas les lois, mais il donne l'impulsion et la direction politique nécessaires. Ses décisions, prises par consensus, orientent le travail des autres institutions. C'est à lui que l'on doit les grandes initiatives, comme le Pacte vert pour l'Europe, les plans de relance économique ou la réponse aux crises géopolitiques. Ses conclusions sont des feuilles de route pour la Commission européenne, le Conseil de l'Union européenne et le Parlement européen. C'est un forum de négociation au plus haut niveau, où les leaders nationaux confrontent leurs visions pour trouver un terrain d'entente. La présidence du Conseil européen est assurée par une personne élue pour un mandat de deux ans et demi, qui organise les travaux et assure la continuité de l'action.`
     },
     missions_crises: {
-        photo: '/medias/images/euro/criseeuro.jpg',
+        photo: 'medias/images/euro/criseeuro.jpg',
         text: `Les missions stratégiques et la gestion des crises
 
 Le Conseil européen a trois missions principales. La première est de définir les orientations stratégiques de l'Union. Il identifie les défis à long terme (changement climatique, numérique, migration, sécurité) et définit la réponse européenne. Par exemple, c'est le Conseil européen qui a donné son feu vert pour le lancement de l'euro ou pour l'élargissement de l'Union aux pays d'Europe de l'Est. Il s'agit de décisions politiques majeures qui engagent l'avenir du projet européen.
@@ -131,7 +131,7 @@ La deuxième mission est la gestion des crises. Le Conseil européen est l'insta
 La troisième mission est le développement de la politique étrangère et de sécurité commune (PESC). Le Conseil européen définit les lignes directrices de la PESC, en fixant les objectifs stratégiques de l'UE sur la scène internationale. Il prend les décisions importantes en matière de sanctions, d'opérations de maintien de la paix ou de relations avec les partenaires clés. Bien que cette politique repose en grande partie sur l'unanimité des États membres, le Conseil européen est l'instance qui permet d'afficher une voix européenne commune face au reste du monde.`
     },
     role_central: {
-        photo: '/medias/images/euro/CEPW.jpg',
+        photo: 'medias/images/euro/CEPW.jpg',
         text: `Un rôle central dans l'architecture institutionnelle
 
 Le Conseil européen joue un rôle central dans l'équilibre des pouvoirs de l'UE. Il est le point de connexion entre les intérêts nationaux et l'agenda européen. Ses décisions, bien qu'elles ne soient pas des lois, ont une autorité politique immense et sont respectées par les autres institutions. Le Conseil de l'Union européenne, composé des ministres, s'appuie sur les conclusions du Conseil européen pour négocier et adopter les textes législatifs. De son côté, la Commission européenne prépare ses propositions législatives et ses plans d'action en se basant sur les orientations définies par les chefs d'État.
@@ -142,13 +142,13 @@ Ce rôle de "chef d'orchestre" est crucial. C'est le Conseil européen qui a la 
 
 const commissionContent = {
     pouvoir_executif: {
-        photo: '/medias/images/euro/eurocomm.jpg',
+        photo: 'medias/images/euro/eurocomm.jpg',
         text: `La Commission européenne : le pouvoir exécutif de l'UE
 
 La Commission européenne est l'organe exécutif de l'Union européenne. Elle est souvent comparée à un gouvernement de l'Union. Son siège est à Bruxelles. Elle est composée de 27 commissaires, un par État membre, et est dirigée par un président. Les commissaires ne représentent pas leur pays d'origine, mais l'intérêt général de l'UE. Ils sont indépendants et n'acceptent pas d'instructions des gouvernements nationaux. La Commission a trois fonctions principales : proposer des lois, gérer les politiques et le budget de l'UE, et veiller à l'application du droit européen. C'est l'institution qui fait avancer le projet européen au quotidien.`
     },
     role_legislatif: {
-        photo: '/medias/images/euro/prodir.jpg',
+        photo: 'medias/images/euro/prodir.jpg',
         text: `Un rôle central dans le processus législatif et la gestion du budget
 
 La Commission européenne est au cœur du processus de prise de décision de l'UE. Son pouvoir d'initiative législative lui confère un rôle stratégique. En proposant les lois, elle façonne l'agenda politique de l'Union. C'est elle qui propose des règlements (lois directement applicables) et des directives (lois qui doivent être transposées en droit national). Ses propositions doivent être approuvées par le Parlement et le Conseil pour devenir des lois. Ce processus est un équilibre des pouvoirs unique en son genre. La Commission a le pouvoir de proposition, mais elle ne peut pas légiférer seule.
@@ -158,7 +158,7 @@ En tant qu'organe exécutif, la Commission est également responsable de la gest
 La Commission joue aussi un rôle de représentation extérieure de l'UE sur les questions économiques et commerciales. Elle négocie les accords commerciaux au nom de l'Union. Elle est la porte-parole de l'UE au sein d'organisations internationales comme l'Organisation mondiale du commerce (OMC). Ce rôle permet à l'UE de parler d'une seule voix sur la scène internationale, ce qui lui donne un poids bien supérieur à celui de chaque État membre pris individuellement.`
     },
     role_president: {
-        photo: '/medias/images/euro/VONDERL.jpg',
+        photo: 'medias/images/euro/VONDERL.jpg',
         text: `Le rôle spécifique du président de la Commission
 
 Le président de la Commission est la figure de proue de l'institution. C'est lui ou elle qui donne l'impulsion politique et assure le leadership. Le président est proposé par le Conseil européen, en tenant compte des résultats des élections européennes, puis il est élu par le Parlement européen. Ce processus de nomination est un équilibre entre l'influence des États et la légitimité démocratique du Parlement. Le président de la Commission a un rôle crucial : il définit les orientations politiques de son mandat, nomme les commissaires (en accord avec les États membres), et répartit les portefeuilles entre eux. Il a un pouvoir d'influence considérable sur l'ensemble de l'institution.
@@ -171,7 +171,7 @@ Enfin, le président de la Commission est le garant de la cohérence et de l'eff
 
 const conciliumContent = {
     voix_etats: {
-        photo: '/medias/images/euro/conseilue.jpg',
+        photo: 'medias/images/euro/conseilue.jpg',
         text: `Le Conseil de l'Union européenne : la voix des États membres
 
 Le Conseil de l'Union européenne, souvent appelé simplement "le Conseil", est l'institution où siègent les ministres des gouvernements des États membres. Il ne faut pas le confondre avec le Conseil européen, qui réunit les chefs d'État ou de gouvernement, ni avec le Conseil de l'Europe, qui est une organisation distincte de l'UE. Le rôle du Conseil de l'Union européenne est de représenter les intérêts des États membres dans le processus législatif européen. C'est l'un des deux co-législateurs de l'UE, avec le Parlement européen. Il est la preuve que les gouvernements nationaux continuent de jouer un rôle central dans la prise de décision de l'Union.
@@ -181,7 +181,7 @@ Le Conseil de l'UE n'est pas une seule entité, mais se réunit en dix formation
 Le Conseil de l'UE partage le pouvoir législatif avec le Parlement européen. Aucune loi européenne majeure ne peut être adoptée sans son approbation. Son rôle de co-législateur lui donne un pouvoir considérable dans le façonnement des politiques de l'UE, et il est le lieu où les compromis sont recherchés entre les différentes visions nationales. C'est ici que les intérêts de la France, de l'Allemagne, de l'Espagne, etc., sont défendus et harmonisés.`
     },
     missions_decision: {
-        photo: '/medias/images/euro/conseilue2.jpg',
+        photo: 'medias/images/euro/conseilue2.jpg',
         text: `Missions et processus de décision
 
 Les missions du Conseil de l'Union européenne sont variées. La première est, comme nous l'avons vu, de négocier et d'adopter les actes législatifs européens, souvent en partenariat avec le Parlement. C'est une tâche colossale qui couvre tous les domaines de la politique européenne, du commerce à l'environnement. Le Conseil et le Parlement peuvent amender les propositions de la Commission, et un processus de "navette" a lieu entre les deux institutions pour parvenir à un accord sur le texte final.
@@ -193,7 +193,7 @@ Troisièmement, le Conseil de l'UE coordonne les politiques économiques et soci
 Enfin, le Conseil a un rôle important dans la politique étrangère et de sécurité commune (PESC). Dans cette formation, les ministres des Affaires étrangères prennent des décisions en matière de politique étrangère, par exemple en imposant des sanctions à des pays tiers ou en définissant une position commune sur une crise internationale. C'est dans ce domaine que les décisions sont souvent prises à l'unanimité, ce qui donne à chaque État un droit de veto.`
     },
     presidence_tournante: {
-        photo: '/medias/images/euro/conseilue3.jpg',
+        photo: 'medias/images/euro/conseilue3.jpg',
         text: `Le système de la présidence tournante
 
 Le Conseil de l'Union européenne est un exemple parfait du fonctionnement de la démocratie représentative au niveau européen. Il assure que les lois européennes sont non seulement acceptées par les citoyens via leurs représentants au Parlement, mais aussi par leurs gouvernements nationaux. Le système de la présidence tournante est une caractéristique unique de cette institution. Chaque État membre assume à tour de rôle la présidence du Conseil pendant une période de six mois. C'est une responsabilité majeure qui permet à chaque pays, même les plus petits, de diriger l'agenda de l'UE pour une courte période.
@@ -206,7 +206,7 @@ La complexité du Conseil de l'UE, avec ses différentes formations et son syst�
 
 const parlementContent = {
     voix_citoyens: {
-        photo: '/medias/images/euro/electioneuro24.jpg',
+        photo: 'medias/images/euro/electioneuro24.jpg',
         text: `Le Parlement européen : la voix des citoyens
 
 Le Parlement européen est l'unique institution de l'Union européenne directement élue par les citoyens. C'est l'organe législatif et de contrôle démocratique de l'UE. Ses membres, appelés députés européens, sont élus tous les cinq ans au suffrage universel direct dans les 27 États membres. Le Parlement se réunit en session plénière à Strasbourg et organise ses commissions et réunions de groupes politiques à Bruxelles. Le nombre de députés par pays est proportionnel à sa population, ce qui donne plus de poids aux États les plus peuplés comme l'Allemagne ou la France, tout en assurant une représentation minimale pour les plus petits pays. Cette légitimité démocratique confère au Parlement un rôle essentiel dans le processus de décision de l'Union, le distinguant du Conseil de l'Union européenne qui représente les gouvernements.
@@ -214,7 +214,7 @@ Le Parlement européen est l'unique institution de l'Union européenne directeme
 Le rôle du Parlement européen a considérablement évolué au fil des ans, passant d'un simple organe consultatif à un véritable co-législateur. Aujourd'hui, il partage le pouvoir législatif sur un pied d'égalité avec le Conseil de l'Union européenne. Les propositions de la Commission européenne doivent être approuvées par les deux institutions pour devenir des lois. Ce processus de codécision est le cœur de la démocratie de l'UE : les citoyens, via leurs députés, et les États, via leurs ministres, doivent s'entendre pour faire avancer l'Union. Le Parlement est donc un lieu de débat politique intense, où les différents groupes politiques (sociaux-démocrates, libéraux, écologistes, etc.) défendent leurs positions sur les textes législatifs. Il est aussi un espace de dialogue et de compromis, où les députés travaillent en commission pour amender et négocier les textes avant leur vote en session plénière.`
     },
     missions_legislatives: {
-        photo: '/medias/images/euro/parlement.jpg',
+        photo: 'medias/images/euro/parlement.jpg',
         text: `Les missions législatives et budgétaires
 
 La première mission du Parlement européen est d'être un co-législateur. Il vote les règlements et les directives européens dans la quasi-totalité des domaines de la politique de l'UE. Le Parlement dispose d'un pouvoir d'amendement des textes proposés par la Commission. Son rôle ne se limite pas à approuver, il peut aussi les rejeter. Il est d'ailleurs le seul à pouvoir voter une motion de censure à l'encontre de la Commission, ce qui la forcerait à démissionner collectivement. Ce pouvoir de contrôle est le garant de la responsabilité de l'exécutif européen devant les représentants des citoyens.
@@ -224,7 +224,7 @@ La deuxième grande mission du Parlement est l'adoption du budget de l'UE, conjo
 La troisième mission est le contrôle démocratique des autres institutions de l'UE. Le Parlement a le pouvoir d'approuver ou de rejeter la nomination du président de la Commission et de l'ensemble du collège des commissaires. Chaque candidat commissaire doit se présenter devant une commission parlementaire pour une audition. Ce processus garantit que les personnes qui dirigent la Commission ont la confiance des représentants des citoyens. Le Parlement peut également poser des questions à la Commission, organiser des débats sur l'état de l'Union et créer des commissions d'enquête pour faire la lumière sur des sujets d'intérêt public.`
     },
     role_politique: {
-        photo: '/medias/images/euro/parlementaires.jpg',
+        photo: 'medias/images/euro/parlementaires.jpg',
         text: `Un rôle politique et un lien avec les citoyens
 
 Au-delà de ses fonctions législatives et budgétaires, le Parlement européen joue un rôle politique essentiel. Il est la tribune où les grands débats sur l'avenir de l'Europe ont lieu. Il représente la diversité des opinions politiques des citoyens européens et il est le lieu où les partis politiques nationaux se regroupent en familles politiques européennes, ce qui contribue à la formation d'une véritable sphère politique européenne.
@@ -237,7 +237,7 @@ Enfin, le Parlement européen est le lien direct entre les citoyens et les insti
 
 const justiceContent = {
     pouvoir_judiciaire: {
-        photo: '/medias/images/euro/cjue0.jpg',
+        photo: 'medias/images/euro/cjue0.jpg',
         text: `La Cour de justice de l'Union européenne : le pouvoir judiciaire de l'UE
 
 La Cour de justice de l'Union européenne (CJUE), basée à Luxembourg, est l'institution judiciaire de l'UE. Son rôle est d'assurer le respect du droit de l'Union dans son interprétation et son application. La CJUE est composée de deux juridictions : la Cour de justice, qui traite les recours introduits par les États membres et les institutions, et le Tribunal, qui traite principalement les recours de particuliers et d'entreprises. Chaque État membre a un juge dans chaque juridiction, garantissant la représentation des systèmes juridiques nationaux. Ces juges sont nommés par les gouvernements pour un mandat de six ans renouvelable. La CJUE est une institution unique au monde, car elle a la capacité de faire appliquer le droit européen sur les États membres eux-mêmes, un pouvoir que peu d'organisations internationales possèdent.
@@ -245,7 +245,7 @@ La Cour de justice de l'Union européenne (CJUE), basée à Luxembourg, est l'in
 Le rôle de la CJUE est crucial pour le bon fonctionnement de l'UE. Sans elle, les lois européennes pourraient être interprétées et appliquées différemment dans chaque pays, ce qui mettrait en péril le marché unique et l'égalité entre les citoyens. La CJUE est la gardienne de la primauté du droit de l'UE. Cela signifie que le droit européen l'emporte sur le droit national en cas de conflit. C'est un principe fondamental qui garantit l'unité juridique de l'Union. Les juges nationaux sont tenus de l'appliquer.`
     },
     missions_arrets: {
-        photo: '/medias/images/euro/cjue1.jpg',
+        photo: 'medias/images/euro/cjue1.jpg',
         text: `Missions et arrêts emblématiques
 
 Les missions de la CJUE sont multiples. Sa principale mission est de trancher les litiges entre les États membres, les institutions de l'UE, les entreprises et les particuliers. Elle peut sanctionner un État qui ne respecte pas le droit de l'UE ou annuler un acte législatif européen s'il est jugé illégal. La Cour répond également à des questions préjudicielles posées par les juridictions nationales. Lorsqu'un juge national est confronté à une question d'interprétation du droit de l'UE, il peut demander à la CJUE de clarifier la règle. C'est le moyen le plus courant d'entrer en contact avec la Cour et cela garantit une interprétation uniforme du droit dans toute l'UE.
@@ -253,7 +253,7 @@ Les missions de la CJUE sont multiples. Sa principale mission est de trancher le
 Tout au long de son histoire, la CJUE a rendu des arrêts qui ont façonné l'intégration européenne. Des affaires comme l'arrêt Cassis de Dijon (1979) ont établi le principe de la reconnaissance mutuelle des normes nationales et ont contribué à la création du marché unique. D'autres arrêts ont renforcé les droits des citoyens européens, comme l'arrêt van Gend en Loos (1963) qui a établi que les particuliers pouvaient invoquer directement le droit européen devant leurs tribunaux nationaux. Ces décisions ont eu un impact immense sur la vie des citoyens, en leur donnant le droit de travailler, de vivre et de voyager librement dans l'UE.`
     },
     role_central_justice: {
-        photo: '/medias/images/euro/cjue2.jpg',
+        photo: 'medias/images/euro/cjue2.jpg',
         text: `Un rôle central dans l'architecture institutionnelle
 
 La Cour de justice joue un rôle essentiel dans l'équilibre des pouvoirs au sein de l'UE. Elle garantit que les autres institutions respectent la loi et qu'elles n'outrepassent pas leurs compétences. Elle est un contre-pouvoir indispensable à la Commission et au Conseil. En contrôlant la légalité des actes des institutions, elle assure un fonctionnement démocratique et transparent. La CJUE est aussi un acteur majeur dans l'évolution du droit européen, car ses interprétations ont souvent un effet créateur de droit, comblant les lacunes des traités et répondant aux défis contemporains.
@@ -264,7 +264,7 @@ Le rôle de la CJUE est une illustration de la nature unique de l'Union europée
 
 const partisContent = {
     moteur_democratie: {
-        photo: '/medias/images/euro/europart0.jpg',
+        photo: 'medias/images/euro/europart0.jpg',
         text: `Les partis politiques européens : le moteur de la démocratie
 
 Les partis politiques européens, souvent appelés europartis, sont des organisations politiques qui regroupent des partis nationaux de différents États membres partageant des idéologies similaires. Ils sont essentiels au fonctionnement de la démocratie européenne. Ils ne sont pas à confondre avec les groupes politiques du Parlement européen, qui sont des regroupements de députés, même si ces deux entités sont étroitement liées. Les europartis sont le pont entre les réalités politiques nationales et la sphère européenne. Ils permettent aux citoyens d'identifier les grandes familles politiques à l'échelle du continent et de comprendre les enjeux des élections européennes. On peut les voir comme les versions européennes des partis nationaux, créant une structure politique transnationale.
@@ -272,7 +272,7 @@ Les partis politiques européens, souvent appelés europartis, sont des organisa
 Le rôle des partis européens a été formalisé par les traités de l'UE. Ces partis ont des missions claires : contribuer à la formation d'une conscience politique européenne, exprimer la volonté des citoyens et animer la vie politique de l'Union. Lors des élections européennes, ils coordonnent les campagnes, organisent des débats et présentent des programmes communs à l'échelle du continent. En amont du scrutin, ils sélectionnent les candidats, et en 2014 et 2019, ils ont présenté des candidats têtes de liste (les Spitzenkandidaten) pour la présidence de la Commission européenne. Bien que ce système n'ait pas été formellement adopté, il a contribué à rendre la désignation du président de la Commission plus transparente et plus liée aux résultats électoraux, renforçant ainsi la légitimité démocratique du processus.`
     },
     role_parlement: {
-        photo: '/medias/images/euro/europart1.jpg',
+        photo: 'medias/images/euro/europart1.jpg',
         text: `Un rôle central dans le Parlement européen
 
 Le rôle le plus visible des europartis se situe au sein du Parlement européen. C'est là que les partis nationaux s'organisent en groupes politiques transnationaux. Chaque groupe est composé d'élus d'au moins un quart des États membres et compte au moins 23 députés. Ces groupes politiques ne sont pas de simples alliances, mais des entités structurées avec une présidence, des porte-paroles et des positions communes sur les sujets législatifs. Ils sont les acteurs principaux du processus parlementaire. Par exemple, le Groupe du Parti populaire européen (PPE, droite et centre-droit) ou le Groupe de l'Alliance progressiste des socialistes et démocrates (S&D, gauche et centre-gauche) sont les deux plus grands groupes politiques du Parlement.
@@ -280,7 +280,7 @@ Le rôle le plus visible des europartis se situe au sein du Parlement européen.
 C'est au sein de ces groupes que se forgent les majorités législatives. Les députés d'un même groupe votent généralement de manière coordonnée sur les projets de loi. Les grands compromis qui permettent d'adopter les lois européennes se font souvent entre les principaux groupes. Sans eux, le Parlement européen serait une assemblée fragmentée et incapable d'agir. Ils sont le moteur de la codécision, ce système qui permet au Parlement de légiférer avec le Conseil de l'Union européenne. Les présidents de ces groupes politiques jouent un rôle crucial en négociant les accords législatifs et en définissant la stratégie de leur famille politique.`
     },
     legitimite_democratique: {
-        photo: '/medias/images/euro/europart2.jpg',
+        photo: 'medias/images/euro/europart2.jpg',
         text: `Une légitimité démocratique et un financement public
 
 Pour que les partis politiques européens puissent jouer leur rôle, l'UE leur accorde une reconnaissance formelle et un financement public. Cette aide financière leur permet de financer leurs activités, leurs campagnes électorales et leurs think tanks, contribuant ainsi à l'animation du débat politique européen. Le financement est soumis à des règles strictes pour garantir la transparence et éviter les conflits d'intérêts. Cette aide est une reconnaissance du fait que ces partis sont indispensables pour la démocratie de l'Union.
@@ -293,7 +293,7 @@ Malgré leur importance, les partis européens font face à des défis. Ils rest
 
 const lobbiesContent = {
     acteurs_ombre: {
-        photo: '/medias/images/euro/lobby0.jpg',
+        photo: 'medias/images/euro/lobby0.jpg',
         text: `Les lobbies européens : les acteurs de l'ombre
 
 Les lobbies européens, ou groupes d'intérêt, sont des organisations qui cherchent à influencer les décisions des institutions de l'Union européenne. Ils représentent une grande variété d'acteurs : des entreprises, des associations professionnelles, des ONG, des syndicats ou des régions. À Bruxelles, on estime qu'il y a plus de 25 000 lobbyistes, ce qui en fait, avec Washington, l'un des plus grands centres de lobbying au monde. Le lobbying est une pratique légale et encadrée, considérée comme une composante de la démocratie. Il permet aux institutions de l'UE d'obtenir des informations et des expertises techniques sur des sujets complexes avant de prendre des décisions. C'est un canal de communication important entre les décideurs et la société civile, bien qu'il soulève des questions de transparence et d'égalité d'accès.
@@ -301,7 +301,7 @@ Les lobbies européens, ou groupes d'intérêt, sont des organisations qui cherc
 Les lobbyistes européens opèrent de différentes manières. Ils participent à des consultations publiques, organisent des rencontres avec les parlementaires et les fonctionnaires de la Commission, et publient des rapports pour défendre leurs positions. Leur objectif est de faire valoir leurs intérêts dans le processus législatif, de l'élaboration d'une proposition par la Commission jusqu'à l'adoption finale par le Parlement et le Conseil. L'UE a mis en place un registre de transparence pour les groupes d'intérêt. Ce registre est une base de données publique où les lobbyistes doivent s'inscrire et déclarer leurs activités, leurs clients et leurs budgets. Il vise à rendre plus transparentes les relations entre les lobbyistes et les institutions européennes.`
     },
     role_decision: {
-        photo: '/medias/images/euro/lobby1.jpg',
+        photo: 'medias/images/euro/lobby1.jpg',
         text: `Un rôle central dans le processus de décision
 
 Les lobbies sont des acteurs incontournables du processus de décision de l'UE. La Commission européenne, en particulier, les consulte régulièrement. C'est elle qui lance des consultations publiques sur ses projets de loi. Les groupes d'intérêt peuvent alors soumettre leurs analyses et leurs recommandations. De la même manière, les députés européens et les ministres nationaux reçoivent les lobbyistes pour entendre leurs arguments sur les textes législatifs en cours. Les lobbyistes sont de véritables experts sur les sujets qu'ils défendent et ils peuvent fournir des données techniques et économiques qui éclairent la prise de décision.
@@ -309,7 +309,7 @@ Les lobbies sont des acteurs incontournables du processus de décision de l'UE. 
 Par exemple, sur un sujet comme la réglementation environnementale, la Commission va consulter les entreprises du secteur (par exemple, les constructeurs automobiles), les associations de protection de l'environnement, les syndicats et les chercheurs. Leurs points de vue s'opposent souvent, et les institutions européennes doivent arbitrer entre ces intérêts divergents. Les lobbies sont souvent critiqués pour leur pouvoir d'influence, en particulier les plus puissants qui disposent de budgets conséquents et d'un grand nombre de collaborateurs. Ils peuvent peser sur les décisions en faveur de leurs intérêts, parfois au détriment de l'intérêt général. C'est pourquoi la transparence est une préoccupation majeure des institutions européennes et des citoyens.`
     },
     zoom_geants: {
-        photo: '/medias/images/euro/lobby2.jpg',
+        photo: 'medias/images/euro/lobby2.jpg',
         text: `Zoom sur les géants du lobbying
 
 Certains secteurs d'activité ont une présence de lobbying particulièrement forte à Bruxelles en raison de leur poids économique et des enjeux réglementaires qui les concernent.

@@ -3,15 +3,15 @@ import { updateContentDisplay } from '../content-display-manager.js';
 // Contenu textuel et images pour le sous-onglet "Compréhension"
 const comprehensionContent = {
     familiariser: {
-        photo: '/medias/images/euro/triangle-institutionnel.jpg',
+        photo: 'medias/images/euro/triangle-institutionnel.jpg',
         text: `L'un des objectifs principaux de cette simulation est de vous familiariser avec le "triangle institutionnel" de l'Union européenne. Vous apprendrez concrètement le rôle de chaque institution clé : la Commission européenne, qui propose les lois ; le Parlement européen, qui représente les citoyens ; et le Conseil de l'Union européenne, qui représente les gouvernements des États membres. En incarnant l'un de ces acteurs, vous découvrirez de l'intérieur leurs prérogatives, leurs contraintes et leur manière d'interagir. Cette connaissance pratique est essentielle pour quiconque souhaite comprendre le fonctionnement réel de l'UE, au-delà des schémas théoriques.`
     },
     comprendre: {
-        photo: '/medias/images/euro/processus-legislatif.jpg',
+        photo: 'medias/images/euro/processus-legislatif.jpg',
         text: `La simulation vous plonge au cœur du processus législatif ordinaire, aussi appelé "codécision". Vous suivrez le parcours d'une proposition de directive, depuis son élaboration par la Commission jusqu'aux négociations d'amendements avec le Parlement et le Conseil. Vous expérimenterez les différentes étapes : la première lecture, les trilogues (négociations informelles), et la recherche d'un compromis final. L'objectif est de démystifier ce processus qui peut paraître complexe, en vous faisant vivre les tensions, les alliances et les stratégies nécessaires pour faire adopter une loi à l'échelle de 27 États membres.`
     },
     apprehender: {
-        photo: '/medias/images/euro/crise-ue2.jpg',
+        photo: 'medias/images/euro/crise-ue2.jpg',
         text: `Au-delà des procédures, l'objectif est de vous faire appréhender la complexité inhérente à la prise de décision européenne. Vous réaliserez que chaque décision est le fruit d'un équilibre délicat entre des intérêts multiples et souvent divergents : les intérêts nationaux défendus par les gouvernements, les lignes politiques portées par les groupes du Parlement, et l'influence des lobbies représentant la société civile ou des secteurs économiques. La simulation vous met au défi de naviguer dans cette complexité, de comprendre les motivations des autres acteurs et de trouver des solutions qui, bien que n'étant parfaites pour personne, sont acceptables pour tous.`
     }
 };
