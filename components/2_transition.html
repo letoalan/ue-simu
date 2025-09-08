@@ -1,10 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+<!--
+  Composant 2 : Écran de transition
+  Affiche un résumé du scénario choisi et une barre de chargement animée
+  avant de révéler l'interface principale.
+-->
+<div class="transition-content-wrapper">
+    <h1 class="transition-heading">Votre Simulation est Prête</h1>
+    <div class="scenario-display">
+        <h2 class="scenario-title" id="selected-scenario"></h2>
+        <h3 class="directive-title" id="selected-directive"></h3>
+        <div class="scenario-description">
+            <p></p>
+        </div>
+    </div>
+    <div class="loading-bar">
+        <div class="loading-progress" id="loadingProgress"></div>
+    </div>
+    <div class="objectives-section">
+        <h3>Objectifs Principaux :</h3>
+        <ul class="objectives-list">
+        </ul>
+    </div>
+</div>

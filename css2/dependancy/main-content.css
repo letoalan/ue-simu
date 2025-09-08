@@ -97,8 +97,8 @@ h2 {
     font-size: 1.2rem;
 }
 
-/* Party selector (previously countrySelect) */
-.countrySelect {
+/* Sélecteur générique pour le simulateur */
+.sim-selector {
     display: block;
     margin: calc(var(--spacing-unit) * 2) auto;
     font-size: 1.15rem;
@@ -106,8 +106,8 @@ h2 {
     border-radius: calc(var(--border-radius) * 0.75);
     border: 1px solid var(--border-color);
     background: linear-gradient(145deg, #f9f9f9, #e1edf7);
-    width: 100%;
-    max-width: 450px;
+    width: auto; /* La largeur s'adapte au contenu le plus long */
+    min-width: 200px; /* Assure une largeur minimale pour l'esthétique */
     color: var(--primary-color);
     font-family: var(--font-family);
     font-weight: 500;
@@ -120,12 +120,12 @@ h2 {
     transition: border-color var(--hover-transition), box-shadow var(--hover-transition);
 }
 
-#countrySelect:hover {
+.sim-selector:hover {
     border-color: var(--secondary-color);
     box-shadow: 0 2px 8px var(--shadow-color);
 }
 
-#countrySelect:focus {
+.sim-selector:focus {
     outline: none;
     border-color: var(--secondary-color);
     box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.2);

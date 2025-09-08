@@ -29,7 +29,8 @@ export function updateContentDisplay({ photoContainer, textContainer, photoUrl, 
 
         displayArea.classList.remove('layout-vertical', 'layout-horizontal');
 
-        if (img.naturalHeight > img.naturalWidth) {
+        // Nouvelle logique : portrait OU carré = horizontal, paysage = vertical
+        if (img.naturalHeight >= img.naturalWidth) {
             displayArea.classList.add('layout-horizontal');
         } else {
             displayArea.classList.add('layout-vertical');

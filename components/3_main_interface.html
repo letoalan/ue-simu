@@ -1,10 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
-</head>
-<body>
-$END$
-</body>
-</html>
+<div class="main-content" id="mainScreen">
+    <header>
+        <!-- Vidéo d'arrière-plan -->
+        <video autoplay muted loop id="header-video">
+            <source src="/medias/video/Europa.mp4" type="video/mp4">
+            Votre navigateur ne supporte pas la vidéo.
+        </video>
+        <!-- Fond blanc transparent -->
+        <div class="header-overlay"></div>
+        <h1>Simulation UE – Scénarios économiques, géopolitiques et projections politiques</h1>
+        <div id="scenario-display" style="text-align: center; margin-bottom: 20px; font-size: 1.2em; color: #555;"></div>
+        <nav>
+            <button data-tab="euro-tab">Présentation des institutions européennes</button>
+            <button data-tab="simulation-tab">Les objectifs de la simulation</button>
+            <button data-tab="scenario-tab">Présentation des enjeux détaillés de la directive</button>
+            <button data-tab="state-info-tab">Informations et stratégie par États</button>
+            <button data-tab="parti-info-tab">Informations et stratégie par parti</button>
+            <button data-tab="lobby-info-tab">Informations et stratégie des lobbies</button>
+            <button data-tab="negociation-country-tab">Pistes de négociation par pays</button>
+            <button data-tab="negociation-party-tab">Pistes de négociation par parti</button>
+            <button data-tab="negociation-lobby-tab">Pistes de négociation par lobby</button>
+            <button data-tab="simulator-tab">Simulateur</button>
+        </nav>
+    </header>
+
+    <!-- Conteneurs pour chaque onglet -->
+    <!-- Les conteneurs des onglets sont maintenant des coquilles vides qui seront remplies par le JS -->
+    <div id="euro-tab" class="tab-content" style="display: none;"></div>
+    <div id="simulation-tab" class="tab-content" style="display: none;"></div>
+    <div id="scenario-tab" class="tab-content" style="display: none;"></div>
+    <div id="state-info-tab" class="tab-content" style="display: none;"></div>
+    <div id="parti-info-tab" class="tab-content" style="display: none;"></div>
+    <div id="lobby-info-tab" class="tab-content" style="display: none;"></div>
+    <div id="negociation-country-tab" class="tab-content" style="display: none;"></div>
+    <div id="negociation-party-tab" class="tab-content" style="display: none;"></div>
+    <div id="negociation-lobby-tab" class="tab-content" style="display: none;"></div>
+    <div id="simulator-tab" class="tab-content" style="display: none;"></div>
+</div>
