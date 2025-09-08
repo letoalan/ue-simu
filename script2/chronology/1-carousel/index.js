@@ -37,6 +37,7 @@ export async function init(DOMRefs) {
 async function loadScenarioData() {
     try {
         const baseUrl = window.location.pathname.split('/').slice(0, -2).join('/');
+        console.log(baseUrl)
         const [data1, data2] = await Promise.all([
             fetch(`${baseUrl}/json/scenario1.json`).then(r => r.json()),
             fetch(`${baseUrl}/json/scenario2.json`).then(r => r.json())
