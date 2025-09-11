@@ -2,7 +2,7 @@
     <!-- Sous-navigation de l'onglet Objectifs -->
     <div class="tab-sub-header" id="objectives-sub-nav">
         <button class="sub-nav-btn active" data-sub-tab="comprehension">Compréhension du processus décisionnel</button>
-        <button class="sub-nav-btn" data-sub-tab="immersion">Immersion dans les rôles et responsabilités</button>
+        <button class="sub-nav-btn" data-sub-tab="regles">Les règles du jeu</button>
         <button class="sub-nav-btn" data-sub-tab="enjeux">Prise de conscience des enjeux</button>
         <button class="sub-nav-btn" data-sub-tab="competences">Développement des compétences transversales</button>
         <button class="sub-nav-btn" data-sub-tab="experience">Apprentissage par l’expérience</button>
@@ -29,7 +29,25 @@
         </div>
 
         <!-- Autres sous-onglets (à remplir plus tard) -->
-        <div id="immersion-sub-tab" class="sub-tab-content"><p>Contenu pour "Immersion" à venir.</p></div>
+        <!-- Sous-onglet: Règles -->
+        <div id="regles-sub-tab" class="sub-tab-content">
+            <select class="sim-selector sub-tab-menu" id="regles-menu">
+                <option value="general">Règles générales</option>
+                <option value="deroulement">Déroulement</option>
+                <option value="commission">Règles pour la Commission </option>
+                <option value="conseil">Règles pour le Conseil Européen </option>
+                <option value="parlement">Règles pour le Parlement</option>
+                <option value="lobbies"> Règles pour les lobbies</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="regles-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="regles-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
+        </div>
         <div id="enjeux-sub-tab" class="sub-tab-content"><p>Contenu pour "Prise de conscience" à venir.</p></div>
         <div id="competences-sub-tab" class="sub-tab-content"><p>Contenu pour "Compétences" à venir.</p></div>
         <div id="experience-sub-tab" class="sub-tab-content"><p>Contenu pour "Apprentissage" à venir.</p></div>

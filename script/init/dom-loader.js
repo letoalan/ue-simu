@@ -37,7 +37,8 @@ export async function loadAllComponents() {
     await Promise.all([
         loadComponent('components/maininterface/simulator.html', 'simulator-tab'),
         loadComponent('components/maininterface/euro.html', 'euro-tab'),
-        loadComponent('components/maininterface/objectives.html', 'simulation-tab')
+        loadComponent('components/maininterface/objectives.html', 'simulation-tab'),
+        loadComponent('components/maininterface/vote.html', 'vote-tab')
     ]);
 
     // Gérer la visibilité initiale des conteneurs principaux
@@ -96,6 +97,8 @@ export function collectAllDomReferences() {
 
     // --- Module 3: Interface Principale, Simulateur & Dashboard ---
     DOMRefs.tabButtons = document.querySelectorAll('nav button[data-tab]');
+    DOMRefs.simulatorTabBtn = document.getElementById('simulator-tab-btn');
+    DOMRefs.voteResultsForSimulator = document.getElementById('vote-results-for-simulator');
     DOMRefs.tabContents = document.querySelectorAll('.tab-content');
     DOMRefs.simulateBtn = document.getElementById('simulButton');
     DOMRefs.partiSelect = document.getElementById('partiSelect');
@@ -146,6 +149,9 @@ export function collectAllDomReferences() {
     DOMRefs.comprehensionMenu = document.getElementById('comprehension-menu');
     DOMRefs.comprehensionPhoto = document.getElementById('comprehension-photo');
     DOMRefs.comprehensionText = document.getElementById('comprehension-text');
+    DOMRefs.reglesMenu = document.getElementById('regles-menu');
+    DOMRefs.reglesPhoto = document.getElementById('regles-photo');
+    DOMRefs.reglesText = document.getElementById('regles-text');
 
     console.table(Object.fromEntries(
         Object.entries(DOMRefs).map(([k, v]) => [k, v ? '✅' : '❌'])

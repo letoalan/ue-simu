@@ -1,0 +1,35 @@
+<div class="vote-layout">
+    <!-- Le sélecteur d'étape sera injecté ici par le JS -->
+    <div id="vote-step-selector-container"></div>
+
+    <!-- Conteneur principal pour le contenu de l'étape active -->
+    <div class="vote-content-area" id="vote-content-area">
+        <div class="vote-step-content-wrapper" id="vote-step-content-wrapper">
+            <!-- Le contenu de l'étape (graphiques, tableaux, etc.) sera injecté ici -->
+        </div>
+
+        <!-- Section de validation et de résultats -->
+        <div class="vote-validation-section">
+            <div class="validation-summary" id="validation-summary-text">
+                <!-- Résumé de l'état du vote (ex: "Majorité atteinte") -->
+            </div>
+            <button id="validate-step-btn" class="validation-btn">Valider ce vote</button>
+            <div id="final-results-section" style="display: none;">
+                <button id="applyVoteResultsBtn" class="apply-results-btn">Appliquer les résultats au simulateur</button>
+                <div id="voteResultsDisplay" class="vote-results-display" style="display: none;"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- NOUVELLE SECTION RÉCAPITULATIVE -->
+    <div id="vote-summary-section" class="vote-summary-section" style="display: none;">
+        <div class="summary-block">
+            <h4>Résultats des Votes</h4>
+            <div id="vote-results-summary-table-wrapper"></div>
+        </div>
+        <div class="summary-block">
+            <h4>Impact sur les Indicateurs</h4>
+            <div id="indicator-impact-summary-table-wrapper"></div>
+        </div>
+    </div>
+</div>

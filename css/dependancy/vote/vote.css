@@ -1,0 +1,350 @@
+/* --- Layout principal de l'onglet de vote --- */
+.vote-layout {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+}
+
+/* --- Sélecteur d'étape --- */
+#vote-step-selector-container {
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e0e0e0;
+    text-align: center;
+}
+
+.vote-step-selector {
+    /* Hérite du style .sim-selector, mais on peut ajouter des spécificités */
+    font-size: 1.2em;
+    font-weight: bold;
+    padding: 10px 15px;
+    width: auto;
+    max-width: 100%;
+}
+
+/* --- Zone de contenu de l'étape --- */
+.vote-content-area {
+    display: flex;
+    flex-direction: column;
+}
+
+.vote-step-content-wrapper {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* --- Description de l'étape --- */
+.step-description-title {
+    padding: 15px;
+    background-color: #e3f2fd;
+    border-left: 5px solid var(--primary-color, #1a237e);
+    border-radius: 6px;
+    margin-bottom: 20px;
+    font-size: 1.1em;
+    color: var(--primary-color, #1a237e);
+}
+
+.step-description-text {
+    font-weight: normal;
+    color: #333;
+}
+
+/* NOUVEAU : Style pour un bloc de vote validé (grisé) */
+.vote-table-container.validated {
+    opacity: 0.65;
+    background-color: #f5f5f5;
+    transition: opacity 0.3s ease, background-color 0.3s ease;
+}
+
+.vote-table-container.validated h3 {
+    color: #9e9e9e;
+}
+
+/* --- Style des tableaux de vote --- */
+.vote-table-container h3 {
+    text-align: center;
+    color: var(--primary-color, #1a237e);
+    margin-bottom: 15px;
+}
+
+.vote-table-wrapper {
+    overflow-x: auto; /* Permet le défilement si le tableau est trop large */
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+}
+
+.vote-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85em;
+}
+
+.vote-table th, .vote-table td {
+    padding: 6px 4px;
+    text-align: center;
+    border: 1px solid #e0e0e0;
+}
+
+.vote-table thead th {
+    background-color: #f4f6f8;
+    font-weight: 600;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.vote-table .actor-name {
+    text-align: left;
+    font-weight: 500;
+    position: sticky;
+    left: 0;
+    background-color: #f4f6f8;
+    z-index: 1;
+    padding-left: 10px;
+}
+
+/* --- Style des boutons radio personnalisés --- */
+.vote-cell {
+    white-space: nowrap;
+}
+
+.vote-cell input[type="radio"] {
+    display: none;
+}
+
+.vote-cell label {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    margin: 0 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+}
+
+.vote-cell label:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.vote-cell .vote-pour { background-color: #d4edda; border: 2px solid #28a745; }
+.vote-cell .vote-abstention { background-color: #fff3cd; border: 2px solid #ffc107; }
+.vote-cell .vote-contre { background-color: #f8d7da; border: 2px solid #dc3545; }
+
+.vote-cell input[type="radio"]:checked + label {
+    transform: scale(1.15);
+    box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.5);
+}
+
+.vote-cell input[type="radio"]:checked + label::after {
+    content: '✓';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    color: #333;
+}
+
+/* --- Style des conteneurs de visualisation --- */
+.step-viz-header {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+
+.parliament-viz-container {
+    height: 300px;
+    max-height: 350px;
+}
+
+.viz-container {
+    background: #fff;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.viz-container h4 {
+    text-align: center;
+    margin: 0 0 15px 0;
+    color: var(--secondary-color, #1976d2);
+}
+
+.viz-container canvas {
+    flex-grow: 1;
+    min-height: 0;
+}
+
+.progress-bar-container {
+    width: 100%;
+    height: 30px;
+    background-color: #e9ecef;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid #ccc;
+}
+
+.progress-bar {
+    height: 100%;
+    width: 0%;
+    background-color: #ced4da;
+    transition: width 0.5s ease-in-out, background-color 0.5s ease;
+    text-align: center;
+    line-height: 30px;
+    color: #111; /* Texte sombre par défaut */
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.progress-bar.orange { background-color: #fd7e14; }
+.progress-bar.green {
+    background-color: var(--success-color, #28a745);
+    color: white; /* Texte blanc sur fond vert */
+}
+
+.viz-summary-text {
+    margin-top: 8px;
+    font-size: 0.9em;
+    color: #666;
+    text-align: center;
+}
+
+/* --- Section de validation et de résultats --- */
+.vote-validation-section {
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 2px solid #e0e0e0;
+}
+
+.validation-summary {
+    margin-bottom: 15px;
+    font-style: italic;
+    color: #555;
+}
+
+.validation-btn, #applyVoteResultsBtn {
+    background: var(--success-color, #28a745);
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.validation-btn:disabled, #applyVoteResultsBtn:disabled {
+    background-color: #9e9e9e;
+    cursor: not-allowed;
+}
+
+.validation-btn:hover, #applyVoteResultsBtn:hover {
+    background-color: #218838;
+}
+
+.vote-results-display {
+    margin-top: 15px;
+    padding: 15px;
+    background-color: #eef;
+    border-radius: 8px;
+    border: 1px solid #ccd;
+    text-align: left;
+}
+
+/* NOUVEAU : Style pour la notification "Toast" */
+.toast-notification {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--primary-color, #1a237e);
+    color: white;
+    padding: 16px 30px;
+    border-radius: 8px;
+    z-index: 10001; /* Au-dessus de tout */
+    opacity: 0;
+    transition: opacity 0.5s, bottom 0.5s;
+    pointer-events: none;
+}
+
+.toast-notification.show {
+    opacity: 1;
+    bottom: 40px;
+}
+
+/* --- Section Récapitulative --- */
+.vote-summary-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 25px;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 2px solid #ddd;
+}
+
+.summary-block {
+    background: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    border: 1px solid #e0e0e0;
+}
+
+.summary-block h4 {
+    text-align: center;
+    color: var(--primary-color, #1a237e);
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9em;
+}
+
+.summary-table th, .summary-table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.summary-table th {
+    font-weight: 600;
+}
+
+.summary-table td.result-icon {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.summary-table td.variation {
+    font-weight: bold;
+    text-align: right;
+}
+
+.summary-table td.variation.positive { color: var(--success-color, #28a745); }
+.summary-table td.variation.negative { color: #dc3545; }
+.summary-table td.variation.neutral { color: #6c757d; }
+
+/* --- Responsive --- */
+@media (max-width: 900px) {
+    .vote-summary-section {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .vote-table th, .vote-table td {
+        padding: 6px 2px;
+        font-size: 0.75em;
+    }
+}

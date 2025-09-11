@@ -9,6 +9,14 @@ export const DOMRefs = {};
 export const ChartInstances = {};
 
 /**
+ * Stocke les données des scénarios chargées au démarrage de l'application.
+ */
+export const ScenariosData = {
+    1: null,
+    2: null
+};
+
+/**
  * Centralise l'état partagé de l'application pour éviter les variables globales.
  * Chaque module lit et écrit dans cet objet.
  */
@@ -62,12 +70,12 @@ export const chartIdsToClone = ['euChart', 'countryChart', 'politiqueChart', 'lo
 
 // EU member states
 export const euStatesData = [
-    { name: "Allemagne", code: "DE", icon: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" },
-    { name: "France", code: "FR", icon: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" },
-    { name: "Italie", code: "IT", icon: "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" },
-    { name: "Hongrie", code: "HU", icon: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" },
-    { name: "Pologne", code: "PL", icon: "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
-    { name: "Suède", code: "SE", icon: "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" }
+    { name: "Allemagne", code: "DE", population: 84.3, icon: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg" },
+    { name: "France", code: "FR", population: 64.7, icon: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" },
+    { name: "Italie", code: "IT", population: 58.9, icon: "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg" },
+    { name: "Hongrie", code: "HU", population: 9.6, icon: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg" },
+    { name: "Pologne", code: "PL", population: 38.0, icon: "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" },
+    { name: "Suède", code: "SE", population: 10.5, icon: "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg" }
 ];
 
 // Political parties

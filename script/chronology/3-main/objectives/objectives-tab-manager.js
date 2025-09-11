@@ -1,21 +1,14 @@
 import { updateContentDisplay } from '../content-display-manager.js';
 
-
-
-// SOLUTION 1: Fonction utilitaire pour les chemins d'images
+// Fonction utilitaire pour les chemins d'images
 function getImagePath(relativePath) {
     const hostname = window.location.hostname;
     const pathname = window.location.pathname;
-
-    console.log('Image path - Hostname:', hostname);
-    console.log('Image path - Pathname:', pathname);
-
     // Si on est sur GitHub Pages
     if (hostname.includes('github.io')) {
         if (pathname.includes('/ue-simu/')) {
             return `/ue-simu${relativePath}`;
         } else {
-            // Extraire le nom du repo du pathname
             const pathParts = pathname.split('/').filter(part => part !== '');
             if (pathParts.length > 0) {
                 return `/${pathParts[0]}${relativePath}`;
@@ -23,16 +16,13 @@ function getImagePath(relativePath) {
         }
         return relativePath;
     }
-
     // Si on est en local
     if (hostname === 'localhost' || hostname === '127.0.0.1' || hostname.includes('192.168')) {
         return `.${relativePath}`;
     }
-
     // Cas par défaut - chemin relatif
     return `.${relativePath}`;
 }
-
 
 // Contenu textuel et images pour le sous-onglet "Compréhension"
 const comprehensionContent = {
@@ -50,15 +40,62 @@ const comprehensionContent = {
     }
 };
 
-/**
- * Met à jour le contenu du sous-onglet "Compréhension" en utilisant le gestionnaire générique.
- * @param {string} selection - La clé de la sélection du menu (ex: 'familiariser').
- * @param {object} DOMRefs - Les références DOM globales.
- */
+// Contenu pour le sous-onglet "Règles" (format identique à comprehensionContent)
+const reglesContent = {
+    general: {
+        photo: getImagePath('/medias/images/euro/regles-generales.jpg'),
+        text: `RÈGLES GÉNÉRALES<br>
+    Le jeu simule la procédure législative de l’UE entre Commission, Conseil, Parlement et lobbies.<br>
+    Chaque jeton donné engage le bénéficiaire à suivre l'accord au vote concerné.<br>
+    Un texte (directive ou amendement) est adopté seulement si Conseil ET Parlement l’approuvent selon leurs règles de majorité.<br>
+    La trahison d'un accord jeton est sanctionnée par un "carton rouge".`
+    },
+    deroulement: {
+        photo: getImagePath('/medias/images/euro/regles-deroulement.jpg'),
+        text: `DÉROULEMENT DU JEU<br>
+    1. Mise en situation et attribution des rôles.<br>
+    2. Phase de négociation et échanges de jetons d’engagement.<br>
+    3. Vote séquentiel sur la directive, les amendements puis le package final, affichage automatique des majorités et résultats.<br>
+    4. Débriefing, vérification des engagements respectés ou trahis, calcul des scores et cartons rouges.`
+    },
+    commission: {
+        photo: getImagePath('/medias/images/euro/commission-jeu.jpg'),
+        text: `RÔLE DE LA COMMISSION<br>
+    La Commission anime et facilite la négociation, pour faire adopter la directive et le package final.<br>
+    Elle dispose de 10 jetons d’entretien à remettre à des États ou des partis pour ouvrir le dialogue (information, influence).<br>
+    Ne peut recevoir de jetons que des lobbies. 3 cartons rouges ou plus (pour manipulation avérée) : score nul.<br>
+    N'a pas de droit de vote.`
+    },
+    conseil: {
+        photo: getImagePath('/medias/images/euro/conseil-vote.jpg'),
+        text: `RÈGLES POUR LE CONSEIL EUROPÉEN (ÉTATS)<br>
+    Chaque État peut donner maximum 3 jetons (5 max reçus).<br>
+    Respect de l'engagement requis : la trahison = carton rouge.<br>
+    Majorité qualifiée requise pour valider un texte (55% des États et 65% population UE).<br>
+    +10 points par engagement tenu / 3 cartons rouges ou plus : score = zéro.`
+    },
+    parlement: {
+        photo: getImagePath('/medias/images/euro/parlement-jeu.jpg'),
+        text: `RÈGLES POUR LE PARLEMENT<br>
+    Chaque parti politique peut donner jusqu'à 3 jetons (max 5 reçus).<br>
+    Engagement = obligation de suivre l'accord au vote correspondant.<br>
+    Majorité absolue requise pour adopter/amender.<br>
+    10 points par engagement respecté / 3 cartons rouges ou plus : score = zéro.`
+    },
+    lobbies: {
+        photo: getImagePath('/medias/images/euro/lobbies.jpg'),
+        text: `RÈGLES POUR LES LOBBIES<br>
+    Chaque lobby doit placer 5 jetons d’influence au cours de la partie (pas d’engagement réciproque).<br>
+    Un engagement respecté = 10 points.<br>
+    Jeton non placé = pas de point.<br>
+    Peuvent donner des jetons à la Commission pour obtenir info ou influence.`
+    }
+};
+
+// Fonctions de mise à jour du contenu (identiques pour comprehension et règles)
 function updateComprehensionContent(selection, DOMRefs) {
     const content = comprehensionContent[selection];
     if (!content) return;
-
     updateContentDisplay({
         photoContainer: DOMRefs.comprehensionPhoto,
         textContainer: DOMRefs.comprehensionText,
@@ -66,25 +103,33 @@ function updateComprehensionContent(selection, DOMRefs) {
         text: content.text
     });
 }
+function updateRulesContent(selection, DOMRefs) {
+    const content = reglesContent[selection];
+    if (!content) return;
+    updateContentDisplay({
+        photoContainer: DOMRefs.reglesPhoto,
+        textContainer: DOMRefs.reglesText,
+        photoUrl: content.photo,
+        text: content.text
+    });
+}
 
-/**
- * Initialise la logique de l'onglet "Objectifs de la simulation".
- * @param {object} DOMRefs - Les références DOM globales.
- */
+// Initialisation
 export function initObjectivesTab(DOMRefs) {
     const subNavButtons = DOMRefs.objectivesSubNav?.querySelectorAll('.sub-nav-btn');
     const subTabContainer = document.getElementById('objectives-sub-tab-container');
     if (!subNavButtons || !subTabContainer) return;
-
     const subTabContents = subTabContainer.querySelectorAll('.sub-tab-content');
+
+    // Menus
     const comprehensionMenu = DOMRefs.comprehensionMenu;
+    const reglesMenu = DOMRefs.reglesMenu;
 
     // Gérer la navigation entre les sous-onglets
     subNavButtons.forEach(button => {
         button.addEventListener('click', () => {
             subNavButtons.forEach(btn => btn.classList.remove('active'));
             button.classList.add('active');
-
             const subTabId = button.dataset.subTab + '-sub-tab';
             subTabContents.forEach(content => {
                 content.classList.remove('active');
@@ -92,7 +137,6 @@ export function initObjectivesTab(DOMRefs) {
                     content.classList.add('active');
                 }
             });
-
             // Charger le contenu par défaut du sous-onglet activé
             const menu = document.getElementById(`${button.dataset.subTab}-menu`);
             if (menu) {
@@ -101,13 +145,17 @@ export function initObjectivesTab(DOMRefs) {
         });
     });
 
-    // Gérer le menu du premier sous-onglet
     if (comprehensionMenu) {
-        comprehensionMenu.addEventListener('change', (e) => {
+        comprehensionMenu.addEventListener('change', e => {
             updateComprehensionContent(e.target.value, DOMRefs);
         });
+        updateComprehensionContent('familiariser', DOMRefs);
     }
 
-    // Afficher le contenu par défaut au chargement initial
-    updateComprehensionContent('familiariser', DOMRefs);
+    if (reglesMenu) {
+        reglesMenu.addEventListener('change', e => {
+            updateRulesContent(e.target.value, DOMRefs);
+        });
+        updateRulesContent('general', DOMRefs);
+    }
 }

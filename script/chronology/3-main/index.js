@@ -3,6 +3,7 @@ import { init as initSimulator } from './simulator/index.js';
 import { updateSimulatorInputsDisplay } from './simulator/inputs.js';
 import { init as initInstitutionsModule } from './institutions/index.js';
 import { init as initObjectivesModule } from './objectives/index.js';
+import { init as initVoteModule } from './vote/index.js';
 
 /**
  * Initialise le module de l'interface principale (contenu post-transition).
@@ -16,6 +17,12 @@ export function init(DOMRefs) {
 
     // 2. Configurer les événements de l'interface principale (onglets, dashboard)
     setupMainEvents(DOMRefs);
+
+    // NOUVEAU: Verrouiller l'onglet du simulateur par défaut
+    if (DOMRefs.simulatorTabBtn) {
+        DOMRefs.simulatorTabBtn.disabled = true;
+        DOMRefs.simulatorTabBtn.title = "Veuillez d'abord terminer le processus de vote dans l'onglet 'Vote'.";
+    }
 
     // 3. Initialiser les sous-modules, comme le simulateur (attache les écouteurs, etc.)
     initSimulator(DOMRefs);
@@ -35,7 +42,13 @@ export function init(DOMRefs) {
         initObjectivesModule(DOMRefs);
     }
 
-    // 7. Afficher l'onglet par défaut au démarrage
+    // 7. Initialiser la logique de l'onglet Vote
+    // Note: L'ID 'vote-tab' doit exister dans 3_main_interface.html
+    if (document.getElementById('vote-tab')) {
+        initVoteModule(DOMRefs);
+    }
+
+    // 8. Afficher l'onglet par défaut au démarrage
     showTab('euro-tab');
 }
 
