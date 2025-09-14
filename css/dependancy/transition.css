@@ -1,163 +1,158 @@
+/* =====  NEW PALETTE (kept in carrousel.css :root)  ===== */
+:root {
+    --primary:        #1a237e;   /* former #1a237e */
+    --primary-light:  #e3f2fd;   /* former #e3f2fd */
+    --secondary:      #1976d2;   /* former #1976d2 */
+    --success:        #4caf50;   /* former #4CAF50 */
+    --text-main:      #37474f;   /* former #333/#37474F */
+    --text-muted:     #546e7a;   /* former #555/#666 */
+    --surface:        #ffffff;   /* former #fff */
+    --background:     #f7fafd;   /* former #f9f9f9 */
+    --radius:         16px;      /* former 12px/8px */
+    --shadow:         0 12px 32px rgba(44,62,80,.18);
+}
 
-/* Styles pour la page de transition */
+/* ---------------  transition.css  --------------- */
 .transition-container {
-    /* La visibilité est gérée par JavaScript (display: none/flex). */
-    /* Ce CSS définit l'apparence de l'élément LORSQU'IL EST VISIBLE. */
-
-    /* --- Styles CRUCIAUX pour le recouvrement plein écran --- */
-    position: fixed; /* Rend l'élément fixe par rapport à la fenêtre de visualisation */
-    top: 0;          /* Positionne en haut de la fenêtre */
-    left: 0;         /* Positionne à gauche de la fenêtre */
-    width: 100vw;    /* Prend 100% de la largeur du viewport */
-    height: 100vh;   /* Prend 100% de la hauteur du viewport */
-    z-index: 1000;   /* S'assure qu'il est au-dessus de la plupart des autres éléments */
-    background-color: rgba(255, 255, 255, 0.95); /* Fond semi-transparent pour l'effet de chargement */
-    overflow: hidden; /* Empêche le défilement du conteneur de transition lui-même */
-
-    /* --- Styles Flexbox pour centrer le contenu interne --- */
+    /* layout untouched */
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    background: rgba(255,255,255,.95);
+    overflow: hidden;
     display: flex;
-    flex-direction: column;    /* Empile les éléments verticalement */
-    justify-content: center;   /* Centre les éléments enfants verticalement */
-    align-items: center;       /* Centre les éléments enfants horizontalement */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-/* Nouveau style pour le wrapper interne du contenu de la transition (si utilisé dans le HTML) */
 .transition-content-wrapper {
-    padding: 40px;            /* Espacement interne de la boîte de contenu */
-    text-align: center;       /* Centre le texte à l'intérieur de la boîte */
-    max-width: 800px;         /* Limite la largeur de la boîte de contenu */
-    width: 90%;               /* Prend 90% de la largeur disponible du parent (pour un meilleur responsive) */
-    background: #f9f9f9;      /* Couleur de fond de la boîte de contenu */
-    border-radius: 12px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-    box-sizing: border-box;   /* Inclut le padding dans la largeur/hauteur */
-    margin:auto;
-    /* Suppression des propriétés flexbox internes, gap, max-height, overflow-y */
+    padding: 2.5rem;                 /* 40px → rem */
+    text-align: center;
+    max-width: 800px;
+    width: 90%;
+    background: var(--surface);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    box-sizing: border-box;
+    margin: auto;
 }
 
-/* Styles pour les éléments HIERARCHIQUES de la page de transition */
 .transition-heading {
-    color: #1a237e;
-    font-size: 2.5em;
-    margin-bottom: 30px;
+    color: var(--primary);
+    font-size: clamp(1.75rem, 4vw, 2.5rem); /* responsive fluid type */
+    margin-bottom: 1.5rem;
 }
 
 .scenario-display {
-    margin-bottom: 30px;
-    background: #e3f2fd;
-    border-radius: 8px;
-    padding: 20px;
-    margin: 20px 0;
-    border-left: 4px solid #1a237e;
+    margin: 1.25rem 0;
+    background: var(--primary-light);
+    border-radius: calc(var(--radius) / 2);
+    padding: 1.25rem;
+    border-left: 4px solid var(--primary);
 }
 
 .scenario-title {
-    color: #333;
-    font-size: 1.8em;
-    margin-bottom: 10px;
+    color: var(--text-main);
+    font-size: clamp(1.25rem, 3vw, 1.8rem);
+    margin-bottom: .5rem;
 }
 
 .directive-title {
-    color: #555;
-    font-size: 1.4em;
-    margin-bottom: 20px;
+    color: var(--text-muted);
+    font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+    margin-bottom: 1.25rem;
 }
 
 .scenario-description p {
-    color: #666;
-    line-height: 1.6;
-    margin-bottom: 20px;
+    color: var(--text-muted);
+    line-height: 1.65;
+    margin-bottom: 1.25rem;
 }
 
 .objectives-section h3 {
-    color: #1a237e;
-    font-size: 1.5em;
-    margin-bottom: 15px;
+    color: var(--primary);
+    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+    margin-bottom: 1rem;
 }
 
 .objectives-list {
     list-style: none;
     padding: 0;
-    margin-bottom: 30px;
+    margin: 0 auto 2rem;
     text-align: left;
-    max-width: 600px; /* Limite la largeur de la liste des objectifs */
-    margin: 0 auto 30px; /* Centre la liste à l'intérieur de son conteneur */
+    max-width: 600px;
 }
 
 .objectives-list li {
-    background-color: #e3f2fd;
-    border-left: 5px solid #2196f3;
-    padding: 12px 15px;
-    margin-bottom: 10px;
-    border-radius: 8px;
-    color: #333;
-    text-align: left;
-    font-size: 1.1em;
+    background: var(--primary-light);
+    border-left: 5px solid var(--secondary);
+    padding: .75rem 1rem .75rem 2rem;
+    margin-bottom: .75rem;
+    border-radius: calc(var(--radius) / 2);
+    color: var(--text-main);
+    font-size: 1.05rem;
     position: relative;
-    padding-left: 25px; /* Espace pour la coche personnalisée */
 }
 
-.objectives-list li:before {
-    content: "✓"; /* Utilise une coche comme puce */
-    color: #28a745; /* Couleur verte pour la coche */
-    font-size: 1.3em; /* Ajuste la taille de la coche */
+.objectives-list li::before {
+    content: "✓";
+    color: var(--success);
+    font-size: 1.3em;
     position: absolute;
-    left: 0;
-    top: 0px; /* Ajuste la position verticale pour un meilleur alignement */
-    font-weight: bold; /* Rend la coche plus visible */
+    left: .5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    font-weight: 700;
 }
 
+/* ----------  loading bar  ---------- */
 .loading-bar {
-    width: 80%;
+    width: min(80%, 400px);
     height: 8px;
-    background-color: #e0e0e0;
+    background: rgba(0,0,0,.08);
     border-radius: 4px;
-    margin: 20px auto;
+    margin: 1.5rem auto;
     overflow: hidden;
-    /* Suppression de flex-shrink: 0 */
 }
 
 .loading-progress {
-    width: 0%;
     height: 100%;
-    background-color: #4CAF50; /* Vert pour la barre de chargement */
-    border-radius: 4px;
-    transition: width 3s ease-in-out; /* Animation plus longue pour un effet de chargement */
+    background: var(--success);
+    border-radius: inherit;
+    transition: width 3s ease-in-out;
 }
 
-@keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-}
-
+/* ----------  footer  ---------- */
 .transition-footer {
-    margin-top: 40px;
-    font-size: 0.9em;
-    color: #777;
+    margin-top: 2.5rem;
+    font-size: .85rem;
+    color: var(--text-muted);
 }
 
-/* Responsive de la page de transition */
-@media (max-width: 768px) {
-    /* Le .transition-container gère déjà le full-screen, ajustons le wrapper interne */
+/* 600-999 px */
+@media (min-width: 600px) and (max-width: 999px) {
+    .transition-content-wrapper { padding: 1.5rem 1.25rem; }
+    .transition-heading { font-size: 1.4rem; }
+    .scenario-title { font-size: 1.25rem; }
+    .directive-title { font-size: 1.1rem; }
+}
+
+/* ≤ 599 px */
+@media (max-width: 599px) {
+    :root { --radius: 8px; }
+
     .transition-content-wrapper {
-        padding: 30px 20px; /* Réduit le padding sur les petits écrans */
-        /* Suppression de gap */
+        padding: 1rem .75rem 4.5rem; /* leave space for fixed nav */
     }
+    .transition-heading { font-size: 1.2rem; }
+    .scenario-title { font-size: 1.1rem; }
+    .directive-title { font-size: 1rem; }
+    .objectives-list li { font-size: .95rem; }
+}
 
-    .transition-heading {
-        font-size: 1.6em;
-    }
-
-    .scenario-title {
-        font-size: 1.3em;
-    }
-
-    .directive-title {
-        font-size: 1.1em;
-    }
-
-    .loading-bar {
-        /* Suppression de width: 90% et margin */
-    }
+/* tiny phones ≤ 400 px */
+@media (max-width: 400px) {
+    .transition-content-wrapper { padding: .75rem .5rem 4rem; }
+    .transition-heading { font-size: 1.1rem; }
 }

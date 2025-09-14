@@ -3,10 +3,7 @@
     <div class="tab-sub-header" id="objectives-sub-nav">
         <button class="sub-nav-btn active" data-sub-tab="comprehension">Compréhension du processus décisionnel</button>
         <button class="sub-nav-btn" data-sub-tab="regles">Les règles du jeu</button>
-        <button class="sub-nav-btn" data-sub-tab="enjeux">Prise de conscience des enjeux</button>
-        <button class="sub-nav-btn" data-sub-tab="competences">Développement des compétences transversales</button>
-        <button class="sub-nav-btn" data-sub-tab="experience">Apprentissage par l’expérience</button>
-        <button class="sub-nav-btn" data-sub-tab="citoyennete">Sensibilisation à la citoyenneté européenne</button>
+        <button class="sub-nav-btn" data-sub-tab="partie">Description d'une simulation type</button>
     </div>
 
     <!-- Conteneur pour les contenus des sous-onglets -->
@@ -48,9 +45,21 @@
                 </div>
             </div>
         </div>
-        <div id="enjeux-sub-tab" class="sub-tab-content"><p>Contenu pour "Prise de conscience" à venir.</p></div>
-        <div id="competences-sub-tab" class="sub-tab-content"><p>Contenu pour "Compétences" à venir.</p></div>
-        <div id="experience-sub-tab" class="sub-tab-content"><p>Contenu pour "Apprentissage" à venir.</p></div>
-        <div id="citoyennete-sub-tab" class="sub-tab-content"><p>Contenu pour "Citoyenneté" à venir.</p></div>
+        <div id="partie-sub-tab" class="sub-tab-content">
+            <select class="sim-selector sub-tab-menu" id="partie-menu">
+                <option value="preparation">1. Préparation et déclarations d'intention</option>
+                <option value="negociation">2. Phase de négociation et jetons</option>
+                <option value="votes">3. Votes séquentiels</option>
+                <option value="debriefing">4. Débriefing et score final</option>
+            </select>
+            <div class="content-display-area">
+                <div class="photo-container" id="partie-photo">
+                    <!-- La photo sera injectée ici par le JavaScript -->
+                </div>
+                <div class="text-container" id="partie-text">
+                    <!-- Le texte sera injecté ici par le JavaScript -->
+                </div>
+            </div>
+        </div>
     </div>
 </div>

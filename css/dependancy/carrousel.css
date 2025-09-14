@@ -1,342 +1,287 @@
+/* ==========================================================
+   Carousel – nav flottante en bas d'écran
+   ========================================================== */
 @import url('carrousel/carrousel-slide3.css');
 @import url('carrousel/carrousel-slide5.css');
 
-/* Styles du carrousel */
-.carousel-container {
-    max-width: 90%;
-    margin: 0 auto 20px;
-    position: relative;
-    height: 90vh; /* CHANGEMENT: 90% de la hauteur de la fenêtre, plus robuste que 100% */
-    flex-direction: column;
+:root {
+    --carousel-radius: var(--border-radius, 16px);
+    --carousel-shadow: 0 12px 32px var(--shadow-color, rgba(44,62,80,.18));
+    --nav-height: 5rem;
+}
+
+/* 1.  Page entière = centreur */
+html, body {
+    height: 100%;
+    margin: 0;
+}
+body {
+    display: flex;
     justify-content: center;
     align-items: center;
-    /* La visibilité est maintenant gérée par le JS, on peut retirer le display: none; d'ici */
+    background: var(--background-color, #f7fafd);
+    font-family: var(--font-family, 'Roboto', sans-serif);
 }
 
-.carousel {
-    display: flex;
-    scroll-snap-type: x mandatory;
-    overflow-x: auto;
-    overflow-y: auto;
-    scroll-behavior: smooth;
-    -webkit-overflow-scrolling: touch;
-    border-radius: 12px;
-    box-shadow: 0 8px 32px rgba(44,62,80,0.12);
-    background: #fff;
-    width: 100%; /* Le carrousel prend toute la largeur du container */
-    height : 100%;
-    flex-grow: 1; /* Permet au carrousel de prendre l'espace disponible */
-
-    /* --- Masquer la barre de défilement horizontale --- */
-    -ms-overflow-style: none;  /* Pour Internet Explorer et Edge */
-    scrollbar-width: none;  /* Pour Firefox */
-}
-
-/* Masquer la barre de défilement pour les navigateurs Webkit (Chrome, Safari) */
-.carousel::-webkit-scrollbar {
-    display: none;
-}
-
-.carousel-slide {
-    flex: 0 0 100%; /* Chaque slide prend 100% de la largeur du carrousel */
+/* 2.  Conteneur viewport */
+.carousel-container {
     width: 100%;
-    scroll-snap-align: start;
-    padding: 40px;
+    max-width: 1200px;
+    padding: 2rem;
+    box-sizing: border-box;
+}
+
+/* 3.  Carte unique – hauteur libre + scroll interne */
+.carousel {
+    position: relative;
+    max-height: 75vh;
+    background: var(--surface-color, #fff);
+    border-radius: var(--carousel-radius);
+    box-shadow: var(--carousel-shadow);
+    overflow: hidden;
+    display: flex;
+}
+
+/* 4.  Slides – toute la hauteur disponible */
+.carousel-slide {
+    flex: 0 0 100%;
+    width: 100%;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Centrer le contenu du slide verticalement */
-    align-items: center; /* Centrer le contenu du slide horizontalement */
+    justify-content: flex-start; /* Changé de 'center' à 'flex-start' */
+    align-items: center;
     text-align: center;
+    gap: 1.5rem;
+    overflow-y: auto;
+    color: var(--text-color, #37474f);
+    padding: 2rem 3rem;       /* +50 % horizontal space */
+    max-width: 100%;          /* use the new width */
+}
+
+/* Centrage vertical uniquement pour les slides courtes (1, 2, 4) */
+.carousel-slide[data-slide="1"],
+.carousel-slide[data-slide="2"],
+.carousel-slide[data-slide="4"] {
+    justify-content: center;
 }
 
 .carousel-slide h2 {
-    color: #1a237e;
-    font-size: 1.8em;
-    margin-bottom: 20px;
-    text-align: center;
+    font-size: 1.5rem;
+    color: var(--primary-color, #1a237e);
+    margin: 0 0 1rem;
 }
-
-.carousel-slide p {
-    font-size: 1.1em;
-    line-height: 1.6;
-    color: #37474f;
-    margin-bottom: 20px;
-}
-
-.carousel-slide ul {
-    padding-left: 20px;
-    margin-bottom: 20px;
-    text-align: left; /* Aligner la liste à gauche */
-}
-
+.carousel-slide p,
 .carousel-slide li {
-    margin-bottom: 8px;
+    font-size: 1rem;
+    line-height: 1.6;
+    max-width: 65ch;
 }
 
-/* Styles pour les boutons de navigation (prev/next) */
+/* 5.  Navigation – fixée en bas d'écran, hors carte */
 .carousel-nav {
-    position: absolute; /* Positionnement absolu par rapport au .carousel-container */
-    bottom: 120px; /* Ajustez si vous voulez les boutons plus haut ou plus bas */
-    left: 0;
-    right: 0;
+    position: fixed;
+    left: 50%;
+    bottom: 1.5rem;
+    transform: translateX(-50%);
+    width: calc(100% - 3rem);
+    max-width: 1090px;
+    height: var(--nav-height);
     display: flex;
-    justify-content: space-between; /* Espace entre les boutons et les points */
+    justify-content: space-between;
     align-items: center;
-    width: 100%;
-    padding: 0 20px; /* Espace sur les côtés */
-    box-sizing: border-box;
-    z-index: 10; /* Assure qu'ils sont au-dessus du carrousel */
+    padding: 0 1.5rem;
+    background: rgba(255,255,255,.98);
+    border-radius: var(--carousel-radius);
+    box-shadow: 0 6px 20px rgba(0,0,0,.25);
+    z-index: 100;
 }
 
 .carousel-btn {
-    background-color: rgba(0, 0, 0, 0.5); /* Couleur de fond semi-transparente */
-    color: #fff; /* Couleur du texte/flèche */
-    border: none;
-    border-radius: 50%; /* Boutons ronds */
-    width: 50px;
-    height: 50px;
-    font-size: 24px;
-    cursor: pointer;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    transition: background-color 0.3s ease;
-}
-
-.carousel-btn:hover {
-    background-color: rgba(0, 0, 0, 0.7);
-}
-
-/* Styles pour les points de navigation */
-.carousel-dots {
-    display: flex;
-    gap: 10px; /* Espace entre les points */
-    justify-content: center;
-    margin: 0 20px; /* S'assurer qu'il y a de l'espace si les boutons sont proches */
-}
-
-.carousel-dot {
-    background-color: rgba(0, 0, 0, 0.3); /* Couleur par défaut des points */
+    width: 46px;
+    height: 46px;
+    background: var(--primary-color, #1a237e);
+    color: #fff;
     border: none;
     border-radius: 50%;
+    font-size: 1.5rem;
+    display: grid;
+    place-content: center;
+    cursor: pointer;
+    transition: background .25s ease, transform .25s ease;
+}
+.carousel-btn:hover { background: var(--secondary-color, #1976d2); transform: scale(1.08); }
+.carousel-btn:active { transform: scale(.96); }
+
+.carousel-dots {
+    display: flex;
+    gap: .75rem;
+}
+.carousel-dot {
     width: 12px;
     height: 12px;
+    border-radius: 50%;
+    border: none;
+    background: rgba(0,0,0,.3);
     cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.3s ease;
+    transition: width .3s ease, background .3s ease;
 }
-
 .carousel-dot.active {
-    background-color: #1a237e; /* Couleur du point actif */
-    transform: scale(1.2); /* Agrandir légèrement le point actif */
-}
-
-/* Styles pour le bouton "Choix/Tirage au sort" */
-.scenario-toggle {
-    margin-top: 20px;
-}
-
-.toggle-btn {
-    background-color: #007bff;
-    color: white;
-    border: none;
-    padding: 10px 20px;
+    width: 28px;
     border-radius: 8px;
-    cursor: pointer;
-    font-size: 1em;
-    transition: background-color 0.3s ease;
+    background: var(--secondary-color, #1976d2);
 }
 
-.toggle-btn:hover {
-    background-color: #0056b3;
+/* 6.  Accessibilité */
+.carousel-btn:focus-visible,
+.carousel-dot:focus-visible {
+    outline: 3px solid var(--primary-color);
+    outline-offset: 3px;
 }
 
-/* --- Styles pour la Diapositive 5: Sélection du Scénario --- */
-.scenario-selection-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Trois colonnes égales */
-    gap: 20px; /* Espace entre les colonnes */
-    width: 100%;
-    max-width: 1200px; /* Largeur maximale de la grille */
-    margin: 20px auto;
+/* 7.  Adaptations complètes mobile et tablettes */
+
+/* Écrans moyens et tablettes (600-999px) */
+@media (min-width: 600px) and (max-width: 999px) {
+    .carousel-slide {
+        padding: 1.5rem 1.25rem;
+        gap: 1.25rem;
+    }
+
+    .carousel-slide h2 {
+        font-size: 1.4rem;
+    }
+
+    .carousel-slide p,
+    .carousel-slide li {
+        font-size: 1rem;
+        line-height: 1.6;
+    }
+
+    /* Slides complexes */
+    .carousel-slide[data-slide="3"],
+    .carousel-slide[data-slide="5"] {
+        padding: 1.25rem 1rem var(--nav-height);
+    }
 }
 
-.scenario-column {
-    background-color: #f8f8f8;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    display: flex;
-    flex-direction: column;
+/* Smartphones et petites tablettes (≤ 599px) */
+@media (max-width: 599px) {
+    :root {
+        --nav-height: 4rem;
+        --carousel-radius: 8px;
+    }
+
+    body {
+        align-items: flex-start;
+        padding: 0;
+    }
+
+    .carousel-slide {
+        padding: 1rem 0.75rem 4.5rem;
+        gap: 0.75rem;
+        justify-content: flex-start !important;
+        overflow-x: hidden;
+        word-wrap: break-word;
+    }
+
+    .carousel-slide h2 {
+        font-size: 1.2rem;
+        margin-bottom: 0.6rem;
+        text-align: center;
+        hyphens: auto;
+        word-break: break-word;
+    }
+
+    .carousel-slide p,
+    .carousel-slide li {
+        font-size: 0.9rem;
+        line-height: 1.4;
+        text-align: left;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+    }
+
+    .carousel-slide ul {
+        padding-left: 1rem;
+        margin: 0.4rem 0;
+        width: 100%;
+    }
+
+    .carousel-slide li {
+        margin-bottom: 0.3rem;
+    }
+
+    /* Slides complexes */
+    .carousel-slide[data-slide="3"],
+    .carousel-slide[data-slide="5"] {
+        padding: 0.75rem 0.5rem 4.5rem;
+    }
+
+    /* Navigation mobile */
+    .carousel-nav {
+        width: calc(100% - 1rem);
+        padding: 0 0.75rem;
+        bottom: 0.5rem;
+        height: var(--nav-height);
+    }
+
+    .carousel-btn {
+        width: 36px;
+        height: 36px;
+        font-size: 1.1rem;
+    }
+
+    .carousel-dots {
+        gap: 0.4rem;
+    }
+
+    .carousel-dot {
+        width: 8px;
+        height: 8px;
+    }
+
+    .carousel-dot.active {
+        width: 20px;
+        border-radius: 6px;
+    }
 }
 
-.scenario-column h3 {
-    color: #1a237e;
-    margin-top: 0;
-    margin-bottom: 15px;
-}
+/* Très petits smartphones (≤ 400px) */
+@media (max-width: 400px) {
+    .carousel {
+        border-radius: 4px;
+    }
 
-.scenario-column p {
-    font-size: 0.95em;
-    color: #555;
-    margin-bottom: 15px;
-}
+    .carousel-slide {
+        padding: 0.6rem 0.4rem 4rem;
+        gap: 0.5rem;
+    }
 
-.scenario-column.selected {
-    border-color: #1976d2;
-    box-shadow: 0 0 0 3px rgba(25, 118, 210, 0.3);
-}
+    .carousel-slide h2 {
+        font-size: 1.1rem;
+        line-height: 1.2;
+    }
 
-.scenario-column.disabled {
-    opacity: 0.6;
-    pointer-events: none; /* Désactive les interactions */
-}
+    .carousel-slide p,
+    .carousel-slide li {
+        font-size: 0.85rem;
+        line-height: 1.3;
+    }
 
-.table-container {
-    flex-grow: 1;
-    overflow-y: auto; /* Active le défilement pour les tableaux si le contenu dépasse */
-    max-height: 250px; /* Limite la hauteur des tableaux */
-    margin-bottom: 15px;
-}
+    .carousel-slide[data-slide="3"],
+    .carousel-slide[data-slide="5"] {
+        padding: 0.5rem 0.3rem 4rem;
+    }
 
-.scenario-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 0.9em;
-}
+    .carousel-nav {
+        padding: 0 0.5rem;
+        height: 3.5rem;
+    }
 
-.scenario-table th, .scenario-table td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-}
-
-.scenario-table th {
-    background-color: #e3f2fd;
-    color: #1a237e;
-}
-
-.scenario-table tbody tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
-
-.scenario-table tbody tr:hover {
-    background-color: #e9e9e9;
-}
-
-.scenario-table .select-directive-btn {
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 5px 10px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 0.85em;
-}
-
-.scenario-table .select-directive-btn:hover {
-    background-color: #45a049;
-}
-
-.scenario-table tbody tr.selected {
-    background-color: #c8e6c9; /* Vert clair pour la ligne sélectionnée */
-    font-weight: bold;
-}
-
-/* Styles pour les panneaux de contrôle empilés */
-.scenario-controls-stack {
-    display: flex;
-    flex-direction: column;
-    gap: 20px; /* Espace entre les deux panneaux empilés */
-}
-
-.panel-style {
-    background-color: #f8f8f8;
-    border: 1px solid #e0e0e0;
-    border-radius: 8px;
-    padding: 20px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-}
-
-.panel-style h3 {
-    color: #1a237e;
-    margin-top: 0;
-    margin-bottom: 15px;
-}
-
-.panel-style p {
-    font-size: 0.95em;
-    color: #555;
-    margin-bottom: 15px;
-}
-
-.scenario-selection-controls button,
-.random-selection-column button {
-    background-color: #1976d2;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 0.9em;
-    margin: 5px;
-    transition: background-color 0.3s ease;
-}
-
-.scenario-selection-controls button:hover,
-.random-selection-column button:hover {
-    background-color: #1565c0;
-}
-
-.draw-btn {
-    background-color: #ff9800;
-}
-
-.draw-btn:hover {
-    background-color: #fb8c00;
-}
-
-.separator {
-    border: 0;
-    height: 1px;
-    background: #e0e0e0;
-    margin: 20px 0;
-}
-
-.info-text {
-    font-size: 0.85em;
-    color: #888;
-    margin-top: 10px;
-}
-
-.main-action-btn {
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    padding: 15px 30px;
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 1.1em;
-    font-weight: bold;
-    margin-top: 30px;
-    transition: background-color 0.3s ease;
-}
-
-.main-action-btn:hover:not(:disabled) {
-    background-color: #45a049;
-}
-
-.main-action-btn:disabled {
-    background-color: #cccccc;
-    cursor: not-allowed;
-}
-
-/* Ajustements responsives pour les petits écrans */
-@media (max-width: 900px) {
-    .scenario-selection-grid {
-        grid-template-columns: 1fr; /* Empile les colonnes sur les petits écrans */
+    .carousel-btn {
+        width: 32px;
+        height: 32px;
+        font-size: 1rem;
     }
 }

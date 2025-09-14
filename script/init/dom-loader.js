@@ -152,6 +152,9 @@ export function collectAllDomReferences() {
     DOMRefs.reglesMenu = document.getElementById('regles-menu');
     DOMRefs.reglesPhoto = document.getElementById('regles-photo');
     DOMRefs.reglesText = document.getElementById('regles-text');
+    DOMRefs.partieMenu = document.getElementById('partie-menu');
+    DOMRefs.partiePhoto = document.getElementById('partie-photo');
+    DOMRefs.partieText = document.getElementById('partie-text');
 
     console.table(Object.fromEntries(
         Object.entries(DOMRefs).map(([k, v]) => [k, v ? '✅' : '❌'])

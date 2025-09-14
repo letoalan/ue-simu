@@ -142,6 +142,8 @@ h2 {
     background: linear-gradient(145deg, #f9f9f9, #e1edf7);
     width: auto; /* La largeur s'adapte au contenu le plus long */
     min-width: 200px; /* Assure une largeur minimale pour l'esthétique */
+    max-width: 100%; /* NOUVEAU : Empêche le sélecteur de déborder de son conteneur */
+    box-sizing: border-box; /* Assure que le padding est inclus dans la largeur totale */
     color: var(--primary-color);
     font-family: var(--font-family);
     font-weight: 500;

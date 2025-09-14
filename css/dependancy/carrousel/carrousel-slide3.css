@@ -1,311 +1,446 @@
-/* Styles spécifiques pour le 3ème panneau du carrousel (Acteurs de la négociation) */
+/* ==========================================================
+   Slide 3 – "Configuration des groupes"
+   – cards with icon + title + scrollable list
+   – tokens = main-content.css
+   ========================================================== */
+
+/* 1.  slide – same background as the parent card */
 .carousel-slide[data-slide="3"] {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
-    padding: 20px;
+    background: var(--surface-color, #fff);
+    gap: 2rem;
+    padding: 3rem 2rem var(--nav-height); /* Augmentation du padding-top de 2rem à 3rem */
     box-sizing: border-box;
-    overflow-y: auto; /* Scroll global si tout dépasse */
-    max-height: 100%;
+    overflow-y: auto;
+    justify-content: flex-start !important; /* Force l'alignement en haut */
+    align-items: center;
 }
 
-.carousel-slide[data-slide="3"] h2 {
-    margin-bottom: 10px;
-}
-
-/* Conteneur de la zone supérieure (import/saisie) */
+/* 2.  input zone – same skin as .param-block */
 .group-input-area {
     width: 90%;
     max-width: 800px;
-    flex: 0 0 auto; /* Hauteur selon le contenu */
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: var(--border-radius, 12px);
+    box-shadow: 0 4px 12px var(--shadow-color, rgba(44,62,80,.12));
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px;
-    box-sizing: border-box;
-}
-
-.group-input-area .input-group {
-    width: 100%;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-shrink: 0;
 }
 
 .group-input-area .input-group ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
     list-style: none;
     padding: 0;
     margin: 0;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    gap: 15px;
-    flex-wrap: wrap;
 }
-
-.group-input-area .input-group li {
+.group-input-area li {
+    flex: 1 1 220px;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    flex: 1;
-    min-width: 180px;
-    padding: 10px;
-    box-sizing: border-box;
-    border: 1px solid #eee;
-    border-radius: 8px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.03);
-}
-
-.group-input-area .input-group li.or-separator {
-    flex: 0 0 auto;
-    width: auto;
-    padding: 10px 15px;
-    align-self: center;
-    border: none;
-    box-shadow: none;
-    background: none;
-    font-weight: bold;
-    color: #7f8c8d;
+    gap: .5rem;
 }
 
 .group-input-area input[type="file"],
-.group-input-area input[type="number"],
-.group-input-area button {
+.group-input-area input[type="number"] {
     width: 100%;
-    box-sizing: border-box;
-    padding: 10px;
-    border-radius: 5px;
+    padding: .75rem 1rem;
+    border: 1px solid var(--border-color, #b0bec5);
+    border-radius: calc(var(--border-radius, 12px) * .5);
+    background: #fff;
+    font-family: var(--font-family, 'Roboto', sans-serif);
+    font-size: 1rem;
+    transition: border-color .3s ease, box-shadow .3s ease;
 }
-.group-input-area input[type="file"] {
-    border: 2px dashed #3498db;
-    background-color: #ecf0f1;
-    cursor: pointer;
-    padding: 10px;
+.group-input-area input:focus {
+    border-color: var(--secondary-color, #1976d2);
+    box-shadow: 0 0 0 3px rgba(25,118,210,.2);
 }
 
 .group-input-area button {
-    margin-top: 8px;
-    font-size: 1em;
-    background-color: #27ae60;
-    color: white;
+    margin-top: .5rem;
+    padding: .75rem 1.5rem;
+    font-size: 1rem;
+    font-weight: 500;
     border: none;
+    border-radius: calc(var(--border-radius, 12px) * .5);
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background .25s ease, transform .25s ease;
 }
-.group-input-area button:hover {
-    background-color: #229954;
+.group-input-area button:not(.download-btn) {
+    background: var(--success-color, #388e3c);
+    color: #fff;
 }
-/* Bouton télécharger */
+.group-input-area button:not(.download-btn):hover {
+    background: #2e7d32;
+    transform: translateY(-2px);
+}
 .group-input-area button.download-btn {
-    background-color: #f39c12;
+    background: #f39c12;
+    color: #fff;
 }
-.group-input-area button.download-btn:hover {
-    background-color: #e67e22;
-}
-/* Bouton désactivé */
-.group-input-area button.download-btn:disabled {
-    background-color: #cccccc;
-    cursor: not-allowed;
-    opacity: 0.7;
-}
+.group-input-area button.download-btn:hover { background: #e67e22; }
+.group-input-area button:disabled { background: #ccc; cursor: not-allowed; transform: none; }
 
-/* Conteneur de la zone inférieure (affichage des résultats des groupes) */
+/* 3.  RESULTS GRID – 4 cards with icon + title + scroll list */
 .group-results-display {
     width: 95%;
-    flex: 1 1 auto;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    gap: 15px;
-    padding: 15px 0;
-    box-sizing: border-box;
-    height: 60vh; /* Hauteur fixe pour les 4 groupes */
+    gap: 1.5rem;
+    padding: 1rem 0;
+    align-items: start; /* Force l'alignement en haut */
+    justify-content: center;
 }
 
-/* Carrés de groupe (Commission, États, Partis, Lobbies) */
 .group-square {
-    background-color: #f9f9f9;
-    border: 1px solid #eee;
-    border-radius: 10px;
-    padding: 15px;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    background: var(--surface-color, #fff);
+    border: 1px solid var(--border-color, #b0bec5);
+    border-radius: var(--border-radius, 12px);
+    padding: 1.5rem;
+    box-shadow: 0 4px 12px var(--shadow-color);
     display: flex;
     flex-direction: column;
-    align-items: stretch; /* Permet au contenu de remplir la largeur */
-    box-sizing: border-box;
-    width: 100%;
-    min-width: 0;
-    min-height: 0;
-    overflow: hidden; /* Masque ce qui dépasse, seul ul scrolle */
+    gap: 1rem;
+    overflow: hidden;
+    align-items: stretch;
+    justify-content: flex-start; /* Force l'alignement du contenu en haut */
 }
 
 .group-square h3 {
-    color: #2c3e50;
-    font-size: 1.3em;
-    margin-top: 0;
-    margin-bottom: 10px;
-    flex-shrink: 0; /* Le titre ne rétrécit pas */
+    color: var(--primary-color, #1a237e);
+    font-size: 1.25rem;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    flex-shrink: 0;
 }
-
 .group-square .group-icon {
-    width: 40px;
-    height: 40px;
+    width: 32px;
+    height: 32px;
     object-fit: contain;
 }
 
-/* Listes de membres dans les carrés */
 .group-square ul {
-    flex: 1 1 auto; /* Occupe l’espace restant */
-    min-height: 0; /* Indispensable pour activer le scroll interne */
-    overflow-y: auto; /* Scroll vertical interne */
-    overflow-x: hidden;
+    flex: 1 1 auto;
+    overflow-y: auto;
+    padding-right: .5rem;
     list-style: none;
-    padding: 0;
     margin: 0;
-    width: 100%;
-    text-align: left;
-    box-sizing: border-box;
+}
+.group-square li {
+    background: #e3f2fd;
+    border-radius: calc(var(--border-radius, 12px) * .4);
+    padding: .5rem .75rem;
+    margin-bottom: .5rem;
+    word-break: break-word;
 }
 
-.group-square ul li {
-    background-color: #eef;
-    margin-bottom: 5px;
-    padding: 8px;
-    border-radius: 5px;
-    color: #555;
-    word-wrap: break-word;
-}
-
-/* Carré Commission */
-.group-results-display .group-square:first-child {
-    width: 100%;
-    min-width: 0;
-}
-.group-results-display .group-square:first-child ul {
-    max-width: 100%;
-    overflow-x: hidden;
-    padding-right: 15px;
-}
-
-/* Sous-groupes */
+/* 4.  SUB-GROUPS – mini cards under each main card */
 .sub-group-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-    gap: 10px;
-    margin-top: 10px;
-    width: 100%;
-    flex-grow: 1;
-    min-height: 0; /* Pour activer le scroll si nécessaire */
-    overflow-y: auto; /* Scroll interne */
-    white-space: normal;
-    padding-bottom: 5px;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+    align-items: start;
 }
-
 .sub-group-card {
-    background-color: #e3f2fd;
-    border: 1px solid #cce;
-    border-radius: 8px;
-    padding: 10px;
-    text-align: center;
-    box-shadow: 0 1px 4px rgba(0,0,0,0.03);
+    background: #f1f8e9;
+    border: 1px solid #c5e1a5;
+    border-radius: calc(var(--border-radius, 12px) * .6);
+    padding: 1rem;
+    min-height: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    min-height: 100px;
-    box-sizing: border-box;
-    flex-shrink: 0;
-    min-width: 120px;
+    justify-content: flex-start; /* Force l'alignement du contenu en haut */
+    text-align: center;
+    gap: .5rem;
+    transition: transform .2s ease, box-shadow .2s ease;
 }
-
+.sub-group-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0,0,0,.08);
+}
 .sub-group-card img.sub-group-icon {
-    width: 30px;
-    height: 30px;
-    margin-bottom: 5px;
+    width: 24px;
+    height: 24px;
     object-fit: contain;
     flex-shrink: 0;
 }
-
 .sub-group-card h4 {
-    font-size: 0.9em;
-    color: #34495e;
-    margin-top: 0;
-    margin-bottom: 5px;
-    word-break: break-word;
+    color: var(--secondary-color, #1976d2);
+    font-size: .95rem;
+    margin: 0;
     flex-shrink: 0;
 }
-
 .sub-group-card ul {
-    font-size: 0.8em;
-    color: #666;
-    margin-top: 0;
-    padding-left: 15px;
+    font-size: .85rem;
+    padding-left: 16px;
     list-style: disc;
-    width: auto;
-    flex-grow: 1;
-    min-height: 0; /* Scroll interne activable */
-    overflow-y: auto;
+    text-align: left;
+    flex: 1;
 }
 
-.sub-group-card ul li {
-    word-wrap: break-word;
-}
+/* 5.  Adaptations responsive par taille de carte */
 
-/* Media Queries pour la responsivité */
-@media (max-width: 768px) {
-    .carousel-slide[data-slide="3"] {
-        padding: 15px;
-    }
+/* Grands écrans (≥ 1000px) - Carte 1200px */
+@media (min-width: 1000px) {
     .group-input-area {
-        height: auto;
-        min-height: auto;
-        padding-bottom: 10px;
+        width: 90%;
+        max-width: 1000px;
+        padding: 2.5rem;
     }
+
+    .group-results-display {
+        width: 95%;
+        grid-template-columns: 1fr 1fr;
+        gap: 3%;
+    }
+
+    .group-square {
+        padding: 2rem;
+        min-height: 280px;
+    }
+
+    .sub-group-grid {
+        grid-template-columns: repeat(auto-fit, minmax(25%, 1fr));
+        gap: 4%;
+    }
+
+    .sub-group-card {
+        padding: 6%;
+    }
+}
+
+/* Écrans moyens (600-999px) - Carte ~90vw */
+@media (min-width: 600px) and (max-width: 999px) {
+    .group-input-area {
+        width: 90%;
+        max-width: none;
+        padding: 1.75rem;
+    }
+
+    .group-input-area .input-group ul {
+        gap: 2%;
+    }
+
+    .group-input-area li {
+        flex: 1 1 45%;
+        min-width: 180px;
+    }
+
+    .group-results-display {
+        width: 95%;
+        grid-template-columns: 1fr 1fr;
+        gap: 2.5%;
+    }
+
+    .group-square {
+        padding: 1.5rem;
+        min-height: 260px;
+    }
+
+    .group-square h3 {
+        font-size: 1.2rem;
+    }
+
+    .sub-group-grid {
+        grid-template-columns: repeat(auto-fit, minmax(28%, 1fr));
+        gap: 3%;
+    }
+
+    .sub-group-card {
+        padding: 7%;
+        min-height: 90px;
+    }
+}
+
+/* Écrans sous 800px - Optimisation harmonieuse */
+@media (max-width: 799px) {
+    .carousel-slide[data-slide="3"] {
+        padding: 1rem 2% 4.5rem;
+        gap: 1.5rem;
+    }
+
+    .group-input-area {
+        width: 96%;
+        padding: 4%;
+        margin: 0;
+    }
+
     .group-input-area .input-group ul {
         flex-direction: column;
-        align-items: center;
-    }
-    .group-input-area .input-group li {
+        gap: 2%;
         width: 100%;
-        min-width: unset;
-        margin-bottom: 10px;
-        padding: 8px;
     }
-    .group-input-area .input-group li.or-separator {
-        margin: 10px 0;
+
+    .group-input-area li {
+        flex: none;
+        width: 100%;
+        min-width: auto;
     }
+
+    .group-input-area button {
+        width: 100%;
+        padding: 3% 5%;
+        font-size: 0.95rem;
+    }
+
     .group-results-display {
+        width: 98%;
         grid-template-columns: 1fr;
-        grid-template-rows: repeat(4, 1fr);
-        height: auto; /* Sur mobile, la hauteur s’adapte */
+        gap: 3%;
+        padding: 2% 0;
     }
+
     .group-square {
-        padding: 10px;
-        min-height: 120px;
+        padding: 4%;
+        margin: 0;
+        min-height: 200px;
+        width: 100%;
     }
+
     .group-square h3 {
-        font-size: 1em;
+        font-size: 1.1rem;
+        width: 100%;
     }
+
     .group-square .group-icon {
-        width: 25px;
-        height: 25px;
+        width: 28px;
+        height: 28px;
     }
+
+    .group-square ul {
+        width: 100%;
+        max-height: 150px;
+    }
+
     .sub-group-grid {
-        grid-template-columns: repeat(auto-fit, minmax(70px, 1fr));
-        gap: 5px;
+        grid-template-columns: repeat(auto-fit, minmax(45%, 1fr));
+        gap: 4%;
+        margin-top: 3%;
+        width: 100%;
     }
+
     .sub-group-card {
-        padding: 5px;
+        padding: 5%;
         min-height: 80px;
+        width: 100%;
     }
+
     .sub-group-card img.sub-group-icon {
         width: 20px;
         height: 20px;
     }
+
     .sub-group-card h4 {
-        font-size: 0.75em;
+        font-size: 0.9rem;
+        width: 100%;
     }
+
     .sub-group-card ul {
-        font-size: 0.7em;
+        font-size: 0.8rem;
+        width: 100%;
+    }
+}
+
+/* Petits écrans (≤ 599px) - Carte ~95vw */
+@media (max-width: 599px) {
+    .carousel-slide[data-slide="3"] {
+        padding: 0.75rem 1% 4.5rem;
+        gap: 1rem;
+    }
+
+    .group-input-area {
+        width: 98%;
+        padding: 3%;
+    }
+
+    .group-input-area input[type="file"],
+    .group-input-area input[type="number"] {
+        padding: 3% 4%;
+        font-size: 0.9rem;
+    }
+
+    .group-input-area button {
+        padding: 3% 4%;
+        font-size: 0.9rem;
+    }
+
+    .group-results-display {
+        width: 100%;
+        gap: 2%;
+        padding: 1% 0;
+    }
+
+    .group-square {
+        padding: 3%;
+        min-height: 180px;
+    }
+
+    .sub-group-grid {
+        grid-template-columns: repeat(auto-fit, minmax(40%, 1fr));
+        gap: 3%;
+        margin-top: 2%;
+    }
+
+    .sub-group-card {
+        padding: 4%;
+        min-height: 75px;
+    }
+}
+
+/* Très petits écrans (≤ 400px) */
+@media (max-width: 400px) {
+    .carousel-slide[data-slide="3"] {
+        padding: 0.5rem 1% 4rem;
+        gap: 0.75rem;
+    }
+
+    .group-input-area {
+        width: 98%;
+        padding: 2%;
+    }
+
+    .group-square {
+        padding: 2%;
+        min-height: 160px;
+    }
+
+    .group-square h3 {
+        font-size: 1rem;
+    }
+
+    .group-square .group-icon {
+        width: 24px;
+        height: 24px;
+    }
+
+    .sub-group-grid {
+        grid-template-columns: 1fr;
+        gap: 2%;
+    }
+
+    .sub-group-card {
+        padding: 3%;
+        min-height: 70px;
+    }
+
+    .sub-group-card img.sub-group-icon {
+        width: 18px;
+        height: 18px;
+    }
+
+    .sub-group-card h4 {
+        font-size: 0.85rem;
+    }
+
+    .sub-group-card ul {
+        font-size: 0.75rem;
     }
 }

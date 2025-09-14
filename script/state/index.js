@@ -83,7 +83,7 @@ export const politicalPartiesData = [
     { name: "Parti Vert", code: "Verts/ALE", icon: "https://upload.wikimedia.org/wikipedia/commons/f/fc/EGP-Logo_2017.svg" },
     { name: "Parti Socialiste et démocrate", code: "S&D", icon: "https://upload.wikimedia.org/wikipedia/en/b/b8/Logo_of_the_European_Social_Democratic_Party.svg" },
     { name: "Parti Conservateur", code: "PPE", icon: "https://upload.wikimedia.org/wikipedia/en/a/a3/European_People%27s_Party_logo.svg" },
-    { name: "Parti Libéral", code: "Renew", icon: "https://upload.wikimedia.org/commons/c/cc/Logo_of_Renew_Europe.svg" },
+    { name: "Parti Libéral", code: "Renew", icon: "https://upload.wikimedia.org/wikipedia/commons/c/cc/Logo_of_Renew_Europe.svg" },
     { name: "Parti de Gauche", code: "GUE/NGL", icon: "https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_of_The_Left_in_the_European_Parliament.svg" },
     { name: "Parti d'extrême droite (ECR)", code: "ECR", icon: "https://upload.wikimedia.org/wikipedia/en/1/15/Logo_of_the_European_Conservatives_and_Reformists_Party.svg" }
 ];
