@@ -1,0 +1,752 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, en particulier sur la régulation numérique, la conformité aux normes environnementales et l'harmonisation des cadres juridiques européens.",
+    "enjeux_directive": [
+      "Promouvoir l’automatisation et numérisation du reporting.",
+      "Fournir des solutions d’efficacité et de conformité.",
+      "Assurer une harmonisation des normes réglementaires pour réduire les coûts opérationnels.",
+      "Éviter des régulations excessivement contraignantes qui pénaliseraient l'innovation technologique.",
+      "Mettre en avant les bénéfices socio-économiques de la digitalisation dans le cadre de la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech, notamment en matière d'obligations de reporting et de conformité.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés par les régulations sur la transparence environnementale et l'éthique numérique.",
+      "Le secteur pourra être confronté à des coûts supplémentaires liés aux mesures d'harmonisation européenne, mais également à des opportunités de croissance via l'innovation technologique."
+    ],
+    "stratégie": "Big Tech adopte une stratégie proactive visant à influencer la législation européenne en favorisant un cadre réglementaire flexible et technologiquement neutre. L'objectif est d'assurer que les exigences de conformité, notamment en matière de reporting environnemental, soient alignées sur les capacités numériques du secteur. En parallèle, le lobby travaille à promouvoir des solutions technologiques innovantes pour accompagner la transition écologique tout en préservant la compétitivité de l'industrie numérique européenne. Il s'appuie sur son influence auprès des gouvernements et des instances européennes pour encourager une réglementation axée sur l'évolution rapide des outils numériques, tout en évitant les contraintes excessives qui pourraient freiner l'innovation.",
+    "alliances": [
+      "France (soutien à la digitalisation de l'industrie et aux investissements bas-carbone)",
+      "Italie (collaboration sur l'harmonisation des normes européennes en matière d'informatique verte)",
+      "Verts/ALE (accord sur les innovations technologiques pour la transition écologique)",
+      "S&D (partage d'intérêts dans le développement de solutions numériques accessibles aux PME)",
+      "Big Tech (défense commune des intérêts technologiques face à une réglementation trop contraignante)",
+      "Automobile (collaboration sur l'usage de la data et l'optimisation énergétique dans les véhicules électriques)",
+      "Banque (soutien aux investissements structuraux liés au secteur numérique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation stricte sur le reporting environnemental des entreprises technologiques)",
+      "Conservateurs (préférence pour un cadre réglementaire plus progressif, évitant les pressions immédiates sur l'industrie numérique)",
+      "Énergies fossiles (soutien à une approche moins contraignante en matière de conformité environnementale)"
+    ],
+    "éléments_d_argumentaire": [
+      "La digitalisation facilitera la mise en conformité avec les obligations de reporting, réduisant ainsi les coûts opérationnels.",
+      "Les solutions technologiques développées par Big Tech peuvent servir de modèles pour une transition écologique rapide et efficace.",
+      "Une réglementation trop stricte risquerait d'entraver l'innovation technologique, ce qui nuirait à la compétitivité européenne.",
+      "Big Tech propose des outils numériques innovants pour accompagner les PME dans leur conformité environnementale, renforçant ainsi la croissance économique.",
+      "Le secteur numérique est un moteur de la transition écologique et doit être soutenu par des cadres réglementaires adaptés.",
+      "L'harmonisation européenne permettrait d'éliminer les disparités nationales, favorisant une concurrence plus juste entre les entreprises technologiques.",
+      "Big Tech défend une approche équilibrée qui combine transparence environnementale et respect des besoins économiques du secteur."
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur technologique et les régulations environnementales strictes. Évaluer l'impact des mesures sur la croissance de startups tech en Europe. Surveiller les relations avec les partis progressistes vs conservateurs sur les cadres réglementaires.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-26T11:55:02.215869",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette mesure car elle aligne le secteur technologique sur une cadence réglementaire plus rapide, favorisant ainsi la digitalisation et l'automatisation des processus de conformité. Cela permettrait d'accélérer les investissements dans les solutions numériques innovantes.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que Big Tech reconnaisse l'importance de la biodiversité, elle estime que cette exigence pourrait compliquer les rapports et augmenter les coûts opérationnels. Cependant, elle reste prête à soutenir des initiatives numériques pour surveiller et protéger la biodiversité.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette mesure à condition que l'accompagnement financier soit associé à des solutions numériques innovantes. Cela permettrait de renforcer la transition écologique tout en favorisant l'inclusion numérique.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette mesure car elle encourage une transparence environnementale accrue, ce qui est aligné avec ses initiatives technologiques en matière de réduction des émissions via l'automatisation et la data.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech est opposé à ce délai supplémentaire car cela pourrait retarder la mise en place de mesures obligatoires, compromettant ainsi la transition écologique et numérique.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette simplification car elle réduit la charge administrative sur les PME, favorisant ainsi une adoption plus large des outils numériques et d'automatisation.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette flexibilité à condition qu'elle ne compromette pas l'harmonisation européenne. Elle permettrait d'adapter les cadres réglementaires aux spécificités nationales, tout en maintenant une base commune.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette exclusion car elle évite de surcharger des entreprises petites et moyennes, tout en permettant une concentration des efforts sur les grandes entreprises technologiques qui ont les ressources pour s'adapter.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Energies fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Limiter la portée des obligations de durabilité imposées.",
+      "Protection contre des normes trop strictes impactant la filière.",
+      "Maintenir une transition énergétique progressive pour éviter la perte d'emplois dans les secteurs traditionnels.",
+      "Soutenir les investissements dans les infrastructures existantes plutôt que dans les énergies renouvelables.",
+      "Assurer un accès géographique équitable aux ressources fossiles sur le marché intérieur européen."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies fossiles.",
+      "Les intérêts économiques et stratégiques de Energies fossiles sont directement concernés."
+    ],
+    "stratégie": "Énergies Fossiles adopte une stratégie de négociation axée sur la défense des intérêts industriels du secteur, en insistant sur la nécessité d'une transition énergétique progressive et équilibrée. Le lobby privilégie des alliances stratégiques avec des pays comme la Pologne et l'Italie, qui dépendent fortement des combustibles fossiles pour leur économie. Il s'appuie également sur des partis politiques conservateurs (PPE, Conservateurs) et des groupes de pression liés à l'industrie lourde (Big Tech, Automobile). Le lobby cherche à délégitimer les normes climatiques strictes en mettant en avant leurs impacts économiques négatifs sur l'emploi, la compétitivité industrielle et la stabilité énergétique. Il prône des compromis comme un report des délais de conformité pour certaines entreprises ou une flexibilité nationale dans les obligations réglementaires. Une stratégie de communication proactive est déployée pour influencer l'opinion publique sur la nécessité d'une transition adaptée aux réalités économiques des pays membres.",
+    "alliances": [
+      "Pologne (dépendance énergétique et soutien à la production de charbon)",
+      "Italie (collaboration sur les projets de gaz naturel et l'industrie pétrolière)",
+      "Conservateurs (soutien aux transitions progressives et aux réglementations moins contraignantes)",
+      "PPE (partage des valeurs économiques traditionnelles et de la stabilité industrielle)",
+      "Big Tech (coopération sur les infrastructures énergétiques et les systèmes numériques d'optimisation des ressources fossiles)",
+      "Automobile (protection des secteurs industriels liés aux combustibles conventionnels)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien à la transition écologique radicale et à l'élimination progressive des énergies fossiles)",
+      "S&D (priorité aux investissements dans les technologies vertes et aux objectifs climatiques ambitieux)",
+      "Énergies fossiles (lobbies centraux de charbon opposés aux moratoires ou restrictions sur les exploitations)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit se faire dans un cadre qui protège l'emploi des régions dépendantes des combustibles fossiles.",
+      "Les normes climatiques trop strictes risquent de rendre la France, l'Italie et la Pologne moins compétitives sur le marché mondial.",
+      "Il est essentiel de maintenir les infrastructures énergétiques existantes pour assurer une continuité des approvisionnements durant la transition.",
+      "Les investissements dans les énergies renouvelables ne doivent pas compromettre l'accès à l'énergie bon marché pour les ménages et les petites entreprises.",
+      "La France et l'Italie ont besoin de garantir leur sécurité énergétique en maintenant des réserves stratégiques de pétrole et de gaz.",
+      "Les régions industrielles comme la Saxe (Allemagne) ou le nord-est de l'Italie dépendent de la production fossile pour leur économie locale.",
+      "Le moratoire sur les centrales à charbon en Hongrie pourrait avoir des conséquences économiques négatives pour ses voisins."
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Énergies Fossiles et les régions industrielles de l'Allemagne (Saxony, Rhénanie) qui dépendent du charbon. Position nucléaire délicate en Allemagne (réticences historiques dans certaines régions). Équilibrer transition énergétique et compétitivité secteur automobile allemand.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-26T12:11:13.154737",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "DEFAVORABLE",
+        "justification": "Énergies Fossiles s'oppose à cette accélération car elle augmente la pression réglementaire sur les entreprises, en particulier celles dépendant des combustibles fossiles. Cela pourrait nuire à leur rentabilité et compliquer la transition énergétique pour ces secteurs.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Énergies Fossiles est partiellement favorable à cette proposition, mais insiste sur l'importance de ne pas pénaliser les entreprises du secteur énergétique pour des obligations liées à la biodiversité. Une flexibilité nationale est nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Énergies Fossiles soutient cet amendement à condition que l'accompagnement financier ne soit pas limité aux seules entreprises de l'industrie verte. Il doit également bénéficier aux PME du secteur énergétique traditionnel.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "DEFAVORABLE",
+        "justification": "Énergies Fossiles s'oppose à cette obligation car elle impose un fardeau réglementaire lourd sur les entreprises du secteur énergétique, en particulier celles dépendant des combustibles fossiles. Cela pourrait nuire à leur rentabilité.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE",
+        "justification": "Énergies Fossiles soutient cette proposition car elle permet aux PME cotées d'adapter leurs structures à des obligations réglementaires plus contraignantes. Cela réduit la pression sur ces entreprises pour une transition énergétique progressive.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Énergies Fossiles soutient cette simplification car elle réduit la charge administrative pour les petites entreprises, en particulier celles du secteur énergétique traditionnel. Cela facilite une transition énergétique plus fluide.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "Énergies Fossiles soutient cette proposition car elle permet aux pays membres de s'adapter à leur situation économique spécifique. Cela évite des obligations uniformes qui pourraient nuire à certains secteurs.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE",
+        "justification": "Énergies Fossiles soutient cette exclusion car elle évite une surcharge réglementaire pour les micro-entreprises, qui ne sont pas en mesure de se conformer aux obligations actuelles. Cela permet de favoriser leur développement économique.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Promouvoir un cadre réglementaire clair pour l'innovation financière durable (ESG, fintech).",
+      "Assurer la stabilité des systèmes bancaires face aux impacts climatiques et économiques.",
+      "Renforcer la coopération internationale en matière de régulation financière globale.",
+      "Protéger les intérêts du secteur face à des mesures jugées excessivement contraignantes (ex: reporting accru, obligations ESG).",
+      "Encourager une transition progressive vers un financement décarboné tout en préservant la compétitivité sectorielle."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Le lobby Banque et Finance adopte une approche multifacette pour influencer la Directive 5. Il privilégie l'alignement avec les priorités de l'Union européenne (transition écologique, innovation technologique) tout en défendant des mesures qui préservent la stabilité du secteur financier et évitent un surcoût réglementaire excessif. La stratégie repose sur trois piliers : 1) renforcer les synergies avec les acteurs favorables à une transition progressive (ex: PPE, S&D) ; 2) mobiliser des alliés sectoriels (Big Tech, Automobile) pour défendre l'innovation et la compétitivité ; 3) s'opposer fermement aux amendements jugés trop restrictifs ou inadaptés à la réalité du secteur. Il mise sur la transparence et la collaboration avec les institutions européennes pour éviter une fragmentation réglementaire, tout en plaçant l'innovation technologique (ex: blockchain, fintech) au cœur de sa vision d'une économie durable.",
+    "alliances": [
+      "France (collaboration sur les investissements durables et la transition financière)",
+      "Allemagne (partage des objectifs de stabilité économique et de modernisation bancaire)",
+      "Verts/ALE (soutien à l'intégration ESG dans les normes financières)",
+      "S&D (priorité aux politiques sociales et à la justice climatique)",
+      "Big Tech (innovation en fintech et digitalisation des services financiers)",
+      "Automobile (protection des investissements sectoriels et soutien à l'industrie européenne)",
+      "PPE (défense d'une régulation équilibrée et de la stabilité des marchés)"
+    ],
+    "oppositions": [
+      "Hongrie (soutien aux industries fossiles et opposition au moratoire sur le charbon)",
+      "Conservateurs (préférence pour une transition progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies anti-climatiques opposés à l'obligation de reporting sur les émissions)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit favoriser un cadre réglementaire clair et non fragmenté pour éviter la duplication des normes nationales, ce qui compliquerait la gestion des risques par le secteur bancaire.",
+      "L'intégration ESG dans les investissements doit être progressive pour ne pas pénaliser les acteurs économiques en phase de transition (ex: PME, entreprises traditionnelles).",
+      "Les mesures de transparence doivent s'accompagner d'un accompagnement financier pour les PME, afin de prévenir un déséquilibre entre grands et petits acteurs.",
+      "Le secteur bancaire doit être associé à la conception des normes ESG, en tant que principal intermédiaire d'investissement durable.",
+      "Les délais de mise en œuvre pour les PME doivent être adaptés à leur capacité technique et financière.",
+      "La flexibilité nationale dans le reporting est essentielle pour respecter les spécificités économiques des États membres, tout en maintenant un minimum d'harmonisation européenne.",
+      "L'exclusion des micro-entreprises du champ d'application est nécessaire pour éviter une surcharge réglementaire excessive.",
+      "Les objectifs de réduction d'émissions doivent être alignés avec les capacités techniques et économiques du secteur bancaire."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby Banque et Finance soutient cet amendement à condition qu’il soit accompagné de mesures d’accompagnement financier, notamment pour les PME. Une application trop rapide pourrait créer des distorsions de concurrence entre grandes entreprises et petites structures moins équipées.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby Banque et Finance est partiellement opposé à une obligation spécifiquement liée à la biodiversité, car elle pourrait alourdir les coûts de conformité pour les banques sans apporter un impact direct sur leur activité principale. Cependant, il propose d’intégrer des éléments de biodiversité dans le cadre ESG plus large.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "Le lobby Banque et Finance salue cet amendement, car il permettrait de garantir une transition équitable entre grandes entreprises et PME. Cela éviterait une fragmentation réglementaire qui pourrait affaiblir l’ensemble du secteur bancaire.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby Banque et Finance soutient cet amendement à condition qu’il soit aligné avec des objectifs sectoriels précis (ex: banques, assurances) et qu’un dispositif d’accompagnement technique soit mis en place pour les acteurs non spécialisés.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE",
+        "justification": "Le lobby Banque et Finance salue cet amendement, car il permettrait aux PME de mieux se préparer à la mise en conformité tout en évitant une surcharge réglementaire trop rapide. Cela favoriserait une transition plus équilibrée.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Le lobby Banque et Finance approuve cette mesure, car elle réduit la complexité réglementaire pour les petites structures tout en maintenant un minimum de transparence. Cela éviterait une dérive vers des normes inadaptées à leur taille.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "Le lobby Banque et Finance approuve cet amendement, car il respecte les spécificités économiques des États membres tout en maintenant un minimum d’harmonisation. Cela éviterait une fragmentation réglementaire qui pourrait nuire à la stabilité du secteur.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE",
+        "justification": "Le lobby Banque et Finance soutient cette exclusion pour éviter une surcharge réglementaire inutile. Les micro-entreprises, en raison de leur petite taille, ne seraient pas en mesure de respecter les normes sans un accompagnement particulier.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre exigences climatiques et stabilité financière (ex: banques allemandes). Évaluer impact des normes ESG sur PME (Italie, France). Contrôler alliances stratégiques avec Big Tech pour éviter monopoles sectoriels.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-26T12:28:52.540896",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Demander souplesse et ajustement des objectifs réglementaires.",
+      "Protéger la compétitivité dans un cadre durable.",
+      "Mettre en avant l'innovation technologique pour réduire l'impact environnemental des produits agrochimiques.",
+      "Assurer la sécurité alimentaire européenne face aux pressions climatiques et aux fluctuations mondiales."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés.",
+      "Une réglementation trop stricte pourrait menacer l'innovation technologique du secteur."
+    ],
+    "stratégie": "Agrochimie adopte une approche bilatérale en combinant lobbying ciblé et alliances stratégiques pour influencer la législation européenne. Son objectif principal est de garantir un cadre réglementaire qui favorise à la fois l'innovation technologique et la compétitivité du secteur, tout en s'adaptant aux exigences environnementales croissantes. Pour y parvenir, Agrochimie privilégie des alliances avec des acteurs économiques et politiques partageant ses priorités, comme les pays producteurs agricoles (France, Italie) ou les partis favorables à une transition progressive (PPE). Elle s'appuie également sur des lobbies concrets (Big Tech, Automobile) pour renforcer son influence. En parallèle, elle défend des positions conditionnelles face aux amendements exigeant plus de transparence ou des obligations environnementales strictes, en argumentant que ces mesures risqueraient d'assécher les investissements dans la recherche et le développement. Agrochimie mobilise également une communication ciblée vers les parlementaires européens pour expliquer l'importance de son secteur pour la sécurité alimentaire européenne.",
+    "alliances": [
+      "France (priorité aux innovations agricoles et soutien à la modernisation du secteur agrochimique)",
+      "Italie (collaboration sur les projets européens d'innovation technologique dans l'agriculture)",
+      "PPE (soutien à une transition progressive des réglementations environnementales)",
+      "Verts/ALE (partage de la vision sur la nécessité d'innover pour réduire l'impact environnemental des produits chimiques agricoles)",
+      "S&D (privilégie les investissements dans le développement rural et la sécurité alimentaire)",
+      "Big Tech (synergies technologiques en matière de digitalisation de la chaîne d'approvisionnement agricole)",
+      "Banque (soutien aux projets de financement des recherches agrochimiques)"
+    ],
+    "oppositions": [
+      "Hongrie (préférence pour les industries traditionnelles et résistance à l'intégration de mesures environnementales strictes)",
+      "Conservateurs (favorisent une transition plus lente vers des réglementations écologiques exigeantes)",
+      "Énergies fossiles (lobbies opposés aux obligations environnementales qui pourraient affecter les chaînes d'approvisionnement)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'agrochimie est un pilier essentiel de la sécurité alimentaire européenne et doit être soutenue dans ses efforts d'innovation.",
+      "Les réglementations trop strictes pourraient décourager les investissements dans la recherche agrochimique, menaçant l'indépendance technologique de l'UE.",
+      "Il est nécessaire de respecter la spécificité des secteurs agricoles européens, qui ne peuvent pas se conformer aux mêmes normes que les pays non européens.",
+      "Le secteur agrochimie contribue à l'économie européenne par ses exportations et sa capacité d'innovation technologique.",
+      "Les mesures exigeant des rapports détaillés sur la biodiversité pourraient être coûteuses et peu adaptées aux petites entreprises du secteur.",
+      "Une approche trop rigide risquerait de repousser les investissements vers d'autres régions mondiales, menaçant l'emploi dans le secteur européen.",
+      "Agrochimie défend une transition écologique, mais doit être accompagnée de politiques qui ne pénalisent pas la compétitivité du secteur."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient une approche progressive dans la mise en œuvre des réglementations, permettant aux entreprises de s'adapter technologiquement tout en garantissant la conformité. Cela favorise une transition plus fluide et respectueuse des contraintes économiques du secteur.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie juge que les mesures exigeant des rapports détaillés sur la biodiversité pourraient être coûteuses et peu adaptées aux petites entreprises du secteur, en particulier celles avec de faibles ressources. Une approche plus flexible est nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie approuve cette mesure, car elle permettrait aux petites entreprises du secteur de s'adapter aux réglementations sans compromettre leur compétitivité. Cela favoriserait une transition inclusive et durable.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cette mesure, à condition que l'accompagnement technique et financier soit assuré. Cela favoriserait une transition écologique sans pénaliser la compétitivité du secteur.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cette mesure, car elle permettrait aux PME cotées de s'adapter technologiquement tout en garantissant la conformité. Cela favoriserait une transition plus fluide et respectueuse des contraintes économiques du secteur.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie approuve cette mesure, car elle permettrait aux petites entreprises du secteur de s'adapter aux réglementations sans compromettre leur compétitivité. Cela favoriserait une transition inclusive et durable.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cette mesure à condition qu'elle ne compromette pas les objectifs environnementaux globaux. Une approche harmonisée est nécessaire pour éviter des inégalités entre les pays membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cette mesure, car elle permettrait de ne pas pénaliser les micro-entreprises du secteur. Cela favoriserait une transition écologique sans compromettre la compétitivité des petites entreprises.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les réglementations environnementales et la sécurité alimentaire, notamment en Italie et en France. Évaluer l'impact des mesures exigeantes sur les PME du secteur agrochimique. Recommander un dialogue renforcé avec les pays producteurs agricoles pour aligner les objectifs écologiques sur la réalité sectorielle.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-26T13:22:59.628419",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Soutenir la R&D durable et exigeante.",
+      "Promouvoir la publication d’indicateurs santé environnement.",
+      "Protéger les brevets de médicaments pour encourager l'innovation.",
+      "Assurer un accès équitable aux traitements dans l'UE.",
+      "Intégrer des normes strictes de sécurité et d'efficacité des produits pharmaceutiques."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie multifacette pour influencer les négociations européennes. Il s'engage à promouvoir la recherche et l'innovation, en défendant des financements publics ciblés pour la R&D sur les maladies rares et les médicaments biosimilaires. Il milite pour un cadre réglementaire harmonisé à l'échelle de l'UE pour simplifier la mise sur le marché des nouveaux traitements, tout en exigeant une protection robuste des brevets. Parallèlement, il s'efforce d'intégrer des principes de durabilité dans les chaînes d'approvisionnement et les processus de production pharmaceutiques, notamment via la réduction des déchets et l'utilisation d'énergies renouvelables. Le lobby collabore étroitement avec des acteurs politiques favorables à la libéralisation du marché pharmaceutique (comme le PPE) et s'oppose aux mesures restrictives qui pourraient limiter les marges bénéficiaires ou augmenter les coûts de production. Il utilise également des alliances stratégiques avec des lobbies comme Big Tech pour défendre l'innovation numérique dans la santé, tout en défendant un équilibre entre les exigences réglementaires et les impératifs de compétitivité internationale.",
+    "alliances": [
+      "France (collaboration sur la recherche médicale et les investissements R&D)",
+      "Italie (partage d'objectifs communs en matière de santé publique et d'innovation pharmacologique)",
+      "PPE (soutien à une réglementation européenne simplifiée et favorables aux brevets)",
+      "Verts/ALE (soutien à la durabilité des processus pharmaceutiques et réduction du carbone dans les usines)",
+      "Big pharma (partage d'intérêts stratégiques en matière de protection des brevets et de production locale)",
+      "Banque (financement ciblé pour les projets R&D et la modernisation des infrastructures pharmaceutiques)"
+    ],
+    "oppositions": [
+      "Hongrie (soutien à une réglementation plus souple sur les brevets pour favoriser l'accès aux médicaments)",
+      "Conservateurs (préférence pour une réduction des coûts de production et une ouverture accrue du marché pharmaceutique international)",
+      "Énergies fossiles (opposition à la transition énergétique dans les usines pharmaceutiques, préférant les sources conventionnelles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir un financement public suffisant pour la recherche sur les maladies rares et les innovations thérapeutiques.",
+      "Les brevets doivent être protégés pour encourager l'investissement dans le développement de nouveaux médicaments.",
+      "Le secteur pharmaceutique doit avoir une voix dominante dans l'élaboration des normes réglementaires européennes.",
+      "La directive doit intégrer des mesures contraignantes pour réduire les déchets produits par la fabrication pharmaceutique.",
+      "Les entreprises pharmaceutiques doivent être autorisées à collaborer avec Big Tech pour améliorer l'efficacité de la santé publique via le numérique.",
+      "Le lobby doit défendre un accès équitable aux médicaments dans tous les États membres, en évitant une concentration excessive des marchés."
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre brevets et accès aux médicaments (ex. France vs Hongrie). Évaluer impact réglementaire sur les PME pharmaceutiques (Italie, Allemagne). Surveiller pressions des lobbies énergétiques (Énergies fossiles) contre la transition écologique du secteur.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-26T12:48:48.360963",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE",
+        "justification": "L'accélération du reporting renforce la transparence des chaînes d'approvisionnement pharmaceutiques et encourage une meilleure prise en compte des impacts environnementaux et sociaux, notamment dans les usines. Cela aligne le secteur avec les objectifs climatiques européens tout en favorisant l'innovation.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur pharmaceutique s'engage à intégrer des mesures de préservation de la biodiversité, mais exige des orientations précises pour éviter une charge réglementaire excessive. Cela nécessite un dialogue approfondi avec les parties prenantes du secteur.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "L'accompagnement financier est crucial pour les petites entreprises pharmaceutiques, qui ont besoin de soutien pour se conformer aux réglementations environnementales et sociales. Cela renforcera la compétitivité du secteur dans l'UE.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur pharmaceutique s'engage à publier des objectifs climatiques, mais exige une flexibilité pour les petites entreprises. Cela doit être accompagné de mesures concrètes et d'une collaboration étroite avec les autorités européennes.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si cette mesure permet aux PME de s'adapter, elle risque de créer un retard dans la transition écologique du secteur. Le lobby pharmaceutique préfère une application progressive mais cohérente pour toutes les entreprises.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Cette simplification est nécessaire pour éviter une surcharge réglementaire pour les petites entreprises pharmaceutiques. Elle permettrait d'assurer une conformité plus aisée sans compromettre la transparence.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La flexibilité nationale est souhaitable, mais doit être accompagnée d'indications claires pour éviter des disparités importantes entre les États membres. Cela nécessite un suivi rigoureux et une coordination étroite avec les autorités européennes.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion des micro-entreprises risque de créer un écart entre les différentes tailles d'entreprises pharmaceutiques. Le lobby préfère une approche inclusive pour garantir une transition écologique cohérente à l'échelle du secteur.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile et cherche à influencer la législation européenne. Axé sur la préservation de la compétitivité industrielle, le soutien aux innovations technologiques (véhicules électriques, hydrogène) tout en défendant des transitions énergétiques progressives et respectueuses des intérêts économiques sectoriels.",
+    "enjeux_directive": [
+      "Influencer les exigences de durabilité liées aux émissions et innovations.",
+      "Soutenir les initiatives vertes dans la mobilité.",
+      "Protéger les secteurs industriels stratégiques contre des réglementations jugées trop restrictives.",
+      "Assurer une transition énergétique compatible avec la compétitivité européenne de l'industrie automobile.",
+      "Promouvoir un financement structurel pour la transformation numérique et écologique du secteur."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur automobile, notamment en matière de conformité aux normes environnementales.",
+      "Les intérêts économiques et stratégiques de l'industrie automobile sont directement concernés par les exigences réglementaires sur la transition énergétique."
+    ],
+    "stratégie": "Lobbying ciblé auprès des États-membres clés (Allemagne, France, Italie) et des groupes politiques européens favorables à un développement industriel durable. Mise en avant des synergies avec la transition numérique via le Big Tech pour défendre l'innovation technologique. Collaboration étroite avec les pays producteurs de véhicules (Allemagne, France, Italie) et les partis économistes (PPE, S&D). Positionnement stratégique sur les amendements liés à la flexibilité nationale et aux délais de mise en conformité pour les PME. Développement d'arguments basés sur l'importance du secteur automobile pour l'économie européenne et ses emplois (2 millions de postes directement dépendants du secteur).",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à la compétitivité industrielle européenne)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Renouveau Européen (priorité sécurité énergétique nationale)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition écologique doit s'accompagner de garanties pour la compétitivité européenne, notamment en matière d'accès à l'énergie et de financement des innovations.",
+      "Les entreprises du secteur automobile sont prêtes à investir dans les technologies vertes (véhicules électriques, hydrogène), mais nécessitent un cadre réglementaire clair et des délais adaptés.",
+      "La France et l'Allemagne, leaders de la production automobile en Europe, doivent jouer un rôle central dans la définition des normes européennes pour éviter les délocalisations vers des pays moins réglementés.",
+      "Les PME du secteur doivent bénéficier d'un accompagnement financier pour leur adaptation aux nouvelles règles environnementales, afin d'éviter l'effondrement de certaines filières.",
+      "Le secteur automobile est un moteur économique majeur en Europe (2 millions de postes) et doit être soutenu dans sa transformation numérique et écologique.",
+      "La transition vers les énergies propres doit s'appuyer sur des infrastructures de recharge dédiées, développées avec la collaboration du secteur privé (Big Tech).",
+      "Les normes environnementales doivent respecter les spécificités industrielles européennes et ne pas reproduire les erreurs des réglementations antérieures en matière d'innovation."
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre les objectifs climatiques et la compétitivité du secteur automobile (Volkswagen, PSA) en Europe. Évaluer impact des normes environnementales sur les régions industrielles (Allemagne, Italie). Surveiller coopération avec le Big Tech pour l'innovation infrastructures énergétiques.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-26T13:05:23.608174",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'automobile soutient cet amendement à condition que des mesures de flexibilité soient prévues pour les PME. Une application prématurée pourrait pénaliser les acteurs du secteur qui ont besoin de temps pour se conformer aux normes environnementales, surtout dans un contexte d'incertitude économique.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "NEUTRE",
+        "justification": "L'industrie automobile n'a pas de lien direct avec la biodiversité, mais reste ouverte à une collaboration sectorielle pour intégrer des mesures environnementales globales. Cet amendement pourrait être associé à d'autres secteurs (agrochimie, énergies) pour une approche transversale.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "L'industrie automobile est favorable à cet amendement car il permettrait de soutenir les PME du secteur dans leur transition vers les normes environnementales, évitant ainsi un déclin industriel et des pertes d'emplois. Une aide financière ciblée serait essentielle pour la survie de certaines filières.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'industrie automobile est partiellement opposée à cet amendement car elle considère que les objectifs doivent être établis en concertation avec le secteur, afin de respecter les réalités technologiques et économiques. Une approche trop rigide pourrait nuire à l'innovation.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE",
+        "justification": "L'industrie automobile soutient cet amendement car il permettrait aux PME du secteur d'avoir plus de temps pour se conformer aux réglementations environnementales, évitant ainsi un impact négatif sur la compétitivité et la stabilité économique.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "L'industrie automobile est favorable à cet amendement car il réduit la charge administrative pour les PME du secteur, leur permettant de se concentrer sur l'innovation et la conformité environnementale sans être écrasées par des obligations réglementaires complexes.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "L'industrie automobile soutient cet amendement car il permet aux pays européens de s'adapter à leurs spécificités économiques et industrielles, évitant ainsi une approche unilatérale qui pourrait pénaliser certains acteurs du secteur.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'industrie automobile soutient cet amendement à condition que des dispositions soient prévues pour soutenir les PME en difficulté. L'exclusion des micro-entreprises permettrait de concentrer les efforts sur les acteurs plus importants du secteur, tout en évitant une charge administrative excessive.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ]
+  }
+]

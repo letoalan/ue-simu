@@ -1,0 +1,207 @@
+{
+  "directive": {
+    "id": "2-3",
+    "title": "Solidarité migratoire européenne",
+    "description": "Quotas contraignants de répartition des migrants. Instaurer un mécanisme permanent de répartition équitable des demandeurs d’asile et de protection internationale entre États membres.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Assurer une répartition équitable des demandeurs d’asile dans un cadre contraignant.",
+        "Équilibrer solidarité européenne, pressions sociales nationales et respect des droits humains.",
+        "Anticiper les blocages politiques et favoriser les compromis viables entre États membres."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Non-porteur",
+        "position": "Soutient une solidarité migratoire sous conditions de contrôle renforcé.",
+        "enjeux": [
+          "Équilibre entre humanité et sécurité.",
+          "Préserver la cohésion sociale nationale."
+        ],
+        "role_description": "Médiateur entre les pays favorables aux quotas et les pays réticents."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutien affirmé à une répartition contraignante et ambitieuse.",
+        "enjeux": [
+          "Répondre à la pression migratoire interne.",
+          "Consolider son rôle moteur en Europe."
+        ],
+        "role_description": "Moteur des alliances progressistes en faveur d’une solidarité accrue."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Soutenir prioritairement les centres d’accueil aux frontières extérieures.",
+        "enjeux": [
+          "Alléger la pression migratoire sur ses frontières.",
+          "Obtenir un soutien financier et logistique accru."
+        ],
+        "strategie": "Mettre en avant la solidarité concrète avec les pays en première ligne."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Limiter les quotas de répartition à 80% de la capacité nationale.",
+        "enjeux": [
+          "Préserver sa souveraineté nationale.",
+          "Limiter l’impact social et politique d’une répartition contraignante."
+        ],
+        "strategie": "Fédérer les pays hostiles à une approche obligatoire."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Reporter l’application de la directive de deux ans.",
+        "enjeux": [
+          "Limiter les obligations immédiates.",
+          "Obtenir flexibilité et temps d’adaptation."
+        ],
+        "strategie": "Former un front commun avec d’autres pays réticents (Hongrie, Suède)."
+      },
+      {
+        "name": "Suède",
+        "role": "Porteur",
+        "amendment": "Exclure certains États membres des obligations de répartition.",
+        "enjeux": [
+          "Limiter la portée des quotas contraignants.",
+          "Protéger son autonomie nationale."
+        ],
+        "strategie": "Obtenir des exemptions ciblées pour certains États."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Non-porteur",
+        "position": "Soutient une solidarité limitée, conciliant répartition et subsidiarité.",
+        "enjeux": [
+          "Maintenir l’équilibre entre unité européenne et souveraineté nationale."
+        ],
+        "strategie": "Proposer des compromis modérés pour rallier les deux camps."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Instaurer un fonds européen pour l’intégration des migrants.",
+        "enjeux": [
+          "Promouvoir justice sociale et intégration.",
+          "Renforcer la cohésion territoriale."
+        ],
+        "strategie": "Construire des alliances avec Renew et les Verts pour renforcer l’aspect social."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Augmenter les quotas de répartition de 20%.",
+        "enjeux": [
+          "Donner une réponse ambitieuse et pragmatique.",
+          "Allier solidarité européenne et efficacité."
+        ],
+        "strategie": "Occuper une position de trait d’union entre progressistes et modérés."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Non-porteur",
+        "position": "Soutien fort à une approche contraignante et ambitieuse.",
+        "enjeux": [
+          "Assurer la défense des droits humains et des réfugiés.",
+          "Renforcer la solidarité européenne."
+        ],
+        "strategie": "Faire pression pour aller plus loin que la proposition initiale."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Conditionner les aides à la formation linguistique et professionnelle.",
+        "enjeux": [
+          "Promouvoir l’intégration conditionnelle et pragmatique.",
+          "Limiter les coûts sociaux."
+        ],
+        "strategie": "Mettre en avant l’importance de la subsidiarité et du contrôle national."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Créer un mécanisme de solidarité accrue avec les pays en première ligne.",
+        "enjeux": [
+          "Renforcer la justice sociale et le respect des droits.",
+          "Soutenir les États en première ligne de l’accueil."
+        ],
+        "strategie": "Faire pression pour plus d’équité et de solidarité."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Développement de solutions numériques pour le suivi et l’accueil des migrants.",
+          "Valorisation des données migratoires pour la gestion des politiques publiques."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Maintenir la pression politique pour limiter l’arrivée de migrants climatiques.",
+          "Éviter les débats sur la responsabilité environnementale des flux migratoires."
+        ],
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Financer l’intégration par des fonds européens.",
+          "Promouvoir des mécanismes stables de solidarité budgétaire."
+        ],
+        "alliances": [
+          "Socialistes et Démocrates",
+          "France"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Utiliser la main-d’œuvre migrante pour soutenir l’agriculture.",
+          "Assurer un accès facilité au travail saisonnier."
+        ],
+        "alliances": [
+          "Italie",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Promouvoir la santé publique et l’accès aux soins pour les migrants.",
+          "Développer des programmes européens de santé."
+        ],
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Bénéficier de main-d’œuvre qualifiée issue des migrations.",
+          "Renforcer l’image de responsabilité sociale du secteur."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Renouveau Européen"
+        ]
+      }
+    ]
+  }
+}

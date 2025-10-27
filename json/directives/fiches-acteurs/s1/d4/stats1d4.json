@@ -1,0 +1,93 @@
+{
+  "scenario": 1,
+  "directive": 4,
+  "nom": "Flexisécurité européenne",
+  "valeurs_prevues": {
+    "pib_eu": 2.1,
+    "gini_eu": 0.27,
+    "co2_eu": 5.0,
+    "veb_eu": 85
+  },
+  "amendements": [
+    {
+      "id": "1-4A",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.24,
+        "co2_eu": 5.0,
+        "veb_eu": 87
+      }
+    },
+    {
+      "id": "1-4B",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.25,
+        "co2_eu": 5.0,
+        "veb_eu": 88
+      }
+    },
+    {
+      "id": "1-4C",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "pib_eu": 2.3,
+        "gini_eu": 0.26,
+        "co2_eu": 4.8,
+        "veb_eu": 90
+      }
+    },
+    {
+      "id": "1-4D",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.25,
+        "co2_eu": 4.9,
+        "veb_eu": 88
+      }
+    },
+    {
+      "id": "1-4E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.29,
+        "co2_eu": 5.1,
+        "veb_eu": 84
+      }
+    },
+    {
+      "id": "1-4F",
+      "origine": "Allemagne",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.28,
+        "co2_eu": 5.0,
+        "veb_eu": 83
+      }
+    },
+    {
+      "id": "1-4G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.26,
+        "co2_eu": 5.0,
+        "veb_eu": 87
+      }
+    },
+    {
+      "id": "1-4H",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.25,
+        "co2_eu": 5.0,
+        "veb_eu": 86
+      }
+    }
+  ]
+}

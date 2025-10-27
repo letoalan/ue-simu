@@ -1,0 +1,736 @@
+{
+  "directive": {
+    "id": "1-7",
+    "title": "Plan logement social et rénovation durable",
+    "description": "La présente directive vise à répondre à l'urgence sociale et climatique en Europe en soutenant la construction de logements sociaux durables et la rénovation énergétique du parc résidentiel. Elle entend lutter contre la précarité énergétique, renforcer la cohésion sociale et contribuer aux objectifs climatiques de l'Union. Cette initiative s'inscrit dans la stratégie européenne pour un logement abordable, la justice sociale et la neutralité carbone, conformément aux priorités du Conseil européen et du Pacte vert pour l'Europe."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Promouvoir une politique ambitieuse de construction et de rénovation durable afin de répondre aux enjeux sociaux et environnementaux en Europe. La Commission joue le rôle de médiateur pour trouver un compromis entre les États membres et les partis politiques.",
+    "enjeux_directive": [
+      "Réduire la précarité énergétique à 5%.",
+      "Améliorer l'accès au logement abordable.",
+      "Accélérer la transition bas carbone du secteur résidentiel.",
+      "Renforcer la cohésion sociale."
+    ],
+    "impacts_directive": [
+      "La directive renforce le rôle de la Commission en tant que garant de la justice sociale et de la politique environnementale en Europe.",
+      "Réduire la précarité énergétique et améliorer l'accès au logement abordable en contribuant à la transition bas carbone du secteur résidentiel."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-7A",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l'objectif à 7 millions de logements sociaux construits d'ici 2035",
+        "impact": "Augmenterait le PIB de l'UE et réduirait les inégalités, mais pourrait engendrer des tensions sur le financement et l'acceptabilité."
+      },
+      {
+        "id": "1-7B",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "impact": "Cet amendement renforcerait l'efficacité de la directive en matière de réduction de l'empreinte carbone et de la précarité énergétique, mais pourrait être jugé trop contraignant pour les États membres."
+      },
+      {
+        "id": "1-7C",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "impact": "Cet amendement renforcerait l'ambition sociale de la directive, mais pourrait potentiellement être un fardeau pour les États membres et les propriétaires."
+      },
+      {
+        "id": "1-7D",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "impact": "Cet amendement améliorerait la cohésion sociale et l'efficacité des aides, mais pourrait être difficile à mettre en œuvre et à contrôler."
+      },
+      {
+        "id": "1-7E",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction",
+        "impact": "Cet amendement permettrait à la Hongrie de reporter l'application de la directive et d'adapter les exigences nationales, mais pourrait créer une inégalité de traitement entre les États membres."
+      },
+      {
+        "id": "1-7F",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive",
+        "impact": "Cet amendement réduirait le champ d'action de la directive, mais la rendrait plus acceptable pour les gouvernements nationaux soucieux des dépenses."
+      },
+      {
+        "id": "1-7G",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l'obligation de rénovation pour les petits bailleurs",
+        "impact": "Cet amendement allégerait la pression sur les petits bailleurs, mais diluerait l'effort sur la rénovation énergétique."
+      },
+      {
+        "id": "1-7H",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "impact": "Cet amendement permettrait à la Pologne d'obtenir des délais pour adapter son parc de logement, mais affaiblirait l'ambition de la directive."
+      }
+    ],
+    "stratégie": "Trouver un équilibre entre une politique de logement ambitieuse et les contraintes budgétaires des États membres. La Commission soutient les amendements qui renforcent l'efficacité et l'équité de la directive tout en évitant les surcoûts budgétaires.",
+    "alliances": [
+      "Parti Populaire Européen",
+      "Renouveau Européen"
+    ],
+    "oppositions": [
+      "Hongrie",
+      "Pologne",
+      "Conservateurs et Réformistes"
+    ],
+    "éléments_d_argumentaire": [
+      "La politique de logement social est un pilier de l'Union. Le logement social neutre en carbone est à la fois une nécessité sociale et un levier de croissance verte.",
+      "Le plan logement social est un investissement dans l'avenir de l'UE et de ses citoyens. Il améliore la vie quotidienne des citoyens, renforce la cohésion sociale et contribue à la transition écologique."
+    ],
+    "références": [
+      "s1-d7.json (directive, commission)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Porte un amendement pour exclure les logements intermédiaires du champ de la directive.",
+      "enjeux_directive": [
+        "Soutenir la modernisation de l'industrie allemande de la construction et de la rénovation.",
+        "Protéger les PME de la surcharge réglementaire.",
+        "Maintenir la compétitivité et l'attractivité de l'économie allemande."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de renforcer le leadership de l'Allemagne en matière d'industrie verte et de technologies de construction innovantes."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7F",
+          "origine": "Allemagne",
+          "description": "Exclure les logements intermédiaires du champ de la directive",
+          "impact": "L'Allemagne soutient cet amendement qui est en ligne avec son approche budgétaire prudente."
+        }
+      ],
+      "stratégie": "Promouvoir une approche pragmatique et favorable aux entreprises pour stimuler l'économie.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Renouveau Européen",
+        "Italie"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Socialistes et démocrates",
+        "Hongrie"
+      ],
+      "éléments_d_argumentaire": [
+        "La rénovation des bâtiments intermédiaires est une charge inutile pour les finances publiques."
+      ],
+      "références": [
+        "s1-d7.json (countries, Allemagne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Soutient la directive et promeut des amendements pour assouplir les conditions d’accès aux aides pour les petites exploitations.",
+      "enjeux_directive": [
+        "Faciliter l’accès à la rénovation énergétique pour les propriétaires modestes et les PME.",
+        "Promouvoir la mixité sociale dans le logement social."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la France de renforcer sa politique de logement social et d'efficacité énergétique à l'échelle européenne."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7C",
+          "origine": "Parti Populaire Européen",
+          "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+          "impact": "La France est favorable à cet amendement qui renforce la dimension sociale de la directive."
+        }
+      ],
+      "stratégie": "Promouvoir une politique de logement social ambitieuse et adaptée aux réalités locales, en soutenant les amendements qui renforcent la dimension sociale et environnementale de la directive.",
+      "alliances": [
+        "Allemagne",
+        "Italie",
+        "Parti Populaire Européen",
+        "Socialistes et démocrates"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Le logement social est une priorité nationale et européenne, il est un levier de croissance verte et d’inclusion sociale."
+      ],
+      "références": [
+        "s1-d7.json (countries, France)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Porte un amendement pour reporter de deux ans l'obligation de rénovation pour les petits bailleurs.",
+      "enjeux_directive": [
+        "Protéger les petits propriétaires et les investisseurs privés.",
+        "Garantir une transition progressive pour l'immobilier historique et les zones urbaines."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'Italie de moderniser son parc immobilier de manière progressive et adaptée."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7G",
+          "origine": "Italie",
+          "description": "Reporter de deux ans l'obligation de rénovation pour les petits bailleurs",
+          "impact": "L'Italie soutient cet amendement qui permet de prendre en compte les contraintes spécifiques des petits bailleurs."
+        }
+      ],
+      "stratégie": "Trouver un équilibre entre les objectifs de la directive et la protection des petits bailleurs et des patrimoines historiques, qui sont au cœur de l’économie immobilière italienne.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "Il est vital de soutenir les petits propriétaires. Ils sont le cœur de l'économie immobilière et le report de la directive leur donne le temps de s’adapter."
+      ],
+      "références": [
+        "s1-d7.json (countries, Italie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "S'oppose à la directive et porte un amendement pour permettre une flexibilité nationale sur le rythme de construction.",
+      "enjeux_directive": [
+        "Défendre la souveraineté nationale sur la politique de logement.",
+        "Adapter les objectifs de la directive aux réalités budgétaires nationales."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par la Hongrie comme une ingérence dans la politique nationale de logement et comme une contrainte budgétaire."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7E",
+          "origine": "Hongrie",
+          "description": "Permettre une flexibilité nationale sur le rythme de construction",
+          "impact": "La Hongrie soutient cet amendement pour avoir plus de contrôle sur son calendrier de construction et de rénovation."
+        }
+      ],
+      "stratégie": "S'opposer à la directive pour des raisons de souveraineté nationale et de contraintes budgétaires, tout en cherchant à obtenir des dérogations ou des délais supplémentaires.",
+      "alliances": [
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Parti Populaire Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "La Hongrie doit rester maître de sa politique de logement pour l'adapter au mieux aux besoins nationaux. Le rythme de rénovation doit être flexible."
+      ],
+      "références": [
+        "s1-d7.json (countries, Hongrie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "S'oppose à la directive et porte un amendement pour autoriser des dérogations pour les zones rurales à faible densité.",
+      "enjeux_directive": [
+        "Protéger le logement rural et les zones à faible densité de population des exigences de la directive.",
+        "Défendre la souveraineté nationale sur la politique de logement."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme un fardeau financier pour le pays et comme une menace pour le mode de vie rural."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7H",
+          "origine": "Pologne",
+          "description": "Autoriser des dérogations pour les zones rurales à faible densité",
+          "impact": "La Pologne est favorable à cet amendement pour protéger son logement rural."
+        }
+      ],
+      "stratégie": "S'opposer à la directive en mettant en avant les spécificités de son territoire et la charge financière que représenterait sa mise en œuvre.",
+      "alliances": [
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Parti Populaire Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "La Pologne doit être en mesure d’adapter sa politique de logement pour répondre aux besoins spécifiques de sa population rurale."
+      ],
+      "références": [
+        "s1-d7.json (countries, Pologne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Soutient la directive tout en cherchant à renforcer la dimension d'innovation technologique et de standards de qualité.",
+      "enjeux_directive": [
+        "Promouvoir les technologies de construction durable et d'efficacité énergétique.",
+        "S'assurer que la directive ne freine pas l'innovation en la matière.",
+        "Maintenir la compétitivité et l'attractivité de l'économie suédoise."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Suède de renforcer son leadership en matière d'innovation dans la construction et l'efficacité énergétique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7A",
+          "origine": "Gauche Unitaire",
+          "description": "Porter l'objectif à 7 millions de logements sociaux construits d'ici 2035",
+          "impact": "La Suède soutient l'ambition de cet amendement, à condition que le financement soit géré de manière responsable."
+        },
+        {
+          "id": "1-7B",
+          "origine": "Verts/ALE",
+          "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+          "impact": "La Suède est favorable à cet amendement car il est en ligne avec ses objectifs de transition bas carbone."
+        }
+      ],
+      "stratégie": "Promouvoir une approche ambitieuse en matière de durabilité et d'innovation tout en assurant une mise en œuvre efficace.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "La Suède est un modèle de durabilité. La directive est un levier pour la compétitivité et la croissance verte. L’efficacité énergétique est un atout pour le logement social."
+      ],
+      "références": [
+        "s1-d7.json (countries, Suède)"
+      ]
+    }
+  ],
+  "parties": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Soutient la directive, mais cherche à équilibrer les ambitions sociales et environnementales avec la réalité économique.",
+      "enjeux_directive": [
+        "Protéger le secteur de la construction et les propriétaires.",
+        "Promouvoir des solutions de logement abordables."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le PPE de démontrer son leadership en matière de politiques sociales tout en protégeant les intérêts économiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7C",
+          "origine": "Parti Populaire Européen",
+          "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+          "impact": "Le PPE soutient cet amendement qui renforce la dimension sociale de la directive tout en étant en ligne avec la réalité économique."
+        },
+        {
+          "id": "1-7F",
+          "origine": "Allemagne",
+          "description": "Exclure les logements intermédiaires du champ de la directive",
+          "impact": "Le PPE soutient l'amendement qui réduit la portée de la directive pour la rendre plus acceptable pour les gouvernements nationaux soucieux des dépenses."
+        }
+      ],
+      "stratégie": "Trouver un équilibre entre une politique de logement ambitieuse et les contraintes budgétaires des États membres. Le PPE soutient les amendements qui renforcent l'efficacité et l'équité de la directive tout en évitant les surcoûts budgétaires.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Italie",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Le logement social est un pilier de l'Union, mais il doit être abordable et soutenable. La politique de logement doit tenir compte des réalités économiques."
+      ],
+      "références": [
+        "s1-d7.json (parties, Parti Populaire Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et démocrates",
+      "role_europeen": "Poussent pour une politique de logement plus sociale et plus ambitieuse, notamment en matière de rénovation et de lutte contre la précarité énergétique.",
+      "enjeux_directive": [
+        "Accélérer la rénovation énergétique du parc résidentiel pour lutter contre la précarité énergétique.",
+        "Augmenter le nombre de logements sociaux."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les S&D de promouvoir une politique de logement plus sociale et plus ambitieuse, renforçant le modèle social européen."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7G",
+          "origine": "Italie",
+          "description": "Reporter de deux ans l'obligation de rénovation pour les petits bailleurs",
+          "impact": "Les S&D s'opposent à cet amendement qui dilue l'effort sur la rénovation énergétique."
+        }
+      ],
+      "stratégie": "Pousser pour une politique de logement plus sociale et plus ambitieuse, notamment en matière de rénovation et de lutte contre la précarité énergétique. Les S&D soutiennent les amendements qui renforcent l'ambition sociale et environnementale de la directive.",
+      "alliances": [
+        "Verts/ALE",
+        "Gauche Unitaire",
+        "France",
+        "Italie"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Le droit au logement est un droit fondamental. La rénovation énergétique est une urgence sociale et climatique. Il faut agir vite et fort."
+      ],
+      "références": [
+        "s1-d7.json (parties, Socialistes et démocrates)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Soutient la directive et promeut des amendements pour renforcer la cohésion sociale et intergénérationnelle et la mixité sociale.",
+      "enjeux_directive": [
+        "Promouvoir la mixité sociale et l'intergénérationnel dans le logement social.",
+        "Améliorer l'efficacité des aides publiques."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour RE d'orienter la politique de logement vers une approche plus innovante et efficace."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7D",
+          "origine": "Renouveau Européen",
+          "description": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+          "impact": "RE est favorable à cet amendement qui renforce la cohésion sociale et l'efficacité des aides."
+        }
+      ],
+      "stratégie": "S'assurer que la directive promeut des solutions efficaces et innovantes qui garantissent la cohésion sociale et la mixité. RE soutient les amendements qui renforcent la dimension sociale de la directive.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Socialistes et démocrates",
+        "France"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Le logement social ne doit pas être un lieu de ségrégation. Il doit être un lieu de mixité sociale et d’échange intergénérationnel."
+      ],
+      "références": [
+        "s1-d7.json (parties, Renouveau Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Poussent pour une politique de logement plus ambitieuse, notamment en matière de rénovation énergétique et de lutte contre la précarité énergétique.",
+      "enjeux_directive": [
+        "Accélérer la rénovation énergétique du parc résidentiel pour lutter contre la précarité énergétique et le changement climatique.",
+        "Renforcer les objectifs de la directive pour qu'elle soit plus efficace."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les Verts/ALE de promouvoir une politique de logement plus verte et plus efficace, en ligne avec les objectifs du Pacte vert."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7B",
+          "origine": "Verts/ALE",
+          "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+          "impact": "Les Verts/ALE soutiennent cet amendement pour renforcer l’ambition de la directive."
+        }
+      ],
+      "stratégie": "Pousser pour une politique de logement plus ambitieuse, en matière de rénovation énergétique et de lutte contre la précarité énergétique. Les Verts/ALE soutiennent les amendements qui renforcent l'ambition de la directive.",
+      "alliances": [
+        "Socialistes et démocrates",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "La rénovation énergétique est une urgence climatique. Elle permet aussi de lutter contre la précarité énergétique. Il faut agir vite et fort."
+      ],
+      "références": [
+        "s1-d7.json (parties, Verts/ALE)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "S'opposent à la directive qu'ils considèrent comme une ingérence dans les affaires nationales et un fardeau financier inutile.",
+      "enjeux_directive": [
+        "Défendre la souveraineté nationale sur la politique de logement.",
+        "S'opposer à toute nouvelle réglementation européenne qui serait un fardeau financier pour les États membres."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par les C&R comme une menace pour la souveraineté nationale et comme une ingérence dans les affaires intérieures des États membres."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7F",
+          "origine": "Allemagne",
+          "description": "Exclure les logements intermédiaires du champ de la directive",
+          "impact": "Les C&R soutiennent cet amendement qui réduit la portée de la directive et la rend plus acceptable pour les gouvernements nationaux soucieux des dépenses."
+        }
+      ],
+      "stratégie": "S'opposer à la directive pour des raisons de souveraineté nationale et de contraintes budgétaires, tout en cherchant à obtenir des dérogations ou des délais supplémentaires.",
+      "alliances": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen",
+        "Socialistes et démocrates",
+        "Verts/ALE"
+      ],
+      "éléments_d_argumentaire": [
+        "L’Europe doit se concentrer sur ses compétences principales et laisser la politique de logement aux États membres. La directive est un fardeau financier inutile."
+      ],
+      "références": [
+        "s1-d7.json (parties, Conservateurs et Réformistes)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire",
+      "role_europeen": "Poussent pour une politique de logement plus sociale et plus ambitieuse, notamment en matière de rénovation et de lutte contre la précarité énergétique.",
+      "enjeux_directive": [
+        "Augmenter le nombre de logements sociaux pour lutter contre la précarité et l'exclusion sociale.",
+        "Renforcer l'ambition sociale de la directive."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Gauche Unitaire de promouvoir une politique de logement plus sociale et plus ambitieuse, renforçant le modèle social européen."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7A",
+          "origine": "Gauche Unitaire",
+          "description": "Porter l'objectif à 7 millions de logements sociaux construits d'ici 2035",
+          "impact": "La Gauche Unitaire soutient cet amendement qui renforce l'ambition de la directive."
+        },
+        {
+          "id": "1-7B",
+          "origine": "Verts/ALE",
+          "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+          "impact": "La Gauche Unitaire soutient cet amendement qui renforce l'ambition de la directive."
+        }
+      ],
+      "stratégie": "Pousser pour une politique de logement plus sociale et plus ambitieuse. La Gauche Unitaire soutient les amendements qui renforcent la dimension sociale de la directive.",
+      "alliances": [
+        "Socialistes et démocrates",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes",
+        "Renouveau Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "Le droit au logement est un droit fondamental. Il est urgent de construire plus de logements sociaux et de lutter contre la précarité énergétique et le sans-abrisme."
+      ],
+      "références": [
+        "s1-d7.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les intérêts des entreprises technologiques, qui cherchent à influencer les politiques de construction en matière de connectivité et de technologies intelligentes.",
+      "enjeux_directive": [
+        "Veiller à ce que les nouvelles constructions incluent des infrastructures de connectivité de haute qualité et des technologies pour la maison intelligente."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour Big Tech de positionner ses solutions technologiques comme indispensables pour les logements de demain."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'aligner sur les objectifs de la directive en matière de durabilité et de modernisation pour positionner ses solutions comme des leviers d'efficacité énergétique et d'amélioration du confort. S'opposer aux réglementations excessives sur la vie privée.",
+      "alliances": [
+        "Renouveau Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'innovation technologique est la clé pour le logement durable de demain. Les smart-homes réduisent la consommation d'énergie."
+      ],
+      "références": [
+        "s1-d7-old.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Energies fossiles",
+      "role_europeen": "Représente les intérêts des industries du gaz et du pétrole, et vise à minimiser les impacts des nouvelles réglementations énergétiques sur le secteur du bâtiment.",
+      "enjeux_directive": [
+        "Minimiser les contraintes et les coûts associés à la transition énergétique pour le secteur du bâtiment.",
+        "Négocier des dérogations pour les combustibles fossiles dans le chauffage."
+      ],
+      "impacts_directive": [
+        "La directive pourrait accélérer la transition vers des solutions de chauffage alternatives, ce qui pourrait réduire la demande en gaz et pétrole."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7G",
+          "origine": "Italie",
+          "description": "Reporter de deux ans l'obligation de rénovation pour les petits bailleurs",
+          "impact": "L’industrie des énergies fossiles soutient cet amendement qui donne un répit aux énergies fossiles."
+        },
+        {
+          "id": "1-7H",
+          "origine": "Pologne",
+          "description": "Autoriser des dérogations pour les zones rurales à faible densité",
+          "impact": "L’industrie des énergies fossiles soutient cet amendement pour avoir des marges de manœuvre."
+        }
+      ],
+      "stratégie": "Faire du lobbying pour un rythme de transition plus lent, en mettant l’accent sur le coût pour les ménages et les entreprises. S'allier avec les États et les partis qui partagent cette position.",
+      "alliances": [
+        "Hongrie",
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être progressive et abordable pour tous. La directive ne doit pas créer une fracture sociale."
+      ],
+      "références": [
+        "s1-d7-old.json (lobbies, Energies fossiles)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente les intérêts du secteur financier, cherchant à influencer les mécanismes de financement de la directive, notamment les prêts et les subventions pour la rénovation.",
+      "enjeux_directive": [
+        "Développer des instruments financiers pour le secteur du logement durable.",
+        "Financer des projets de rénovation et construction durable."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le secteur financier de développer un nouveau marché pour le financement de la transition écologique."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner comme un partenaire clé de la mise en œuvre de la directive, en mettant en avant son rôle dans le financement de la transition. Chercher à ce que les subventions soient transformées en prêts à taux bas pour garantir des revenus au secteur.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Le secteur financier est le moteur de la transition. Sans nous, les objectifs de la directive ne seront pas atteints."
+      ],
+      "références": [
+        "s1-d7-old.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente les intérêts des entreprises de l'agrochimie, cherchant à s'assurer que les réglementations sur les bâtiments n'affectent pas l'agriculture et les infrastructures rurales.",
+      "enjeux_directive": [
+        "Minimiser les contraintes sur les bâtiments agricoles et les infrastructures rurales.",
+        "S'assurer que les politiques de logement soient cohérentes avec la politique agricole commune."
+      ],
+      "impacts_directive": [
+        "La directive pourrait avoir des impacts indirects sur le secteur de l'agriculture, notamment sur les infrastructures rurales. L'agrochimie craint que la directive ne crée des charges supplémentaires pour les agriculteurs."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7H",
+          "origine": "Pologne",
+          "description": "Autoriser des dérogations pour les zones rurales à faible densité",
+          "impact": "Le lobby de l’agrochimie soutient cet amendement qui permet de prendre en compte les spécificités rurales."
+        }
+      ],
+      "stratégie": "S'allier avec les pays et les partis qui défendent les intérêts ruraux. Le lobby de l’agrochimie cherche à garantir que la directive ne nuise pas à l’agriculture.",
+      "alliances": [
+        "Pologne",
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Les zones rurales sont le cœur de l'Europe. La politique de logement doit les soutenir et non les handicaper."
+      ],
+      "références": [
+        "s1-d7-old.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharma",
+      "role_europeen": "Représente les intérêts de l'industrie pharmaceutique, cherchant à promouvoir la qualité de l'air et les standards sanitaires dans les nouvelles constructions, en lien avec la santé publique.",
+      "enjeux_directive": [
+        "Promouvoir la qualité de l'air et la santé environnementale dans le logement.",
+        "Soutenir les normes sanitaires dans la construction."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le lobby pharmaceutique de mettre en avant la santé comme un enjeu majeur dans le logement."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-7C",
+          "origine": "Parti Populaire Européen",
+          "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+          "impact": "Le lobby pharmaceutique soutient cet amendement car il renforce la dimension santé de la directive."
+        }
+      ],
+      "stratégie": "S'allier avec les partis et les États qui partagent la même vision de la santé publique. Le lobby pharmaceutique cherche à positionner la santé comme une priorité de la directive.",
+      "alliances": [
+        "France",
+        "Parti Populaire Européen",
+        "Verts/ALE"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La santé de nos concitoyens commence à la maison. L'efficacité énergétique et la qualité de l'air sont des éléments clés de la santé publique."
+      ],
+      "références": [
+        "s1-d7-old.json (lobbies, Pharma)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, cherchant à influencer les exigences de mobilité durable liées aux nouveaux projets de logement.",
+      "enjeux_directive": [
+        "Influencer les exigences de durabilité liées à la mobilité et aux innovations.",
+        "Soutenir les initiatives vertes dans la mobilité en lien avec la construction."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'industrie automobile d'obtenir des aides pour la modernisation et la décarbonation du secteur de la mobilité en lien avec les infrastructures de logement."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Positionner l'industrie automobile comme un partenaire de la transition, en mettant en avant les solutions de transport durable pour le secteur du logement.",
+      "alliances": [
+        "Pologne",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'industrie automobile est un moteur de l'économie européenne. Son soutien est vital pour la transition."
+      ],
+      "références": [
+        "s1-d7-old.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

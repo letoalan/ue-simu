@@ -1,0 +1,537 @@
+<div class="tab-main-container">
+    <!-- Sous-navigation -->
+    <div class="tab-sub-header" id="pistes-nego-sub-nav">
+        <button class="sub-nav-btn active" data-sub-tab="pistes-commission">Commission</button>
+        <button class="sub-nav-btn" data-sub-tab="pistes-etats">États Membres</button>
+        <button class="sub-nav-btn" data-sub-tab="pistes-partis">Partis Politiques</button>
+        <button class="sub-nav-btn" data-sub-tab="pistes-lobbies">Lobbies</button>
+    </div>
+
+    <!-- Contenus des sous-onglets -->
+    <div id="pistes-nego-sub-tab-container">
+
+        <!-- ONGLET COMMISSION -->
+        <div id="pistes-commission-sub-tab" class="sub-tab-content active">
+
+            <!-- Carte compacte Alternative 3 -->
+            <div class="nego-compact-card">
+
+                <!-- En-tête large avec photo intégrée -->
+                <div class="nego-header">
+                    <div class="nego-header-content">
+                        <!-- Photo -->
+                        <div id="pistes-com-photo-header" class="nego-photo-header">🏛️</div>
+
+                        <!-- Informations -->
+                        <div class="nego-header-info">
+                            <h2 id="pistes-com-title">📋 Directive sur l'IA</h2>
+                            <p class="nego-header-subtitle">Commission Européenne - Position de négociation</p>
+                            <div id="pistes-com-subject-header" class="subject-header"></div>
+
+                            <!-- Badges Position + Priorité -->
+                            <div class="nego-header-badges">
+                                <div id="pistes-com-position-badge" class="nego-header-badge">
+                                    <span class="badge-icon">🟢</span>
+                                    <span class="badge-text">FAVORABLE</span>
+                                </div>
+                                <div id="pistes-com-priority-badge" class="nego-header-badge">
+                                    <span class="priority-stars">⭐⭐⭐</span>
+                                    <span class="priority-text">Très haute priorité</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Menu de sélection dans l'en-tête -->
+                    <div class="nego-header-menu">
+                        <div class="selectors-container">
+                            <label for="pistes-com-directive-menu">Sélection :</label>
+                            <select id="pistes-com-directive-menu">
+                                <option value="directive">Directive</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Grille de cartes -->
+                <div class="nego-main-content">
+
+                    <!-- Carte Stratégie (pleine largeur) -->
+                    <div class="nego-card nego-card-strategy">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>📖</span>
+                                <span>STRATÉGIE</span>
+                            </h3>
+                            <span class="nego-card-badge">Essentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <p id="pistes-com-strategy-text"></p>
+                        </div>
+                    </div>
+
+                    <!-- Grille de cartes -->
+                    <div class="nego-cards-grid">
+
+                        <!-- Carte Arguments -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>🗣️</span>
+                                    <span>ARGUMENTS</span>
+                                </h3>
+                                <span id="pistes-com-args-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <div id="pistes-com-arguments" class="arguments-grid"></div>
+                            </div>
+                        </div>
+
+                        <!-- Carte Alliances -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>🤝</span>
+                                    <span>ALLIANCES</span>
+                                </h3>
+                                <span id="pistes-com-alliances-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-com-alliances-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                        <!-- Carte Oppositions -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>⚔️</span>
+                                    <span>OPPOSITIONS</span>
+                                </h3>
+                                <span id="pistes-com-oppositions-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-com-oppositions-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Carte Notes (pleine largeur) -->
+                    <div class="nego-card nego-card-notes">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>📝</span>
+                                <span>NOTES INTERNES</span>
+                            </h3>
+                            <span class="confidential-mini">Confidentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <div id="pistes-com-notes-text" class="notes-content"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ONGLET ÉTATS -->
+        <div id="pistes-etats-sub-tab" class="sub-tab-content">
+
+            <!-- Carte compacte Alternative 3 -->
+            <div class="nego-compact-card">
+
+                <!-- En-tête large avec photo intégrée -->
+                <div class="nego-header">
+                    <div class="nego-header-content">
+                        <!-- Photo / Drapeau -->
+                        <div id="pistes-etats-photo-header" class="nego-photo-header">🇪🇺</div>
+
+                        <!-- Informations -->
+                        <div class="nego-header-info">
+                            <h2 id="pistes-etats-title">🌍 États Membres</h2>
+                            <p class="nego-header-subtitle">Position des États - Négociation</p>
+                            <div id="pistes-etats-subject-header" class="subject-header"></div>
+
+                            <!-- Badges Position + Priorité -->
+                            <div class="nego-header-badges">
+                                <div id="pistes-etats-position-badge" class="nego-header-badge">
+                                    <span class="badge-icon">🟢</span>
+                                    <span class="badge-text">FAVORABLE</span>
+                                </div>
+                                <div id="pistes-etats-priority-badge" class="nego-header-badge">
+                                    <span class="priority-stars">⭐⭐⭐</span>
+                                    <span class="priority-text">Très haute priorité</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Menu de sélection dans l'en-tête -->
+                    <div class="nego-header-menu">
+                        <div class="selectors-container">
+                            <label for="pistes-etats-country-menu">Pays :</label>
+                            <select id="pistes-etats-country-menu">
+                                <option value="">-- Sélectionner un pays --</option>
+                            </select>
+
+                            <label for="pistes-etats-directive-menu">Sélection :</label>
+                            <select id="pistes-etats-directive-menu" disabled>
+                                <option value="directive">Directive</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Grille de cartes -->
+                <div class="nego-main-content">
+
+                    <!-- Carte Stratégie (pleine largeur) -->
+                    <div class="nego-card nego-card-strategy">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>📖</span>
+                                <span>STRATÉGIE</span>
+                            </h3>
+                            <span class="nego-card-badge">Essentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <p id="pistes-etats-strategy-text"></p>
+                        </div>
+                    </div>
+
+                    <!-- Grille de cartes -->
+                    <div class="nego-cards-grid">
+
+                        <!-- Carte Arguments -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>🗣️</span>
+                                    <span>ARGUMENTS</span>
+                                </h3>
+                                <span id="pistes-etats-args-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <div id="pistes-etats-arguments" class="arguments-grid"></div>
+                            </div>
+                        </div>
+
+                        <!-- Carte Alliances -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>🤝</span>
+                                    <span>ALLIANCES</span>
+                                </h3>
+                                <span id="pistes-etats-alliances-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-etats-alliances-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                        <!-- Carte Oppositions -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>⚔️</span>
+                                    <span>OPPOSITIONS</span>
+                                </h3>
+                                <span id="pistes-etats-oppositions-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-etats-oppositions-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Carte Notes (pleine largeur) -->
+                    <div class="nego-card nego-card-notes">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>📝</span>
+                                <span>NOTES INTERNES</span>
+                            </h3>
+                            <span class="confidential-mini">Confidentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <div id="pistes-etats-notes-text" class="notes-content"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ONGLET PARTIS -->
+        <div id="pistes-partis-sub-tab" class="sub-tab-content">
+
+            <!-- Carte compacte Alternative 3 -->
+            <div class="nego-compact-card">
+
+                <!-- En-tête large avec photo intégrée -->
+                <div class="nego-header">
+                    <div class="nego-header-content">
+                        <!-- Photo / Logo du parti -->
+                        <div id="pistes-partis-photo-header" class="nego-photo-header">🗳️</div>
+
+                        <!-- Informations -->
+                        <div class="nego-header-info">
+                            <h2 id="pistes-partis-title">🗳️ Partis Politiques</h2>
+                            <p class="nego-header-subtitle">Position des Partis - Négociation</p>
+                            <div id="pistes-partis-subject-header" class="subject-header"></div>
+
+                            <!-- Badges Position + Priorité -->
+                            <div class="nego-header-badges">
+                                <div id="pistes-partis-position-badge" class="nego-header-badge">
+                                    <span class="badge-icon">🟢</span>
+                                    <span class="badge-text">FAVORABLE</span>
+                                </div>
+                                <div id="pistes-partis-priority-badge" class="nego-header-badge">
+                                    <span class="priority-stars">★★★</span>
+                                    <span class="priority-text">Très haute priorité</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Menu de sélection dans l'en-tête -->
+                    <div class="nego-header-menu">
+                        <div class="selectors-container">
+                            <label for="pistes-partis-menu">Parti :</label>
+                            <select id="pistes-partis-menu">
+                                <option value="">-- Sélectionner un parti --</option>
+                            </select>
+
+                            <label for="pistes-partis-directive-menu">Sélection :</label>
+                            <select id="pistes-partis-directive-menu" disabled>
+                                <option value="directive">Directive</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Grille de cartes -->
+                <div class="nego-main-content">
+
+                    <!-- Carte Stratégie (pleine largeur) -->
+                    <div class="nego-card nego-card-strategy">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>🎯</span>
+                                <span>STRATÉGIE</span>
+                            </h3>
+                            <span class="nego-card-badge">Essentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <p id="pistes-partis-strategy-text"></p>
+                        </div>
+                    </div>
+
+                    <!-- Grille de cartes -->
+                    <div class="nego-cards-grid">
+
+                        <!-- Carte Arguments -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>💬</span>
+                                    <span>ARGUMENTS</span>
+                                </h3>
+                                <span id="pistes-partis-args-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <div id="pistes-partis-arguments" class="arguments-grid"></div>
+                            </div>
+                        </div>
+
+                        <!-- Carte Alliances -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>🤝</span>
+                                    <span>ALLIANCES</span>
+                                </h3>
+                                <span id="pistes-partis-alliances-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-partis-alliances-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                        <!-- Carte Oppositions -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>⚔️</span>
+                                    <span>OPPOSITIONS</span>
+                                </h3>
+                                <span id="pistes-partis-oppositions-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-partis-oppositions-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Carte Notes (pleine largeur) -->
+                    <div class="nego-card nego-card-notes">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>📝</span>
+                                <span>NOTES INTERNES</span>
+                            </h3>
+                            <span class="confidential-mini">Confidentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <div id="pistes-partis-notes-text" class="notes-content"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- ONGLET LOBBIES -->
+        <div id="pistes-lobbies-sub-tab" class="sub-tab-content">
+
+            <!-- Carte compacte Alternative 3 -->
+            <div class="nego-compact-card">
+
+                <!-- En-tête large avec photo intégrée -->
+                <div class="nego-header">
+                    <div class="nego-header-content">
+                        <!-- Photo / Logo du lobby -->
+                        <div id="pistes-lobbies-photo-header" class="nego-photo-header">💼</div>
+
+                        <!-- Informations -->
+                        <div class="nego-header-info">
+                            <h2 id="pistes-lobbies-title">💼 Lobbies</h2>
+                            <p class="nego-header-subtitle">Position des Lobbies - Négociation</p>
+                            <div id="pistes-lobbies-subject-header" class="subject-header"></div>
+
+                            <!-- Badges Position + Priorité -->
+                            <div class="nego-header-badges">
+                                <div id="pistes-lobbies-position-badge" class="nego-header-badge">
+                                    <span class="badge-icon">🟢</span>
+                                    <span class="badge-text">FAVORABLE</span>
+                                </div>
+                                <div id="pistes-lobbies-priority-badge" class="nego-header-badge">
+                                    <span class="priority-stars">★★★</span>
+                                    <span class="priority-text">Très haute priorité</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Menu de sélection dans l'en-tête -->
+                    <div class="nego-header-menu">
+                        <div class="selectors-container">
+                            <label for="pistes-lobbies-menu">Lobby :</label>
+                            <select id="pistes-lobbies-menu">
+                                <option value="">-- Sélectionner un lobby --</option>
+                            </select>
+
+                            <label for="pistes-lobbies-directive-menu">Sélection :</label>
+                            <select id="pistes-lobbies-directive-menu" disabled>
+                                <option value="directive">Directive</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Grille de cartes -->
+                <div class="nego-main-content">
+
+                    <!-- Carte Stratégie (pleine largeur) -->
+                    <div class="nego-card nego-card-strategy">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>🎯</span>
+                                <span>STRATÉGIE</span>
+                            </h3>
+                            <span class="nego-card-badge">Essentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <p id="pistes-lobbies-strategy-text"></p>
+                        </div>
+                    </div>
+
+                    <!-- Grille de cartes -->
+                    <div class="nego-cards-grid">
+
+                        <!-- Carte Arguments -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>💬</span>
+                                    <span>ARGUMENTS</span>
+                                </h3>
+                                <span id="pistes-lobbies-args-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <div id="pistes-lobbies-arguments" class="arguments-grid"></div>
+                            </div>
+                        </div>
+
+                        <!-- Carte Alliances -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>🤝</span>
+                                    <span>ALLIANCES</span>
+                                </h3>
+                                <span id="pistes-lobbies-alliances-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-lobbies-alliances-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                        <!-- Carte Oppositions -->
+                        <div class="nego-card">
+                            <div class="nego-card-header">
+                                <h3 class="nego-card-title">
+                                    <span>⚔️</span>
+                                    <span>OPPOSITIONS</span>
+                                </h3>
+                                <span id="pistes-lobbies-oppositions-count" class="nego-card-badge">0</span>
+                            </div>
+                            <div class="nego-card-content">
+                                <ul id="pistes-lobbies-oppositions-list" class="nego-card-list"></ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Carte Notes (pleine largeur) -->
+                    <div class="nego-card nego-card-notes">
+                        <div class="nego-card-header">
+                            <h3 class="nego-card-title">
+                                <span>📝</span>
+                                <span>NOTES INTERNES</span>
+                            </h3>
+                            <span class="confidential-mini">Confidentiel</span>
+                        </div>
+                        <div class="nego-card-content">
+                            <div id="pistes-lobbies-notes-text" class="notes-content"></div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>

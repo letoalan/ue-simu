@@ -17,6 +17,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Parti Populaire Européen",
           "id": "2-1A",
           "description": "Porter le stock stratégique à 120 jours",
           "impact": {
@@ -28,6 +29,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Socialistes & Démocrates",
           "id": "2-1B",
           "description": "Accélérer les investissements dans les interconnexions énergétiques",
           "impact": {
@@ -39,6 +41,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-1C",
           "description": "Inclure un volet hydrogène dans la stratégie énergétique",
           "impact": {
@@ -50,6 +53,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Verts/ALE",
           "id": "2-1D",
           "description": "Conditionner les aides à la réduction de la consommation de gaz",
           "impact": {
@@ -61,6 +65,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-1E",
           "description": "Limiter le stock stratégique à 60 jours",
           "impact": {
@@ -72,6 +77,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Italie",
           "id": "2-1F",
           "description": "Exclure certains États membres des obligations de stockage",
           "impact": {
@@ -83,6 +89,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-1G",
           "description": "Soutenir prioritairement les infrastructures gazières existantes",
           "impact": {
@@ -94,6 +101,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Suède",
           "id": "2-1H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -121,6 +129,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-2A",
           "description": "Porter le budget de défense à 0,7 % du PIB",
           "impact": {
@@ -132,6 +141,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Socialistes & Démocrates",
           "id": "2-2B",
           "description": "Créer un fonds européen pour la recherche en cybersécurité",
           "impact": {
@@ -143,6 +153,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Verts/ALE",
           "id": "2-2C",
           "description": "Conditionner l’accès aux équipements à la coopération transfrontalière",
           "impact": {
@@ -154,6 +165,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Parti Populaire Européen",
           "id": "2-2D",
           "description": "Inclure un volet formation pour les forces armées européennes",
           "impact": {
@@ -165,6 +177,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Italie",
           "id": "2-2E",
           "description": "Limiter le budget de défense à 0,4 % du PIB",
           "impact": {
@@ -176,6 +189,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-2F",
           "description": "Exclure certains États membres des achats communs",
           "impact": {
@@ -187,6 +201,7 @@
         },
         {
           "type": "conseil",
+          "origine": "France",
           "id": "2-2G",
           "description": "Soutenir prioritairement les industries de défense nationales",
           "impact": {
@@ -198,6 +213,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-2H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -225,6 +241,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-3A",
           "description": "Augmenter les quotas de répartition de 20 %",
           "impact": {
@@ -236,6 +253,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Socialistes & Démocrates",
           "id": "2-3B",
           "description": "Instaurer un fonds européen pour l’intégration des migrants",
           "impact": {
@@ -247,6 +265,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Conservateurs & Réformistes",
           "id": "2-3C",
           "description": "Conditionner les aides à la formation linguistique et professionnelle",
           "impact": {
@@ -258,6 +277,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Gauche Unitaire",
           "id": "2-3D",
           "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
           "impact": {
@@ -269,6 +289,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-3E",
           "description": "Limiter les quotas de répartition à 80 % de la capacité nationale",
           "impact": {
@@ -280,6 +301,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Suède",
           "id": "2-3F",
           "description": "Exclure certains États membres des obligations de répartition",
           "impact": {
@@ -291,6 +313,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Italie",
           "id": "2-3G",
           "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
           "impact": {
@@ -302,6 +325,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-3H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -329,6 +353,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-4A",
           "description": "Porter la réserve stratégique à 9 mois",
           "impact": {
@@ -340,6 +365,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Verts/ALE",
           "id": "2-4B",
           "description": "Conditionner les aides à la transition agroécologique",
           "impact": {
@@ -351,6 +377,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Gauche Unitaire",
           "id": "2-4C",
           "description": "Instaurer un fonds européen pour la relocalisation alimentaire",
           "impact": {
@@ -362,6 +389,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Socialistes & Démocrates",
           "id": "2-4D",
           "description": "Créer un label européen de circuits courts",
           "impact": {
@@ -373,6 +401,7 @@
         },
         {
           "type": "conseil",
+          "origine": "France",
           "id": "2-4E",
           "description": "Limiter la réserve stratégique à 3 mois",
           "impact": {
@@ -384,6 +413,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Suède",
           "id": "2-4F",
           "description": "Exclure certains produits agricoles de la réserve",
           "impact": {
@@ -395,6 +425,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-4G",
           "description": "Soutenir prioritairement les grandes exploitations",
           "impact": {
@@ -406,6 +437,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-4H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -433,6 +465,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-5A",
           "description": "Élargir la représentation unique à toutes les organisations internationales",
           "impact": {
@@ -444,6 +477,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Socialistes & Démocrates",
           "id": "2-5B",
           "description": "Créer un fonds européen pour la diplomatie préventive",
           "impact": {
@@ -455,6 +489,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Verts/ALE",
           "id": "2-5C",
           "description": "Conditionner la participation aux missions à la formation diplomatique commune",
           "impact": {
@@ -466,6 +501,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Parti Populaire Européen",
           "id": "2-5D",
           "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
           "impact": {
@@ -477,6 +513,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-5E",
           "description": "Limiter la représentation unique à certaines organisations",
           "impact": {
@@ -488,6 +525,7 @@
         },
         {
           "type": "conseil",
+          "origine": "France",
           "id": "2-5F",
           "description": "Exclure certains États membres de la représentation unique",
           "impact": {
@@ -499,6 +537,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-5G",
           "description": "Soutenir prioritairement la diplomatie bilatérale nationale",
           "impact": {
@@ -510,6 +549,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Suède",
           "id": "2-5H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -537,6 +577,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-6A",
           "description": "Élargir la coopération à la lutte contre la cybercriminalité",
           "impact": {
@@ -548,6 +589,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Conservateurs et Réformistes",
           "id": "2-6B",
           "description": "Instaurer un observatoire européen des crimes transfrontaliers",
           "impact": {
@@ -559,6 +601,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Gauche Unitaire",
           "id": "2-6C",
           "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
           "impact": {
@@ -570,6 +613,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Parti Populaire Européen",
           "id": "2-6D",
           "description": "Créer une unité européenne de lutte contre le terrorisme",
           "impact": {
@@ -581,6 +625,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-6E",
           "description": "Limiter la coopération à certains types de criminalité",
           "impact": {
@@ -592,6 +637,7 @@
         },
         {
           "type": "conseil",
+          "origine": "France",
           "id": "2-6F",
           "description": "Exclure certains États membres de l’échange systématique de données",
           "impact": {
@@ -603,6 +649,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-6G",
           "description": "Soutenir prioritairement les systèmes judiciaires nationaux",
           "impact": {
@@ -614,6 +661,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Allemagne",
           "id": "2-6H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -641,6 +689,7 @@
       "amendements": [
         {
           "type": "parlement",
+          "origine": "Renouveau Européen",
           "id": "2-7A",
           "description": "Élargir Erasmus+ à tous les niveaux d’éducation",
           "impact": {
@@ -652,6 +701,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Gauche Unitaire",
           "id": "2-7B",
           "description": "Instaurer un fonds européen pour la création artistique",
           "impact": {
@@ -663,6 +713,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Conservateurs et Réformistes",
           "id": "2-7C",
           "description": "Conditionner les aides à la promotion des valeurs européennes",
           "impact": {
@@ -674,6 +725,7 @@
         },
         {
           "type": "parlement",
+          "origine": "Socialiste et Démocrates",
           "id": "2-7D",
           "description": "Créer des centres culturels européens à l’étranger",
           "impact": {
@@ -685,6 +737,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Pologne",
           "id": "2-7E",
           "description": "Limiter le programme aux étudiants universitaires",
           "impact": {
@@ -696,6 +749,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Hongrie",
           "id": "2-7F",
           "description": "Exclure certains domaines artistiques du fonds",
           "impact": {
@@ -707,6 +761,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Italie",
           "id": "2-7G",
           "description": "Soutenir prioritairement les initiatives nationales",
           "impact": {
@@ -718,6 +773,7 @@
         },
         {
           "type": "conseil",
+          "origine": "Suède",
           "id": "2-7H",
           "description": "Reporter l’application de la directive de deux ans",
           "impact": {
@@ -745,6 +801,7 @@
     "amendements": [
       {
         "type": "parlement",
+        "origine": "Parti Populaire Européen",
         "id": "2-8A",
         "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
         "impact": {
@@ -756,6 +813,7 @@
       },
       {
         "type": "parlement",
+        "origine": "Renouveau Européen",
         "id": "2-8B",
         "description": "Instaurer un fonds européen pour l’innovation en cybersécurité",
         "impact": {
@@ -767,6 +825,7 @@
       },
       {
         "type": "parlement",
+        "origine": "Gauche Unitaire",
         "id": "2-8C",
         "description": "Conditionner les aides à la formation des professionnels du secteur",
         "impact": {
@@ -778,6 +837,7 @@
       },
       {
         "type": "parlement",
+        "origine": "Socialistes & Démocrates",
         "id": "2-8D",
         "description": "Créer un mécanisme de réponse rapide aux cyberattaques",
         "impact": {
@@ -789,6 +849,7 @@
       },
       {
         "type": "conseil",
+        "origine": "Italie",
         "id": "2-8E",
         "description": "Limiter le champ d’action du corps européen de cybersécurité",
         "impact": {
@@ -800,6 +861,7 @@
       },
       {
         "type": "conseil",
+        "origine": "Allemagne",
         "id": "2-8F",
         "description": "Exclure certains secteurs des normes communes",
         "impact": {
@@ -811,6 +873,7 @@
       },
       {
         "type": "conseil",
+        "origine": "Pologne",
         "id": "2-8G",
         "description": "Soutenir prioritairement les initiatives nationales de cybersécurité",
         "impact": {
@@ -822,6 +885,7 @@
       },
       {
         "type": "conseil",
+        "origine": "Hongrie",
         "id": "2-8H",
         "description": "Reporter l’application de la directive de deux ans",
         "impact": {

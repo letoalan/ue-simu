@@ -1,0 +1,205 @@
+{
+  "directive": {
+    "id": "2-6",
+    "title": "Union sociale européenne",
+    "description": "Instaurer un salaire minimum européen et un filet de sécurité sociale harmonisé pour réduire les inégalités entre États membres.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Réduire les inégalités sociales au sein de l’UE.",
+        "Renforcer la cohésion et la solidarité européenne.",
+        "Éviter les distorsions économiques tout en respectant la subsidiarité."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Fixer le salaire minimum européen à 60% du salaire médian national.",
+        "enjeux": [
+          "Assurer justice sociale et convergence.",
+          "Renforcer son leadership social en Europe."
+        ],
+        "strategie": "Allier sa proposition à celle des sociaux-démocrates et des syndicats."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutien à un salaire minimum européen mais insistance sur la flexibilité nationale.",
+        "enjeux": [
+          "Éviter les rigidités économiques.",
+          "Préserver sa compétitivité industrielle."
+        ],
+        "role_description": "Médiateur prudent, plaide pour un mécanisme souple."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Inclure un fonds social européen pour les régions défavorisées.",
+        "enjeux": [
+          "Réduire les inégalités territoriales.",
+          "Obtenir davantage de soutien financier."
+        ],
+        "strategie": "Plaider pour une solidarité renforcée dans le sud de l’Europe."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Autoriser des dérogations nationales en fonction du niveau de développement.",
+        "enjeux": [
+          "Préserver sa souveraineté économique.",
+          "Éviter des coûts salariaux jugés trop élevés."
+        ],
+        "strategie": "Former un bloc avec les pays d’Europe centrale et orientale."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Instaurer une période transitoire de 5 ans avant l’application.",
+        "enjeux": [
+          "Protéger ses industries nationales.",
+          "Limiter le choc économique immédiat."
+        ],
+        "strategie": "S’allier avec la Hongrie pour obtenir des délais et flexibilités."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Opposée à un salaire minimum européen contraignant.",
+        "enjeux": [
+          "Préserver son modèle basé sur la négociation collective.",
+          "Éviter une ingérence européenne perçue comme excessive."
+        ],
+        "role_description": "Défense ferme de son modèle social national."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Non-porteur",
+        "position": "Soutient une convergence sociale mais avec flexibilité et subsidiarité.",
+        "enjeux": [
+          "Éviter des contraintes excessives pour les économies nationales."
+        ],
+        "strategie": "Favoriser un cadre indicatif plutôt qu’obligatoire."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Inclure un mécanisme automatique d’ajustement au coût de la vie.",
+        "enjeux": [
+          "Réduire les inégalités sociales.",
+          "Assurer un niveau de vie digne pour tous les travailleurs."
+        ],
+        "strategie": "Mobiliser un large soutien progressiste."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Associer la mise en place du salaire minimum à des réformes structurelles.",
+        "enjeux": [
+          "Allier justice sociale et modernisation économique."
+        ],
+        "strategie": "Se positionner comme acteur de compromis entre flexibilité et équité."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Ajouter un volet sur les droits sociaux et environnementaux liés au travail.",
+        "enjeux": [
+          "Associer protection sociale et transition écologique."
+        ],
+        "strategie": "Mettre la pression pour un cadre ambitieux et durable."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Réduire le champ d’application aux seuls États volontaires.",
+        "enjeux": [
+          "Limiter les contraintes européennes.",
+          "Préserver la souveraineté nationale."
+        ],
+        "strategie": "Soutenir une logique d’opt-out."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Fixer le salaire minimum à 70% du salaire médian national.",
+        "enjeux": [
+          "Renforcer fortement la justice sociale.",
+          "Protéger les travailleurs les plus précaires."
+        ],
+        "strategie": "Faire pression pour un cadre contraignant et ambitieux."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Attirer et conserver une main-d’œuvre qualifiée.",
+          "Éviter des contraintes trop lourdes qui freinent l’innovation."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "Allemagne"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Limiter l’augmentation des coûts salariaux dans leurs industries.",
+          "Protéger leur compétitivité dans la transition énergétique."
+        ],
+        "alliances": [
+          "Pologne",
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Encadrer le financement du filet de sécurité sociale européen.",
+          "Promouvoir une stabilité économique et budgétaire."
+        ],
+        "alliances": [
+          "France",
+          "S&D"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Maintenir une main-d’œuvre saisonnière abordable.",
+          "Éviter une hausse excessive des coûts de production."
+        ],
+        "alliances": [
+          "Italie",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Soutenir les politiques sociales intégrant santé et sécurité au travail.",
+          "Profiter des financements européens liés au bien-être des travailleurs."
+        ],
+        "alliances": [
+          "Verts/ALE",
+          "Socialistes et Démocrates"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Éviter des hausses de coûts qui réduiraient la compétitivité.",
+          "Obtenir des compensations pour accompagner les hausses salariales."
+        ],
+        "alliances": [
+          "Allemagne",
+          "PPE"
+        ]
+      }
+    ]
+  }
+}

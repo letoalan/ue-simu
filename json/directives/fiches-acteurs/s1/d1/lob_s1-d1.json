@@ -1,0 +1,756 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, en particulier sur les questions liées aux infrastructures numériques, à l'intelligence artificielle (IA), et à la transition énergétique. Il défend une réglementation flexible qui favorise l'innovation technologique tout en évitant des restrictions excessives sur les données ou la concurrence.",
+    "enjeux_directive": [
+      "Développement de l'hydrogène vert via l'intelligence artificielle et l'optimisation des réseaux énergétiques (smart grids).",
+      "Intégration des infrastructures numériques dans les politiques climatiques européennes.",
+      "Protection des investissements technologiques contre les réglementations trop restrictives sur la concurrence ou le marché numérique.",
+      "Rôle central de Big Tech dans l'accélération de la transition énergétique par l'innovation et la digitalisation des systèmes de production.",
+      "Impact du moratoire sur les centrales à charbon sur les secteurs technologiques dépendant d'une énergie abordable."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech, notamment en matière de régulation des données et des algorithmes de gestion énergétique.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés par la mise en place de smart grids, qui dépendent d'infrastructures numériques avancées."
+    ],
+    "stratégie": "Big Tech adopte une stratégie proactive pour influencer les politiques européennes, en se positionnant comme un acteur clé de l'innovation technologique et de la transition énergétique. Il cherche à promouvoir des solutions basées sur l'intelligence artificielle pour optimiser la gestion des réseaux énergétiques (smart grids), tout en défendant une approche moins rigide dans les réglementations liées aux données et à la concurrence numérique. L'acteur collabore étroitement avec les pays leaders en matière d'innovation technologique (comme la France et l'Italie) et les partis favorables à la modernisation industrielle, comme le PPE et Renouveau Européen, qui valorisent les investissements dans les technologies de pointe. En parallèle, Big Tech s'efforce d'atténuer les résistances des acteurs traditionnels (comme les lobby énergies fossiles ou certains partis conservateurs) en soulignant l'importance de la transition numérique pour la compétitivité européenne.",
+    "alliances": [
+      "France (partage objectif de modernisation industrielle et investissements dans les smart grids)",
+      "Italie (collaboration sur les projets d'hydrogène vert via l'IA et la digitalisation des réseaux énergétiques)",
+      "PPE (soutien aux investissements technologiques et à la modernisation industrielle européenne)",
+      "Renouveau Européen (promotion de l'innovation numérique dans les politiques climatiques)",
+      "Verts/ALE (accord sur l'utilisation de l'intelligence artificielle pour accélérer la transition énergétique)",
+      "Automobile (protection des secteurs industriels stratégiques dépendant d'une infrastructure numérique fiable)",
+      "Banque (soutien aux investissements structuraux dans les technologies numériques et le financement de l'énergie verte)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur les centrales à charbon, qui affecte les secteurs énergétiques traditionnels)",
+      "Conservateurs (préférence pour une transition énergétique progressive, plutôt que radicale et technologique)",
+      "Énergies fossiles (lobbies des centrales à charbon opposés aux réglementations favorisant l'hydrogène vert et les smart grids)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'intelligence artificielle est un levier crucial pour optimiser la gestion énergétique, ce qui nécessite des investissements massifs dans les infrastructures numériques.",
+      "Big Tech propose des solutions innovantes pour réduire les coûts de production et améliorer l'efficacité énergétique grâce à l'IA appliquée aux smart grids.",
+      "Le développement de l'hydrogène vert dépend directement de la digitalisation des réseaux énergétiques, ce qui implique un soutien fort du secteur technologique.",
+      "La réglementation excessive sur les données et les algorithmes pourrait freiner l'innovation nécessaire à la transition énergétique.",
+      "Big Tech est un acteur clé dans la mise en place de solutions numériques pour réduire l'empreinte carbone des secteurs industriels traditionnels, comme le transport ou la production.",
+      "La concurrence numérique entre les acteurs technologiques doit être préservée pour maintenir la compétitivité européenne face aux puissances mondiales (notamment les États-Unis et la Chine).",
+      "Les investissements dans les smart grids doivent être alignés sur les objectifs de croissance économique, ce qui justifie des politiques moins restrictives en matière de régulation numérique.",
+      "L'industrie technologique doit jouer un rôle central dans la transition énergétique via l'innovation, plutôt que d'être subordonnée aux réglementations sectorielles traditionnelles."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "L'augmentation des investissements dans les smart grids et les technologies numériques dépend directement de la croissance du PIB. Big Tech soutient cette mesure car elle permet d'accélérer l'innovation technologique nécessaire à la transition énergétique, tout en stimulant l'économie européenne.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette mesure à condition que les investissements dans les smart grids et l'IA soient également orientés vers les zones rurales ou périurbaines, qui souffrent souvent d'un manque d'accès aux technologies numériques avancées. Cela renforcerait la cohésion territoriale tout en favorisant l'équité technologique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "NEUTRE",
+        "justification": "Big Tech ne s'oppose pas explicitement à ce moratoire, mais souligne qu'il doit être accompagné d'investissements significatifs dans les technologies numériques et l'hydrogène vert. Sans ces mesures, le secteur technologique pourrait subir des retards ou des coûts supplémentaires liés à la transition énergétique.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L'innovation dans l'hydrogène vert est essentielle pour la transition énergétique, et Big Tech propose des solutions numériques pour optimiser la production et la distribution de cet énergie. Cet amendement doit être soutenu par des investissements importants dans les infrastructures numériques.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech considère que cette réduction limiterait les investissements dans les smart grids et l'IA, essentiels pour la transition énergétique. Cependant, il reste ouvert à des compromis si ces fonds sont orientés vers des secteurs technologiques stratégiques.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de l'industrie lourde des subventions pourrait nuire à la transition numérique, car cette industrie dépend fortement d'une infrastructure énergétique abordable. Big Tech appelle à un soutien ciblé pour les secteurs qui utilisent massivement les smart grids et l'IA.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette mesure à condition que les investissements technologiques soient orientés vers des projets qui créent des emplois locaux dans les régions défavorisées. Cela renforcerait l'impact positif de la transition énergétique sur les secteurs économiques traditionnels.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "NEUTRE",
+        "justification": "Big Tech n'a pas de position claire sur la relance du nucléaire, mais souligne qu'il faut équilibrer cette option avec les investissements dans les smart grids et l'hydrogène vert. L'énergie nucléaire pourrait jouer un rôle complémentaire si elle est combinée à des solutions numériques innovantes.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Big Tech et les acteurs traditionnels (ex. lobby énergies fossiles, pays comme la Hongrie) sur l'impact des smart grids sur la transition énergétique. Évaluer régulièrement le risque de déséquilibre entre les investissements technologiques et les objectifs climatiques, notamment dans les régions où l'accès aux infrastructures numériques est limité (ex. Sud de l'Europe). Recommander un suivi des dynamiques sectorielles entre Big Tech et l'industrie automobile pour éviter une fragmentation des politiques européennes sur la transition énergétique.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-21T17:20:00.421086",
+    "version": "4.6"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Energies Fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Retarder les moratoires sur charbon.",
+      "Obtenir des exemptions ou transitions progressives pour les industries lourdes.",
+      "Protéger les emplois dans les régions industrielles historiques (ex: Silesie, Bassin de Loire).",
+      "Influencer les gouvernements prudents sur le financement du nucléaire civil.",
+      "Résister aux subventions pour l'hydrogène vert en faveur des énergies fossiles."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies Fossiles.",
+      "Les intérêts économiques et stratégiques de Energies Fossiles sont directement concernés."
+    ],
+    "stratégie": "Le lobby Énergies Fossiles adopte une stratégie à double volet : d'une part, il s'engage dans des alliances sectorielles pour défendre les intérêts économiques immédiats (ex: soutien aux centrales charbon en Pologne), et d'autre part, il promeut un modèle de transition énergétique progressif pour éviter la perte d'emplois. Son approche privilégie l'argument économique (protection des secteurs stratégiques) et les alliances transnationales avec des acteurs comme les Banques ou le lobby Automobile. En parallèle, il met en avant un discours technologique pour défendre une place continue à la production d'énergie fossile (ex: gaz naturel), tout en réclamant un financement équitable de l'innovation verte via des amendements ciblés comme le 1-1D. Cette stratégie vise à maintenir une influence politique durable dans les négociations européennes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les coûts de la transition verte pour les pays exportateurs de pétrole et de gaz doivent être compensés par des fonds européens.",
+      "La dépendance énergétique actuelle de l'Europe impose une transition progressive, non radicale, pour éviter une crise économique (ex: Pologne).",
+      "Les emplois directs liés aux énergies fossiles (1 million en Europe) nécessitent des mesures d'accompagnement sociales et économiques.",
+      "Le gaz naturel doit être reconnu comme un carburant de transition, notamment pour les pays comme la Hongrie dépendants des importations russes.",
+      "Les investissements dans les énergies fossiles doivent être maintenus pour garantir la stabilité des prix énergétiques à court terme.",
+      "La production d'hydrogène vert ne doit pas nuire aux secteurs de l'énergie traditionnelle, qui restent essentiels pour la sécurité nationale (ex: Allemagne).",
+      "Les subventions aux énergies renouvelables doivent être équilibrées par des incitations fiscales pour les industries extractives."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions régionales (Pologne, Hongrie) sur l'indépendance énergétique. Évaluer impact des subventions vertes sur les secteurs extractifs en Europe centrale. Surveiller position du lobby automobile face à la transition.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-21T17:35:08.090350",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'augmentation des investissements permettrait de soutenir la transition énergétique tout en maintenant une place pour les énergies fossiles dans le mix énergétique. Cela pourrait éviter un effondrement brutal du secteur et garantir une transition plus fluide, notamment pour les pays comme la Pologne ou la Hongrie dépendants des centrales charbon.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby Énergies Fossiles s'oppose à cette proposition car elle pourrait accélérer la fermeture de centrales charbon dans des zones industrielles historiques (ex: Bassin de Loire), menaçant l'emploi local. Cependant, il propose un financement spécifique pour accompagner ces régions en difficulté.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby s'oppose fermement au moratoire car il considère que cela accélérerait la dépendance énergétique de l'Europe aux importations de gaz naturel. Cependant, il propose une transition progressive, accompagnée d'investissements dans les technologies de capture du CO2.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "NEUTRE",
+        "justification": "Le lobby reste neutre sur cet amendement, mais exige que les investissements en hydrogène vert ne remplacent pas la production d'énergie fossile. Il propose des synergies entre les deux secteurs pour assurer la stabilité énergétique.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "La réduction des investissements mettrait en péril les projets de transition énergétique et risquerait d'entraîner une crise économique. Le lobby exige un seuil plus élevé pour garantir la sécurité du secteur.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby s'oppose à cette exclusion car elle pénaliserait les secteurs industriels stratégiques (ex: automobile en Allemagne). Il propose une révision des critères de subvention pour inclure ces industries.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby soutient cette proposition à condition que les emplois locaux liés aux énergies fossiles soient pris en compte dans les plans de transition. Il exige un financement spécifique pour les régions touchées par la fermeture des centrales.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE",
+        "justification": "Le lobby Énergies Fossiles soutient la relance du nucléaire comme alternative bas-carbone, mais exige que cela ne remplace pas les investissements dans les énergies fossiles. Il propose un modèle mixte entre nucléaire et gaz naturel pour assurer la stabilité énergétique.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne, notamment en matière de régulation financière, d'investissements durables, et de stabilité économique. Son objectif est de promouvoir un cadre réglementaire qui favorise la croissance du secteur financier tout en s'alignant sur les objectifs climatiques européens.",
+    "enjeux_directive": [
+      "Assurer la sécurité des investissements verts et l'intégration de critères environnementaux dans les politiques sectorielles.",
+      "Promouvoir des produits financiers durables (ex : green bonds, fonds d'investissement à impact) pour orienter le financement vers des projets climatiquement responsables.",
+      "Protéger la stabilité du secteur financier face aux transitions économiques et réglementaires liées au changement climatique.",
+      "Influencer les normes de reporting et d'audit des entreprises pour intégrer des critères ESG (Environnementaux, Sociaux, Gouvernance) dans la gestion des risques.",
+      "Accroître l'innovation dans les produits financiers liés aux énergies propres et à la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance, notamment en matière de régulation des investissements, de conformité avec les normes climatiques européennes, et de gestion des risques liés aux transitions énergétiques.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés par la définition des cadres réglementaires encadrant les investissements durables, le financement des projets climatiques, et l'harmonisation des normes sectorielles."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "La stratégie de Banque et Finance repose sur une approche proactive d'influence dans les négociations politiques européennes. Elle vise à promouvoir un cadre réglementaire favorable au secteur financier tout en s'alignant sur les objectifs climatiques de l'UE. Cette approche implique des actions multiples : participation active aux consultations sectorielles, collaboration avec d'autres acteurs clés (partis politiques, autres lobbies), et défense des intérêts du secteur face à des mesures potentiellement restrictives. En particulier, Banque et Finance cherche à intégrer ses priorités dans les amendements liés aux investissements durables, tout en s'assurant que les normes réglementaires ne pénalisent pas sa capacité d'innovation ou de croissance. Elle adopte également une position défensive face à des mesures qui pourraient entraver son rôle dans la transition énergétique, comme la suppression de subventions pour certaines industries, tout en s'engageant à soutenir les innovations liées aux secteurs d'avenir (ex : hydrogène vert, énergies renouvelables).",
+    "alliances": [
+      "France (partage des objectifs de transition écologique et d'investissements structuraux dans les énergies propres)",
+      "Italie (collaboration sur la relance industrielle et l'innovation sectorielle, notamment en matière d'énergies renouvelables)",
+      "Verts/ALE (soutien à la transition écologique et aux objectifs climatiques européens)",
+      "S&D (priorité donnée aux investissements dans les régions défavorisées et aux politiques sociales inclusives)",
+      "Big Tech (synergie sur l'innovation numérique et les infrastructures énergétiques propres)",
+      "Automobile (protection des secteurs industriels stratégiques face à la transition énergétique)",
+      "Banque (soutien aux investissements structuraux dans le domaine de l'énergie et de l'innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur les centrales à charbon, défense des industries fossiles et du modèle économique basé sur ces ressources)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt qu'une approche radicale ou abrupte)",
+      "Énergies fossiles (lobbies représentant les intérêts des centrales à charbon, opposés aux moratoires et aux mesures restrictives)"
+    ],
+    "éléments_d_argumentaire": [
+      "Promouvoir la création de produits financiers durables, tels que les green bonds, pour orienter le financement vers des projets climatiquement responsables.",
+      "Soutenir un cadre réglementaire qui permette aux banques d'intégrer des critères ESG (Environnementaux, Sociaux, Gouvernance) dans leurs processus de prise de décision et de gestion des risques.",
+      "Assurer une transition énergétique qui respecte la stabilité du secteur financier, en évitant les mesures brusques ou non concertées qui pourraient perturber le marché.",
+      "Encourager l'innovation dans les produits financiers liés aux énergies propres et à la transition écologique, tout en maintenant une flexibilité réglementaire pour favoriser la concurrence et l'innovation sectorielle.",
+      "Défendre un cadre réglementaire qui permette au secteur financier de s'adapter aux transitions économiques sans compromettre sa capacité d'investissement ou son rôle dans le financement des projets clés.",
+      "Promouvoir une collaboration étroite entre les acteurs du secteur financier et les instances politiques européennes pour aligner les objectifs climatiques sur les réalités économiques et sectorielles.",
+      "Insister sur la nécessité d'une harmonisation des normes réglementaires au niveau européen, afin de faciliter l'innovation et d'éviter une fragmentation du marché financier."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur bancaire et les mesures restrictives liées aux énergies fossiles (ex : centrales à charbon). Évaluer l'impact de la transition énergétique sur les régions économiquement vulnérables. Surveiller les alliances stratégiques avec les partis progressistes pour influencer les politiques sectorielles.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-21T17:53:29.105138",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "Banque et Finance soutient ce amendement car il aligne avec ses objectifs d'augmentation des investissements structuraux dans les énergies propres. Une part plus élevée du PIB dédiée à l'investissement favoriserait la transition écologique tout en offrant des opportunités de croissance pour le secteur financier.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Bien que Banque et Finance soutienne le financement des régions défavorisées, elle préconise une approche équilibrée pour éviter de pénaliser les secteurs économiques plus dynamiques. Un financement ciblé devrait être accompagné de mesures incitatives pour encourager la croissance dans ces zones.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Banque et Finance s'oppose partiellement à ce moratoire, en particulier dans les pays où les centrales à charbon jouent un rôle économique majeur. Cependant, elle reconnaît la nécessité d'une transition progressive vers des énergies propres, tout en soulignant l'importance de garantir une stabilité économique pour ces régions.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "Banque et Finance soutient pleinement cette initiative car elle aligne avec ses objectifs d'investissement dans les technologies de pointe. L'hydrogène vert représente une opportunité majeure pour le secteur financier, notamment en matière de financement innovant et de création de nouveaux produits sectoriels.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Banque et Finance s'oppose à cette réduction car elle pourrait limiter les investissements structuraux nécessaires pour la transition écologique. Une diminution de la part du PIB dédiée à l'investissement risquerait d'affecter négativement les perspectives de croissance économique et les objectifs climatiques.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE",
+        "justification": "Banque et Finance s'oppose à cette mesure car elle pourrait pénaliser certains secteurs économiques clés. Une exclusion totale des subventions pour l'industrie lourde pourrait entraver la transition énergétique, tout en menaçant les emplois dans ces secteurs.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Banque et Finance soutient cette priorité à condition qu'elle ne pénalise pas les secteurs plus dynamiques. Une approche équilibrée devrait permettre de stimuler la croissance locale sans compromettre l'innovation ou la compétitivité du secteur financier.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "NEUTRE",
+        "justification": "Banque et Finance reste neutre sur cette proposition car elle dépend de l'opinion des pays membres. Cependant, elle souligne l'importance d'une approche équilibrée qui intègre les réalités économiques et réglementaires de chaque pays concerné.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne, en particulier sur les subventions agricoles, les réglementations environnementales et l'innovation technologique. Agrochimie vise à concilier durabilité économique avec protection des marges bénéficiaires du secteur.",
+    "enjeux_directive": [
+      "Maintenir les subventions pour l'industrie chimique, y compris l'utilisation de pesticides et d'engrais synthétiques",
+      "Modérer les restrictions environnementales sur les pratiques agricoles intensives",
+      "Soutenir la recherche et le développement (R&D) dans les technologies agrochimiques innovantes (agro-énergies, biostimulants)",
+      "Assurer l'accès à des terres agricoles non soumises à des contraintes climatiques strictes",
+      "Protéger la main-d'œuvre spécialisée du secteur agrochimique face aux pressions de la transition verte"
+    ],
+    "impacts_directive": [
+      "La directive pourrait réduire les subventions pour les produits chimiques agricoles, impactant directement la rentabilité des entreprises du secteur",
+      "Les réglementations environnementales renforcées pourraient augmenter les coûts opérationnels des producteurs d'agrochimie",
+      "L'innovation technologique pourrait être stimulée par des mesures incitatives, mais uniquement si ces dernières sont alignées sur les intérêts sectoriels"
+    ],
+    "stratégie": "Agrochimie adopte une stratégie de lobbying axée sur la négociation directe avec les États-membres et les parties politiques pro-économique, en s'appuyant sur des alliances stratégiques. Elle privilégie un discours technocratique mettant en avant l'importance des agrochimiques pour la sécurité alimentaire européenne, tout en évitant de trop se positionner comme adversaire des normes environnementales. Son objectif est d'intégrer les intérêts du secteur dans les amendements via des compromis techniques (ex. : subventions conditionnelles à l'innovation durable). La stratégie vise également à fragmenter la coalition climatique en exploitant les divergences entre pays producteurs agricoles et régions industrielles.",
+    "alliances": [
+      "France (soutien aux subventions pour l'industrie agroalimentaire et chimique)",
+      "Italie (partage des priorités sectorielles en matière de recherche agricole)",
+      "PPE (orientation pro-économique et modérée sur les réformes climatiques)",
+      "S&D (soutien aux investissements dans la formation professionnelle du secteur agrochimique)",
+      "Big Tech (collaboration pour l'intégration de l'agriculture numérique et des biostimulants connectés)",
+      "Automobile (soutien commun à la production d'hydrocarbures agricoles pour les carburants alternatifs)",
+      "Banque (financement des projets industriels du secteur agrochimique)"
+    ],
+    "oppositions": [
+      "Verts/ALE (opposition aux subventions non conditionnées à la durabilité environnementale)",
+      "Hongrie (soutien aux mesures de protection des industries chimiques lourdes)",
+      "Énergies fossiles (réticence face aux réglementations favorisant les énergies renouvelables au détriment des agro-énergies)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les agrochimiques sont essentiels pour assurer la production alimentaire face à la croissance démographique européenne, notamment dans les régions agricoles de l'Est.",
+      "La transition énergétique ne peut se faire sans une industrie chimique forte, capable de produire des biocarburants et des matières premières synthétiques.",
+      "Les subventions actuelles pour les agrochimiques doivent être préservées pour éviter la concurrence déloyale avec les pays tiers (ex. : Chine, Inde).",
+      "La réglementation environnementale stricte pourrait pousser les entreprises à délocaliser vers des pays avec des normes plus laxistes.",
+      "L'innovation dans le secteur agrochimique permet de réduire la pression sur les terres agricoles via l'utilisation d'engrais intelligents et de pesticides ciblés.",
+      "Le lobby Agrochimie s'appuie sur des études montrant que 80 % du secteur est composé de PME, dont certaines sont en déclin face aux régulations climatiques.",
+      "La France et l'Italie représentent 25 % des exportations européennes d'agrochimiques, ce qui justifie un soutien fort à leur économie."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement uniquement si les investissements concernent des projets de recherche agricole ou industrielle. Une augmentation du PIB investi pourrait bénéficier à la modernisation technologique du secteur, à condition que les fonds soient alloués prioritairement aux innovations agrochimiques.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose à cette orientation si elle implique une réduction des subventions pour les régions industrielles de l'Est. Cependant, elle pourrait accepter un ciblage partiel si cela permet d'investir dans la modernisation des infrastructures agricoles rurales.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose fermement à ce moratoire, car cela augmenterait le coût énergétique pour ses usines et pourrait pousser certaines PME du secteur à fermer. De plus, une dépendance excessive aux énergies renouvelables pourrait menacer la stabilité des chaînes de production.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car elle voit en l'hydrogène vert une opportunité de diversifier ses activités et d'exploiter des synergies avec les énergies renouvelables. Cela permettrait également de réduire la dépendance aux combustibles fossiles tout en maintenant un secteur économique viable.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie est opposée à cette réduction car elle pourrait fragiliser les investissements dans la R&D nécessaire pour maintenir une industrie chimique compétitive. Une baisse des investissements nuirait à l'innovation et à la concurrence européenne avec d'autres régions du monde.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose à cette exclusion si elle touche aux secteurs de la chimie et des agro-énergies. Cependant, elle pourrait accepter une révision conditionnelle si cela permet d'orienter les subventions vers des projets durables.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cette idée uniquement si elle est appliquée aux régions productrices d'agrochimiques et de biocarburants, comme la France ou l'Italie. Une priorisation locale pourrait renforcer les capacités industrielles et empêcher la délocalisation vers des pays non européens.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "NEUTRE",
+        "justification": "Agrochimie ne prend pas position sur ce point, car elle estime que la transition énergétique doit s'appuyer sur une diversité de sources (nucléaire, renouvelables, agro-énergies). Cependant, elle reste prudemment favorable à une approche nucléaire modérée si cela ne remet pas en cause l'autonomie énergétique des régions agricoles.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur agrochimique et normes environnementales (ex. : conflits avec la France sur les subventions non durables). Évaluer impact des amendements sur l'industrie chimique de Pologne et d'Italie, régions clés pour Agrochimie. Recommander une surveillance renforcée des positions du lobby Énergies fossiles face aux mesures climatiques.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-21T18:47:15.486186",
+    "version": "4.6"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, notamment sur les aspects réglementaires liés aux innovations sanitaires, aux financements de la recherche et développement (R&D), ainsi qu'aux normes environnementales applicables au secteur.",
+    "enjeux_directive": [
+      "Assurer l'intégration des enjeux santé-environnement dans les politiques sectorielles.",
+      "Obtenir un soutien renforcé pour la R&D verte et les innovations durables.",
+      "Protéger les brevets et les droits d'exploitation de médicaments innovants face aux pressions réglementaires.",
+      "Mettre en place des incitations fiscales pour financer la production de médicaments biosourcés ou éco-conçus.",
+      "Influencer les normes européennes sur la traçabilité des matières premières pharmaceutiques."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur pharmaceutique, notamment en matière de réglementation environnementale et de financement de la R&D.",
+      "Les intérêts économiques et stratégiques du secteur pharmaceutique sont directement concernés par les mesures liées à l'innovation durable.",
+      "La directive pourrait modifier le cadre réglementaire des médicaments biosourcés, impactant les coûts de production et la compétitivité internationale."
+    ],
+    "stratégie": "Le secteur pharmaceutique adopte une stratégie de collaboration stratégique avec des acteurs clés pour défendre ses intérêts dans le cadre de la directive. Cela implique de renforcer les alliances avec des pays leaders en recherche (comme la France et l'Italie), des partis européens favorables à l'innovation (PPE, S&D) ainsi que des lobbies technologiques (Big Tech). Parallèlement, il cherche à s'opposer aux amendements qui pourraient limiter les investissements dans le secteur ou imposer des réglementations environnementales trop contraignantes. La stratégie repose également sur une argumentation axée sur l'importance de la R&D pharmaceutique pour la santé publique, l'innovation technologique et la compétitivité européenne.",
+    "alliances": [
+      "France (partage les priorités en matière d'innovation technologique et de recherche),",
+      "Italie (collaboration sur le développement des médicaments biosourcés),",
+      "PPE (soutien aux réglementations favorisant l'industrie pharmaceutique),",
+      "S&D (priorité donnée aux investissements dans la R&D),",
+      "Big Tech (synergies en matière d'innovation numérique appliquée à la santé),",
+      "Agrochimie (partage des objectifs de durabilité et d'éco-conception)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux mesures environnementales strictes qui pourraient affecter l'industrie pharmaceutique locale),",
+      "Conservateurs (préférence pour une transition énergétique progressive, réticence face à des réglementations trop contraignantes),",
+      "Énergies fossiles (lobbies opposés aux normes environnementales qui impactent les coûts de production)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'industrie pharmaceutique est un moteur d'innovation technologique essentiel à la santé publique européenne.",
+      "Les investissements dans la R&D pharmaceutique sont cruciaux pour maintenir la compétitivité de l'Europe sur le marché mondial.",
+      "La réglementation environnementale doit être équilibrée pour ne pas pénaliser les entreprises innovantes du secteur.",
+      "Le soutien à la production de médicaments biosourcés ou éco-conçus est une opportunité majeure pour le secteur pharmaceutique.",
+      "Les brevets et les droits d'exploitation des médicaments doivent être protégés face aux pressions réglementaires.",
+      "La traçabilité des matières premières pharmaceutiques est un enjeu de durabilité et de transparence pour la chaîne d'approvisionnement.",
+      "L'intégration de l'éco-conception dans les processus de production pharmaceutique doit être encouragée par des politiques incitatives."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur pharmaceutique et les réglementations environnementales trop contraignantes, qui pourraient affecter la production locale (comme en Allemagne). Évaluer l'impact des politiques de R&D sur la compétitivité européenne face aux concurrents non européens. Surveiller les collaborations avec le secteur agrochimie et Big Tech pour éviter les conflits d'intérêts ou les divergences stratégiques.",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "Un investissement accru dans la R&D permettrait de renforcer l'innovation pharmaceutique et de maintenir la compétitivité européenne. Cela serait bénéfique pour le secteur pharmaceutique, qui dépend fortement des financements publics et privés pour ses recherches.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "NEUTRE",
+        "justification": "Bien que l'investissement dans les régions défavorisées puisse avoir des bénéfices sociaux, cela pourrait déplacer des ressources vers des secteurs non pharmaceutiques. Cependant, il n'y a pas de position claireement favorable ou opposée.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le moratoire pourrait avoir des impacts négatifs sur la production pharmaceutique si les sources d'énergie alternatives ne sont pas suffisamment développées. Cependant, le secteur pharmaceutique soutient une transition énergétique globale, mais avec des conditions.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'innovation dans l'hydrogène vert pourrait bénéficier à la production pharmaceutique, notamment en termes de durabilité. Cependant, des investissements importants sont nécessaires pour que cela soit viable.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Une réduction de l'investissement pourrait entraver les recherches pharmaceutiques et affecter la capacité du secteur à innover. Cela serait particulièrement problématique pour le développement des médicaments biosourcés.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "NEUTRE",
+        "justification": "L'exclusion de l'industrie lourde pourrait affecter certaines filières pharmaceutiques. Cependant, il n'y a pas de position clairement favorable ou opposée.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La priorisation de l'emploi local serait bénéfique pour les régions pharmaceutiques. Cependant, cela dépendrait des politiques spécifiques mises en place.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "NEUTRE",
+        "justification": "Le nucléaire civil pourrait offrir des avantages en termes d'énergie propre, mais il n'y a pas de position clairement favorable ou opposée.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-21T18:09:20.771044",
+    "version": "4.6"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Soutenir les filières dans la transition vers la mobilité durable.",
+      "Obtenir aides pour l'innovation véhicule (ex : hydrogène, électrique).",
+      "Protéger les emplois et compétitivité des entreprises du secteur automobile face à la concurrence internationale.",
+      "Assurer un accès équitable aux financements européens pour les projets de transition industrielle.",
+      "Équilibrer les objectifs climatiques avec les besoins économiques du secteur manufacturier."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés.",
+      "Une transition rapide vers la mobilité durable pourrait accentuer les tensions sectorielles."
+    ],
+    "stratégie": "Le lobby Automobile adopte une approche bilatérale en combinant lobbying actif auprès des institutions européennes (Commission, Parlement) et des gouvernements nationaux. Il privilégie la collaboration avec les pays industrialisés (Allemagne, France, Italie) pour promouvoir un cadre réglementaire favorable à l'innovation technologique et à la préservation de l'emploi. L'acteur soutient des amendements qui favorisent la transition vers l'électrification des transports tout en demandant des garanties sur les financements publics et une protection des actifs industriels. Il s'allie avec des partis européens comme le PPE (pour sa vision pragmatique de la transition énergétique) et les Verts/ALE (pour leur soutien à l'hydrogène vert), tout en négociant des compromis avec des groupes d'intérêts liés aux énergies fossiles. L'objectif principal est de maintenir une position stratégique du secteur automobile dans la nouvelle économie verte.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Soutien à la transition écologique via des investissements dans l'hydrogène vert, alignée avec les objectifs climatiques européens.",
+      "Protection des emplois dans les usines manufacturières face aux pressions de la concurrence mondiale.",
+      "Collaboration stratégique avec Big Tech pour développer les infrastructures numériques nécessaires à l'industrie automobile du futur.",
+      "Priorisation des régions défavorisées dans le cadre des investissements européens, pour éviter une fracture territoriale.",
+      "Défense de la continuité industrielle dans les secteurs traditionnels (moteurs thermiques) jusqu'à l'achèvement de la transition énergétique.",
+      "Exigence d'une répartition équitable des fonds européens entre les pays membres pour préserver la cohésion économique européenne.",
+      "Soutien à la relance du nucléaire civil comme complément aux énergies renouvelables, en particulier dans les pays industriels."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "L'augmentation des investissements publics à 2,5% du PIB permettrait de stimuler fortement l'innovation dans le secteur automobile, notamment pour les technologies d'électrification et d'hydrogène. Cela renforcerait la compétitivité européenne face aux marchés asiatiques tout en favorisant une transition écologique rapide.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'automobile soutient cette mesure à condition que les fonds soient répartis de manière équitable entre toutes les régions européennes, y compris celles en déclin industriel. Cela éviterait une concentration excessive des investissements dans certaines zones, risquant d'exacerber les inégalités territoriales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby automobile s'oppose partiellement au moratoire car certaines régions industrielles dépendent encore fortement des énergies fossiles pour leurs usines. Il propose un cadre temporaire permettant une transition progressive tout en garantissant la continuité de l'industrie manufacturière.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L'hydrogène vert est crucial pour la future mobilité durable et les transports lourds. Une intensification de l'innovation dans ce domaine renforcerait la position stratégique européenne sur le marché mondial des énergies propres.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Une réduction des investissements à 1,5% du PIB serait inadéquate pour soutenir la transition énergétique et la relance industrielle. Cela risquerait d'entamer le développement des technologies vertes et de limiter les opportunités économiques pour l'Europe.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de l'industrie lourde des subventions pourrait accélérer la déstructuration des filières existantes. Le lobby automobile propose un financement ciblé et progressif, tout en exigeant des mesures compensatoires pour les acteurs touchés.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "Le maintien de l'emploi local est essentiel pour préserver la stabilité sociale et économique des régions industrielles. L'automobile appuie cette mesure comme un pilier central pour éviter les déclins structurels dans certaines zones.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby automobile s'engage à soutenir la relance du nucléaire civil en tant que complément aux énergies renouvelables, à condition qu'elle soit déployée de manière équitable et associée à des investissements dans les filières industrielles locales.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs traditionnels (Volkswagen, PSA) et ambitions climatiques. Évaluer impact des mesures sur les régions industrielles en déclin (Sud-Est de la France). Prioriser surveillance des négociations autour du nucléaire civil et des subventions sectorielles.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-21T19:02:28.505499",
+    "version": "4.6"
+  }
+]

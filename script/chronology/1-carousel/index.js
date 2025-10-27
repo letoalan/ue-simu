@@ -1,4 +1,4 @@
-import { AppState, ScenariosData } from '../../state/index.js';
+import { AppState, ScenariosData, clearSimulationCache } from '../../state/index.js';
 import { init as initGroupAllocator } from './group-allocator.js';
 
 // Variable locale au module
@@ -110,6 +110,7 @@ function handleScenarioButtonClick(e, DOMRefs) {
 
     AppState.setScenario(id, name, data);
     AppState.selectDirective(null, ''); // Réinitialiser la directive
+    clearSimulationCache(); // Vider le cache car le scénario a changé
 
     setScenarioSelectionState(id, DOMRefs);
     updateLaunchButtonState(DOMRefs);
@@ -117,6 +118,7 @@ function handleScenarioButtonClick(e, DOMRefs) {
 
 function handleDirectiveSelection(directiveId, description, columnElement, DOMRefs) {
     AppState.selectDirective(directiveId, description);
+    clearSimulationCache(); // Vider le cache car la directive a changé
 
     // Mettre à jour l'UI pour montrer la sélection
     document.querySelectorAll('.scenario-table tbody tr').forEach(row => row.classList.remove('selected')); // Retire la sélection de toutes les lignes
@@ -135,6 +137,7 @@ function handleDrawScenario(DOMRefs) {
 
     AppState.setScenario(randomScenarioId, name, data);
     AppState.selectDirective(null, ''); // Réinitialiser la directive
+    clearSimulationCache();
 
     setScenarioSelectionState(randomScenarioId, DOMRefs);
     updateLaunchButtonState(DOMRefs);

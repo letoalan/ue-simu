@@ -9,6 +9,13 @@ export const DOMRefs = {};
 export const ChartInstances = {};
 
 /**
+ * Cache pour les résultats de simulation pour stabiliser les projections.
+ * La clé est une combinaison unique représentant les entrées d'une simulation.
+ * La valeur est le résultat de la simulation.
+ */
+export const SimulationCache = new Map();
+
+/**
  * Stocke les données des scénarios chargées au démarrage de l'application.
  */
 export const ScenariosData = {
@@ -58,6 +65,14 @@ export const AppState = {
     selectLobby: (id) => { AppState._currentLobbyId = id; },
 };
 
+/**
+ * Vide le cache de simulation. Doit être appelé lors d'un changement de contexte majeur
+ * (ex: sélection d'une nouvelle directive).
+ */
+export function clearSimulationCache() {
+    SimulationCache.clear();
+    console.log("Cache de simulation vidé.");
+}
 // ----------------------------------------------------------------
 // 2. Simulation-wide constants
 // ----------------------------------------------------------------

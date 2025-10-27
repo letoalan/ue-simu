@@ -138,6 +138,42 @@ const partieContent = {
     }
 };
 
+// NOUVEAU : Contenu pour le sous-onglet "Le rôle des jetons de négociation"
+const jetonsContent = {
+    commission: {
+        photo: getImagePath('/medias/images/euro/comnego.jpg'),
+        text: `<h3>Commission européenne</h3>
+Les « jetons d’entretien » permettent à la Commission d’initier ou d’encadrer des discussions confidentielles avec un État ou un parti.<br><br>
+Ils sont utilisés pour transmettre des informations, prospecter des alliances, ou soulever des points de compromis sans pression directe sur les votes.<br><br>
+La Commission ne peut recevoir de jetons que des lobbies, qui cherchent alors à influencer sa stratégie d’information ou ses priorités dans la négociation.<br><br>
+Les jetons sont sa principale ressource pour orienter le débat, construire des passerelles entre les institutions et éviter les blocages.`
+    },
+    etats: {
+        photo: getImagePath('/medias/images/euro/conseilnego.jpg'),
+        text: `<h3>États membres (Conseil)</h3>
+Chaque État dispose d’un nombre limité de jetons (maximum 3 donnés, 5 reçus), qui servent à formaliser des engagements de vote avec autres États, partis ou en réponse à des sollicitations de la Commission.<br><br>
+Un jeton donné engage le recevant à respecter l’accord sur le vote d’un amendement ou d’une directive.<br><br>
+La gestion stratégique de ces jetons est essentielle : ils servent à bâtir des alliances solides, garantir le passage de textes et sécuriser le respect des priorités nationales.<br><br>
+Tout engagement non respecté expose l’État à une sanction (carton rouge).`
+    },
+    partis: {
+        photo: getImagePath('/medias/images/euro/parlnego.jpg'),
+        text: `<h3>Partis politiques (Parlement)</h3>
+Les partis peuvent donner jusqu’à 3 jetons dans la partie, et en recevoir jusqu’à 5, pour garantir le soutien d’autres partis ou États sur une disposition législative.<br><br>
+Un jeton reçu implique une obligation de respecter l’accord pris lors du vote concerné, sous peine de sanction.<br><br>
+L’usage tactique des jetons permet de maximiser leur influence sur le texte final et sur la dynamique exploratoire des votes et compromis parlementaires.<br><br>
+La réputation du parti dépend de sa capacité à honorer ses engagements et à ne pas cumuler les cartons rouges.`
+    },
+    lobbies: {
+        photo: getImagePath('/medias/images/euro/lobbiesnego.jpg'),
+        text: `<h3>Lobbies</h3>
+Les lobbies disposent de 5 jetons à placer auprès d’États ou de partis pour obtenir leur soutien actif sur des amendements ou de la directive.<br><br>
+Ils ne reçoivent jamais de jetons en retour et ne peuvent être formellement engagés : leur efficacité repose uniquement sur la fidélité des acteurs institutionnels à respecter l’accord une fois le jeton placé.<br><br>
+Les jetons servent de levier pour influencer les coalitions, faire pression sur les porteurs d’amendement, et défendre leurs intérêts en dehors du vote direct.<br><br>
+Les lobbies peuvent aussi placer des jetons auprès de la Commission pour obtenir des informations stratégiques ou orienter la médiation institutionnelle de façon indirecte.`
+    }
+};
+
 // Fonctions de mise à jour du contenu (identiques pour comprehension et règles)
 function updateComprehensionContent(selection, DOMRefs) {
     const content = comprehensionContent[selection];
@@ -171,6 +207,18 @@ function updatePartieContent(selection, DOMRefs) {
     });
 }
 
+// NOUVEAU : Fonction de mise à jour pour le sous-onglet "Jetons"
+function updateJetonsContent(selection, DOMRefs) {
+    const content = jetonsContent[selection];
+    if (!content) return;
+    updateContentDisplay({
+        photoContainer: DOMRefs.jetonsPhoto,
+        textContainer: DOMRefs.jetonsText,
+        photoUrl: content.photo,
+        text: content.text
+    });
+}
+
 // Initialisation
 export function initObjectivesTab(DOMRefs) {
     const subNavButtons = DOMRefs.objectivesSubNav?.querySelectorAll('.sub-nav-btn');
@@ -181,6 +229,7 @@ export function initObjectivesTab(DOMRefs) {
     // Menus
     const comprehensionMenu = DOMRefs.comprehensionMenu;
     const reglesMenu = DOMRefs.reglesMenu;
+    const jetonsMenu = DOMRefs.jetonsMenu;
     const partieMenu = DOMRefs.partieMenu;
 
     // Gérer la navigation entre les sous-onglets
@@ -215,6 +264,13 @@ export function initObjectivesTab(DOMRefs) {
             updateRulesContent(e.target.value, DOMRefs);
         });
         updateRulesContent('general', DOMRefs);
+    }
+
+    if (jetonsMenu) {
+        jetonsMenu.addEventListener('change', e => {
+            updateJetonsContent(e.target.value, DOMRefs);
+        });
+        updateJetonsContent('commission', DOMRefs);
     }
 
     if (partieMenu) {

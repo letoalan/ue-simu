@@ -1,0 +1,193 @@
+{
+  "directive": {
+    "id": "1-8",
+    "title": "Fédéralisme fiscal européen",
+    "description": "Harmoniser l’impôt sur les sociétés à 18% et la TVA à 20%, lutter contre l’évasion fiscale, la concurrence déloyale et renforcer la solidarité budgétaire au sein de l’Union. Objectif : augmenter les recettes fiscales de 150 Md€/an, améliorer la justice fiscale et renforcer l’intégration économique européenne.",
+    "commission": {
+      "role": "Proposer un cadre fiscal harmonisé pour renforcer la solidarité, l’équité fiscale et la compétitivité de l’Union.",
+      "enjeux": [
+        "Lutter efficacement contre l’évasion et la fraude fiscale.",
+        "Assurer une concurrence loyale entre États membres.",
+        "Renforcer la solidarité budgétaire et le financement commun des politiques européennes.",
+        "Garantir la subsidiarité et la proportionnalité des mesures."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés.",
+        "enjeux": [
+          "Protéger les petites entreprises locales de contraintes excessives.",
+          "Favoriser la compétitivité des PME et leur dynamisme économique.",
+          "Concilier harmonisation fiscale et spécificités des structures nationales."
+        ],
+        "strategie": "Chercher un compromis équilibré entre harmonisation et protection locale."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Autoriser des dérogations temporaires pour les États à faible revenu.",
+        "enjeux": [
+          "Permettre une transition adaptée à la capacité économique nationale.",
+          "Garantir la soutenabilité budgétaire des pays les moins avancés.",
+          "Concilier intégration fiscale et réalités économiques."
+        ],
+        "strategie": "Promouvoir des mécanismes adaptés et progressifs."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Reporter l’application de l’harmonisation fiscale de deux ans.",
+        "enjeux": [
+          "Prévoir un délai pour l’adaptation des systèmes fiscaux nationaux.",
+          "Assurer une transition ordonnée et mûrie.",
+          "Réduire le choc pour les acteurs économiques."
+        ],
+        "strategie": "Soutenir une entrée progressive dans le dispositif."
+      },
+      {
+        "name": "Suède",
+        "role": "Porteur",
+        "amendment": "Permettre une flexibilité nationale sur le taux de TVA (±2%).",
+        "enjeux": [
+          "Maintenir une marge de manœuvre fiscale pour les États.",
+          "Concilier harmonisation et autonomie budgétaire.",
+          "Assurer stabilité et continuité des recettes nationales."
+        ],
+        "strategie": "Promouvoir un cadre fiscal harmonisé avec des marges de manœuvre souples."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutient une forte harmonisation mais vigilant sur la charge économique.",
+        "enjeux": [
+          "Assurer une concurrence fiscale équitable.",
+          "Maintenir la compétitivité des entreprises allemandes."
+        ]
+      },
+      {
+        "name": "Pologne",
+        "role": "Non-porteur",
+        "position": "Veut limiter les contraintes pour favoriser la croissance économique locale.",
+        "enjeux": [
+          "Protéger les spécificités économiques nationales.",
+          "Eviter une montée trop rapide des prélèvements."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Instaurer une taxe sur les transactions financières à l’échelle européenne.",
+        "enjeux": [
+          "Renforcer la fiscalité sociale et écologique.",
+          "Lutter contre la spéculation financière.",
+          "Augmenter les ressources pour la transition écologique."
+        ],
+        "strategie": "Proposer des mesures structurelles fortes de justice fiscale."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Allouer une part des recettes fiscales à la transition écologique.",
+        "enjeux": [
+          "Garantir un financement durable des politiques vertes.",
+          "Associer fiscalité et objectifs environnementaux.",
+          "Renforcer la responsabilité climatique des États."
+        ],
+        "strategie": "Encourager une fiscalité verte intégrée au cadre européen."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Créer un fonds de cohésion pour les régions défavorisées.",
+        "enjeux": [
+          "Renforcer la solidarité territoriale.",
+          "Soutenir les économies en transition.",
+          "Limiter les déséquilibres régionaux dans la fiscalité."
+        ],
+        "strategie": "Proposer des mécanismes de redistribution ciblée."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales.",
+        "enjeux": [
+          "Améliorer la transparence et responsabiliser les grandes entreprises.",
+          "Lutter contre l’évasion fiscale et la fraude.",
+          "Renforcer la confiance des citoyens dans le système fiscal."
+        ],
+        "strategie": "Soutenir des règles strictes et un contrôle renforcé."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Non-porteur",
+        "position": "Favorise une harmonisation modérée tenant compte des réalités économiques.",
+        "enjeux": [
+          "Assurer la compétitivité des entreprises européennes.",
+          "Éviter une surcharge fiscale excessive."
+        ]
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Non-porteur",
+        "position": "Prudence sur l’étendue des mesures et le rythme de la réforme.",
+        "enjeux": [
+          "Concilier ambition et réalisme économique.",
+          "Promouvoir une réforme équilibrée."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "S’opposer à une fiscalité trop lourde sur les acteurs numériques.",
+          "Promouvoir un cadre légèrement flexible et propice à l’innovation."
+        ],
+        "alliances": ["Renouveau Européen", "PPE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": [
+          "Lobby pour retarder ou réduire la pression fiscale liée aux émissions.",
+          "Recherche d’allégements fiscaux pour secteur énergétique classique."
+        ],
+        "alliances": ["Conservateurs et Réformistes", "Italie", "Hongrie"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Promotion d’une fiscalité claire et stable pour investissements durables.",
+          "Soutenir la transparence fiscale pour réduire les risques."
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Plaide pour des règles fiscales adaptées à l’agriculture et industrie chimique.",
+          "Appui aux dérogations ou ajustements pour ne pas pénaliser la filière."
+        ],
+        "alliances": ["Pologne", "Italie", "PPE"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Soutien pour une meilleure transparence fiscale et engagement responsable.",
+          "Favorise un cadre fiscal stable pour la recherche et innovation."
+        ],
+        "alliances": ["Socialistes et Démocrates", "Renouveau Européen"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Veille à ce que la fiscalité ne dégrade pas la compétitivité de l’industrie.",
+          "Recherche des mesures incitatives pour la transition écologique."
+        ],
+        "alliances": ["Pologne", "PPE", "Conservateurs et Réformistes"]
+      }
+    ]
+  }
+}

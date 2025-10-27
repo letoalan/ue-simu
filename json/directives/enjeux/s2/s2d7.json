@@ -1,0 +1,160 @@
+{
+  "directive": {
+    "id": "2-7",
+    "title": "Politique d'influence culturelle et éducative",
+    "description": "Fonds européen pour la promotion de la culture et de l'éducation. Créer un programme massif d'échanges éducatifs, de bourses Erasmus+ élargies et de diffusion de la culture européenne à l'international. Renforcer l'attractivité et l'influence de l'UE dans le monde, promouvoir les valeurs européennes et favoriser la mobilité des étudiants et des artistes.",
+    "commission": {
+      "role": "Renforcer l'influence culturelle et éducative de l'Union européenne à l'international, en soutenant les échanges, la mobilité et la diffusion des valeurs européennes.",
+      "enjeux": [
+        "Promouvoir la diversité culturelle et la compréhension mutuelle.",
+        "Renforcer la coopération entre les peuples.",
+        "Améliorer la position de l'UE sur la scène mondiale.",
+        "Favoriser l'innovation éducative et culturelle européenne."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "position": "Champion historique de l'exception culturelle et de la francophonie, soutient massivement l'expansion culturelle européenne.",
+        "enjeux": [
+          "Étendre l'influence de la culture française via le cadre européen.",
+          "Renforcer le rayonnement des institutions culturelles françaises."
+        ]
+      },
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "position": "Soutient l'initiative tout en préservant ses propres réseaux culturels (Goethe Institut, DAAD).",
+        "enjeux": [
+          "Maintenir sa position dominante dans les échanges éducatifs.",
+          "Promouvoir la langue allemande et sa recherche académique."
+        ]
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "position": "Demande un soutien prioritaire aux initiatives nationales plutôt qu'aux programmes centralisés.",
+        "enjeux": [
+          "Valoriser son patrimoine culturel exceptionnel.",
+          "Préserver l'autonomie de ses institutions culturelles."
+        ]
+      },
+      {
+        "name": "Suède",
+        "role": "Porteur",
+        "position": "Prône le report de l'application de la directive de deux ans pour une mise en œuvre progressive.",
+        "enjeux": [
+          "Adapter le programme aux spécificités nordiques.",
+          "Garantir l'efficacité des investissements éducatifs."
+        ]
+      },
+      {
+        "name": "Pologne",
+        "role": "Opposant Modéré",
+        "position": "Demande de limiter le programme aux étudiants universitaires pour contrôler les coûts.",
+        "enjeux": [
+          "Réduire l'impact budgétaire sur les finances publiques.",
+          "Maintenir le contrôle national sur l'éducation primaire et secondaire."
+        ]
+      },
+      {
+        "name": "Hongrie",
+        "role": "Opposant",
+        "position": "Veut exclure certains domaines artistiques du fonds pour préserver les valeurs nationales.",
+        "enjeux": [
+          "Protéger l'identité culturelle nationale.",
+          "Éviter l'influence de contenus jugés incompatibles avec les valeurs conservatrices."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "position": "Propose d'élargir Erasmus+ à tous les niveaux d'éducation pour maximiser l'impact.",
+        "enjeux": [
+          "Créer une véritable citoyenneté européenne par l'éducation.",
+          "Renforcer l'intégration européenne par la culture."
+        ]
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "position": "Demande la création de centres culturels européens à l'étranger pour diffuser les valeurs démocratiques.",
+        "enjeux": [
+          "Promouvoir les droits sociaux et la démocratie.",
+          "Lutter contre la désinformation par la culture."
+        ]
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "position": "Prône l'instauration d'un fonds européen pour la création artistique indépendante.",
+        "enjeux": [
+          "Soutenir la diversité artistique contre la standardisation commerciale.",
+          "Promouvoir l'art comme outil d'émancipation sociale."
+        ]
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "position": "Soutient mais conditionne les aides à la promotion des valeurs écologiques européennes.",
+        "enjeux": [
+          "Intégrer la transition écologique dans l'éducation.",
+          "Promouvoir une culture durable et responsable."
+        ]
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Soutien Modéré",
+        "position": "Soutient l'initiative mais met l'accent sur les valeurs traditionnelles européennes.",
+        "enjeux": [
+          "Préserver l'héritage culturel chrétien de l'Europe.",
+          "Maintenir l'équilibre entre innovation et tradition."
+        ]
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Opposant",
+        "position": "S'oppose à une centralisation excessive et défend la subsidiarité culturelle.",
+        "enjeux": [
+          "Protéger la souveraineté culturelle des États membres.",
+          "Limiter les dépenses publiques européennes."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": ["Fournir des plateformes numériques pour l'éducation et la diffusion culturelle.",""],
+        "alliances": ["Renouveau Européen", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": ["Influence marginale mais veille à éviter la promotion de contenus trop écologistes.",""],
+        "alliances": ["Conservateurs et Réformistes", "Hongrie"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": ["Financer les infrastructures éducatives et les programmes d'échange.",""],
+        "alliances": ["Renouveau Européen", "PPE"]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": ["Veiller à ce que les programmes éducatifs ne diabolisent pas l'agriculture conventionnelle.",""],
+        "alliances": ["PPE", "Conservateurs et Réformistes"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": ["Soutenir la recherche médicale européenne et promouvoir l'innovation pharmaceutique.",""],
+        "alliances": ["Allemagne", "Renouveau Européen"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": ["Promouvoir la formation technique et l'innovation industrielle européenne.",""],
+        "alliances": ["Allemagne", "PPE", "Socialistes et Démocrates"]
+      }
+    ]
+  }
+}

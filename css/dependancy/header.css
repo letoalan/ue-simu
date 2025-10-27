@@ -82,13 +82,31 @@ header h1 {
 
     z-index: 3;
 
-    font-size: 2rem;
+    font-size: 3rem;
 
-    font-weight: 700;
+    font-weight: 1000;
 
     margin: 0;
 
     padding: 80px 10px 20px 10px;
+
+}
+
+header h2 {
+
+    position: relative;
+
+    z-index: 3;
+
+    font-size: 2rem;
+
+    font-weight: 600;
+
+    margin: 0;
+
+    padding: 60px 10px 20px 10px;
+
+    color: #1b5e20;
 
 }
 
@@ -159,6 +177,14 @@ header nav button.active {
     header h1 {
 
         font-size: 1.5rem;
+
+        padding-top: 60px;
+
+    }
+
+    header h2 {
+
+        font-size: 1.3rem;
 
         padding-top: 60px;
 

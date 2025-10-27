@@ -162,7 +162,13 @@ function renderStepContent(stepId) {
         <div class="vote-table-container ${validatedClass}">
             <h3>Votes des Groupes Parlementaires</h3>
             <div class="vote-table-wrapper">
-                ${createVoteTableHTML('parliament', Object.entries(partis).map(([key, value]) => ({ code: key, nom: value.nom })), 'code', 'nom', stepId)}
+                ${createVoteTableHTML(
+                    'parliament',
+                    // Simplification: On s'assure de ne passer que les champs nécessaires.
+                    // Cela évite de passer des sous-objets complexes (`base`, `impact`) qui peuvent causer des erreurs.
+                    Object.entries(partis).map(([key, value]) => ({ code: key, nom: value.nom })),
+                    'code', 'nom', stepId
+                )}
             </div>
         </div>
     `;

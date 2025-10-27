@@ -1,0 +1,764 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer la protection et la confidentialité des données.",
+      "Limiter l’usage commercial des données par les grandes plateformes.",
+      "Intégrer l’éthique dans les régulations numériques.",
+      "Promouvoir une transition numérique durable alignée sur les objectifs climatiques de l'UE.",
+      "Renforcer la souveraineté européenne sur les technologies critiques."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Verts/ALE adopte une stratégie axée sur la défense des droits numériques, la promotion d’une transition écologique radicale et la préservation de la souveraineté européenne. Le parti priorise les normes élevées en matière de protection des données personnelles, en s'appuyant sur sa base électoralement forte dans les régions nordiques (Suède) et méditerranéennes (Italie). Il cherche à renforcer l’ambition climatique via des politiques sectorielles ciblées (ex : soutien aux start-ups vertes, régulation stricte de la surveillance de masse). Parallèlement, Verts/ALE défend un modèle technologique européen fondé sur les principes de durabilité et d’indépendance stratégique en matière d’énergies critiques (hydrogène vert, énergie nucléaire). Cette approche permet à Verts/ALE de s’opposer aux logiques des lobbies fossiles et aux visions technocratiques de certains partis comme les Conservateurs. Enfin, le parti mobilise ses alliances pour contrer les résistances nationales (ex : Hongrie) tout en maintenant un équilibre entre objectifs climatiques ambitieux et nécessités économiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La protection des données personnelles est un pilier fondamental de la souveraineté numérique européenne et doit être renforcée pour lutter contre les abus des géants du numérique.",
+      "Les amendements visant à taxer les géants du numérique permettent de financer la transition écologique tout en réduisant les inégalités économiques au sein de l'UE.",
+      "Le soutien aux start-ups européennes est essentiel pour renforcer la capacité technologique de l’Europe face à la concurrence mondiale, notamment dans le secteur des énergies propres.",
+      "La surveillance de masse doit être strictement limitée pour protéger les libertés fondamentales et garantir une gouvernance numérique transparente.",
+      "L’harmonisation de la fiscalité numérique est nécessaire pour éviter les dérives fiscales et assurer une concurrence équitable entre les États membres.",
+      "Exclure les services essentiels de la régulation permet de préserver l’accès universel à internet tout en maintenant des normes d’excellence pour les infrastructures critiques.",
+      "Le renforcement de la cybersécurité est crucial pour protéger les infrastructures énergétiques et numériques européennes contre les cyberattaques, en particulier dans le contexte géopolitique actuel.",
+      "La limitation de l’accès aux données personnelles doit être accompagnée d’un cadre juridique clair pour éviter les abus tout en garantissant la confidentialité des citoyens."
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l’industrie automobile (Volkswagen, PSA) et les objectifs climatiques stricts de Verts/ALE. Évaluer le risque d’opposition croissante des régions industrielles (ex : Sud-est de la France) face aux mesures réglementaires sur les énergies fossiles. Surveiller également l’équilibre entre la promotion des start-ups et la protection des secteurs traditionnels dans le cadre des amendements.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T18:34:00.790728",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE est l’initiateur de cet amendement, qui aligne directement avec ses priorités politiques sur la souveraineté numérique et la protection des droits fondamentaux. Ce texte renforce le cadre légal européen en matière de confidentialité, permettant à l'UE d’imposer des normes élevées face aux géants du numérique tout en protégeant les données des citoyens européens contre les abus. Il constitue un pilier stratégique pour la transition vers une économie durable et éthique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permet de récolter des recettes fiscales qui pourront financer la transition écologique et les investissements dans les technologies vertes. Elle renforce également l’équité économique en redistribuant une part des profits des géants du numérique vers les secteurs stratégiques européens, en particulier les start-ups technologiques.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition répond aux besoins de l’Europe pour renforcer sa capacité technologique autonome. Elle permet de stimuler l’émergence d’entreprises innovantes dans des secteurs clés (énergies propres, cybersécurité) tout en limitant la dépendance vis-à-vis des géants du numérique non européens.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/ALE s’engage à soutenir cet amendement, à condition que des exceptions strictes soient prévues pour les cas d’urgence nationale ou de sécurité publique. Cela garantit un équilibre entre la protection des libertés individuelles et l’exercice légitime des pouvoirs publics.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettra d’éliminer les distorsions de concurrence entre États membres et de garantir une égalité fiscale pour les entreprises numériques. Elle renforce également la capacité de l’UE à imposer des normes communes face aux géants du numérique, en particulier américains.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "NEUTRE",
+        "justification": "Verts/ALE reste neutre sur cet amendement, car il nécessite une définition précise des « services essentiels » pour éviter d’exclure accidentellement des secteurs stratégiques (ex : santé, énergie) du cadre réglementaire. Une approche prudente est préférable afin de ne pas compromettre la sécurité des citoyens.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/ALE soutient cet amendement à condition qu’il inclue des mesures spécifiques pour protéger les infrastructures critiques (énergie, transports) et garantir l’indépendance technologique de l’Europe face aux cybermenaces. Cela permettra d’assurer la continuité économique tout en respectant les droits fondamentaux.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE s’oppose partiellement à cet amendement car une limitation trop stricte pourrait entraver les capacités des services publics (ex : santé, transports) à utiliser des données pour améliorer la prise en charge des citoyens. Cependant, il soutient un cadre légal strict pour éviter les abus par les entreprises.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Lutter contre l’évasion fiscale et la concentration du pouvoir économique.",
+      "Renforcer la justice fiscale dans l’écosystème numérique.",
+      "Promouvoir un numérique plus égalitaire.",
+      "Protéger les données personnelles comme droit fondamental de l’individu.",
+      "Assurer une transition écologique soutenue par des politiques numériques inclusives.",
+      "Mettre en place un cadre réglementaire équilibré entre innovation et protection sociale."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne.",
+      "La directive permet d'accélérer la transition écologique tout en renforçant la justice sociale."
+    ],
+    "stratégie": "Imposer une fiscalité stricte des grandes plateformes numériques et redistribuer les revenus vers les services publics et les régions défavorisées. Promouvoir un modèle numérique basé sur l'égalité d'accès, la protection des données personnelles et la durabilité environnementale. Renforcer la coopération européenne pour contrer les dérives monétaires et fiscales internationales, tout en développant des solutions technologiques inclusives et respectueuses de l’environnement. Privilégier les startups européennes dans le cadre des politiques d’innovation, tout en limitant la surveillance de masse par des mesures législatives strictes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big pharma (réticence à la régulation du secteur numérique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La fiscalité sur les géants du numérique permettrait de financer des politiques publiques sociales et écologiques, réduisant ainsi la dépendance aux fonds européens.",
+      "Le renforcement de la protection des données personnelles est un pilier essentiel pour garantir la souveraineté digitale des citoyens européens.",
+      "Le soutien aux startups européennes stimulerait l'innovation et la création d’emplois, en évitant une domination monopolistique des géants technologiques transnationaux.",
+      "La limitation de la surveillance de masse est un impératif éthique pour protéger les libertés fondamentales dans l’espace public et privé.",
+      "L'harmonisation de la fiscalité numérique favoriserait une concurrence juste entre les acteurs économiques européens, réduisant ainsi les distorsions du marché causées par les pratiques fiscales agressives des multinationales.",
+      "Le soutien aux secteurs industriels stratégiques (comme l'automobile ou la banque) permettrait de préserver la compétitivité européenne face à l’offensive technologique asiatique et américaine.",
+      "La protection des services essentiels contre une régulation excessive est cruciale pour garantir la continuité du service public dans les domaines critiques (énergie, santé, transport)."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Le renforcement de la protection des données personnelles est un pilier central de l’agenda politique de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL), qui considère cette mesure comme essentielle pour préserver l’autonomie numérique des citoyens européens. Cela permettrait également d’éviter une concentration excessive du pouvoir technologique entre les mains de quelques géants du numérique, tout en soutenant des modèles alternatifs plus équitables.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) est l’initiateur de cet amendement, qui vise à rétablir une justice fiscale dans un secteur longtemps échappé aux obligations réglementaires. Ce dispositif permettrait non seulement de financer des politiques sociales et écologiques, mais aussi d’éviter la dépendance croissante des États européens envers les acteurs technologiques transnationaux.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "Le soutien aux startups européennes est une priorité stratégique pour Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL), qui considère que ces entreprises représentent un levier majeur de l’innovation et de la création d’emplois durables. Une réglementation plus favorable à ces acteurs permettrait d’éviter une domination monopolistique des géants du numérique, tout en favorisant une économie européenne plus résiliente.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "La limitation de la surveillance de masse est un impératif éthique pour Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL), qui considère que cette mesure protège les libertés fondamentales des citoyens européens. Une réglementation stricte sur ce point permettrait également d’éviter une concentration excessive du pouvoir entre les mains de quelques acteurs technologiques ou étatiques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’harmonisation de la fiscalité numérique est un objectif important, mais doit se faire en concertation avec les pays membres pour éviter une distorsion des concurrences entre secteurs industriels. Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) défend cette mesure à condition qu’elle ne pénalise pas les acteurs économiques européens, notamment les PME.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La proposition d’exclusion des services essentiels de la régulation est contestable, car elle pourrait compromettre l’équilibre entre liberté et sécurité. Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) soutient cependant une réglementation stricte pour ces secteurs, à condition qu’elle garantisse la continuité du service public.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Le renforcement de la cybersécurité est un objectif majeur pour Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL), qui considère que cette mesure protège non seulement les infrastructures critiques, mais aussi les droits des citoyens. Une cyber-sécurité renforcée permettrait de limiter l’influence croissante des acteurs technologiques transnationaux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La limitation de l’accès aux données personnelles doit être encadrée par des dispositions législatives strictes pour éviter une concentration excessive du pouvoir entre les mains des géants technologiques. Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) soutient cette mesure à condition qu’elle ne pénalise pas les acteurs économiques européens, notamment les PME.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions avec lobbies Big Tech et Énergies fossiles, qui opposent leurs intérêts à la réglementation stricte proposée. Évaluer impact des amendements sur les startups européennes (notamment en France et Italie) et leur capacité à concurrencer les géants du numérique. Surveiller les réticences des pays membres comme la Hongrie, qui défendent le modèle énergétique traditionnel.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T19:09:02.647588",
+    "version": "4.6"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renew Europe",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Favoriser la compétitivité et la souveraineté digitale européenne.",
+      "Stimuler l’innovation locale et les jeunes entreprises.",
+      "Réduire la dépendance aux acteurs internationaux dominants.",
+      "Renforcer la protection des données personnelles et la cybersécurité.",
+      "Harmoniser la fiscalité numérique pour réduire les distorsions de concurrence.",
+      "Promouvoir l’émancipation des PME et start-ups européennes face aux géants du numérique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renew Europe, notamment sur la souveraineté technologique européenne.",
+      "Le positionnement de Renew Europe reflète sa vision d'une Union européenne réformée, capable de concurrencer les puissances non européennes dans le domaine numérique."
+    ],
+    "stratégie": "Renew Europe défend une approche équilibrée entre innovation technologique et régulation prudente. Son stratégie vise à renforcer la souveraineté européenne sur l'internet, à soutenir les startups locales face aux géants du numérique, et à moderniser le cadre réglementaire pour favoriser la concurrence loyale. L'acteur s'appuie sur une alliance stratégique avec les secteurs technologiques innovants tout en défendant des principes de protection des données et de cybersécurité rigoureux. Il privilégie un modèle d'économie numérique européenne autonome, capable de concurrencer les États-Unis et la Chine sur le marché mondial.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Agrochimie (souhait de réglementation plus faible sur les données agricoles)"
+    ],
+    "éléments_d_argumentaire": [
+      "Renew Europe prône une digitalisation européenne souveraine, indépendante des géants technologiques non européens. Cela favorise l'innovation locale et la création d'emplois dans le secteur numérique.",
+      "Le soutien aux start-ups est un levier clé pour réduire la dépendance aux acteurs internationaux dominants, tout en renforçant la résilience économique de l'Union européenne.",
+      "La protection des données personnelles et la limitation de la surveillance de masse sont essentielles pour préserver les droits fondamentaux des citoyens européens dans un contexte numérique croissant.",
+      "L’harmonisation de la fiscalité numérique permet d’éviter que les géants du numérique ne profitent de failles fiscales entre les États membres, assurant ainsi une concurrence loyale et équitable.",
+      "Renew Europe défend un cadre réglementaire flexible mais rigoureux, qui encourage l’innovation tout en protégeant les utilisateurs contre les abus potentiels des plateformes technologiques.",
+      "La cybersécurité renforcée est un pilier fondamental de la souveraineté numérique européenne. Elle permet de préserver les infrastructures critiques et de protéger les données sensibles des cybermenaces."
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Big Tech (ex: Google, Meta) et réglementation européenne sur la fiscalité numérique. Évaluer impact de la directive sur les PME technologiques en France et en Italie. Surveiller risque d'embargos sectoriels en Hongrie si moratoires charbon maintenus.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T18:15:30.397420",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Renew Europe défend fermement cette initiative car elle renforce la souveraineté numérique européenne et protège les droits fondamentaux des citoyens face aux abus potentiels des plateformes technologiques. Cette mesure est cruciale pour préserver l'équilibre entre innovation et protection des données.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renew Europe soutient cette proposition à condition qu'elle ne pénalise pas les startups européennes. Une taxation équitable des géants du numérique permettrait de financer l'innovation locale tout en réduisant la dépendance aux acteurs non européens.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure aligne directement avec la stratégie de Renew Europe. Elle permettrait d'accélérer l'émancipation des PME numériques face aux géants technologiques non européens, renforçant ainsi la souveraineté numérique européenne.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "Renew Europe défend cette initiative comme un pilier de la protection des libertés fondamentales. Limiter la surveillance de masse est essentiel pour préserver les droits des citoyens européens dans le cadre numérique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait d’éviter les distorsions de concurrence entre États membres et d’assurer une concurrence loyale. Renew Europe soutient cette initiative comme un levier clé pour renforcer l’économie numérique européenne.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renew Europe s’oppose partiellement à cette proposition car elle pourrait fragiliser la protection des droits fondamentaux. Toutefois, une exception pourrait être envisagée pour les services de sécurité nationale.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est cruciale pour préserver les infrastructures critiques européennes contre les cybermenaces. Renew Europe défend fermement cette initiative comme un pilier de la souveraineté numérique.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renew Europe soutient cette proposition à condition que les restrictions ne nuissent pas aux innovations technologiques. Une réglementation équilibrée est nécessaire pour protéger les citoyens sans entraver l’innovation.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates",
+    "actor_id": "sd",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Garantir le respect des libertés publiques et individuelles.",
+      "Introduire des garde-fous contre les pratiques intrusives.",
+      "Concilier sécurité, éthique et droits fondamentaux.",
+      "Assurer une transition numérique inclusive et durable.",
+      "Protéger les citoyens contre la concentration de pouvoirs économiques.",
+      "Promouvoir un modèle d’innovation socialement responsable."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Promouvoir un cadre réglementaire équilibré respectant la vie privée tout en favorisant l'innovation technologique. La S&D vise à renforcer les droits fondamentaux (libertés, sécurité, protection des données) tout en soutenant une transition numérique inclusive, notamment pour les PME et start-ups européennes. Cette stratégie s'appuie sur une approche progressive mais ambitieuse, combinant régulation stricte dans les domaines de la surveillance de masse et de la fiscalité numérique, avec un soutien actif aux innovations émergentes. L'objectif est d'éviter l'atteinte à la souveraineté numérique des États membres tout en renforçant la coopération transnationale sur les défis communs (cybersécurité, protection des données).",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "PPE (coopération sur réforme de l'Union européenne et stabilité institutionnelle)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big Pharma (résistance régulation forte sur données santé)"
+    ],
+    "éléments_d_argumentaire": [
+      "La protection des données personnelles est un pilier fondamental de la démocratie et de la liberté individuelle. La S&D défend une approche proactive pour limiter les abus par les géants du numérique.",
+      "L'innovation technologique doit être accompagnée d'une régulation éthique, évitant l'émergence de monopoles qui menacent la concurrence et les droits des citoyens.",
+      "Le soutien aux start-ups européennes est crucial pour renforcer l'autonomie stratégique de l'Union européenne face à la domination technologique américaine et chinoise.",
+      "La surveillance de masse, surtout par des entités privées ou non démocratiques, doit être strictement encadrée pour préserver les libertés fondamentales.",
+      "Une fiscalité numérique harmonisée permettrait d'éviter le dumping fiscal et de financer la transition écologique, tout en protégeant les secteurs industriels européens.",
+      "L'exclusion des services essentiels (énergie, santé) de la régulation doit être révisée pour garantir leur sécurité et leur accès universel à tous les citoyens.",
+      "La cybersécurité est un enjeu transnational qui exige une coopération renforcée entre les États membres, soutenue par des investissements publics massifs dans l'innovation technologique.",
+      "Les données personnelles doivent être traitées de manière transparente et avec le consentement explicite des citoyens, en veillant à ne pas freiner la recherche scientifique ou les avancées médicales."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "La S&D considère que le renforcement de la protection des données personnelles est essentiel pour préserver les libertés fondamentales et l'autonomie numérique des citoyens européens. Cet amendement aligne les réglementations avec les principes démocratiques et l'éthique technologique, tout en évitant d'entraver la concurrence loyale.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La S&D soutient cette mesure pour réduire la concentration économique et redistribuer les richesses générées par les géants du numérique. Cependant, elle exige des garanties pour éviter d'handicaper les start-ups européennes en imposant des taxes excessives ou inéquitables.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "La S&D défend fermement la création d'un écosystème numérique européen compétitif, capable de rivaliser avec les géants internationaux. Cet amendement favorise l'innovation et la souveraineté technologique de l'Union.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "La S&D considère que toute forme de surveillance de masse, surtout par des entités non démocratiques ou privées, menace les libertés fondamentales. Cet amendement renforce le respect des droits des citoyens et la transparence des systèmes numériques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La S&D soutient l'idée d'une fiscalité numérique harmonisée pour éviter le dumping fiscal. Toutefois, elle exige des dispositions spécifiques pour protéger les secteurs industriels stratégiques et préserver la compétitivité européenne.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La S&D s'oppose à cette proposition car elle pourrait compromettre la sécurité et l'accès universel aux services essentiels (énergie, santé). Elle préfère une approche équilibrée qui garantit à la fois leur stabilité et leurs obligations de service public.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "La S&D estime que la cybersécurité est un enjeu transnational qui exige une coopération renforcée entre les États membres. Cet amendement soutient l'innovation technologique tout en protégeant les infrastructures critiques.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La S&D appuie cette mesure pour protéger les droits des citoyens, mais elle exige une approche équilibrée qui ne freine pas la recherche scientifique ou les avancées médicales. Des exceptions doivent être prévues pour le secteur de la santé.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "À surveiller tensions entre objectifs climatiques et intérêts industriels dans les pays d'Europe centrale (Poland, Hungary). Évaluer impact des régulations sur la compétitivité du secteur automobile allemand. Surveiller l'alignement entre le soutien aux start-ups européennes et la résistance de Big Tech face à une régulation trop stricte.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T18:00:16.083050",
+    "version": "4.6"
+  },
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen (PPE)",
+    "actor_id": "ppe",
+    "role_europeen": "Non-porteur - Souhaite soutenir un cadre propice à la compétitivité et à la levée de contraintes excessives.",
+    "enjeux_directive": [
+      "Alléger la régulation sur certains services essentiels.",
+      "Maintenir la confiance dans le marché numérique tout en sécurisant l’environnement des affaires.",
+      "Protéger les intérêts industriels et des opérateurs historiques.",
+      "Promouvoir une transition énergétique compatible avec les exigences de croissance économique.",
+      "Assurer la neutralité technologique dans les cadres réglementaires."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen (PPE).",
+      "Le positionnement de Parti Populaire Européen (PPE) reflète sa vision de l'intégration européenne.",
+      "Le PPE défend un équilibre entre régulation nécessaire et préservation de la libre concurrence."
+    ],
+    "stratégie": "Le PPE adopte une approche pragmatique vis-à-vis des enjeux numériques, privilégiant l'harmonisation minimale des normes tout en défendant les intérêts des secteurs industriels traditionnels. Le parti se positionne comme un acteur clé de la stabilité économique européenne et s'engage à promouvoir une régulation qui favorise l'innovation tout en protégeant les entreprises historiques. Il privilégie une coopération transatlantique pour éviter les divergences technologiques entre l'UE et les États-Unis, tout en défendant un cadre règlementaire qui permet aux PME de concurrencer efficacement les géants numériques. Le PPE mise sur des alliances avec les pays à forte industrialisation (Allemagne, Italie) pour renforcer sa capacité à influencer la directive dans une direction favorable à la compétitivité européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Gauche Unitaire (soutien régulation stricte sur géants du numérique)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le PPE défend un cadre réglementaire qui permet aux entreprises traditionnelles de concurrencer les géants numériques sans être étouffées par des règles trop contraignantes.",
+      "La préservation des secteurs historiques (automobile, énergies fossiles) est une priorité pour maintenir la stabilité économique européenne.",
+      "Le PPE s'oppose à toute régulation qui pourrait limiter les investissements dans les infrastructures numériques nécessaires à la compétitivité européenne.",
+      "La transition écologique doit se faire de manière progressive, en évitant les chocs économiques brutaux sur les régions dépendantes des énergies fossiles.",
+      "Le PPE favorise une coopération étroite avec les lobbies technologiques pour garantir que les normes européennes restent alignées avec les innovations mondiales.",
+      "La protection de la propriété intellectuelle et des données personnelles est un pilier du modèle économique européen selon le PPE.",
+      "Le parti prône une approche équilibrée entre régulation numérique et respect des libertés fondamentales, évitant tout excès de surveillance."
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l'industrie automobile allemande (Volkswagen, BMW) et les objectifs climatiques. Évaluer les risques de déséquilibres Nord-Sud liés aux investissements dans les énergies renouvelables. Surveiller la coordination avec les Conservateurs sur la transition énergétique.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T17:45:15.318679",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient un renforcement de la protection des données pour renforcer la confiance numérique, tout en veillant à ce que cette réglementation ne pénalise pas les PME. Cela favorise une concurrence équitable entre grands acteurs et start-ups.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose à une taxe ciblant uniquement les géants du numérique, craignant un impact négatif sur l'innovation et la compétitivité européenne. Cependant, il reste ouvert à des modèles de fiscalité harmonisés qui encouragent l'investissement.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "Le PPE appuie fermement le soutien aux start-ups, considérant qu'elles sont un levier clé de l'innovation technologique. Cela renforce la capacité européenne à concurrencer les géants numériques internationaux.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE favorise une limitation de la surveillance de masse, tout en soulignant l'importance d'une cybersécurité robuste. Cela évite les abus tout en protégeant les intérêts économiques européens.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient une harmonisation de la fiscalité numérique pour éviter les distorsions de concurrence entre pays membres. Cela favorise une compétitivité équilibrée et renforce l'attractivité fiscale européenne.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "FAVORABLE",
+        "justification": "Le PPE défend l'exclusion des services essentiels de la régulation pour garantir leur continuité et leur stabilité. Cela évite un surcoût inutile pour les citoyens et les entreprises.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Le PPE appuie un renforcement de la cybersécurité pour protéger les infrastructures critiques et les données sensibles. Cela soutient à la fois la confiance numérique et l'économie européenne.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "NEUTRE",
+        "justification": "Le PPE reste neutre sur la limitation de l'accès aux données personnelles, considérant que cette mesure doit être équilibrée pour ne pas nuire à l'innovation technologique. Une approche flexible est nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Non-porteur - Prudence accrue sur les contraintes réglementaires, attachement à la souveraineté nationale.",
+    "enjeux_directive": [
+      "Limiter les prescriptions européennes contraignantes.",
+      "Promouvoir la subsidiarité dans la décision numérique.",
+      "Protéger les acteurs nationaux des effets négatifs des réglementations.",
+      "Assurer une transition énergétique alignée avec les priorités industrielles et économiques locales.",
+      "Renforcer la compétitivité des secteurs stratégiques (automobile, agrochimie).",
+      "Équilibrer les objectifs climatiques avec la préservation de l'emploi."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne.",
+      "La directive favorise une approche concertée sur la régulation numérique sans entraver la souveraineté des États membres."
+    ],
+    "stratégie": "Les Conservateurs et Réformistes Européens (ECR) adoptent une stratégie de modération stratégique en matière de réglementation européenne, combinant prudence face aux contraintes trop ambitieuses avec un soutien conditionnel à des mesures qui renforcent la compétitivité nationale. Leur approche repose sur trois piliers : 1) défendre le principe de subsidiarité en insistant sur la responsabilité primaire des États membres dans les domaines économiques et sociaux ; 2) promouvoir une transition écologique progressive, évitant les ruptures abruptes qui pourraient nuire aux secteurs traditionnels (énergies fossiles, industries lourdes) ; 3) garantir un équilibre entre la protection des données personnelles et la nécessité d'assurer la libre circulation de l'information pour stimuler l'innovation technologique. Cette stratégie vise à préserver les intérêts nationaux tout en participant à une coopération européenne structurée, avec un accent particulier sur la défense des acteurs économiques locaux contre les effets négatifs d'une réglementation trop centralisée.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Défendre la souveraineté nationale face à une réglementation européenne trop centralisée, en soulignant les risques de perte d'autonomie décisionnelle pour les États membres.",
+      "Promouvoir un modèle de transition écologique qui tient compte des réalités économiques locales et évite les ruptures brutales dans les secteurs traditionnels (charbon, pétrole).",
+      "Soutenir l'innovation technologique tout en protégeant les données personnelles contre une surveillance excessive, avec un accent particulier sur la nécessité d'une réglementation équilibrée.",
+      "Développer des infrastructures numériques durables qui renforcent la compétitivité européenne sans compromettre la protection des droits fondamentaux des citoyens.",
+      "Encourager les investissements dans les secteurs stratégiques (automobile, agrochimie) tout en favorisant une concurrence loyale entre les géants du numérique et les entreprises locales.",
+      "Mettre en avant l'importance de la subsidiarité pour la prise de décisions sur des sujets sensibles comme le contrôle des données personnelles ou la fiscalité numérique.",
+      "Défendre un cadre réglementaire qui favorise la prospérité économique et la stabilité sociale, en évitant les mesures trop restrictives pouvant affecter négativement la croissance."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "L'ECR soutient cet amendement car il renforce une mesure essentielle pour protéger les droits fondamentaux des citoyens européens, tout en s'assurant que cette protection ne nuit pas à l'innovation technologique ou à la compétitivité économique. Une réglementation claire et équilibrée est nécessaire pour éviter une fragmentation des normes entre États membres.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que l'ECR reconnaisse la nécessité de réguler les géants du numérique, elle s'oppose à une taxation excessive qui pourrait décourager l'innovation et affecter négativement les investissements dans les technologies émergentes. Une approche plus ciblée, axée sur la concurrence loyale, semble préférable.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'ECR appuie cet amendement en principe, mais insiste sur la nécessité de ne pas créer des distorsions de concurrence avec les géants du numérique. Une aide ciblée aux start-ups, tout en évitant une réglementation trop contraignante, est essentielle pour stimuler l'innovation.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "L'ECR soutient cet amendement comme une mesure cruciale pour protéger les libertés fondamentales des citoyens européens. Une surveillance excessive pourrait nuire à l'équilibre entre sécurité et liberté, un enjeu central pour la vision européenne de l'ECR.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "NEUTRE",
+        "justification": "L'ECR adopte une position neutre sur cet amendement, car elle estime que l'harmonisation de la fiscalité numérique doit être accompagnée de mesures qui protègent les acteurs économiques locaux. Une approche trop centralisée pourrait nuire à la souplesse des États membres.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'ECR soutient cet amendement en principe, mais souligne l'importance d'une définition claire des 'services essentiels'. Une exclusion mal ciblée pourrait compromettre la sécurité nationale ou perturber des secteurs critiques pour l'économie européenne.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'ECR appuie cet amendement comme un élément clé pour protéger les infrastructures critiques et renforcer la confiance dans l'économie numérique. Une cybersécurité robuste est essentielle pour préserver la prospérité économique européenne.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'ECR soutient cet amendement en principe, mais insiste sur la nécessité d'équilibrer cette limitation avec les besoins des secteurs économiques et sociaux. Une réglementation trop rigide pourrait nuire à l'innovation et à la flexibilité des acteurs privés.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre objectifs climatiques et préservation de l'industrie du charbon (Hongrie, Pologne). Évaluer régulièrement impact des mesures sur la compétitivité automobile (Allemagne, Italie). Équilibrer protection des données avec nécessité d'innovation technologique.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T18:51:08.095307",
+    "version": "4.6"
+  }
+]

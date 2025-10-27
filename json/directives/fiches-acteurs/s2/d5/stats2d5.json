@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 5,
+  "nom": "Coopération diplomatique européenne",
+  "valeurs_prevues": {
+    "normandie_eu": 87,
+    "vdem_eu": 0.89,
+    "pib_growth_eu": 1.6,
+    "idh_eu": 0.94
+  },
+  "amendements": [
+    {
+      "id": "2-5A",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.90,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-5B",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.90,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-5C",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-5D",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.90,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-5E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-5F",
+      "origine": "France",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-5G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-5H",
+      "origine": "Suède",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.93
+      }
+    }
+  ]
+}

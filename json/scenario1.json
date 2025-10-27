@@ -17,7 +17,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "1A",
+          "origine": "Verts/ALE",
+          "id": "1-1A",
           "description": "Augmenter la part du PIB investi à 2,5%",
           "impact": {
             "pib_eu": 2.5,
@@ -28,7 +29,8 @@
         },
         {
           "type": "parlement",
-          "id": "1B",
+          "origine": "Socialistes & Démocrates",
+          "id": "1-1B",
           "description": "Cibler prioritairement les régions défavorisées",
           "impact": {
             "pib_eu": 2.1,
@@ -39,7 +41,8 @@
         },
         {
           "type": "parlement",
-          "id": "1C",
+          "origine": "Renouveau Européen",
+          "id": "1-1C",
           "description": "Imposer un moratoire sur les centrales à charbon",
           "impact": {
             "pib_eu": 1.8,
@@ -50,7 +53,8 @@
         },
         {
           "type": "parlement",
-          "id": "1D",
+          "origine": "Parti Populaire Européen",
+          "id": "1-1D",
           "description": "Accroître l’innovation dans l’hydrogène vert",
           "impact": {
             "pib_eu": 2.3,
@@ -61,7 +65,8 @@
         },
         {
           "type": "conseil",
-          "id": "1E",
+          "origine": "Hongrie",
+          "id": "1-1E",
           "description": "Réduire l’investissement à 1,5% du PIB",
           "impact": {
             "pib_eu": 1.7,
@@ -72,7 +77,8 @@
         },
         {
           "type": "conseil",
-          "id": "1F",
+          "origine": "Italie",
+          "id": "1-1F",
           "description": "Exclure l’industrie lourde des subventions",
           "impact": {
             "pib_eu": 2.0,
@@ -83,7 +89,8 @@
         },
         {
           "type": "conseil",
-          "id": "1G",
+          "origine": "Pologne",
+          "id": "1-1G",
           "description": "Prioriser l’emploi local",
           "impact": {
             "pib_eu": 2.2,
@@ -94,7 +101,8 @@
         },
         {
           "type": "conseil",
-          "id": "1H",
+          "origine": "France",
+          "id": "1-1H",
           "description": "Relancer le nucléaire civil",
           "impact": {
             "pib_eu": 2.0,
@@ -121,7 +129,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "2A",
+          "origine": "Verts/ALE",
+          "id": "1-2A",
           "description": "Renforcer la protection des données personnelles",
           "impact": {
             "pib_eu": 2.4,
@@ -132,7 +141,8 @@
         },
         {
           "type": "parlement",
-          "id": "2B",
+          "origine": "Gauche Unitaire",
+          "id": "1-2B",
           "description": "Taxer les géants du numérique",
           "impact": {
             "pib_eu": 2.7,
@@ -143,7 +153,8 @@
         },
         {
           "type": "parlement",
-          "id": "2C",
+          "origine": "Renouveau Européen",
+          "id": "1-2C",
           "description": "Soutenir les start-ups européennes",
           "impact": {
             "pib_eu": 2.8,
@@ -154,7 +165,8 @@
         },
         {
           "type": "parlement",
-          "id": "2D",
+          "origine": "Socialistes & Démocrates",
+          "id": "1-2D",
           "description": "Limiter la surveillance de masse",
           "impact": {
             "pib_eu": 2.5,
@@ -165,7 +177,8 @@
         },
         {
           "type": "conseil",
-          "id": "2E",
+          "origine": "France",
+          "id": "1-2E",
           "description": "Harmoniser la fiscalité numérique",
           "impact": {
             "pib_eu": 2.6,
@@ -176,7 +189,8 @@
         },
         {
           "type": "conseil",
-          "id": "2F",
+          "origine": "Allemagne",
+          "id": "1-2F",
           "description": "Exclure les services essentiels de la régulation",
           "impact": {
             "pib_eu": 2.3,
@@ -187,7 +201,8 @@
         },
         {
           "type": "conseil",
-          "id": "2G",
+          "origine": "Pologne",
+          "id": "1-2G",
           "description": "Renforcer la cybersécurité",
           "impact": {
             "pib_eu": 2.6,
@@ -198,7 +213,8 @@
         },
         {
           "type": "conseil",
-          "id": "2H",
+          "origine": "Suède",
+          "id": "1-2H",
           "description": "Limiter l’accès aux données personnelles",
           "impact": {
             "pib_eu": 2.4,
@@ -225,7 +241,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "3A",
+          "origine": "Socialistes & Démocrates",
+          "id": "1-3A",
           "description": "Augmenter la part des subventions à l’agriculture biologique à 50%",
           "impact": {
             "pib_eu": 2.1,
@@ -236,7 +253,8 @@
         },
         {
           "type": "parlement",
-          "id": "3B",
+          "origine": "Verts/ALE",
+          "id": "1-3B",
           "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
           "impact": {
             "pib_eu": 2.2,
@@ -247,7 +265,8 @@
         },
         {
           "type": "parlement",
-          "id": "3C",
+          "origine": "Parti Populaire Européen",
+          "id": "1-3C",
           "description": "Créer un fonds d’innovation pour la santé des sols",
           "impact": {
             "pib_eu": 2.3,
@@ -258,7 +277,8 @@
         },
         {
           "type": "parlement",
-          "id": "3D",
+          "origine": "Conservateurs et Réformistes",
+          "id": "1-3D",
           "description": "Soutenir les circuits courts et la relocalisation alimentaire",
           "impact": {
             "pib_eu": 2.2,
@@ -269,7 +289,8 @@
         },
         {
           "type": "conseil",
-          "id": "3E",
+          "origine": "Hongrie",
+          "id": "1-3E",
           "description": "Maintenir une part de subventions pour l’agriculture conventionnelle",
           "impact": {
             "pib_eu": 2.3,
@@ -280,7 +301,8 @@
         },
         {
           "type": "conseil",
-          "id": "3F",
+          "origine": "France",
+          "id": "1-3F",
           "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
           "impact": {
             "pib_eu": 2.2,
@@ -291,7 +313,8 @@
         },
         {
           "type": "conseil",
-          "id": "3G",
+          "origine": "Italie",
+          "id": "1-3G",
           "description": "Inclure un soutien spécifique à l’irrigation durable",
           "impact": {
             "pib_eu": 2.3,
@@ -302,7 +325,8 @@
         },
         {
           "type": "conseil",
-          "id": "3H",
+          "origine": "Allemagne",
+          "id": "1-3H",
           "description": "Reporter l’objectif de réduction des pesticides à 2040",
           "impact": {
             "pib_eu": 2.4,
@@ -329,7 +353,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "4A",
+          "origine": "Socialistes & Démocrates",
+          "id": "1-4A",
           "description": "Étendre la couverture à 60% du salaire",
           "impact": {
             "pib_eu": 2.0,
@@ -340,7 +365,8 @@
         },
         {
           "type": "parlement",
-          "id": "4B",
+          "origine": "Parti Populaire Européen",
+          "id": "1-4B",
           "description": "Inclure les travailleurs indépendants dans le dispositif",
           "impact": {
             "pib_eu": 2.1,
@@ -351,7 +377,8 @@
         },
         {
           "type": "parlement",
-          "id": "4C",
+          "origine": "Renouveau Européen",
+          "id": "1-4C",
           "description": "Financer la formation continue pour les demandeurs d’emploi",
           "impact": {
             "pib_eu": 2.3,
@@ -362,7 +389,8 @@
         },
         {
           "type": "parlement",
-          "id": "4D",
+          "origine": "Verts/ALE",
+          "id": "1-4D",
           "description": "Soutenir la mobilité professionnelle transfrontalière",
           "impact": {
             "pib_eu": 2.2,
@@ -373,7 +401,8 @@
         },
         {
           "type": "conseil",
-          "id": "4E",
+          "origine": "Hongrie",
+          "id": "1-4E",
           "description": "Limiter la couverture à 40% du salaire",
           "impact": {
             "pib_eu": 2.2,
@@ -384,7 +413,8 @@
         },
         {
           "type": "conseil",
-          "id": "4F",
+          "origine": "Allemagne",
+          "id": "1-4F",
           "description": "Réserver le dispositif aux salariés en CDI",
           "impact": {
             "pib_eu": 2.1,
@@ -395,7 +425,8 @@
         },
         {
           "type": "conseil",
-          "id": "4G",
+          "origine": "Pologne",
+          "id": "1-4G",
           "description": "Soutenir prioritairement les régions en déclin industriel",
           "impact": {
             "pib_eu": 2.2,
@@ -406,7 +437,8 @@
         },
         {
           "type": "conseil",
-          "id": "4H",
+          "origine": "Italie",
+          "id": "1-4H",
           "description": "Prioriser l’emploi local dans l’attribution des aides",
           "impact": {
             "pib_eu": 2.2,
@@ -433,7 +465,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "5A",
+          "origine": "Socialistes & Démocrates",
+          "id": "1-5A",
           "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
           "impact": {
             "pib_eu": 1.9,
@@ -444,7 +477,8 @@
         },
         {
           "type": "parlement",
-          "id": "5B",
+          "origine": "Verts/ALE",
+          "id": "1-5B",
           "description": "Inclure un volet spécifique sur la biodiversité dans le reporting",
           "impact": {
             "pib_eu": 2.0,
@@ -455,7 +489,8 @@
         },
         {
           "type": "parlement",
-          "id": "5C",
+          "origine": "Renouveau Européen",
+          "id": "1-5C",
           "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
           "impact": {
             "pib_eu": 2.1,
@@ -466,7 +501,8 @@
         },
         {
           "type": "parlement",
-          "id": "5D",
+          "origine": "Gauche Unitaire",
+          "id": "1-5D",
           "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
           "impact": {
             "pib_eu": 2.0,
@@ -477,7 +513,8 @@
         },
         {
           "type": "conseil",
-          "id": "5E",
+          "origine": "Hongrie",
+          "id": "1-5E",
           "description": "Reporter de deux ans l’application pour les PME cotées",
           "impact": {
             "pib_eu": 2.1,
@@ -488,7 +525,8 @@
         },
         {
           "type": "conseil",
-          "id": "5F",
+          "origine": "Italie",
+          "id": "1-5F",
           "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
           "impact": {
             "pib_eu": 2.2,
@@ -499,7 +537,8 @@
         },
         {
           "type": "conseil",
-          "id": "5G",
+          "origine": "Pologne",
+          "id": "1-5G",
           "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
           "impact": {
             "pib_eu": 2.1,
@@ -510,7 +549,8 @@
         },
         {
           "type": "conseil",
-          "id": "5H",
+          "origine": "France",
+          "id": "1-5H",
           "description": "Exclure les micro-entreprises du champ d’application",
           "impact": {
             "pib_eu": 2.2,
@@ -537,7 +577,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "6A",
+          "origine": "Parti Populaire Européen",
+          "id": "1-6A",
           "description": "Porter la subvention à 40% pour les usines les plus polluantes",
           "impact": {
             "pib_eu": 2.4,
@@ -548,7 +589,8 @@
         },
         {
           "type": "parlement",
-          "id": "6B",
+          "origine": "Conservateurs et Réformistes",
+          "id": "1-6B",
           "description": "Conditionner les aides à la création d’emplois locaux",
           "impact": {
             "pib_eu": 2.5,
@@ -559,7 +601,8 @@
         },
         {
           "type": "parlement",
-          "id": "6C",
+          "origine": "Renouveau Européen",
+          "id": "1-6C",
           "description": "Inclure un volet formation pour les travailleurs",
           "impact": {
             "pib_eu": 2.4,
@@ -570,7 +613,8 @@
         },
         {
           "type": "parlement",
-          "id": "6D",
+          "origine": "Gauche Unitaire",
+          "id": "1-6D",
           "description": "Favoriser l’innovation dans les procédés industriels bas carbone",
           "impact": {
             "pib_eu": 2.6,
@@ -581,7 +625,8 @@
         },
         {
           "type": "conseil",
-          "id": "6E",
+          "origine" : "Pologne",
+          "id": "1-6E",
           "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
           "impact": {
             "pib_eu": 2.5,
@@ -592,7 +637,8 @@
         },
         {
           "type": "conseil",
-          "id": "6F",
+          "origine": "France",
+          "id": "1-6F",
           "description": "Assouplir les critères de décarbonation pour les PME industrielles",
           "impact": {
             "pib_eu": 2.4,
@@ -603,7 +649,8 @@
         },
         {
           "type": "conseil",
-          "id": "6G",
+          "origine": "Allemagne",
+          "id": "1-6G",
           "description": "Inclure un mécanisme de soutien temporaire à l’export",
           "impact": {
             "pib_eu": 2.6,
@@ -614,7 +661,8 @@
         },
         {
           "type": "conseil",
-          "id": "6H",
+          "origine": "Suède",
+          "id": "1-6H",
           "description": "Permettre une flexibilité nationale dans l’allocation des subventions",
           "impact": {
             "pib_eu": 2.3,
@@ -641,7 +689,8 @@
       "amendements": [
         {
           "type": "parlement",
-          "id": "7A",
+          "origine": "Gauche Unitaire",
+          "id": "1-7A",
           "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
           "impact": {
             "pib_eu": 2.2,
@@ -652,7 +701,8 @@
         },
         {
           "type": "parlement",
-          "id": "7B",
+          "origine": "Verts/ALE",
+          "id": "1-7B",
           "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
           "impact": {
             "pib_eu": 2.1,
@@ -663,7 +713,8 @@
         },
         {
           "type": "parlement",
-          "id": "7C",
+          "origine": "Parti Populaire Européen",
+          "id": "1-7C",
           "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
           "impact": {
             "pib_eu": 2.1,
@@ -674,7 +725,8 @@
         },
         {
           "type": "parlement",
-          "id": "7D",
+          "origine": "Renouveau Européen",
+          "id": "1-7D",
           "description": "Conditionner les aides à la mixité sociale et intergénérationnelle",
           "impact": {
             "pib_eu": 2.1,
@@ -685,7 +737,8 @@
         },
         {
           "type": "conseil",
-          "id": "7E",
+          "origine": "Hongrie",
+          "id": "1-7E",
           "description": "Permettre une flexibilité nationale sur le rythme de construction",
           "impact": {
             "pib_eu": 2.0,
@@ -696,7 +749,8 @@
         },
         {
           "type": "conseil",
-          "id": "7F",
+          "origine": "Allemagne",
+          "id": "1-7F",
           "description": "Exclure les logements intermédiaires du champ de la directive",
           "impact": {
             "pib_eu": 2.0,
@@ -707,7 +761,8 @@
         },
         {
           "type": "conseil",
-          "id": "7G",
+          "origine": "Italie",
+          "id": "1-7G",
           "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
           "impact": {
             "pib_eu": 2.1,
@@ -718,7 +773,8 @@
         },
         {
           "type": "conseil",
-          "id": "7H",
+          "origine": "Pologne",
+          "id": "1-7H",
           "description": "Autoriser des dérogations pour les zones rurales à faible densité",
           "impact": {
             "pib_eu": 2.0,
@@ -745,7 +801,8 @@
     "amendements": [
       {
         "type": "parlement",
-        "id": "8A",
+        "origine": "Gauche Unitaire",
+        "id": "1-8A",
         "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
         "impact": {
           "pib_eu": 2.3,
@@ -756,7 +813,8 @@
       },
       {
         "type": "parlement",
-        "id": "8B",
+        "origine": "Verts/ALE",
+        "id": "1-8B",
         "description": "Allouer une part des recettes fiscales à la transition écologique",
         "impact": {
           "pib_eu": 2.4,
@@ -767,7 +825,8 @@
       },
       {
         "type": "parlement",
-        "id": "8C",
+        "origine": "Conservateurs et Réformistes",
+        "id": "1-8C",
         "description": "Créer un fonds de cohésion pour les régions défavorisées",
         "impact": {
           "pib_eu": 2.4,
@@ -778,7 +837,8 @@
       },
       {
         "type": "parlement",
-        "id": "8D",
+        "origine": "Socialistes & Démocrates",
+        "id": "1-8D",
         "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
         "impact": {
           "pib_eu": 2.4,
@@ -789,7 +849,8 @@
       },
       {
         "type": "conseil",
-        "id": "8E",
+        "origine": "Suède",
+        "id": "1-8E",
         "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
         "impact": {
           "pib_eu": 2.5,
@@ -800,7 +861,8 @@
       },
       {
         "type": "conseil",
-        "id": "8F",
+        "origine": "France",
+        "id": "1-8F",
         "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
         "impact": {
           "pib_eu": 2.5,
@@ -811,7 +873,8 @@
       },
       {
         "type": "conseil",
-        "id": "8G",
+        "origine": "Italie",
+        "id": "1-8G",
         "description": "Reporter l’application de l’harmonisation fiscale de deux ans",
         "impact": {
           "pib_eu": 2.6,
@@ -822,7 +885,8 @@
       },
       {
         "type": "conseil",
-        "id": "8H",
+        "origine": "Hongrie",
+        "id": "1-8H",
         "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
         "impact": {
           "pib_eu": 2.5,

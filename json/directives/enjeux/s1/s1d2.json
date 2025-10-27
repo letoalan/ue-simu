@@ -1,0 +1,199 @@
+{
+  "directive": {
+    "id": "1-2",
+    "title": "Marché unique numérique",
+    "description": "Harmoniser les régulations IA et cloud. Créer un cadre légal pour les données et l’IA éthique. Augmenter la part du numérique dans le PIB à 15%.",
+    "commission": {
+      "role": "Porte la proposition et veille à l'équilibre entre innovation, souveraineté numérique, protection des droits et compétitivité.",
+      "enjeux": [
+        "Accélérer la transformation numérique de l’Union européenne.",
+        "Harmoniser les cadres réglementaires relatifs à l’intelligence artificielle et à l’informatique en nuage.",
+        "Garantir la sécurité, la compétitivité et la souveraineté numérique tout en protégeant les droits fondamentaux.",
+        "Stimuler une croissance inclusive et respectueuse de l’éthique."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendments": ["Harmoniser la fiscalité numérique."],
+        "enjeux": [
+          "Renforcer la fiscalité numérique au niveau européen pour éviter la concurrence fiscale déloyale.",
+          "Garantir un cadre clair et stable pour les entreprises numériques.",
+          "Concilier innovation et équité fiscale."
+        ],
+        "strategie": "Promouvoir une harmonisation fiscale visant à protéger l’industrie numérique nationale tout en soutenant le développement technologique en Europe."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "amendments": ["Exclure certains services essentiels de la régulation."],
+        "enjeux": [
+          "Protéger certains secteurs clés de l’économie numérique allemande des régulations trop strictes.",
+          "Assurer une pulsion de compétitivité tout en respectant la diversité nationale.",
+          "Maintenir la flexibilité pour des services critiques."
+        ],
+        "strategie": "Chercher à limiter l’univers de la régulation pour préserver la compétitivité des acteurs nationaux technologiques."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendments": ["Renforcer la cybersécurité."],
+        "enjeux": [
+          "Garantir la protection des infrastructures numériques contre les cyberattaques.",
+          "Promouvoir une stratégie de cybersécurité paneuropéenne intégrée.",
+          "Favoriser le développement des compétences numériques sécurisées."
+        ],
+        "strategie": "Se positionner comme acteur clé dans la sécurité numérique européenne et promouvoir la coopération transfrontalière."
+      },
+      {
+        "name": "Suède",
+        "role": "Porteur",
+        "amendments": ["Limiter l’accès aux données personnelles."],
+        "enjeux": [
+          "Préserver la vie privée des citoyens.",
+          "Mettre en place des garde-fous stricts pour la protection des données personnelles.",
+          "Renforcer la confiance numérique au sein de l’Europe."
+        ],
+        "strategie": "Soutenir un cadre très protecteur des données personnelles compatibles avec un marché numérique florissant."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Non-porteur",
+        "position": "Prudence vis-à-vis de régulations trop contraignantes, volonté de flexibilité nationale.",
+        "enjeux": [
+          "Protéger la souveraineté numérique nationale.",
+          "Limiter les obligations réglementaires sous-jacentes au marché unique numérique.",
+          "Rechercher des marges de manœuvre spécifiques pour certains secteurs."
+        ]
+      },
+      {
+        "name": "Italie",
+        "role": "Non-porteur",
+        "position": "Recherche d’un équilibre entre régulation et innovation, préoccupée par l’impact sur les PME.",
+        "enjeux": [
+          "Garantir que les régulations n’étouffent pas les petites et moyennes entreprises du numérique.",
+          "Favoriser un environnement propice à l'innovation locale.",
+          "Alléger certaines contraintes administratives pour les acteurs nationaux."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendments": ["Renforcer la protection des données personnelles."],
+        "enjeux": [
+          "Assurer la protection et la confidentialité des données.",
+          "Limiter l’usage commercial des données par les grandes plateformes.",
+          "Intégrer l’éthique dans les régulations numériques."
+        ],
+        "strategie": "Pousser les normes élevées de protection des droits numériques et personnels."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendments": ["Taxer les géants du numérique."],
+        "enjeux": [
+          "Lutter contre l’évasion fiscale et la concentration du pouvoir économique.",
+          "Renforcer la justice fiscale dans l’écosystème numérique.",
+          "Promouvoir un numérique plus égalitaire."
+        ],
+        "strategie": "Imposer une fiscalité stricte des grandes plateformes numériques et redistribuer."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendments": ["Soutenir les start-ups européennes."],
+        "enjeux": [
+          "Favoriser la compétitivité et la souveraineté digitale européenne.",
+          "Stimuler l’innovation locale et les jeunes entreprises.",
+          "Réduire la dépendance aux acteurs internationaux dominants."
+        ],
+        "strategie": "Soutenir la croissance et l’émancipation des PME numériques européennes."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendments": ["Limiter la surveillance de masse."],
+        "enjeux": [
+          "Garantir le respect des libertés publiques et individuelles.",
+          "Introduire des garde-fous contre les pratiques intrusives.",
+          "Concilier sécurité, éthique et droits fondamentaux."
+        ],
+        "strategie": "Promouvoir un cadre réglementaire équilibré respectant la vie privée."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Non-porteur",
+        "position": "Souhaite soutenir un cadre propice à la compétitivité et à la levée de contraintes excessives.",
+        "enjeux": [
+          "Alléger la régulation sur certains services essentiels.",
+          "Maintenir la confiance dans le marché numérique tout en sécurisant l’environnement des affaires.",
+          "Protéger les intérêts industriels et des opérateurs historiques."
+        ]
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Prudence accrue sur les contraintes réglementaires, attachement à la souveraineté nationale.",
+        "enjeux": [
+          "Limiter les prescriptions européennes contraignantes.",
+          "Promouvoir la subsidiarité dans la décision numérique.",
+          "Protéger les acteurs nationaux des effets négatifs des réglementations."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Influencer la réglementation sur l’éthique IA et la gestion des données.",
+          "Promouvoir un accès contrôlé mais suffisamment libre aux données.",
+          "Penser la cybersécurité intégrée dans les infrastructures numériques."
+        ],
+        "alliances": ["Renouveau Européen", "Verts/ALE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": [
+          "Moindre intérêt direct, mais soucieux des impacts de la régulation numérique sur les industries fossiles.",
+          "Soutien indirect à la flexibilité et la modération réglementaire."
+        ],
+        "alliances": ["Conservateurs et Réformistes", "Italie", "Hongrie"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Promouvoir des services numériques financiers sûrs et innovants.",
+          "Soutenir un cadre réglementaire stable et clair pour la fintech.",
+          "Assurer la protection des données financières et clients."
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Limiter les contraintes imposées par des régulations numériques spécifiques pour l’industrie.",
+          "Veiller à la compatibilité des règlements européens avec l’innovation technologique agro."
+        ],
+        "alliances": ["Pologne", "Italie", "PPE"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Assurer un usage responsable des données de santé et de recherche numérique.",
+          "Soutenir les innovations dans la santé numérique et la réglementation adaptée."
+        ],
+        "alliances": ["Renouveau Européen", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Influencer la réglementation des données liées aux véhicules connectés et autonomes.",
+          "Soutenir la cybersécurité et l’innovation dans la mobilité intelligente."
+        ],
+        "alliances": ["Pologne", "PPE", "Conservateurs et Réformistes"]
+      }
+    ]
+  }
+}

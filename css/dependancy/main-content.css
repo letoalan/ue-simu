@@ -1,6 +1,9 @@
 /* Import external styles */
 @import url('simulator/dashboard.css');
 @import url('vote/vote.css');
+@import url('tabs/fiches/fiches-acteurs.css');
+@import url('tabs/negociations/negociations.css');
+
 
 /* Define CSS custom properties for consistency */
 :root {
@@ -363,7 +366,8 @@ input[type=number] {
 
 /* Responsive design */
 @media (min-width: 600px) {
-    .canvas-container {
+    /* Cible uniquement les graphiques du simulateur pour éviter les conflits */
+    #simulator-tab .canvas-container {
         width: 900px;
         max-width: 900px;
         height: 480px;

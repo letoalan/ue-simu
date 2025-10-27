@@ -1,0 +1,635 @@
+{
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "actor_id": "commission",
+    "role_europeen": "Porteur institutionnel",
+    "enjeux_directive": [
+      "Moderniser le tissu industriel européen pour rester compétitif.",
+      "Favoriser l'automatisation tout en assurant une transition écologique.",
+      "Éviter la délocalisation des activités industrielles."
+    ],
+    "impacts_directive": [
+      "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+      "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-6A",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6B",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6C",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6D",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6E",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6F",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6G",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      },
+      {
+        "id": "1-6H",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "",
+    "alliances": [],
+    "oppositions": [],
+    "éléments_d_argumentaire": [],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": ""
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "actor_id": "pologne",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Assurer la pérennité des secteurs industriels clés.",
+        "Concentrer les ressources sur les industries vitrines de l'économie nationale.",
+        "Garantir la souveraineté industrielle européenne."
+      ],
+      "impacts_directive": [
+        "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+        "La position de Pologne reflète ses préoccupations nationales spécifiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6E",
+          "origine": "Pologne",
+          "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Prioriser l'allocation des subventions vers les industries vitales et à fort impact.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "actor_id": "france",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Permettre aux PME d'accéder aux subventions malgré contraintes techniques.",
+        "Soutenir la modernisation progressive sans pénaliser les entreprises locales.",
+        "Préserver l'emploi industriel national."
+      ],
+      "impacts_directive": [
+        "La directive affectera les intérêts stratégiques et économiques de France.",
+        "La position de France reflète ses préoccupations nationales spécifiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6F",
+          "origine": "France",
+          "description": "Assouplir les critères de décarbonation pour les PME industrielles",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Mettre en avant la réalité des capacités techniques des PME pour élargir l'assiette des subventions.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "actor_id": "allemagne",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Renforcer la compétitivité des entreprises allemandes à l'international.",
+        "Accompagner les exportations industrielles modernisées.",
+        "Protéger les parts de marché européennes face à la concurrence mondiale."
+      ],
+      "impacts_directive": [
+        "La directive affectera les intérêts stratégiques et économiques de Allemagne.",
+        "La position de Allemagne reflète ses préoccupations nationales spécifiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6G",
+          "origine": "Allemagne",
+          "description": "Inclure un mécanisme de soutien temporaire à l’export",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Plaider pour un soutien ciblé facilitant l'exportation de produits issus d'usines modernisées.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "actor_id": "suede",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Adapter les subventions aux spécificités industrielles nationales.",
+        "Garantir l'autonomie des États membres dans la distribution des aides.",
+        "Éviter une approche uniforme inadaptée aux réalités locales."
+      ],
+      "impacts_directive": [
+        "La directive affectera les intérêts stratégiques et économiques de Suède.",
+        "La position de Suède reflète ses préoccupations nationales spécifiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6H",
+          "origine": "Suède",
+          "description": "Permettre une flexibilité nationale dans l’allocation des subventions",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Plaider pour une subsidiarité dans l'application de la directive tout en maintenant les objectifs communs.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "actor_id": "italie",
+      "role_europeen": "Non-porteur - Demande davantage d'accompagnement pour les régions industrielles en reconversion.",
+      "enjeux_directive": [
+        "Soutenir les zones industrielles fragilisées par la transition.",
+        "Éviter les pertes d'emplois massives dans le secteur manufacturier.",
+        "Renforcer la cohésion territoriale."
+      ],
+      "impacts_directive": [
+        "La directive affectera les intérêts stratégiques et économiques de Italie.",
+        "La position de Italie reflète ses préoccupations nationales spécifiques."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "actor_id": "hongrie",
+      "role_europeen": "Non-porteur - Craint une dépendance accrue aux technologies étrangères et préfère investir dans l'innovation locale.",
+      "enjeux_directive": [
+        "Préserver l'autonomie technologique nationale.",
+        "Développer un écosystème d'innovation domestique.",
+        "Limiter la dépendance aux chaînes d'approvisionnement externes."
+      ],
+      "impacts_directive": [
+        "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+        "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    }
+  ],
+  "parties": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "actor_id": "ppe",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Renforcer les aides pour accélérer la sortie des industries les plus émettrices.",
+        "Promouvoir un changement technologique rapide.",
+        "Concilier transition écologique et compétitivité industrielle."
+      ],
+      "impacts_directive": [
+        "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen.",
+        "Le positionnement de Parti Populaire Européen reflète sa vision de l'intégration européenne."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6A",
+          "origine": "Parti Populaire Européen",
+          "description": "Porter la subvention à 40% pour les usines les plus polluantes",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Pousser pour un soutien différencié selon l'intensité polluante et l'innovation.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "actor_id": "ecr",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Garantir que la modernisation industrielle bénéficie à l'emploi local.",
+        "Éviter la robotisation sans création de valeur sociale.",
+        "Renforcer l'ancrage territorial des industries."
+      ],
+      "impacts_directive": [
+        "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes.",
+        "Le positionnement de Conservateurs et Réformistes reflète sa vision de l'intégration européenne."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6B",
+          "origine": "Conservateurs et Réformistes",
+          "description": "Conditionner les aides à la création d’emplois locaux",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Insister sur la dimension emploi comme condition d'attribution des subventions.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "actor_id": "renew",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Accompagner les travailleurs dans la transition numérique et écologique.",
+        "Réduire l'obsolescence des compétences.",
+        "Favoriser l'employabilité durable."
+      ],
+      "impacts_directive": [
+        "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+        "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6C",
+          "origine": "Renouveau Européen",
+          "description": "Inclure un volet formation pour les travailleurs",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Promouvoir une approche inclusive de la modernisation avec formation systématique.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire",
+      "actor_id": "gue",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Accélérer la décarbonation des processus de production.",
+        "Soutenir les technologies vertes innovantes.",
+        "Réduire l'empreinte carbone du secteur industriel."
+      ],
+      "impacts_directive": [
+        "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire.",
+        "Le positionnement de Gauche Unitaire reflète sa vision de l'intégration européenne."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-6D",
+          "origine": "Gauche Unitaire",
+          "description": "Favoriser l’innovation dans les procédés industriels bas carbone",
+          "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+        }
+      ],
+      "stratégie": "Plaider pour un focus sur l'innovation écologique et les procédés propres.",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "actor_id": "verts",
+      "role_europeen": "Non-porteur - Exigent des critères environnementaux plus stricts pour l'attribution des subventions.",
+      "enjeux_directive": [
+        "Garantir que les subventions ne financent pas le greenwashing.",
+        "Renforcer les normes écologiques des usines modernisées.",
+        "Accélérer la transition vers une industrie véritablement durable."
+      ],
+      "impacts_directive": [
+        "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+        "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "actor_id": "sd",
+      "role_europeen": "Non-porteur - Souhaitent une conditionnalité sociale forte (droits des travailleurs, participation).",
+      "enjeux_directive": [
+        "Protéger les droits des travailleurs dans la transformation industrielle.",
+        "Promouvoir le dialogue social et la participation des salariés.",
+        "Éviter une modernisation au détriment des conditions de travail."
+      ],
+      "impacts_directive": [
+        "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+        "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "actor_id": "tech",
+      "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne.",
+      "enjeux_directive": [
+        "Fournir des solutions pour l’automatisation intelligente et la robotisation.",
+        "Consolider la place de la technologie dans la modernisation industrielle.",
+        "Créer des opportunités de marché pour les services numériques et la cybersécurité."
+      ],
+      "impacts_directive": [
+        "La directive aura des conséquences importantes pour le secteur Big Tech.",
+        "Les intérêts économiques et stratégiques de Big Tech sont directement concernés."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [
+        "Renouveau Européen",
+        "Verts/ALE"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Lobby",
+      "nom": "Énergies fossiles",
+      "actor_id": "fossiles",
+      "role_europeen": "Représente les intérêts du secteur Énergies fossiles et cherche à influencer la législation européenne.",
+      "enjeux_directive": [
+        "Préserver la compétitivité du secteur énergétique européen.",
+        "Obtenir des délais plus longs pour la décarbonation des infrastructures.",
+        "Promouvoir des technologies de capture et stockage du carbone (CSC)."
+      ],
+      "impacts_directive": [
+        "La directive aura des conséquences importantes pour le secteur Énergies fossiles.",
+        "Les intérêts économiques et stratégiques de Énergies fossiles sont directement concernés."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [
+        "Pologne",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et finance",
+      "actor_id": "finance",
+      "role_europeen": "Représente les intérêts du secteur Banque et finance et cherche à influencer la législation européenne.",
+      "enjeux_directive": [
+        "Faciliter l’accès au financement pour les projets industriels.",
+        "Renforcer les dispositifs de garanties publiques et privées.",
+        "Soutenir la titrisation verte et les investissements durables."
+      ],
+      "impacts_directive": [
+        "La directive aura des conséquences importantes pour le secteur Banque et finance.",
+        "Les intérêts économiques et stratégiques de Banque et finance sont directement concernés."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [
+        "Renouveau Européen",
+        "France"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharmaceutique",
+      "actor_id": "pharma",
+      "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne.",
+      "enjeux_directive": [
+        "Bénéficier d’aides pour la relocalisation de la production de principes actifs.",
+        "Promouvoir les biotechnologies industrielles durables.",
+        "Accélérer l’innovation dans la fabrication automatisée des médicaments."
+      ],
+      "impacts_directive": [
+        "La directive aura des conséquences importantes pour le secteur Pharmaceutique.",
+        "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [
+        "Italie",
+        "Renouveau Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "actor_id": "agrochimie",
+      "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+      "enjeux_directive": [
+        "Soutenir la modernisation des chaînes de production d’engrais et de produits phytosanitaires.",
+        "Encourager la R&D dans les alternatives écologiques.",
+        "Préserver la compétitivité du secteur agricole européen."
+      ],
+      "impacts_directive": [
+        "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+        "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "actor_id": "auto",
+      "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne.",
+      "enjeux_directive": [
+        "Subventionner la transition vers les véhicules électriques.",
+        "Automatiser les chaînes de production pour réduire les coûts.",
+        "Maintenir le leadership industriel européen face à la concurrence mondiale."
+      ],
+      "impacts_directive": [
+        "La directive aura des conséquences importantes pour le secteur Automobile.",
+        "Les intérêts économiques et stratégiques de Automobile sont directement concernés."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "",
+      "alliances": [
+        "Allemagne",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [],
+      "références": [
+        "s1d6.json",
+        "scenario1.json"
+      ],
+      "notes_internes": ""
+    }
+  ],
+  "metadata": {
+    "directive_id": "1-6",
+    "generated_at": "2025-10-26T23:04:45.976130",
+    "total_directive_tokens": 5454,
+    "file_breakdown": {
+      "commission": 723,
+      "countries": 1610,
+      "parties": 1637,
+      "lobbies": 1484
+    },
+    "generated_files": [
+      "com_s1-d6.json",
+      "cou_s1-d6.json",
+      "par_s1-d6.json",
+      "lob_s1-d6.json"
+    ],
+    "tokens": {
+      "count": 5454,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:45.976130",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "medium"
+    }
+  }
+}

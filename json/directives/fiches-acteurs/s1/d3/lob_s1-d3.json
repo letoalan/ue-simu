@@ -1,0 +1,757 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne en défendant l'innovation technologique, le libre accès aux données et l'intégration des outils numériques dans tous les secteurs économiques, y compris l'agriculture. Big Tech agit comme un acteur clé pour moderniser les infrastructures agricoles via la digitalisation tout en négociant des compromis sur la réglementation des données et la protection de la propriété intellectuelle.",
+    "enjeux_directive": [
+      "Promouvoir l’utilisation des outils numériques et de données pour optimiser la gestion agricole.",
+      "Développer la précision agricole via IoT et intelligence artificielle.",
+      "Soutenir l’innovation technologique dans l’agriculture durable.",
+      "Assurer un cadre réglementaire favorable à la collecte, au traitement et à la circulation des données agricoles, tout en respectant les normes de confidentialité.",
+      "Encourager la collaboration entre le secteur technologique et les acteurs agricoles pour moderniser l’industrie alimentaire.",
+      "Éviter une réglementation trop contraignante sur l’utilisation des algorithmes d’intelligence artificielle dans les pratiques agricoles."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés, notamment en matière d’intégration technologique dans l’agriculture.",
+      "Big Tech se positionne comme un acteur majeur dans la transition numérique des secteurs agricoles, avec une influence croissante sur les politiques européennes."
+    ],
+    "impacts_amendements": [
+      "Les amendements liés à la numérisation de l’agriculture et au développement technologique pourraient renforcer la position dominante de Big Tech sur le marché européen.",
+      "Cependant, les restrictions potentielles sur l’accès aux données ou les réglementations strictes sur l’intelligence artificielle pourraient limiter leur influence."
+    ],
+    "stratégie": "Big Tech adopte une stratégie multi-volets pour influencer la législation européenne. Elle combine des initiatives collaboratives avec d'autres secteurs (comme l'automobile ou les énergies propres) pour promouvoir l'intégration technologique dans l'agriculture, tout en défendant un cadre réglementaire favorable à la concurrence et à l'innovation. Lors des négociations, Big Tech privilégie une approche proactive, cherchant à intégrer ses technologies (IA, IoT) dans les politiques agricoles européennes. Elle s'appuie sur des alliances stratégiques avec des acteurs européens comme le PPE et les Verts/ALE pour défendre des objectifs communs en matière de modernisation sectorielle. En cas de conflits d'intérêts, Big Tech préfère négocier des compromis plutôt que de s'opposer directement, tout en maintenant une position ferme sur les questions liées aux données et à la propriété intellectuelle.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien innovation technologique + modernisation infrastructures)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Agrochimie (réticence à la réduction des pesticides et soutien aux méthodes traditionnelles)"
+    ],
+    "éléments_d_argumentaire": [
+      "Big Tech défend l'intégration de l'agriculture intelligente via l'IoT et l'intelligence artificielle pour optimiser les rendements agricoles tout en réduisant l'empreinte environnementale.",
+      "La technologie permet d'améliorer la traçabilité des produits agricoles, renforçant ainsi la confiance des consommateurs européens et facilitant l'accès aux marchés internationaux.",
+      "Big Tech insiste sur l'importance de la libre circulation des données agricoles pour accélérer les innovations technologiques, tout en proposant un cadre réglementaire strict pour protéger la vie privée des agriculteurs.",
+      "L'industrie du numérique et l'agriculture peuvent s'appuyer sur une collaboration étroite pour réduire les coûts de production agricole grâce à l'automatisation et aux outils de gestion des ressources.",
+      "Big Tech propose un partenariat stratégique avec le secteur automobile pour déployer des solutions logistiques numériques qui favorisent la distribution des produits agricoles sur tout le territoire européen.",
+      "Le lobby technologique défend un cadre réglementaire favorable à l'innovation, en soulignant que trop de contraintes légales pourraient freiner l'utilisation des outils numériques dans les secteurs agricoles."
+    ],
+    "références": [
+      "s1d3.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre réglementation stricte de la propriété intellectuelle et innovation technologique. Évaluer impact des restrictions sur l'accès aux données agricoles pour les PME technologiques. Surveillance nécessaire des conflits potentiels avec le secteur agrochimie, notamment en matière de réduction des pesticides.",
+    "scenario_id": 1,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T15:32:24.547524",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-3A",
+        "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+        "position": "FAVORABLE",
+        "justification": "Big Tech s'aligne sur cet amendement car il favorise un développement agricole durable compatible avec les outils numériques. Une agriculture biologique plus développée permettrait une meilleure collecte de données et l'utilisation d'algorithmes d'intelligence artificielle pour optimiser la production.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+      },
+      {
+        "amendement": "1-3B",
+        "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement car une réduction trop rapide des pesticides pourrait limiter l'utilisation de certains outils technologiques qui en dépendent. Cependant, elle est prête à négocier un cadre réglementaire progressif.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+      },
+      {
+        "amendement": "1-3C",
+        "titre": "Créer un fonds d’innovation pour la santé des sols",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement conditionnellement à l'inclusion de technologies numériques dans le fonds. Elle propose que les subventions soient allouées aux entreprises technologiques développant des outils pour la santé des sols.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols"
+      },
+      {
+        "amendement": "1-3D",
+        "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie cet amendement car il favorise l'utilisation de plateformes numériques pour optimiser les circuits d'approvisionnement locaux. Cela renforce son rôle dans la distribution agricole et réduit les coûts logistiques.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+      },
+      {
+        "amendement": "1-3E",
+        "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech s'aligne sur cet amendement, à condition que les subventions soient associées à des technologies d'optimisation agricole. Elle propose un cadre réglementaire qui encourage l'utilisation de l'IoT dans l'agriculture conventionnelle.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+      },
+      {
+        "amendement": "1-3F",
+        "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car elle considère que le numérique doit être accessible à toutes les tailles de structures agricoles. L'assouplissement des conditions d'accès faciliterait l'utilisation des outils technologiques par les petites exploitations.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+      },
+      {
+        "amendement": "1-3G",
+        "titre": "Inclure un soutien spécifique à l’irrigation durable",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech s'appuie sur cet amendement conditionnellement à la mise en place d'outils numériques pour gérer l'eau. Elle propose que les subventions soient allouées aux projets intégrant des solutions technologiques comme l'IoT ou le big data.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable"
+      },
+      {
+        "amendement": "1-3H",
+        "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement car un report de l'objectif pourrait nuire à la mise en place d'outils numériques et technologiques visant à remplacer les pesticides. Elle préfère un cadre réglementaire progressif mais structuré.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des énergies fossiles et cherche à influencer la législation européenne, notamment en défendant une transition énergétique progressive, en protégeant les emplois dans les industries traditionnelles et en limitant les contraintes réglementaires sur les combustibles fossiles.",
+    "enjeux_directive": [
+      "Mobilisation des ressources pour le financement des infrastructures énergétiques existantes (centrales à charbon, gazoducs).",
+      "Défense d’un rythme de réduction des émissions aligné sur les réalités économiques et technologiques des pays producteurs.",
+      "Protéger les secteurs industriels dépendants des énergies fossiles (acier, chimie) contre les coûts de transition abrupte.",
+      "Influence sur la fiscalité et les subventions publiques pour maintenir le compétitivité du secteur face aux énergies renouvelables."
+    ],
+    "impacts_directive": [
+      "La directive pourrait accélérer la fin des soutiens publics au charbon, menaçant l’emploi dans certaines régions (notamment en Pologne et en Hongrie).",
+      "Les mesures de transition écologique radicale pourraient augmenter les coûts de production dans les industries liées aux énergies fossiles.",
+      "La directive pourrait renforcer la pression sur les États membres pour abandonner les combustibles fossiles, affectant les entreprises du secteur (ex. : lobbies liés au gaz et au charbon)."
+    ],
+    "stratégie": "Énergies Fossiles adopte une stratégie de lobbying ciblé en s’appuyant sur des alliances stratégiques avec des pays dépendants des énergies fossiles (comme la Pologne) et des partis favorables à une transition modérée (PPE, Conservateurs). Le lobby mobilise également les lobbies économiques (Automobile, Banque) pour défendre les intérêts des secteurs industriels. En parallèle, il cherche à retarder ou atténuer les mesures contraignantes de la directive en s’opposant aux amendements ambitieux liés au décarbonage accéléré. L’alliance avec le lobby Big Tech permet de promouvoir une transition technologique qui intègre les énergies fossiles (ex : gaz naturel comme carburant intermédiaire). La stratégie inclut également des campagnes d’information ciblées pour sensibiliser aux risques économiques associés à la disparition prématurée du secteur.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien transition modérée + protection secteurs économiques traditionnels)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "S&D (priorité écologique + objectifs climatiques ambitieux)",
+      "Verts/ALE (soutien transition écologique + réduction de l’énergie fossile)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit être progressive pour éviter un chômage massif dans les régions dépendantes des combustibles fossiles (ex. : Pologne, Hongrie).",
+      "Les technologies existantes doivent continuer à être soutenues économiquement pour garantir la sécurité énergétique de l’UE.",
+      "La concurrence mondiale exige une industrialisation du secteur énergétique qui intègre les énergies fossiles (ex. : gaz naturel pour des usages intermédiaires).",
+      "Les subventions publiques doivent rester disponibles pour les entreprises en transition, évitant un déséquilibre économique dans certaines régions.",
+      "Le développement de l’hydrogène vert doit se faire en concertation avec les acteurs du secteur fossile (ex. : réutilisation des infrastructures existantes).",
+      "Les investissements dans les énergies renouvelables doivent être accompagnés d’un plan de restructuration pour les régions touchées par la fin des combustibles fossiles.",
+      "La directive doit permettre une coexistence entre les énergies renouvelables et les énergies traditionnelles, en évitant un abandon prématuré des technologies existantes."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-3A",
+        "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure réduit les financements directs aux secteurs agricoles conventionnels, qui dépendent de la disponibilité d’énergies fossiles (ex. : fertilisants synthétiques). Cela pourrait affecter l’efficacité économique des chaînes agroalimentaires traditionnelles.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+      },
+      {
+        "amendement": "1-3B",
+        "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Les contraintes liées aux pesticides affectent l’industrie agrochimique, qui dépend des énergies fossiles pour la production de certains produits chimiques. Cependant, une réduction progressive serait acceptable si elle s’accompagne d’un soutien technologique.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+      },
+      {
+        "amendement": "1-3C",
+        "titre": "Créer un fonds d’innovation pour la santé des sols",
+        "position": "NEUTRE",
+        "justification": "Ce fonds pourrait indirectement bénéficier aux secteurs liés aux énergies fossiles si les innovations en matière de gestion des sols sont alignées sur les besoins du secteur agricole conventionnel.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols"
+      },
+      {
+        "amendement": "1-3D",
+        "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure favoriserait une réduction des dépendances aux énergies fossiles liées au transport longue distance. Cependant, elle doit être accompagnée de politiques qui préservent l’efficacité des chaînes d’approvisionnement existantes.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+      },
+      {
+        "amendement": "1-3E",
+        "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+        "position": "FAVORABLE",
+        "justification": "Cela permettrait de préserver les secteurs agricoles dépendants des énergies fossiles (ex. : production de fertilisants synthétiques) sans compromettre la transition écologique.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+      },
+      {
+        "amendement": "1-3F",
+        "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure pourrait renforcer la compétitivité des petites exploitations, qui dépendent souvent de l’agriculture conventionnelle. Cependant, elle doit être encadrée pour éviter un usage non optimisé des aides.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+      },
+      {
+        "amendement": "1-3G",
+        "titre": "Inclure un soutien spécifique à l’irrigation durable",
+        "position": "NEUTRE",
+        "justification": "Cela pourrait indirectement bénéficier aux secteurs agricoles dépendants des énergies fossiles, mais son impact sur le lobby est limité. Une approche neutre semble prudente.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable"
+      },
+      {
+        "amendement": "1-3H",
+        "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+        "position": "FAVORABLE_PARTIEL",
+        "justification": "Cela permettrait un alignement plus progressif avec les capacités technologiques et économiques actuelles, tout en maintenant une trajectoire d’évolution vers des pratiques agricoles moins polluantes.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040"
+      }
+    ],
+    "références": [
+      "s1d3.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller la résistance de Pologne à la fermeture prématurée des centrales à charbon (secteur économique clé) et les tensions avec les partis écologistes (Verts/ALE, S&D). Évaluer l’impact des mesures sur les régions dépendantes du gaz et du charbon. Recommander un suivi renforcé des négociations entre le lobby automobile et les directives climatiques.",
+    "scenario_id": 1,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T15:50:26.553503",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne. Son rôle est de promouvoir des politiques favorables aux institutions financières, d'assurer une régulation stable et prévisible, et d'encourager l'innovation technologique tout en gérant les risques liés à la transition écologique.",
+    "enjeux_directive": [
+      "Financement des projets agricoles durables et de l'innovation verte",
+      "Promotion des instruments financiers verts adaptés au secteur agricole",
+      "Gestion des risques climatiques pour les institutions bancaires",
+      "Harmonisation des normes réglementaires entre États membres",
+      "Accès au financement des PME et des startups technologiques"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance, notamment en matière de conformité aux objectifs climatiques.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés par les mesures liées à l'innovation verte et au financement des projets durables."
+    ],
+    "stratégie": "La stratégie de Banque et Finance consiste à influencer la législation européenne en favorisant des politiques qui encouragent le développement de secteurs innovants tout en maintenant une régulation stable. Elle vise à renforcer les partenariats avec les secteurs agricoles et technologiques pour promouvoir l'innovation verte, tout en s'assurant que les mesures prises ne pénalisent pas la compétitivité des institutions financières. L'alliance avec des acteurs clés comme la France, l'Italie, les Verts/ALE et le lobby Big Tech permet de renforcer son influence sur les décisions politiques européennes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les institutions financières doivent jouer un rôle clé dans le financement de la transition écologique, ce qui nécessite des incitations fiscales et réglementaires adaptées.",
+      "L'innovation technologique, notamment en matière de banque numérique, doit être encouragée pour renforcer la compétitivité européenne.",
+      "La régulation des secteurs financiers doit rester rigoureuse pour éviter les risques systémiques liés aux transitions économiques rapides.",
+      "Les mesures climatiques doivent être alignées avec les capacités d'investissement des banques, qui dépendent de la stabilité des marchés internationaux.",
+      "Le financement des PME agricoles et technologiques doit être facilité pour stimuler l'économie réelle tout en respectant les objectifs climatiques européens.",
+      "Les normes réglementaires doivent être harmonisées entre États membres pour éviter les distorsions de concurrence au sein du marché unique.",
+      "La France et l'Italie sont des alliés stratégiques, car leur expertise en matière d'innovation verte et de financement public peut renforcer la position de Banque et Finance dans les négociations européennes."
+    ],
+    "références": [
+      "s1d3.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre régulations climatiques strictes et compétitivité des banques européennes (ex. Deutsche Bank, BNP Paribas). Évaluer impact des mesures de subventions agricoles sur la stabilité financière sectorielle. Recommander renforcer dialogue avec les partis S&D et Verts/ALE pour aligner objectifs climatiques et financement public.",
+    "scenario_id": 1,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T16:06:50.964882",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-3A",
+        "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+        "position": "FAVORABLE",
+        "justification": "L'augmentation de la part des subventions à l'agriculture biologique favorise le financement des projets agricoles durables, ce qui est en alignement avec les objectifs climatiques européens. Cela permettrait également d'accroître la capacité du secteur bancaire à investir dans des infrastructures agricoles modernes.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+      },
+      {
+        "amendement": "1-3B",
+        "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La conditionnalité des aides à la réduction des pesticides peut être acceptée si elle est accompagnée d'incitations fiscales pour les banques qui financent des projets agricoles durables. Cela encouragerait une transition écologique responsable sans pénaliser le secteur financier.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+      },
+      {
+        "amendement": "1-3C",
+        "titre": "Créer un fonds d’innovation pour la santé des sols",
+        "position": "FAVORABLE",
+        "justification": "La création d’un fonds dédié à l’innovation dans le domaine de la santé des sols pourrait stimuler l’émergence de nouvelles technologies agricoles, ce qui est bénéfique pour les institutions financières souhaitant investir dans des secteurs innovants.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols"
+      },
+      {
+        "amendement": "1-3D",
+        "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Le soutien aux circuits courts favorise l’émergence d’entreprises locales, ce qui peut renforcer la stabilité économique et réduire les risques financiers liés à la dépendance des chaînes d’approvisionnement mondiales.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+      },
+      {
+        "amendement": "1-3E",
+        "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+        "position": "NEUTRE",
+        "justification": "La maintien d’une part de subventions pour l’agriculture conventionnelle est nécessaire pour éviter un impact négatif sur les secteurs agricoles traditionnels, tout en permettant aux banques de continuer à investir dans ces domaines sans compromettre leur rentabilité.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+      },
+      {
+        "amendement": "1-3F",
+        "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "position": "FAVORABLE",
+        "justification": "L’assouplissement des conditions d’accès aux aides permettrait de soutenir davantage d’entreprises agricoles, ce qui pourrait renforcer la résilience du secteur agricole et favoriser l’émergence de nouvelles opportunités d’investissement pour les banques.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+      },
+      {
+        "amendement": "1-3G",
+        "titre": "Inclure un soutien spécifique à l’irrigation durable",
+        "position": "FAVORABLE",
+        "justification": "Le soutien à l’irrigation durable est crucial pour préserver les ressources en eau tout en favorisant la productivité agricole. Cela pourrait également renforcer l’attractivité des investissements dans le secteur agricole parmi les institutions financières.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable"
+      },
+      {
+        "amendement": "1-3H",
+        "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le report de l'objectif de réduction des pesticides jusqu'en 2040 pourrait ralentir la transition écologique et augmenter les risques environnementaux. Cependant, si cette mesure est accompagnée d'une réglementation plus stricte sur les alternatives agricoles durables, elle pourrait être acceptée.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Maintien d’un cadre favorable à l’utilisation de certaines substances chimiques.",
+      "Pressions pour ajustement des objectifs et délais de réduction des pesticides.",
+      "Protection des brevets et des innovations agrochimiques face aux réglementations écologiques strictes.",
+      "Accès au marché européen des produits agricoles conventionnels non transformés.",
+      "Impact des subventions conditionnelles sur la compétitivité du secteur dans les marchés internationaux."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés.",
+      "Réduction potentielle de la demande en produits chimiques agricoles si les objectifs de transition écologique s’accélèrent."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie mixte combinant lobbying actif auprès des institutions européennes, partenariats stratégiques avec des pays producteurs agricoles et des lobbyistes pro-industrie, ainsi qu'une défense technique des normes agrochimiques existantes. Elle priorise la négociation pour reporter les délais de réduction des pesticides, maintenir un équilibre entre subventions aux cultures conventionnelles et biologiques, et promouvoir l'innovation dans les produits chimiques agricoles moins polluants. Parallèlement, elle renforce ses alliances avec des pays comme la Pologne et l'Italie pour défendre des politiques moins restrictives en matière d'utilisation de pesticides, tout en s'opposant fermement aux amendements qui encadrent trop strictement les pratiques agricoles conventionnelles. La stratégie vise à préserver la rentabilité du secteur tout en évitant une fragmentation excessive des marchés européens.",
+    "alliances": [
+      "France (partage objectif de maintenir un équilibre entre subventions aux cultures conventionnelles et biologiques)",
+      "Italie (collaboration sur les politiques agricoles et les conditions d'accès aux aides pour les exploitations familiales)",
+      "PPE (soutien à des délais plus progressifs dans la réduction des pesticides)",
+      "S&D (privilège des investissements régions défavorisées, alignés avec les intérêts du secteur agrochimique)",
+      "Énergies fossiles (partage d’intérêts économiques et de résistance à la transition écologique radicale)",
+      "Big pharma (soutien à la recherche et au développement de produits chimiques moins polluants)",
+      "Banque (financement des investissements structuraux dans le secteur agricole)"
+    ],
+    "oppositions": [
+      "Verts/ALE (défense d’une transition écologique rapide et sans compromis sur les objectifs climatiques)",
+      "Conservateurs (préférence pour une approche plus modérée en matière de réglementation environnementale)",
+      "Hongrie (opposition aux mesures visant à réduire l'utilisation des pesticides, prétextant un besoin de sécurité alimentaire)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'agriculture conventionnelle reste la base de la production alimentaire européenne et doit être soutenue pour garantir la sécurité alimentaire.",
+      "Les réglementations trop strictes sur les pesticides risquent d’entraîner une perte de compétitivité des agriculteurs européens face aux marchés non réglementés à l'international.",
+      "La réduction excessive des pesticides pourrait menacer la rentabilité du secteur agrochimique et affecter les emplois liés à cette filière.",
+      "Les subventions conditionnelles, si elles ne sont pas bien conçues, risquent de pénaliser les exploitants agricoles en difficulté, surtout dans les zones rurales défavorisées.",
+      "L’innovation agrochimique permet d’améliorer la productivité des sols et d’atteindre les objectifs climatiques, contrairement à une approche uniquement basée sur l’agriculture biologique.",
+      "Les mesures favorisant l’agriculture biologique doivent être accompagnées de politiques visant à moderniser les pratiques agricoles conventionnelles et non à les supprimer."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-3A",
+        "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cette proposition car elle risque de déplacer les investissements vers une agriculture moins productive, ce qui pourrait nuire à la compétitivité des cultures conventionnelles et affecter les exploitations agricoles en difficulté. Une telle mesure ne garantirait pas non plus un équilibre durable entre les deux modèles agricoles.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+      },
+      {
+        "amendement": "1-3B",
+        "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose à cet objectif trop ambitieux, car une telle réduction pourrait menacer la sécurité alimentaire et la productivité agricole. Cependant, elle accepte un compromis avec des délais plus longs ou des mesures d’accompagnement pour les exploitants.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+      },
+      {
+        "amendement": "1-3C",
+        "titre": "Créer un fonds d’innovation pour la santé des sols",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cette proposition à condition que le financement soit équilibré entre les pratiques agricoles conventionnelles et biologiques. Cela permettrait de promouvoir l'innovation sans sacrifier la productivité actuelle.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols"
+      },
+      {
+        "amendement": "1-3D",
+        "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cet amendement, car il n’a pas d’impact direct sur son secteur. Cependant, elle suggère une collaboration entre les deux modèles agricoles pour améliorer la relocalisation des productions sans compromettre la qualité et la sécurité alimentaire.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+      },
+      {
+        "amendement": "1-3E",
+        "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie défend fermement cette proposition, car elle permet de préserver la viabilité économique des agriculteurs dépendant des pratiques conventionnelles. Une réduction excessive des subventions pourrait menacer la production agricole et affecter les marchés européens.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+      },
+      {
+        "amendement": "1-3F",
+        "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cette mesure car elle favorise l’inclusion des petits exploitants dans les politiques agricoles, ce qui renforce la résilience du secteur global. Cela permet également d’éviter une fragmentation excessive des marchés agricoles.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+      },
+      {
+        "amendement": "1-3G",
+        "titre": "Inclure un soutien spécifique à l’irrigation durable",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie appuie cette proposition à condition que les pratiques d'irrigation soient compatibles avec les normes actuelles de gestion des produits chimiques agricoles. Cela permettrait une synergie entre la conservation des sols et l’utilisation rationnelle des ressources.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable"
+      },
+      {
+        "amendement": "1-3H",
+        "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car il permet un délai supplémentaire pour l’adaptation des pratiques agricoles. Cela éviterait une transition brutale qui pourrait nuire à la production agricole et affecter les exploitations dépendant des pesticides actuels.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040"
+      }
+    ],
+    "références": [
+      "s1d3.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller la tension entre l'agriculture conventionnelle et les politiques de transition écologique radicale. Évaluer l’impact des subventions conditionnelles sur les petits exploitants, notamment en Pologne et dans le sud de l'Italie. Surveiller les dynamiques industrielles liées à la concurrence avec le secteur biologique.",
+    "scenario_id": 1,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T17:32:15.673587",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne, notamment en matière de régulation des produits chimiques, d'innovation technologique, et de financement de la recherche médicale.",
+    "enjeux_directive": [
+      "Développement de produits phytosanitaires durables et sûrs.",
+      "Promotion de la recherche en santé environnementale liée à l’agriculture.",
+      "Accès aux marchés européens pour les innovations pharmaceutiques.",
+      "Impact des réglementations sur la production industrielle et le financement de la R&D.",
+      "Sécurité des médicaments dans le cadre des politiques climatiques.",
+      "Collaboration avec les secteurs agricoles pour réduire l'empreinte écologique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique, notamment sur la réglementation des produits chimiques et la recherche en santé.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés par les mesures liées à l'innovation et à la durabilité."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie multilatérale visant à influencer la législation européenne en soulignant le rôle clé du secteur dans la santé publique, l'innovation technologique, et la recherche médicale. Il s'appuie sur des alliances avec des pays leaders en innovation (comme la France et l'Italie) ainsi que des partis favorables à la croissance économique (PPE, S&D). En parallèle, il défend des positions modérées sur les amendements environnementaux pour éviter de trop rigidifier les réglementations industrielles. L'objectif est d'équilibrer les exigences climatiques et l'innovation pharmaceutique tout en maintenant un accès suffisant aux marchés européens.",
+    "alliances": [
+      "France (collaboration sur l'innovation technologique et la recherche médicale)",
+      "Italie (partage des objectifs de développement durable dans les secteurs industriels)",
+      "PPE (soutien à la croissance économique et aux investissements dans le secteur pharmaceutique)",
+      "S&D (priorité donnée aux recherches en santé publique et à l'accès aux médicaments)",
+      "Big Tech (synergies en matière d'innovation numérique et de biotechnologie)",
+      "Automobile (collaboration sur les projets de durabilité industrielle et les infrastructures vertes)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la réglementation stricte des produits chimiques et aux mesures environnementales)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt qu'immédiate)",
+      "Énergies fossiles (lobbies centrales charbon opposés à toute mesure restrictrice du secteur industriel)"
+    ],
+    "éléments_d_argumentaire": [
+      "La réglementation stricte des produits chimiques pourrait freiner la R&D et limiter l'accès aux innovations pharmaceutiques.",
+      "Les mesures environnementales doivent être équilibrées pour ne pas compromettre les investissements dans le secteur de la santé.",
+      "Le soutien à l'innovation technologique est essentiel pour maintenir la compétitivité européenne du secteur pharmaceutique.",
+      "Les amendements visant à réduire les pesticides doivent être accompagnés de solutions alternatives viables et testées par le secteur.",
+      "L'accès aux marchés européens dépend directement des politiques réglementaires et des normes imposées par la directive.",
+      "Le financement de la recherche médicale doit rester un enjeu prioritaire pour garantir l'innovation dans les domaines de la santé publique.",
+      "Les entreprises pharmaceutiques peuvent contribuer à la transition écologique via des innovations durables, mais nécessitent un cadre réglementaire flexible.",
+      "La collaboration entre le secteur pharmaceutique et l'agriculture est cruciale pour développer des solutions éco-responsables."
+    ],
+    "références": [
+      "s1d3.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur pharmaceutique et les réglementations environnementales. Évaluer l'impact des mesures climatiques sur la production industrielle (notamment en Allemagne, France). Équilibrer les exigences de durabilité avec la croissance économique du secteur.",
+    "scenario_id": 1,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T17:14:36.237589",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-3A",
+        "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement favorise les pratiques agricoles durables, ce qui peut réduire l'impact environnemental des pesticides et ainsi indirectement améliorer la santé publique. La pharmacie a un intérêt à soutenir une agriculture plus écologique pour limiter les risques sanitaires liés aux substances chimiques.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+      },
+      {
+        "amendement": "1-3B",
+        "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La réduction des pesticides est bénéfique pour l'environnement, mais doit être accompagnée de recherches et de solutions alternatives. Le secteur pharmaceutique propose de financer la R&D sur les produits biologiques alternatifs pour assurer une transition progressive.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+      },
+      {
+        "amendement": "1-3C",
+        "titre": "Créer un fonds d’innovation pour la santé des sols",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds pourrait stimuler l'innovation dans les secteurs de la biologie et de la chimie, ce qui bénéficie directement aux entreprises pharmaceutiques. Il permettrait également d'atténuer les effets négatifs des pesticides sur l'environnement.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols"
+      },
+      {
+        "amendement": "1-3D",
+        "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "position": "NEUTRE",
+        "justification": "Bien que ce soutien puisse favoriser une économie locale, il peut avoir un impact limité sur le secteur pharmaceutique. Cependant, l'industrie peut contribuer à ces initiatives en développant des solutions logistiques et technologiques innovantes.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+      },
+      {
+        "amendement": "1-3E",
+        "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La maintenance des subventions à l'agriculture conventionnelle pourrait entraver la transition vers des pratiques plus durables. Cependant, le secteur pharmaceutique propose une compensation via des investissements dans la recherche de substituts non chimiques.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+      },
+      {
+        "amendement": "1-3F",
+        "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "position": "FAVORABLE",
+        "justification": "L'assouplissement des conditions permettrait une meilleure adoption de pratiques durables par les petites exploitations, ce qui réduit l'impact environnemental et améliore la santé publique. Le secteur pharmaceutique s'engage à collaborer sur ces initiatives.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+      },
+      {
+        "amendement": "1-3G",
+        "titre": "Inclure un soutien spécifique à l’irrigation durable",
+        "position": "FAVORABLE",
+        "justification": "L'irrigation durable est essentielle pour la protection des sols et de l'eau. Le secteur pharmaceutique appuie cette mesure car elle peut favoriser l'innovation technologique dans les systèmes d'irrigation, ce qui a un impact positif sur ses propres opérations.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable"
+      },
+      {
+        "amendement": "1-3H",
+        "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+        "position": "DEFAVORABLE",
+        "justification": "Reporter la date d'échéance pourrait ralentir les progrès environnementaux et affecter la santé publique. Cependant, le secteur pharmaceutique propose de mettre en place des mesures alternatives pour accélérer la transition vers des pratiques non chimiques.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Défense des normes de sécurité routière pour les véhicules agricoles et industriels.",
+      "Soutien aux investissements dans les infrastructures de recharge électrique (bornes, réseaux de distribution).",
+      "Protection des emplois du secteur automobile face à la transition écologique radicale.",
+      "Promotion des technologies hybrides comme alternative intermédiaire à l'électrique pur pour les régions rurales."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés."
+    ],
+    "stratégie": "L'acteur Automobile adopte une stratégie de défense sectorielle combinée à des alliances transversales. Il privilégie la négociation sur les normes techniques (sécurité, émissions) tout en s'appuyant sur des partenariats avec des acteurs industrialisés comme l'Allemagne et la France pour renforcer sa position dans les comités sectoriels européens. Lobbies alliés comme Big Tech et Banque soutiennent des investissements dans l'innovation verte, tout en protégeant les intérêts du secteur automobile face aux mesures climatiques extrêmes. Le lobby mobilise des arguments économiques (sauvegarde d'emplois) et technologiques (transition progressive vers l'électrique), tout en évitant de se positionner sur les débats de fond liés à la réduction radicale des émissions.",
+    "alliances": [
+      "Allemagne (stratégie industrielle commune + investissements en R&D automobile)",
+      "France (collaboration sur normes européennes + financement infrastructures énergétiques)",
+      "PPE (soutien aux secteurs économiques clés de l'industrie européenne)",
+      "Verts/ALE (partenariat sur les technologies hybrides et mobilité durable)",
+      "S&D (priorité aux régions industrielles en transition écologique)",
+      "Big Tech (innovation numérique pour la logistique automobile et énergétique)",
+      "Banque (financement des projets de relocalisation industrielle)"
+    ],
+    "oppositions": [
+      "Hongrie (défense du charbon dans les secteurs manufacturiers)",
+      "Énergies fossiles (lobbies centrales à charbon - opposés aux mesures climatiques radicales)",
+      "Conservateurs (préférence pour une transition énergétique plus progressive)"
+    ],
+    "éléments_d_argumentaire": [
+      "Défense des normes de sécurité routière pour les véhicules agricoles et industriels, considérés comme essentiels aux économies rurales.",
+      "Soutien à la création d'infrastructures de recharge électrique, en particulier dans les zones industrielles et régions densément peuplées.",
+      "Protection des emplois du secteur automobile face à une transition écologique trop rapide, risquant de fragiliser l'économie industrielle européenne.",
+      "Promotion des technologies hybrides comme alternative intermédiaire à l'électrique pur pour les régions rurales, où la recharge est limitée.",
+      "Développement d'alliances stratégiques avec Big Tech et Banque pour financer l'innovation verte sans compromettre la compétitivité industrielle européenne.",
+      "Soutien aux mesures de flexibilité dans les normes énergétiques, permettant des transitions progressives vers l'électrique."
+    ],
+    "références": [
+      "s1d3.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre lobby automobile et partis écologistes sur la vitesse de transition. Évaluer impact des mesures climatiques radicales sur les régions industrielles (Allemagne, France). Surveiller compétition avec l'industrie aéronautique pour le financement des infrastructures vertes.",
+    "positions_amendements": [
+      {
+        "amendement": "1-3A",
+        "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'augmentation de 50% des subventions à l'agriculture biologique risque d'accélérer la dépendance du secteur agricole aux énergies non fossiles, impactant les chaînes logistiques automobiles. Cependant, le lobby reconnaît un besoin modéré de soutien pour les pratiques durables.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+      },
+      {
+        "amendement": "1-3B",
+        "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "position": "DEFAVORABLE",
+        "justification": "La condition de réduction de 30% des pesticides avant 2030 pourrait pénaliser les secteurs agricoles dépendants des cultures intensives, impactant la disponibilité des matières premières pour l'industrie automobile.",
+        "priorite": "faible",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+      },
+      {
+        "amendement": "1-3C",
+        "titre": "Créer un fonds d’innovation pour la santé des sols",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le fonds d'innovation pour la santé des sols pourrait bénéficier aux secteurs agricoles en améliorant la productivité. Cependant, le lobby exige que les subventions soient alignées avec les besoins industriels et logistiques du secteur automobile.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols"
+      },
+      {
+        "amendement": "1-3D",
+        "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Le soutien aux circuits courts favorise une réduction des coûts logistiques, bénéfique pour l'industrie automobile. Cependant, le lobby exige que les mesures soient compatibles avec les infrastructures existantes.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+      },
+      {
+        "amendement": "1-3E",
+        "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+        "position": "FAVORABLE",
+        "justification": "La maintenance d'une part de subventions pour l'agriculture conventionnelle est cruciale pour éviter un déséquilibre économique dans les régions agricoles, impactant indirectement le secteur automobile.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+      },
+      {
+        "amendement": "1-3F",
+        "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'assouplissement des conditions d'accès aux aides pourrait favoriser la croissance des petites exploitations agricoles, bénéfique à l'économie rurale. Cependant, le lobby exige une coordination avec les besoins industriels.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+      },
+      {
+        "amendement": "1-3G",
+        "titre": "Inclure un soutien spécifique à l’irrigation durable",
+        "position": "FAVORABLE",
+        "justification": "Le soutien à l'irrigation durable contribue à la durabilité des pratiques agricoles, bénéfique pour les chaînes logistiques automobiles. Le lobby exige un alignement avec les normes industrielles.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable"
+      },
+      {
+        "amendement": "1-3H",
+        "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le report de l'objectif de réduction des pesticides à 2040 permettrait une transition plus progressive, bénéfique pour les secteurs agricoles et industriels. Cependant, le lobby exige une surveillance stricte des impacts environnementaux.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T16:40:41.780496",
+    "version": "4.7"
+  }
+]

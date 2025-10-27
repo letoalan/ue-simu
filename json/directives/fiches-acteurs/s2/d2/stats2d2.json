@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 2,
+  "nom": "Défense commune européenne",
+  "valeurs_prevues": {
+    "normandie_eu": 88,
+    "vdem_eu": 0.87,
+    "pib_growth_eu": 1.4,
+    "idh_eu": 0.94
+  },
+  "amendements": [
+    {
+      "id": "2-2A",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 90,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.3,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-2B",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "normandie_eu": 89,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-2C",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "normandie_eu": 89,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.4,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-2D",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-2E",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-2F",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-2G",
+      "origine": "France",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.4,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-2H",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    }
+  ]
+}

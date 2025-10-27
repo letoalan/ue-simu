@@ -1,0 +1,759 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Accélérer la transition écologique vers la neutralité carbone d'ici 2045 en alignant les investissements européens sur des objectifs climatiques ambitieux.",
+      "Renforcer l'innovation et le déploiement de technologies vertes (hydrogène, énergies renouvelables) pour garantir la compétitivité industrielle européenne.",
+      "Assurer une répartition équitable des financements entre les régions défavorisées et les zones économiquement dynamiques pour préserver l'unité européenne.",
+      "Intégrer une approche juste de la transition énergétique, en protégeant les secteurs industriels stratégiques tout en évitant les délocalisations vers des pays non soumis à des normes environnementales strictes.",
+      "Consolider le rôle du nucléaire civil comme pilier complémentaire de la transition énergétique, notamment dans les pays où il est déjà ancré (comme l'Allemagne)."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Verts/Alliance Libre Européenne (Verts/ALE) adopte une stratégie axée sur la nécessité d'une trajectoire accélérée vers la neutralité carbone, en insistant particulièrement sur le financement climatique, l'innovation technologique verte et l'équilibre entre objectifs environnementaux et sociales. Le parti défend fermement une augmentation de la part du PIB investi dans la transition écologique à 2,5%, un moratoire sur les centrales à charbon et une priorisation des régions historiquement défavorisées. Il milite également pour l'expansion de l'hydrogène vert comme pilier énergétique, en s'appuyant sur la collaboration avec les pays du nord de l'Italie et l'Allemagne, leaders dans ces domaines. Parallèlement, Verts/ALE tente d'assurer une transition juste en protégeant des secteurs industriels stratégiques (comme l'automobile) tout en évitant un recours excessif aux énergies fossiles. Enfin, le parti vise à renforcer la cohésion européenne en s'opposant aux positions qui pourraient fragmenter les priorités climatiques, comme celles des Conservateurs ou de l'industrie du charbon.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Renouveau Européen (soutien innovation technologique verte)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (défiance nucléaire + protection secteur énergétique traditionnel)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition écologique est une opportunité de croissance économique et d'innovation technologique, en particulier pour les régions défavorisées.",
+      "Le financement climatique à hauteur de 2,5% du PIB permettra de moderniser l'économie européenne tout en garantissant la compétitivité industrielle.",
+      "La protection des secteurs stratégiques (comme l'automobile) est essentielle pour éviter les délocalisations vers des pays non soumis à des normes environnementales strictes.",
+      "Le moratoire sur les centrales à charbon doit être accompagné d'une transition juste et d'énergies alternatives fiables, comme le nucléaire ou l'hydrogène vert.",
+      "L'hydrogène vert représente un pilier essentiel pour la décarbonation industrielle et des transports, en particulier dans les pays européens leaders (Allemagne, Italie).",
+      "Les investissements ciblés vers les régions historiquement défavorisées renforceront l'unité européenne et permettront de réduire les disparités économiques.",
+      "La coopération entre acteurs privés (Big Tech, Automobile) et institutions publiques est cruciale pour accélérer la transition technologique verte.",
+      "Le nucléaire civil doit être considéré comme une solution complémentaire à l'hydrogène vert, en particulier dans les pays où il est déjà ancré."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) défend cet amendement comme pilier de sa stratégie climatique et de transition écologique. L'augmentation du financement à 2,5% du PIB permettra d'accélérer l'innovation technologique verte et la modernisation des infrastructures européennes, en particulier dans les régions historiquement défavorisées. Ce niveau d'investissement est nécessaire pour atteindre les objectifs climatiques ambitieux tout en préservant la compétitivité industrielle européenne.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) soutient cette proposition pour garantir une transition écologique équitable. Cibler les régions historiquement défavorisées permettra de réduire les disparités économiques et sociales tout en renforçant la cohésion européenne. Cette approche favorise également l'innovation dans ces zones, qui peuvent devenir des pôles d'excellence technologique verte.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "FAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) défend fermement ce moratoire pour accélérer la décarbonation de l'économie européenne. Il permettra de réduire les émissions de CO2 et d'encourager le développement des énergies renouvelables et du nucléaire civil. Cependant, cette mesure doit être accompagnée d'un plan de transition juste pour protéger les emplois liés aux secteurs traditionnels.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) soutient cette proposition pour positionner l'Europe comme leader mondial de la production d'hydrogène vert. Cet amendement permettra de stimuler l'innovation technologique dans ce secteur clé, particulièrement en collaboration avec des pays leaders comme l'Italie et l'Allemagne.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) s'oppose à cette réduction car elle affaiblirait la capacité de l'Europe à soutenir une transition écologique rapide et à concurrencer les pays non européens sur le marché des technologies vertes. Un niveau d'investissement inférieur à 2,5% du PIB risquerait de ralentir l'innovation et de fragiliser la compétitivité industrielle.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) s'oppose à cette exclusion dans la mesure où elle pourrait encourager les délocalisations vers des pays non soumis à des normes environnementales strictes. Cependant, le parti soutient une réforme progressive de l'aide aux secteurs industriels, en associant ces derniers à un plan de transition juste et durable.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) soutient cette proposition en tant que complément à une transition écologique équitable. Toutefois, elle insiste sur la nécessité d'équilibrer cet objectif avec l'efficacité des investissements et la capacité de ces secteurs locaux à se transformer vers des modèles économiques durables.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) soutient cette proposition comme élément complémentaire à l'hydrogène vert. Le nucléaire civil représente une solution clé pour certaines régions européennes, notamment en Allemagne et en Italie, où il est déjà ancré. Cependant, son développement doit être encadré par des normes de sécurité strictes.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre secteurs industriels (automobile, énergie) et objectifs climatiques. Position nucléaire délicate en Allemagne et Italie, où des résistances historiques existent dans certaines régions. Équilibrer transition écologique et compétitivité sectorielle, notamment pour les entreprises de l'automobile allemande (Volkswagen, BMW) et italienne (Fiat).",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T09:07:01.503535",
+    "version": "4.6"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates (S&D)",
+    "actor_id": "sd",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer justice sociale et cohésion territoriale.",
+      "Réduire les inégalités liées à la transition.",
+      "Protéger les régions vulnérables face aux impacts climatiques.",
+      "Promouvoir des investissements équitables en faveur de l'emploi local.",
+      "Renforcer les synergies entre transitions écologique et sociale."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Socialistes et Démocrates (S&D) adopte une approche transversale combinant des alliances stratégiques avec les partis progressistes, les pays industriels en transition énergétique et les lobbyings favorables à la justice sociale. L'objectif est de garantir que les mesures climatiques ne pénalisent pas les régions défavorisées ou les secteurs vulnérables. Parallèlement, le groupe s'engage à renforcer ses positions face aux acteurs opposés en mobilisant des arguments économiques solides et des alliés idéologiquement proches. La stratégie repose sur un double levier : la promotion d'une transition écologique inclusive (en collaboration avec les Verts/ALE) et la défense des intérêts socio-économiques des classes moyennes et ouvrières (via des alliances avec le PPE et les partis nationaux progressistes comme la France et l'Italie).",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'investissement à 2,5% du PIB permet de relancer les économies européennes tout en favorisant une transition écologique inclusive.",
+      "Prioriser les régions défavorisées évite la marginalisation des zones rurales et périurbaines, assurant une répartition équitable des bénéfices de la transition.",
+      "Le moratoire sur le charbon est nécessaire pour respecter les accords climatiques internationaux (Accord de Paris) et protéger la santé publique.",
+      "L'hydrogène vert doit être développé avec des investissements ciblés, en collaboration avec les pays leaders comme l'Italie et la Suède.",
+      "Réduire l'investissement à 1,5% du PIB pénaliserait les secteurs en difficulté (industrie lourde) sans garantir une transition équitable.",
+      "Exclure l'industrie lourde des subventions risque de fragiliser la compétitivité européenne, surtout face aux concurrents non occidentaux.",
+      "Prioriser l'emploi local renforce le tissu socio-économique des régions et réduit les tensions sociales liées à la transition.",
+      "Relancer le nucléaire civil permet d'accélérer la décarbonation tout en préservant la sécurité énergétique européenne."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "Cette augmentation est cruciale pour accélérer les transitions écologique et sociale en Europe. Elle permet d'investir davantage dans des projets durables qui bénéficient à la fois aux régions défavorisées et aux secteurs innovants, tout en maintenant un équilibre entre croissance économique et protection environnementale.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La cible des régions défavorisées est essentielle pour éviter une transition inéquitable. Cependant, il convient de garantir que ces investissements soient complétés par des mesures d'accompagnement sociale et économiques pour les populations concernées.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "FAVORABLE",
+        "justification": "Le moratoire sur les centrales à charbon est nécessaire pour atteindre les objectifs climatiques et protéger la santé publique. Il doit cependant être accompagné de plans d'adaptation pour les travailleurs du secteur et des mesures de compensation pour les régions dépendantes de ces infrastructures.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L'hydrogène vert représente un levier majeur pour la transition énergétique. Son développement doit être soutenu par des investissements ciblés et une coordination entre les pays leaders (Italie, Suède) et les acteurs industriels.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une réduction de l'investissement à 1,5% du PIB risque d'entraver la transition écologique et sociale. Elle devrait être compensée par des mesures fiscales ciblées ou des partenariats publics-privés pour éviter un frein économique.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de l'industrie lourde des subventions pénaliserait des secteurs stratégiques européens. Il est essentiel d'accompagner leur transition vers des pratiques durables plutôt que de les marginaliser.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "La priorisation de l'emploi local renforce la résilience des régions et réduit les tensions sociales liées à la transition. Elle doit être associée à une formation professionnelle adaptée pour garantir l'inclusion des travailleurs.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le nucléaire civil peut jouer un rôle clé dans la décarbonation européenne, à condition d'être accompagné de mesures strictes en matière de sécurité et de gestion des déchets. Il doit être développé en concertation avec les régions concernées.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur industriel lourd (ex. Allemagne, Pologne) et objectifs climatiques directive. Évaluer impact des mesures sur régions périurbaines (40% population européenne). Relancer dialogue avec partis conservateurs pour réduire oppositions sur moratoires énergétiques.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T08:31:39.381728",
+    "version": "4.6"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renew Europe",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Concilier innovation, efficacité économique et ambition écologique.",
+      "Assurer une transition juste pour les régions industrielles historiques (ex: bassin rhénan).",
+      "Renforcer la compétitivité des secteurs stratégiques (automobile, énergie) tout en respectant les objectifs climatiques.",
+      "Équilibrer les priorités entre investissements verts et préservation de l'emploi local."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renew Europe.",
+      "Le positionnement de Renew Europe reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Renew Europe adopte une approche pragmatique visant à concilier transition écologique, croissance économique et sécurité énergétique. Le parti milite pour des investissements ciblés dans les régions défavorisées tout en soutenant la modernisation industrielle via l'hydrogène vert et le nucléaire civil. Il prône un dialogue constructif avec les secteurs économiques clés (automobile, énergies) pour éviter des ruptures brutales, tout en maintenant une trajectoire ambitieuse vers la neutralité carbone 2045. La stratégie repose sur une alliance stratégique entre l'innovation technologique et la préservation de l'emploi local.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Soutien à la relance industrielle par le développement de l'hydrogène vert, secteur clé pour la compétitivité européenne.",
+      "Mise en avant des investissements ciblés dans les régions défavorisées comme levier d'équité territoriale et de cohésion sociale.",
+      "Défense du nucléaire civil comme pilier de la transition énergétique, notamment pour la France et l'Allemagne.",
+      "Préférence pour une transition progressive plutôt qu'une approche radicale, afin de préserver les emplois dans les secteurs traditionnels (charbon, métallurgie).",
+      "Partenariats stratégiques avec le secteur automobile pour moderniser la chaîne de production tout en maintenant la souveraineté industrielle européenne.",
+      "Rejet des mesures unilatérales comme l'exclusion de l'industrie lourde des subventions, considérée comme inadaptée à la réalité économique des pays membres."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre industriels (Volkswagen, Fiat) et objectifs climatiques. Évaluer impacts des mesures sur les régions industrielles (ex: bassin rhénan). Surveiller répartition des fonds verts entre pays nordiques et méridionaux.",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "Renew Europe appuie cet amendement car il aligne avec sa vision d'une transition énergétique accélérée et renforce les investissements dans des secteurs clés comme l'hydrogène vert. Cela favorise la croissance verte tout en soutenant les régions économiquement fragiles.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renew Europe soutient cette approche conditionnellement à l'accompagnement des régions en transition, notamment celles dépendant de secteurs traditionnels. Cela permet d'éviter un élargissement des inégalités territoriales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renew Europe s'oppose partiellement à ce moratoire, préférant une transition progressive. Cela permet de préserver des emplois dans certaines régions industrielles tout en favorisant l'innovation technologique.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "Renew Europe appuie cet amendement, car le développement de l'hydrogène vert est un pilier stratégique pour la transition énergétique et la compétitivité industrielle européenne.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Renew Europe s'oppose à cette réduction car elle compromettrait la capacité de l'Union européenne à atteindre ses objectifs climatiques et à soutenir les régions économiquement fragiles.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renew Europe s'oppose partiellement à cette mesure, estimant que les secteurs industriels stratégiques doivent être soutenus dans leur transition vers des modèles plus durables.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renew Europe soutient cette priorité conditionnellement à une évaluation rigoureuse de son impact sur les secteurs économiques clés. Cela permet d'éviter un déclin industriel brutale.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE",
+        "justification": "Renew Europe appuie cet amendement, car le nucléaire civil est un pilier stratégique pour la transition énergétique et la sécurité d'approvisionnement en électricité.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T08:46:34.647249",
+    "version": "4.6"
+  },
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen (PPE)",
+    "actor_id": "ppe",
+    "role_europeen": "Porteur - Soutenir une transition fondée sur l’innovation dans l’hydrogène vert, tout en préservant la compétitivité industrielle et les modèles économiques traditionnels. Membre historique de la Commission européenne, le PPE défend des politiques européennes équilibrées entre croissance économique et durabilité environnementale.",
+    "enjeux_directive": [
+      "Accélération de la transition énergétique sans compromettre les secteurs industriels stratégiques",
+      "Mobilisation d'investissements massifs dans les technologies vertes (notamment hydrogène) pour stimuler l'économie européenne",
+      "Maintien de la souveraineté énergétique européenne via des solutions technologiques indépendantes (nucléaire, gaz naturel), tout en respectant les objectifs climatiques",
+      "Répartition équitable des financements entre régions défavorisées et zones économiquement dynamiques",
+      "Protection des intérêts de l'industrie européenne face à la concurrence mondiale (notamment dans les secteurs automobiles, aéronautiques et chimiques)",
+      "Préservation des modèles sociaux européens tout en favorisant l’innovation technologique"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen.",
+      "Le positionnement de Parti Populaire Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Jouer l'arbitrage entre politiques industrielles et pression politique. Le PPE adopte une approche centriste, cherchant à concilier les exigences climatiques ambitieuses des Verts avec la nécessité de préserver les secteurs économiques stratégiques (nucléaire, industries lourdes). Il s'appuie sur le consensus transatlantique et sur ses liens étroits avec les États-membres traditionnellement conservateurs pour bloquer les amendements jugés trop radicaux.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big pharma (favorise réglementation sectorielle modérée)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit s'appuyer sur des technologies existantes et éprouvées, comme le nucléaire, pour éviter les pertes de compétitivité industrielles.",
+      "Les investissements dans l'hydrogène vert doivent être accompagnés de mesures d'aide à la relance industrielle pour compenser les coûts élevés liés aux technologies innovantes.",
+      "La directive doit inclure des mécanismes de protection des régions économiquement fragiles, en particulier dans les pays du sud de l'Europe, pour éviter un élargissement des disparités territoriales.",
+      "Les secteurs industriels stratégiques (automobile, aéronautique) doivent être soutenus par des politiques européennes favorables à la concurrence mondiale et à la préservation des emplois locaux.",
+      "Le PPE défend une approche progressive dans la transition climatique pour éviter les chocs économiques brutaux et permettre aux pays de s'adapter en douceur.",
+      "Les financements européens doivent être attribués de manière équitable, en tenant compte des besoins spécifiques des États-membres et des secteurs clés.",
+      "La directive doit promouvoir l'innovation technologique tout en préservant les acquis sociaux et économiques des pays européens.",
+      "Les mesures climatiques doivent être alignées avec les objectifs de croissance économique européenne pour éviter une dégradation du niveau de vie des citoyens."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "À surveiller tensions industrie lourde (acier, chimie) face aux mesures climatiques et à la concurrence mondiale. Évaluer impact des restrictions sur les centrales charbon en Pologne et Hongrie. Surveiller équilibre entre ambitions climatiques et préservation de la souveraineté énergétique européenne.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T08:15:39.202022",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le Parti Populaire Européen (PPE) soutient cet amendement dans la mesure où il permet d'accélérer la transition énergétique et de stimuler l'économie européenne. Cependant, il exige que les investissements soient orientés vers des projets stratégiques pour l'industrie européenne, comme le développement du nucléaire civil ou l'hydrogène vert.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Le PPE considère qu'une répartition équitable des investissements européens entre toutes les régions est essentielle pour éviter une aggravation des inégalités territoriales. Cet amendement permet de renforcer la cohésion sociale et économique en Europe.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose à un moratoire immédiat sur les centrales à charbon, en particulier dans les pays comme la Hongrie ou la Pologne, où ces infrastructures jouent un rôle clé dans la sécurité énergétique nationale. Il préconise une transition progressive et conditionnée à des alternatives viables.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "Le Parti Populaire Européen (PPE) est l'initiateur de cet amendement, qui s'aligne parfaitement avec sa vision d'une Europe technologiquement leader et durable. Il vise à positionner l'Union européenne comme un acteur majeur dans le développement des technologies d'hydrogène vert, tout en garantissant la compétitivité industrielle européenne.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à cette réduction des investissements européens, considérant qu'elle entraverait la transition énergétique et limiterait les opportunités de croissance économique dans les pays membres. Il préconise un taux d'investissement plus élevé pour stimuler l'économie européenne.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose à une exclusion totale de l'industrie lourde des subventions, en particulier pour les secteurs stratégiques comme le steel ou la chimie. Il préconise une approche différenciée selon les secteurs et les pays membres.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement, car il favorise la création d'emplois locaux dans les secteurs clés de l'économie européenne. Cela permet de renforcer l'autonomie économique des régions et de préserver le tissu social.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE défend la relance du nucléaire civil comme une solution essentielle pour atteindre les objectifs climatiques tout en garantissant la sécurité énergétique. Cependant, il exige des conditions strictes en matière de sûreté et de gestion des déchets radioactifs.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Non-porteur - Pragmatisme économique et prudence budgétaire.",
+    "enjeux_directive": [
+      "Médiation entre ambitions climatiques et soutien aux industries stratégiques",
+      "Rééquilibrage des investissements européens pour préserver la compétitivité industrielle",
+      "Protection des secteurs énergétiques traditionnels (charbon, nucléaire) face à une transition rapide",
+      "Défense d'une approche décentralisée dans la mise en œuvre de politiques sectorielles",
+      "Précaution budgétaire face aux objectifs élevés de financement climatique et énergétique"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes.",
+      "Le positionnement de Conservateurs et Réformistes reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "L'ECR adopte une approche centrale sur la subsidiarité, défendant un rôle limité de l'UE dans les politiques économiques et sociales. L'objectif est de garantir des marges de manœuvre aux États membres tout en soutenant des investissements ciblés pour relancer l'économie européenne. Priorité est donnée à la stabilité budgétaire, au protectionnisme modéré, et à l'intervention sectorielle dans les infrastructures stratégiques (transport, énergie). L'ECR prône une transition écologique progressive, alliant soutien à l'économie circulaire avec protection des secteurs industriels traditionnels. L'approche est pragmatique : coopérer sur les enjeux d'intérêt commun tout en refusant les transferts excessifs de compétences vers le niveau européen.",
+    "alliances": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (soutien à la stabilité budgétaire et aux politiques sectorielles)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)"
+    ],
+    "oppositions": [
+      "Verts/ALE (accord sur les objectifs climatiques modérés)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "éléments_d_argumentaire": [
+      "Précaution budgétaire face aux objectifs élevés de financement climatique et énergétique",
+      "Défense du nucléaire civil comme pilier de la transition énergétique durable",
+      "Protection des secteurs industriels stratégiques contre une régulation trop intrusive",
+      "Priorisation de l'innovation technologique sur les investissements structurels massifs",
+      "Soutien aux initiatives locales et régionales plutôt qu'à une gouvernance européenne centralisée",
+      "Mise en avant de la subsidiarité pour éviter les transferts excessifs de compétences vers le niveau européen",
+      "Défense d'une transition écologique progressive compatible avec la stabilité économique",
+      "Précaution sur les objectifs climatiques radicaux pouvant menacer la compétitivité industrielle"
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "Défavorable",
+        "justification": "L'augmentation de l'investissement à 2,5% du PIB ne peut être envisagée. Seul une part plus réduite pourra être orientée vers des fonds ciblés vers des secteurs stratégiques comme l'énergie et la transition numérique. Cela permettrait de relancer l'économie tout en maintenant un équilibre budgétaire.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les investissements ciblés vers les régions défavorisées peuvent stimuler l'économie locale tout en renforçant la cohésion territoriale. Toutefois, il convient de veiller à ne pas créer d'inégalités entre les régions.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE",
+        "justification": "Un moratoire sur les centrales à charbon pourrait affecter la sécurité énergétique de certains pays membres. Une transition progressive vers des sources d'énergie plus propres est préférable.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE_PARTIEL",
+        "justification": "L'hydrogène vert représente un levier majeur pour la transition énergétique. Un soutien accru à cette innovation favoriserait la création d'emplois et renforcerait la compétitivité européenne.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "FAVORABLE",
+        "justification": "Une réduction de l'investissement à 1,5% du PIB serait favorable aux objectifs de relance économique et de transition écologique modérée. Cela pourrait permettre la croissance et la compétitivité européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de l'industrie lourde des subventions pourrait fragiliser certains secteurs stratégiques. Une approche équilibrée, combinant soutien à la transition et préservation des emplois, est préférable.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "La priorisation de l'emploi local renforce la résilience économique et les liens sociaux. Cela permet de stimuler l'économie locale tout en favorisant l'inclusion sociale.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE",
+        "justification": "Le nucléaire civil est un pilier de la transition énergétique. Son relancement contribuerait à la sécurité énergétique européenne tout en réduisant les émissions de CO2.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions industrie allemande (Volkswagen, Siemens) et objectifs climatiques directive. Position nucléaire délicate (réticences historiques régions). Équilibrer transition énergétique et compétitivité secteur automobile.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T09:22:20.209175",
+    "version": "4.6"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Non-porteur - Critique des compromis insuffisants sur l'écologie.",
+    "enjeux_directive": [
+      "Accélération de la transition écologique et énergétique à l'échelle européenne",
+      "Réduction drastique des émissions de CO₂ dans les secteurs industriels et agricoles",
+      "Redéploiement des investissements européens vers les régions défavorisées et les projets d'innovation verte",
+      "Protection des intérêts des travailleurs dans le cadre de la transition industrielle",
+      "Mise en place d'une gouvernance renforcée pour l'hydrogène vert et les énergies renouvelables",
+      "Rôle du nucléaire civil dans la stratégie européenne d'énergie bas-carbone"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) adopte une approche radicale dans la négociation de la directive, combinant un plaidoyer ferme pour des objectifs climatiques ambitieux avec une vigilance particulière sur les impacts sociaux et régionaux de la transition écologique. Le parti met l'accent sur l'équité sociale en insistant sur l'importance d'une répartition juste des ressources européennes entre régions défavorisées et pays développés, tout en défendant un moratoire immédiat sur les centrales à charbon. En parallèle, il soutient fortement la relance de l'économie verte via des investissements massifs dans l'hydrogène vert et les énergies renouvelables, tout en exigeant une protection rigoureuse des secteurs industriels stratégiques (comme l'automobile) pendant cette transition. L'objectif est d'assurer que la directive ne soit pas un simple compromis politique mais un levier concret pour atteindre les objectifs climatiques de l'Union européenne tout en préservant la cohésion sociale.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'importance de mettre en place un moratoire immédiat sur les centrales à charbon pour accélérer la transition énergétique et réduire les émissions de CO₂ à l'échelle européenne.",
+      "La nécessité d'investir massivement dans des technologies d'hydrogène vert afin de stimuler la croissance verte et créer des emplois durables, tout en préservant la compétitivité industrielle européenne.",
+      "L'urgence de renforcer les investissements européens dans les régions défavorisées pour combattre l'inégalité régionale et favoriser une transition écologique inclusive.",
+      "La nécessité d'une gouvernance stricte sur la relance du nucléaire civil, en s'assurant que cette option reste compatible avec les objectifs climatiques à long terme.",
+      "L'importance de protéger les secteurs industriels stratégiques (comme l'automobile et l'agroalimentaire) pendant la transition énergétique afin d'éviter une perte massive d'emplois et de compétitivité européenne.",
+      "La nécessité d'une coopération étroite avec les acteurs du secteur technologique pour développer des infrastructures numériques capables de soutenir l'industrie verte et la transition écologique.",
+      "La préférence claire pour une approche radicale dans la transition énergétique, en insistant sur la nécessité d'accélérer les mesures climatiques sans attendre les compromis politiques."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs industriels et objectifs climatiques (automobile, agrochimie). Évaluer impact des mesures sur les régions Sud-Européennes. Surveiller éventuels conflits d'intérêts entre lobby de l'énergie fossile et propositions écologiques.",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-22T09:40:16.075953",
+    "version": "4.6",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement permettrait d'accélérer la transition écologique en augmentant significativement les investissements dans les énergies renouvelables et l'hydrogène vert. Cela correspond aux priorités du GUE/NGL de stimuler une économie verte à l'échelle européenne, tout en créant des emplois durables.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "La concentration des investissements dans les régions les plus touchées par la crise climatique et sociale est essentielle pour réduire l'inégalité territoriale. Cela renforce le positionnement du GUE/NGL sur une transition écologique équitable, en s'assurant que toutes les régions bénéficient de l'investissement européen.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "FAVORABLE",
+        "justification": "Un tel moratoire est conforme au positionnement radical du GUE/NGL contre les énergies fossiles. Il permettrait d'accélérer la transition vers des sources d'énergie plus durables et de réduire rapidement les émissions de CO₂ à l'échelle européenne.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L'hydrogène vert est une priorité clé pour le GUE/NGL. Cet amendement renforcerait les investissements européens dans ce secteur, permettant de stimuler l'économie verte et d'assurer la transition vers des énergies durables.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Cette réduction contrerait les objectifs climatiques ambitieux défendus par le GUE/NGL. Cela entraverait la transition écologique et limiterait l'impact des investissements européens sur la relance économique verte.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si le GUE/NGL soutient une transition écologique, il considère que les secteurs industriels stratégiques (comme l'automobile) doivent être accompagnés par des mesures de soutien pendant leur adaptation. Une exclusion immédiate pourrait nuire à la compétitivité européenne.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le GUE/NGL soutient cette idée à condition qu'elle soit accompagnée de mesures concrètes pour garantir la protection des emplois dans les secteurs touchés par la transition. Cela éviterait une perte massive d'emplois dans les régions industrielles.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le GUE/NGL soutient une relance du nucléaire civil uniquement si elle est compatible avec les objectifs climatiques à long terme. Il considère que cette option doit être complétée par des investissements massifs dans les énergies renouvelables.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ]
+  }
+]

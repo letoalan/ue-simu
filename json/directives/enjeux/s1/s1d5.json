@@ -1,0 +1,188 @@
+{
+  "directive": {
+    "id": "1-5",
+    "title": "Simplification et durabilité du reporting des entreprises",
+    "description": "Réforme des obligations de publication d’informations en matière de durabilité, allégée pour certaines entreprises, avec report de certaines échéances, visant à améliorer compétitivité, conformité et transition durable.",
+    "commission": {
+      "role": "Conçoit et défend une réforme modernisant les obligations de reporting, assurant transparence et responsabilité tout en réduisant la charge administrative.",
+      "enjeux": [
+        "Réduction de la complexité réglementaire pour les entreprises.",
+        "Clarification et harmonisation des échéances.",
+        "Assurer une mise en œuvre uniforme dans tous les États membres."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Exclusion des micro-entreprises du champ d’application.",
+        "enjeux": [
+          "Adapter les impératifs réglementaires aux capacités des micro-entreprises.",
+          "Préserver la compétitivité des petites structures."
+        ],
+        "strategie": "Promouvoir une différenciation claire dans les obligations selon la taille des entreprises."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Reporter de deux ans l’application pour les PME cotées.",
+        "enjeux": [
+          "Donner du temps aux PME pour s’adapter au reporting.",
+          "Éviter des contraintes trop précoces freinant la compétitivité."
+        ],
+        "strategie": "Promouvoir des délais adaptés à la capacité d’adaptation des PME."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Simplification des informations à publier pour entreprises de moins de 500 salariés.",
+        "enjeux": [
+          "Réduire la charge documentaire pour les petites entreprises.",
+          "Faciliter la conformité tout en garantissant un minimum d’information."
+        ],
+        "strategie": "Favoriser une simplification opérationnelle pragmatique."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Permettre une flexibilité nationale dans la mise en œuvre.",
+        "enjeux": [
+          "Respecter les spécificités nationales dans la mise en œuvre.",
+          "Garantir un cadre adaptable selon les contextes locaux."
+        ],
+        "strategie": "Insister sur la subsidiarité et la flexibilité réglementaire."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non porteur",
+        "position": "Supporte globalement le reporting avec vigilance sur la charge pour les entreprises.",
+        "enjeux": [
+          "Assurer transparence sans surcharger les acteurs économiques.",
+          "Encourager le reporting numérique innovant."
+        ]
+      },
+      {
+        "name": "Suède",
+        "role": "Non porteur",
+        "position": "Soutient la simplification et le maintien d’exigences élevées.",
+        "enjeux": [
+          "Maintenir un haut standard européen de durabilité et transparence.",
+          "Harmoniser et renforcer la confiance dans les données."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Accélérer l’application pour grandes entreprises dès 2026.",
+        "enjeux": [
+          "Mettre la pression pour un reporting rapide et fiable des grands acteurs.",
+          "Renforcer la responsabilité des entreprises.",
+          "Soutenir la transition par transparence."
+        ],
+        "strategie": "Soutenir un calendrier ambitieux pour les poids lourds."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Inclusion d’un volet spécifique sur la biodiversité.",
+        "enjeux": [
+          "Mettre la biodiversité au cœur du reporting.",
+          "Augmenter la conscience environnementale des entreprises.",
+          "Promouvoir une véritable transition écologique."
+        ],
+        "strategie": "Intégrer des critères environnementaux larges et contraignants."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Création d’un accompagnement financier pour PME.",
+        "enjeux": [
+          "Faciliter la mise en conformité des PME.",
+          "Limiter l’impact financier de la réglementation.",
+          "Soutenir innovation et compétitivité."
+        ],
+        "strategie": "Associer fiscalité, aides et simplification."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Obligation de publication d’objectifs clairs de réduction des émissions.",
+        "enjeux": [
+          "Contrer le greenwashing.",
+          "Promouvoir des engagements concrets et mesurables.",
+          "Mettre la pression sur l’industrie pour des résultats."
+        ],
+        "strategie": "Robustesse et transparence maximales."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Non porteur",
+        "position": "Recherche équilibre entre exigences et compétitivité.",
+        "enjeux": [
+          "Soutenir une régulation qui ne paralyse pas les entreprises.",
+          "Préserver l’innovation et la stabilité économique."
+        ]
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non porteur",
+        "position": "Prudence sur la charge administrative et réglementation lourde.",
+        "enjeux": [
+          "Limiter la bureaucratie.",
+          "Assurer le respect du principe de subsidiarité."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Promouvoir l’automatisation et numérisation du reporting.",
+          "Fournir des solutions d’efficacité et de conformité."
+        ],
+        "alliances": ["Renouveau Européen", "Verts/ALE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": [
+          "Limiter la portée des obligations de durabilité imposées.",
+          "Protection contre des normes trop strictes impactant la filière."
+        ],
+        "alliances": ["Conservateurs et Réformistes", "Italie", "Hongrie"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Encourager un cadre clair pour investissements ESG.",
+          "Favoriser la transparence pour une meilleure gestion des risques."
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Demander souplesse et ajustement des objectifs réglementaires.",
+          "Protéger la compétitivité dans un cadre durable."
+        ],
+        "alliances": ["Pologne", "Italie", "PPE"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Soutenir la R&D durable et exigeante.",
+          "Promouvoir la publication d’indicateurs santé environnement."
+        ],
+        "alliances": ["Renouveau Européen", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Influencer les exigences de durabilité liées aux émissions et innovations.",
+          "Soutenir les initiatives vertes dans la mobilité."
+        ],
+        "alliances": ["Pologne", "PPE", "Conservateurs et Réformistes"]
+      }
+    ]
+  }
+}

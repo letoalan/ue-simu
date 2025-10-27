@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 4,
+  "nom": "Souveraineté alimentaire européenne",
+  "valeurs_prevues": {
+    "normandie_eu": 83,
+    "vdem_eu": 0.84,
+    "pib_growth_eu": 1.7,
+    "idh_eu": 0.91
+  },
+  "amendements": [
+    {
+      "id": "2-4A",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.92
+      }
+    },
+    {
+      "id": "2-4B",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "normandie_eu": 84,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-4C",
+      "origine": "Gauche Unitaire",
+      "valeurs_prevues": {
+        "normandie_eu": 84,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.92
+      }
+    },
+    {
+      "id": "2-4D",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "normandie_eu": 83,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-4E",
+      "origine": "France",
+      "valeurs_prevues": {
+        "normandie_eu": 81,
+        "vdem_eu": 0.83,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.90
+      }
+    },
+    {
+      "id": "2-4F",
+      "origine": "Suède",
+      "valeurs_prevues": {
+        "normandie_eu": 82,
+        "vdem_eu": 0.84,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.91
+      }
+    },
+    {
+      "id": "2-4G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 82,
+        "vdem_eu": 0.83,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.91
+      }
+    },
+    {
+      "id": "2-4H",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 82,
+        "vdem_eu": 0.84,
+        "pib_growth_eu": 1.9,
+        "idh_eu": 0.90
+      }
+    }
+  ]
+}

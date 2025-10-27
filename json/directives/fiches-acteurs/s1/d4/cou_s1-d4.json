@@ -1,0 +1,764 @@
+[
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Préserver l'équilibre budgétaire et éviter l'aléa moral.",
+      "Maintenir l'efficacité du modèle allemand de formation professionnelle.",
+      "Rassurer l'opinion publique sur la maîtrise des transferts sociaux européens.",
+      "Assurer une transition énergétique rapide sans compromettre la compétitivité industrielle.",
+      "Protéger les secteurs clés (automobile, énergie) tout en respectant les objectifs climatiques."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Allemagne.",
+      "La position allemande reflète ses préoccupations nationales spécifiques sur la réforme du marché du travail et la transition énergétique."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-4F",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "L'Allemagne adopte une approche pragmatique et technocratique, combinant rigueur budgétaire avec ambition écologique. Elle s'appuie sur son expertise en formation professionnelle (Dual System) pour proposer un modèle de flexisécurité encadré, alliant souplesse du marché du travail à la protection des salariés. Son objectif est de garantir la transition énergétique sans compromettre la compétitivité industrielle, notamment dans le secteur automobile et les énergies fossiles. Elle défend un cadre européen axé sur l'innovation technologique (hydrogène vert, batterie) tout en réduisant les risques de déréglementation excessive. Parallèlement, elle préconise une coordination étroite entre les États membres pour éviter la fragmentation des politiques sociales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (soutien aux secteurs traditionnels de l'énergie)"
+    ],
+    "éléments_d_argumentaire": [
+      "La flexisécurité allemande est un modèle reconnu internationalement et doit être préservé pour éviter une fragmentation du marché du travail européen.",
+      "Les investissements dans les énergies propres (hydrogène, batterie) doivent être soutenus par des incitations fiscales et des subventions ciblées, conformément aux engagements climatiques de l'UE.",
+      "La protection des secteurs industriels stratégiques (automobile, chimie) est essentielle pour maintenir la compétitivité allemande face à la concurrence mondiale.",
+      "Les régions en déclin industriel (ex: Ruhr) doivent bénéficier de mesures spécifiques pour éviter l'abandon des zones périphériques.",
+      "La transition énergétique doit s'accompagner d'une modernisation des infrastructures énergétiques existantes, notamment le réseau électrique et les centrales à charbon.",
+      "Les travailleurs indépendants (ex: artisans, entrepreneurs) doivent être inclus dans les dispositifs de formation professionnelle pour garantir une transition juste.",
+      "La mobilité transfrontalière des travailleurs doit être facilitée par des accords bilatéraux et un système harmonisé d'acquis professionnels."
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions dans le secteur automobile (Volkswagen, Siemens) face aux objectifs climatiques. Évaluer impact des mesures sur les régions industrielles de l'ouest (Ruhr). Surveillance nécessaire sur la position nucléaire et les résistances historiques en Bavière.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "pays",
+    "generated_at": "2025-10-24T18:21:07.064955",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cet amendement dans un cadre limité, en insistant sur l'équilibre entre sécurité sociale et maîtrise des coûts budgétaires. Une extension à 60% du salaire exigerait une coordination étroite avec les États membres pour éviter la charge excessive sur le secteur public.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend l'inclusion des travailleurs indépendants, qui représente 20% de la population active. Cela permettrait d'étendre les protections sociales à un secteur historiquement peu couvert, tout en renforçant la sécurité économique nationale.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne salue cet amendement, qui aligne avec son modèle de formation professionnelle. Une financement ciblé des formations continues permettrait de renforcer l'adaptabilité du marché du travail et d'éviter les chômage structurel.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne s'engage en faveur de cet amendement, qui favoriserait l'intégration européenne. Un système harmonisé d'acquis professionnels serait bénéfique pour les régions frontalières et les secteurs industriels transfrontaliers.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne est opposée à cette limite, jugée trop restrictive. Elle préconise une approche progressive plutôt qu'une réduction immédiate, tout en soulignant l'importance d'assurer un niveau de protection social adéquat.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initialement proposé par l'Allemagne, vise à protéger les emplois stables. Il s'aligne avec la politique allemande de préférence aux contrats permanents pour assurer un marché du travail résilient et éviter une fragmentation sociale.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement, qui permettrait d'investir dans des régions historiquement touchées par la crise industrielle (ex: Ruhr). Cela renforcerait l'équilibre territorial et éviterait la marginalisation de certaines zones.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie cet amendement, mais insiste sur la nécessité d'éviter les distorsions de concurrence. Une priorisation locale doit s'accompagner de critères objectifs et non discriminatoires.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Contrôler les coûts pour les finances publiques nationales limitées.",
+      "Éviter la dépendance excessive aux transferts européens.",
+      "Préserver la compétitivité salariale face à l'Ouest européen.",
+      "Réduire les inégalités régionales en favorisant les investissements dans les zones rurales.",
+      "Protéger les secteurs industriels stratégiques (automobile, agroalimentaire).",
+      "Mettre en place des mesures flexibles pour préserver la stabilité du marché du travail."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Hongrie adopte une stratégie de négociation axée sur la prudence budgétaire, l'alignement avec les pays d'Europe centrale (Pologne, Slovaquie) et le soutien aux industries traditionnelles. Elle cherche à obtenir des dérogations pour protéger ses secteurs clés (agroalimentaire, textile) tout en défendant la nécessité de réformes sociales progressives mais modérées. L'approche repose sur un partenariat étroit avec le PPE et les partis conservateurs européens, tout en s'appuyant sur des lobbyings sectoriels (agrochimie, automobile) pour renforcer sa position. Hongrie insiste également sur la nécessité de ne pas augmenter la charge fiscale des ménages, en particulier dans les régions rurales et défavorisées.",
+    "alliances": [
+      "Pologne (partage objectif de réforme sociale modérée + soutien aux industries traditionnelles)",
+      "Slovaquie (collaboration sur les politiques d'investissement pour les zones rurales)",
+      "PPE (soutien à la prudence budgétaire et aux mesures sectorielles)",
+      "Conservateurs (préférence pour une transition énergétique progressive et non disruptive pour l'économie réelle)",
+      "Agrochimie (protection des secteurs agricoles et agroalimentaires face aux réglementations strictes)",
+      "Automobile (soutien aux mesures de préservation des emplois industriels)",
+      "Big Tech (collaboration sur les investissements en infrastructures numériques pour moderniser le pays)"
+    ],
+    "oppositions": [
+      "Suede (préférence pour une transition écologique plus radicale et une couverture sociale accrue)",
+      "Verts/ALE (soutien à l'extension de la couverture à 60% du salaire + réduction des dépendances aux énergies fossiles)",
+      "Énergies renouvelables (défense de politiques plus ambitieuses sur les énergies vertes et la mobilité professionnelle transfrontalière)"
+    ],
+    "éléments_d_argumentaire": [
+      "La prudence budgétaire est essentielle pour éviter une inflation des dépenses publiques, qui pourrait menacer la stabilité macroéconomique de Hongrie.",
+      "La protection des secteurs industriels traditionnels (agroalimentaire, automobile) est cruciale pour maintenir l'emploi et la compétitivité face aux concurrents occidentaux.",
+      "Les régions rurales et périphériques doivent être prioritaires dans les investissements pour réduire les inégalités territoriales persistantes.",
+      "Une couverture sociale trop élevée (60% du salaire) pourrait alourdir le poids des cotisations sociales, pénalisant les PME et les secteurs sensibles.",
+      "La transition énergétique doit être progressive pour éviter une dégradation rapide de la compétitivité industrielle et des pertes d'emplois dans les zones économiques vulnérables.",
+      "L'ouverture excessive aux travailleurs indépendants pourrait fragiliser le système de protection sociale actuel, non adapté à leur mode d'activité."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Hongrie oppose un veto partiel à cette proposition, arguant qu'une extension de la couverture à 60% du salaire augmenterait significativement les charges sociales. Cela pourrait pénaliser les PME et fragiliser l'équilibre budgétaire national, déjà sous pression en raison des coûts liés à la transition énergétique.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie soutient cette proposition à condition que des mesures spécifiques soient mises en place pour protéger les droits des travailleurs indépendants. Cependant, elle considère qu'une inclusion directe pourrait créer un décalage avec le système actuel et compliquer la gestion des cotisations sociales.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "Hongrie approuve cette mesure, car elle aligne avec ses objectifs de modernisation du marché du travail. Elle considère que l'investissement dans la formation professionnelle est essentiel pour accompagner les transitions économiques et sociales sans compromettre la stabilité des secteurs clés.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "NEUTRE",
+        "justification": "Hongrie reste neutre sur ce point, car elle juge que le soutien à la mobilité professionnelle transfrontalière doit être équilibré avec les besoins locaux. Elle préfère une approche plus ciblée pour éviter un désengagement des régions rurales.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "FAVORABLE",
+        "justification": "Hongrie défend fermement cet amendement qu'elle a elle-même proposé pour modérer l'impact fiscal de la directive sur les finances publiques. Cette mesure vise à préserver la stabilité macroéconomique tout en offrant un soutien social suffisant sans alourdir le fardeau des ménages et des entreprises.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "FAVORABLE",
+        "justification": "Hongrie soutient cette proposition pour protéger la stabilité du marché du travail. Elle considère que les contrats de travail à durée indéterminée garantissent une plus grande sécurité sociale, ce qui est essentiel dans un contexte économique incertain.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "Hongrie approuve cette mesure, car elle aligne avec ses objectifs de réduction des inégalités territoriales. Elle considère que le soutien aux régions en déclin industriel est crucial pour renforcer l'équilibre économique national et éviter une concentration excessive des richesses dans les grandes villes.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie soutient cette proposition à condition que les critères de priorité soient adaptés aux besoins spécifiques des régions. Elle considère qu'une approche trop rigide pourrait pénaliser certaines zones économiquement vulnérables.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "notes_internes": "Surveiller les tensions dans le secteur automobile (Kia, Renault) face aux mesures de protection des emplois. Évaluer régulièrement l'impact des amendements sur la répartition des fonds européens et la compétitivité des régions rurales. Surveiller également les débats internes au sein du PPE sur la transition énergétique.",
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "pays",
+    "generated_at": "2025-10-24T19:11:54.463853",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Accompagner la reconversion des bassins charbonniers et sidérurgiques.",
+      "Éviter l'exode des travailleurs qualifiés vers l'Allemagne.",
+      "Maintenir la cohésion territoriale dans les régions désindustrialisées.",
+      "Assurer une transition énergétique respectueuse des secteurs industriels stratégiques (acier, chimie).",
+      "Protéger les emplois dans les zones rurales via un financement ciblé."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Construire une coalition des pays en transition industrielle pour obtenir un ciblage territorial des aides, en s'appuyant sur les synergies avec l'Allemagne et l'Italie pour renforcer la résilience économique des régions affectées par le déclin industriel. La Pologne mène également une diplomatie proactive auprès des Partis européens (PPE, S&D) pour aligner les objectifs climatiques sur les besoins sectoriels. Parallèlement, elle mobilise les lobbies industriels (Automobile, Énergies fossiles) et technologiques (Big Tech) pour défendre un modèle de transition progressive qui préserve la compétitivité nationale tout en respectant les engagements climatiques de l'UE.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux mesures favorisant la stabilité économique des régions en déclin)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (soutien hydrogène vert + transition écologique sans compromis)"
+    ],
+    "éléments_d_argumentaire": [
+      "Protéger les emplois dans le secteur de l'acier, vital pour la sécurité nationale et la chaîne d'approvisionnement européenne.",
+      "Mettre en place un plan de reconversion des bassins charbonniers (Silesie) via une transition énergétique adaptée aux spécificités régionales.",
+      "Assurer une compensation financière pour les régions touchées par la fermeture des usines sidérurgiques et chimiques.",
+      "Éviter l'exode des travailleurs qualifiés vers l'Allemagne en développant des pôles d'innovation technologique en Pologne (ex : Wrocław, Poznań).",
+      "Promouvoir une transition énergétique basée sur un mix diversifié (gaz naturel, hydrogène vert, nucléaire) plutôt qu'une phase-out immédiate du charbon.",
+      "Soutenir les petites et moyennes entreprises dans l'adoption de technologies propres pour éviter la désindustrialisation prématurée.",
+      "Renforcer la coopération transfrontalière avec l'Allemagne et la République tchèque pour mutualiser les infrastructures énergétiques vertes."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement avec réserve, car une couverture trop élevée pourrait alourdir le coût des mesures de reconversion industrielle. Cependant, elle reste ouverte à un accord équilibré qui concilie la protection des travailleurs et les impératifs budgétaires nationaux.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE",
+        "justification": "La Pologne défend fermement cette proposition pour garantir une transition juste qui intègre tous les segments du marché du travail, notamment les professions libérales et les artisans, essentiels à l'économie locale.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est cruciale pour aider les travailleurs en reconversion, notamment dans les régions touchées par le déclin des industries traditionnelles. La Pologne propose de l'associer à un plan national de réinsertion professionnelle.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cette initiative à condition qu'elle soit accompagnée de mesures facilitant l'émigration des travailleurs qualifiés vers les régions en déclin, évitant ainsi une fuite de cerveaux vers d'autres pays européens.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose à cette proposition, car elle considère qu'un plafond trop bas entraverait l'efficacité des mesures de reconversion. Cependant, elle reste prête à négocier un seuil intermédiaire compatible avec la situation économique nationale.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne considère que cette restriction exclurait des segments importants de la population active, comme les travailleurs indépendants et les employés à temps partiel, pénalisant ainsi certaines régions économiquement vulnérables.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par la Pologne, vise à garantir une allocation prioritaire des fonds européens aux régions touchées par le déclin industriel (notamment Silesie). Il permet de préserver les emplois et d'assurer une transition énergétique équilibrée tout en maintenant la cohésion territoriale.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE",
+        "justification": "La Pologne appuie cette proposition pour éviter la concentration excessive des bénéfices de la transition énergétique et industrielle dans les grandes villes, en favorisant un développement régional plus équilibré.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les lobbies de l'industrie du charbon (ex : PGE) et les objectifs climatiques. Évaluer la capacité de la Silesie à se transformer sans perte d’emplois. Recommander un suivi régulier des impacts des subventions sur la concurrence industrielle avec l'Allemagne.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "pays",
+    "generated_at": "2025-10-24T19:27:28.146403",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Lutter contre le chômage de masse dans le Mezzogiorno (régions du Sud, où le taux de chômage atteint 12% en moyenne).",
+      "Éviter la fuite des cerveaux vers le Nord de l'Europe en renforçant les perspectives d'emploi locales.",
+      "Renforcer l'attractivité territoriale des régions italiennes en difficulté via des investissements ciblés dans les infrastructures et l'éducation.",
+      "Protéger les secteurs industriels stratégiques (automobile, textile) tout en favorisant la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Mettre en avant les spécificités du marché du travail italien, notamment la forte présence des régions en déclin industriel, et négocier des flexibilités nationales pour garantir une transition écologique adaptée aux réalités locales. Italie s'appuiera sur ses alliances avec les Verts/ALE (pour le soutien à l'hydrogène vert) et S&D (pour la priorité aux régions défavorisées), tout en mobilisant des lobby industriels comme l'Automobile pour dénoncer les risques de désindustrialisation. En parallèle, Italie renforcera son alliance avec le PPE pour défendre une approche équilibrée entre transition écologique et soutien aux secteurs traditionnels.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle du Mezzogiorno)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques ambitieux)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (privilège de la flexibilité nationale en matière d'investissements)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les régions du Mezzogiorno souffrant de déséquilibres territoriaux chroniques nécessitent des mesures ciblées pour éviter une marginalisation accrue.",
+      "La transition écologique doit s'accompagner de garanties sectorielles pour protéger les emplois dans l'industrie manufacturière traditionnelle.",
+      "L'Italie est un leader européen en matière d'hydrogène vert et mérite une reconnaissance spécifique dans la directive.",
+      "Les investissements doivent prioriser les régions en déclin industriel (ex: Campanie, Sicile) pour réduire les disparités Nord-Sud.",
+      "La flexibilité nationale est cruciale pour respecter les particularités du marché italien, notamment dans le secteur de la construction et des services.",
+      "L'absence de soutien au financement de la formation continue risquerait d'aggraver les écarts technologiques entre les régions.",
+      "La mobilité professionnelle transfrontalière doit être encadrée pour préserver l'emploi local dans les zones rurales."
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions Nord-Sud sur répartition des fonds verts (régions du Sud représentent 40% de la population mais reçoivent moins de 25% des investissements). Évaluer impact des mesures sur les secteurs industriels traditionnels (textile, automobile) et risques d'abandon de compétences techniques. Renforcer dialogue avec le lobby automobiles pour éviter désindustrialisation.",
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "Italie soutient cette augmentation pour mieux protéger les travailleurs précaires, en particulier dans les régions du Sud où le chômage structurel est élevé. Une couverture plus élevée renforcerait la sécurité sociale et favoriserait l'insertion professionnelle des jeunes.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Italie défend l'inclusion des travailleurs indépendants, mais demande des garanties sur la mise en œuvre des mesures. Cette inclusion est cruciale pour les professions libérales et les artisans dans les régions en difficulté.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est essentielle pour moderniser les compétences des travailleurs, surtout dans les régions du Sud. L'Italie propose un financement ciblé pour les secteurs stratégiques comme l'industrie et le tourisme.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "NEUTRE",
+        "justification": "Italie reste neutre pour éviter une déréglementation excessive pouvant entraîner un exode de compétences vers le Nord européen. Elle préfère des mesures encadrées pour protéger les régions locales.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Italie s'oppose à cette limitation, qui risquerait d'aggraver les écarts de sécurité sociale. Toutefois, elle accepte un plafond temporaire si des compensations sont prévues pour les régions en difficulté.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE",
+        "justification": "Italie s'oppose à cette restriction, qui exclurait les travailleurs précaires et les secteurs non structuraux. Elle défend une approche inclusive pour lutter contre le chômage de masse.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "Italie appuie cette mesure pour redynamiser les régions du Sud, où l'industrie traditionnelle est en déclin. Cela favoriserait la rénovation des infrastructures et l'attractivité des zones rurales.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par Italie, est essentiel pour préserver les emplois locaux dans les régions en difficulté. Il garantit un usage ciblé des fonds européens pour stimuler l'économie locale et réduire les disparités territoriales.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "pays",
+    "generated_at": "2025-10-24T18:54:49.039052",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Non-porteur - Soutient le principe mais demande des garanties sur l'articulation avec Pôle emploi et l'UNEDIC.",
+    "enjeux_directive": [
+      "Préserver l'efficacité du modèle français d'indemnisation du chômage en intégrant les spécificités nationales de gestion sociale.",
+      "Éviter la complexification administrative pour les demandeurs d'emploi, tout en renforçant le lien entre Pôle emploi et l'UNEDIC pour une coordination optimale.",
+      "Assurer une transition juste pour les régions industrielles en déclin (ex: Nord-Pas-de-Calais, Alsace-Moselle) tout en soutenant la mobilité professionnelle transfrontalière.",
+      "Aligner les objectifs de formation continue avec les besoins des secteurs stratégiques (automobile, aéronautique, numérique).",
+      "Protéger les droits des travailleurs indépendants sans pénaliser la flexibilité du marché du travail français."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France en modifiant le cadre de l'indemnisation du chômage.",
+      "La position de France reflète ses préoccupations nationales spécifiques liées à la préservation des dispositifs sociaux existants."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "La France adopte une approche modérée en soutenant les principes généraux de la directive tout en exigeant des garanties sur l'intégration avec Pôle emploi et l'UNEDIC. Elle privilégie un modèle d'indemnisation équilibré, combinant protection sociale et flexibilité du marché du travail. L'alliance avec les partis progressistes (Verts/ALE, S&D) et les secteurs industriels (Automobile, Big Tech) permet de concilier ambitions écologiques, innovation technologique et soutien aux régions en déclin industriel. La France s'oppose à toute mesure qui complexifierait le système actuel ou limiterait l'autonomie nationale dans la gestion des chômage.",
+    "alliances": [
+      "Allemagne (partage de l'objectif d'harmonisation européenne tout en défendant les spécificités nationales)",
+      "Italie (collaboration sur la transition écologique et la relance industrielle)",
+      "Verts/ALE (soutien à la formation continue pour les demandeurs d'emploi et à la mobilité transfrontalière)",
+      "S&D (priorité aux régions en déclin industriel et soutien au financement de la formation continue)",
+      "Big Tech (innovation dans les infrastructures numériques et l'économie circulaire)",
+      "Automobile (protection des secteurs industriels stratégiques et soutien à la mobilité professionnelle transfrontalière)",
+      "Banque (soutien aux investissements structuraux dans l'industrie et les énergies propres)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive du chômage plutôt qu'une harmonisation radicale)",
+      "Énergies fossiles (lobbies centrales charbon opposés aux mesures de limitation du chômage lié aux secteurs polluants)",
+      "Agrochimie (soutien à la protection des emplois agricoles et résistance aux réformes liées à la mobilité transfrontalière)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France défend un modèle d'indemnisation du chômage qui combine solidarité nationale et responsabilité individuelle, évitant les distorsions de concurrence entre États membres.",
+      "Elle s'oppose à toute mesure qui complexifierait le système actuel, notamment la duplication administrative liée à l'intégration de Pôle emploi et de l'UNEDIC.",
+      "La France exige un financement adéquat des formations continues pour les demandeurs d'emploi, en particulier dans les régions en déclin industriel (ex: Nord-Pas-de-Calais).",
+      "Elle soutient la mobilité professionnelle transfrontalière comme levier de réduction du chômage, mais exige que les aides soient attribuées prioritairement aux régions touchées par le déclin industriel.",
+      "La France insiste sur l'importance d'inclure les travailleurs indépendants dans le dispositif, tout en maintenant une flexibilité pour éviter la désertion du marché du travail.",
+      "Elle s'oppose à toute limitation de la couverture à 40% du salaire, considérant que cela pénaliserait les régions avec des taux de chômage élevés (ex: Sud-Est).",
+      "La France défend un approche progressive pour la transition écologique, en alignant les mesures sur les objectifs climatiques européens tout en préservant les emplois dans les secteurs industriels.",
+      "Elle exige que l'UNEDIC reste le pilier central du dispositif, avec une coordination renforcée pour éviter les doublons administratifs."
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller la tension entre secteurs industriels traditionnels (automobile, agroalimentaire) et ambitions écologiques. Évaluer régulièrement l'impact des mesures sur les régions en déclin (Nord-Pas-de-Calais, Alsace-Moselle). Recommander un suivi spécifique de la mise en œuvre des dispositifs de formation continue pour éviter les inégalités régionales.",
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement car il renforce la protection des travailleurs tout en maintenant un équilibre entre solidarité nationale et responsabilité individuelle. Cette mesure aligne les objectifs européens sur les besoins concrets de régions comme le Grand-Est ou le Sud-Ouest, où le chômage reste structuré.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient partiellement cette mesure, à condition qu'elle ne pénalise pas la flexibilité du marché du travail. Les artisans et entrepreneurs doivent être inclus sans compromettre l'indépendance des secteurs de l'économie informelle.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "La France s'engage fermement sur cette mesure, qui correspond à ses objectifs de relance industrielle dans les régions en déclin (ex: Nord-Pas-de-Calais). Elle exige que les formations soient adaptées aux besoins des secteurs stratégiques tels que l'aéronautique ou la mécanique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient cette mesure, à condition qu'elle priorise les régions en déclin industriel. Elle exige un suivi strict pour éviter une concentration des bénéficiaires dans certaines zones (ex: Grand-Est).",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose partiellement à cette mesure, car elle pénaliserait les régions avec des taux de chômage élevés (ex: Sud-Est). Elle propose une alternative en étendant la couverture à 60% tout en renforçant la coordination avec Pôle emploi.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE",
+        "justification": "La France s'oppose à cette mesure, car elle exclurait des secteurs comme l'agroalimentaire ou la construction, où les contrats atypiques sont fréquents. Elle préfère une approche inclusive tout en maintenant un cadre régulé.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "La France soutient fermement cet amendement, qui correspond à ses objectifs de relance industrielle. Elle exige que les aides soient attribuées de manière ciblée aux régions touchées par le déclin (ex: Alsace-Moselle).",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France s'engage conditionnellement sur cette mesure, à condition qu'elle ne freine pas les initiatives transfrontalières. Elle exige une flexibilité pour éviter les inégalités régionales et favoriser l'intégration des nouveaux arrivants.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "pays",
+    "generated_at": "2025-10-24T18:38:26.874849",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Non-porteur - Favorable mais exige le maintien des standards nordiques de qualité d'accompagnement.",
+    "enjeux_directive": [
+      "Préserver le modèle suédois de politique active de l'emploi.",
+      "Éviter le nivellement par le bas des prestations sociales.",
+      "Protéger les acquis sociaux nordiques face aux pressions d'une Europe plus fragmentée.",
+      "Assurer une transition écologique équitable sans compromettre la compétitivité industrielle."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Suède adopte une approche prudemment progressive, visant à renforcer la directive tout en préservant son modèle social. Elle milite pour des dispositions qui favorisent l'innovation technologique et l'éducation continue, sans sacrifier les standards élevés de qualité d'accompagnement. Son objectif est de promouvoir une transition écologique ambitieuse mais équilibrée, en s'appuyant sur ses compétences sectorielles (énergies renouvelables, transports durables) tout en défendant un financement européen solidaire pour les régions en déclin industriel. Elle souhaite aussi garantir une protection sociale robuste et des conditions de travail exemplaires, alignées sur les bonnes pratiques nordiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Suède défend des prestations sociales de qualité, alignées sur ses standards nordiques, en refusant tout nivellement par le bas européen.",
+      "Elle milite pour une transition écologique rapide mais équitable, soutenue par des investissements européens dans les énergies renouvelables et l'hydrogène vert.",
+      "La Suède s'appuie sur ses réussites sectorielles (transport durable, numérique) pour proposer des modèles d'innovation transposables à l'échelle européenne.",
+      "Elle insiste sur la nécessité de financer la formation continue et le développement régional, en particulier dans les zones touchées par le déclin industriel.",
+      "La Suède s'oppose fermement aux mesures qui pourraient menacer ses acquis sociaux (sécurité de l'emploi, protection des travailleurs indépendants).",
+      "Elle défend une approche proactive en matière d'emplois verts et de compétences numériques, alignée sur sa stratégie nationale 2030.",
+      "La Suède prône la mobilité transfrontalière comme levier pour renforcer l'économie circulaire et réduire les inégalités régionales."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "La Suède soutient cet amendement car il renforce les garanties sociales tout en permettant une meilleure adaptation des systèmes de reprise d'emploi face aux mutations économiques et climatiques. Cela correspond à ses priorités nationales d'inclusion et de solidarité européenne.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE",
+        "justification": "La Suède valorise la flexibilité du marché du travail tout en exigeant des protections équitables pour tous les acteurs économiques. L'inclusion des travailleurs indépendants renforce l'efficacité de la directive et s'aligne sur ses politiques sociales inclusives.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède appuie ce financement à condition qu'il soit couplé à des mesures de garantie de qualité dans les formations et aux besoins sectoriels (notamment verte, numérique). Elle préconise une approche proactive pour éviter la déqualification des travailleurs.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "La Suède défend cette mesure comme levier pour renforcer l'économie circulaire, réduire les inégalités régionales et favoriser une transition écologique harmonisée à l'échelle européenne. Elle met en avant ses expériences de coopération transfrontalière.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE",
+        "justification": "La Suède s'oppose à cette limite car elle risque de fragiliser les dispositifs sociaux et de réduire l'accès aux protections pour les travailleurs en situation précaire. Elle insiste sur la nécessité d'une couverture élevée et équitable.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Suède s'oppose à cette restriction car elle exclurait des segments importants du marché du travail (travailleurs indépendants, précaires). Elle propose plutôt une approche inclusive et équitable.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "La Suède s'engage à soutenir cette mesure pour réduire les inégalités territoriales et renforcer l'équilibre économique européen. Elle met en avant ses propres expériences de relance industrielle dans des régions touchées par le déclin.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède soutient cette priorité à condition qu'elle ne compromette pas la mobilité transfrontalière et les principes d'équité sociale. Elle insiste sur un équilibre entre localisation et solidarité européenne.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs traditionnels (automobile, énergies fossiles) et ambitions vertes. Évaluer impact des mesures sur les régions nordiques (50% de la population suédoise) vs Sud-Est de l'UE. Recommander surveillance des financements pour éviter les écarts régionaux.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "pays",
+    "generated_at": "2025-10-24T19:42:38.853740",
+    "version": "4.7"
+  }
+]

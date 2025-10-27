@@ -1,0 +1,733 @@
+{
+  "directive": {
+    "id": 6,
+    "title": "Coopération transfrontalière et sécurité intérieure",
+    "description": "Renforcer la lutte contre le crime organisé, le terrorisme et la cybercriminalité, tout en garantissant le respect des droits fondamentaux.",
+    "commission": {
+      "type": "Commission",
+      "nom": "Commission européenne",
+      "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux_directive": [
+        "Renforcer la sécurité intérieure de l’Union.",
+        "Faciliter l’échange de données entre les États membres.",
+        "Renforcer la lutte contre le crime organisé, le terrorisme et la cybercriminalité.",
+        "Anticiper les tensions entre sécurité et droits fondamentaux."
+      ],
+      "impacts_directive": [
+        "La directive renforcerait la Commission dans son rôle de coordinateur des politiques de sécurité et de justice. Elle lui donnerait un rôle central pour harmoniser les procédures et les normes de sécurité en Europe.",
+        "Cela renforcerait son autorité pour créer des centres de commandement communs et pour coordonner les enquêtes transfrontalières, augmentant ainsi son influence sur les États membres."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-6A",
+          "origine": "Renouveau Européen",
+          "description": "Élargir la coopération à la lutte contre la cybercriminalité",
+          "impact": "Positif. Cet amendement élargit la portée de la directive et s'aligne sur l'objectif de la Commission de répondre aux menaces modernes, ce qui augmente son autorité."
+        },
+        {
+          "id": "2-6B",
+          "origine": "Conservateurs et Réformistes",
+          "description": "Instaurer un observatoire européen des crimes transfrontaliers",
+          "impact": "Positif. Cet amendement est positif car il permettrait à la Commission d'avoir un outil pour coordonner la politique de sécurité. Mais il est un risque, car il pourrait créer une instance de surveillance, un enjeu clé de la directive."
+        },
+        {
+          "id": "2-6C",
+          "origine": "Gauche Unitaire",
+          "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+          "impact": "Négatif. Cet amendement est un risque pour la Commission, car il pourrait ralentir les processus d'échange de données et rendre la coopération moins efficace. Il affaiblirait la directive."
+        },
+        {
+          "id": "2-6D",
+          "origine": "Parti Populaire Européen",
+          "description": "Créer une unité européenne de lutte contre le terrorisme",
+          "impact": "Positif. Cet amendement renforce la dimension sécurité de la directive, ce qui est un atout pour la Commission. Il renforce également la capacité de l'UE à agir face au terrorisme."
+        },
+        {
+          "id": "2-6E",
+          "origine": "Hongrie",
+          "description": "Limiter la coopération à certains types de criminalité",
+          "impact": "Négatif. Cet amendement est un risque pour la Commission, car il limiterait la portée de la directive et affaiblirait sa capacité à lutter contre le crime organisé et le terrorisme."
+        },
+        {
+          "id": "2-6F",
+          "origine": "France",
+          "description": "Exclure certains États membres de l’échange systématique de données",
+          "impact": "Négatif. Cet amendement est un risque pour la Commission, car il mettrait en péril le principe de l'échange systématique de données. Il affaiblirait la directive et la coopération européenne."
+        },
+        {
+          "id": "2-6G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les systèmes judiciaires nationaux",
+          "impact": "Négatif. Cet amendement est un risque pour la Commission, car il affaiblirait la directive et la coopération européenne."
+        },
+        {
+          "id": "2-6H",
+          "origine": "Allemagne",
+          "description": "Reporter l’application de la directive de deux ans",
+          "impact": "Négatif. Cet amendement est un risque pour la Commission, car il retarderait la mise en œuvre de la directive et enverrait un signal négatif sur l'ambition de l'Union."
+        }
+      ],
+      "stratégie": "La Commission doit s'appuyer sur les pays porteurs et les partis favorables à une intégration plus poussée pour promouvoir la directive. Elle doit argumenter que la sécurité des citoyens européens dépend d’une coopération transfrontalière efficace et que les menaces comme le terrorisme et la cybercriminalité ne s’arrêtent pas aux frontières. Elle doit s'allier avec les partis les plus ambitieux sur la sécurité et le numérique pour faire passer les amendements clés de la directive.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Gauche Unitaire",
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Le crime organisé, le terrorisme et la cybercriminalité sont des menaces qui ne connaissent pas de frontières. Seule une coopération transfrontalière efficace peut les combattre.",
+        "La sécurité des citoyens est la priorité de l’Union. Cette directive est un enjeu pour la protection des droits de l’homme.",
+        "Nous devons garantir une coopération harmonisée et rapide pour faire face aux menaces."
+      ]
+    },
+    "countries": [
+      {
+        "type": "Etat",
+        "nom": "France",
+        "role_europeen": "Non-porteur",
+        "position": "Soutien prudent et conditionnel de la coopération, cherche à garantir sa souveraineté.",
+        "enjeux_directive": [
+          "Coopérer sans perdre de souveraineté nationale.",
+          "Renforcer l'efficacité de la justice et de la police, mais en gardant la main sur les données sensibles.",
+          "Garantir la primauté du droit français sur les questions judiciaires."
+        ],
+        "impacts_directive": [
+          "La directive renforcerait la coopération entre les forces de police et de justice françaises et leurs homologues européens. Elle permettrait une meilleure coordination des enquêtes et une meilleure lutte contre le terrorisme et la cybercriminalité."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est cohérent avec l'objectif de la France de renforcer la lutte contre la cybercriminalité."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Positif. L'amendement permettrait à la France de renforcer son rôle de coordinateur de la politique de sécurité."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il affaiblirait la directive et la coopération européenne. Il pourrait ralentir les processus d'échange de données et rendre la coopération moins efficace."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour la France, car il lui permet de renforcer la lutte contre le terrorisme."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il limiterait la portée de la directive et affaiblirait la coopération européenne."
+          },
+          {
+            "id": "2-6F",
+            "origine": "France",
+            "impact": "Positif. L'amendement est un atout pour la France, car il lui permet de faire la promotion de ses valeurs et de s'assurer que certains pays sont exclus de l'échange systématique de données."
+          },
+          {
+            "id": "2-6G",
+            "origine": "Pologne",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il affaiblirait la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6H",
+            "origine": "Allemagne",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il retarderait la mise en œuvre de la directive et enverrait un signal négatif sur l'ambition de l'Union."
+          }
+        ],
+        "stratégie": "La France est l'un des pays les plus favorables à l'échange de données, mais elle veut garantir sa souveraineté. Elle s'allie avec les pays qui partagent ses préoccupations sur la sécurité et le terrorisme, mais elle cherche à affaiblir le principe de l'échange systématique de données.",
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité est un enjeu de souveraineté. Nous devons rester maîtres de nos données et de nos enquêtes.",
+          "La coopération est nécessaire, mais elle ne doit pas se faire au détriment de la souveraineté nationale."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Allemagne",
+        "role_europeen": "Non-porteur",
+        "position": "Soutien prudent à la coopération, mais insiste sur la protection de la vie privée et les procédures judiciaires.",
+        "enjeux_directive": [
+          "Concilier sécurité et respect des droits fondamentaux.",
+          "Maintenir une flexibilité nationale dans l'application des procédures judiciaires."
+        ],
+        "impacts_directive": [
+          "L'Allemagne bénéficierait d'une meilleure coopération en matière de sécurité et de justice. Mais elle craint une perte de souveraineté et une charge réglementaire excessive."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est cohérent avec l'objectif de l'Allemagne de renforcer la lutte contre la cybercriminalité."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Positif. L'amendement permettrait à l'Allemagne de mieux coordonner la politique de sécurité."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Positif. L'amendement est un atout pour l'Allemagne, car il renforce les garanties de protection de la vie privée. Il est un atout pour le pays."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour l'Allemagne, car il lui permet de renforcer la lutte contre le terrorisme."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "Négatif. L'amendement est un risque pour l'Allemagne, car il affaiblirait la portée de la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6F",
+            "origine": "France",
+            "impact": "Négatif. L'amendement est un risque pour l'Allemagne, car il affaiblirait la coopération européenne."
+          },
+          {
+            "id": "2-6G",
+            "origine": "Pologne",
+            "impact": "Négatif. L'amendement est un risque pour l'Allemagne, car il affaiblirait la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6H",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour l'Allemagne, car il lui permet de faire la promotion de ses valeurs et de s'assurer que la directive est mise en œuvre de manière progressive."
+          }
+        ],
+        "stratégie": "L'Allemagne soutient la directive mais insiste sur la protection de la vie privée. Elle s'allie avec les pays qui partagent ses préoccupations sur la protection des droits de l'homme, mais elle est réticente à l'idée d'une centralisation excessive du pouvoir.",
+        "alliances": [
+          "France",
+          "Parti Populaire Européen",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité ne doit pas se faire au détriment des droits fondamentaux. Nous devons protéger la vie privée des citoyens européens.",
+          "Une coopération efficace est la clé d'une Europe plus sûre."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Pologne",
+        "role_europeen": "Non-porteur",
+        "position": "Soutient la sécurité, mais s'oppose à une perte de souveraineté nationale sur la justice.",
+        "enjeux_directive": [
+          "Préserver la primauté de son système judiciaire.",
+          "Soutenir la lutte contre le crime organisé sans pour autant créer un 'fédéralisme judiciaire'."
+        ],
+        "impacts_directive": [
+          "La directive renforcerait la coopération en matière de sécurité, mais elle pourrait entraîner une perte de souveraineté nationale sur la justice. Elle craint une centralisation excessive du pouvoir."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il élargirait la portée de la directive et renforcerait la coopération."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il renforcerait la coopération et l'intégration européenne."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il renforcerait les garanties de protection de la vie privée."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il renforcerait la coopération et l'intégration européenne."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de limiter la portée de la directive et de préserver sa souveraineté."
+          },
+          {
+            "id": "2-6F",
+            "origine": "France",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il affaiblirait la coopération européenne."
+          },
+          {
+            "id": "2-6G",
+            "origine": "Pologne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de défendre sa souveraineté nationale en matière de justice."
+          },
+          {
+            "id": "2-6H",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de défendre sa souveraineté nationale en matière de justice et de reporter la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "La Pologne s'allie avec les pays qui craignent de perdre leur souveraineté culturelle et judiciaire. Elle argumente que la sécurité et la justice sont des questions de souveraineté nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Hongrie",
+          "Italie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité et la justice sont l'affaire des nations. Nous devons nous opposer à toute tentative de centralisation.",
+          "Les PME polonaises ont besoin de flexibilité pour s'adapter aux nouvelles normes."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Hongrie",
+        "role_europeen": "Opposant",
+        "position": "Opposée à toute forme de centralisation et de perte de souveraineté nationale.",
+        "enjeux_directive": [
+          "Maintenir sa souveraineté et ses propres choix en matière de sécurité et de justice."
+        ],
+        "impacts_directive": [
+          "La directive est un risque pour la Hongrie, car elle affaiblirait sa souveraineté nationale en matière de sécurité et de justice. Elle craint une centralisation excessive du pouvoir et un affaiblissement de la souveraineté nationale."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il élargirait la portée de la directive et renforcerait la coopération."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il est un moyen de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il renforcerait les garanties de protection de la vie privée."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il renforcerait la coopération et l'intégration européenne."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de limiter la portée de la directive et de préserver sa souveraineté."
+          },
+          {
+            "id": "2-6F",
+            "origine": "France",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il affaiblirait la coopération européenne."
+          },
+          {
+            "id": "2-6G",
+            "origine": "Pologne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de défendre sa souveraineté nationale en matière de justice."
+          },
+          {
+            "id": "2-6H",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de défendre sa souveraineté nationale en matière de justice et de reporter la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "La Hongrie s'allie avec les pays qui craignent de perdre leur souveraineté. Elle argumente que la sécurité et la justice sont des questions de souveraineté nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Pologne",
+          "Italie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté nationale est la clé de notre sécurité. Nous devons nous opposer à toute tentative de centralisation.",
+          "Cette directive est un pas de plus vers un super-État européen."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "type": "Parti",
+        "nom": "Parti Populaire Européen (PPE)",
+        "role_europeen": "Soutien et amendements",
+        "enjeux_directive": [
+          "Renforcer l'identité européenne à travers la sécurité et la justice.",
+          "Soutenir les programmes qui renforcent l'efficacité des polices et des justices."
+        ],
+        "impacts_directive": [
+          "Le PPE soutient la directive car elle permet de renforcer la sécurité des citoyens européens et d'investir dans la lutte contre le crime organisé, le terrorisme et la cybercriminalité."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est cohérent avec l'objectif du parti de renforcer la lutte contre la cybercriminalité."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il affaiblirait la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il affaiblirait la directive et la coopération européenne."
+          }
+        ],
+        "stratégie": "Le PPE s'allie avec la Commission et les autres partis centristes pour faire passer les amendements qui renforcent la directive et augmentent son ambition.",
+        "alliances": [
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Gauche Unitaire",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "Investir dans la sécurité, c'est investir dans notre avenir.",
+          "La sécurité de notre espace numérique est une priorité."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Renouveau Européen",
+        "role_europeen": "Soutien et amendements",
+        "enjeux_directive": [
+          "Renforcer l'ambition et le budget de la directive.",
+          "Accélérer les échanges et les innovations technologiques."
+        ],
+        "impacts_directive": [
+          "Le parti soutient la directive car elle s'inscrit dans son objectif de renforcer la compétitivité de l'Europe. Il verrait son influence renforcée par les amendements qu'il propose, qui visent à augmenter le budget et à accélérer la mise en œuvre de la directive."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est positif pour le parti, car il lui permet de faire la promotion de ses valeurs et de s'assurer que la directive est mise en œuvre de manière progressive."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il affaiblirait la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il affaiblirait la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6H",
+            "origine": "Allemagne",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il retarderait la mise en œuvre de la directive et enverrait un signal négatif sur l'ambition de l'Union."
+          }
+        ],
+        "stratégie": "Renouveau Européen s'allie avec les partis centristes pour pousser des amendements qui garantissent les ressources nécessaires à la directive. Le parti met en avant le rôle de l'innovation et du numérique dans le renforcement de la compétitivité de l'Europe.",
+        "alliances": [
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [
+          "Gauche Unitaire",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "L'Europe ne peut pas se permettre d'être en retard sur la scène mondiale. Nous devons investir massivement dans la sécurité et la justice.",
+          "Le 'Fonds européen pour la sécurité' est un projet visionnaire qui doit être doté d'un budget ambitieux."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Conservateurs et Réformistes",
+        "role_europeen": "Opposition",
+        "enjeux_directive": [
+          "Éviter une centralisation excessive du pouvoir.",
+          "Maintenir la souveraineté nationale sur les questions numériques et éducatives."
+        ],
+        "impacts_directive": [
+          "Le parti s'oppose à la directive car elle affaiblirait la souveraineté nationale. Il y voit un risque de 'fédéralisme numérique' qui serait contraire à ses principes. Le parti chercherait à affaiblir la directive ou à limiter son champ d'action."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6G",
+            "origine": "Pologne",
+            "impact": "L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6H",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          }
+        ],
+        "stratégie": "Les Conservateurs et Réformistes s'allient avec les pays qui craignent de perdre leur souveraineté numérique et judiciaire. Le parti argumente que la sécurité et la justice doivent rester une prérogative nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Hongrie",
+          "Pologne"
+        ],
+        "oppositions": [
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité et la justice sont l'affaire des nations. L'Europe doit rester à sa place.",
+          "Cette directive est un pas de plus vers un super-État européen. Nous devons nous y opposer."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Gauche Unitaire",
+        "role_europeen": "Opposition",
+        "enjeux_directive": [
+          "Protéger les droits fondamentaux et la vie privée.",
+          "Garantir un contrôle strict des autorités sur les données des citoyens."
+        ],
+        "impacts_directive": [
+          "Le parti s'oppose à la directive car elle met en péril les droits fondamentaux et la vie privée des citoyens. Il craint une centralisation excessive du pouvoir qui serait contraire à ses principes."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il élargirait la portée de la directive et renforcerait la coopération."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il est un moyen de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Négatif. L'amendement est un risque pour le parti, car il renforcerait la coopération et l'intégration européenne."
+          }
+        ],
+        "stratégie": "La Gauche Unitaire s'allie avec les pays qui craignent de perdre leur souveraineté numérique et judiciaire. Elle argumente que la sécurité et la justice doivent rester une prérogative nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Hongrie",
+          "Pologne"
+        ],
+        "oppositions": [
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité ne doit pas se faire au détriment des droits fondamentaux. Nous devons protéger la vie privée des citoyens européens.",
+          "Les PME polonaises ont besoin de flexibilité pour s'adapter aux nouvelles normes."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "type": "Lobby",
+        "nom": "Big Tech",
+        "enjeux_directive": [
+          "Fournir des technologies de pointe pour la sécurité et la justice."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en fournissant des technologies de pointe pour la sécurité et la justice, ce qui augmenterait son influence sur le marché européen."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il affaiblirait la directive et la coopération européenne. Il pourrait ralentir les processus d'échange de données."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les partis qui promeuvent l'innovation et la numérisation. Il argumente que la technologie est un outil puissant pour moderniser la sécurité et la justice en Europe.",
+        "alliances": [
+          "Renouveau Européen",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "La sécurité et la justice doivent être connectées. La technologie est la clé d'un avenir radieux.",
+          "Nos plateformes peuvent aider l'Europe à atteindre ses objectifs et à rivaliser avec les grandes puissances."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Industrie de la Sécurité",
+        "enjeux_directive": [
+          "Fournir des services de sécurité et de conseil aux États membres."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en fournissant des services de sécurité et de conseil aux États membres. Il pourrait ainsi s'assurer que les États membres sont bien préparés aux défis de la transition technologique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les pays qui défendent les intérêts de l'industrie pour obtenir un soutien financier pour la formation et la R&D. Il argumente que la compétitivité de l'industrie de la sécurité est un enjeu pour l'ensemble de l'Europe.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "Une main-d'œuvre qualifiée est essentielle pour rester un leader industriel. Nous devons investir dans la formation technique.",
+          "L'innovation est le cœur de notre secteur. Nous devons la promouvoir pour garantir notre compétitivité."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Associations de défense des droits civiques",
+        "enjeux_directive": [
+          "Protéger les droits fondamentaux et la vie privée.",
+          "Garantir un contrôle strict des autorités sur les données des citoyens."
+        ],
+        "impacts_directive": [
+          "Le lobby s'oppose à la directive car elle met en péril les droits fondamentaux et la vie privée des citoyens. Il craint une centralisation excessive du pouvoir qui serait contraire à ses principes."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il élargirait la portée de la directive et renforcerait la coopération."
+          },
+          {
+            "id": "2-6B",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6C",
+            "origine": "Gauche Unitaire",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il renforcerait la coopération et l'intégration européenne."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les partis qui défendent les droits fondamentaux et la vie privée pour faire passer des amendements qui lui sont favorables. Il argumente que la sécurité ne doit pas se faire au détriment des droits de l'homme.",
+        "alliances": [
+          "Gauche Unitaire"
+        ],
+        "oppositions": [
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité ne doit pas se faire au détriment des droits fondamentaux. Nous devons protéger la vie privée des citoyens européens.",
+          "Cette directive est un pas de plus vers un super-État européen."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Industrie de l'armement",
+        "enjeux_directive": [
+          "Obtenir des contrats publics pour le développement de technologies militaires et de sécurité."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en obtenant des contrats publics pour le développement de technologies militaires et de sécurité. Il pourrait ainsi s'assurer que la main-d'œuvre est bien préparée aux défis de la transition technologique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-6A",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-6D",
+            "origine": "Parti Populaire Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-6E",
+            "origine": "Hongrie",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il affaiblirait la directive et la coopération européenne."
+          },
+          {
+            "id": "2-6G",
+            "origine": "Pologne",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il affaiblirait la directive et la coopération européenne."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les pays qui défendent les intérêts de l'industrie pour obtenir un soutien financier pour la formation et la R&D. Il argumente que la compétitivité de l'industrie de la sécurité est un enjeu pour l'ensemble de l'Europe.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "L'Europe ne peut pas se permettre d'être en retard sur la scène mondiale. Nous devons investir massivement dans la sécurité et la justice.",
+          "Le 'Fonds européen pour la sécurité' est un projet visionnaire qui doit être doté d'un budget ambitieux."
+        ]
+      }
+    ]
+  }
+}

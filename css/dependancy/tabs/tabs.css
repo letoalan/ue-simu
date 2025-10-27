@@ -44,37 +44,34 @@
 .sub-tab-content.active {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 20px; /* Espace entre la ligne 1 et la ligne 2 (graph) */
 }
 
-/* --- Zone d'affichage (Photo + Texte) --- */
+/* --- Zone d'affichage (Ligne 1) --- */
 .content-display-area {
     display: flex;
-    gap: 20px;
+    gap: 25px;
     width: 100%;
+    flex-wrap: wrap; /* Permet le retour à la ligne sur petits écrans */
 }
 
-/* Disposition pour les images paysage/carrées (verticale, empilée) */
-.content-display-area.layout-vertical {
-    flex-direction: column;
-}
-.content-display-area.layout-vertical .photo-container,
-.content-display-area.layout-vertical .text-container {
-    width: 100%;
+/*
+ * RÈGLES DE MISE EN PAGE AMÉLIORÉES
+ * Gestion flexible des images selon leur format et la taille d'écran
+ */
+#euro-tab .content-display-area > .photo-container,
+#simulation-tab .content-display-area > .photo-container,
+#scenario-tab .content-display-area > .photo-container {
+    flex: 1 1 35%;
+    min-width: 280px; /* Largeur minimale pour éviter les images trop petites */
+    max-width: 1200px; /* Augmenté pour permettre les images paysage */
 }
 
-/* Disposition pour les images portrait (horizontale, côte à côte) */
-.content-display-area.layout-horizontal {
-    flex-direction: row;
-    flex-wrap: wrap; /* Permet de passer à la ligne sur les petits écrans */
-    align-items: center; /* CHANGEMENT: Centre les éléments verticalement */
-}
-.content-display-area.layout-horizontal .photo-container {
-    flex: 1 1 40%;
-    max-width: 450px; /* Limite la largeur de la photo portrait pour ne pas qu'elle soit trop grande */
-}
-.content-display-area.layout-horizontal .text-container {
-    flex: 1 1 55%;
+#euro-tab .content-display-area > .text-container,
+#simulation-tab .content-display-area > .text-container,
+#scenario-tab .content-display-area > .text-container {
+    flex: 2 1 60%;
+    min-width: 300px; /* Assure une largeur minimale pour la lisibilité */
 }
 
 .photo-container img {
@@ -85,8 +82,91 @@
     object-fit: cover;
 }
 
+/* --- Style spécial pour les images en mode portrait --- */
+.photo-container.portrait {
+    display: flex;
+    justify-content: center;
+
+}
+
+.photo-container.portrait img {
+    width: 90%;
+}
+
 .text-container {
     font-size: 0.85em;
     line-height: 1.7;
-    text-align: justify;
+}
+
+/* --- Gestion spéciale pour les images en format paysage --- */
+.photo-container.landscape {
+    flex: 1 1 45%; /* Plus d'espace pour les images larges */
+    max-width: 700px;
+}
+
+.photo-container.landscape + .text-container {
+    flex: 1 1 50%; /* Ajustement du texte correspondant */
+}
+
+/* --- Layout vertical pour très grandes images paysage --- */
+.content-display-area.layout-vertical {
+    flex-direction: column;
+}
+
+.content-display-area.layout-vertical .photo-container,
+.content-display-area.layout-vertical .text-container {
+    flex: none;
+    width: 100%;
+    max-width: none;
+}
+
+/* --- RÈGLES RESPONSIVES --- */
+@media (max-width: 768px) {
+    .content-display-area {
+        flex-direction: column; /* Passage en colonne sur mobile */
+    }
+
+    #euro-tab .content-display-area > .photo-container,
+    #simulation-tab .content-display-area > .photo-container,
+    #scenario-tab .content-display-area > .photo-container {
+        flex: none;
+        width: 100%;
+        max-width: none;
+        min-width: auto;
+    }
+
+    #euro-tab .content-display-area > .text-container,
+    #simulation-tab .content-display-area > .text-container,
+    #scenario-tab .content-display-area > .text-container {
+        flex: none;
+        width: 100%;
+        min-width: auto;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    #euro-tab .content-display-area > .photo-container,
+    #simulation-tab .content-display-area > .photo-container,
+    #scenario-tab .content-display-area > .photo-container {
+        flex: 1 1 40%; /* Plus d'espace pour l'image sur tablette */
+        max-width: 500px;
+    }
+
+    #euro-tab .content-display-area > .text-container,
+    #simulation-tab .content-display-area > .text-container,
+    #scenario-tab .content-display-area > .text-container {
+        flex: 1 1 55%;
+    }
+}
+
+/* --- UTILITAIRES POUR LE CONTRÔLE MANUEL DU LAYOUT --- */
+.force-vertical-layout .content-display-area {
+    flex-direction: column !important;
+}
+
+.force-vertical-layout .photo-container,
+.force-vertical-layout .text-container {
+    flex: none !important;
+    width: 100% !important;
+    max-width: none !important;
 }

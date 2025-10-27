@@ -1,0 +1,144 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition et veille à l'équilibre entre innovation, souveraineté numérique, protection des droits et compétitivité.",
+  "enjeux_directive": [
+    "Accélérer la transformation numérique de l’Union européenne tout en garantissant la protection des données personnelles face aux risques liés au big data.",
+    "Harmoniser les cadres réglementaires relatifs à l’intelligence artificielle, à l’informatique en nuage et à la cybersécurité pour renforcer la souveraineté numérique de l’Union.",
+    "Garantir la sécurité, la compétitivité et la souveraineté numérique tout en protégeant les droits fondamentaux (libertés civiles, liberté d'expression, protection des minorités).",
+    "Stimuler une croissance inclusive et respectueuse de l’éthique, notamment via le soutien aux start-ups européennes et la taxation des géants du numérique pour redistribuer les richesses.",
+    "Promouvoir une transition écologique forte en intégrant des mesures comme la régulation de l'énergie fossile (moratoires sur le charbon) tout en préservant la compétitivité industrielle.",
+    "Assurer un équilibre entre réglementation stricte et flexibilité pour les secteurs stratégiques (ex. services essentiels exclus de la régulation)."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La stratégie de la Commission européenne repose sur une triple priorité : (1) renforcer la souveraineté numérique tout en favorisant l'innovation technologique, (2) protéger les droits fondamentaux des citoyens face aux risques liés à l'intelligence artificielle et à la surveillance de masse, (3) stimuler une croissance économique inclusive via des mesures comme le soutien aux start-ups européennes et la taxation des géants du numérique. Cette approche vise à positionner l’Union européenne comme un acteur majeur sur la scène mondiale en matière d’éthique technologique, tout en assurant une transition écologique rapide (objectifs climatiques ambitieux). La Commission adopte un discours progressiste mais pragmatique, combinant réglementation rigoureuse pour les secteurs à risque avec des mesures incitatives pour encourager l’innovation et la compétitivité industrielle.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Pologne (résistance à la réglementation stricte des services essentiels)"
+  ],
+  "éléments_d_argumentaire": [
+    "La protection renforcée des données personnelles est un pilier fondamental de l’Union européenne pour protéger les libertés civiles et éviter une surveillance de masse intrusive.",
+    "Une fiscalité numérique harmonisée favoriserait la concurrence équitable entre les entreprises européennes et les géants du numérique internationaux, tout en redistribuant des richesses vers les États membres.",
+    "Le soutien aux start-ups européennes est crucial pour maintenir une base industrielle compétitive face à l’innovation dominée par des acteurs non européens (ex. Big Tech).",
+    "La réglementation stricte de l’intelligence artificielle et de la surveillance de masse est nécessaire pour éviter les abus technologiques et préserver la souveraineté numérique européenne.",
+    "L’exclusion des services essentiels de la régulation permettrait d’éviter une fragmentation du marché européen, tout en garantissant leur continuité opérationnelle.",
+    "La cybersécurité renforcée est un levier majeur pour protéger les infrastructures critiques (énergie, transports) contre les cyberattaques et assurer la stabilité de l’Union.",
+    "Le moratoire sur le charbon est indispensable pour atteindre les objectifs climatiques européens d’ici 2030 et réduire les émissions de CO₂ à hauteur des engagements internationaux (Accord de Paris)."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-2A",
+      "titre": "Renforcer la protection des données personnelles",
+      "position": "FAVORABLE",
+      "justification": "La Commission européenne soutient cet amendement car il aligne avec sa stratégie de renforcement de la souveraineté numérique et de protection des droits fondamentaux. Une réglementation stricte sur les données personnelles est cruciale pour éviter une surveillance intrusive par les plateformes numériques, tout en favorisant l’innovation responsable.",
+      "priorite": "très_haute",
+      "origine": "Verts/ALE",
+      "description": "Renforcer la protection des données personnelles"
+    },
+    {
+      "amendement": "1-2B",
+      "titre": "Taxer les géants du numérique",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission considère que cette mesure pourrait contribuer à l’équité fiscale et renforcer la concurrence équitable entre les acteurs européens et non européens. Cependant, elle exige des garanties pour éviter une distorsion de concurrence excessive ou une perte de compétitivité des secteurs technologiques européens.",
+      "priorite": "haute",
+      "origine": "Gauche Unitaire",
+      "description": "Taxer les géants du numérique"
+    },
+    {
+      "amendement": "1-2C",
+      "titre": "Soutenir les start-ups européennes",
+      "position": "FAVORABLE",
+      "justification": "La Commission défend fermement cet amendement car il permet de renforcer l’innovation technologique européenne et de préserver la base industrielle européenne face à la domination des géants non européens. Cela contribuerait à la diversification du secteur numérique.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Soutenir les start-ups européennes"
+    },
+    {
+      "amendement": "1-2D",
+      "titre": "Limiter la surveillance de masse",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement pour protéger les droits fondamentaux des citoyens et éviter une violation massive de la vie privée par des États ou des acteurs privés. Cela renforce l’équilibre entre sécurité et libertés civiles.",
+      "priorite": "haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Limiter la surveillance de masse"
+    },
+    {
+      "amendement": "1-2E",
+      "titre": "Harmoniser la fiscalité numérique",
+      "position": "FAVORABLE",
+      "justification": "La Commission voit dans cet amendement un levier essentiel pour garantir une équité fiscale européenne et réduire les distorsions de concurrence entre les acteurs numériques européens et internationaux. Cela permettrait également d’augmenter les recettes publiques pour financer la transition écologique.",
+      "priorite": "haute",
+      "origine": "France",
+      "description": "Harmoniser la fiscalité numérique"
+    },
+    {
+      "amendement": "1-2F",
+      "titre": "Exclure les services essentiels de la régulation",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission considère que cette exclusion est nécessaire pour éviter une fragmentation du marché européen et garantir la continuité des services critiques (énergie, transport). Cependant, elle exige des garanties claires sur les modalités de régulation.",
+      "priorite": "moyenne",
+      "origine": "Allemagne",
+      "description": "Exclure les services essentiels de la régulation"
+    },
+    {
+      "amendement": "1-2G",
+      "titre": "Renforcer la cybersécurité",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il renforce la protection des infrastructures critiques européennes contre les cybermenaces. Une cybersécurité robuste est un pilier de la souveraineté numérique et de la stabilité économique.",
+      "priorite": "très_haute",
+      "origine": "Pologne",
+      "description": "Renforcer la cybersécurité"
+    },
+    {
+      "amendement": "1-2H",
+      "titre": "Limiter l’accès aux données personnelles",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission soutient cette mesure pour protéger la vie privée des citoyens, mais insiste sur la nécessité d’équilibrer ces limites avec les besoins en sécurité et en innovation technologique. Des exceptions doivent être prévues pour les cas d’urgence ou de sécurité nationale.",
+      "priorite": "moyenne",
+      "origine": "Suède",
+      "description": "Limiter l’accès aux données personnelles"
+    }
+  ],
+  "références": [
+    "s1d2.json",
+    "scenario1.json"
+  ],
+  "notes_internes": "Surveiller les tensions entre le moratoire sur le charbon (opposé par Hongrie, Pologne) et la transition écologique. Évaluer l’impact de la fiscalité numérique sur la compétitivité des géants du numérique et des start-ups européennes. Suivre les résistances des pays comme la Pologne à l’exclusion des services essentiels de la régulation.",
+  "metadata": {
+    "source_file": "s1-d2.json",
+    "type": "commission",
+    "directive_id": "1-2",
+    "tokens": {
+      "count": 719,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-21T14:59:26.711155",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 2,
+  "actor_type": "commission",
+  "generated_at": "2025-10-22T22:22:27.645393",
+  "version": "4.7"
+}

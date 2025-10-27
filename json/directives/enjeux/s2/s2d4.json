@@ -1,0 +1,204 @@
+{
+  "directive": {
+    "id": "2-4",
+    "title": "Souveraineté technologique européenne",
+    "description": "Investissements massifs dans l’intelligence artificielle, le cloud et la cybersécurité pour réduire la dépendance envers les grandes puissances étrangères et garantir l’autonomie stratégique de l’Union.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Réduire la dépendance technologique vis-à-vis des États-Unis et de la Chine.",
+        "Stimuler l’innovation européenne dans les secteurs stratégiques.",
+        "Assurer un équilibre entre innovation, régulation et protection des droits fondamentaux."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendments": ["Créer un fonds souverain européen dédié aux start-ups technologiques."],
+        "enjeux": [
+          "Renforcer la compétitivité des acteurs européens.",
+          "Positionner la France comme moteur d’innovation."
+        ],
+        "strategie": "Nouer des alliances avec l’Allemagne et les pays favorables à l’investissement."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "amendments": ["Mettre l’accent sur la cybersécurité et la protection des données industrielles."],
+        "enjeux": [
+          "Protéger ses industries exportatrices.",
+          "Garantir un cadre de confiance pour le numérique."
+        ],
+        "strategie": "Consolider son rôle de leader dans les standards de cybersécurité."
+      },
+      {
+        "name": "Italie",
+        "role": "Non-porteur",
+        "position": "Soutien global mais demande un meilleur accès aux fonds européens.",
+        "enjeux": [
+          "Équilibrer les investissements entre Nord et Sud.",
+          "Renforcer ses entreprises locales."
+        ],
+        "role_description": "Appuie la mesure mais insiste sur la solidarité financière."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendments": ["Réduire la part du budget allouée à l’IA et privilégier la cybersécurité."],
+        "enjeux": [
+          "Limiter les dépenses dans les secteurs perçus comme trop éloignés de ses priorités.",
+          "Mettre en avant sa souveraineté numérique."
+        ],
+        "strategie": "Chercher des appuis auprès des pays sceptiques face aux gros budgets."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendments": ["Priorité à l’implantation de data centers en Europe centrale."],
+        "enjeux": [
+          "Assurer des retombées économiques régionales.",
+          "Renforcer la sécurité énergétique et numérique."
+        ],
+        "strategie": "Peser pour rééquilibrer les investissements vers l’Est."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Soutien fort à l’innovation ouverte et à la régulation stricte de l’IA.",
+        "enjeux": [
+          "Allier développement technologique et protection éthique.",
+          "Préserver sa tradition d’innovation responsable."
+        ],
+        "role_description": "Soutien des propositions ambitieuses mais exige transparence et éthique."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendments": ["Soutien aux grands industriels européens par un programme spécifique."],
+        "enjeux": [
+          "Renforcer la compétitivité de l’industrie européenne."
+        ],
+        "strategie": "Mettre en avant la nécessité de champions européens."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendments": ["Financer la formation et la reconversion des travailleurs."],
+        "enjeux": [
+          "Réduire les inégalités numériques.",
+          "Assurer la cohésion sociale dans la transition technologique."
+        ],
+        "strategie": "Associer souveraineté technologique et justice sociale."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendments": ["Créer un cloud européen de confiance interopérable."],
+        "enjeux": [
+          "Assurer la souveraineté des données.",
+          "Stimuler l’innovation des PME."
+        ],
+        "strategie": "Promouvoir l’image d’un moteur de l’innovation pragmatique."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Non-porteur",
+        "position": "Soutien sous conditions strictes de respect des droits fondamentaux.",
+        "enjeux": [
+          "Garantir transparence, éthique et durabilité dans le numérique."
+        ],
+        "strategie": "Faire pression pour intégrer une dimension écologique et éthique."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendments": ["Limiter les dépenses globales et concentrer sur la cybersécurité."],
+        "enjeux": [
+          "Prudence budgétaire.",
+          "Mettre en avant la protection nationale."
+        ],
+        "strategie": "Plaider pour la subsidiarité et limiter l’ampleur des investissements."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Critique la priorité donnée aux grands groupes au détriment des citoyens.",
+        "enjeux": [
+          "Mettre l’accent sur l’accès universel et la protection sociale."
+        ],
+        "strategie": "Faire pression pour une orientation plus sociale et citoyenne."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Influencer la régulation européenne pour limiter les contraintes.",
+          "S’assurer un accès privilégié aux marchés publics."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Éviter une dépendance accrue au numérique qui favorise la transition énergétique.",
+          "Limiter l’impact des régulations climatiques dans le secteur numérique."
+        ],
+        "alliances": [
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Développer des produits financiers pour les investissements numériques.",
+          "Assurer le retour sur investissement des fonds souverains."
+        ],
+        "alliances": [
+          "France",
+          "Allemagne"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Bénéficier d’outils numériques pour l’agriculture intelligente.",
+          "Limiter la régulation sur l’usage des données agricoles."
+        ],
+        "alliances": [
+          "Italie",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Soutenir la recherche en IA appliquée à la santé.",
+          "Protéger les données médicales sensibles."
+        ],
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Promouvoir la R&D dans la voiture connectée et autonome.",
+          "Accéder aux financements européens pour l’innovation."
+        ],
+        "alliances": [
+          "Allemagne",
+          "France"
+        ]
+      }
+    ]
+  }
+}

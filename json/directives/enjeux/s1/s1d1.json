@@ -1,0 +1,200 @@
+{
+  "directive": {
+    "id": "1-1",
+    "title": "Pacte Vert Innovant",
+    "description": "Investir 2% du PIB dans les énergies renouvelables avec financement massif de projets solaire, éolien et R&D hydrogène. Objectif de réduction des émissions de CO₂ de 50% d'ici 2035.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Assurer le respect des objectifs climatiques dans un cadre budgétaire réaliste (2% du PIB).",
+        "Équilibrer ambitions réduction carbone, sécurité énergétique et compétitivité économique.",
+        "Anticiper les blocages et favoriser compromis et stratégies gagnantes."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Relancer le nucléaire civil dans le mix énergétique.",
+        "enjeux": [
+          "Défense de la souveraineté énergétique et technologique.",
+          "Maintien de l'emploi industriel et des compétences nationales.",
+          "Recherche d'alliances au sein des pays pro-nucléaire (ex. République tchèque, Finlande)."
+        ],
+        "strategie": "Mettre en avant la sécurité d'approvisionnement et la contribution du nucléaire au mix bas-carbone."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Demande de baisse de l'engagement à 1,5% du PIB.",
+        "enjeux": [
+          "Préoccupation fiscale des pays moins avancés en Europe de l'Est.",
+          "Recherche de compromis acceptable et aménagements financiers.",
+          "Représentation des intérêts des économies moins développées."
+        ],
+        "strategie": "Fédérer d'autres États prudents (ex. Pologne) et obtenir flexibilité et compensations."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Exclusion de l'industrie lourde des investissements.",
+        "enjeux": [
+          "Préservation des secteurs industriels sensibles face à la transition.",
+          "Importance d'un équilibre économique et social local."
+        ],
+        "strategie": "Soutenir une transition progressive avec ciblage précis des aides."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Priorisation de l'emploi local dans les investissements.",
+        "enjeux": [
+          "Garantir que la transition ne génère pas de chômage ou exclusion.",
+          "Rassurer les régions industrielles en reconversion."
+        ],
+        "strategie": "Créer un front solidaire sur les questions sociales et peser au sein du Conseil."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutient une transition forte avec pragmatisme.",
+        "enjeux": [
+          "Recherche d'un compromis entre ambition climatique et protection des industries clés."
+        ],
+        "role_description": "Médiateur potentiel, équilibre les forces dans le Conseil."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Forte défense des ambitions climatiques.",
+        "enjeux": [
+          "Alliance avec groupes progressistes au Parlement et pays nordiques.",
+          "Porter une vision verte ambitieuse."
+        ],
+        "role_description": "Soutien à la montée en puissance des investissements et innovations."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Augmentation de l'engagement à 2,5% du PIB.",
+        "enjeux": [
+          "Maximiser l'ambition climatique et la transition écologique.",
+          "Mobiliser Parlement et institutions pour faire pression."
+        ],
+        "strategie": "Faire valoir la nécessité d'une trajectoire accélérée vers la neutralité carbone."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Priorisation des régions défavorisées.",
+        "enjeux": [
+          "Assurer justice sociale et cohésion territoriale.",
+          "Réduire les inégalités liées à la transition."
+        ],
+        "strategie": "Former des alliances transversales pour intégrer l'aspect social."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendments": [
+          "Moratoire sur les centrales à charbon.",
+          "Accroissement de l'investissement dans l'hydrogène vert."
+        ],
+        "enjeux": [
+          "Concilier innovation, efficacité économique et ambition écologique."
+        ],
+        "strategie": "Occuper une position de trait d'union entre pragmatisme et écologie."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "position": "Soutenir une transition fondée sur l’innovation dans l’hydrogène vert.",
+        "strategie": "Jouer l'arbitrage entre politiques industrielles et pression politique."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Pragmatisme économique et prudence budgétaire.",
+        "strategie": "Mettre en avant la subsidiarité et limiter les ambitions."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Critique des compromis insuffisants sur l'écologie.",
+        "strategie": "Augmenter la pression politique pour renforcer les objectifs climatiques et sociaux."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Gestion intelligente du réseau électrique (smart grids).",
+          "Développement de l'IA liée à la transition énergétique.",
+          "Placement stratégique pour améliorer la gestion énergétique."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "Verts/ALE"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Retarder les moratoires sur charbon.",
+          "Obtenir des exemptions ou transitions progressives.",
+          "Influencer les gouvernements prudents."
+        ],
+        "alliances": [
+          "Italie",
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Assurer sécurité des investissements verts.",
+          "Promouvoir des produits financiers verts (ex : green bonds)."
+        ],
+        "behavior": "Appuyer sur la stabilité financière et le retour sur investissement.",
+        "alliances": []
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Maintenir les subventions pour l'industrie chimique.",
+          "Modérer les restrictions environnementales."
+        ],
+        "alliances": [
+          "Pologne",
+          "Italie"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Assurer l'intégration des enjeux santé-environnement.",
+          "Obtenir soutien pour la R&D verte."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Soutenir les filières dans la transition vers la mobilité durable.",
+          "Obtenir aides pour l'innovation véhicule (ex : hydrogène, électrique)."
+        ],
+        "alliances": [
+          "Pologne",
+          "PPE",
+          "Conservateurs et Réformistes"
+        ]
+      }
+    ]
+  }
+}

@@ -38,7 +38,10 @@ export async function loadAllComponents() {
         loadComponent('components/maininterface/simulator.html', 'simulator-tab'),
         loadComponent('components/maininterface/euro.html', 'euro-tab'),
         loadComponent('components/maininterface/objectives.html', 'simulation-tab'),
-        loadComponent('components/maininterface/vote.html', 'vote-tab')
+        loadComponent('components/maininterface/enjeux.html', 'scenario-tab'),
+        loadComponent('components/maininterface/vote.html', 'vote-tab'),
+        loadComponent('components/maininterface/fiches-acteurs.html', 'fiches-acteurs-tab'),
+        loadComponent('components/maininterface/pistes-nego.html', 'pistes-nego-tab')
     ]);
 
     // Gérer la visibilité initiale des conteneurs principaux
@@ -155,6 +158,68 @@ export function collectAllDomReferences() {
     DOMRefs.partieMenu = document.getElementById('partie-menu');
     DOMRefs.partiePhoto = document.getElementById('partie-photo');
     DOMRefs.partieText = document.getElementById('partie-text');
+    DOMRefs.jetonsMenu = document.getElementById('jetons-menu');
+    DOMRefs.jetonsPhoto = document.getElementById('jetons-photo');
+    DOMRefs.jetonsText = document.getElementById('jetons-text');
+
+    // --- Module 3: Onglet Enjeux ---
+    DOMRefs.enjeuxSubNav = document.getElementById('enjeux-sub-nav');
+    DOMRefs.enjeuxCommissionPhoto = document.getElementById('enjeux-commission-photo');
+    DOMRefs.enjeuxCommissionText = document.getElementById('enjeux-commission-text');
+    DOMRefs.enjeuxEtatsMenu = document.getElementById('enjeux-etats-menu');
+    DOMRefs.enjeuxEtatsPhoto = document.getElementById('enjeux-etats-photo');
+    DOMRefs.enjeuxEtatsText = document.getElementById('enjeux-etats-text');
+    DOMRefs.enjeuxPartisMenu = document.getElementById('enjeux-partis-menu');
+    DOMRefs.enjeuxPartisPhoto = document.getElementById('enjeux-partis-photo');
+    DOMRefs.enjeuxPartisText = document.getElementById('enjeux-partis-text');
+    DOMRefs.enjeuxLobbiesMenu = document.getElementById('enjeux-lobbies-menu');
+    DOMRefs.enjeuxLobbiesPhoto = document.getElementById('enjeux-lobbies-photo');
+    DOMRefs.enjeuxLobbiesText = document.getElementById('enjeux-lobbies-text');
+
+    // --- Module 3: Onglet Enjeux ---
+    DOMRefs.enjeuxSubNav = document.getElementById('enjeux-sub-nav');
+    DOMRefs.enjeuxCommissionPhoto = document.getElementById('enjeux-commission-photo');
+    DOMRefs.enjeuxCommissionText = document.getElementById('enjeux-commission-text');
+    DOMRefs.enjeuxEtatsMenu = document.getElementById('enjeux-etats-menu');
+    DOMRefs.enjeuxEtatsPhoto = document.getElementById('enjeux-etats-photo');
+    DOMRefs.enjeuxEtatsText = document.getElementById('enjeux-etats-text');
+    DOMRefs.enjeuxPartisMenu = document.getElementById('enjeux-partis-menu');
+    DOMRefs.enjeuxPartisPhoto = document.getElementById('enjeux-partis-photo');
+    DOMRefs.enjeuxPartisText = document.getElementById('enjeux-partis-text');
+    DOMRefs.enjeuxLobbiesMenu = document.getElementById('enjeux-lobbies-menu');
+    DOMRefs.enjeuxLobbiesPhoto = document.getElementById('enjeux-lobbies-photo');
+    DOMRefs.enjeuxLobbiesText = document.getElementById('enjeux-lobbies-text');
+
+    // --- Module 3: Onglet Enjeux ---
+    DOMRefs.enjeuxSubNav = document.getElementById('enjeux-sub-nav');
+    DOMRefs.enjeuxCommissionPhoto = document.getElementById('enjeux-commission-photo');
+    DOMRefs.enjeuxCommissionText = document.getElementById('enjeux-commission-text');
+    DOMRefs.enjeuxEtatsMenu = document.getElementById('enjeux-etats-menu');
+    DOMRefs.enjeuxEtatsPhoto = document.getElementById('enjeux-etats-photo');
+    DOMRefs.enjeuxEtatsText = document.getElementById('enjeux-etats-text');
+    DOMRefs.enjeuxPartisMenu = document.getElementById('enjeux-partis-menu');
+    DOMRefs.enjeuxPartisPhoto = document.getElementById('enjeux-partis-photo');
+    DOMRefs.enjeuxPartisText = document.getElementById('enjeux-partis-text');
+    DOMRefs.enjeuxLobbiesMenu = document.getElementById('enjeux-lobbies-menu');
+    DOMRefs.enjeuxLobbiesPhoto = document.getElementById('enjeux-lobbies-photo');
+    DOMRefs.enjeuxLobbiesText = document.getElementById('enjeux-lobbies-text');
+
+    // --- Module 3: Onglet Fiches Acteurs ---
+    DOMRefs.fichesActeursSubNav = document.getElementById('fiches-acteurs-sub-nav');
+    DOMRefs.fichesCommissionMenu = document.getElementById('fiches-commission-menu');
+    DOMRefs.fichesCommissionPhoto = document.getElementById('fiches-commission-photo');
+    DOMRefs.fichesCommissionText = document.getElementById('fiches-commission-text');
+    DOMRefs.fichesCommissionChart = document.getElementById('fiches-commission-chart');
+    DOMRefs.fichesEtatsMenu = document.getElementById('fiches-etats-menu');
+    DOMRefs.fichesEtatsDirectiveMenu = document.getElementById('fiches-etats-directive-menu');
+    DOMRefs.fichesEtatsMap = document.getElementById('fiches-etats-map');
+    DOMRefs.fichesEtatsPhoto = document.getElementById('fiches-etats-photo');
+    DOMRefs.fichesEtatsText = document.getElementById('fiches-etats-text');
+    DOMRefs.fichesEtatsChart = document.getElementById('fiches-etats-chart');
+
+
+    // --- Module 3: Onglet Pistes de Négociation ---
+    DOMRefs.pistesNegoSubNav = document.getElementById('pistes-nego-sub-nav');
 
     console.table(Object.fromEntries(
         Object.entries(DOMRefs).map(([k, v]) => [k, v ? '✅' : '❌'])

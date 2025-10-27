@@ -1,0 +1,106 @@
+<div class="tab-main-container">
+    <!-- Sous-navigation -->
+    <div class="tab-sub-header" id="fiches-acteurs-sub-nav">
+        <button class="sub-nav-btn active" data-sub-tab="fiches-commission">Commission</button>
+        <button class="sub-nav-btn" data-sub-tab="fiches-etats">États Membres</button>
+        <button class="sub-nav-btn" data-sub-tab="fiches-partis">Partis Politiques</button>
+        <button class="sub-nav-btn" data-sub-tab="fiches-lobbies">Lobbies</button>
+    </div>
+
+    <!-- Contenus des sous-onglets -->
+    <div id="fiches-acteurs-sub-tab-container">
+        <div id="fiches-commission-sub-tab" class="sub-tab-content active">
+
+            <!-- Ligne 1: Contient la photo à gauche, et une colonne (select + carte) à droite -->
+            <div class="content-display-area">
+                <div class="photo-container" id="fiches-commission-photo"></div>
+                <div class="commission-info-col">
+                    <select class="sim-selector sub-tab-menu" id="fiches-commission-menu"></select>
+                    <div class="text-container commission-card" id="fiches-commission-text"></div>
+                </div>
+            </div>
+
+            <!-- Ligne 2: Le graphique -->
+            <div class="canvas-container" id="fiches-commission-chart-container" style="height: 400px; max-height: 400px;">
+                <canvas id="fiches-commission-chart"></canvas>
+            </div>
+        </div>
+        <div id="fiches-etats-sub-tab" class="sub-tab-content">
+            <!-- Ligne 1: 2 colonnes -->
+            <div class="content-display-area two-cols">
+                <!-- Colonne de gauche: Carte et Photo -->
+                <div class="left-col">
+                    <div id="fiches-etats-map" class="leaflet-map-container"></div>
+                </div>
+                <!-- Colonne de droite: Sélecteurs et Carte d'info -->
+                <div class="right-col">
+                    <select class="sim-selector sub-tab-menu" id="fiches-etats-menu"></select>
+                    <select class="sim-selector sub-tab-menu" id="fiches-etats-directive-menu"></select>
+                    <div class="text-container fiches-card" id="fiches-etats-text"></div>
+                </div>
+            </div>
+            <!-- Ligne 2: Graphique -->
+            <div class="canvas-container" id="fiches-etats-chart-container" style="height: 400px; max-height: 400px;">
+                <canvas id="fiches-etats-chart"></canvas>
+            </div>
+        </div>
+        <!-- Onglet Partis -->
+        <div id="fiches-partis-sub-tab" class="sub-tab-content">
+            <!-- Sélecteurs -->
+            <div class="selectors-container">
+                <label for="fiches-partis-party-menu">Parti :</label>
+                <select id="fiches-partis-party-menu"></select>
+
+                <label for="fiches-partis-directive-menu">Directive/Amendement :</label>
+                <select id="fiches-partis-directive-menu"></select>
+            </div>
+
+            <!-- Zone de contenu avec deux colonnes -->
+            <div class="content-display-area layout-horizontal">
+                <!-- Colonne 1 : Texte -->
+                <div id="fiches-partis-text" class="content-text"></div>
+
+                <!-- Colonne 2 : Deux images empilées -->
+                <div class="content-photos-column">
+                    <div id="fiches-partis-photo-1" class="content-photo"></div>
+                    <div id="fiches-partis-photo-2" class="content-photo"></div>
+                </div>
+            </div>
+
+            <!-- Graphique en bas -->
+            <div class="chart-container">
+                <canvas id="fiches-partis-chart"></canvas>
+            </div>
+        </div>
+
+        <!-- ONGLET LOBBIES -->
+        <div id="fiches-lobbies-sub-tab" class="sub-tab-content">
+            <!-- Sélecteurs -->
+            <div class="selectors-container">
+                <label for="fiches-lobbies-lobby-menu">Lobby :</label>
+                <select id="fiches-lobbies-lobby-menu"></select>
+
+                <label for="fiches-lobbies-directive-menu">Directive/Amendement :</label>
+                <select id="fiches-lobbies-directive-menu"></select>
+            </div>
+
+            <!-- Zone de contenu avec deux colonnes -->
+            <div class="content-display-area layout-horizontal">
+                <!-- Colonne 1 : Texte -->
+                <div id="fiches-lobbies-text" class="content-text"></div>
+
+                <!-- Colonne 2 : Deux images empilées -->
+                <div class="content-photos-column">
+                    <div id="fiches-lobbies-photo-1" class="content-photo"></div>
+                    <div id="fiches-lobbies-photo-2" class="content-photo"></div>
+                </div>
+            </div>
+
+            <!-- Graphique -->
+            <div class="chart-container">
+                <canvas id="fiches-lobbies-chart"></canvas>
+            </div>
+        </div>
+
+    </div>
+</div>

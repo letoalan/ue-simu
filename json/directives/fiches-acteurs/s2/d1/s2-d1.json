@@ -1,0 +1,744 @@
+{
+  "directive": {
+    "id": "2-1",
+    "title": "Initiative sécurité énergétique",
+    "description": "La présente directive vise à garantir la sécurité énergétique de l’Union européenne en diversifiant les sources d’approvisionnement et en instaurant des stocks stratégiques de gaz. Elle entend renforcer l’indépendance énergétique de l’UE, réduire la vulnérabilité face aux crises internationales et assurer la stabilité des approvisionnements pour les citoyens et l’industrie. Cette initiative s’inscrit dans la stratégie européenne de transition énergétique et de résilience, conformément aux priorités du Conseil européen."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Garantir la sécurité énergétique de l'Union européenne en diversifiant les sources d'approvisionnement et en instaurant des stocks stratégiques de gaz. La Commission joue le rôle de médiateur pour trouver un compromis entre les États membres et les partis politiques.",
+    "enjeux_directive": [
+      "Renforcer l’indépendance énergétique de l’UE.",
+      "Réduire la vulnérabilité face aux crises internationales.",
+      "Assurer la stabilité des approvisionnements pour les citoyens et l’industrie.",
+      "S'inscrire dans la stratégie européenne de transition énergétique et de résilience."
+    ],
+    "impacts_directive": [
+      "La directive renforce le rôle de la Commission en tant que garant de la sécurité énergétique et de la résilience de l’Union.",
+      "Réduire la dépendance au gaz russe à 10 % et renforcer la sécurité énergétique de l’Union."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-1A",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours",
+        "impact": "Cet amendement renforcerait la sécurité énergétique mais augmenterait les coûts de stockage pour les États membres."
+      },
+      {
+        "id": "2-1B",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques",
+        "impact": "Cet amendement améliorerait la solidarité énergétique mais nécessiterait des investissements importants."
+      },
+      {
+        "id": "2-1C",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "impact": "Cet amendement orienterait la stratégie vers les énergies vertes mais pourrait complexifier la mise en œuvre."
+      },
+      {
+        "id": "2-1D",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz",
+        "impact": "Cet amendement accélérerait la transition énergétique mais pourrait être perçu comme trop contraignant pour les États."
+      },
+      {
+        "id": "2-1E",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours",
+        "impact": "Cet amendement réduirait les coûts mais affaiblirait la sécurité énergétique collective."
+      },
+      {
+        "id": "2-1F",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage",
+        "impact": "Cet amendement permettrait des ajustements nationaux mais créerait des inégalités de traitement."
+      },
+      {
+        "id": "2-1G",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes",
+        "impact": "Cet amendement valoriserait les investissements passés mais pourrait freiner la diversification."
+      },
+      {
+        "id": "2-1H",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans",
+        "impact": "Cet amendement permettrait une adaptation progressive mais retarderait les bénéfices de la sécurité énergétique."
+      }
+    ],
+    "stratégie": "Trouver un équilibre entre sécurité énergétique, coûts de mise en œuvre et respect des spécificités nationales. La Commission soutient les amendements qui renforcent la résilience sans compromettre la transition énergétique.",
+    "alliances": [
+      "Socialistes et Démocrates",
+      "Renouveau Européen"
+    ],
+    "oppositions": [
+      "Hongrie",
+      "Pologne",
+      "Conservateurs et Réformistes"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité énergétique est un pilier de la souveraineté européenne. Diversifier nos approvisionnements est une nécessité stratégique.",
+      "Cette directive permettra de protéger nos citoyens et notre économie contre les chocs énergétiques externes."
+    ],
+    "références": [
+      "s2-d1.json (directive, commission)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Soutient activement la diversification pour réduire sa dépendance historique au gaz russe.",
+      "enjeux_directive": [
+        "Sécuriser ses approvisionnements industriels critiques.",
+        "Maintenir la compétitivité de son économie exportatrice."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l’Allemagne de sécuriser son approvisionnement énergétique et de renforcer son leadership industriel."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1B",
+          "origine": "Socialistes & Démocrates",
+          "description": "Accélérer les investissements dans les interconnexions énergétiques",
+          "impact": "L’Allemagne soutient cet amendement pour renforcer la solidarité énergétique européenne."
+        }
+      ],
+      "stratégie": "Défendre une approche robuste de diversification énergétique tout en protégeant les intérêts industriels nationaux.",
+      "alliances": [
+        "France",
+        "Suède",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Notre industrie a besoin de sécurité énergétique pour rester compétitive. La diversification est une assurance pour notre avenir économique."
+      ],
+      "références": [
+        "s2-d1.json (countries, Allemagne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Favorable à la diversification tout en préservant ses intérêts dans le secteur énergétique.",
+      "enjeux_directive": [
+        "Renforcer sa position de hub énergétique européen.",
+        "Protéger ses champions énergétiques nationaux."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la France de consolider son rôle central dans le marché énergétique européen."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1C",
+          "origine": "Renouveau Européen",
+          "description": "Inclure un volet hydrogène dans la stratégie énergétique",
+          "impact": "La France soutient cet amendement pour promouvoir l'hydrogène, domaine où elle est leader."
+        }
+      ],
+      "stratégie": "Promouvoir une diversification énergétique qui bénéficie à l'industrie française et à sa position stratégique.",
+      "alliances": [
+        "Allemagne",
+        "Italie",
+        "Parti Populaire Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "La France est un acteur énergétique majeur en Europe. Cette directive renforcera notre sécurité et notre leadership."
+      ],
+      "références": [
+        "s2-d1.json (countries, France)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Demande des exemptions pour certains États membres des obligations de stockage.",
+      "enjeux_directive": [
+        "Adapter les obligations à ses contraintes budgétaires.",
+        "Préserver sa flexibilité dans les choix énergétiques."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par l’Italie comme une contrainte budgétaire potentielle nécessitant des ajustements."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1F",
+          "origine": "Italie",
+          "description": "Exclure certains États membres des obligations de stockage",
+          "impact": "L’Italie soutient cet amendement pour adapter la directive à ses capacités financières."
+        }
+      ],
+      "stratégie": "Obtenir des flexibilités dans la mise en œuvre pour éviter des coûts excessifs tout en soutenant l'objectif de sécurité.",
+      "alliances": [
+        "France",
+        "Hongrie",
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "Nous soutenons la sécurité énergétique, mais elle doit être financièrement soutenable pour tous les États membres."
+      ],
+      "références": [
+        "s2-d1.json (countries, Italie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Demande de limiter le stock stratégique à 60 jours pour réduire les coûts.",
+      "enjeux_directive": [
+        "Limiter l'impact budgétaire sur ses finances publiques.",
+        "Conserver une marge de manœuvre énergétique."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par la Hongrie comme une charge financière injustifiée et une atteinte à sa souveraineté énergétique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1E",
+          "origine": "Hongrie",
+          "description": "Limiter le stock stratégique à 60 jours",
+          "impact": "La Hongrie soutient cet amendement pour réduire le fardeau financier de la directive."
+        }
+      ],
+      "stratégie": "S’opposer aux obligations trop coûteuses et défendre le principe de souveraineté énergétique nationale.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité énergétique ne doit pas se faire au détriment de la stabilité budgétaire des États membres. Nous avons besoin de flexibilité."
+      ],
+      "références": [
+        "s2-d1.json (countries, Hongrie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Soutient prioritairement les infrastructures gazières existantes plutôt que de nouveaux investissements.",
+      "enjeux_directive": [
+        "Valoriser ses infrastructures gazières nationales.",
+        "Maintenir son rôle de corridor énergétique vers l'Est."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Pologne de renforcer son importance stratégique dans l'approvisionnement gazier européen."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les infrastructures gazières existantes",
+          "impact": "La Pologne soutient cet amendement pour maximiser l'utilisation de ses infrastructures."
+        }
+      ],
+      "stratégie": "Mettre en avant le rôle de la Pologne comme plaque tournante énergétique et obtenir un soutien pour ses infrastructures existantes.",
+      "alliances": [
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "La Pologne est un acteur clé de la sécurité énergétique européenne. Soutenons les infrastructures existantes avant d'en construire de nouvelles."
+      ],
+      "références": [
+        "s2-d1.json (countries, Pologne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Prône le report de l'application de la directive de deux ans pour une mise en œuvre progressive.",
+      "enjeux_directive": [
+        "Permettre une adaptation ordonnée de ses infrastructures.",
+        "Garantir l'efficacité à long terme du dispositif."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Suède de promouvoir une approche méthodique et efficace de la sécurité énergétique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1H",
+          "origine": "Suède",
+          "description": "Reporter l’application de la directive de deux ans",
+          "impact": "La Suède soutient cet amendement pour une transition énergétique bien planifiée."
+        }
+      ],
+      "stratégie": "Promouvoir une mise en œuvre progressive et réfléchie pour garantir la pérennité et l'efficacité des mesures.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Une mise en œuvre précipitée pourrait être contre-productive. Planifions soigneusement pour un résultat optimal."
+      ],
+      "références": [
+        "s2-d1.json (countries, Suède)"
+      ]
+    }
+  ],
+  "parties": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Propose de porter le stock stratégique à 120 jours pour renforcer la sécurité.",
+      "enjeux_directive": [
+        "Maximiser la résilience énergétique européenne.",
+        "Répondre aux attentes des entreprises sur la stabilité des prix."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le PPE de démontrer son engagement pour une Europe sûre et compétitive."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1A",
+          "origine": "Parti Populaire Européen",
+          "description": "Porter le stock stratégique à 120 jours",
+          "impact": "Le PPE soutient cet amendement pour une sécurité énergétique maximale."
+        }
+      ],
+      "stratégie": "Soutenir une approche ambitieuse de sécurité énergétique qui protège les citoyens et l'économie.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Suède",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Gauche Unitaire",
+        "Verts/ALE"
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité énergétique est non négociable. Des stocks importants sont une assurance vitale pour notre économie."
+      ],
+      "références": [
+        "s2-d1.json (parties, Parti Populaire Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Prône l'accélération des investissements dans les interconnexions énergétiques.",
+      "enjeux_directive": [
+        "Garantir la solidarité énergétique entre États membres.",
+        "Soutenir les investissements publics dans les infrastructures."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les S&D de promouvoir la solidarité européenne et les investissements publics stratégiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1B",
+          "origine": "Socialistes & Démocrates",
+          "description": "Accélérer les investissements dans les interconnexions énergétiques",
+          "impact": "Les S&D soutiennent fermement cet amendement pour une Europe plus connectée et solidaire."
+        }
+      ],
+      "stratégie": "Pousser pour des investissements publics massifs dans les infrastructures énergétiques communes.",
+      "alliances": [
+        "Verts/ALE",
+        "Gauche Unitaire",
+        "France"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Parti Populaire Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité énergétique passe par des interconnexions. Investissons dans l'infrastructure qui unit l'Europe."
+      ],
+      "références": [
+        "s2-d1.json (parties, Socialistes et Démocrates)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Demande d'inclure un volet hydrogène dans la stratégie énergétique.",
+      "enjeux_directive": [
+        "Accélérer la transition vers les énergies vertes.",
+        "Positionner l'Europe en leader de l'hydrogène."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour RE de promouvoir l'innovation et les technologies vertes dans le secteur énergétique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1C",
+          "origine": "Renouveau Européen",
+          "description": "Inclure un volet hydrogène dans la stratégie énergétique",
+          "impact": "RE soutient cet amendement pour une vision énergétique tournée vers l'avenir."
+        }
+      ],
+      "stratégie": "S’assurer que la sécurité énergétique sert aussi de levier pour la transition verte et l'innovation.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "France",
+        "Suède"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité énergétique de demain se construit avec les technologies vertes d'aujourd'hui. L'hydrogène est essentiel."
+      ],
+      "références": [
+        "s2-d1.json (parties, Renouveau Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Conditionne les aides à la réduction de la consommation de gaz.",
+      "enjeux_directive": [
+        "Éviter de créer une dépendance permanente au gaz.",
+        "Accélérer la transition énergétique vers les renouvelables."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les Verts/ALE d'ancrer la sécurité énergétique dans une logique de transition verte."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1D",
+          "origine": "Verts/ALE",
+          "description": "Conditionner les aides à la réduction de la consommation de gaz",
+          "impact": "Les Verts/ALE soutiennent cet amendement pour lier sécurité énergétique et sobriété."
+        }
+      ],
+      "stratégie": "Pousser pour que la sécurité énergétique soit un tremplin vers un modèle sobre et renouvelable, et non un verrouillage fossile.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Parti Populaire Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "La meilleure sécurité énergétique est de consommer moins et mieux. Conditionnons l'aide à la sobriété."
+      ],
+      "références": [
+        "s2-d1.json (parties, Verts/ALE)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Prudence sur les coûts budgétaires et défense de la souveraineté nationale énergétique.",
+      "enjeux_directive": [
+        "Limiter les contraintes supranationales sur les choix énergétiques.",
+        "Préserver la flexibilité des politiques nationales."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par les C&R comme une ingérence coûteuse dans les politiques énergétiques nationales."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1E",
+          "origine": "Hongrie",
+          "description": "Limiter le stock stratégique à 60 jours",
+          "impact": "Les C&R soutiennent cet amendement pour réduire le fardeau réglementaire et financier."
+        },
+        {
+          "id": "2-1F",
+          "origine": "Italie",
+          "description": "Exclure certains États membres des obligations de stockage",
+          "impact": "Les C&R soutiennent cet amendement qui défend le principe de subsidiarité."
+        }
+      ],
+      "stratégie": "S’opposer aux mesures trop contraignantes et coûteuses, et défendre la primauté des décisions nationales en matière énergétique.",
+      "alliances": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "Bruxelles ne doit pas dicter notre politique énergétique. La souveraineté et l'équilibre budgétaire passent avant tout."
+      ],
+      "références": [
+        "s2-d1.json (parties, Conservateurs et Réformistes)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire",
+      "role_europeen": "S'oppose aux investissements gaziers et prône une transition immédiate vers les renouvelables.",
+      "enjeux_directive": [
+        "Éviter de prolonger la dépendance aux énergies fossiles.",
+        "Orienter les investissements vers les énergies propres."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par la Gauche Unitaire comme un mauvais investissement qui enferme l'Europe dans les énergies fossiles."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1D",
+          "origine": "Verts/ALE",
+          "description": "Conditionner les aides à la réduction de la consommation de gaz",
+          "impact": "La Gauche Unitaire soutient cet amendement comme un premier pas vers la sortie du gaz."
+        }
+      ],
+      "stratégie": "S’opposer à toute nouvelle infrastructure gazière et exiger un réorientation immédiate des fonds vers les renouvelables.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes",
+        "Renouveau Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "Investir dans le gaz, c'est investir dans le passé. La véritable sécurité énergétique, c'est 100% renouvelable, et maintenant !"
+      ],
+      "références": [
+        "s2-d1.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les intérêts des entreprises technologiques, qui cherchent à influencer les politiques énergétiques pour promouvoir les smart grids et la gestion digitale de l'énergie.",
+      "enjeux_directive": [
+        "Soutenir les technologies de stockage et de gestion intelligente de l'énergie.",
+        "Promouvoir la digitalisation du secteur énergétique."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour Big Tech de développer un nouveau marché pour ses solutions digitales dans le secteur énergétique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1C",
+          "origine": "Renouveau Européen",
+          "description": "Inclure un volet hydrogène dans la stratégie énergétique",
+          "impact": "Big Tech soutient cet amendement, l'hydrogène vert nécessitant une gestion digitale avancée."
+        }
+      ],
+      "stratégie": "S'allier avec les partis et États favorables à l'innovation technologique et à la digitalisation du secteur énergétique.",
+      "alliances": [
+        "Renouveau Européen",
+        "Socialistes et Démocrates",
+        "Suède"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'innovation technologique est la clé d'une gestion optimale de l'énergie. Nos solutions rendront le système plus efficace et plus sûr."
+      ],
+      "références": [
+        "s2-d1.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Energies fossiles",
+      "role_europeen": "Représente les industries du gaz, qui cherchent à maintenir un rôle central du gaz dans le mix énergétique.",
+      "enjeux_directive": [
+        "Maintenir un rôle central du gaz naturel dans le mix énergétique européen.",
+        "Limiter les contraintes sur les investissements dans les infrastructures gazières."
+      ],
+      "impacts_directive": [
+        "La directive pourrait conforter la place du gaz à moyen terme, mais aussi accélérer la diversification vers d'autres sources."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les infrastructures gazières existantes",
+          "impact": "Le lobby des énergies fossiles soutient cet amendement qui favorise le statu quo."
+        },
+        {
+          "id": "2-1E",
+          "origine": "Hongrie",
+          "description": "Limiter le stock stratégique à 60 jours",
+          "impact": "Le lobby soutient cet amendement pour minimiser les coûts et les contraintes."
+        }
+      ],
+      "stratégie": "S’allier avec les États et partis défendant le rôle du gaz comme énergie de transition et s'opposer aux mesures trop contraignantes.",
+      "alliances": [
+        "Hongrie",
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "Le gaz est une énergie de transition indispensable. Il assure la stabilité du réseau en complément des renouvelables intermittentes."
+      ],
+      "références": [
+        "s2-d1.json (lobbies, Energies fossiles)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente les intérêts du secteur financier, cherchant à influencer les mécanismes de financement des infrastructures énergétiques.",
+      "enjeux_directive": [
+        "Financer les infrastructures de stockage et les projets de diversification.",
+        "Promouvoir des investissements stables et rentables dans le secteur énergétique."
+      ],
+      "impacts_directive": [
+        "La directive ouvre de nouvelles opportunités d'investissement dans les infrastructures énergétiques pour le secteur financier."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1B",
+          "origine": "Socialistes & Démocrates",
+          "description": "Accélérer les investissements dans les interconnexions énergétiques",
+          "impact": "Le lobby de la finance soutient cet amendement qui génère des besoins de financement importants."
+        }
+      ],
+      "stratégie": "Se positionner comme partenaire incontournable pour le financement de la transition et de la sécurité énergétique.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Socialistes et Démocrates",
+        "France",
+        "Allemagne"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Sans le secteur financier, les ambitions énergétiques de l'Europe resteront lettre morte. Nous sommes prêts à investir."
+      ],
+      "références": [
+        "s2-d1.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente l'industrie chimique, très consommatrice d'énergie, qui cherche à garantir la stabilité des prix et des approvisionnements.",
+      "enjeux_directive": [
+        "Garantir la stabilité des prix énergétiques pour l'industrie chimique.",
+        "Éviter les ruptures d'approvisionnement qui paralyseraient la production."
+      ],
+      "impacts_directive": [
+        "La directive est cruciale pour l'agrochimie, dont la compétitivité dépend fortement du coût et de la sécurité de l'énergie."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1A",
+          "origine": "Parti Populaire Européen",
+          "description": "Porter le stock stratégique à 120 jours",
+          "impact": "Le lobby de l'agrochimie soutient cet amendement pour une sécurité d'approvisionnement maximale."
+        }
+      ],
+      "stratégie": "S’allier avec les États et partis prônant une sécurité énergétique forte et des prix stables pour l'industrie.",
+      "alliances": [
+        "Allemagne",
+        "Parti Populaire Européen",
+        "Pologne"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Notre industrie est le poumon de l'économie européenne. Elle a besoin d'énergie fiable et abordable pour rester compétitive."
+      ],
+      "références": [
+        "s2-d1.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharma",
+      "role_europeen": "Représente l'industrie pharmaceutique, qui nécessite un approvisionnement énergétique ultra-fiable pour ses sites de production critiques.",
+      "enjeux_directive": [
+        "Sécuriser l'approvisionnement énergétique des sites de production critiques.",
+        "Éviter tout risque de blackout affectant la production de médicaments."
+      ],
+      "impacts_directive": [
+        "La directive est vitale pour le secteur pharmaceutique, où une interruption d'énergie peut avoir des conséquences sanitaires graves."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1A",
+          "origine": "Parti Populaire Européen",
+          "description": "Porter le stock stratégique à 120 jours",
+          "impact": "Le lobby pharmaceutique soutient cet amendement pour la plus grande marge de sécurité possible."
+        }
+      ],
+      "stratégie": "S’allier avec tous les acteurs défendant une sécurité énergétique absolue pour les infrastructures critiques.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La production de médicaments est une question de santé publique. Elle ne doit souffrir d'aucune rupture d'approvisionnement énergétique."
+      ],
+      "références": [
+        "s2-d1.json (lobbies, Pharma)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, en pleine transition, qui a besoin d'énergie stable pour sa transformation.",
+      "enjeux_directive": [
+        "Soutenir la transition énergétique tout en préservant la compétitivité industrielle.",
+        "Garantir des prix de l'énergie stables pour la production de véhicules électriques."
+      ],
+      "impacts_directive": [
+        "La directive peut aider à sécuriser l'approvisionnement énergétique nécessaire à la production de véhicules électriques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-1C",
+          "origine": "Renouveau Européen",
+          "description": "Inclure un volet hydrogène dans la stratégie énergétique",
+          "impact": "Le lobby automobile soutient cet amendement, l'hydrogène étant vu comme un carburant d'avenir pour certains véhicules."
+        }
+      ],
+      "stratégie": "Soutenir les mesures qui sécurisent l'énergie tout en accélérant la disponibilité des énergies vertes pour l'industrie.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Notre transition vers l'électrique et l'hydrogène nécessite un réseau énergétique stable et vert. Cette directive est un pas dans la bonne direction."
+      ],
+      "références": [
+        "s2-d1.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

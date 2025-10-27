@@ -1,0 +1,815 @@
+{
+  "directive": {
+    "id": "1-5",
+    "title": "Simplification et durabilité du reporting des entreprises",
+    "description": "Réforme des obligations de publication d’informations en matière de durabilité, allégée pour certaines entreprises, avec report de certaines échéances, visant à améliorer compétitivité, conformité et transition durable."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Conçoit et défend une réforme modernisant les obligations de reporting, assurant transparence et responsabilité tout en réduisant la charge administrative.",
+    "enjeux_directive": [
+      "Réduction de la complexité réglementaire pour les entreprises.",
+      "Clarification et harmonisation des échéances.",
+      "Assurer une mise en œuvre uniforme dans tous les États membres."
+    ],
+    "impacts_directive": [
+      "La directive renforce le rôle de la Commission en tant que garant de la transparence et de la compétitivité économique."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-5A",
+        "origine": "Socialistes et Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+        "impact": "Cet amendement mettrait la pression sur les grandes entreprises pour un reporting rapide, mais pourrait engendrer des tensions avec les industries et les États qui souhaitent une approche plus progressive."
+      },
+      {
+        "id": "1-5B",
+        "origine": "Parti Populaire Européen",
+        "description": "Exclure les PME du champ d’application de la directive.",
+        "impact": "Cet amendement réduirait l’ambition de la directive, mais apaiserait les craintes de surcharge administrative pour les petites entreprises."
+      },
+      {
+        "id": "1-5C",
+        "origine": "Renouveau Européen",
+        "description": "Mettre en place un guichet unique de dépôt d’informations.",
+        "impact": "Cet amendement simplifierait la mise en œuvre de la directive et s'alignerait sur l'objectif de réduction de la charge administrative."
+      },
+      {
+        "id": "1-5D",
+        "origine": "Verts/ALE",
+        "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+        "impact": "Cet amendement renforcerait la crédibilité environnementale de la directive, mais pourrait créer une opposition forte de la part de l'industrie."
+      },
+      {
+        "id": "1-5E",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+        "impact": "Cet amendement irait à l'encontre de l'objectif de transition durable et de l'urgence climatique."
+      },
+      {
+        "id": "1-5F",
+        "origine": "Allemagne",
+        "description": "Rendre le reporting obligatoire pour les grandes entreprises non cotées dès 2027.",
+        "impact": "Cet amendement est en ligne avec l'objectif de la Commission de garantir une mise en œuvre ambitieuse et uniforme de la directive."
+      },
+      {
+        "id": "1-5G",
+        "origine": "Pologne",
+        "description": "Permettre des normes de reporting simplifiées pour les entreprises étrangères s’implantant en Europe.",
+        "impact": "Cet amendement introduirait un risque de dumping réglementaire et de distorsion de concurrence."
+      },
+      {
+        "id": "1-5H",
+        "origine": "Italie",
+        "description": "Inclure un financement européen pour accompagner les PME dans la transition numérique.",
+        "impact": "Cet amendement renforcerait l'équité sociale et l'accompagnement des petites entreprises, ce qui est en ligne avec les objectifs de la Commission."
+      }
+    ],
+    "stratégie": "Trouver un juste milieu entre les exigences de transparence et la compétitivité des entreprises européennes, en assurant une mise en œuvre progressive mais uniforme.",
+    "alliances": [
+      "Renouveau Européen",
+      "Parti Populaire Européen",
+      "Allemagne"
+    ],
+    "oppositions": [
+      "Hongrie",
+      "Pologne",
+      "Conservateurs et Réformistes qui s'opposent à toute réglementation européenne supplémentaire."
+    ],
+    "éléments_d_argumentaire": [
+      "Un reporting transparent et harmonisé est indispensable pour une économie européenne durable et compétitive.",
+      "La simplification est la clé pour réduire la charge administrative sans sacrifier les objectifs de durabilité."
+    ],
+    "références": [
+      "s1-d5.json (directive, commission)",
+      "scenario1.json (directive 5)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Porte un amendement visant à rendre le reporting obligatoire pour les grandes entreprises non cotées dès 2027.",
+      "enjeux_directive": [
+        "Renforcer la compétitivité et la transparence de l’industrie allemande.",
+        "Promouvoir des normes de durabilité élevées pour les entreprises non cotées.",
+        "Maintenir la confiance des investisseurs et des consommateurs."
+      ],
+      "impacts_directive": [
+        "L'Allemagne est favorable à une mise en œuvre rapide et ambitieuse de la directive, y voyant une opportunité de renforcer son leadership en matière de durabilité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5F",
+          "origine": "Allemagne",
+          "description": "Rendre le reporting obligatoire pour les grandes entreprises non cotées dès 2027.",
+          "impact": "Cet amendement rendrait le reporting plus exigeant et pourrait imposer des contraintes aux entreprises, tout en renforçant la transparence du marché."
+        },
+        {
+          "id": "1-5E",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+          "impact": "L'Allemagne s'oppose à cet amendement qui est considéré comme un frein à la transition durable et à la compétitivité européenne."
+        }
+      ],
+      "stratégie": "Promouvoir une mise en œuvre rapide et ambitieuse de la directive, en ligne avec les objectifs du Pacte vert.",
+      "alliances": [
+        "Renouveau Européen",
+        "Socialistes et Démocrates",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie, Pologne, Conservateurs et Réformistes qui préfèrent des approches nationales."
+      ],
+      "éléments_d_argumentaire": [
+        "La durabilité est un facteur de compétitivité et la transparence est indispensable pour la confiance des investisseurs."
+      ],
+      "références": [
+        "s1-d5.json (countries, Allemagne)",
+        "scenario1.json (amendements, 1-5F)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Porte un amendement pour reporter l’application de la directive à 2030 pour tous les États membres.",
+      "enjeux_directive": [
+        "Éviter la surcharge administrative pour les entreprises nationales.",
+        "Préserver la souveraineté en matière de réglementation économique.",
+        "Donner aux entreprises plus de temps pour se conformer."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme un fardeau réglementaire et une ingérence de l'UE dans l'économie nationale."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5E",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+          "impact": "Cet amendement donnerait plus de temps aux entreprises pour se conformer, mais irait à l'encontre de l'urgence de la transition durable."
+        },
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "La Hongrie s'oppose à cet amendement qui va à l'encontre de sa stratégie de flexibilité et de réduction de la réglementation."
+        }
+      ],
+      "stratégie": "Fédérer les pays d'Europe centrale sur une approche progressive et négocier des dérogations.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne, France, Socialistes et Démocrates, Verts/ALE."
+      ],
+      "éléments_d_argumentaire": [
+        "La souveraineté des États membres en matière de réglementation économique doit être respectée."
+      ],
+      "références": [
+        "s1-d5.json (countries, Hongrie)",
+        "scenario1.json (amendements, 1-5E)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Porte un amendement pour permettre des normes de reporting simplifiées pour les entreprises étrangères s’implantant en Europe.",
+      "enjeux_directive": [
+        "Attirer les investissements étrangers et stimuler la croissance économique.",
+        "Réduire la charge administrative pour les entreprises internationales.",
+        "Renforcer la compétitivité de l'économie polonaise."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme une menace pour l'attractivité des investissements étrangers."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5G",
+          "origine": "Pologne",
+          "description": "Permettre des normes de reporting simplifiées pour les entreprises étrangères s’implantant en Europe.",
+          "impact": "Cet amendement pourrait stimuler les investissements étrangers, mais risquerait de créer un dumping réglementaire et de distorsions de concurrence."
+        },
+        {
+          "id": "1-5B",
+          "origine": "Parti Populaire Européen",
+          "description": "Exclure les PME du champ d’application de la directive.",
+          "impact": "La Pologne est favorable à cet amendement qui soutient les PME nationales, une partie importante de son économie."
+        }
+      ],
+      "stratégie": "Défendre une approche pragmatique et favorable aux entreprises pour stimuler l'économie.",
+      "alliances": [
+        "Hongrie",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "France, Allemagne, Verts/ALE qui prônent une harmonisation et une transparence complètes."
+      ],
+      "éléments_d_argumentaire": [
+        "Des normes réglementaires claires et simplifiées sont essentielles pour attirer les investissements."
+      ],
+      "références": [
+        "s1-d5.json (countries, Pologne)",
+        "scenario1.json (amendements, 1-5G)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Porte un amendement pour inclure un financement européen pour accompagner les PME dans la transition numérique.",
+      "enjeux_directive": [
+        "Soutenir les PME, qui constituent une part importante de l'économie italienne.",
+        "Assurer une transition juste et équitable pour toutes les entreprises, quelle que soit leur taille.",
+        "Obtenir des fonds européens pour l'innovation et la modernisation des entreprises."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité d'obtenir des financements européens pour l'innovation et la compétitivité des PME."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5H",
+          "origine": "Italie",
+          "description": "Inclure un financement européen pour accompagner les PME dans la transition numérique.",
+          "impact": "Cet amendement renforcerait l'équité sociale et l'accompagnement des petites entreprises, ce qui est en ligne avec les objectifs de la Commission."
+        },
+        {
+          "id": "1-5B",
+          "origine": "Parti Populaire Européen",
+          "description": "Exclure les PME du champ d’application de la directive.",
+          "impact": "L'Italie s'oppose à cet amendement, préférant une approche qui inclut les PME mais avec des aides, plutôt que de les exclure."
+        }
+      ],
+      "stratégie": "Mettre l'accent sur les besoins spécifiques des PME pour garantir une mise en œuvre efficace.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Renouveau Européen",
+        "Lobby des PME"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes qui s'opposent aux transferts financiers européens."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition durable doit être accessible à toutes les entreprises, quelle que soit leur taille."
+      ],
+      "références": [
+        "s1-d5.json (countries, Italie)",
+        "scenario1.json (amendements, 1-5H)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Soutient la directive mais souhaite garantir la compétitivité des entreprises françaises, en particulier les PME.",
+      "enjeux_directive": [
+        "Assurer un reporting clair, cohérent et non-contraignant.",
+        "Maintenir la compétitivité des entreprises sur le marché international.",
+        "Défendre les intérêts des entreprises nationales face à la concurrence."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de moderniser les obligations de reporting et de renforcer la crédibilité des entreprises françaises."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5B",
+          "origine": "Parti Populaire Européen",
+          "description": "Exclure les PME du champ d’application de la directive.",
+          "impact": "La France soutient cet amendement car il protège ses PME de la surcharge administrative, un enjeu majeur pour son économie."
+        },
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "La France est prudente sur cet amendement, craignant qu'il n'ajoute des contraintes excessives à son industrie, en particulier dans des secteurs comme l'énergie."
+        }
+      ],
+      "stratégie": "Défenseur d'une approche équilibrée qui allie transparence, compétitivité et simplicité.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Verts/ALE qui souhaitent une réglementation plus stricte et contraignante."
+      ],
+      "éléments_d_argumentaire": [
+        "Le reporting de durabilité est un atout pour la compétitivité, à condition qu'il soit simple et non-contraignant."
+      ],
+      "références": [
+        "s1-d5.json (countries, France)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Favorable à la directive mais exige le maintien de standards de durabilité élevés.",
+      "enjeux_directive": [
+        "Préserver les standards nordiques de durabilité des entreprises.",
+        "Éviter le nivellement par le bas des obligations de reporting.",
+        "Promouvoir la transparence et la bonne gouvernance."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de renforcer les normes de durabilité dans toute l'Europe."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "La Suède soutient cet amendement qui renforce la mise en œuvre rapide de la directive."
+        },
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "La Suède est très favorable à cet amendement qui va dans le sens de son engagement climatique et de sa politique de durabilité."
+        }
+      ],
+      "stratégie": "Défenseur d'une approche ambitieuse du reporting de durabilité, avec des standards élevés et contraignants.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Allemagne"
+      ],
+      "oppositions": [
+        "Hongrie, Pologne, Conservateurs et Réformistes qui s'opposent à une réglementation stricte."
+      ],
+      "éléments_d_argumentaire": [
+        "Le reporting de durabilité est un investissement dans le long terme pour la compétitivité de l'économie européenne."
+      ],
+      "références": [
+        "s1-d5.json (countries, Suède)"
+      ]
+    }
+  ],
+  "partis": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Porte un amendement pour exclure les PME du champ d’application de la directive.",
+      "enjeux_directive": [
+        "Soutenir la compétitivité des entreprises européennes.",
+        "Réduire la charge administrative pour les PME.",
+        "Promouvoir un cadre réglementaire favorable à la croissance."
+      ],
+      "impacts_directive": [
+        "Le groupe est favorable à la directive, mais souhaite en limiter la portée pour protéger les PME."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5B",
+          "origine": "Parti Populaire Européen",
+          "description": "Exclure les PME du champ d’application de la directive.",
+          "impact": "Cet amendement protégerait les PME de la surcharge administrative, mais réduirait l'ambition de la directive."
+        },
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Le PPE s'oppose à cet amendement qui imposerait des contraintes supplémentaires et potentiellement coûteuses aux entreprises."
+        }
+      ],
+      "stratégie": "Trouver un compromis entre transparence et compétitivité, en privilégiant un cadre réglementaire simple et non-contraignant.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "France"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates, Verts/ALE, Gauche Unitaire qui demandent une réglementation plus stricte."
+      ],
+      "éléments_d_argumentaire": [
+        "La simplification et la compétitivité sont les clés de la réussite de la transition durable."
+      ],
+      "références": [
+        "s1-d5.json (parties, PPE)",
+        "scenario1.json (amendements, 1-5B)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Porte un amendement pour accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+      "enjeux_directive": [
+        "Renforcer la transparence et la responsabilité des entreprises.",
+        "Lutter contre le greenwashing et l'évasion fiscale.",
+        "Soutenir la justice sociale et l'équité."
+      ],
+      "impacts_directive": [
+        "Le groupe est très favorable à la directive, mais la trouve insuffisamment ambitieuse en matière de transparence et de régulation."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "Cet amendement permettrait de mettre en œuvre rapidement la directive, mais pourrait créer des tensions avec les entreprises et les États membres."
+        },
+        {
+          "id": "1-5E",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+          "impact": "Le groupe s'oppose fermement à cet amendement qui est un frein à la transition et à la transparence."
+        }
+      ],
+      "stratégie": "Se positionner comme garant de la transparence et de la justice sociale.",
+      "alliances": [
+        "Suède",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen, Renouveau Européen, Conservateurs et Réformistes."
+      ],
+      "éléments_d_argumentaire": [
+        "La transparence des entreprises est indispensable pour une économie juste et durable."
+      ],
+      "références": [
+        "s1-d5.json (parties, Socialistes et Démocrates)",
+        "scenario1.json (amendements, 1-5A)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Porte un amendement pour mettre en place un guichet unique de dépôt d’informations.",
+      "enjeux_directive": [
+        "Simplifier le processus de reporting pour les entreprises.",
+        "Améliorer la compétitivité de l'économie européenne.",
+        "Promouvoir la modernisation administrative."
+      ],
+      "impacts_directive": [
+        "Le groupe est favorable à la directive, mais la considère insuffisante pour réduire la charge administrative."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5C",
+          "origine": "Renouveau Européen",
+          "description": "Mettre en place un guichet unique de dépôt d’informations.",
+          "impact": "Un tel amendement améliorerait l'efficacité du reporting et réduirait la charge administrative pour les entreprises."
+        },
+        {
+          "id": "1-5G",
+          "origine": "Pologne",
+          "description": "Permettre des normes de reporting simplifiées pour les entreprises étrangères s’implantant en Europe.",
+          "impact": "Le groupe s'oppose à cet amendement qui pourrait créer des distorsions de concurrence et aller à l'encontre de l'harmonisation."
+        }
+      ],
+      "stratégie": "Promouvoir une approche libérale mais pragmatique, en mettant l'accent sur la simplicité et l'efficacité.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Allemagne",
+        "Italie"
+      ],
+      "oppositions": [
+        "Gauche Unitaire, Verts/ALE qui ne veulent pas de solutions de marché."
+      ],
+      "éléments_d_argumentaire": [
+        "La simplicité réglementaire est la clé pour une économie européenne compétitive et résiliente."
+      ],
+      "références": [
+        "s1-d5.json (parties, Renouveau Européen)",
+        "scenario1.json (amendements, 1-5C)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Porte un amendement pour inclure des indicateurs contraignants sur les émissions de scope 3.",
+      "enjeux_directive": [
+        "Renforcer l'ambition environnementale de la directive.",
+        "Lutter contre le greenwashing des entreprises.",
+        "Promouvoir une transition durable et équitable."
+      ],
+      "impacts_directive": [
+        "Le groupe est très favorable à la directive, mais la juge insuffisante sur le plan de la transparence environnementale."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Cet amendement renforcerait la crédibilité environnementale de la directive, mais pourrait créer une opposition forte de la part de l'industrie."
+        },
+        {
+          "id": "1-5B",
+          "origine": "Parti Populaire Européen",
+          "description": "Exclure les PME du champ d’application de la directive.",
+          "impact": "Les Verts s'opposent à cet amendement qui affaiblirait la portée de la directive et la transparence."
+        }
+      ],
+      "stratégie": "Se positionner en défenseur de la transparence environnementale et de la responsabilité des entreprises.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Suède",
+        "ONG environnementales"
+      ],
+      "oppositions": [
+        "Les partis et les gouvernements qui s'opposent à une réglementation stricte, comme la Pologne et la Hongrie."
+      ],
+      "éléments_d_argumentaire": [
+        "La transparence est le premier pas vers une véritable transition durable."
+      ],
+      "références": [
+        "s1-d5.json (parties, Verts/ALE)",
+        "scenario1.json (amendements, 1-5D)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Non-porteur, mais s'oppose à toute réglementation européenne supplémentaire.",
+      "enjeux_directive": [
+        "Préserver la souveraineté budgétaire nationale.",
+        "Limiter les contraintes réglementaires sur les entreprises."
+      ],
+      "impacts_directive": [
+        "Le groupe s'oppose à la directive telle quelle, car elle porte atteinte à la souveraineté des États membres et crée un fardeau administratif."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5E",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+          "impact": "Cet amendement est en ligne avec la position du groupe et allégerait les coûts pour les États membres."
+        },
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "Le groupe s'oppose fermement à cet amendement qui augmente la charge financière et réglementaire."
+        }
+      ],
+      "stratégie": "S'opposer aux mesures de mutualisation et promouvoir une flexibilité budgétaire nationale.",
+      "alliances": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates, Gauche Unitaire, Verts/ALE."
+      ],
+      "éléments_d_argumentaire": [
+        "La souveraineté doit être un choix national, non une obligation européenne."
+      ],
+      "références": [
+        "s1-d5.json (parties, Conservateurs et Réformistes)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique",
+      "role_europeen": "Non-porteur, mais milite pour une réglementation plus ambitieuse.",
+      "enjeux_directive": [
+        "Assurer la transparence et la responsabilité des entreprises.",
+        "Lutter contre le greenwashing et les délocalisations.",
+        "Soutenir la justice sociale et l'équité."
+      ],
+      "impacts_directive": [
+        "Le groupe est favorable à la directive, mais la trouve trop timide et trop influencée par les logiques de marché."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "Cet amendement est en ligne avec les objectifs du groupe, car il renforce la transparence."
+        },
+        {
+          "id": "1-5B",
+          "origine": "Parti Populaire Européen",
+          "description": "Exclure les PME du champ d’application de la directive.",
+          "impact": "Le groupe s'oppose à cet amendement qui affaiblirait la portée de la directive et créerait une inégalité de traitement."
+        }
+      ],
+      "stratégie": "S'allier avec les groupes de gauche et les syndicats pour défendre les droits des travailleurs et l'environnement.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Suède",
+        "Italie"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen, Renouveau Européen, Conservateurs et Réformistes."
+      ],
+      "éléments_d_argumentaire": [
+        "La transparence des entreprises est le fondement d'une économie européenne juste et durable."
+      ],
+      "références": [
+        "s1-d5.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Défend les intérêts des plateformes numériques et des entreprises technologiques.",
+      "enjeux_directive": [
+        "Soutenir la simplification et la modernisation du reporting.",
+        "Promouvoir un cadre réglementaire favorable à l'innovation.",
+        "Limiter les obligations de reporting contraignantes."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les entreprises de la tech de se positionner comme un acteur clé de la transition numérique et durable."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5C",
+          "origine": "Renouveau Européen",
+          "description": "Mettre en place un guichet unique de dépôt d’informations.",
+          "impact": "Le lobby soutient cet amendement qui simplifierait la mise en œuvre de la directive et réduirait la charge administrative pour les entreprises."
+        },
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Le lobby s'oppose à cet amendement qui imposerait des contraintes supplémentaires et potentiellement coûteuses sur l'industrie."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent la flexibilité et la simplification du marché du travail et de la réglementation.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Gauche Unitaire, Socialistes et Démocrates, Verts/ALE."
+      ],
+      "éléments_d_argumentaire": [
+        "Un reporting simple et non-contraignant est essentiel pour soutenir l'innovation et l'emploi dans le secteur du numérique."
+      ],
+      "références": [
+        "s1-d5.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente le secteur financier, cherchant à promouvoir la transparence et la durabilité comme facteurs de décision d’investissement.",
+      "enjeux_directive": [
+        "Assurer la transparence des données de durabilité pour les investisseurs.",
+        "Soutenir un cadre réglementaire clair pour le financement vert.",
+        "Promouvoir des produits financiers durables."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le secteur financier de développer des solutions de marché et de renforcer son rôle dans la transition durable."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "Le lobby soutient cet amendement qui permettrait aux investisseurs d'avoir des informations de durabilité plus rapidement pour leurs décisions."
+        },
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Le lobby est favorable à cet amendement qui renforcerait la fiabilité des données de durabilité, un élément clé pour les investisseurs."
+        }
+      ],
+      "stratégie": "Se positionner comme le partenaire financier de la transition durable.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Les acteurs qui s'opposent à des normes de transparence élevées."
+      ],
+      "éléments_d_argumentaire": [
+        "Un reporting transparent et harmonisé est le fondement d'un marché financier durable."
+      ],
+      "références": [
+        "s1-d5.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente l'industrie agrochimique, moins directement concernée mais impliquée dans les mutations du marché de l'emploi agricole et les chaînes de valeur.",
+      "enjeux_directive": [
+        "Limiter les contraintes de reporting liées aux émissions de l'agriculture.",
+        "Veiller à la compatibilité des règlements européens avec l’innovation technologique agricole."
+      ],
+      "impacts_directive": [
+        "La directive pourrait imposer des contraintes de reporting supplémentaires à l'industrie, en particulier sur les émissions liées à la production et la distribution."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Le lobby s'oppose à cet amendement, car il imposerait des contraintes importantes et des coûts de reporting supplémentaires sur son secteur."
+        },
+        {
+          "id": "1-5E",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+          "impact": "Le lobby soutient cet amendement qui permettrait de repousser les obligations de reporting et de réduire la pression sur l'industrie."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent l'emploi et la croissance, et s'opposent à une réglementation excessive.",
+      "alliances": [
+        "Pologne",
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE, Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition écologique doit être une opportunité pour la création d'emplois, pas une menace pour l'emploi existant."
+      ],
+      "références": [
+        "s1-d5.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharmaceutique",
+      "role_europeen": "Représente l'industrie pharmaceutique, cherchant à promouvoir la transparence sur la durabilité et la sécurité des produits.",
+      "enjeux_directive": [
+        "Soutenir la transparence sur les données de durabilité de l'industrie.",
+        "Promouvoir la recherche en santé environnementale.",
+        "Garantir la sécurité des produits et la traçabilité des ingrédients."
+      ],
+      "impacts_directive": [
+        "La directive peut renforcer la crédibilité de l'industrie en matière de durabilité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026.",
+          "impact": "Le lobby est favorable à cet amendement qui permettrait à l'industrie d'être un leader en matière de transparence et de crédibilité."
+        },
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Le lobby soutient cet amendement qui renforce la transparence sur les émissions de sa chaîne de valeur."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent la transparence et la recherche.",
+      "alliances": [
+        "Allemagne",
+        "Suède",
+        "Socialistes et Démocrates",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Les acteurs qui s'opposent à des normes de transparence élevées."
+      ],
+      "éléments_d_argumentaire": [
+        "Un marché du travail qualifié est un atout pour la recherche et l'innovation en Europe."
+      ],
+      "références": [
+        "s1-d5.json (lobbies, Pharmaceutique)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, cherchant à influencer les exigences de durabilité liées aux émissions.",
+      "enjeux_directive": [
+        "Influencer les exigences de durabilité liées aux émissions et innovations.",
+        "Soutenir les initiatives vertes dans la mobilité."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'industrie automobile d'obtenir des aides pour la modernisation et la décarbonation du secteur."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-5D",
+          "origine": "Verts/ALE",
+          "description": "Inclure des indicateurs contraignants sur les émissions de scope 3.",
+          "impact": "Le lobby s'oppose à cet amendement qui imposerait des contraintes supplémentaires et potentiellement coûteuses sur l'industrie, en particulier sur sa chaîne de valeur."
+        },
+        {
+          "id": "1-5E",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive à 2030 pour tous les États membres.",
+          "impact": "Le lobby soutient cet amendement qui permettrait de repousser les obligations de reporting et de réduire la pression sur l'industrie."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent la transition industrielle et la reconversion.",
+      "alliances": [
+        "Pologne",
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE, Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "Une transition juste est un impératif social pour l'industrie automobile européenne."
+      ],
+      "références": [
+        "s1-d5.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

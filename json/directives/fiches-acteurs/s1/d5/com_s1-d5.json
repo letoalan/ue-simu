@@ -1,0 +1,144 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Conçoit et défend une réforme modernisant les obligations de reporting, assurant transparence et responsabilité tout en réduisant la charge administrative.",
+  "enjeux_directive": [
+    "Réduction de la complexité réglementaire pour les entreprises.",
+    "Clarification et harmonisation des échéances.",
+    "Assurer une mise en œuvre uniforme dans tous les États membres.",
+    "Promouvoir une transition écologique durable tout en préservant la compétitivité industrielle européenne.",
+    "Renforcer la gouvernance multilatérale et l'harmonisation des normes sectorielles.",
+    "Soutenir les PME dans leur conformité tout en évitant les distorsions de concurrence"
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission européenne adopte une approche équilibrée combinant rigueur réglementaire et flexibilité sectorielle. Elle mise sur la transparence des données économiques et environnementales tout en favorisant un accompagnement financier aux PME. La stratégie vise à renforcer l'harmonisation européenne tout en tenant compte des spécificités nationales, notamment via une flexibilité accrue pour les petites entreprises. L'institution défend une approche progressive mais ambitieuse, alignée sur les objectifs climatiques de la COP26 et le Pacte vert européen. La Commission privilégie un dialogue constant avec les acteurs économiques pour éviter les distorsions de concurrence tout en garantissant l'efficacité des mesures.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+  ],
+  "éléments_d_argumentaire": [
+    "La directive permet une meilleure traçabilité des impacts environnementaux et économiques des entreprises, renforçant la confiance des investisseurs.",
+    "L'harmonisation des échéances réduit les coûts de conformité pour les entreprises opérant dans plusieurs États membres.",
+    "Le soutien aux PME favorise l'équilibre entre réglementation et développement économique, évitant une charge administrative excessive.",
+    "La flexibilité nationale permet d'adapter la mise en œuvre aux spécificités économiques des États membres sans compromettre les objectifs climatiques.",
+    "L'inclusion de la biodiversité dans le reporting renforce l'intégration des dimensions écologiques dans les stratégies des entreprises.",
+    "Les objectifs d'émissions contraignants accélèrent la transition vers une économie décarbonée, alignant l'UE sur les engagements internationaux.",
+    "L'exclusion des micro-entreprises évite de surcharger des secteurs à faible impact environnemental tout en maintenant la cohérence du cadre réglementaire.",
+    "La simplification des obligations pour les petites entreprises favorise leur innovation tout en limitant l'impact réglementaire."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-5A",
+      "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+      "position": "FAVORABLE",
+      "justification": "Cette accélération aligne la directive sur les objectifs climatiques de l'UE et facilite une mise en œuvre cohérente des politiques européennes. Elle permet aux États membres et aux entreprises de mieux s'adapter aux nouvelles normes tout en évitant un report inutile qui pourrait nuire à la transparence.",
+      "priorite": "très_haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+    },
+    {
+      "amendement": "1-5B",
+      "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+      "position": "FAVORABLE",
+      "justification": "L'intégration de la biodiversité renforce l'alignement de la directive avec les objectifs du Pacte vert européen. Cela permet une meilleure prise en compte des impacts environnementaux non couverts par les critères actuels, favorisant une approche holistique.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+    },
+    {
+      "amendement": "1-5C",
+      "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Ce soutien financier est crucial pour éviter une charge excessive sur les petites entreprises tout en préservant leur capacité d'innovation. Cependant, il doit être accompagné de mesures contraignantes pour garantir l'utilisation efficace des fonds.",
+      "priorite": "haute",
+      "origine": "Renouveau Européen",
+      "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+    },
+    {
+      "amendement": "1-5D",
+      "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+      "position": "FAVORABLE",
+      "justification": "Cette mesure renforce la transparence des engagements climatiques des entreprises et favorise une concurrence équitable sur la base de critères environnementaux. Cela contribue à l'atteinte des objectifs climatiques européens.",
+      "priorite": "très_haute",
+      "origine": "Gauche Unitaire",
+      "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+    },
+    {
+      "amendement": "1-5E",
+      "titre": "Reporter de deux ans l’application pour les PME cotées",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Un report prolongé pourrait nuire à la cohérence du cadre réglementaire et créer des distorsions entre grandes entreprises et PME. Cependant, il peut être acceptable si accompagné de mesures d'accompagnement spécifiques.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Reporter de deux ans l’application pour les PME cotées"
+    },
+    {
+      "amendement": "1-5F",
+      "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+      "position": "FAVORABLE",
+      "justification": "Cette simplification évite une charge administrative excessive pour les petites entreprises tout en maintenant la rigueur nécessaire pour les grandes. Cela favorise une mise en œuvre équilibrée.",
+      "priorite": "moyenne",
+      "origine": "Italie",
+      "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+    },
+    {
+      "amendement": "1-5G",
+      "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La flexibilité nationale est nécessaire pour s'adapter aux réalités économiques des États membres, mais doit être encadrée par des critères minimaux communs à l'échelle européenne.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+    },
+    {
+      "amendement": "1-5H",
+      "titre": "Exclure les micro-entreprises du champ d’application",
+      "position": "FAVORABLE",
+      "justification": "Cette exclusion évite une surcharge réglementaire inutile pour des secteurs à faible impact environnemental tout en maintenant la cohérence de la directive. Cela favorise une application plus équilibrée.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Exclure les micro-entreprises du champ d’application"
+    }
+  ],
+  "références": [
+    "s1d5.json",
+    "scenario1.json"
+  ],
+  "notes_internes": "Surveiller tensions entre industries traditionnelles (charbon, pétrole) et secteur vert. Évaluer impact des mesures sur les PME italiennes (20% du PIB). Veiller à l'équilibre entre objectifs climatiques et compétitivité industrielle européenne.",
+  "metadata": {
+    "source_file": "s1-d5.json",
+    "type": "commission",
+    "directive_id": "1-5",
+    "tokens": {
+      "count": 744,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-21T14:59:26.789825",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 5,
+  "actor_type": "commission",
+  "generated_at": "2025-10-25T09:44:33.019587",
+  "version": "4.7"
+}

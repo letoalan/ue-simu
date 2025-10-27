@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 1,
+  "nom": "Initiative sécurité énergétique",
+  "valeurs_prevues": {
+    "normandie_eu": 85,
+    "vdem_eu": 0.86,
+    "pib_growth_eu": 1.6,
+    "idh_eu": 0.93
+  },
+  "amendements": [
+    {
+      "id": "2-1A",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-1B",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-1C",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-1D",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-1E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 83,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.92
+      }
+    },
+    {
+      "id": "2-1F",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "normandie_eu": 82,
+        "vdem_eu": 0.84,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.92
+      }
+    },
+    {
+      "id": "2-1G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 84,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-1H",
+      "origine": "Suède",
+      "valeurs_prevues": {
+        "normandie_eu": 83,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.92
+      }
+    }
+  ]
+}

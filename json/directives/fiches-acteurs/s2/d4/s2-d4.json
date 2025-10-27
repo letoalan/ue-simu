@@ -1,0 +1,878 @@
+{
+  "directive": {
+    "id": "2-4",
+    "title": "Souveraineté technologique européenne",
+    "description": "Investissements massifs dans l’intelligence artificielle, le cloud et la cybersécurité pour réduire la dépendance envers les grandes puissances étrangères et garantir l’autonomie stratégique de l’Union.",
+    "commission": {
+      "type": "Commission",
+      "nom": "Commission européenne",
+      "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux_directive": [
+        "Réduire la dépendance technologique vis-à-vis des États-Unis et de la Chine.",
+        "Stimuler l’innovation européenne dans les secteurs stratégiques.",
+        "Assurer un équilibre entre innovation, régulation et protection des droits fondamentaux."
+      ],
+      "impacts_directive": [
+        "La directive, si elle est adoptée, renforcerait le rôle de la Commission en tant que moteur de l'innovation et régulateur des technologies. Elle lui permettrait de coordonner les investissements européens dans les secteurs stratégiques et d'établir des normes communes pour la cybersécurité et l'IA."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-4A",
+          "origine": "France",
+          "description": "Créer un fonds souverain européen dédié aux start-ups technologiques.",
+          "impact": "L'amendement renforcerait l'objectif de la directive en fournissant un soutien financier direct aux entreprises européennes, ce qui est une priorité pour la Commission."
+        },
+        {
+          "id": "2-4B",
+          "origine": "Allemagne",
+          "description": "Mettre l’accent sur la cybersécurité et la protection des données industrielles.",
+          "impact": "L'amendement est conforme à la position de la Commission qui considère la cybersécurité comme un enjeu majeur de souveraineté."
+        },
+        {
+          "id": "2-4C",
+          "origine": "Hongrie",
+          "description": "Réduire la part du budget allouée à l’IA et privilégier la cybersécurité.",
+          "impact": "L'amendement va à l'encontre de la position de la Commission, qui souhaite une approche équilibrée entre IA et cybersécurité, car il réduirait l'ambition de la directive."
+        },
+        {
+          "id": "2-4D",
+          "origine": "Pologne",
+          "description": "Priorité à l’implantation de data centers en Europe centrale.",
+          "impact": "L'amendement est compatible avec la position de la Commission qui promeut la cohésion territoriale, mais pourrait soulever des questions sur la répartition équitable des investissements."
+        },
+        {
+          "id": "2-4E",
+          "origine": "Parti Populaire Européen",
+          "description": "Soutien aux grands industriels européens par un programme spécifique.",
+          "impact": "L'amendement est conforme à la position de la Commission qui promeut la compétitivité et la création de champions européens."
+        },
+        {
+          "id": "2-4F",
+          "origine": "Socialistes et Démocrates",
+          "description": "Financer la formation et la reconversion des travailleurs.",
+          "impact": "L'amendement est conforme à la position de la Commission qui promeut la cohésion sociale et la protection des droits fondamentaux."
+        },
+        {
+          "id": "2-4G",
+          "origine": "Renouveau Européen",
+          "description": "Créer un cloud européen de confiance interopérable.",
+          "impact": "L'amendement est conforme à la position de la Commission qui promeut l'innovation et la souveraineté des données."
+        },
+        {
+          "id": "2-4H",
+          "origine": "Conservateurs et Réformistes",
+          "description": "Limiter les dépenses globales et concentrer sur la cybersécurité.",
+          "impact": "L'amendement irait à l'encontre de l'objectif de la Commission en réduisant les budgets alloués à la directive."
+        }
+      ],
+      "stratégie": "Adopter une position de médiateur en cherchant un compromis entre les ambitions des 'porteurs' et les préoccupations budgétaires des États. Mettre en avant le rôle de la directive pour la souveraineté et l’autonomie de l'UE. La Commission cherchera à s'allier avec les États membres pragmatiques et les partis politiques qui soutiennent les objectifs d'autonomie stratégique.",
+      "alliances": [
+        "France",
+        "Allemagne",
+        "Parti Populaire Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "La souveraineté technologique est un investissement stratégique pour la compétitivité de l'UE face aux menaces extérieures.",
+        "Le budget proposé est un compromis viable qui équilibre les ambitions et les contraintes budgétaires.",
+        "Les investissements dans l'IA et la cybersécurité permettront de rationaliser les dépenses et d'être plus efficaces."
+      ],
+      "références": [
+        "Synthèse de la directive Souveraineté technologique européenne (ID 2-4)",
+        "Déclaration d'intention de la directive 2-4."
+      ]
+    },
+    "countries": [
+      {
+        "type": "Etat",
+        "nom": "France",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Renforcer la compétitivité des acteurs européens.",
+          "Positionner la France comme moteur d’innovation."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à la France de renforcer ses capacités technologiques et de développer son industrie nationale dans le cadre d'un projet européen, tout en rationalisant ses dépenses."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "description": "Créer un fonds souverain européen dédié aux start-ups technologiques.",
+            "impact": "L'amendement est une priorité pour la France car il vise à renforcer la compétitivité de son écosystème de start-ups et à en faire un leader de l'innovation en Europe."
+          },
+          {
+            "id": "2-4B",
+            "origine": "Allemagne",
+            "impact": "Cet amendement est favorable à la France car il renforce la sécurité des données, ce qui est une priorité pour les entreprises françaises."
+          },
+          {
+            "id": "2-4C",
+            "origine": "Hongrie",
+            "impact": "Cet amendement va à l'encontre de la position de la France qui prône un investissement équilibré entre IA et cybersécurité."
+          }
+        ],
+        "stratégie": "Nouer des alliances avec l’Allemagne et les pays favorables à l’investissement. La France cherchera à s'allier avec les États membres pragmatiques pour obtenir un équilibre entre innovation et sécurité.",
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "Une souveraineté technologique est nécessaire pour faire face aux défis géopolitiques actuels.",
+          "Le fonds souverain est un gage d'efficacité pour financer les start-ups européennes."
+        ],
+        "références": [
+          "Position de la France dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Allemagne",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Protéger ses industries exportatrices.",
+          "Garantir un cadre de confiance pour le numérique."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à l'Allemagne de protéger ses industries et de renforcer son rôle de leader technologique en Europe."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est conforme à la position de l'Allemagne, car il renforce la compétitivité de l'industrie européenne."
+          },
+          {
+            "id": "2-4B",
+            "origine": "Allemagne",
+            "description": "Mettre l’accent sur la cybersécurité et la protection des données industrielles.",
+            "impact": "L'amendement est une priorité pour l'Allemagne, qui est un leader mondial de la cybersécurité et souhaite renforcer la protection de ses industries exportatrices."
+          },
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement irait à l'encontre de l'objectif de l'Allemagne en réduisant les budgets alloués à la directive."
+          }
+        ],
+        "stratégie": "Consolider son rôle de leader dans les standards de cybersécurité. L'Allemagne cherchera à s'allier avec la France et les pays qui partagent ses préoccupations pour que la directive inclue un volet sur la protection des données.",
+        "alliances": [
+          "France",
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "La cybersécurité est un enjeu majeur pour la souveraineté de l'UE.",
+          "L'Allemagne est un exemple de pays qui a su gérer sa souveraineté technologique et qui peut aider les autres pays."
+        ],
+        "références": [
+          "Position de l’Allemagne dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Italie",
+        "role_europeen": "Non-porteur",
+        "enjeux_directive": [
+          "Équilibrer les investissements entre Nord et Sud.",
+          "Renforcer ses entreprises locales."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à l'Italie de renforcer ses entreprises locales, mais pourrait générer des tensions si les investissements sont perçus comme trop déséquilibrés."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est favorable à la position de l'Italie car il renforce le soutien à la formation et à la reconversion des travailleurs, ce qui est une priorité pour le pays."
+          },
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est un compromis pour l'Italie, qui est un allié des pays 'porteurs' mais qui partage les préoccupations budgétaires des 'opposants'."
+          }
+        ],
+        "stratégie": "Appuie la mesure mais insiste sur la solidarité financière. L'Italie cherchera à s'allier avec les pays qui partagent ses préoccupations pour que la directive inclue un volet sur l'aide financière et logistique.",
+        "alliances": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "L'Italie a besoin d'un meilleur accès aux fonds européens pour moderniser ses entreprises locales.",
+          "La souveraineté technologique ne doit pas se faire au détriment de la cohésion territoriale."
+        ],
+        "références": [
+          "Position de l’Italie dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Hongrie",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Limiter les dépenses dans les secteurs perçus comme trop éloignés de ses priorités.",
+          "Mettre en avant sa souveraineté numérique."
+        ],
+        "impacts_directive": [
+          "La directive pourrait être perçue comme une ingérence dans les affaires nationales et un coût social et politique important. La Hongrie s'opposerait à toute approche trop coûteuse et défendrait le principe de la souveraineté nationale."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4C",
+            "origine": "Hongrie",
+            "description": "Réduire la part du budget allouée à l’IA et privilégier la cybersécurité.",
+            "impact": "L'amendement vise à protéger les intérêts de la Hongrie en limitant le budget alloué à la directive."
+          },
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est en ligne avec les préoccupations de la Hongrie en matière budgétaire."
+          },
+          {
+            "id": "2-4D",
+            "origine": "Pologne",
+            "impact": "L'amendement est en ligne avec les préoccupations de la Hongrie en matière de souveraineté."
+          }
+        ],
+        "stratégie": "Chercher des appuis auprès des pays sceptiques face aux gros budgets. La Hongrie cherchera à s'allier avec les pays qui partagent ses craintes pour faire échouer la directive ou en limiter la portée.",
+        "alliances": [
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Allemagne",
+          "France",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La défense des frontières est une compétence nationale. L'Europe n'a pas à nous imposer des quotas.",
+          "Une répartition des migrants est un risque pour la cohésion sociale."
+        ],
+        "références": [
+          "Position de la Hongrie dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Pologne",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Assurer des retombées économiques régionales.",
+          "Renforcer la sécurité énergétique et numérique."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à la Pologne de renforcer ses entreprises locales, mais pourrait générer des tensions si les investissements sont perçus comme trop déséquilibrés."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4D",
+            "origine": "Pologne",
+            "description": "Priorité à l’implantation de data centers en Europe centrale.",
+            "impact": "L'amendement protège les intérêts de la Pologne en lui donnant plus de temps pour s'adapter à la nouvelle législation."
+          },
+          {
+            "id": "2-4C",
+            "origine": "Hongrie",
+            "impact": "L'amendement est conforme à la position de la Pologne qui souhaite plus de flexibilité."
+          },
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est conforme à la position de la Pologne qui souhaite plus de flexibilité."
+          }
+        ],
+        "stratégie": "Peser pour rééquilibrer les investissements vers l’Est. La Pologne cherchera à s'allier avec les pays qui partagent ses préoccupations pour obtenir un report de l'application de la directive.",
+        "alliances": [
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Allemagne",
+          "France",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "Les investissements technologiques doivent être répartis de manière équitable sur l’ensemble du territoire de l’UE.",
+          "Le report de l'application est une preuve de prudence et de sagesse."
+        ],
+        "références": [
+          "Position de la Pologne dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Suède",
+        "role_europeen": "Non-porteur",
+        "enjeux_directive": [
+          "Allier développement technologique et protection éthique.",
+          "Préserver sa tradition d’innovation responsable."
+        ],
+        "impacts_directive": [
+          "La directive, en imposant des quotas contraignants, irait à l'encontre de l'autonomie nationale de la Suède. La Suède cherchera à s'exempter de cette obligation."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4B",
+            "origine": "Allemagne",
+            "impact": "L'amendement est conforme à la position de la Suède qui promeut la protection des données."
+          },
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est conforme à la position de la Suède qui promeut la cohésion sociale."
+          }
+        ],
+        "stratégie": "Soutien des propositions ambitieuses mais exige transparence et éthique. La Suède cherchera à s'allier avec les partis et les pays qui partagent ses préoccupations pour que la directive inclue un volet sur les droits humains.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "Une politique technologique doit tenir compte des spécificités nationales et de l'autonomie des États membres.",
+          "La souveraineté technologique doit se faire sur la base de l'éthique et de la transparence."
+        ],
+        "références": [
+          "Position de la Suède dans la directive 2-4."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "type": "Parti",
+        "nom": "Parti Populaire Européen",
+        "role_europeen": "Porteur",
+        "position": "Soutien aux grands industriels européens par un programme spécifique.",
+        "enjeux_directive": [
+          "Renforcer la compétitivité de l’industrie européenne."
+        ],
+        "impacts_directive": [
+          "Le groupe PPE soutient une approche équilibrée de la directive, en conciliant innovation européenne et protection des droits fondamentaux. Il chercherait à éviter une approche trop coûteuse pour les États membres."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4E",
+            "origine": "Parti Populaire Européen",
+            "description": "Soutien aux grands industriels européens par un programme spécifique.",
+            "impact": "L'amendement est une priorité pour le PPE car il vise à renforcer la compétitivité de l'industrie européenne."
+          },
+          {
+            "id": "2-4B",
+            "origine": "Allemagne",
+            "impact": "L'amendement est conforme à la position du PPE car il renforce la sécurité des données, ce qui est une priorité pour les entreprises européennes."
+          },
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est un compromis pour le PPE, car il renforce le soutien à la formation, mais pourrait soulever des questions sur le budget."
+          }
+        ],
+        "stratégie": "Mettre en avant la nécessité de champions européens. Le groupe PPE cherchera à s'allier avec les partis et les États qui partagent sa position équilibrée.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [
+          "Gauche Unitaire",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "Une souveraineté technologique efficace doit respecter la compétitivité des entreprises européennes.",
+          "La souveraineté technologique doit être un mécanisme flexible et non une obligation rigide."
+        ],
+        "références": [
+          "Position du Parti Populaire Européen dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Socialistes et Démocrates",
+        "role_europeen": "Porteur",
+        "position": "Financer la formation et la reconversion des travailleurs.",
+        "enjeux_directive": [
+          "Réduire les inégalités numériques.",
+          "Assurer la cohésion sociale dans la transition technologique."
+        ],
+        "impacts_directive": [
+          "Le groupe S&D soutient la directive et cherche à la renforcer en y ajoutant un volet sur la formation et la reconversion des travailleurs. L'objectif est de s'assurer que les citoyens sont bien préparés à la transition technologique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "description": "Financer la formation et la reconversion des travailleurs.",
+            "impact": "L'amendement renforce l'approche solidaire de la directive en ajoutant un volet financier pour la formation et la reconversion des travailleurs."
+          },
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est conforme à la position du groupe S&D car il renforce le soutien aux start-ups européennes."
+          },
+          {
+            "id": "2-4E",
+            "origine": "Parti Populaire Européen",
+            "impact": "L'amendement est un compromis pour le groupe S&D, qui prône le soutien à l'industrie, mais sans le financement des entreprises privées."
+          }
+        ],
+        "stratégie": "Associer souveraineté technologique et justice sociale. Le groupe S&D cherche à faire pression pour que la directive inclue un volet sur l'intégration, qui est pour lui un enjeu majeur.",
+        "alliances": [
+          "Renouveau Européen",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté technologique ne se limite pas aux entreprises. Il faut aussi s'assurer que les citoyens sont bien préparés à la transition numérique.",
+          "Un fonds européen pour la formation est un investissement dans la cohésion sociale."
+        ],
+        "références": [
+          "Position des Socialistes et Démocrates dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Renouveau Européen",
+        "role_europeen": "Porteur",
+        "position": "Créer un cloud européen de confiance interopérable.",
+        "enjeux_directive": [
+          "Assurer la souveraineté des données.",
+          "Stimuler l’innovation des PME."
+        ],
+        "impacts_directive": [
+          "Le groupe Renouveau Européen soutient une approche ambitieuse de la directive et cherche à augmenter l'efficacité des quotas. L'objectif est d'assurer une répartition rapide et équitable des migrants."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4G",
+            "origine": "Renouveau Européen",
+            "description": "Créer un cloud européen de confiance interopérable.",
+            "impact": "L'amendement renforce l'ambition de la directive et permet d'atteindre plus rapidement l'objectif de souveraineté des données."
+          },
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est compatible avec la position de Renouveau Européen en renforçant l'aspect social et la compétitivité."
+          },
+          {
+            "id": "2-4C",
+            "origine": "Hongrie",
+            "impact": "L'amendement est en totale opposition avec la position de Renouveau Européen."
+          }
+        ],
+        "stratégie": "Promouvoir l’image d’un moteur de l’innovation pragmatique. Renouveau Européen cherchera à s'allier avec les partis et les États qui partagent sa vision ambitieuse et pragmatique.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "Les quotas sont la seule solution pour une gestion équitable des flux migratoires. Il faut être ambitieux.",
+          "La solidarité est la clé de la crédibilité de l'Europe."
+        ],
+        "références": [
+          "Position de Renouveau Européen dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Verts/ALE",
+        "role_europeen": "Non-porteur",
+        "position": "Soutien sous conditions strictes de respect des droits fondamentaux.",
+        "enjeux_directive": [
+          "Garantir transparence, éthique et durabilité dans le numérique."
+        ],
+        "impacts_directive": [
+          "Le groupe Verts/ALE soutient la directive et cherche à la renforcer en y ajoutant un volet sur les droits humains. L'objectif est de s'assurer que les migrants sont traités avec dignité et respect."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est conforme à la position des Verts/ALE qui prônent l'intégration et la justice sociale."
+          },
+          {
+            "id": "2-4G",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est conforme à la position des Verts/ALE qui prônent une politique ambitieuse."
+          },
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement va à l'encontre de la position des Verts/ALE en conditionnant l'aide."
+          }
+        ],
+        "stratégie": "Faire pression pour intégrer une dimension écologique et éthique. Les Verts/ALE cherchera à s'allier avec les partis qui partagent sa position pour que la directive inclue un volet sur les droits humains.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté technologique n'est pas qu'une question de quotas, c'est aussi une question de droits humains et de dignité.",
+          "Une Europe qui se veut forte doit être un exemple en matière de droits humains."
+        ],
+        "références": [
+          "Position des Verts/ALE dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Conservateurs et Réformistes",
+        "role_europeen": "Porteur",
+        "position": "Limiter les dépenses globales et concentrer sur la cybersécurité.",
+        "enjeux_directive": [
+          "Prudence budgétaire.",
+          "Mettre en avant la protection nationale."
+        ],
+        "impacts_directive": [
+          "Le groupe C&R s'oppose à la directive, car il la considère comme une ingérence dans les affaires nationales et un surcoût social. Il défend le principe de la souveraineté en matière d'immigration et cherchera à faire échouer la directive ou à en limiter la portée."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "description": "Limiter les dépenses globales et concentrer sur la cybersécurité.",
+            "impact": "L'amendement vise à protéger les intérêts des C&R en limitant le budget alloué à la directive."
+          },
+          {
+            "id": "2-4C",
+            "origine": "Hongrie",
+            "impact": "L'amendement est en ligne avec la position des C&R en matière de limitation des obligations."
+          },
+          {
+            "id": "2-4D",
+            "origine": "Pologne",
+            "impact": "L'amendement est en ligne avec la position des C&R qui souhaitent plus de flexibilité."
+          }
+        ],
+        "stratégie": "Plaider pour la subsidiarité et limiter l’ampleur des investissements. Le groupe C&R cherche à s'allier avec les pays qui partagent leurs craintes et qui s'opposent à une approche trop contraignante.",
+        "alliances": [
+          "Hongrie",
+          "Pologne",
+          "Suède"
+        ],
+        "oppositions": [
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté technologique est une utopie qui coûte cher. Il faut privilégier la souveraineté nationale.",
+          "Les contribuables n’ont pas à payer pour une politique technologique qui ne les concerne pas."
+        ],
+        "références": [
+          "Position des Conservateurs et Réformistes dans la directive 2-4."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Gauche Unitaire",
+        "role_europeen": "Non-porteur",
+        "position": "Critique la priorité donnée aux grands groupes au détriment des citoyens.",
+        "enjeux_directive": [
+          "Mettre l’accent sur l’accès universel et la protection sociale."
+        ],
+        "impacts_directive": [
+          "Le groupe Gauche Unitaire s'oppose à la directive, car il la considère comme une ingérence dans les affaires nationales et un surcoût social. Il défend le principe de la souveraineté en matière d'immigration et cherchera à faire échouer la directive ou à en limiter la portée."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est en opposition avec la position de la Gauche Unitaire qui prône l'accès universel et la protection sociale."
+          },
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est conforme à la position de la Gauche Unitaire qui prône la justice sociale."
+          }
+        ],
+        "stratégie": "Faire pression pour une orientation plus sociale et citoyenne. La Gauche Unitaire cherchera à s'allier avec les partis qui partagent sa position pour que la directive inclue un volet sur l'aide financière et logistique.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté technologique n'est pas un slogan. Il faut la traduire par des actes concrets et des fonds.",
+          "Les pays en première ligne ont besoin de notre soutien. C’est une question de justice sociale."
+        ],
+        "références": [
+          "Position de la Gauche Unitaire dans la directive 2-4."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "type": "Lobby",
+        "nom": "Big Tech",
+        "role_europeen": "Développer des solutions numériques pour le suivi et l’accueil des migrants.",
+        "enjeux_directive": [
+          "Influencer la régulation européenne pour limiter les contraintes.",
+          "S’assurer un accès privilégié aux marchés publics."
+        ],
+        "impacts_directive": [
+          "La directive, si elle est adoptée, permettrait à ce lobby de vendre ses technologies et services de suivi, d’accueil et de valorisation des données migratoires, ce qui augmenterait leurs marges et leur compétitivité."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est une opportunité, car il augmenterait les investissements dans les start-ups, ce qui est un marché potentiel pour les solutions technologiques."
+          },
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est une opportunité, car il créerait un fonds pour la formation, ce qui est un marché potentiel pour les solutions technologiques."
+          }
+        ],
+        "stratégie": "Le lobby Big Tech cherche à s'allier avec les partis qui prônent l'innovation et l'investissement dans les technologies de gestion migratoire. Il soutient les pays et partis qui défendent les nouvelles technologies et les investissements dans les réseaux intelligents.",
+        "alliances": [
+          "Renouveau Européen",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent aux nouvelles technologies ou qui les taxent lourdement."
+        ],
+        "éléments_d_argumentaire": [
+          "La gestion migratoire est un enjeu complexe. La technologie est la solution pour la rendre plus efficace et plus humaine."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby Big Tech."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Energies Fossiles",
+        "role_europeen": "Influencer pour éviter les réglementations qui impacteraient les coûts de l'énergie.",
+        "enjeux_directive": [
+          "Éviter une dépendance accrue au numérique qui favorise la transition énergétique.",
+          "Limiter l’impact des régulations climatiques dans le secteur numérique."
+        ],
+        "impacts_directive": [
+          "Ce lobby craint les débats sur l'impact de l'énergie sur l'environnement, car cela pourrait augmenter la pression politique sur l'industrie. Il cherchera à limiter les débats sur ce sujet et à s'opposer à toute augmentation des dépenses pour la solidarité migratoire."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4C",
+            "origine": "Hongrie",
+            "impact": "L'amendement est favorable à la position des Énergies Fossiles, car il limite les obligations pour les États membres."
+          },
+          {
+            "id": "2-4D",
+            "origine": "Pologne",
+            "impact": "L'amendement est favorable à la position des Énergies Fossiles, car il retarde la mise en place de la directive."
+          }
+        ],
+        "stratégie": "Ce lobby cherche à nouer des alliances avec des États membres et des partis qui partagent leur scepticisme vis-à-vis d'une augmentation des dépenses. Leur objectif est de préserver les budgets et de limiter les contraintes sur leurs activités.",
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie"
+        ],
+        "oppositions": [
+          "Verts/ALE",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "Il est nécessaire de protéger l’industrie et la compétitivité de l’Europe. Il ne faut pas s’imposer de nouvelles contraintes financières."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby des Énergies Fossiles."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Banque et Finance",
+        "role_europeen": "Soutenir la structuration financière des dépenses communes.",
+        "enjeux_directive": [
+          "Développer des produits financiers pour les investissements numériques.",
+          "Assurer le retour sur investissement des fonds souverains."
+        ],
+        "impacts_directive": [
+          "Ce lobby soutient la directive, car elle ouvre la voie à de nouveaux investissements dans les programmes d'intégration et les mécanismes de solidarité, ce qui est une source de revenus pour lui."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est une opportunité, car il génère de nouveaux besoins de financement."
+          },
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est une opportunité, car il génère de nouveaux besoins de financement pour la solidarité."
+          }
+        ],
+        "stratégie": "La finance est un allié de la Commission sur cette directive. Elle défend une politique de soutien aux investissements dans les infrastructures d'accueil et d'intégration, car cela crée de nouvelles opportunités de marché. Elle veut aussi un cadre réglementaire stable pour rassurer les investisseurs.",
+        "alliances": [
+          "France",
+          "Allemagne"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent aux investissements publics ou qui prônent une finance plus régulée."
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté technologique nécessite des investissements massifs. La finance est le partenaire naturel de cette transition.",
+          "Un cadre réglementaire clair est essentiel pour mobiliser les investissements privés dans la gestion migratoire."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby de la Banque et Finance."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Agrochimie",
+        "role_europeen": "Utiliser la main-d’œuvre migrante pour soutenir l’agriculture.",
+        "enjeux_directive": [
+          "Bénéficier d’outils numériques pour l’agriculture intelligente.",
+          "Limiter la régulation sur l’usage des données agricoles."
+        ],
+        "impacts_directive": [
+          "La directive, en facilitant l'accès à une main-d'œuvre migrante, serait favorable à ce lobby. L'objectif est de garantir un accès facile au travail saisonnier et de soutenir l'agriculture."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4G",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est favorable à ce lobby, car il garantit un flux constant de données."
+          },
+          {
+            "id": "2-4B",
+            "origine": "Allemagne",
+            "impact": "L'amendement est favorable à ce lobby, car il augmente les quotas de répartition."
+          }
+        ],
+        "stratégie": "Le lobby de l'agrochimie soutient les mesures qui garantissent un accès facile à la main-d'œuvre migrante. Il cherche à s'allier avec les pays et partis qui partagent cette préoccupation.",
+        "alliances": [
+          "Italie",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent à l'utilisation de la main-d'œuvre migrante."
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité alimentaire de l'Europe dépend de la stabilité de l'industrie chimique. Il faut s'assurer que la politique migratoire ne pèse pas sur la compétitivité."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby de l'Agrochimie."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Pharmaceutique",
+        "role_europeen": "Promouvoir la santé publique et l’accès aux soins pour les migrants.",
+        "enjeux_directive": [
+          "Soutenir la recherche en IA appliquée à la santé.",
+          "Protéger les données médicales sensibles."
+        ],
+        "impacts_directive": [
+          "La directive, en garantissant l'accès aux soins pour les migrants, serait favorable à ce lobby. L'objectif est de s'assurer que les migrants sont traités avec dignité et respect et de développer des programmes européens de santé."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est favorable, car il renforce l'aspect social de la directive."
+          },
+          {
+            "id": "2-4H",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est favorable, car il renforce la solidarité financière."
+          }
+        ],
+        "stratégie": "Le lobby pharmaceutique défend le principe de la santé publique, car il est essentiel pour son activité. Il s'allie avec les pays qui défendent la résilience et la stabilité. Son argumentaire met en avant la nécessité de protéger la santé des citoyens et de garantir l'accès aux médicaments.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent aux subventions aux entreprises pharmaceutiques ou qui prônent une régulation trop forte."
+        ],
+        "éléments_d_argumentaire": [
+          "Une Europe qui se veut forte doit d'abord être en mesure de protéger la santé de ses citoyens. Pour cela, il nous faut une politique migratoire sûre et stable."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby pharmaceutique."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Automobile",
+        "role_europeen": "Bénéficier de main-d’œuvre qualifiée issue des migrations.",
+        "enjeux_directive": [
+          "Promouvoir la R&D dans la voiture connectée et autonome.",
+          "Accéder aux financements européens pour l’innovation."
+        ],
+        "impacts_directive": [
+          "La directive, si elle est bien mise en œuvre, pourrait permettre de sécuriser les approvisionnements en main-d'œuvre qualifiée pour l'industrie automobile et de créer de nouveaux débouchés en développant des véhicules pour la défense."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-4A",
+            "origine": "France",
+            "impact": "L'amendement est favorable, car il renforce l'aspect social et l'intégration des migrants, ce qui est une opportunité pour ce lobby."
+          },
+          {
+            "id": "2-4F",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est favorable, car il renforce l'intégration et la formation, ce qui est une opportunité pour ce lobby."
+          }
+        ],
+        "stratégie": "Le lobby automobile soutient la transition énergétique et la défense, mais avec un bémol. Il veut s'assurer que les coûts ne soient pas trop élevés pour l'industrie. Il s'allie avec les partis qui défendent l'innovation et la compétitivité.",
+        "alliances": [
+          "Allemagne",
+          "France"
+        ],
+        "oppositions": [
+          "Les partis qui prônent des mesures trop contraignantes sur le secteur automobile ou des taxes trop lourdes."
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté technologique est une opportunité pour l'industrie automobile. Nous avons besoin de main-d'œuvre qualifiée pour faire face à la transition énergétique."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby de l'Automobile."
+        ]
+      }
+    ]
+  }
+}

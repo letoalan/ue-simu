@@ -1,0 +1,208 @@
+{
+  "directive": {
+    "id": "2-5",
+    "title": "Union européenne de la défense",
+    "description": "Mise en place d’une armée européenne intégrée avec budget commun, état-major partagé et mutualisation des capacités militaires.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Renforcer l’autonomie stratégique de l’Europe.",
+        "Réduire la dépendance à l’OTAN et aux États-Unis.",
+        "Assurer une répartition équitable des charges et responsabilités militaires."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Accroître le budget de défense commun de 30%.",
+        "enjeux": [
+          "Renforcer son rôle moteur en Europe.",
+          "Soutenir son industrie de défense nationale."
+        ],
+        "strategie": "Construire une coalition ambitieuse autour de l’autonomie stratégique."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutien prudent, privilégie une approche progressive.",
+        "enjeux": [
+          "Équilibrer souveraineté européenne et lien avec l’OTAN.",
+          "Limiter les dépenses excessives."
+        ],
+        "role_description": "Médiateur entre les ambitions françaises et les réticences des pays de l’Est."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Intégrer les missions de sécurité civile et humanitaire.",
+        "enjeux": [
+          "Valoriser son rôle dans la Méditerranée.",
+          "Élargir l’image de l’armée européenne à la gestion de crise."
+        ],
+        "strategie": "Plaider pour une défense intégrée à large spectre."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Limiter les prérogatives de l’état-major européen.",
+        "enjeux": [
+          "Préserver sa souveraineté nationale.",
+          "Éviter une centralisation excessive."
+        ],
+        "strategie": "Fédérer les pays sceptiques pour limiter l’intégration."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Garantir la primauté de l’OTAN dans la coordination militaire.",
+        "enjeux": [
+          "Rassurer face à la menace russe.",
+          "Maintenir les garanties de sécurité transatlantique."
+        ],
+        "strategie": "Construire un front pro-OTAN avec les pays baltes."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Soutien à une coopération militaire accrue mais sous contrôle démocratique fort.",
+        "enjeux": [
+          "Préserver sa tradition de neutralité.",
+          "Éviter un alignement militaire excessif."
+        ],
+        "role_description": "Promoteur d’une armée européenne transparente et contrôlée."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Renforcer les capacités de défense communes via un budget structuré.",
+        "enjeux": [
+          "Protéger la sécurité européenne.",
+          "Soutenir les industries militaires."
+        ],
+        "strategie": "Mettre en avant la nécessité de sécurité face aux menaces extérieures."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Associer les missions militaires à des objectifs humanitaires.",
+        "enjeux": [
+          "Assurer la légitimité sociale et politique de la défense européenne.",
+          "Concilier sécurité et valeurs progressistes."
+        ],
+        "strategie": "Construire des alliances transversales autour de la sécurité humaine."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Créer un état-major intégré avec commandement opérationnel.",
+        "enjeux": [
+          "Renforcer l’efficacité militaire européenne.",
+          "Montrer un leadership modernisateur."
+        ],
+        "strategie": "Plaider pour une armée européenne crédible et intégrée."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Non-porteur",
+        "position": "Soutien limité, insistent sur le contrôle démocratique et la réduction des dépenses militaires.",
+        "enjeux": [
+          "Préserver les priorités écologiques et sociales.",
+          "Éviter une dérive militariste."
+        ],
+        "strategie": "Mettre la pression pour des garde-fous démocratiques."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Maintenir un rôle renforcé des États dans les décisions militaires.",
+        "enjeux": [
+          "Protéger la souveraineté nationale.",
+          "Limiter la centralisation européenne."
+        ],
+        "strategie": "Appuyer la subsidiarité et défendre l’OTAN comme pilier principal."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Critique l’armée européenne comme outil militariste au détriment des politiques sociales.",
+        "enjeux": [
+          "Dénoncer l’augmentation des budgets militaires.",
+          "Promouvoir une Europe pacifiste et solidaire."
+        ],
+        "strategie": "S’opposer frontalement à l’intégration militaire."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Développer des solutions de cybersécurité militaire.",
+          "Investir dans l’IA appliquée à la défense."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "France"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Protéger l’accès aux ressources stratégiques.",
+          "Assurer que l’armée européenne sécurise les approvisionnements."
+        ],
+        "alliances": [
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Financer le budget commun de défense.",
+          "Développer des produits financiers liés aux dépenses militaires."
+        ],
+        "alliances": [
+          "Allemagne",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Assurer une protection militaire des chaînes logistiques agricoles.",
+          "Renforcer la sécurité alimentaire en temps de crise."
+        ],
+        "alliances": [
+          "Italie",
+          "S&D"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Développer les capacités médicales militaires.",
+          "Accéder aux budgets R&D liés à la santé en contexte militaire."
+        ],
+        "alliances": [
+          "Verts/ALE",
+          "France"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Fournir véhicules et équipements pour les forces européennes.",
+          "Bénéficier des programmes de modernisation militaire."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Pologne",
+          "PPE"
+        ]
+      }
+    ]
+  }
+}

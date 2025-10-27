@@ -1,0 +1,391 @@
+/* ============================================
+   SÉLECTEURS (MENUS) - Harmonisé avec fiches-acteurs
+   ============================================ */
+
+.selectors-container {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.selectors-container label {
+    font-weight: 600;
+    color: var(--text-main, #37474f);
+    margin-right: 5px;
+}
+
+.selectors-container select,
+.sim-selector {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    transition: border-color 0.2s;
+    min-width: 200px;
+}
+
+.selectors-container select:hover,
+.sim-selector:hover {
+    border-color: var(--primary-color, #1a237e);
+}
+
+.selectors-container select:focus,
+.sim-selector:focus {
+    outline: none;
+    border-color: var(--primary-color, #1a237e);
+    box-shadow: 0 0 0 2px rgba(26, 35, 126, 0.1);
+}
+
+/* ============================================
+   ALTERNATIVE 3 - CARDS GRID
+   ============================================ */
+
+.nego-compact-card {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    overflow: visible;
+    box-shadow: none;
+}
+
+/* En-tête large avec photo intégrée */
+.nego-header {
+    background: linear-gradient(135deg, #1a237e 0%, #3949ab 100%);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.nego-header-content {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.nego-photo-header {
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 12px;
+    border: 3px solid rgba(255,255,255,0.3);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+    background-color: rgba(255,255,255,0.2);
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+}
+
+.nego-header-info {
+    flex: 1;
+}
+
+.nego-header-info h2 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+    color: #fff;
+}
+
+.nego-header-subtitle {
+    margin: 0 0 15px 0;
+    opacity: 0.9;
+    font-size: 14px;
+}
+
+.nego-header-badges {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.nego-header-badge {
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: 600;
+    background: rgba(255,255,255,0.9);
+    color: var(--primary-color, #1a237e);
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.nego-header-menu {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255,255,255,0.3);
+}
+
+.nego-header-menu .selectors-container {
+    margin-bottom: 0;
+}
+
+.nego-header-menu label {
+    color: #fff;
+    opacity: 0.9;
+}
+
+.nego-header-menu select {
+    background: rgba(255,255,255,0.95);
+    border: 1px solid rgba(255,255,255,0.3);
+    color: var(--text-main, #37474f);
+}
+
+.nego-header-menu select:hover {
+    background: #fff;
+    border-color: #fff;
+}
+
+@media (max-width: 768px) {
+    .nego-header-content {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .nego-photo-header {
+        width: 120px;
+        height: 120px;
+    }
+
+    .nego-header-badges {
+        justify-content: center;
+    }
+}
+
+/* Layout en grille de cartes */
+.nego-main-content {
+    display: grid;
+    gap: 20px;
+    padding: 0;
+}
+
+.nego-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+/* Cartes de contenu */
+.nego-card {
+    background: var(--surface, #fff);
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: var(--shadow-md, 0 4px 12px rgba(0,0,0,0.1));
+    border-top: 4px solid var(--primary-color, #1a237e);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.nego-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+
+.nego-card-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.subject-header {
+    padding: 12px 16px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border-radius: 8px;
+    margin-bottom: 16px;
+    border-left: 4px solid #3498db;
+}
+
+
+.nego-card-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--primary-color, #1a237e);
+    margin: 0;
+}
+
+.nego-card-badge {
+    background: var(--primary-color, #1a237e);
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 700;
+}
+
+.nego-card-content {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #444;
+}
+
+/* Carte Stratégie - Pleine largeur */
+.nego-card-strategy {
+    grid-column: 1 / -1;
+}
+
+/* Carte Notes - Pleine largeur */
+.nego-card-notes {
+    grid-column: 1 / -1;
+    background: #fffbf0;
+    border-top-color: #ff9800;
+}
+
+.notes-content {
+    font-family: 'Courier New', monospace;
+    font-size: 13px;
+    line-height: 1.7;
+    color: #666;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    white-space: pre-wrap;
+    margin-top: 10px;
+}
+
+/* Listes dans les cartes */
+.nego-card-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nego-card-list-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 10px;
+    background-color: #f8fdf9;
+    border-left: 3px solid #4caf50;
+    border-radius: 6px;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.nego-card-list-item.opposition {
+    background-color: #fff5f5;
+    border-left-color: #f44336;
+}
+
+.nego-card-list-item-icon {
+    font-size: 14px;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.nego-card-list-item-text {
+    flex: 1;
+    color: #555;
+}
+
+.nego-card-list-item strong {
+    color: var(--text-main, #37474f);
+    font-weight: 600;
+}
+
+/* Arguments en grille */
+.arguments-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+}
+
+.argument-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 12px;
+    background-color: #fff;
+    border-left: 3px solid var(--primary-color, #1a237e);
+    border-radius: 6px;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #444;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.argument-item::before {
+    content: '✓';
+    color: var(--primary-color, #1a237e);
+    font-weight: 700;
+    font-size: 14px;
+    flex-shrink: 0;
+}
+
+/* Badge confidentiel */
+.confidential-mini {
+    background-color: #ff9800;
+    color: #fff;
+    padding: 4px 12px;
+    border-radius: 12px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* Responsive */
+@media (max-width: 968px) {
+    .nego-cards-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .nego-card-strategy,
+    .nego-card-notes {
+        grid-column: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .arguments-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .nego-header {
+        padding: 20px;
+    }
+
+    .nego-card {
+        padding: 18px;
+    }
+}
+
+/* Animation d'apparition */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.nego-card {
+    animation: fadeInUp 0.4s ease-out backwards;
+}
+
+.nego-card:nth-child(1) { animation-delay: 0.05s; }
+.nego-card:nth-child(2) { animation-delay: 0.1s; }
+.nego-card:nth-child(3) { animation-delay: 0.15s; }
+.nego-card:nth-child(4) { animation-delay: 0.2s; }
+.nego-card:nth-child(5) { animation-delay: 0.25s; }
+.nego-card:nth-child(6) { animation-delay: 0.3s; }

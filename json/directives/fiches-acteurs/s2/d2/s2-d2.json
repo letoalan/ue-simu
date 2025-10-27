@@ -1,0 +1,739 @@
+{
+  "directive": {
+    "id": "2-8",
+    "title": "Souveraineté numérique et cybersécurité",
+    "description": "Définir des normes communes de cybersécurité, créer un corps européen de cybersécurité et mutualiser les ressources. Renforcer la résilience face aux cyberattaques, garantir la souveraineté numérique et protéger les infrastructures critiques de l’UE."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Garantir la souveraineté numérique et la cybersécurité de l'Union en instaurant des normes communes, en mutualisant les ressources et en créant un corps européen de cybersécurité. La Commission joue le rôle de médiateur pour trouver un compromis entre les États membres et les partis politiques.",
+    "enjeux_directive": [
+      "Protéger les infrastructures critiques de l'UE.",
+      "Garantir la sécurité des citoyens et des entreprises.",
+      "Renforcer la compétitivité numérique de l'UE.",
+      "Assurer la résilience face aux cybermenaces."
+    ],
+    "impacts_directive": [
+      "La directive renforce le rôle de la Commission en tant que garant de la sécurité numérique et de la résilience cybernétique de l'Union.",
+      "Réduire la vulnérabilité aux cyberattaques et renforcer l'autonomie stratégique numérique."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-8A",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "impact": "Cet amendement renforcerait la protection globale mais augmenterait la complexité de mise en œuvre et les coûts."
+      },
+      {
+        "id": "2-8B",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "impact": "Cet amendement stimulerait l'innovation mais nécessiterait des investissements publics importants."
+      },
+      {
+        "id": "2-8C",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur",
+        "impact": "Cet amendement améliorerait les compétences mais pourrait retarder le déploiement des mesures."
+      },
+      {
+        "id": "2-8D",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "impact": "Cet amendement renforcerait la réactivité mais nécessiterait une coordination opérationnelle complexe."
+      },
+      {
+        "id": "2-8E",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité",
+        "impact": "Cet amendement réduirait les coûts mais affaiblirait la protection collective."
+      },
+      {
+        "id": "2-8F",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes",
+        "impact": "Cet amendement permettrait des flexibilités nationales mais créerait des failles de sécurité."
+      },
+      {
+        "id": "2-8G",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "impact": "Cet amendement respecterait la subsidiarité mais pourrait fragmenter les efforts européens."
+      },
+      {
+        "id": "2-8H",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans",
+        "impact": "Cet amendement permettrait une adaptation progressive mais retarderait la protection nécessaire."
+      }
+    ],
+    "stratégie": "Trouver un équilibre entre sécurité numérique robuste, respect des spécificités nationales et faisabilité budgétaire. La Commission soutient les amendements qui renforcent la résilience sans compromettre l'innovation.",
+    "alliances": [
+      "Socialistes et Démocrates",
+      "Renouveau Européen"
+    ],
+    "oppositions": [
+      "Hongrie",
+      "Pologne",
+      "Conservateurs et Réformistes"
+    ],
+    "éléments_d_argumentaire": [
+      "La souveraineté numérique est un pilier de l'autonomie stratégique européenne. Des normes communes sont une nécessité pour notre sécurité collective.",
+      "Cette directive permettra de protéger nos citoyens, nos entreprises et nos démocraties contre les cybermenaces croissantes."
+    ],
+    "références": [
+      "s2d2.json (directive, commission)",
+      "scenario2.json (directive 8)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Soutient des normes communes tout en préservant les compétences de son industrie et de ses agences de sécurité.",
+      "enjeux_directive": [
+        "Protéger son industrie et ses infrastructures critiques (énergie, automobile).",
+        "Éviter des contraintes excessives sur son secteur technologique."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'Allemagne de sécuriser son leadership industriel numérique et de promouvoir ses standards."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8F",
+          "origine": "Allemagne",
+          "description": "Exclure certains secteurs des normes communes",
+          "impact": "L'Allemagne soutient cet amendement pour préserver la flexibilité de ses secteurs stratégiques."
+        }
+      ],
+      "stratégie": "Défendre une approche robuste de cybersécurité tout en protégeant les intérêts industriels nationaux et l'autonomie des Länder.",
+      "alliances": [
+        "France",
+        "Suède",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Notre industrie a besoin de sécurité numérique pour innover et rester compétitive. Des normes solides mais pragmatiques sont essentielles."
+      ],
+      "références": [
+        "s2d2.json (countries, Allemagne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Favorable à une souveraineté numérique forte et à un corps européen de cybersécurité ambitieux.",
+      "enjeux_directive": [
+        "Renforcer la position de la France comme leader européen du numérique et de la sécurité.",
+        "Protéger ses champions nationaux (ex: Thales, Atos) et ses infrastructures sensibles."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la France de consolider son rôle central dans la cybersécurité européenne et d'exporter son expertise."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8D",
+          "origine": "Socialistes & Démocrates",
+          "description": "Créer un mécanisme de réponse rapide aux cyberattaques",
+          "impact": "La France soutient cet amendement pour renforcer la capacité opérationnelle européenne."
+        }
+      ],
+      "stratégie": "Promouvoir une vision ambitieuse de la souveraineté numérique qui bénéficie à l'industrie française et à la sécurité européenne.",
+      "alliances": [
+        "Allemagne",
+        "Italie",
+        "Parti Populaire Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "La France est un acteur majeur de la cybersécurité en Europe. Cette directive renforcera notre sécurité collective et notre indépendance technologique."
+      ],
+      "références": [
+        "s2d2.json (countries, France)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Demande des flexibilités dans l'application des normes et un soutien au développement de ses capacités nationales.",
+      "enjeux_directive": [
+        "Adapter les obligations à ses capacités techniques et budgétaires.",
+        "Bénéficier des fonds européens pour moderniser sa cybersécurité."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par l'Italie comme une nécessité mais aussi une charge nécessitant des investissements et un soutien adaptés."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8E",
+          "origine": "Italie",
+          "description": "Limiter le champ d’action du corps européen de cybersécurité",
+          "impact": "L'Italie soutient cet amendement pour adapter la directive à ses réalités nationales."
+        }
+      ],
+      "stratégie": "Obtenir des flexibilités et des soutiens financiers pour la mise en œuvre, tout en souscrivant à l'objectif de sécurité collective.",
+      "alliances": [
+        "France",
+        "Hongrie",
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "Nous soutenons la cybersécurité européenne, mais elle doit être techniquement et financièrement accessible à tous les États membres."
+      ],
+      "références": [
+        "s2d2.json (countries, Italie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Demande de reporter la mise en œuvre et de limiter les contraintes sur la souveraineté numérique nationale.",
+      "enjeux_directive": [
+        "Limiter l'impact budgétaire et les ingérences dans la gestion nationale de la sécurité.",
+        "Préserver le contrôle sur les infrastructures numériques critiques."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par la Hongrie comme une charge financière et une atteinte à sa souveraineté nationale en matière de sécurité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8H",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive de deux ans",
+          "impact": "La Hongrie soutient cet amendement pour retarder le fardeau financier et réglementaire."
+        }
+      ],
+      "stratégie": "S’opposer aux obligations trop coûteuses et contraignantes, et défendre le principe de souveraineté nationale en matière numérique.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité numérique ne doit pas se faire au détriment de la stabilité budgétaire et de la souveraineté des États membres. Nous avons besoin de temps et de flexibilité."
+      ],
+      "références": [
+        "s2d2.json (countries, Hongrie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Soutient prioritairement le renforcement des capacités nationales plutôt que des mécanismes centralisés européens.",
+      "enjeux_directive": [
+        "Valoriser et financer ses propres initiatives et industries de cybersécurité.",
+        "Éviter une dépendance excessive vis-à-vis des structures bruxelloises."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Pologne d'obtenir des fonds pour moderniser sa cybersécurité, mais elle craint une perte d'autonomie."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+          "impact": "La Pologne soutient cet amendement pour maximiser l'autonomie et le financement national."
+        }
+      ],
+      "stratégie": "Mettre en avant le rôle des États membres et obtenir un soutien européen pour les initiatives nationales de cybersécurité.",
+      "alliances": [
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "La cybersécurité commence au niveau national. Soutenons et finançons d'abord les capacités des États membres, la coopération viendra ensuite."
+      ],
+      "références": [
+        "s2d2.json (countries, Pologne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Prône une approche progressive, innovante et respectueuse de la vie privée pour la cybersécurité.",
+      "enjeux_directive": [
+        "Permettre une adaptation technologique et réglementaire ordonnée.",
+        "Garantir que les mesures de sécurité respectent les droits fondamentaux."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Suède de promouvoir une cybersécurité efficace, innovante et éthique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8B",
+          "origine": "Renouveau Européen",
+          "description": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+          "impact": "La Suède soutient cet amendement pour une approche tournée vers l'innovation et les solutions futures."
+        }
+      ],
+      "stratégie": "Promouvoir une mise en œuvre réfléchie, innovante et respectueuse des droits, pour une cybersécurité durable et efficace.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Une cybersécurité robuste nécessite innovation et confiance. Investissons dans la recherche et respectons les droits fondamentaux pour une protection durable."
+      ],
+      "références": [
+        "s2d2.json (countries, Suède)"
+      ]
+    }
+  ],
+  "parties": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Propose d'élargir le corps européen de cybersécurité à tous les secteurs critiques pour une protection maximale.",
+      "enjeux_directive": [
+        "Maximiser la sécurité des infrastructures et des citoyens européens.",
+        "Stimuler l'industrie européenne de la cybersécurité."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le PPE de démontrer son engagement pour une Europe sûre et technologiquement souveraine."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8A",
+          "origine": "Parti Populaire Européen",
+          "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+          "impact": "Le PPE soutient cet amendement pour une protection complète et ambitieuse."
+        }
+      ],
+      "stratégie": "Soutenir une approche ambitieuse et globale de la cybersécurité qui protège tous les secteurs vitaux de l'économie.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Suède",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Gauche Unitaire",
+        "Verts/ALE (sur certains aspects)"
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité numérique est non négociable. Une protection complète de nos infrastructures critiques est une assurance vitale pour notre économie et notre démocratie."
+      ],
+      "références": [
+        "s2d2.json (parties, Parti Populaire Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Prône la création d'un mécanisme de réponse rapide aux cyberattaques et un fonds pour la cybersécurité.",
+      "enjeux_directive": [
+        "Garantir une protection efficace et solidaire face aux cybermenaces.",
+        "Soutenir les investissements publics dans la sécurité numérique."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les S&D de promouvoir la solidarité européenne et les investissements publics dans un bien commun numérique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8D",
+          "origine": "Socialistes & Démocrates",
+          "description": "Créer un mécanisme de réponse rapide aux cyberattaques",
+          "impact": "Les S&D soutiennent fermement cet amendement pour une Europe plus résiliente et réactive."
+        }
+      ],
+      "stratégie": "Pousser pour des investissements publics et une coordination opérationnelle forte au niveau européen.",
+      "alliances": [
+        "Verts/ALE",
+        "Gauche Unitaire",
+        "France"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Parti Populaire Européen (sur le niveau de centralisation)"
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité numérique passe par une réponse européenne commune aux cyberattaques. Investissons dans la protection de tous."
+      ],
+      "références": [
+        "s2d2.json (parties, Socialistes et Démocrates)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Demande la création d'un fonds européen pour l'innovation en cybersécurité.",
+      "enjeux_directive": [
+        "Accélérer l'innovation et le développement technologique européen dans la cybersécurité.",
+        "Positionner l'Europe en leader des solutions de sécurité numériques."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour RE de promouvoir l'innovation, la recherche et les startups européennes dans le domaine cyber."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8B",
+          "origine": "Renouveau Européen",
+          "description": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+          "impact": "RE soutient cet amendement pour une vision tournée vers l'avenir et l'innovation."
+        }
+      ],
+      "stratégie": "S’assurer que la sécurité numérique sert de levier pour l'innovation, la compétitivité et la croissance des entreprises européennes.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "France",
+        "Suède"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité de demain se construit avec l'innovation d'aujourd'hui. Investissons dans la recherche et les startups cyber pour une Europe leader."
+      ],
+      "références": [
+        "s2d2.json (parties, Renouveau Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Conditionne le soutien au strict respect des droits fondamentaux et à la protection de la vie privée.",
+      "enjeux_directive": [
+        "Éviter la surveillance de masse et les atteintes aux libertés individuelles.",
+        "Promouvoir une cybersécurité éthique et durable."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les Verts/ALE d'ancrer la sécurité numérique dans le respect des droits et des valeurs européennes."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8C",
+          "origine": "Gauche Unitaire",
+          "description": "Conditionner les aides à la formation des professionnels du secteur",
+          "impact": "Les Verts/ALE soutiennent cet amendement qui met l'accent sur l'humain et les compétences."
+        }
+      ],
+      "stratégie": "Pousser pour que la cybersécurité soit mise en œuvre dans le strict respect de la vie privée, des droits fondamentaux et des principes éthiques.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Parti Populaire Européen (sur les risques de surveillance)"
+      ],
+      "éléments_d_argumentaire": [
+        "La meilleure sécurité numérique est celle qui protège à la fois nos systèmes et nos libertés. Refusons tout compromis sur les droits fondamentaux."
+      ],
+      "références": [
+        "s2d2.json (parties, Verts/ALE)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Prudence sur les coûts et défense de la primauté des actions nationales en matière de cybersécurité.",
+      "enjeux_directive": [
+        "Limiter les contraintes et dépenses supranationales.",
+        "Préserver la souveraineté nationale en matière de sécurité et de défense numérique."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par les C&R comme une ingérence coûteuse et inefficace dans un domaine régalien qui doit rester national."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+          "impact": "Les C&R soutiennent cet amendement qui défend le principe de subsidiarité et l'action nationale."
+        },
+        {
+          "id": "2-8H",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive de deux ans",
+          "impact": "Les C&R soutiennent cet amendement pour retarder des dépenses et contraintes perçues comme excessives."
+        }
+      ],
+      "stratégie": "S’opposer aux mesures trop centralisées et coûteuses, et défendre la primauté des décisions et capacités nationales.",
+      "alliances": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "Bruxelles ne doit pas dicter notre sécurité numérique. La souveraineté nationale, l'efficacité et l'équilibre budgétaire passent avant tout."
+      ],
+      "références": [
+        "s2d2.json (parties, Conservateurs et Réformistes)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire",
+      "role_europeen": "Met l'accent sur la formation, l'emploi et la protection des droits face aux mesures sécuritaires.",
+      "enjeux_directive": [
+        "Éviter la militarisation du cyberespace et les dérives sécuritaires.",
+        "Orienter les investissements vers la formation et la création d'emplois qualifiés."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par la Gauche Unitaire comme un risque de dérive sécuritaire et un mauvais choix d'investissement sans garanties sociales."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8C",
+          "origine": "Gauche Unitaire",
+          "description": "Conditionner les aides à la formation des professionnels du secteur",
+          "impact": "La Gauche Unitaire soutient son amendement pour prioriser l'humain, l'emploi et les compétences."
+        }
+      ],
+      "stratégie": "S’opposer à toute mesure purement sécuritaire et exiger que les fonds soient prioritairement dirigés vers la formation, l'emploi et la protection des droits.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes",
+        "Renouveau Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "La véritable sécurité numérique passe par l'éducation, la formation et la protection des droits, pas par une course aux armements cybernétiques. Investissons dans les personnes."
+      ],
+      "références": [
+        "s2d2.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les grandes entreprises technologiques, qui cherchent à influencer les normes pour favoriser leurs solutions et accéder aux marchés publics de cybersécurité.",
+      "enjeux_directive": [
+        "Promouvoir l'adoption de technologies cloud et d'IA pour la sécurité.",
+        "Influencer les normes techniques pour qu'elles correspondent à leurs offres."
+      ],
+      "impacts_directive": [
+        "La directive ouvre un nouveau marché immense pour les solutions de cybersécurité portées par les Big Tech."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8B",
+          "origine": "Renouveau Européen",
+          "description": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+          "impact": "Big Tech soutient cet amendement, source de financements pour la R&D et l'adoption de leurs technologies."
+        }
+      ],
+      "stratégie": "S'allier avec les partis et États favorables à l'innovation technologique et aux partenariats public-privé dans le cyber.",
+      "alliances": [
+        "Renouveau Européen",
+        "Socialistes et Démocrates",
+        "Suède",
+        "France"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'innovation technologique des acteurs privés est la clé d'une cybersécurité efficace. Partnerisons avec l'Europe pour protéger ses citoyens."
+      ],
+      "références": [
+        "s2d2.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Energies fossiles",
+      "role_europeen": "Représente les industries énergétiques, très ciblées par les cyberattaques, qui cherchent à sécuriser leurs infrastructures sans contraintes réglementaires excessives.",
+      "enjeux_directive": [
+        "Sécuriser les infrastructures critiques énergétiques (réseaux, pipelines, centrales).",
+        "Limiter le coût de la mise en conformité avec les nouvelles normes."
+      ],
+      "impacts_directive": [
+        "La directive est cruciale pour la protection du secteur énergétique mais représente aussi un coût de compliance important."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8F",
+          "origine": "Allemagne",
+          "description": "Exclure certains secteurs des normes communes",
+          "impact": "Le lobby des énergies fossiles pourrait soutenir cet amendement pour obtenir des exemptions ou normes spécifiques moins contraignantes."
+        }
+      ],
+      "stratégie": "S’allier avec les États et partis défendant une approche pragmatique et peu contraignante pour les industries existantes.",
+      "alliances": [
+        "Hongrie",
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La sécurité de l'approvisionnement énergétique est primordiale. Les mesures cyber ne doivent pas entraver notre capacité à produire et distribuer l'énergie."
+      ],
+      "références": [
+        "s2d2.json (lobbies, Energies fossiles)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente le secteur financier, extrêmement exposé aux cyber-risques, qui cherche à harmoniser et renforcer la protection sans nuire à l'innovation financière.",
+      "enjeux_directive": [
+        "Harmoniser les règles de cybersécurité dans le secteur financier pour réduire les coûts de compliance.",
+        "Protéger les systèmes financiers des cyberattaques qui pourraient provoquer une crise."
+      ],
+      "impacts_directive": [
+        "La directive pourrait simplifier la compliance pour les banques opérant dans plusieurs pays mais aussi imposer de nouveaux investissements."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8A",
+          "origine": "Parti Populaire Européen",
+          "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+          "impact": "Le lobby de la finance soutient cet amendement si le secteur financier est clairement identifié comme critique et protégé."
+        }
+      ],
+      "stratégie": "Soutenir une harmonisation réglementaire forte au niveau européen pour le secteur financier, considéré comme critique.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Socialistes et Démocrates",
+        "France",
+        "Allemagne"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La stabilité financière est essentielle à l'économie européenne. Une cybersécurité robuste et harmonisée est non négociable pour notre secteur."
+      ],
+      "références": [
+        "s2d2.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente l'industrie chimique et agroalimentaire, de plus en plus digitalisée et vulnérable, qui cherche à sécuriser ses chaines de production et logistiques.",
+      "enjeux_directive": [
+        "Protéger la propriété intellectuelle (brevets, formules) et les secrets industriels des cyber-espionnages.",
+        "Sécuriser les chaines logistiques et de production automatisées."
+      ],
+      "impacts_directive": [
+        "La directive est importante pour l'agrochimie, dont la compétitivité dépend de la protection de ses innovations et de la continuité de ses opérations."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8A",
+          "origine": "Parti Populaire Européen",
+          "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+          "impact": "Le lobby de l'agrochimie soutient cet amendement si le secteur industriel est inclus comme critique."
+        }
+      ],
+      "stratégie": "S’allier avec les États et partis prônant une protection forte de l'industrie et de la propriété intellectuelle contre les cybermenaces.",
+      "alliances": [
+        "Allemagne",
+        "Parti Populaire Européen",
+        "Pologne"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Notre industrie innove pour la sécurité alimentaire et la santé. Nos recherches must be protégées des cyber-attaques pour préserver notre compétitivité."
+      ],
+      "références": [
+        "s2d2.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharma",
+      "role_europeen": "Représente l'industrie pharmaceutique, dont la R&D et la production sont hautement sensibles et numérisées.",
+      "enjeux_directive": [
+        "Protéger les données de recherche clinique et les secrets de fabrication.",
+        "Garantir l'intégrité et la sécurité des processus de production automatisés."
+      ],
+      "impacts_directive": [
+        "La directive est vitale pour le secteur pharmaceutique, où une cyberattaque pourrait compromettre la production de médicaments ou voler des données sensibles."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8A",
+          "origine": "Parti Populaire Européen",
+          "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+          "impact": "Le lobby pharmaceutique soutient cet amendement pour une protection maximale du secteur de la santé."
+        }
+      ],
+      "stratégie": "S’allier avec tous les acteurs défendant une sécurité renforcée pour les infrastructures de santé et de recherche.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La production de médicaments et la recherche sont des questions de santé publique. Elles must be protégées contre les cyberattaques qui pourraient mettre des vies en danger."
+      ],
+      "références": [
+        "s2d2.json (lobbies, Pharma)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, de plus en plus connectée et vulnérable, qui cherche à sécuriser les véhicules et les données sans entraver l'innovation.",
+      "enjeux_directive": [
+        "Sécuriser les véhicules connectés et autonomes contre les piratages.",
+        "Protéger les données des clients collectées par les véhicules."
+      ],
+      "impacts_directive": [
+        "La directive est cruciale pour garantir la confiance dans les véhicules connectés, mais elle pourrait imposer de nouveaux standards coûteux."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8B",
+          "origine": "Renouveau Européen",
+          "description": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+          "impact": "Le lobby automobile soutient cet amendement, qui pourrait financer la R&D pour la cybersécurité des véhicules."
+        }
+      ],
+      "stratégie": "Soutenir les mesures qui sécurisent l'écosystème automobile connecté tout en stimulant l'innovation et en partageant les coûts, en particulier dans le domaine de la voiture autonome et la sécurité de l'informatique embarquée.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Vert/ALE"
+      ],
+      "éléments_d_argumentaire": [
+        "Notre transition vers la voiture autonome exige de sortir de la domination logicielle des GAMAM. Cette directive est un pas dans la bonne direction."
+      ],
+      "références": [
+        "s2-d2.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

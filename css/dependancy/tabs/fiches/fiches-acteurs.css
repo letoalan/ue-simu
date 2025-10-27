@@ -1,0 +1,529 @@
+/* --- MISE EN PAGE POUR FICHES ACTEURS / ETATS --- */
+
+.leaflet-map-container {
+    width: 100%;
+    flex-grow: 1;
+    min-height: 500px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #f0f0f0;
+}
+
+/* --- STYLES COMMUNS POUR LES SÉLECTEURS (MENUS) --- */
+.selectors-container {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.selectors-container label {
+    font-weight: 600;
+    color: var(--text-main, #37474f);
+    margin-right: 5px;
+}
+
+.selectors-container select,
+.sim-selector {
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    background-color: #fff;
+    font-size: 14px;
+    cursor: pointer;
+    transition: border-color 0.2s;
+    min-width: 200px;
+}
+
+.selectors-container select:hover,
+.sim-selector:hover {
+    border-color: var(--primary-color, #1a237e);
+}
+
+.selectors-container select:focus,
+.sim-selector:focus {
+    outline: none;
+    border-color: var(--primary-color, #1a237e);
+    box-shadow: 0 0 0 2px rgba(26, 35, 126, 0.1);
+}
+
+/* --- ONGLET ÉTATS --- */
+#fiches-etats-sub-tab .content-display-area.two-cols {
+    flex-direction: row;
+    align-items: stretch;
+    gap: 25px;
+    overflow: hidden;
+    width: 100%;
+}
+
+#fiches-etats-sub-tab .left-col,
+#fiches-etats-sub-tab .right-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    min-width: 0;
+    max-width: calc(50% - 12.5px);
+    overflow: hidden;
+}
+
+#fiches-etats-sub-tab .right-col .sim-selector {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#fiches-etats-sub-tab .right-col .fiches-card {
+    background-color: var(--surface, #fff);
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px 20px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    flex-grow: 1;
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+    z-index: 1;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    overflow: hidden;
+    min-width: 0;
+    box-sizing: border-box;
+    width: calc(100% - 10px);
+    margin-right: 5px;
+}
+
+#fiches-etats-sub-tab .right-col .fiches-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    z-index: -1;
+}
+
+.fiches-card > * + * {
+    margin-top: 1.2em;
+}
+
+.fiches-card h3 {
+    margin-top: 0;
+    color: var(--primary-color, #1a237e);
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.fiches-card ul {
+    padding-left: 20px;
+    margin-top: 5px;
+    list-style: disc;
+    overflow: hidden;
+}
+
+.fiches-card li {
+    margin-bottom: 8px;
+    word-break: break-word;
+    line-height: 1.4;
+}
+
+.fiches-card strong, .fiches-card b {
+    color: var(--text-main, #37474f);
+    font-weight: 600;
+}
+
+.fiches-card p,
+.fiches-card ul,
+.fiches-card li {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
+
+/* --- ONGLET COMMISSION --- */
+.commission-info-col {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    min-width: 0;
+    overflow: hidden;
+}
+
+.commission-card {
+    background-color: var(--surface, #fff);
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    flex-grow: 1;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    overflow: hidden;
+    min-width: 0;
+}
+
+#fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-horizontal {
+    flex-direction: row;
+    align-items: stretch;
+    overflow: hidden;
+}
+
+#fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-horizontal .photo-container {
+    flex: 0 0 calc(50% - 12.5px);
+    min-width: 0;
+    overflow: hidden;
+}
+
+#fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-horizontal .commission-info-col {
+    flex: 0 0 calc(50% - 12.5px);
+    min-width: 0;
+    overflow: hidden;
+}
+
+#fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-vertical {
+    flex-direction: column;
+}
+
+#fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-vertical .photo-container,
+#fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-vertical .commission-info-col {
+    width: 100%;
+}
+
+.commission-card h3 {
+    margin-top: 0;
+    color: var(--primary-color, #1a237e);
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.commission-card ul {
+    padding-left: 20px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+.commission-card li {
+    margin-bottom: 8px;
+    word-break: break-word;
+    line-height: 1.4;
+}
+
+.commission-card strong, .commission-card b {
+    color: var(--text-main, #37474f);
+    font-weight: 600;
+}
+
+.commission-card p,
+.commission-card ul,
+.commission-card li {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
+
+.commission-info-col .sim-selector {
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+/* --- ONGLET PARTIS --- */
+#fiches-partis-sub-tab .content-display-area.layout-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    gap: 25px;
+    overflow: hidden;
+    width: 100%;
+}
+
+#fiches-partis-sub-tab .content-display-area.layout-horizontal #fiches-partis-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    min-width: 0;
+    max-width: calc(50% - 12.5px);
+    overflow: hidden;
+    background-color: var(--surface, #fff);
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+#fiches-partis-sub-tab .content-photos-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    min-width: 0;
+    max-width: calc(50% - 12.5px);
+    overflow: hidden;
+}
+
+#fiches-partis-sub-tab .content-photos-column .content-photo {
+    flex: 1;
+    min-height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #f9f9f9;
+}
+
+#fiches-partis-photo-1 {
+    background-size: contain;
+}
+
+#fiches-partis-photo-2 {
+    background-size: cover;
+}
+
+#fiches-partis-text h3 {
+    margin-top: 0;
+    color: var(--primary-color, #1a237e);
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#fiches-partis-text h4 {
+    color: var(--primary-color, #1a237e);
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#fiches-partis-text ul {
+    padding-left: 20px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+#fiches-partis-text li {
+    margin-bottom: 8px;
+    word-break: break-word;
+    line-height: 1.4;
+}
+
+#fiches-partis-text strong, #fiches-partis-text b {
+    color: var(--text-main, #37474f);
+    font-weight: 600;
+}
+
+#fiches-partis-text p,
+#fiches-partis-text ul,
+#fiches-partis-text li {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
+
+/* --- ONGLET LOBBIES --- */
+#fiches-lobbies-sub-tab .content-display-area.layout-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    gap: 25px;
+    overflow: hidden;
+    width: 100%;
+}
+
+#fiches-lobbies-sub-tab .content-display-area.layout-horizontal #fiches-lobbies-text {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    min-width: 0;
+    max-width: calc(50% - 12.5px);
+    overflow: hidden;
+    background-color: var(--surface, #fff);
+    border: 1px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px 25px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+#fiches-lobbies-sub-tab .content-photos-column {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    min-width: 0;
+    max-width: calc(50% - 12.5px);
+    overflow: hidden;
+}
+
+#fiches-lobbies-sub-tab .content-photos-column .content-photo {
+    flex: 1;
+    min-height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    background-color: #f9f9f9;
+}
+
+#fiches-lobbies-photo-1 {
+    background-size: contain;
+}
+
+#fiches-lobbies-photo-2 {
+    background-size: cover;
+}
+
+#fiches-lobbies-text h3 {
+    margin-top: 0;
+    color: var(--primary-color, #1a237e);
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+#fiches-lobbies-text h4 {
+    color: var(--primary-color, #1a237e);
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+#fiches-lobbies-text ul {
+    padding-left: 20px;
+    margin-top: 5px;
+    overflow: hidden;
+}
+
+#fiches-lobbies-text li {
+    margin-bottom: 8px;
+    word-break: break-word;
+    line-height: 1.4;
+}
+
+#fiches-lobbies-text strong, #fiches-lobbies-text b {
+    color: var(--text-main, #37474f);
+    font-weight: 600;
+}
+
+#fiches-lobbies-text p,
+#fiches-lobbies-text ul,
+#fiches-lobbies-text li {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+}
+
+/* --- GRAPHIQUES --- */
+.chart-container {
+    margin-top: 20px;
+    height: 400px;
+    width: 100%;
+}
+
+/* --- RÈGLES RESPONSIVES --- */
+@media (max-width: 768px) {
+    #fiches-etats-sub-tab .content-display-area.two-cols {
+        flex-direction: column;
+        overflow: visible;
+    }
+
+    #fiches-etats-sub-tab .left-col,
+    #fiches-etats-sub-tab .right-col {
+        max-width: none;
+        overflow: visible;
+    }
+
+    #fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-horizontal {
+        flex-direction: column !important;
+        overflow: visible;
+    }
+
+    #fiches-acteurs-tab #fiches-commission-sub-tab .content-display-area.layout-horizontal .photo-container,
+    #fiches-commission-sub-tab .content-display-area.layout-horizontal .commission-info-col {
+        flex: none;
+        width: 100%;
+        min-width: 0;
+        overflow: visible;
+    }
+
+    /* Responsive Partis */
+    #fiches-partis-sub-tab .content-display-area.layout-horizontal {
+        flex-direction: column !important;
+        overflow: visible;
+    }
+
+    #fiches-partis-sub-tab .content-display-area.layout-horizontal #fiches-partis-text,
+    #fiches-partis-sub-tab .content-photos-column {
+        max-width: none;
+        width: 100%;
+        overflow: visible;
+    }
+
+    #fiches-partis-sub-tab .content-photos-column .content-photo {
+        min-height: 200px;
+    }
+
+    /* Responsive Lobbies */
+    #fiches-lobbies-sub-tab .content-display-area.layout-horizontal {
+        flex-direction: column !important;
+        overflow: visible;
+    }
+
+    #fiches-lobbies-sub-tab .content-display-area.layout-horizontal #fiches-lobbies-text,
+    #fiches-lobbies-sub-tab .content-photos-column {
+        max-width: none;
+        width: 100%;
+        overflow: visible;
+    }
+
+    #fiches-lobbies-sub-tab .content-photos-column .content-photo {
+        min-height: 200px;
+    }
+
+    .selectors-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .selectors-container select,
+    .sim-selector {
+        width: 100%;
+        min-width: 0;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    #fiches-etats-sub-tab .left-col,
+    #fiches-etats-sub-tab .right-col {
+        max-width: calc(50% - 12.5px);
+    }
+
+    #fiches-partis-sub-tab .content-display-area.layout-horizontal #fiches-partis-text,
+    #fiches-partis-sub-tab .content-photos-column {
+        max-width: calc(50% - 12.5px);
+    }
+
+    #fiches-lobbies-sub-tab .content-display-area.layout-horizontal #fiches-lobbies-text,
+    #fiches-lobbies-sub-tab .content-photos-column {
+        max-width: calc(50% - 12.5px);
+    }
+}

@@ -1,0 +1,229 @@
+{
+  "directive": {
+    "id": "1-4",
+    "title": "Flexisécurité européenne",
+    "description": "Chômage européen mutualisé (50% du salaire) pour garantir un revenu transitoire aux travailleurs en transition. Objectif de réduction du chômage des jeunes à 8% et renforcement de la cohésion sociale en Europe.",
+    "commission": {
+      "role": "Porte la proposition de mutualisation européenne du risque chômage, assure la coordination entre États membres et veille au respect du principe de subsidiarité dans l'application du dispositif.",
+      "enjeux": [
+        "Équilibrer solidarité européenne et souveraineté budgétaire nationale.",
+        "Garantir la faisabilité technique et juridique d'un système de chômage transnational.",
+        "Prévenir les effets d'aubaine et le dumping social entre États membres.",
+        "Articuler le dispositif avec les systèmes nationaux existants."
+      ]
+    },
+    "countries": [
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "amendment": "Réserver le dispositif aux salariés en CDI.",
+        "enjeux": [
+          "Préserver l'équilibre budgétaire et éviter l'aléa moral.",
+          "Maintenir l'efficacité du modèle allemand de formation professionnelle.",
+          "Rassurer l'opinion publique sur la maîtrise des transferts sociaux européens."
+        ],
+        "strategie": "Promouvoir un modèle de flexisécurité encadré, s'appuyer sur l'expertise germanique en matière de politiques d'emploi actives."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Limiter la couverture à 40% du salaire.",
+        "enjeux": [
+          "Contrôler les coûts pour les finances publiques nationales limitées.",
+          "Éviter la dépendance excessive aux transferts européens.",
+          "Préserver la compétitivité salariale face à l'Ouest européen."
+        ],
+        "strategie": "Fédérer les pays d'Europe centrale sur une approche budgétairement prudente et négocier des dérogations."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Soutenir prioritairement les régions en déclin industriel.",
+        "enjeux": [
+          "Accompagner la reconversion des bassins charbonniers et sidérurgiques.",
+          "Éviter l'exode des travailleurs qualifiés vers l'Allemagne.",
+          "Maintenir la cohésion territoriale dans les régions désindustrialisées."
+        ],
+        "strategie": "Construire une coalition des pays en transition industrielle pour obtenir un ciblage territorial des aides."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Prioriser l'emploi local dans l'attribution des aides.",
+        "enjeux": [
+          "Lutter contre le chômage de masse dans le Mezzogiorno.",
+          "Éviter la fuite des cerveaux vers le Nord de l'Europe.",
+          "Renforcer l'attractivité territoriale des régions italiennes en difficulté."
+        ],
+        "strategie": "Mettre en avant les spécificités du marché du travail italien et négocier des flexibilités nationales."
+      },
+      {
+        "name": "France",
+        "role": "Non-porteur",
+        "position": "Soutient le principe mais demande des garanties sur l'articulation avec Pôle emploi et l'UNEDIC.",
+        "enjeux": [
+          "Préserver l'efficacité du modèle français d'indemnisation du chômage.",
+          "Éviter la complexification administrative pour les demandeurs d'emploi."
+        ],
+        "role_description": "Médiateur entre ambitions européennes et réalités administratives nationales."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Favorable mais exige le maintien des standards nordiques de qualité d'accompagnement.",
+        "enjeux": [
+          "Préserver le modèle suédois de politique active de l'emploi.",
+          "Éviter le nivellement par le bas des prestations sociales."
+        ],
+        "role_description": "Défenseur d'une flexisécurité ambitieuse intégrant formation et accompagnement personnalisé."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Étendre la couverture à 60% du salaire.",
+        "enjeux": [
+          "Maximiser la protection sociale des travailleurs européens.",
+          "Démontrer la plus-value sociale de l'intégration européenne.",
+          "Réduire les inégalités entre pays et catégories sociales."
+        ],
+        "strategie": "Mobiliser les syndicats européens et les gouvernements de gauche pour une couverture généreuse."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Inclure les travailleurs indépendants dans le dispositif.",
+        "enjeux": [
+          "Adapter la protection sociale aux nouvelles formes d'emploi.",
+          "Soutenir l'entrepreneuriat et l'économie de plateforme.",
+          "Répondre aux attentes des classes moyennes européennes."
+        ],
+        "strategie": "Promouvoir une flexisécurité moderne couvrant l'ensemble des actifs européens."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Financer la formation continue pour les demandeurs d'emploi.",
+        "enjeux": [
+          "Investir dans les compétences numériques et la reconversion professionnelle.",
+          "Faciliter les transitions vers l'économie verte et digitale.",
+          "Renforcer la compétitivité européenne par la montée en compétences."
+        ],
+        "strategie": "Positionner la formation comme pilier central de la flexisécurité du XXIe siècle."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Soutenir la mobilité professionnelle transfrontalière.",
+        "enjeux": [
+          "Faciliter les transitions vers les emplois de la transition écologique.",
+          "Promouvoir un marché du travail européen intégré et durable.",
+          "Réduire les inégalités territoriales par la mobilité."
+        ],
+        "strategie": "Lier flexisécurité et transition écologique pour créer un cercle vertueux emploi-environnement."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Sceptique sur la mutualisation, privilégie les solutions nationales décentralisées.",
+        "enjeux": [
+          "Préserver la souveraineté nationale en matière de politique sociale.",
+          "Limiter les transferts budgétaires et les risques d'aléa moral."
+        ],
+        "strategie": "Mettre en avant les risques de déresponsabilisation et plaider pour la subsidiarité."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Critique le niveau insuffisant et l'orientation néolibérale du dispositif.",
+        "enjeux": [
+          "Obtenir une protection sociale maximale et inconditionnelle.",
+          "Dénoncer la marchandisation du travail et de la formation."
+        ],
+        "strategie": "Pousser vers une couverture universelle et critiquer les concessions au patronat."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Étendre la flexisécurité aux travailleurs de l'économie numérique.",
+          "Financer la formation aux compétences digitales via le dispositif.",
+          "Développer des plateformes de gestion des parcours professionnels."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "Parti Populaire Européen",
+          "Allemagne"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Obtenir des financements pour la reconversion des travailleurs du secteur.",
+          "Retarder les transitions énergétiques brutales.",
+          "Sécuriser l'accompagnement social des fermetures d'installations."
+        ],
+        "alliances": [
+          "Pologne",
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Participer à la gestion des fonds européens de flexisécurité.",
+          "Développer des produits d'épargne-formation et de transition professionnelle.",
+          "Assurer la solvabilité actuarielle du système."
+        ],
+        "behavior": "Soutient la stabilité financière du dispositif tout en proposant des solutions de marché.",
+        "alliances": [
+          "Allemagne",
+          "Renouveau Européen",
+          "Parti Populaire Européen"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Accompagner la transition des agriculteurs vers l'agroécologie.",
+          "Financer la reconversion des emplois industriels ruraux.",
+          "Maintenir l'emploi dans les territoires agricoles en mutation."
+        ],
+        "alliances": [
+          "Pologne",
+          "Italie",
+          "Parti Populaire Européen"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Soutenir la formation aux métiers de la santé et de la recherche.",
+          "Faciliter la mobilité des chercheurs et techniciens européens.",
+          "Développer les compétences biotechnologiques via la formation continue."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Suède",
+          "Socialistes et Démocrates"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Financer la reconversion vers l'électrique et l'hydrogène.",
+          "Accompagner les fermetures d'usines de moteurs thermiques.",
+          "Former les travailleurs aux nouvelles technologies de mobilité."
+        ],
+        "alliances": [
+          "Allemagne",
+          "France",
+          "Socialistes et Démocrates"
+        ]
+      }
+    ]
+  }
+}

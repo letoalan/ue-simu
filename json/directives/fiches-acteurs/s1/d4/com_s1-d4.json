@@ -1,0 +1,142 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition de mutualisation européenne du risque chômage, assure la coordination entre États membres et veille au respect du principe de subsidiarité dans l'application du dispositif.",
+  "enjeux_directive": [
+    "Équilibrer solidarité européenne et souveraineté budgétaire nationale.",
+    "Garantir la faisabilité technique et juridique d'un système de chômage transnational.",
+    "Prévenir les effets d'aubaine et le dumping social entre États membres.",
+    "Articuler le dispositif avec les systèmes nationaux existants."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission européenne adopte une stratégie de leadership technocratique et diplomatique pour garantir l'équilibre entre solidarité interétatique et souveraineté nationale. Elle insiste sur la nécessaire harmonisation des systèmes de chômage à travers des mécanismes de financement mutualisé, tout en évitant les dérives budgétaires excessives. La Commission propose un cadre juridique strict pour empêcher le dumping social et les effets d'aubaine, en exigeant des contraintes nationales (ex: plafonnement des contributions) et une coordination étroite avec les autorités nationales. Elle valorise la mobilité professionnelle transfrontalière comme pilier de l'union économique européenne, tout en défendant un modèle de protection sociale équilibré qui ne pénalise pas la compétitivité industrielle. La Commission mobilise ses services juridiques et économiques pour anticiper les contestations des États membres, notamment sur le fondement du principe de subsidiarité.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Pologne (défiance envers la mutualisation budgétaire européenne)",
+    "Big pharma (privilège des secteurs stratégiques non sociaux)"
+  ],
+  "éléments_d_argumentaire": [
+    "La mutualisation du risque chômage renforce l'union économique et sociale, alignée sur les principes de solidarité fondamentaux de la construction européenne.",
+    "Un cadre juridique strict permet d'éviter les dérives budgétaires nationales tout en garantissant une protection minimale pour les travailleurs européens.",
+    "La mobilité professionnelle transfrontalière doit être encouragée comme pilier de l'union économique, avec des dispositifs de formation continue adaptés aux mutations industrielles.",
+    "Les secteurs stratégiques (automobile, énergie) exigent une protection spécifique pour éviter les déplacements de production vers des pays non européens.",
+    "L'intégration des travailleurs indépendants est nécessaire pour couvrir l'ensemble du marché du travail européen et renforcer la cohésion sociale.",
+    "La directive doit être compatible avec les obligations climatiques et énergétiques (ex: objectifs 2030, transition vers les énergies propres)."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-4A",
+      "titre": "Étendre la couverture à 60% du salaire",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il renforce les garanties sociales pour les travailleurs européens, tout en maintenant un équilibre financier réaliste. Un taux plus élevé de couverture permet de mieux absorber les chocs économiques transnationaux, ce qui est crucial pour la stabilité de l'union monétaire.",
+      "priorite": "très_haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Étendre la couverture à 60% du salaire"
+    },
+    {
+      "amendement": "1-4B",
+      "titre": "Inclure les travailleurs indépendants dans le dispositif",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "L'inclusion des travailleurs indépendants est souhaitable pour couvrir l'ensemble du marché du travail, mais doit être accompagnée de mécanismes adaptés (ex: cotisations réduites, plafonnement). La Commission propose des dispositions spécifiques pour éviter la surcharge fiscale excessive.",
+      "priorite": "haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Inclure les travailleurs indépendants dans le dispositif"
+    },
+    {
+      "amendement": "1-4C",
+      "titre": "Financer la formation continue pour les demandeurs d’emploi",
+      "position": "FAVORABLE",
+      "justification": "La Commission défend fortement cet amendement comme pilier de l'adaptation des travailleurs aux mutations économiques et technologiques. Une formation continue structurée renforce la compétitivité européenne à long terme.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Financer la formation continue pour les demandeurs d’emploi"
+    },
+    {
+      "amendement": "1-4D",
+      "titre": "Soutenir la mobilité professionnelle transfrontalière",
+      "position": "FAVORABLE",
+      "justification": "La Commission considère cet amendement comme essentiel pour créer un marché du travail unique et renforcer l'union économique. Des dispositions doivent être prises pour éviter les distorsions de concurrence.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Soutenir la mobilité professionnelle transfrontalière"
+    },
+    {
+      "amendement": "1-4E",
+      "titre": "Limiter la couverture à 40% du salaire",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Un plafonnement à 40% réduirait significativement l'efficacité de la directive. La Commission propose un taux intermédiaire (50%) pour concilier protection sociale et stabilité budgétaire.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Limiter la couverture à 40% du salaire"
+    },
+    {
+      "amendement": "1-4F",
+      "titre": "Réserver le dispositif aux salariés en CDI",
+      "position": "DEFAVORABLE",
+      "justification": "Cette restriction nuirait à la couverture des travailleurs précaires et indépendants, ce qui va à l'encontre de l'objectif d'universalité sociale européenne. La Commission propose une extension progressive.",
+      "priorite": "faible",
+      "origine": "Allemagne",
+      "description": "Réserver le dispositif aux salariés en CDI"
+    },
+    {
+      "amendement": "1-4G",
+      "titre": "Soutenir prioritairement les régions en déclin industriel",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission soutient cet amendement comme levier d'efficacité pour lutter contre la désindustrialisation, mais exige des mécanismes de suivi rigoureux pour éviter les distorsions de concurrence.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement les régions en déclin industriel"
+    },
+    {
+      "amendement": "1-4H",
+      "titre": "Prioriser l’emploi local dans l’attribution des aides",
+      "position": "FAVORABLE",
+      "justification": "L'approche localisée est cohérente avec les objectifs de la directive et permet d'éviter un transfert massif de ressources vers certaines régions, ce qui pourrait générer des tensions interrégionales.",
+      "priorite": "haute",
+      "origine": "Italie",
+      "description": "Prioriser l’emploi local dans l’attribution des aides"
+    }
+  ],
+  "références": [
+    "s1d4.json",
+    "scenario1.json"
+  ],
+  "notes_internes": "Surveiller les tensions entre lobbies industriels (Volkswagen, Siemens) et objectifs climatiques. Évaluer régulièrement la répartition des fonds verts entre régions Nord-Sud. Surveiller les risques d'asymétrie compétitive liés aux différences de financement des systèmes nationaux.",
+  "metadata": {
+    "source_file": "s1-d4.json",
+    "type": "commission",
+    "directive_id": "1-4",
+    "tokens": {
+      "count": 766,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-21T14:59:26.764810",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 4,
+  "actor_type": "commission",
+  "generated_at": "2025-10-24T20:00:40.598033",
+  "version": "4.7"
+}

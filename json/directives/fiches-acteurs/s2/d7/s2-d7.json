@@ -1,0 +1,645 @@
+{
+  "directive": {
+    "id": "2-7",
+    "title": "Politique d'influence culturelle et éducative",
+    "description": "Fonds européen pour la promotion de la culture et de l'éducation. Créer un programme massif d'échanges éducatifs, de bourses Erasmus+ élargies et de diffusion de la culture européenne à l'international. Renforcer l'attractivité et l'influence de l'UE dans le monde, promouvoir les valeurs européennes et favoriser la mobilité des étudiants et des artistes.",
+    "commission": {
+      "type": "Commission",
+      "nom": "Commission européenne",
+      "role_europeen": "Renforcer l'influence culturelle et éducative de l'Union européenne à l'international, en soutenant les échanges, la mobilité et la diffusion des valeurs européennes.",
+      "enjeux_directive": [
+        "Promouvoir la diversité culturelle et la compréhension mutuelle.",
+        "Renforcer la coopération entre les peuples.",
+        "Améliorer la position de l'UE sur la scène mondiale.",
+        "Favoriser l'innovation éducative et culturelle européenne."
+      ],
+      "impacts_directive": [
+        "La directive permettrait à la Commission d'élargir son champ d'action au-delà des politiques économiques, en centralisant et en coordonnant la politique culturelle et éducative pour renforcer le « soft power » de l'UE.",
+        "Elle renforcerait son rôle de promoteur des valeurs européennes sur la scène internationale et sa capacité à financer directement des programmes à grande échelle."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-7A",
+          "origine": "Parti Populaire Européen",
+          "description": "Concentrer le programme sur l'éducation plutôt que sur la culture",
+          "impact": "L'amendement est négatif car il affaiblit la dimension culturelle, réduisant le « soft power » de l'UE et la portée de la directive. Il est en opposition avec les objectifs initiaux."
+        },
+        {
+          "id": "2-7B",
+          "origine": "Socialistes et Démocrates",
+          "description": "Créer des centres culturels européens à l'étranger",
+          "impact": "L'amendement est positif et renforce la directive en la rendant plus concrète et visible à l'international. Il est en pleine conformité avec les objectifs de la Commission."
+        },
+        {
+          "id": "2-7C",
+          "origine": "Renouveau Européen",
+          "description": "Élargir Erasmus+ à tous les niveaux d'éducation",
+          "impact": "L'amendement est positif et s'aligne sur les objectifs de la Commission d'augmenter la mobilité et l'influence éducative de l'UE. Il est en pleine conformité avec les objectifs de la Commission."
+        },
+        {
+          "id": "2-7D",
+          "origine": "Gauche Unitaire",
+          "description": "Instaurer un fonds pour la création artistique indépendante",
+          "impact": "L'amendement est positif et renforce la directive en la rendant plus concrète et visible à l'international. Il est en pleine conformité avec les objectifs de la Commission."
+        },
+        {
+          "id": "2-7E",
+          "origine": "Hongrie",
+          "description": "Exclure certains domaines artistiques du fonds",
+          "impact": "L'amendement est négatif car il fragilise la dimension culturelle de la directive. Il est en opposition avec les objectifs de la Commission."
+        },
+        {
+          "id": "2-7F",
+          "origine": "Italie",
+          "description": "Demander un soutien prioritaire aux initiatives nationales",
+          "impact": "L'amendement affaiblirait l'approche unifiée et centralisée souhaitée par la Commission, rendant la politique moins cohérente."
+        },
+        {
+          "id": "2-7G",
+          "origine": "Suède",
+          "description": "Reporter l'application de la directive de deux ans",
+          "impact": "L'amendement est négatif car il retarderait la réalisation des objectifs de « soft power » et enverrait un signal de manque de détermination de l'UE."
+        }
+      ],
+      "stratégie": "La Commission doit défendre le caractère holistique de la directive, en insistant sur le lien entre culture, éducation et l’influence géopolitique de l’Europe. Elle doit former une coalition avec les États membres porteurs et les partis qui voient le « soft power » comme une priorité. Elle doit argumenter que la directive est un investissement stratégique pour l’avenir et le rayonnement de l’Europe dans le monde.",
+      "alliances": [
+        "États membres porteurs (France, Allemagne)",
+        "Partis favorables (Renouveau Européen, Socialistes et Démocrates, Gauche Unitaire)"
+      ],
+      "oppositions": [
+        "États membres réticents (Hongrie, Suède)",
+        "Partis qui craignent une centralisation (Conservateurs et Réformistes, Identité et Démocratie)"
+      ],
+      "éléments_d_argumentaire": [
+        "L'influence culturelle et éducative est le meilleur outil de « soft power » pour l'Europe dans un monde multipolaire.",
+        "Les échanges éducatifs et culturels sont des investissements dans l'avenir de la citoyenneté européenne.",
+        "Il est temps que l'Europe affirme son identité culturelle et ses valeurs sur la scène mondiale."
+      ],
+      "références": [
+        "Synthèse de la directive Politique d'influence culturelle et éducative (ID 2-7)",
+        "Déclaration d'intention de la directive 2-7."
+      ]
+    },
+    "countries": [
+      {
+        "type": "Etat",
+        "nom": "France",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Étendre l'influence de la culture française via le cadre européen.",
+          "Renforcer le rayonnement des institutions culturelles françaises."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à la France de capitaliser sur son rôle historique de « champion de l'exception culturelle » pour promouvoir ses intérêts et son modèle à l'échelle européenne et internationale."
+        ],
+        "impacts_amendements": [],
+        "stratégie": "La France est un fervent défenseur de la directive. Elle cherche à s'allier avec les pays qui voient la culture comme un pilier de la politique étrangère. Elle argumente que l'Europe doit parler d'une seule voix pour contrer l'influence des autres puissances culturelles et pour promouvoir ses valeurs universelles.",
+        "alliances": [
+          "Allemagne",
+          "Socialistes et Démocrates",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture n'est pas un luxe, mais un instrument de puissance.",
+          "La diffusion de nos valeurs culturelles est la meilleure défense contre la désinformation et l'obscurantisme."
+        ],
+        "références": [
+          "Position de la France dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Allemagne",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Maintenir sa position dominante dans les échanges éducatifs et culturels (Goethe Institut, DAAD).",
+          "Promouvoir la langue et la culture allemandes."
+        ],
+        "impacts_directive": [
+          "La directive, bien que soutenue, pourrait mettre l'Allemagne en concurrence avec d'autres initiatives nationales. Elle doit veiller à ce que le cadre européen soit complémentaire et non substitutif à ses propres outils d'influence."
+        ],
+        "impacts_amendements": [],
+        "stratégie": "L'Allemagne soutient la directive, mais avec un certain pragmatisme. Elle veut s'assurer que les programmes de l'UE soient efficaces et ne doublent pas les initiatives nationales. Elle cherche à collaborer avec la France pour créer une alliance franco-allemande forte sur le plan culturel.",
+        "alliances": [
+          "France",
+          "Renouveau Européen",
+          "PPE"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Identité et Démocratie"
+        ],
+        "éléments_d_argumentaire": [
+          "L'influence culturelle européenne passe par l'efficacité et la complémentarité des initiatives nationales et européennes.",
+          "Les programmes éducatifs européens sont un investissement dans la compétitivité et l'innovation de l'Europe."
+        ],
+        "références": [
+          "Position de l’Allemagne dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Italie",
+        "role_europeen": "Non-porteur",
+        "enjeux_directive": [
+          "Valoriser son patrimoine culturel exceptionnel et préserver l'autonomie de ses institutions.",
+          "S'assurer que les financements européens soutiennent directement les initiatives nationales."
+        ],
+        "impacts_directive": [
+          "L'Italie craint que la directive ne dilue l'importance de son héritage culturel au profit d'une politique culturelle européenne plus générique. Elle est donc sur la défensive et cherche à préserver ses intérêts nationaux."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7F",
+            "origine": "Italie",
+            "impact": "L'amendement affaiblirait l'approche unifiée et centralisée souhaitée par la Commission, rendant la politique moins cohérente."
+          }
+        ],
+        "stratégie": "L'Italie adopte une position prudente. Elle est favorable au principe du « soft power », mais veut s'assurer que la politique européenne ne nuise pas à ses propres réseaux et à son image. Elle pourrait chercher à s'allier avec des pays qui défendent la subsidiarité culturelle.",
+        "alliances": [
+          "Espagne",
+          "Pologne",
+          "PPE"
+        ],
+        "oppositions": [
+          "France",
+          "Commission européenne",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "La diversité culturelle européenne passe par la reconnaissance et le soutien des cultures nationales.",
+          "L'Europe ne doit pas devenir un rouleau compresseur pour les héritages culturels nationaux."
+        ],
+        "références": [
+          "Position de l’Italie dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Suède",
+        "role_europeen": "Non-porteur",
+        "enjeux_directive": [
+          "Adapter le programme aux spécificités nordiques et garantir l'efficacité des investissements.",
+          "Veiller à ce que les dépenses soient justifiées et rentables."
+        ],
+        "impacts_directive": [
+          "La Suède, pragmatique, voit la culture comme un outil d'influence, mais craint que la directive ne soit qu'un puits de dépenses sans résultats concrets. Elle est donc pour un report de l'application afin de mieux évaluer les coûts et les bénéfices."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7G",
+            "origine": "Suède",
+            "impact": "L'amendement est négatif car il retarderait la réalisation des objectifs de « soft power » et enverrait un signal de manque de détermination de l'UE."
+          }
+        ],
+        "stratégie": "La Suède cherche à s'allier avec les pays qui prônent une approche plus rigoureuse et axée sur les résultats. Elle veut que la Commission prouve l'efficacité de la directive avant de l'appliquer. Elle peut s'allier avec la Pologne pour exiger plus de flexibilité nationale.",
+        "alliances": [
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "France",
+          "Commission européenne",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "Il faut une approche rationnelle et pragmatique de la politique culturelle. Chaque euro dépensé doit être justifié.",
+          "Un report de l'application permettrait une meilleure planification et une plus grande efficacité de la directive."
+        ],
+        "références": [
+          "Position de la Suède dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Pologne",
+        "role_europeen": "Opposant modéré",
+        "enjeux_directive": [
+          "Limiter le programme aux étudiants universitaires pour contrôler les coûts.",
+          "Garantir la souveraineté culturelle et l'identité nationale."
+        ],
+        "impacts_directive": [
+          "La Pologne, bien que prudemment favorable aux échanges, craint que la directive ne devienne un prétexte pour l'ingérence de la Commission dans ses affaires internes. Elle cherche à limiter son champ d'application et son budget."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7P",
+            "origine": "Pologne",
+            "impact": "L'amendement est négatif car il fragilise la dimension éducative de la directive, en limitant son champ d'application à l'université."
+          }
+        ],
+        "stratégie": "La Pologne s'allie avec les pays conservateurs qui craignent une centralisation du pouvoir à Bruxelles. Elle met en avant la souveraineté nationale et les spécificités culturelles. Elle peut s'allier avec la Hongrie pour former un bloc d'opposition contre la directive.",
+        "alliances": [
+          "Hongrie",
+          "Conservateurs et Réformistes",
+          "Identité et Démocratie"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture est d'abord une question nationale.",
+          "Le coût de la directive est trop élevé et doit être limité aux programmes qui ont prouvé leur efficacité."
+        ],
+        "références": [
+          "Position de la Pologne dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Hongrie",
+        "role_europeen": "Opposant",
+        "enjeux_directive": [
+          "Exclure certains domaines artistiques du fonds pour préserver ses valeurs nationales.",
+          "Limiter les dépenses publiques européennes."
+        ],
+        "impacts_directive": [
+          "La Hongrie, fermement opposée à toute ingérence de Bruxelles dans ses affaires, craint que la directive soit un moyen de financer des artistes ou des idées qui ne correspondent pas à ses valeurs. Elle veut une clause d'exclusion pour protéger sa souveraineté culturelle."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7E",
+            "origine": "Hongrie",
+            "impact": "L'amendement est négatif car il fragilise la dimension culturelle de la directive. Il est en opposition avec les objectifs de la Commission."
+          }
+        ],
+        "stratégie": "La Hongrie cherche à former un bloc d'opposition avec les autres pays et partis conservateurs. Elle met en avant la défense de la souveraineté nationale et le refus de la centralisation du pouvoir. Elle pourrait menacer de mettre son véto à la directive.",
+        "alliances": [
+          "Pologne",
+          "Conservateurs et Réformistes",
+          "Identité et Démocratie"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Commission européenne"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture doit rester une prérogative nationale.",
+          "Nous ne pouvons accepter que l'Europe finance des projets qui vont à l'encontre de nos valeurs."
+        ],
+        "références": [
+          "Position de la Hongrie dans la directive 2-7."
+        ]
+      }
+    ],
+    "political_parties": [
+      {
+        "type": "Parti",
+        "nom": "Parti Populaire Européen",
+        "role_europeen": "Opposant modéré",
+        "enjeux_directive": [
+          "Concentrer le programme sur l'éducation plutôt que sur la culture pour limiter les coûts."
+        ],
+        "impacts_directive": [
+          "Le PPE, traditionnellement plus orienté sur les questions économiques, soutient le programme éducatif mais est sceptique quant à l'efficacité du volet culturel. Il cherche à s'assurer que l'argent du contribuable est bien investi et à éviter toute dérive idéologique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7A",
+            "origine": "Parti Populaire Européen",
+            "impact": "L'amendement est négatif car il affaiblit la dimension culturelle, réduisant le « soft power » de l'UE et la portée de la directive. Il est en opposition avec les objectifs initiaux."
+          }
+        ],
+        "stratégie": "Le PPE va chercher à créer une coalition avec les conservateurs et les pays qui craignent les coûts. Il va mettre en avant l'importance de l'éducation et de l'innovation, tout en insistant sur la nécessité de limiter les dépenses et de respecter la subsidiarité.",
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Pologne",
+          "Hongrie"
+        ],
+        "oppositions": [
+          "Socialistes et Démocrates",
+          "Verts/ALE",
+          "Gauche Unitaire"
+        ],
+        "éléments_d_argumentaire": [
+          "Il est essentiel de prioriser les investissements dans l'éducation et la formation pour la compétitivité de l'Europe.",
+          "Nous devons nous assurer que les fonds culturels ne soient pas une source de dépenses inutiles."
+        ],
+        "références": [
+          "Position du Parti Populaire Européen dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Socialistes et Démocrates",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Créer des centres culturels européens à l'étranger pour promouvoir les valeurs de l'UE."
+        ],
+        "impacts_directive": [
+          "Le S&D soutient la directive car elle est un outil de « soft power » qui peut aider à promouvoir la paix, la justice sociale et la diversité. Il voit la culture comme un bien commun qui doit être accessible à tous, et un moyen de renforcer la cohésion sociale."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7B",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est positif et renforce la directive en la rendant plus concrète et visible à l'international. Il est en pleine conformité avec les objectifs de la Commission."
+          }
+        ],
+        "stratégie": "Le S&D va chercher à s'allier avec les autres partis progressistes et les pays qui sont les plus ouverts à la diversité culturelle. Il va mettre l'accent sur le rôle de la culture comme un facteur d'intégration sociale et un outil de lutte contre les inégalités.",
+        "alliances": [
+          "Renouveau Européen",
+          "Verts/ALE",
+          "Gauche Unitaire"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Identité et Démocratie"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture est un facteur d'unité et de paix.",
+          "L'Europe doit être un modèle de diversité culturelle et de tolérance dans le monde."
+        ],
+        "références": [
+          "Position des Socialistes et Démocrates dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Renouveau Européen",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Élargir Erasmus+ à tous les niveaux d'éducation."
+        ],
+        "impacts_directive": [
+          "Le groupe RE, libéral et pro-européen, voit la directive comme un outil pour renforcer la compétitivité de l'UE et la mobilité de ses citoyens. Il soutient l'idée d'un « Erasmus+ » élargi qui permettrait à plus d'étudiants de profiter des opportunités européennes et de renforcer leur sentiment d'appartenance à l'UE."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7C",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est positif et s'aligne sur les objectifs de la Commission d'augmenter la mobilité et l'influence éducative de l'UE. Il est en pleine conformité avec les objectifs de la Commission."
+          }
+        ],
+        "stratégie": "Renouveau Européen va chercher à former une coalition avec le S&D et les Verts/ALE pour faire passer un programme ambitieux. Il va mettre l'accent sur les bénéfices économiques et sociaux de la directive, et sur l'importance de la mobilité pour la compétitivité de l'Europe.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Identité et Démocratie"
+        ],
+        "éléments_d_argumentaire": [
+          "La mobilité est la clé de la réussite pour les jeunes Européens.",
+          "L'éducation et la culture sont des moteurs de l'innovation et de la croissance."
+        ],
+        "références": [
+          "Position de Renouveau Européen dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Gauche Unitaire",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Instaurer un fonds pour la création artistique indépendante."
+        ],
+        "impacts_directive": [
+          "La Gauche Unitaire soutient la directive car elle peut être un moyen de soutenir les artistes indépendants et les cultures marginalisées. Elle voit la culture comme un outil de critique sociale et de résistance, et veut s'assurer que le fonds ne serve pas uniquement les grandes institutions culturelles."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-7D",
+            "origine": "Gauche Unitaire",
+            "impact": "L'amendement est positif et renforce la directive en la rendant plus concrète et visible à l'international. Il est en pleine conformité avec les objectifs de la Commission."
+          }
+        ],
+        "stratégie": "La Gauche Unitaire va chercher à s'allier avec les partis progressistes et les Verts/ALE pour faire passer un amendement qui protège les artistes indépendants. Elle met l'accent sur la diversité et l'inclusion, et sur le rôle de la culture comme un facteur de changement social.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Identité et Démocratie"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture n'est pas un privilège, mais un droit.",
+          "Il est essentiel de soutenir les artistes indépendants, car ils sont les voix de la résistance."
+        ],
+        "références": [
+          "Position de la Gauche Unitaire dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Conservateurs et Réformistes",
+        "role_europeen": "Opposant",
+        "enjeux_directive": [
+          "S'opposer à une politique culturelle centralisée, la considérant comme une ingérence."
+        ],
+        "impacts_directive": [
+          "Le groupe ECR, eurosceptique et conservateur, est fermement opposé à la directive, qu'il voit comme un exemple de l'ingérence de Bruxelles dans les affaires nationales. Il craint que l'UE ne devienne une entité supranationale qui cherche à imposer une culture unique."
+        ],
+        "impacts_amendements": [],
+        "stratégie": "Le groupe ECR va chercher à former un bloc d'opposition avec les autres partis nationalistes et souverainistes. Il va mettre en avant la défense de la souveraineté nationale et le refus de la centralisation du pouvoir. Il pourrait menacer de mettre son véto à la directive.",
+        "alliances": [
+          "Identité et Démocratie",
+          "Hongrie",
+          "Pologne"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture est une prérogative nationale.",
+          "Bruxelles n'a pas à imposer une politique culturelle à nos citoyens."
+        ],
+        "références": [
+          "Position des Conservateurs et Réformistes dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Identité et Démocratie",
+        "role_europeen": "Opposant",
+        "enjeux_directive": [
+          "Limiter les bourses aux seuls étudiants d'États membres, s'opposant aux initiatives de soft power."
+        ],
+        "impacts_directive": [
+          "Le groupe ID, nationaliste et eurosceptique, s'oppose à la directive, qu'il voit comme un gaspillage d'argent et une trahison de l'identité nationale. Il veut que les fonds européens soient utilisés pour les citoyens européens, et non pour des initiatives de « soft power » à l'international."
+        ],
+        "impacts_amendements": [],
+        "stratégie": "Le groupe ID va chercher à former un bloc d'opposition avec les autres partis nationalistes et souverainistes. Il va mettre en avant la défense de la souveraineté nationale et le refus de la centralisation du pouvoir. Il pourrait menacer de mettre son véto à la directive.",
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture est un instrument de puissance nationale, pas une dépense superflue.",
+          "L'Europe ne doit pas devenir un rouleau compresseur pour les héritages culturels nationaux."
+        ],
+        "références": [
+          "Position d’Identité et Démocratie dans la directive 2-7."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "type": "Lobby",
+        "nom": "Big Tech",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Fournir des plateformes numériques pour l'éducation et la diffusion culturelle."
+        ],
+        "impacts_directive": [
+          "Le lobby Big Tech voit la directive comme une opportunité de développer ses activités dans les secteurs de l'éducation et de la culture. Il cherche à s'imposer comme un partenaire incontournable de la Commission."
+        ],
+        "stratégie": "Le lobby Big Tech va chercher à s'allier avec les partis et les pays qui sont les plus ouverts à l'innovation. Il va mettre en avant le rôle de la technologie comme un catalyseur de l'éducation et de la culture.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "La technologie est la clé pour démocratiser l'accès à la culture et à l'éducation.",
+          "L'Europe doit investir dans la technologie pour rester compétitive sur la scène mondiale."
+        ],
+        "références": [
+          "Position du lobby Big Tech dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Energies fossiles",
+        "role_europeen": "Opposant modéré",
+        "enjeux_directive": [
+          "Veiller à éviter la promotion de contenus trop écologistes."
+        ],
+        "impacts_directive": [
+          "Le lobby des énergies fossiles n'a qu'une influence marginale, mais il surveille de près la directive pour s'assurer qu'elle ne promeut pas des contenus qui pourraient nuire à son image. Il cherche à éviter que la culture ne devienne un outil de dénonciation de ses activités."
+        ],
+        "stratégie": "Le lobby des énergies fossiles va chercher à s'allier avec les partis et les pays qui sont les plus conservateurs et les plus attachés à leur souveraineté. Il va mettre en avant le fait que la culture ne doit pas être un outil de propagande écologiste.",
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie"
+        ],
+        "oppositions": [
+          "Verts/ALE",
+          "Gauche Unitaire"
+        ],
+        "éléments_d_argumentaire": [
+          "La culture ne doit pas devenir un instrument politique."
+        ],
+        "références": [
+          "Position du lobby des Energies fossiles dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Banque et Finance",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Financer les infrastructures éducatives et les programmes d'échange."
+        ],
+        "impacts_directive": [
+          "Le lobby des banques et de la finance voit la directive comme une opportunité de développer ses activités de financement dans le secteur de l'éducation et de la culture. Il cherche à s'imposer comme un partenaire financier incontournable de la Commission."
+        ],
+        "stratégie": "Le lobby des banques et de la finance va chercher à s'allier avec les partis et les pays qui sont les plus ouverts à l'innovation. Il va mettre en avant le rôle du financement comme un catalyseur de l'éducation et de la culture.",
+        "alliances": [
+          "Renouveau Européen",
+          "PPE"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "Le financement est la clé pour démocratiser l'accès à la culture et à l'éducation.",
+          "L'Europe doit investir dans l'éducation pour rester compétitive sur la scène mondiale."
+        ],
+        "références": [
+          "Position du lobby Banque et Finance dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Agrochimie",
+        "role_europeen": "Opposant modéré",
+        "enjeux_directive": [
+          "Veiller à ce que les programmes éducatifs ne diabolisent pas l'agriculture conventionnelle."
+        ],
+        "impacts_directive": [
+          "Le lobby de l'agrochimie a une influence marginale sur la directive, mais il surveille de près la directive pour s'assurer qu'elle ne promeut pas des contenus qui pourraient nuire à son image. Il cherche à éviter que les programmes éducatifs ne deviennent un outil de dénonciation de l'agriculture conventionnelle."
+        ],
+        "stratégie": "Le lobby de l'agrochimie va chercher à s'allier avec les partis et les pays qui sont les plus conservateurs. Il va mettre en avant le fait que la culture ne doit pas être un outil de propagande anti-agricole.",
+        "alliances": [
+          "PPE",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Verts/ALE",
+          "Gauche Unitaire"
+        ],
+        "éléments_d_argumentaire": [
+          "L'agriculture conventionnelle est essentielle pour nourrir l'Europe.",
+          "La culture ne doit pas devenir un instrument de dénonciation de notre secteur."
+        ],
+        "références": [
+          "Position du lobby Agrochimie dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Pharmaceutique",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Soutenir la recherche médicale européenne et promouvoir l'innovation pharmaceutique."
+        ],
+        "impacts_directive": [
+          "Le lobby pharmaceutique voit la directive comme une opportunité de développer ses activités dans le secteur de l'éducation et de la recherche. Il cherche à s'imposer comme un partenaire incontournable de la Commission dans la promotion de l'innovation."
+        ],
+        "stratégie": "Le lobby pharmaceutique va chercher à s'allier avec les partis et les pays qui sont les plus ouverts à l'innovation. Il va mettre en avant le rôle de la recherche comme un catalyseur de l'éducation et de la culture.",
+        "alliances": [
+          "Allemagne",
+          "Renouveau Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "La recherche est la clé pour démocratiser l'accès à la santé.",
+          "L'Europe doit investir dans la recherche pour rester compétitive sur la scène mondiale."
+        ],
+        "références": [
+          "Position du lobby Pharmaceutique dans la directive 2-7."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Automobile",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Promouvoir la formation technique et l'innovation industrielle européenne."
+        ],
+        "impacts_directive": [
+          "Le lobby automobile voit la directive comme une opportunité de promouvoir la formation technique et l'innovation dans le secteur industriel. Il cherche à s'imposer comme un partenaire incontournable de la Commission dans la promotion de l'éducation technique."
+        ],
+        "stratégie": "Le lobby automobile va chercher à s'allier avec les partis et les pays qui sont les plus ouverts à l'innovation. Il va mettre en avant le rôle de l'éducation comme un catalyseur de l'innovation et de la croissance.",
+        "alliances": [
+          "PPE",
+          "Allemagne"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "La formation est la clé pour démocratiser l'accès à l'emploi.",
+          "L'Europe doit investir dans l'éducation pour rester compétitive sur la scène mondiale."
+        ],
+        "références": [
+          "Position du lobby Automobile dans la directive 2-7."
+        ]
+      }
+    ]
+  }
+}

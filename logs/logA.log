@@ -1,0 +1,115 @@
+ Image path - Hostname: localhost
+ Image path - Pathname: /styles.css/index.html
+ Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+euro-tab-manager.js:10 Image path - Hostname: localhost
+euro-tab-manager.js:11 Image path - Pathname: /styles.css/index.html
+app.js:11 DOM prêt, démarrage de l'initialisation de l'application.
+data-loader.js:34 ✅ Données des scénarios pré-chargées avec succès.
+app.js:15 Étape 0/5 : Données des scénarios chargées.
+app.js:19 Étape 1/5 : Tous les composants HTML sont chargés.
+dom-loader.js:191 Object
+app.js:23 Étape 2/5 : Références DOM collectées.
+app.js:27 Étape 3/5 : Écouteurs d'événements globaux attachés.
+index.js:12 Module Carrousel: Initialisation...
+group-allocator.js:14 Initialisation du module d'allocation de groupes.
+index.js:31 Module Carrousel: Prêt.
+app.js:32 Étape 4/5 : Module Carrousel initialisé. Application en attente de l'utilisateur.
+index.js:49 State Change: Scénario -> 2 (Stabilité Géopolitique)
+index.js:54 State Change: Directive -> null
+index.js:54 State Change: Directive -> 3
+event-listeners.js:17 Lancement de la simulation...
+index.js:97 Séquence de transition démarrée...
+index.js:102 Séquence de transition terminée.
+index.js:14 Initialisation du module Main Interface.
+index.js:11 Initialisation du module Simulateur.
+inputs.js:4 Construction des inputs du simulateur
+inputs.js:11 Configuration de la synchronisation des inputs
+index.js:59 UI Controller: Lancement de la simulation et mise à jour des graphiques.
+index.js:12 Moteur de simulation: Démarrage pour le scénario: 2
+index.js:52 Simulation UE - Scénario: 2
+index.js:216 Simulation politique - Scénario: 2
+index.js:316 Simulation lobbies - Scénario: 2
+index.js:31 Moteur de simulation: Calculs terminés.
+index.js:153 Simulation pays: Allemagne - Scénario: 2
+index.js:79 UI Controller: Mise à jour des graphiques terminée.
+index.js:4 Initialisation du module Institutions (Euro Tab).
+index.js:8 Initialisation du module Objectives.
+index.js:19 Initialisation du module de Vote (Séquentiel).
+index.js:266   -> [VOTE LOG 2] Mise à jour des graphiques pour l'étape : directive
+index.js:272 --- [COUNCIL VIZ LOG] Début de updateCouncilVisual pour directive ---
+index.js:280   -> Éléments DOM trouvés: Object
+index.js:296     - DE: vote='abstention', pop=84.3
+index.js:296     - FR: vote='abstention', pop=64.7
+index.js:296     - IT: vote='abstention', pop=58.9
+index.js:296     - HU: vote='abstention', pop=9.6
+index.js:296     - PL: vote='abstention', pop=38
+index.js:296     - SE: vote='abstention', pop=10.5
+index.js:299   -> Totaux calculés: Object
+index.js:304   -> Pourcentages calculés: Object
+index.js:321   -> Majorité atteinte: Object
+index.js:332   -> Aucune classe de couleur appliquée (gris par défaut).
+index.js:335   -> Application au DOM: progressBar.style.width = "0%", progressBar.textContent = "0%"
+index.js:337 --- [COUNCIL VIZ LOG] Fin de updateCouncilVisual ---
+index.js:368     [Parlement - directive] Sièges: Object
+tabs-router.js:4 Changement d'onglet: euro-tab
+event-listeners.js:32 Interface principale initialisée.
+tabs-router.js:4 Changement d'onglet: scenario-tab
+index.js:4 Initialisation du module Enjeux.
+enjeux-tab-manager.js:149 [ENJEUX LOG 1] Démarrage de initEnjeuxTab.
+enjeux-tab-manager.js:154 [ENJEUX LOG 2] Résultat de loadEnjeuxData : true
+enjeux-tab-manager.js:158 [ENJEUX LOG 3] Réinjection de la structure HTML depuis enjeux.html...
+enjeux-tab-manager.js:162 [ENJEUX LOG 4] Structure HTML réinjectée.
+enjeux-tab-manager.js:165 [ENJEUX LOG 5] Vérification des références DOM après réinjection :
+enjeux-tab-manager.js:166   -> DOMRefs.enjeuxSubNav: <div class=​"tab-sub-header" id=​"enjeux-sub-nav">​<button class=​"sub-nav-btn active" data-sub-tab=​"enjeux-commission">​Commission​</button>​<button class=​"sub-nav-btn" data-sub-tab=​"enjeux-etats">​États Membres​</button>​<button class=​"sub-nav-btn" data-sub-tab=​"enjeux-partis">​Partis Politiques​</button>​<button class=​"sub-nav-btn" data-sub-tab=​"enjeux-lobbies">​Lobbies​</button>​</div>​
+enjeux-tab-manager.js:167   -> document.getElementById('enjeux-sub-nav'): <div class=​"tab-sub-header" id=​"enjeux-sub-nav">​…​</div>​flex
+enjeux-tab-manager.js:168   -> DOMRefs.enjeuxEtatsMenu: <select class=​"sim-selector sub-tab-menu" id=​"enjeux-etats-menu">​…​</select>​
+enjeux-tab-manager.js:169   -> document.getElementById('enjeux-etats-menu'): <select class=​"sim-selector sub-tab-menu" id=​"enjeux-etats-menu">​</select>​

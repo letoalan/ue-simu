@@ -1,0 +1,93 @@
+{
+  "scenario": 1,
+  "directive": 1,
+  "nom": "Pacte vert innovant",
+  "valeurs_prevues": {
+    "pib_eu": 2.0,
+    "gini_eu": 0.3,
+    "co2_eu": 8.0,
+    "veb_eu": 80
+  },
+  "amendements": [
+    {
+      "id": "1-1A",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "pib_eu": 2.5,
+        "gini_eu": 0.29,
+        "co2_eu": 6.0,
+        "veb_eu": 85
+      }
+    },
+    {
+      "id": "1-1B",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.25,
+        "co2_eu": 7.5,
+        "veb_eu": 83
+      }
+    },
+    {
+      "id": "1-1C",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "pib_eu": 1.8,
+        "gini_eu": 0.31,
+        "co2_eu": 5.0,
+        "veb_eu": 82
+      }
+    },
+    {
+      "id": "1-1D",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "pib_eu": 2.3,
+        "gini_eu": 0.29,
+        "co2_eu": 7.0,
+        "veb_eu": 86
+      }
+    },
+    {
+      "id": "1-1E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "pib_eu": 1.7,
+        "gini_eu": 0.32,
+        "co2_eu": 9.0,
+        "veb_eu": 78
+      }
+    },
+    {
+      "id": "1-1F",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.31,
+        "co2_eu": 8.5,
+        "veb_eu": 77
+      }
+    },
+    {
+      "id": "1-1G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.27,
+        "co2_eu": 8.2,
+        "veb_eu": 81
+      }
+    },
+    {
+      "id": "1-1H",
+      "origine": "France",
+      "valeurs_prevues": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.3,
+        "co2_eu": 6.0,
+        "veb_eu": 77
+      }
+    }
+  ]
+}

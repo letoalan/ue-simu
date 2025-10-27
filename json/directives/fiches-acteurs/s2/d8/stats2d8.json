@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 8,
+  "nom": "Souveraineté numérique et cybersécurité",
+  "valeurs_prevues": {
+    "normandie_eu": 86,
+    "vdem_eu": 0.88,
+    "pib_growth_eu": 1.7,
+    "idh_eu": 0.93
+  },
+  "amendements": [
+    {
+      "id": "2-8A",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-8B",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-8C",
+      "origine": "Gauche Unitaire",
+      "valeurs_prevues": {
+        "normandie_eu": 86,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-8D",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-8E",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.8,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-8F",
+      "origine": "Allemagne",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-8G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-8H",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.9,
+        "idh_eu": 0.93
+      }
+    }
+  ]
+}

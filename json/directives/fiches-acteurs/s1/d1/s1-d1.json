@@ -1,0 +1,646 @@
+{
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "La Commission porte la proposition initiale, agit comme garant de la cohérence institutionnelle et médiateur entre le Parlement, le Conseil et les parties externes.",
+    "enjeux_directive": [
+      "Assurer le respect des objectifs climatiques (réduction de 50% des émissions de CO2 d'ici 2035) tout en respectant un cadre budgétaire réaliste (2% du PIB).",
+      "Équilibrer les ambitions de réduction du carbone avec la sécurité énergétique et la compétitivité économique.",
+      "Anticiper les blocages et favoriser les compromis pour des stratégies gagnantes."
+    ],
+    "impacts_directive": [
+      "La directive, si elle est adoptée, renforcera le rôle de la Commission en tant que moteur de la politique climatique de l'UE et de l'innovation énergétique.",
+      "L'impact sur le PIB de l'UE est une dépense de 2% du PIB."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-1A",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%",
+        "impact": "Augmenterait l'ambition climatique, mais créerait des tensions budgétaires et rendrait le compromis plus difficile."
+      },
+      {
+        "id": "1-1B",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées",
+        "impact": "Rassurerait les populations des régions industrielles et garantirait que les bénéfices de la transition sont répartis équitablement."
+      },
+      {
+        "id": "1-1C",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon",
+        "impact": "Accélérerait la décarbonation mais pourrait engendrer des tensions économiques et de la volatilité sur le prix de l'énergie dans les pays dépendants du charbon."
+      },
+      {
+        "id": "1-1D",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert",
+        "impact": "Soutenir la transition énergétique en favorisant les technologies d'avenir."
+      },
+      {
+        "id": "1-1E",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB",
+        "impact": "Réduirait l'ambition climatique, mais apaiserait les préoccupations budgétaires de certains États membres."
+      },
+      {
+        "id": "1-1F",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions",
+        "impact": "Protègerait l'industrie lourde de l'Italie en la soustrayant aux exigences de la directive, mais irait à l'encontre de l'objectif de décarbonation."
+      },
+      {
+        "id": "1-1G",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local",
+        "impact": "Assurerait une transition socialement juste en créant des opportunités d'emploi là où l'économie est la plus dépendante des énergies fossiles."
+      },
+      {
+        "id": "1-1H",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil",
+        "impact": "Soutiendrait l'objectif de décarbonation, mais pourrait créer des divisions au sein des États membres et du Parlement."
+      }
+    ],
+    "stratégie": "Adopter une position de médiateur en cherchant un compromis entre les ambitions des Verts/ALE et les préoccupations budgétaires des États comme la Hongrie. Mettre en avant le rôle de la directive pour la sécurité énergétique de l'UE.",
+    "alliances": [
+      "La Commission cherchera des alliés parmi les États membres pragmatiques (comme l'Allemagne) et les partis politiques qui soutiennent les objectifs du Pacte vert (comme Renouveau Européen)."
+    ],
+    "oppositions": [
+      "L'opposition viendra des acteurs qui considèrent le budget de 2% du PIB comme trop élevé (Hongrie, Conservateurs et Réformistes) ou des acteurs qui souhaitent une ambition beaucoup plus forte (Verts/ALE)."
+    ],
+    "éléments_d_argumentaire": [
+      "La directive est un investissement stratégique pour la compétitivité et la souveraineté de l'UE.",
+      "Les objectifs de réduction de CO2 sont cruciaux pour l'avenir de l'Europe.",
+      "Le plan actuel de 2% du PIB est un compromis viable qui équilibre les ambitions et les contraintes budgétaires."
+    ],
+    "références": [
+      "s1d1.json (directive, commission)",
+      "scenario1.json (directive 1)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Acteur porteur de la directive, cherchant à défendre sa souveraineté énergétique et technologique via la relance du nucléaire civil.",
+      "enjeux_directive": [
+        "Défense de sa souveraineté énergétique et de sa filière nucléaire nationale.",
+        "Maintien de l'emploi industriel et des compétences nationales dans le secteur de l'énergie.",
+        "Recherche d'alliances avec d'autres pays pro-nucléaire (République tchèque, Finlande)."
+      ],
+      "impacts_directive": [
+        "La directive initiale (2% du PIB, solaire, éolien, hydrogène) n'inclut pas explicitement le nucléaire, ce qui représente un manque pour la stratégie énergétique française."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1H",
+          "origine": "France",
+          "description": "Relancer le nucléaire civil",
+          "impact": "Permettrait à la France de capitaliser sur sa filière nucléaire existante, de réduire ses émissions de CO2 et de renforcer sa sécurité d'approvisionnement."
+        }
+      ],
+      "stratégie": "Mettre en avant la sécurité d'approvisionnement et la contribution du nucléaire à un mix énergétique bas-carbone. Chercher des alliances avec des pays ayant des positions similaires pour peser au Conseil.",
+      "alliances": [
+        "République tchèque",
+        "Finlande"
+      ],
+      "oppositions": [
+        "Groupes anti-nucléaire (Verts/ALE) et pays majoritairement axés sur les énergies renouvelables."
+      ],
+      "éléments_d_argumentaire": [
+        "Le nucléaire est une source d'énergie bas-carbone indispensable pour atteindre les objectifs climatiques.",
+        "La relance de la filière nucléaire garantit la souveraineté énergétique de l'UE et la stabilité du réseau électrique."
+      ],
+      "références": [
+        "s1d1.json (countries, France)",
+        "scenario1.json (amendements, 1-1H)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Porteur d'une proposition de réduction budgétaire, représentant les intérêts des économies d'Europe de l'Est soucieuses des contraintes fiscales.",
+      "enjeux_directive": [
+        "Préoccupation fiscale et budgétaire, notamment pour les pays moins avancés.",
+        "Recherche d'un compromis acceptable et d'aménagements financiers."
+      ],
+      "impacts_directive": [
+        "Le plan initial de 2% du PIB pourrait imposer une charge fiscale trop lourde pour l'économie hongroise."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1E",
+          "origine": "Hongrie",
+          "description": "Réduire l’investissement à 1,5% du PIB",
+          "impact": "Réduirait la charge budgétaire et offrirait une plus grande flexibilité financière à la Hongrie et à ses alliés."
+        }
+      ],
+      "stratégie": "Fédérer les États prudents sur le plan budgétaire (comme la Pologne) pour former un front commun et obtenir une flexibilité ainsi que des compensations financières.",
+      "alliances": [
+        "Pologne"
+      ],
+      "oppositions": [
+        "Pays à forte ambition climatique (Suède) et partis politiques comme les Verts/ALE et les Socialistes & Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être progressive et financièrement soutenable pour tous les États membres.",
+        "Un engagement de 1,5% du PIB est un compromis réaliste qui permet de poursuivre les objectifs climatiques sans compromettre la stabilité économique."
+      ],
+      "références": [
+        "s1d1.json (countries, Hongrie)",
+        "scenario1.json (amendements, 1-1E)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Porteur d'un amendement visant à protéger son industrie lourde, cherchant à soutenir une transition progressive.",
+      "enjeux_directive": [
+        "Préservation de ses secteurs industriels sensibles face à la transition (automobile, ciment).",
+        "Maintien d'un équilibre économique et social local."
+      ],
+      "impacts_directive": [
+        "La directive, si elle est adoptée telle quelle, pourrait menacer les industries lourdes italiennes en n'offrant pas de protections adéquates."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1F",
+          "origine": "Italie",
+          "description": "Exclure l’industrie lourde des subventions",
+          "impact": "Protègerait l'industrie lourde de l'Italie en la soustrayant aux exigences de la directive, mais irait à l'encontre de l'objectif de décarbonation."
+        }
+      ],
+      "stratégie": "Soutenir une transition progressive en ciblant précisément les aides pour éviter des perturbations économiques majeures. Chercher des alliances avec des lobbies et des États partageant les mêmes préoccupations.",
+      "alliances": [
+        "Pologne (sur la protection de l'emploi)",
+        "Lobby des Energies Fossiles"
+      ],
+      "oppositions": [
+        "Partis et États à forte ambition climatique (Verts/ALE, Suède)."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être juste et ne doit pas mettre en péril l'emploi et la compétitivité de nos industries stratégiques.",
+        "Les investissements doivent être ciblés pour soutenir une transition graduelle sans créer de choc économique."
+      ],
+      "références": [
+        "s1d1.json (countries, Italie)",
+        "scenario1.json (amendements, 1-1F)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Porteur d'un amendement axé sur la priorisation de l'emploi local, représentant les préoccupations sociales de la transition.",
+      "enjeux_directive": [
+        "Garantir que la transition ne génère pas de chômage ou d'exclusion sociale.",
+        "Rassurer les régions industrielles en reconversion."
+      ],
+      "impacts_directive": [
+        "La directive initiale pourrait entraîner des pertes d'emplois dans les industries polluantes si le volet social n'est pas pris en compte."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1G",
+          "origine": "Pologne",
+          "description": "Prioriser l’emploi local dans les investissements",
+          "impact": "Assurerait une transition socialement juste en créant des opportunités d'emploi là où l'économie est la plus dépendante des énergies fossiles."
+        }
+      ],
+      "stratégie": "Créer un front solidaire sur les questions sociales pour peser au sein du Conseil. S'allier avec des acteurs politiques soucieux de la justice sociale.",
+      "alliances": [
+        "Hongrie (sur les questions budgétaires)",
+        "Lobby de l'Automobile"
+      ],
+      "oppositions": [
+        "Acteurs qui privilégient les objectifs climatiques stricts au détriment de la protection de l'emploi."
+      ],
+      "éléments_d_argumentaire": [
+        "Une transition réussie est une transition qui ne laisse personne derrière.",
+        "L'emploi local doit être une priorité pour assurer le soutien des citoyens à la directive."
+      ],
+      "références": [
+        "s1d1.json (countries, Pologne)",
+        "scenario1.json (amendements, 1-1G)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Non-porteur, mais médiateur potentiel, cherchant un compromis entre ambition climatique et protection des industries clés.",
+      "enjeux_directive": [
+        "Trouver un équilibre entre ses propres objectifs climatiques ambitieux et la nécessité de protéger ses industries."
+      ],
+      "impacts_directive": [
+        "Soutient globalement la directive, mais les impacts spécifiques sur ses industries de pointe (automobile, machines) nécessitent une approche pragmatique."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Agir comme un médiateur, en cherchant à équilibrer les positions du Conseil et du Parlement. S'allier avec les acteurs pragmatiques et influents pour trouver une voie médiane.",
+      "alliances": [
+        "La Commission européenne"
+      ],
+      "oppositions": [
+        "Les positions extrêmes, qu'elles soient trop ambitieuses ou trop prudentes."
+      ],
+      "éléments_d_argumentaire": [
+        "Une transition pragmatique est la seule voie pour assurer un développement durable et compétitif.",
+        "L'Allemagne est un leader en matière d'innovation et peut servir de modèle pour la transition industrielle."
+      ],
+      "références": [
+        "s1d1.json (countries, Allemagne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Non-porteur, mais défenseur d'une forte ambition climatique, cherchant à faire monter les investissements et les innovations.",
+      "enjeux_directive": [
+        "Défendre une vision verte ambitieuse et s'aligner sur les objectifs du Pacte Vert.",
+        "Créer une alliance avec les groupes progressistes au Parlement et les pays nordiques."
+      ],
+      "impacts_directive": [
+        "Soutient la directive car elle est en ligne avec les objectifs nationaux de la Suède."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les groupes les plus ambitieux, comme les Verts/ALE, pour pousser la directive vers plus d'investissements et d'innovation.",
+      "alliances": [
+        "Verts/ALE",
+        "autres pays nordiques"
+      ],
+      "oppositions": [
+        "Les pays et groupes qui souhaitent réduire l'investissement ou la portée de la directive (Hongrie, Conservateurs et Réformistes)."
+      ],
+      "éléments_d_argumentaire": [
+        "Le coût de l'inaction est bien plus élevé que le coût de la transition.",
+        "Il est nécessaire d'investir massivement pour atteindre la neutralité carbone."
+      ],
+      "références": [
+        "s1d1.json (countries, Suède)"
+      ]
+    }
+  ],
+  "partis": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Porteur de la proposition consciente de la nécessité de dépasser la dépendance aux énergies fossiles et cherchant une alternative dans l'hydrogène.",
+      "enjeux_directive": [
+        "Concilier le modèle de croissance issu des énergies fossiles pour basculer vers l'hydrogène vert."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient la directive, car elle permet de renforcer l'emploi dans l'industrie et de moderniser le marché automobile, en réduisant son impact carbone."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1B",
+          "origine": "Socialistes & Démocrates",
+          "description": "Cibler prioritairement les régions défavorisées",
+          "impact": "Rassurerait les populations des régions industrielles et garantirait que les bénéfices de la transition sont répartis équitablement."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs pragmatiques (Commission, France) pour trouver une voie médiane entre l'ambition climatique et la protection des emplois et des industries.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Lobby des Energies Fossiles",
+        "Banque et Finance"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "la conversion à l'hydrogène est essentielle pour la préservation d'un modèle industriel compétitif et décarboné.",
+        "La directive doit soutenir l'emploi industriel et ne pas créer de chômage."
+      ],
+      "références": [
+        "s1d1.json (parties, PPE)",
+        "scenario1.json (amendements, 1-1C)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Porteur d'un amendement pour prioriser les régions défavorisées, agissant comme garant de la justice sociale dans la transition.",
+      "enjeux_directive": [
+        "Assurer la justice sociale et la cohésion territoriale.",
+        "Réduire les inégalités liées à la transition."
+      ],
+      "impacts_directive": [
+        "Soutient la directive, mais craint que la transition ne crée ou n'exacerbe les inégalités régionales."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1B",
+          "origine": "Socialistes & Démocrates",
+          "description": "Cibler prioritairement les régions défavorisées",
+          "impact": "Rassurerait les populations des régions industrielles et garantirait que les bénéfices de la transition sont répartis équitablement."
+        }
+      ],
+      "stratégie": "Former des alliances transversales pour intégrer l'aspect social de la directive. S'allier avec des États comme la Pologne et l'Italie pour faire pression sur cet aspect.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes, Hongrie."
+      ],
+      "éléments_d_argumentaire": [
+        "La justice sociale est un prérequis pour une transition réussie et acceptée par tous.",
+        "Il est de notre devoir de soutenir les régions et les populations les plus vulnérables."
+      ],
+      "références": [
+        "s1d1.json (parties, Socialistes et Démocrates)",
+        "scenario1.json (amendements, 1-1B)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Porteur de deux amendements (1-1C et 1-1D), le groupe agit comme un pont entre les groupes les plus ambitieux et les plus prudents, en se positionnant comme un acteur pragmatique et constructif.",
+      "enjeux_directive": [
+        "Soutenir la transition énergétique en ciblant les investissements sur les technologies d'avenir (hydrogène, IA).",
+        "Accélérer la décarbonation en sortant progressivement du charbon."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient globalement la directive, mais souhaite y intégrer des éléments de flexibilité et d'innovation pour garantir sa mise en œuvre."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1C",
+          "origine": "Renouveau Européen",
+          "description": "Imposer un moratoire sur les centrales à charbon",
+          "impact": "Accélérerait la décarbonation mais pourrait engendrer des tensions économiques et de la volatilité sur le prix de l'énergie dans les pays dépendants du charbon."
+        },
+        {
+          "id": "1-1D",
+          "origine": "Renouveau Européen",
+          "description": "Accroître l’innovation dans l’hydrogène vert",
+          "impact": "Soutenir la transition énergétique en favorisant les technologies d'avenir."
+        }
+      ],
+      "stratégie": "Agir comme un pont entre les groupes les plus ambitieux et les plus prudents, en se positionnant comme un acteur pragmatique et constructif.",
+      "alliances": [
+        "Commission",
+        "Parti Populaire Européen",
+        "Suède",
+        "Big Tech",
+        "Banque et Finance"
+      ],
+      "oppositions": [
+        "Les positions extrêmes, qu'elles soient trop ambitieuses (Verts/ALE) ou trop prudentes (Hongrie, Conservateurs et Réformistes)."
+      ],
+      "éléments_d_argumentaire": [
+        "L'innovation est la clé pour une transition énergétique réussie et compétitive.",
+        "La directive doit être mise en œuvre de manière pragmatique, en encourageant l'investissement et la recherche."
+      ],
+      "références": [
+        "s1d1.json (parties, Renouveau Européen)",
+        "scenario1.json (amendements, 1-1C, 1-1D)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Porteur de la proposition la plus ambitieuse sur le plan climatique, cherchant à faire pression pour une trajectoire accélérée.",
+      "enjeux_directive": [
+        "Maximiser l'ambition climatique et la transition écologique.",
+        "Mobiliser le Parlement et les institutions pour faire pression sur la Commission et le Conseil."
+      ],
+      "impacts_directive": [
+        "Soutient pleinement la directive, mais la trouve insuffisamment ambitieuse."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1A",
+          "origine": "Verts/ALE",
+          "description": "Augmenter l'engagement à 2,5% du PIB",
+          "impact": "Permettrait d'accélérer la transition et d'atteindre les objectifs climatiques plus rapidement, mais pourrait entraîner une opposition budgétaire."
+        }
+      ],
+      "stratégie": "Faire valoir la nécessité d'une trajectoire accélérée vers la neutralité carbone et s'allier avec d'autres groupes progressistes.",
+      "alliances": [
+        "Suède",
+        "Parti Socialistes & Démocrates (sur les questions sociales)"
+      ],
+      "oppositions": [
+        "Hongrie et Conservateurs et Réformistes (sur les questions budgétaires)."
+      ],
+      "éléments_d_argumentaire": [
+        "L'urgence climatique exige un investissement supérieur aux 2% proposés initialement.",
+        "Chaque euro investi dans les énergies renouvelables est un pas vers une Europe plus durable et indépendante."
+      ],
+      "références": [
+        "s1d1.json (parties, Verts/ALE)",
+        "scenario1.json (amendements, 1-1A)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Porteur de la proposition la plus pragmatique sur la flexisécurité et l'emploi, cherchant un équilibre entre le marché et la solidarité.",
+      "enjeux_directive": [
+        "Concilier la compétitivité avec la justice sociale."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient la directive, car elle permet de renforcer l'emploi et de moderniser le marché du travail."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-1F",
+          "origine": "Italie",
+          "description": "Exclure l’industrie lourde des subventions",
+          "impact": "Protègerait l'industrie lourde de l'Italie en la soustrayant aux exigences de la directive, mais irait à l'encontre de l'objectif de décarbonation."
+        }
+      ],
+      "stratégie": "S'opposer aux mesures trop contraignantes pour les industries et les pays les plus prudents. Chercher des alliances pour affaiblir les objectifs budgétaires et les contraintes réglementaires.",
+      "alliances": [
+        "Hongrie",
+        "Pologne",
+        "Italie",
+        "Energies Fossiles",
+        "Automobile"
+      ],
+      "oppositions": [
+        "Les Verts/ALE et les Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être progressive et ne doit pas mettre en péril la compétitivité de nos entreprises.",
+        "Une réforme trop radicale menace la souveraineté industrielle de l'Europe."
+      ],
+      "références": [
+        "s1d1.json (parties, Conservateurs et Réformistes)",
+        "scenario1.json (amendements, 1-1F)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique",
+      "role_europeen": "Non-porteur, mais défenseur d'une approche plus radicale et socialement juste.",
+      "enjeux_directive": [
+        "Lutter contre les inégalités et l'accaparement des ressources.",
+        "Promouvoir la justice sociale et environnementale en s'opposant aux intérêts des grandes entreprises."
+      ],
+      "impacts_directive": [
+        "Le groupe considère la directive comme un pas dans la bonne direction, mais la juge trop timide et trop influencée par les lobbies industriels."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner en opposition radicale à l'approche du marché pour défendre les intérêts des citoyens et des travailleurs.",
+      "alliances": [
+        "Verts/ALE",
+        "ONG environnementales (non-officiel)"
+      ],
+      "oppositions": [
+        "Le Parti Populaire Européen, les lobbies industriels."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit servir l'intérêt général, et non les profits de quelques multinationales.",
+        "La justice sociale est un prérequis pour une transition écologique réussie."
+      ],
+      "références": [
+        "s1d1.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Énergies Fossiles",
+      "role_europeen": "Représente les intérêts de l'industrie des énergies fossiles, cherchant à limiter les ambitions de la directive.",
+      "enjeux_directive": [
+        "Protéger le modèle économique basé sur l'utilisation des énergies fossiles.",
+        "S'opposer aux objectifs de décarbonation trop ambitieux ou trop rapides."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme une menace pour le modèle économique de l'industrie."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les acteurs les plus conservateurs pour affaiblir les objectifs de la directive. Utiliser les arguments de la sécurité énergétique et de la compétitivité.",
+      "alliances": [
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être progressive pour éviter les chocs économiques.",
+        "Les biocarburants sont une solution de transition viable et durable."
+      ],
+      "références": [
+        "s1d1.json (lobbies, Energies Fossiles)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente les intérêts des banques et des fonds d'investissement, cherchant à promouvoir le financement de la transition énergétique.",
+      "enjeux_directive": [
+        "Financer les projets d'énergies renouvelables et l'innovation verte.",
+        "Promouvoir les instruments financiers verts adaptés à la transition."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de développement de marché pour l'industrie de la finance."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner comme le partenaire financier de la transition, en s'alliant avec les acteurs les plus progressistes pour promouvoir des solutions de financement adaptées.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Les groupes qui s'opposent à une financiarisation de l'énergie."
+      ],
+      "éléments_d_argumentaire": [
+        "L'investissement privé est indispensable pour réussir la transition énergétique.",
+        "Nous pouvons apporter les capitaux nécessaires pour les projets de grande envergure."
+      ],
+      "références": [
+        "s1d1.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les intérêts des grandes entreprises technologiques, cherchant à promouvoir leurs solutions numériques et d'intelligence artificielle pour le secteur énergétique.",
+      "enjeux_directive": [
+        "Promouvoir les réseaux intelligents, les capteurs et les logiciels d'optimisation énergétique.",
+        "Développer des partenariats pour optimiser la production et la consommation d'énergie."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les entreprises technologiques de développer un nouveau marché et de vendre leurs solutions pour la transition."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Mettre en avant le rôle de la technologie comme solution à tous les enjeux de la transition.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Les groupes qui s'opposent à la collecte de données ou à la dépendance technologique (certains Verts/ALE, Gauche Unitaire)."
+      ],
+      "éléments_d_argumentaire": [
+        "La technologie est la clé pour une énergie plus efficace et durable.",
+        "Nos solutions permettent d'optimiser l'usage des ressources et de réduire les impacts."
+      ],
+      "références": [
+        "s1d1.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharmaceutique",
+      "role_europeen": "Moins directement concerné, mais cherche à se positionner sur les enjeux de santé environnementale.",
+      "enjeux_directive": [
+        "Promouvoir la recherche sur les liens entre environnement et santé publique."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'industrie pharmaceutique de se positionner comme un acteur de la santé publique."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les groupes soucieux de la santé publique (Socialistes et Démocrates) pour promouvoir la recherche.",
+      "alliances": [
+        "Renouveau Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La santé de la population est intrinsèquement liée à la qualité de notre environnement.",
+        "Les investissements dans la R&D verte sont essentiels pour développer les solutions d'avenir."
+      ],
+      "références": [
+        "s1d1.json (lobbies, Pharmaceutique)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, cherchant à obtenir des aides pour sa transition vers la mobilité durable.",
+      "enjeux_directive": [
+        "Soutenir la filière dans la transition vers la mobilité durable (électrique, hydrogène).",
+        "Obtenir des aides pour l'innovation dans les véhicules et les infrastructures."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité d'obtenir des subventions pour la modernisation et la décarbonation du secteur."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec des acteurs soucieux de la protection de l'emploi et de l'industrie (Pologne, PPE).",
+      "alliances": [
+        "Pologne",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'industrie automobile est un moteur de l'économie européenne, son soutien est vital pour la transition.",
+        "Des aides ciblées sont nécessaires pour garantir que la transition ne se traduise pas par des délocalisations ou des pertes d'emplois."
+      ],
+      "références": [
+        "s1d1.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}
