@@ -1,0 +1,765 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Accroître fortement l’offre de logements sociaux.",
+      "Réduire la précarité énergétique et lutter contre l’exclusion.",
+      "Fédérer un large soutien politique à l’initiative.",
+      "Promouvoir une transition écologique radicale, notamment via des quotas d'accessibilité pour les personnes à mobilité réduite.",
+      "Assurer une justice sociale dans la distribution des fonds européens liés au logement.",
+      "Équilibrer les objectifs climatiques avec la préservation de l'industrie européenne."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne.",
+      "La directive renforce la crédibilité de GUE/NGL en matière d'engagements climatiques et sociaux."
+    ],
+    "stratégie": "Mettre en avant l’urgence sociale et climatique du logement. La Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) adopte une approche holistique, combinant des objectifs ambitieux de construction de logements sociaux avec une rénovation énergétique obligatoire pour les logements existants. Elle prône l’inclusion d’un quota de logements accessibles aux personnes à mobilité réduite et la conditionnalité des aides à la mixité sociale. Cependant, elle s’oppose à toute exclusion des logements intermédiaires ou à des dérogations pour les zones rurales. La stratégie repose sur l’alliance avec des pays progressistes comme la France et l'Italie, des partis écologistes (Verts/ALE) et des lobby de l'industrie automobile, tout en s’opposant aux positions du conservateurs et aux lobbies fossiles.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les logements sociaux sont un pilier de l’égalité sociale, permettant de réduire les inégalités économiques et d’assurer une accessibilité aux populations vulnérables.",
+      "La rénovation énergétique des logements existants est indispensable pour atteindre les objectifs climatiques de l'UE, notamment la neutralité carbone en 2050.",
+      "L’inclusion d’un quota de logements accessibles aux personnes à mobilité réduite favorise une société inclusive et respectueuse des droits humains.",
+      "La conditionnalité des aides à la mixité sociale renforce les dynamiques communautaires et prévient l’exclusion de certains groupes socio-économiques.",
+      "Les flexibilités nationales doivent être encadrées pour éviter que certaines régions ne soient désavantagées, surtout celles en déclin démographique ou économique.",
+      "Exclure les logements intermédiaires du champ de la directive risquerait d’affaiblir la cohésion sociale et de fragmenter le marché immobilier.",
+      "Les dérogations pour les zones rurales à faible densité doivent être encadrées strictement, afin d’éviter un retard dans la transition écologique de ces régions.",
+      "Reporter l’obligation de rénovation pour les petits bailleurs pourrait créer des inégalités de traitement entre différents acteurs du secteur immobilier."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) défend cet amendement qu'elle a initié, car il correspond à ses engagements idéologiques en faveur de l'égalité sociale et de la justice distributive. L’objectif de 7 millions de logements sociaux d’ici 2035 est un levier essentiel pour réduire les inégalités et renforcer l’inclusion des populations marginalisées, tout en soutenant une transition écologique durable.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE",
+        "justification": "La rénovation énergétique est un pilier de la transition écologique. En rendant cette mesure obligatoire, on garantit que tous les logements sociaux respectent des normes climatiques strictes, renforçant ainsi l’équité et la durabilité du secteur du logement.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "L’inclusion d’un quota renforce l’égalité des droits et la dignité sociale. Cela garantit que les personnes à mobilité réduite ne sont pas excluses du marché du logement, ce qui est un pilier de la société inclusive défendue par GUE/NGL.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "La mixité sociale est un levier majeur pour lutter contre l’exclusion. En conditionnant les aides, on favorise des politiques de logement qui promeuvent la cohésion communautaire et réduisent les discriminations sociales.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Une flexibilité nationale peut être acceptée, à condition qu’elle ne compromette pas les objectifs sociaux et climatiques globaux. Elle permet de s’adapter aux spécificités régionales tout en maintenant des standards élevés.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L’exclusion des logements intermédiaires risque d’affaiblir l’équilibre social. Cependant, une solution alternative pourrait être proposée pour éviter cette fragmentation du marché immobilier.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure crée une inégalité entre les petits et grands bailleurs, ce qui pourrait nuire à la cohésion du secteur. Une aide ciblée devrait être proposée plutôt qu’un report.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "NEUTRE",
+        "justification": "Les dérogations peuvent être acceptées avec des conditions strictes, afin de ne pas retarder la transition écologique dans ces zones. Cependant, une surveillance rigoureuse est nécessaire pour éviter les dérives.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions avec la Pologne et l’Italie sur les politiques de transition énergétique. Évaluer régulièrement l’impact des mesures sur les secteurs industriels (notamment automobile) et les zones rurales. Recommander une collaboration étroite avec les Verts/ALE pour renforcer la cohésion écologique.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-10-27T18:51:55.528730",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer des gains d’efficacité énergétique concrets.",
+      "Promouvoir la lutte contre le réchauffement climatique.",
+      "Améliorer la qualité de vie des habitants en priorisant l'équité sociale dans l'habitat.",
+      "Renforcer les liens entre transition écologique et justice sociale.",
+      "Accélérer la décarbonation du secteur résidentiel via des obligations légales."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Exiger des mesures contraignantes et des objectifs précis. Privilégier un modèle de développement durable fondé sur la transition énergétique, la justice climatique et une gouvernance participative. Développer des synergies entre les politiques environnementales, sociales et économiques pour renforcer l’adhésion des acteurs publics et privés. Utiliser le pouvoir de négociation dans les comités de la Commission européenne pour imposer des normes élevées.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive est un levier essentiel pour atteindre les objectifs climatiques de l’UE et renforcer la résilience écologique des villes.",
+      "Les logements sociaux doivent être au cœur de la transition énergétique, avec une obligation claire de rénovation thermique.",
+      "L’inclusion d’un quota pour les personnes à mobilité réduite garantit l’équité sociale et l’accès universel aux biens immobiliers.",
+      "La mixité sociale et intergénérationnelle favorise la cohésion urbaine et réduit les inégalités territoriales.",
+      "La flexibilité nationale doit être encadrée par des mécanismes de surveillance rigoureux pour éviter les dérives.",
+      "L’exclusion des logements intermédiaires renforce l’accessibilité du parc immobilier social à tous les niveaux de revenus.",
+      "Les délais adaptés pour les petits bailleurs favorisent une transition progressive sans pénaliser les acteurs locaux.",
+      "Des dérogations pour les zones rurales doivent être compensées par des mesures d’innovation technologique et de financement ciblé."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE défend cet amendement comme un pilier fondamental pour atteindre l’équité sociale et écologique. L’objectif ambitieux de 7 millions de logements sociaux aligne parfaitement avec les engagements climatiques et sociaux européens, tout en favorisant une transition vers des villes durables et inclusives.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE est l’initiateur de cet amendement. Il permet de réduire significativement les émissions de CO₂ et d’améliorer le confort thermique des ménages vulnérables, en respectant les normes européennes de durabilité.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure garantit l’inclusion sociale et la non-discrimination dans le secteur immobilier. Verts/ALE considère que l’accessibilité est un droit fondamental et une condition de justice climatique.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La mixité est un objectif clé pour Verts/ALE, mais elle doit être accompagnée de politiques de financement équitables pour éviter une concentration des bénéfices dans les zones urbaines riches.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "NEUTRE",
+        "justification": "La flexibilité est souhaitable, mais elle doit être encadrée par des indicateurs de suivi précis pour éviter les retards et les dérives. Verts/ALE reste ouvert à une adaptation conditionnelle.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L’exclusion des logements intermédiaires risque d’entamer l’équilibre du marché immobilier. Verts/ALE préconise un encadrement plus large pour favoriser une accessibilité globale.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report temporaire est acceptable, à condition que cela soit compensé par des mesures de soutien financier et technique pour ces acteurs locaux.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "DEFAVORABLE",
+        "justification": "Les dérogations doivent être restreintes et encadrées par des solutions innovantes, comme l’électrification du territoire ou la mobilité durable. Verts/ALE s’oppose à une approche purement accommodante.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les acteurs industriels traditionnels (automobile, énergies fossiles) et les objectifs climatiques. Évaluer l’impact des mesures sur les régions périphériques et les secteurs économiques fragiles. Garantir une cohérence entre la directive et les plans nationaux de transition écologique.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-10-27T18:15:34.605462",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Garantir l’accès au logement à tous, y compris personnes handicapées.",
+      "Favoriser l’inclusion sociale dans la politique du logement.",
+      "Promouvoir la qualité et la diversité des logements sociaux.",
+      "Assurer une transition énergétique inclusive tout en préservant les secteurs économiques clés (industrie, agriculture).",
+      "Équilibrer objectifs climatiques et priorités nationales dans la rénovation du patrimoine immobilier."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen.",
+      "Le positionnement de Parti Populaire Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Le PPE adopte une stratégie centrée sur la conciliation entre objectifs sociaux et économiques. Il privilégie des mesures d’inclusion sociale fortes tout en maintenant un cadre flexible pour les États membres, notamment en matière de rythme de construction ou de dérogations locales. Le parti défend l’importance du logement social comme pilier de la cohésion sociale européenne, tout en valorisant des approches sectorielles (ex : protection des secteurs industriels stratégiques). Il cherche à renforcer sa position dans les négociations en s’alliant à des acteurs partageant ses valeurs (ex : Verts/ALE pour l’écologie) ou en opposant des positions radicales (ex : Conservateurs sur la transition énergétique). Cette approche lui permet d’influencer le texte final tout en préservant un équilibre entre ambitions européennes et intérêts nationaux.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le PPE insiste sur la nécessité d’une transition écologique inclusive, qui ne doit pas pénaliser les secteurs économiques clés (ex : industrie lourde).",
+      "Il défend un cadre flexible pour les États membres, permettant des adaptations nationales tout en garantissant une convergence européenne sur les objectifs climatiques.",
+      "Le parti met en avant l’importance de la mixité sociale dans les logements sociaux comme levier d’intégration territoriale et sociale.",
+      "Il souligne le besoin d’un financement européen structurel pour accompagner la rénovation du patrimoine immobilier, notamment dans les régions défavorisées.",
+      "Le PPE argue que l’innovation technologique (ex : énergies renouvelables, smart grids) doit être associée à des politiques sociales pour éviter une inégalité de transition.",
+      "Il défend la protection des petites entreprises et des bailleurs privés face aux obligations législatives trop contraignantes."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement car il aligne avec sa vision de la croissance européenne durable, combinant développement immobilier et réduction des inégalités. Cet objectif permet d’assurer une transition énergétique inclusive tout en stimulant l’économie européenne.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE appuie ce principe, mais souligne la nécessité de financements européens et d’exemptions pour les petites entreprises. Il propose des délais adaptés en fonction des capacités nationales.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "Le PPE est l’initiateur de cet amendement. Il défend fermement cette mesure pour garantir une société inclusive, en s’appuyant sur les principes européens de non-discrimination et d’égalité des droits.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "Le PPE considère que cette condition favorise l’intégration territoriale et réduit les risques de ségrégation. Il insiste sur des critères objectifs pour éviter une sélection inéquitable.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient cette flexibilité, mais exige des benchmarks européens clairs. Il préconise un suivi régulier pour éviter les écarts entre États membres.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE oppose cet amendement car il pourrait fragiliser des segments clés de l’immobilier social. Il préconise une approche inclusive couvrant tous les types de logements abordables.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE appuie cette proposition pour protéger les petites entreprises, mais insiste sur des conditions de financement et de suivi rigoureux. Il préconise un accompagnement européen pour éviter une dérive inégalitaire.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient cette flexibilité, mais exige des critères objectifs pour éviter une dilution des normes. Il préconise un accompagnement spécifique pour ces zones.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre les priorités écologiques du PPE et les intérêts des industries fossiles (ex : Énergies fossiles). Suivre l’impact de la position sur les logements intermédiaires (1-7F) dans les régions Sud, où ces logements sont stratégiques. Évaluer la compatibilité de l’inclusion des quotas d’accessibilité (1-7C) avec les budgets des pays membres.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-10-27T17:26:08.157856",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Favoriser la cohésion sociale par le logement.",
+      "Encourager des politiques innovantes de mixité intergénérationnelle.",
+      "Promouvoir l'inclusion des personnes à mobilité réduite dans les projets immobiliers.",
+      "Assurer une transition écologique durable du secteur résidentiel.",
+      "Garantir la durabilité économique des investissements en logement social.",
+      "Renforcer l'harmonisation européenne des normes de construction et d'énergie."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne.",
+      "L'accent mis sur la mixité et l'inclusion sociale renforce le capital politique du parti en Europe."
+    ],
+    "stratégie": "Renouveau Européen adopte une stratégie centrée sur l'équilibre entre logement abordable, durabilité écologique et cohésion sociale. Le parti vise à transformer les politiques européennes de logement en outils d'intégration socio-économique et environnementale, avec un accent particulier sur la mixité intergénérationnelle comme levier de réduction des inégalités. La stratégie implique une coordination étroite avec les acteurs industriels pour sécuriser l'innovation technologique (ex : énergies propres), tout en défendant des normes européennes ambitieuses sur la durabilité et le bien-être social. Le parti mise également sur la mobilité réduite comme enjeu de justice sociale, intégrant ce critère dans les objectifs de logement social.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (réticence à l'obligation de rénovation énergétique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La mixité sociale est un pilier de la justice urbaine et de la lutte contre les ghettos socio-économiques.",
+      "L'inclusion des personnes à mobilité réduite dans les logements sociaux favorise l'égalité d'accès au droit au logement.",
+      "Les investissements en logement social stimulent l'économie locale et réduisent la précarité résidentielle.",
+      "La durabilité énergétique des logements sociaux contribue aux objectifs climatiques de l'UE pour 2030.",
+      "L'harmonisation européenne permet d'éviter les déséquilibres régionaux dans la répartition des fonds européens.",
+      "Les normes strictes sur la construction renforcent la qualité des logements et garantissent leur durabilité à long terme.",
+      "La collaboration avec le secteur automobile assure une transition écologique sans perte de compétitivité industrielle.",
+      "L'engagement envers l'hydrogène vert aligne les politiques européennes sur les innovations technologiques majeures."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur automobile (Volkswagen, Renault) et objectifs climatiques. Évaluer impact des normes de rénovation énergétique sur les petits bailleurs (France, Italie). Surveiller déséquilibres régionaux dans la distribution des fonds européens.",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen soutient cet amendement car il permet d'accélérer la réduction des disparités résidentielles en Europe tout en répondant aux objectifs climatiques. L'augmentation du volume de logements sociaux renforce les capacités de l'Union à gérer les migrations internes et transfrontalières, tout en favorisant une transition écologique structurelle.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'amendement est aligné avec les valeurs écologiques du parti, mais nécessite un accompagnement financier pour éviter de pénaliser les régions défavorisées. Renouveau Européen propose une flexibilité dans la mise en œuvre qui respecte les spécificités nationales tout en assurant des bénéfices environnementaux à l'échelle européenne.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "Ce point est central dans la vision du parti sur l'inclusion sociale. L'obligation d'intégrer des normes d'accessibilité renforce le respect des droits fondamentaux et évite les discriminations systémiques en matière de logement.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen est l'initiateur de cet amendement, qui reflète sa priorité d'intégration socio-territoriale. La conditionnalisation des aides permet d'accélérer la lutte contre les quartiers monofonctionnels en Europe tout en favorisant l'équilibre intergénérationnel dans les villes.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "NEUTRE",
+        "justification": "Renouveau Européen reste neutre sur ce point, car il préfère un cadre harmonisé pour éviter les déséquilibres régionaux. Toutefois, la flexibilité peut être considérée comme un compromis nécessaire à l'acceptation de la directive par les États membres.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion des logements intermédiaires risque d'aggraver les disparités résidentielles. Renouveau Européen propose un compromis pour inclure ces logements dans le dispositif, tout en maintenant une distinction claire entre les catégories de logement.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "DEFAVORABLE",
+        "justification": "Renouveau Européen est contre ce report, car il pourrait retarder la transition écologique des logements sociaux. Le parti préfère un calendrier rigoureux qui assure une équité entre les bailleurs privés et publics.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'autorisation de dérogations peut être acceptable, à condition qu'elles soient compensées par des investissements dans d'autres zones. Renouveau Européen défend une approche équilibrée qui respecte les spécificités rurales tout en maintenant l'objectif global.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-10-27T17:58:22.226169",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates",
+    "actor_id": "sd",
+    "role_europeen": "Non-porteur - Souhaitent une conditionnalité sociale forte (droits des travailleurs, participation).",
+    "enjeux_directive": [
+      "Protéger les droits des travailleurs dans la transformation industrielle.",
+      "Promouvoir le dialogue social et la participation des salariés.",
+      "Éviter une modernisation au détriment des conditions de travail.",
+      "Assurer l'équité régionale dans la répartition des investissements",
+      "Renforcer les protections sociales pour les ménages vulnérables",
+      "Garantir une transition écologique juste et inclusive"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Socialistes et Démocrates (S&D) adoptent une approche centrée sur la justice sociale, l'égalité des droits et la solidarité entre les États membres. Leur stratégie consiste à renforcer les protections sociales dans le cadre de la directive, en exigeant des mesures contraignantes pour garantir la participation des travailleurs et des syndicats. Ils privilégient une transition écologique progressive, associant les acteurs économiques et sociaux aux décisions. Leur objectif est d'assurer l'équilibre entre développement durable et préservation des droits fondamentaux, notamment pour les catégories vulnérables (travailleurs précaires, personnes âgées, jeunes). Ils s'appuient sur des alliances stratégiques avec des acteurs partageant leur vision de la justice sociale, tout en contestant les positions qui favorisent l'accumulation de capital au détriment du bien commun. Leur influence repose sur une capacité à mobiliser des coalitions transnationales et à défendre des normes sociales élevées au sein de l'UE.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les logements sociaux doivent être accessibles à tous, y compris aux personnes en situation de précarité",
+      "La rénovation énergétique est un levier majeur pour la lutte contre le changement climatique et l'amélioration du confort des ménages",
+      "Le quota de logements accessibles aux personnes à mobilité réduite doit être contraignant, non facultatif",
+      "La mixité sociale est un pilier fondamental d'une société inclusive et équitable",
+      "Les flexibilités nationales doivent respecter les objectifs climatiques européens pour éviter une dérive",
+      "L'exclusion des logements intermédiaires compromet la cohérence de l'approche de logement social",
+      "La prolongation de l'obligation de rénovation pour les petits bailleurs risque d'avoir un impact négatif sur les familles vulnérables",
+      "Les dérogations en zones rurales doivent être encadrées pour ne pas limiter la transition écologique"
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "S&D appuie cet amendement car il renforce la protection des ménages en situation de précarité, contribuant à l'équité sociale. Cela permet d'assurer une couverture logistique plus large tout en favorisant les politiques publiques de solidarité.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement favorise une transition écologique inclusive en garantissant que les logements sociaux suivent les mêmes standards que le reste du parc immobilier. Cela réduit la précarité énergétique et renforce l'efficacité des politiques climatiques.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "S&D soutient cet amendement car il garantit l'accessibilité universelle, une exigence fondamentale pour une société inclusive. Cela permet d'éviter la discrimination et de promouvoir l'autonomie des personnes vulnérables.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement renforce l'objectif de réduction des inégalités sociales. Il favorise des quartiers diversifiés, ce qui contribue à une meilleure cohésion sociale et à la lutte contre les ghettos.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "S&D appuie cette flexibilité à condition qu'elle ne compromette pas les objectifs climatiques ou sociaux. Cela permet d'adapter les politiques locales tout en maintenant une cohésion européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE",
+        "justification": "S&D s'oppose à cette exclusion car elle affaiblit l'approche globale de lutte contre la précarité. Les logements intermédiaires jouent un rôle clé dans la transition vers des politiques de logement plus inclusives.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "S&D s'oppose à cette extension car elle pourrait pénaliser les familles vulnérables. Cependant, ils acceptent une flexibilité conditionnelle si des mesures compensatoires sont prises.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "S&D appuie ces dérogations si elles sont encadrées pour ne pas limiter la transition écologique. Cela permet de respecter les spécificités des zones rurales tout en maintenant l'objectif climatique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre logements sociaux et secteur immobilier (Bouygues, Crédit Agricole) sur les objectifs. Évaluer impact des dérogations rurales en Pologne et Hongrie. Surveiller l'opposition des industries fossiles sur la rénovation énergétique.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-10-27T17:42:20.424262",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Non-porteur - Favorisent une approche pragmatique et souple, avec des flexibilités locales.",
+    "enjeux_directive": [
+      "Éviter des surcharges administratives et contraintes excessives.",
+      "Respecter la subsidiarité et diversité des contextes nationaux.",
+      "Protéger les secteurs économiques stratégiques (énergie, industrie).",
+      "Assurer une transition écologique progressive sans compromettre la compétitivité économique.",
+      "Promouvoir des solutions basées sur le marché plutôt que sur un dirigisme étatique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne.",
+      "L'approche de l'ECR favorise une coopération européenne ciblée, sans imposer un cadre uniforme à tous les États membres."
+    ],
+    "stratégie": "Les Conservateurs et Réformistes Européens (ECR) adoptent une stratégie axée sur la défense des intérêts nationaux tout en favorisant une coopération européenne ciblée. Ils privilégient un modèle de gouvernance qui respecte les réalités économiques, sociales et culturelles des États membres. L'ECR s'oppose à toute surcharge réglementaire et prône une transition écologique progressive, en valorisant les énergies fossiles traditionnelles (comme le charbon) dans un cadre de durabilité. Ils soutiennent les secteurs industriels stratégiques (automobile, énergie), tout en défendant des politiques économiques libérales. Leur approche est pragmatique et souple, avec une volonté de concilier objectifs climatiques et croissance économique. L'ECR favorise également la recherche d'alliances transversales au sein du Parlement européen (avec les PPE, S&D ou Renouveau Européen), tout en restant méfiant face aux groupes qui défendent un modèle de transition radicale.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux priorités économiques libérales et à la subsidiarité)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Renouveau Européen (privilégie une approche plus centralisée)"
+    ],
+    "éléments_d_argumentaire": [
+      "La subsidiarité doit primer sur les directives européennes pour respecter la diversité nationale.",
+      "Les énergies fossiles doivent être intégrées dans un cadre de transition écologique, non éliminées brutalement.",
+      "Le secteur automobile et l'industrie nécessitent une protection pour maintenir la compétitivité européenne.",
+      "Les investissements dans les énergies bas-carbone doivent s'appuyer sur des solutions techniques existantes (nucléaire, hydrogène), non uniquement sur des innovations expérimentales.",
+      "Les régions rurales et à faible densité doivent bénéficier de flexibilités spécifiques pour éviter des surcoûts inutiles.",
+      "La mixité sociale et intergénérationnelle est un objectif valable, mais doit s'inscrire dans un cadre économique réaliste.",
+      "Les logements intermédiaires doivent rester hors du champ de la directive pour ne pas créer de distorsions de concurrence.",
+      "Les petits bailleurs doivent bénéficier d'une souplesse temporelle dans la mise en œuvre des obligations."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "L'ECR approuve cet amendement car il aligne avec son objectif de stimuler la construction de logements abordables, tout en permettant une flexibilité nationale pour s'adapter aux réalités économiques locales. Cela favorise une approche équilibrée entre les besoins sociaux et la préservation des budgets publics.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'ECR s'inquiète de l'imposition d'une obligation nationale unifiée pour tous les États membres, qui pourrait générer des coûts élevés pour les logements sociaux existants. Ils préfèrent une approche volontaire et flexible, adaptée aux conditions locales.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'ECR soutient cet amendement, mais souligne l'importance d'une adaptation nationale pour tenir compte des spécificités régionales et des contraintes budgétaires locales. Cela éviterait de créer une surcharge administrative inutile.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "L'ECR approuve cet amendement car il favorise une intégration sociale équilibrée, tout en maintenant des incitations économiques pour les acteurs privés. Cela renforce la cohésion sociale sans imposer de cadres inadaptés.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "L'ECR soutient cet amendement car il respecte la subsidiarité et permet aux États membres d'adapter leurs politiques à leur contexte économique et social. Cela évite une uniformisation inappropriée des rythmes de construction.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "FAVORABLE",
+        "justification": "L'ECR approuve cet amendement, car cela permet de ne pas créer de distorsions entre les différents types de logements. Cela évite une surcharge réglementaire inutile pour un segment du marché réservé à des acteurs privés.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'ECR soutient cet amendement, mais souligne l'importance d'une compensation financière ou technique pour les petits bailleurs. Cela éviterait une charge excessive sur un segment du marché déjà fragilisé.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE",
+        "justification": "L'ECR approuve cet amendement, car il permet d'éviter une surcharge réglementaire inadaptée aux réalités géographiques et économiques des zones rurales. Cela respecte la subsidiarité tout en encourageant l'amélioration du confort thermique.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "À surveiller les tensions entre les lobbies des énergies fossiles (notamment en Pologne et Hongrie) et les objectifs climatiques. Évaluer régulièrement l'impact de la flexibilité nationale sur les logements sociaux, surtout dans les pays à faibles ressources budgétaires. Surveiller l'équilibre entre protection industrielle (automobile) et transition écologique, notamment en Italie.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-10-27T18:34:13.139925",
+    "version": "4.7"
+  }
+]

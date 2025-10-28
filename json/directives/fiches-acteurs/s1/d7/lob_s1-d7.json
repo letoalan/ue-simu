@@ -1,0 +1,653 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts des géants technologiques (Google, Apple, Microsoft) et influence la législation européenne sur l'innovation numérique, le cloud computing, l'intelligence artificielle et la régulation des plateformes. Vise à aligner les politiques européennes sur les priorités de développement technologique tout en évitant une réglementation excessive qui pourrait entraver la compétitivité globale.",
+    "enjeux_directive": [
+      "Intégration de solutions numériques (IA, big data) dans la gestion énergétique des logements sociaux",
+      "Promotion d'infrastructures cloud pour le stockage et l'analyse des données de consommation énergétique",
+      "Coordination entre régulations technologiques et objectifs climatiques (ex: smart grids, domotique)",
+      "Protection des données personnelles dans les systèmes de gestion énergétique connectés",
+      "Mise en place d'initiatives européennes pour le développement de logiciels open source dans la transition écologique",
+      "Harmonisation des normes technologiques transfrontalières pour l'efficacité énergétique"
+    ],
+    "impacts_directive": [
+      "La directive pourrait stimuler les investissements dans les technologies numériques liées à l'habitat (ex: domotique, gestion d'énergie en temps réel)",
+      "Les géants technologiques pourraient bénéficier de nouvelles opportunités commerciales via la digitalisation des logements sociaux",
+      "Risques de tensions avec les régulateurs européens soucieux de l'indépendance technique et des données des utilisateurs",
+      "Nécessité d'aligner les priorités technologiques avec les objectifs climatiques (ex: réduction du digital carbon footprint)"
+    ],
+    "stratégie": "Big Tech adopte une approche double : promotion active des innovations numériques qui facilitent la transition écologique, tout en défendant une réglementation européenne équilibrée pour éviter les mesures trop restrictives. Le lobby s'appuie sur des partenariats stratégiques avec des acteurs clés de l'économie numérique (ex: cloud computing) et cherche à intégrer ses solutions technologiques dans les politiques européennes de logement social. En parallèle, il défend une approche progressive pour éviter un encadrement trop lourd qui pourrait nuire à la croissance du secteur technologique européen.",
+    "alliances": [
+      "France (collaboration sur les projets d'innovation numérique et smart building)",
+      "Italie (partenariats dans le domaine de l'intelligence artificielle appliquée au logement social)",
+      "PPE (soutien aux politiques favorisant l'innovation technologique et la compétitivité européenne)",
+      "Verts/ALE (privilégie les solutions numériques durables pour la transition écologique)",
+      "S&D (privilège des investissements technologiques dans les régions défavorisées)",
+      "Automobile (synergies sur l'intégration de l'IA et des énergies propres dans les infrastructures)",
+      "Banque (soutien aux financements structuraux pour le développement numérique)"
+    ],
+    "oppositions": [
+      "Hongrie (réticence à la réglementation européenne du secteur technologique)",
+      "Conservateurs (préférence pour une transition progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies opposés à l'intégration de solutions numériques dans les politiques énergétiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les technologies numériques permettent d'optimiser la consommation énergétique des logements sociaux via l'utilisation de l'IA et du big data.",
+      "La digitalisation facilitée par Big Tech réduit les coûts de gestion des infrastructures énergétiques, bénéficiant ainsi à l'Europe dans sa transition écologique.",
+      "Les géants technologiques proposent des solutions scalables pour la construction et la rénovation de logements sociaux à grande échelle.",
+      "Le lobby Big Tech défend une approche ouverte sur les normes technologiques européennes pour éviter un fragmentaire du marché numérique.",
+      "L'intégration de l'IA dans le secteur du logement social favorise la création d'emplois qualifiés en Europe.",
+      "Les partenariats avec le secteur automobile permettent une synergie entre les réseaux énergétiques intelligents et les véhicules électriques.",
+      "Big Tech propose des modèles économiques durables basés sur l'utilisation efficiente de la donnée pour la transition écologique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car il offre des opportunités pour déployer les solutions numériques (ex: smart grids) à grande échelle. Cela facilitera l'intégration de technologies d'efficacité énergétique dans l'habitat social, alignant les priorités technologiques avec les objectifs climatiques européens.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie cet amendement à condition que les technologies numériques soient intégrées dans les processus de rénovation. Cela permettrait d'optimiser la consommation énergétique via des outils d'IA et de big data, tout en renforçant l'écosystème numérique européen.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car il aligne avec les objectifs d'inclusion numérique et d'accessibilité technologique. Les solutions numériques peuvent faciliter l'accès aux logements sociaux pour les personnes à mobilité réduite.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cet amendement car il ne touche pas directement aux technologies numériques. Cependant, Big Tech s'engage à promouvoir des solutions technologiques qui favorisent la mixité sociale dans les logements sociaux.",
+        "priorite": "faible",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que les réglementations technologiques soient alignées avec les priorités européennes. Cela permettrait d'adapter les solutions numériques aux spécificités nationales tout en maintenant une cohérence européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement car l'exclusion des logements intermédiaires pourrait limiter l'utilisation des solutions numériques dans une catégorie importante d'habitations. Cependant, Big Tech propose de trouver un compromis pour inclure ces logements via des technologies adaptées.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cet amendement car il ne touche pas directement aux technologies numériques. Cependant, Big Tech s'engage à promouvoir des solutions technologiques qui facilitent la rénovation pour tous les bailleurs.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que les technologies numériques soient adaptées aux spécificités rurales. Cela permettrait d'améliorer l'accès aux services énergétiques dans ces zones tout en favorisant l'innovation technologique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre Big Tech et les lobbies énergies fossiles sur la réglementation technologique. Évaluer l'impact de la digitalisation des logements sociaux sur la compétitivité du secteur automobile (ex: Volkswagen, Stellantis). Recommander une collaboration étroite avec les parties prenantes de la transition écologique pour éviter les déséquilibres technologiques.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T15:26:17.428457",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Energies fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Limitation des pénalités et des contraintes urgentes sur le secteur du bâtiment.",
+      "Appui au lobbying pour un rythme adapté de transition.",
+      "Préservation des investissements dans les infrastructures fossiles existantes (charbon, gaz).",
+      "Mise en place d'incitations fiscales ou réglementaires favorables aux énergies fossiles durant la transition.",
+      "Protection des emplois liés à l'extraction et à la distribution des énergies traditionnelles."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies fossiles.",
+      "Les intérêts économiques et stratégiques de Energies fossiles sont directement concernés."
+    ],
+    "stratégie": "Le lobby Énergies Fossiles adopte une approche multi-prongée pour influencer la directive. Il milite pour des transitions énergétiques progressives, évitant les fermetures brutales d'installations de production fossile (comme le charbon en Pologne ou le gaz en Italie). Il s'appuie sur des alliances stratégiques avec des pays dépendants des énergies traditionnelles (Hongrie, Pologne) et des partis favorables à une transition modérée (PPE, Conservateurs). En parallèle, il développe un argumentaire axé sur la stabilité économique, les coûts de la transition rapide, et la nécessité d'assurer l'énergie sécurisée en Europe. Il s'oppose notamment aux amendements visant à renforcer les obligations de rénovation énergétique ou à accélérer la suppression des subventions aux combustibles fossiles.",
+    "alliances": [
+      "Pologne (dépendance au charbon et investissements dans le gaz naturel)",
+      "Hongrie (résistance aux moratoires sur l'énergie fossile en raison de sa dépendance à l'importation de pétrole et de gaz)",
+      "PPE (soutien aux transitions énergétiques progressives et protection des secteurs économiques stratégiques)",
+      "Conservateurs (préférence pour une transition non radicale et respect des intérêts économiques nationaux)",
+      "Big Tech (collaboration sur les infrastructures numériques et l'optimisation de la chaîne d'approvisionnement énergétique)",
+      "Automobile (protection des secteurs industriels liés à la production de véhicules thermiques en phase de transition)",
+      "Banque (soutien aux investissements structuraux dans les infrastructures énergétiques traditionnelles)"
+    ],
+    "oppositions": [
+      "France (priorité aux énergies renouvelables et objectifs climatiques ambitieux)",
+      "Verts/ALE (soutien à la phase-out des énergies fossiles et objectifs de neutralité carbone)",
+      "Agrochimie (préférence pour les solutions agricoles bas-carbone et réduction des dépendances énergétiques traditionnelles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition rapide vers les énergies renouvelables pourrait entraîner des pertes massives d'emplois dans les secteurs de l'extraction, du raffinage et de la distribution des hydrocarbures.",
+      "Les coûts de la décarbonation immédiate seraient prohibitifs pour les pays en développement économique (comme la Pologne) ou les régions industrielles historiques (ex: Silesie).",
+      "L'énergie fossile reste un pilier essentiel de la sécurité énergétique européenne, notamment face aux tensions géopolitiques (dépendance au pétrole et gaz russe).",
+      "Les technologies existantes nécessitent des investissements massifs pour être adaptées à des objectifs climatiques plus stricts, ce qui pourrait nuire à la compétitivité industrielle européenne.",
+      "Le lobby s'appuie sur l'argument de la 'transition juste', insistant sur le besoin d'éviter les ruptures brutales et de garantir des mesures compensatoires pour les régions touchées.",
+      "Les énergies fossiles, lorsqu'elles sont exploitées avec des technologies propres (captage et stockage du CO₂), peuvent coexister avec les objectifs climatiques à long terme.",
+      "La directive ne tient pas suffisamment compte des spécificités nationales en matière d'énergie (ex: dépendance de la Hongrie au gaz turc, ou de la Pologne au charbon)."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions industrielles (ex: Silesie en Pologne) et les objectifs climatiques de la directive. Évaluer l'impact des mesures sur les secteurs automobiles (Volkswagen, PSA) et les pays producteurs de charbon (Pologne). Recommander une surveillance régulière des débats autour du financement des transitions justes pour ces régions.",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette proposition pourrait faciliter la construction rapide de logements, mais nécessite des garanties pour éviter les impacts négatifs sur les chaînes d'approvisionnement énergétiques traditionnelles (ex: réduction de la demande en gaz naturel). Le lobby soutient cette mesure à condition qu'elle soit couplée à des incitations pour moderniser les infrastructures existantes.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby s'oppose à cette mesure en raison de son coût élevé et de l'impact sur les budgets nationaux. Cependant, il propose une mise en œuvre progressive et un financement européen compensé par des subventions aux secteurs énergétiques traditionnels.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "NEUTRE",
+        "justification": "Cette mesure, bien qu'indispensable pour l'inclusion sociale, ne présente ni bénéfices ni risques directs pour le secteur des énergies fossiles. Le lobby reste neutre mais souligne la nécessité de garantir un financement adéquat pour éviter les surcoûts.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "Le lobby soutient cette proposition car elle favorise une distribution équilibrée des ressources, évitant la concentration de certaines politiques sociales dans des zones industrielles historiques dépendantes des énergies fossiles.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "Le lobby appuie cette proposition pour permettre aux pays dépendants des énergies traditionnelles (comme la Pologne) d'adapter leurs politiques à leur situation économique et géographique spécifique.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby s'oppose à cette exclusion car elle pourrait créer des disparités dans l'accès aux politiques sociales et nuire à l'équilibre entre les secteurs énergétiques traditionnels et nouveaux.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette proposition permettrait aux petits bailleurs (souvent des particuliers ou petites entreprises) d'adapter leur gestion, mais le lobby exige une compensation financière pour éviter une charge excessive sur les secteurs énergétiques.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE",
+        "justification": "Le lobby soutient cette mesure car elle permet de respecter les spécificités géographiques et économiques des zones rurales, souvent moins dépendantes des énergies renouvelables que les villes industrielles.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T15:43:52.030873",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Financement de projets de rénovation et construction durable.",
+      "Développement d’instruments financiers pour le secteur immobilier vert.",
+      "Harmonisation des réglementations européennes sur les prêts immobiliers liés à la transition écologique.",
+      "Gestion des risques systémiques liés aux investissements dans l’économie verte.",
+      "Accès au financement pour les PME du secteur immobilier et de l’industrie."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés.",
+      "L’introduction d’instruments financiers innovants (ex. certificats carbone) pourrait redéfinir les modèles économiques sectoriels."
+    ],
+    "stratégie": "Banque et Finance adopte une approche double : promouvoir des instruments de financement alignés sur la transition écologique tout en défendant une réglementation prudente pour éviter un surchargement des institutions financières. Le lobby milite pour des subventions conditionnées à l’innovation technologique (ex. logements à énergie positive), tout en exigeant une flexibilité nationale pour les pays à faible densité populationnelle. Il cherche à influencer la directive via des alliances stratégiques avec des acteurs pro-technologie et anti-moratoires, tout en opposant l’extension de mesures restrictives comme les obligations de rénovation énergétique obligatoire. Une priorité est de garantir une continuité des flux financiers entre les secteurs traditionnels (ex. industries fossiles) et les nouvelles économies vertes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les instruments financiers innovants (ex. certificats carbone) doivent être encadrés pour éviter des distorsions de concurrence entre États membres.",
+      "Le financement du logement social doit inclure des mécanismes incitatifs pour les investisseurs privés, sans surcharger le secteur bancaire.",
+      "La rénovation énergétique obligatoire risque d’entraîner une augmentation de la dette publique si elle n’est pas couplée à des mesures fiscales compensatoires.",
+      "Les PME immobilières doivent bénéficier de dispositifs de garantie étatique pour leur permettre d’accéder au financement durable.",
+      "La mixité sociale doit être encouragée via des primes tarifaires, non des obligations juridiques contraignantes.",
+      "Le quota de logements accessibles aux personnes à mobilité réduite doit être adapté aux réalités géographiques locales pour éviter un coût excessif.",
+      "Les dérogations pour les zones rurales doivent inclure un accompagnement financier spécifique pour ne pas pénaliser ces régions."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’augmentation du nombre de logements sociaux est favorable si elle s’accompagne de dispositifs incitatifs pour les investisseurs privés. Le secteur financier soutient cette mesure à condition qu’elle ne pénalise pas la rentabilité des projets via des obligations réglementaires excessives.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L’obligation de rénovation énergétique risque d’accroître les coûts immédiats pour les bailleurs sociaux, ce qui pourrait affecter la capacité des banques à financer ces projets. Une approche dégressive liée aux capacités locales serait préférable.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "L’inclusion d’un quota de logements accessibles favorise la diversité des offres immobilières et répond à une attente sociale majeure. Le secteur financier soutient cette mesure si elle est couplée à des incitations fiscales pour les promoteurs.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "DEFAVORABLE",
+        "justification": "La conditionnalisation des aides à la mixité sociale pourrait limiter la flexibilité des projets immobiliers, surtout dans les zones rurales. Le lobby préconise une approche plus incitative que réglementaire.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "La flexibilité nationale est nécessaire pour respecter les spécificités géographiques et économiques des États membres. Le secteur financier appuie cette mesure pour éviter une surcharge réglementaire inadaptée à certaines régions.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L’exclusion des logements intermédiaires pourrait créer des disparités dans l’accès au logement. Une approche plus intégrée serait préférable pour éviter une fragmentation du marché immobilier.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE",
+        "justification": "Le report est nécessaire pour ne pas pénaliser les petits bailleurs, qui disposent de moins de ressources. Le secteur financier soutient cette mesure pour garantir une transition progressive.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les dérogations pour les zones rurales sont favorables si elles incluent un accompagnement financier spécifique. Le secteur financier appuie cette mesure à condition qu’elle ne compromette pas l’objectif global de rénovation.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les lobbies énergies fossiles (ex. Énergies fossiles) et les initiatives vertes du secteur bancaire. Évaluer les risques de fragmentation du marché immobilier si les logements intermédiaires sont exclu. Prioriser la coordination avec les acteurs pro-technologie (ex. Big Tech, Automobile).",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T15:59:26.924126",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agro-chimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agro-chimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Impliquée indirectement via politiques rurales liées à la construction.",
+      "Veille à la cohérence avec les politiques agricoles."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agro-chimie.",
+      "Les intérêts économiques et stratégiques de Agro-chimie sont directement concernés."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "",
+    "alliances": [],
+    "oppositions": [],
+    "éléments_d_argumentaire": [],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": ""
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique européen et cherche à influencer la législation européenne, notamment sur les normes de réglementation des médicaments, la concurrence, l'innovation technologique et les politiques de santé publique. Le lobby insiste sur la nécessité d'une harmonisation des directives européennes pour favoriser la recherche, réduire les coûts de développement, et garantir l'accès aux traitements innovants tout en défendant ses intérêts économiques et stratégiques.",
+    "enjeux_directive": [
+      "Harmonisation des réglementations sur les médicaments génériques et biosimilaires pour renforcer la concurrence européenne.",
+      "Protection de l'innovation pharmaceutique face aux pressions des États membres pour réduire les coûts de santé publique.",
+      "Accès équitable à la recherche et au développement (R&D) en Europe, notamment pour les maladies rares ou orphelines.",
+      "Intégration des normes environnementales dans la production pharmaceutique, avec un accent sur la réduction des déchets toxiques et l'efficacité énergétique.",
+      "Soutien à une coopération européenne renforcée pour améliorer l'accès aux traitements en zones défavorisées."
+    ],
+    "impacts_directive": [
+      "La directive influencera indirectement les politiques de santé publique, en particulier concernant la répartition des ressources entre les États membres et le financement des médicaments innovants.",
+      "Les normes environnementales imposées par la directive pourraient augmenter les coûts de production pharmaceutique, affectant la compétitivité du secteur européen face à d'autres régions mondiales."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une approche multi-niveaux. Il s'appuie sur des alliances stratégiques avec des États membres soucieux de l'innovation (comme la France et l'Allemagne), des partis favorables aux politiques économiques libérales (S&D, PPE) et des acteurs liés à la technologie (Big Tech). Il s'efforce d'intégrer des éléments de durabilité dans ses propositions, tout en défendant les intérêts stratégiques du secteur. Le lobby cherche à influencer les amendements de manière indirecte, en évitant les positions trop opposées aux États membres ou aux partis pro-économie. Il privilégie une approche collaborative avec des acteurs non concurrents (comme Agrochimie) pour renforcer son influence sur les décisions européennes. En parallèle, il adopte des positions modérées sur certains amendements pour éviter de provoquer un rejet massif, tout en maintenant une position ferme sur les enjeux d'innovation et de réglementation.",
+    "alliances": [
+      "France (soutien à l'innovation pharmaceutique et aux politiques d'accès équitable aux traitements)",
+      "Allemagne (priorité accordée aux secteurs industriels stratégiques, notamment la pharmacie)",
+      "S&D (partage des objectifs de santé publique et d'égalité d'accès aux soins)",
+      "PPE (soutien à la réglementation européenne harmonisée pour favoriser l'innovation)",
+      "Big Tech (collaboration sur les innovations numériques en santé et la digitalisation des processus pharmaceutiques)",
+      "Agrochimie (coopération sur les normes environnementales dans la production)",
+      "Renouveau Européen (soutien aux politiques favorisant l'innovation technologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation trop stricte sur les coûts de santé publique, préférant des mesures plus flexibles)",
+      "Conservateurs (préférence pour une transition progressive vers la réglementation européenne, plutôt qu'une approche radicale)",
+      "Énergies fossiles (lobbies opposés à l'intégration des normes environnementales dans la production pharmaceutique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La concurrence entre les acteurs européens doit être renforcée pour maintenir le leadership de l'Europe sur le marché mondial du médicament.",
+      "Les innovations technologiques doivent être soutenues par des réglementations favorables à la recherche et au développement (R&D).",
+      "Une régulation trop stricte pourrait empêcher les petites entreprises pharmaceutiques d'accéder aux marchés européens, limitant ainsi l'innovation.",
+      "L'intégration de normes environnementales dans la production pharmaceutique doit être progressive pour ne pas affecter la compétitivité du secteur européen.",
+      "Il est essentiel de garantir un accès équitable aux traitements innovants, en particulier pour les maladies rares ou orphelines, afin d'assurer une santé publique globalement plus forte.",
+      "Les politiques européennes doivent favoriser la coopération entre les États membres pour améliorer l'accès aux soins, notamment dans les régions défavorisées.",
+      "La réduction des coûts de production pharmaceutique est un enjeu crucial pour maintenir la compétitivité européenne face à d'autres régions du monde."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le lobby pharmaceutique et les États membres plus soucieux de la réduction des coûts de santé publique. Surveiller également les interactions avec Big Tech, qui pourrait influencer l'évolution technologique du secteur. Il faut équilibrer les intérêts économiques du lobby pharmaceutique et les besoins de santé publique.",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "NEUTRE",
+        "justification": "Cet amendement ne concerne pas directement le secteur pharmaceutique. Cependant, les impacts indirects sur l'urbanisme et la répartition des ressources entre les zones urbaines et rurales pourraient influencer à long terme la distribution géographique des infrastructures de santé. Une attention modérée est donc nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La rénovation énergétique peut avoir des effets indirects sur le secteur pharmaceutique, notamment en termes de réduction de l'empreinte carbone. Cependant, il est essentiel d'éviter les coûts excessifs pour les logements sociaux, qui pourraient affecter à long terme la capacité de financement des infrastructures sanitaires.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure renforce l'accès équitable aux soins, ce qui est en cohérence avec les objectifs du lobby pharmaceutique. Elle favorise la création d'une infrastructure de santé publique plus inclusif et accessible à tous, y compris aux personnes à mobilité réduite.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette mesure pourrait avoir des effets indirects sur l'accessibilité aux logements sociaux, notamment pour les familles de taille moyenne ou les personnes âgées. Cependant, elle favorise une distribution plus équilibrée des ressources, ce qui peut être bénéfique à long terme.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette flexibilité peut être bénéfique pour certaines régions où la densité de population est faible, mais elle pourrait aussi retarder les projets de logements sociaux dans les zones urbaines. Il est donc important d'assurer un équilibre entre les besoins locaux et les objectifs nationaux.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion des logements intermédiaires pourrait créer des disparités d'accès aux logements sociaux, ce qui peut avoir un impact indirect sur l'équité en matière d'accès aux soins. Il est donc préférable de maintenir une approche globale et inclusive.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure pourrait permettre aux petits bailleurs de mieux se préparer à la transition énergétique, mais elle risque aussi d'entraîner des retards dans l'amélioration de la qualité des logements sociaux. Une attention modérée est donc nécessaire pour éviter les inégalités.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les zones rurales nécessitent une approche spécifique, mais il est important de ne pas créer un écart trop grand avec les zones urbaines. Ces dérogations doivent être encadrées pour éviter de compromettre l'accès à la santé publique dans ces régions.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T16:17:43.244015",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile et cherche à influencer la législation européenne, en particulier sur les questions liées au développement de véhicules électriques, aux normes environnementales et à la transition énergétique. Lobbies pour la préservation des emplois dans l'industrie automobile tout en soutenant une transition vers des technologies durables.",
+    "enjeux_directive": [
+      "Soutien aux projets d’accessibilité et mobilité durable en lien avec le logement, notamment via l’intégration de véhicules électriques et de solutions de transport collectif.",
+      "Intérêt pour l’intégration de solutions de mobilité verte et de réseaux d’énergie renouvelable adaptés aux besoins du secteur automobile.",
+      "Protection des emplois dans les usines traditionnelles tout en favorisant l’innovation technologique, notamment dans le domaine des véhicules à hydrogène et électriques.",
+      "Influence sur les normes européennes de sécurité et d’émissions pour garantir la compétitivité du secteur automobile européen face aux concurrents internationaux."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile, notamment en matière d’adaptation technologique et de conformité avec les normes environnementales.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés par la mise en place de nouveaux standards liés à l’électrification des transports et à la réduction des émissions."
+    ],
+    "stratégie": "L’Automobile adopte une stratégie double : d’une part, promouvoir les solutions de mobilité verte (véhicules électriques, hydrogène) tout en maintenant un leadership technologique européen dans le secteur automobile ; d’autre part, s’opposer à toute mesure qui pourrait menacer la compétitivité du secteur ou la stabilité des emplois. L’objectif est de négocier des conditions favorables pour l’industrie tout en respectant les objectifs climatiques européens. Cela implique une collaboration étroite avec les États membres, les parties politiques et d’autres secteurs économiques (comme Big Tech) qui partagent ces priorités.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur automobile est essentiel à l’économie européenne, employant des millions de personnes. Il doit être soutenu pour maintenir cette croissance et éviter une dépendance excessive aux importations d’énergie.",
+      "La transition vers les véhicules électriques offre des opportunités économiques majeures, notamment dans le développement de nouvelles technologies et l’innovation industrielle.",
+      "Le lobby automobile s’appuie sur ses relations avec les gouvernements pour négocier des conditions favorables aux entreprises du secteur, en particulier en matière d’aides publiques et de subventions pour la transition technologique.",
+      "Les réglementations trop strictes ou non adaptées à la réalité industrielle pourraient nuire à l’innovation et rendre le secteur moins compétitif face aux concurrents internationaux.",
+      "Il est crucial de garantir une continuité dans les investissements publics, notamment en matière d’infrastructure routière et énergétique (recharges, stations de carburants alternatifs), pour soutenir la transition vers des solutions durables.",
+      "La coopération avec Big Tech permet d’accélérer l’intégration de systèmes numériques dans les véhicules, améliorant ainsi leur efficacité énergétique et leur sécurité."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’industrie automobile soutient cet amendement dans la mesure où il favorise une croissance urbaine structurée, qui peut bénéficier à l’extension des réseaux de transport collectif et à la densité des villes, facilitant ainsi l’intégration des solutions de mobilité durable.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que l’industrie automobile soutienne les objectifs climatiques, elle s’inquiète de l’impact potentiel sur le budget national et la capacité des gouvernements à allouer des ressources suffisantes pour l’électrification du parc automobile.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "L’industrie automobile appuie cet amendement car il encourage l’intégration de solutions adaptées pour les personnes à mobilité réduite, ce qui peut stimuler la demande pour des véhicules électriques et des infrastructures accessibles.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "NEUTRE",
+        "justification": "L’industrie automobile reste neutre sur cet amendement, car il ne semble pas directement affecter ses intérêts en matière de mobilité ou d’électrification des transports.",
+        "priorite": "faible",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "L’industrie automobile apprécie cette flexibilité, car elle permet aux pays d’adapter les normes à leurs réalités économiques et sociales tout en maintenant un soutien global à la transition écologique.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE",
+        "justification": "L’exclusion des logements intermédiaires pourrait limiter l’impact global de la directive sur l’amélioration du logement, ce qui pourrait nuire à l’intégration de solutions de mobilité durable dans ces types d’habitat.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’industrie automobile soutient cet amendement s’il permet de mieux coordonner les efforts de transition énergétique entre les secteurs immobilier et automobile, en particulier pour les petites entreprises.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE",
+        "justification": "L’industrie automobile appuie cette disposition car elle permet de mieux intégrer les besoins des zones rurales dans la transition écologique, en particulier pour l’amélioration du réseau routier et des infrastructures de mobilité.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur automobile traditionnel (Volkswagen, Renault) et objectifs climatiques directive. Équilibrer transition énergétique et compétitivité secteur automobile. Surveiller collaborations avec Big Tech sur innovations infrastructures numériques.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T16:33:35.767117",
+    "version": "4.7"
+  }
+]

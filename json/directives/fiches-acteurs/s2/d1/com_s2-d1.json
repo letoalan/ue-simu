@@ -1,0 +1,142 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Garantir la sécurité énergétique de l'Union européenne en diversifiant les sources d'approvisionnement et en instaurant des stocks stratégiques de gaz.",
+  "enjeux_directive": [
+    "Renforcer l'indépendance énergétique de l'UE face aux dépendances géopolitiques (notamment vis-à-vis de la Russie).",
+    "Accélérer la transition vers une économie à faible émission de carbone tout en assurant la continuité industrielle et agricole.",
+    "Renforcer la résilience des infrastructures critiques (réseaux gaziers, interconnexions électriques) face aux crises climatiques et géopolitiques.",
+    "Intégrer l'hydrogène vert dans les cadres stratégiques énergétiques pour favoriser une transition écologique durable.",
+    "Équilibrer les priorités de la transition énergétique entre les États membres (ex. : divergences entre pays à forte dépendance fossile et ceux en phase avancée de décarbonation)."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission adopte une approche multifacette pour sécuriser l'approvisionnement énergétique de l'Union. Elle privilégie la diversification des fournisseurs et des vecteurs énergétiques (gaz, hydrogène, électricité), tout en soutenant les investissements dans les infrastructures critiques. L'intégration de l'hydrogène vert dans les stratégies nationales est un pilier clé pour réduire la dépendance aux énergies fossiles. La Commission travaille également à aligner les objectifs climatiques avec les besoins industriels et agricoles, notamment via des mesures incitatives (subventions conditionnelles liées à la réduction de la consommation de gaz) et des mécanismes de solidarité entre États membres. Enfin, elle s'engage dans un dialogue constant avec les acteurs économiques pour concilier les impératifs de transition écologique avec la stabilité économique.",
+  "alliances": [
+    "France (partage des objectifs nucléaires + investissements bas-carbone)",
+    "Italie (collaboration sur l'hydrogène vert et le renforcement des interconnexions énergétiques)",
+    "Verts/ALE (soutien à la transition écologique et aux objectifs climatiques ambitieux)",
+    "S&D (priorité accordée aux investissements dans les régions défavorisées)",
+    "Big Tech (innovation dans les infrastructures numériques et énergétiques propres)",
+    "Automobile (protection des secteurs industriels stratégiques pendant la transition)",
+    "Banque (soutien aux investissements structuraux en énergie et en innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition au moratoire sur le charbon + défense des industries fossiles locales)",
+    "Conservateurs (préférence pour une transition progressive plutôt qu'une transition radicale)",
+    "Énergies fossiles (lobbies centraux de charbon opposés aux mesures restrictives)"
+  ],
+  "éléments_d_argumentaire": [
+    "La mise en place de stocks stratégiques de gaz renforce la sécurité énergétique face aux crises géopolitiques, comme celles observées durant les conflits russes-ukrainiens.",
+    "L'hydrogène vert permet d'assurer une transition écologique sans compromettre la production industrielle (ex. : sidérurgie, chimie) en Europe.",
+    "Les interconnexions énergétiques renforcent l'intégration européenne et réduisent les risques de pénuries sectorielles (ex. : secteur manufacturier allemand).",
+    "Des subventions conditionnelles liées à la réduction de la consommation de gaz favoriseront l'adoption des technologies bas-carbone sans nuire à l'économie.",
+    "La solidarité entre États membres (ex. : transfert de fonds pour aider les pays en transition) renforce l'unité politique et économique de l'Union.",
+    "Le soutien aux infrastructures gazières existantes permet d'éviter un gaspillage de capitaux investis dans des réseaux déjà opérationnels, tout en préparant leur transformation vers l'hydrogène.",
+    "L'inclusion de volets énergétiques dans les plans nationaux garantit une harmonisation des politiques entre États membres (ex. : coordination Allemagne-France sur le nucléaire)."
+  ],
+  "références": [
+    "s2d1.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller tensions entre la transition énergétique et les secteurs traditionnels (ex. : industries du charbon en Pologne, chimie allemande). Évaluer l'impact des subventions conditionnelles sur les régions économiquement vulnérables (ex. : Sud de l'Italie, Allemagne orientale). Surveillance nécessaire pour éviter une fragmentation politique entre pays de l'Est et ceux du Nord de l'UE.",
+  "positions_amendements": [
+    {
+      "amendement": "2-1A",
+      "titre": "Porter le stock stratégique à 120 jours",
+      "position": "FAVORABLE",
+      "justification": "Cette mesure renforce la sécurité énergétique de l'Union face aux crises géopolitiques, tout en permettant une meilleure gestion des stocks critiques pour les États membres. Elle aligne avec les objectifs stratégiques de résilience européenne et favorise l'autonomie énergétique.",
+      "priorite": "très_haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Porter le stock stratégique à 120 jours"
+    },
+    {
+      "amendement": "2-1B",
+      "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Les interconnexions renforcent la solidarité entre États membres et réduisent les risques de pénuries. Cependant, leur financement doit être concerté pour éviter une surcharge budgétaire des pays contributeurs (ex. : Allemagne, France).",
+      "priorite": "haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Accélérer les investissements dans les interconnexions énergétiques"
+    },
+    {
+      "amendement": "2-1C",
+      "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+      "position": "FAVORABLE",
+      "justification": "L'hydrogène vert est essentiel pour la transition écologique et l'industrie européenne. Sa mise en place doit être soutenue par des cadres politiques clairs (ex. : financements, normes) et des partenariats transnationaux.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+    },
+    {
+      "amendement": "2-1D",
+      "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+      "position": "FAVORABLE",
+      "justification": "Ces mesures incitatives renforcent l'adoption des technologies bas-carbone tout en évitant un impact négatif sur la compétitivité industrielle. Elles doivent être accompagnées de plans d'accompagnement pour les secteurs concernés (ex. : chimie, sidérurgie).",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Conditionner les aides à la réduction de la consommation de gaz"
+    },
+    {
+      "amendement": "2-1E",
+      "titre": "Limiter le stock stratégique à 60 jours",
+      "position": "DEFAVORABLE",
+      "justification": "Cette proposition réduirait la capacité de l'Union à gérer des crises énergétiques prolongées. Elle pourrait compromettre la sécurité nationale et exposer certains États membres (ex. : Pologne, Italie) à des pénuries.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Limiter le stock stratégique à 60 jours"
+    },
+    {
+      "amendement": "2-1F",
+      "titre": "Exclure certains États membres des obligations de stockage",
+      "position": "DEFAVORABLE",
+      "justification": "L'exclusion de pays-clés (ex. : Italie, Pologne) nuirait à la cohérence stratégique européenne et pourrait provoquer des conflits internes. Tous les États membres doivent respecter des obligations équitables pour assurer l'unité politique.",
+      "priorite": "moyenne",
+      "origine": "Italie",
+      "description": "Exclure certains États membres des obligations de stockage"
+    },
+    {
+      "amendement": "2-1G",
+      "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+      "position": "NEUTRE",
+      "justification": "Le soutien aux infrastructures actuelles est nécessaire pour éviter un gaspillage de capitaux, mais il doit être associé à des plans de transformation vers l'hydrogène. Une approche équilibrée entre préservation et modernisation est recommandée.",
+      "priorite": "faible",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement les infrastructures gazières existantes"
+    },
+    {
+      "amendement": "2-1H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Un report prolongé pourrait affaiblir la crédibilité des objectifs climatiques européens. Cependant, un délai court (ex. : 6-12 mois) serait acceptable pour permettre une adaptation technique et institutionnelle.",
+      "priorite": "faible",
+      "origine": "Suède",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "metadata": {
+    "source_file": "s2-d1.json",
+    "type": "commission",
+    "directive_id": "2-1",
+    "tokens": {
+      "count": 754,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:46.001901",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 1,
+  "actor_type": "commission",
+  "generated_at": "2025-10-28T19:12:16.051280",
+  "version": "4.7"
+}

@@ -1,0 +1,145 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Promouvoir une politique ambitieuse de construction et rénovation durable afin de répondre aux enjeux sociaux et environnementaux en Europe.",
+  "enjeux_directive": [
+    "Réduire la précarité énergétique dans les zones urbaines et rurales.",
+    "Accélérer la rénovation énergétique pour contribuer à la lutte contre le changement climatique.",
+    "Favoriser l’inclusion sociale via la mixité dans les logements sociaux.",
+    "Garantir une cohésion territoriale équilibrée.",
+    "Intégrer des solutions numériques innovantes dans la construction et la gestion du patrimoine immobilier.",
+    "Assurer un financement suffisant pour accompagner la transition écologique du secteur résidentiel"
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission européenne adopte une approche intégrée, combinant objectifs climatiques ambitieux et équilibre social. Son stratégie se concentre sur la création d'un cadre réglementaire harmonisé pour les logements sociaux tout en incitant à l'innovation technologique (smart grids, bâtiments passifs). Elle privilégie une coopération étroite avec les États membres pour garantir une mise en œuvre cohérente, tout en maintenant un rôle de facilitateur entre acteurs économiques et citoyens. L'inclusion d'éléments comme la mixité sociale et l'accès aux personnes à mobilité réduite reflète sa volonté de combiner durabilité écologique avec justice sociale. La Commission s'appuie sur des mécanismes de financement innovants (Fonds européen pour les logements) et encourage les partenariats public-privé pour démontrer la viabilité économique de ses objectifs.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Pologne (privilégie solutions nationales sur harmonisation européenne)"
+  ],
+  "éléments_d_argumentaire": [
+    "L'objectif de 7 millions de logements sociaux aligne avec le Pacte vert européen et réduit la précarité énergétique, un enjeu prioritaire pour l'UE.",
+    "La rénovation obligatoire des logements existants permet d'atteindre les objectifs climatiques tout en stimulant l'économie circulaire.",
+    "L'inclusion de quotas pour personnes à mobilité réduite renforce la cohésion sociale et respecte le Pacte européen pour les droits des personnes handicapées.",
+    "La mixité sociale garantit une meilleure intégration communautaire et évite la ségrégation urbaine, un défi majeur dans de nombreuses villes européennes.",
+    "Les flexibilités nationales sur le rythme de construction respectent la diversité géographique tout en maintenant les objectifs globaux, une approche équilibrée reconnue par des experts comme l'OCDE.",
+    "L'exclusion des logements intermédiaires pourrait fragiliser la transition vers des modèles durables, ce que dénonce notamment le réseau européen des villes durables.",
+    "Les dérogations pour zones rurales à faible densité doivent être compensées par des investissements ciblés dans les infrastructures de transport et d'énergie.",
+    "L'harmonisation européenne favorise la compétitivité du marché immobilier, comme le montre l'étude de la Banque européenne pour la reconstruction et le développement (BERD)"
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-7A",
+      "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+      "position": "FAVORABLE",
+      "justification": "Cet objectif aligne parfaitement avec la feuille de route climatique de l'Union européenne et renforce les engagements pris lors du sommet de l'UNFCCC. Il permet d'accélérer la transition vers une économie à faible émission de carbone tout en garantissant un accès équitable au logement.",
+      "priorite": "très_haute",
+      "origine": "Gauche Unitaire",
+      "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+    },
+    {
+      "amendement": "1-7B",
+      "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission soutient cette mesure, mais conditionne son application à l'octroi de subventions suffisantes pour les gestionnaires de patrimoine. Cela permet d'éviter une surcharge budgétaire excessive tout en garantissant la qualité des rénovations.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+    },
+    {
+      "amendement": "1-7C",
+      "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+      "position": "FAVORABLE",
+      "justification": "Cette mesure renforce la mise en œuvre du Pacte européen pour les droits des personnes handicapées et favorise une véritable inclusion sociale dans le secteur immobilier. Elle est cruciale pour atteindre les objectifs de l'Agenda 2030.",
+      "priorite": "très_haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+    },
+    {
+      "amendement": "1-7D",
+      "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+      "position": "FAVORABLE",
+      "justification": "Cette condition favorise une meilleure intégration des populations dans les quartiers, évitant la ségrégation urbaine. Elle s'inscrit dans l'approche holistique de l'Union européenne en matière d'aménagement du territoire.",
+      "priorite": "haute",
+      "origine": "Renouveau Européen",
+      "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+    },
+    {
+      "amendement": "1-7E",
+      "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+      "position": "NEUTRE",
+      "justification": "La Commission reconnaît la nécessité d'adaptations nationales, mais insiste sur l'importance de garder un objectif global. Cette position permet de respecter les spécificités locales sans compromettre les objectifs européens.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Permettre une flexibilité nationale sur le rythme de construction"
+    },
+    {
+      "amendement": "1-7F",
+      "titre": "Exclure les logements intermédiaires du champ de la directive",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Cette exclusion pourrait fragiliser l'accès au logement pour des catégories vulnérables. La Commission propose toutefois des compromis pour intégrer ces logements à des conditions adaptées.",
+      "priorite": "moyenne",
+      "origine": "Allemagne",
+      "description": "Exclure les logements intermédiaires du champ de la directive"
+    },
+    {
+      "amendement": "1-7G",
+      "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+      "position": "DEFAVORABLE",
+      "justification": "Cette mesure pourrait retarder la transition écologique dans des secteurs clés. La Commission préfère des solutions progressives avec un financement ciblé plutôt que des reportages.",
+      "priorite": "faible",
+      "origine": "Italie",
+      "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+    },
+    {
+      "amendement": "1-7H",
+      "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission s'oppose à cette mesure en l'état, mais propose des dérogations conditionnées par des investissements dans les infrastructures de transport et d'énergie rurales. Cela permet d'éviter un déséquilibre territorial.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+    }
+  ],
+  "références": [
+    "s1d7.json",
+    "scenario1.json"
+  ],
+  "notes_internes": "Surveiller tensions entre secteurs industriels traditionnels (Allemagne, Pologne) et objectifs climatiques. Équilibrer transition énergétique et compétitivité des industries lourdes. Surveillance nécessaire sur les dérogations pour zones rurales à faible densité, risque de fragmentation territoriale.",
+  "metadata": {
+    "source_file": "s1-d7.json",
+    "type": "commission",
+    "directive_id": "1-7",
+    "tokens": {
+      "count": 5438,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:45.979664",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 7,
+  "actor_type": "commission",
+  "generated_at": "2025-10-27T22:03:59.911388",
+  "version": "4.7"
+}

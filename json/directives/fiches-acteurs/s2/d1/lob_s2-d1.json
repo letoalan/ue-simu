@@ -1,0 +1,452 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne. Son rôle se concentre sur la défense des infrastructures numériques, la régulation de l'économie numérique, et la promotion de cadres politiques favorables à l'innovation technologique tout en contrôlant les risques liés au pouvoir des géants technologiques.",
+    "enjeux_directive": [
+      "Soutenir les technologies de stockage et de gestion intelligente de l'énergie.",
+      "Promouvoir un cadre réglementaire favorable à la digitalisation des secteurs énergétiques, en particulier pour les infrastructures gazières et hydrogène vert.",
+      "Influencer les politiques de concurrence pour protéger les actifs numériques (données, plateformes) contre une régulation trop contraignante.",
+      "Défendre un équilibre entre innovation technologique et protection des droits fondamentaux (privacy, droits d'auteur, lutte contre la désinformation)."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés."
+    ],
+    "stratégie": "Big Tech adopte une stratégie de défense proactive vis-à-vis des réglementations européennes, en s'appuyant sur les opportunités offertes par la transition énergétique pour promouvoir l'innovation numérique. Elle cherche à influencer le législateur européen en valorisant le rôle des technologies numériques dans la gestion intelligente de l'énergie (smart grids, logiciels d'optimisation) et en défendant un cadre réglementaire qui permette aux entreprises technologiques de continuer à investir dans les infrastructures du futur. Parallèlement, elle s'efforce de contrecarrer les régulations trop strictes sur le traitement des données ou la concurrence, en soulignant leur impact négatif sur l'écosystème numérique et l'innovation. Big Tech utilise également des alliances stratégiques avec d'autres acteurs économiques (automobile, énergies) pour renforcer son influence sur les politiques européennes.",
+    "alliances": [
+      "France (collaboration sur les infrastructures numériques et la transition énergétique digitale)",
+      "Italie (partage des objectifs en matière d'innovation technologique et de gestion intelligente de l'énergie)",
+      "Verts/ALE (soutien à l'hydrogène vert et à l'utilisation des technologies numériques pour une transition écologique rapide)",
+      "S&D (priorité aux investissements dans les régions défavorisées, y compris le déploiement de réseaux numériques)",
+      "Automobile (protection des secteurs industriels stratégiques et collaboration sur l'interopérabilité technologique)",
+      "Big Tech (innovation infrastructurelle numérique et promotion d'un cadre réglementaire favorable à la concurrence)",
+      "Banque (soutien aux investissements structuraux en énergie et innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à un moratoire sur le charbon, défense des industries fossiles et résistance à une régulation stricte de l'économie numérique)",
+      "Conservateurs (préférence pour une transition énergétique progressive, critique du rôle des géants technologiques dans la gouvernance digitale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux mesures favorables à l'hydrogène vert et aux infrastructures numériques)"
+    ],
+    "éléments_d_argumentaire": [
+      "Big Tech défend un cadre réglementaire flexible qui permette une innovation continue dans les technologies numériques, notamment pour la gestion de l'énergie (smart grids) et la réduction des émissions.",
+      "Elle s'oppose aux mesures restrictives sur le stockage d'énergie ou la concurrence entre plateformes technologiques, arguant qu'elles entraveraient l'innovation et la compétitivité européenne.",
+      "Big Tech prône un soutien public à la digitalisation des infrastructures énergétiques existantes (gaz, hydrogène) via des investissements ciblés dans les technologies numériques et la logistique."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Big Tech et secteur traditionnel de l'énergie (pétrole, gaz) sur les investissements dans le numérique. Évaluer impact des mesures de concurrence sur la capacité des géants technologiques à investir en Europe. Surveillance nécessaire sur les conflits avec les régions industrielles dépendantes du charbon.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T13:18:12.968880",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie cet amendement à condition que les investissements dans l'hydrogène vert et les infrastructures numériques soient alignés avec la transition énergétique. Cela permettrait d'accélérer l'utilisation des technologies numériques pour optimiser le stockage et la distribution de l'énergie.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car il favorise l'utilisation des technologies numériques et logicielles pour améliorer la gestion des réseaux énergétiques transfrontaliers, ce qui renforce la résilience européenne.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que le développement de l'hydrogène vert soit accompagné d'une régulation numérique favorable aux plateformes technologiques, garantissant un cadre propice à l'innovation.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement, considérant qu'une régulation trop stricte sur la consommation de gaz pourrait freiner l'innovation technologique et les investissements dans les infrastructures énergétiques.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement car il pourrait limiter la flexibilité nécessaire pour gérer les flux d'énergie via des outils numériques et logiciels avancés, ce qui nuirait à l'efficacité de la transition énergétique.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que les exclusions soient alignées avec la capacité numérique et technologique des États concernés, évitant ainsi un déséquilibre dans la transition énergétique.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement car il pourrait entraver l'investissement dans des solutions numériques alternatives (hydrogène vert, énergies renouvelables), ce qui serait contraire aux objectifs de transition écologique européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement car un report pourrait nuire à la coordination entre les politiques numériques et énergétiques, ralentissant ainsi l'innovation technologique nécessaire pour atteindre les objectifs climatiques.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Energies fossiles et cherche à influencer la législation européenne. Il défend un modèle énergétique basé sur le gaz naturel, le charbon et les hydrocarbures, tout en contestant les transitions rapides vers les énergies renouvelables. Il s'oppose aux quotas ambitieux de réduction des émissions et prône une industrialisation durable du secteur fossile.",
+    "enjeux_directive": [
+      "Maintenir un rôle central du gaz naturel dans le mix énergétique européen.",
+      "Protéger les investissements dans les infrastructures gazières existantes et les centrales à charbon.",
+      "Lutter contre l'instauration de moratoires sur les énergies fossiles en Europe centrale et orientale.",
+      "Garantir la sécurité énergétique par une diversification des sources, y compris le gaz russe.",
+      "Contester l'harmonisation des normes environnementales au sein de l'UE pour préserver la compétitivité du secteur."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies fossiles.",
+      "Les intérêts économiques et stratégiques de Energies fossiles sont directement concernés."
+    ],
+    "stratégie": "L'Énergies Fossiles adopte une stratégie de résistance progressive à la transition énergétique, en s'appuyant sur des arguments économiques (préservation d'emplois dans les régions industrielles), technologiques (développement du gaz naturel comme pont vers l'hydrogène vert) et géopolitiques (dépendance au gaz russe). Elle vise à déplacer la responsabilité de la transition sur le secteur privé, tout en maintenant des subventions indirectes via les politiques nationales. Elle collabore avec les pays producteurs d'énergie fossile et les groupes industriels pour renforcer les chaînes de valeur existantes. L'objectif est de conserver une place stratégique dans le mix énergétique européen, surtout dans les États membres dépendants du gaz naturel.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux politiques de soutien aux énergies fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les énergies fossiles sont indispensables à la sécurité énergétique européenne, particulièrement dans les pays dépendants du gaz naturel.",
+      "La transition rapide vers les énergies renouvelables pourrait entraîner des pertes d'emplois massives dans les régions industrielles (notamment en Pologne et en Hongrie).",
+      "Le gaz naturel permet une transition progressive vers l'électrification, avec un bilan carbone inférieur aux énergies fossiles solides.",
+      "Les infrastructures gazières existantes doivent être préservées pour éviter des coûts d'investissement inutiles (soutien à la Pologne et à l'Italie).",
+      "Les mesures climatiques ambitieuses augmentent le coût énergétique pour les ménages, menaçant la compétitivité industrielle européenne.",
+      "La transition vers l'hydrogène vert nécessite des investissements massifs dans les infrastructures et une garantie d'accès au gaz naturel comme combustible intermédiaire.",
+      "Les pays de l'est de l'Europe (Pologne, Hongrie) dépendent économiquement du charbon pour la stabilité sociale.",
+      "La directive pourrait accélérer le désengagement des investisseurs envers les énergies fossiles, pénalisant les pays producteurs."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE",
+        "justification": "Augmenter la capacité de stockage permettrait d'assurer une meilleure sécurité énergétique, particulièrement pour les pays dépendants du gaz russe. Cela renforce l'indépendance stratégique et réduit les risques de pénurie. Les stocks élevés serviraient aussi de garde-fou contre les chocs géopolitiques.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les interconnexions renforcent la sécurité du réseau européen. Cependant, l'accent doit être mis sur des infrastructures gazières existantes plutôt que sur des projets coûteux et non rentables à long terme. Les investissements doivent privilégier les corridors stratégiques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "L'intégration de l'hydrogène vert offre une transition technologique viable, en utilisant le gaz naturel comme combustible intermédiaire. Cela permet d'utiliser les infrastructures existantes et d'accélérer la décarbonisation du secteur industriel.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Imposer des conditions restrictives sur l'utilisation du gaz naturel pourrait freiner la transition énergétique et pénaliser les pays dépendants. Cependant, une modération des consommations est acceptable si elle reste compatible avec la sécurité énergétique.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Réduire les stocks stratégiques à ce niveau augmenterait la vulnérabilité de l'Europe face aux pénuries énergétiques. Cela contredit l'objectif d'une sécurité énergétique européenne robuste, surtout pour les pays dépendants du gaz.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "Exclure certains pays (comme la Pologne ou l'Italie) des obligations de stockage risque d'entraîner une inégalité entre les États membres. Cela pourrait créer des tensions politiques et compromettre l'harmonisation des politiques énergétiques.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE",
+        "justification": "Investir dans les infrastructures gazières actuelles est plus rentable et logique que de construire des projets nouveaux. Cela permet d'optimiser l'utilisation des actifs existants, en particulier pour les pays comme la Pologne ou l'Italie.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report temporaire permettrait d'aligner les politiques nationales avec la directive. Cependant, il ne doit pas être utilisé comme un moyen pour reporter à l'infini une transition nécessaire. Un délai de deux ans est acceptable si les objectifs climatiques restent respectés.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Énergies Fossiles et les régions industrielles (notamment en Pologne) face aux mesures climatiques. Surveillance des investissements dans le gaz naturel par les grandes entreprises (Shell, Total). Évaluer impact des subventions indirectes sur la transition énergétique. Recommander un suivi régulier de l'alignement entre les politiques nationales et européennes.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T13:39:46.545384",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Financer les infrastructures de stockage et les projets de diversification.",
+      "Sécuriser le financement des transitions énergétiques (gaz, hydrogène) tout en préservant la stabilité financière.",
+      "Protéger l'accès aux marchés européens pour les banques et institutions financières face à une régulation accrue.",
+      "Assurer un cadre juridique clair pour les investissements dans les énergies renouvelables et les technologies de stockage."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "La Banque et Finance adopte une stratégie multilatérale centrée sur la sécurisation des financements à long terme pour les projets d'infrastructure énergétique et de transition écologique. Elle vise à renforcer ses alliances avec les pays industrialisés (France, Italie) et les partis favorables aux investissements structuraux (PPE, S&D). En parallèle, elle s'engage à promouvoir des amendements qui garantissent la stabilité financière tout en facilitant l'accès aux marchés européens pour les acteurs du secteur. Pour contrer les oppositions, notamment celles des lobby énergies fossiles et des pays dépendants du gaz (Hongrie), elle mise sur des arguments économiques liés à la compétitivité de l'industrie européenne et à la nécessité d'une transition progressive. L'objectif est de maintenir une influence significative dans les négociations tout en évitant un élargissement excessif des obligations réglementaires.",
+    "alliances": [
+      "France (collaboration sur le financement des infrastructures de stockage et des projets d'énergies renouvelables)",
+      "Italie (partenariat pour soutenir les investissements dans l'hydrogène vert et la relance industrielle)",
+      "PPE (soutien aux politiques de stabilité financière et aux investissements structuraux)",
+      "S&D (priorité aux mesures favorisant l'équilibre entre transition écologique et soutien aux secteurs économiques stratégiques)",
+      "Big Tech (synergie pour moderniser les infrastructures numériques et énergétiques)",
+      "Automobile (protection des investissements dans les technologies de stockage et la diversification énergétique)",
+      "Banque (soutien à la régulation claire et aux financements durables)"
+    ],
+    "oppositions": [
+      "Hongrie (défense des intérêts économiques liés aux énergies fossiles et opposition au moratoire sur le charbon)",
+      "Conservateurs (préférence pour une transition progressive plutôt qu'une approche radicale)",
+      "Énergies fossiles (soutien au maintien du gaz comme combustible de transition et opposition aux mesures restrictives)"
+    ],
+    "éléments_d_argumentaire": [
+      "La stabilité financière dépend d'une régulation claire et d'un cadre juridique solide pour les investissements à long terme.",
+      "Les projets de stockage et de diversification énergétique nécessitent des financements massifs, que le secteur bancaire est en mesure de fournir."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les lobbies énergies fossiles et les objectifs climatiques de la directive. Évaluer l'impact des mesures sur les banques régionales (ex: Italie, Pologne) face à une possible restructuration sectorielle. Surveiller la concurrence entre le gaz et l'hydrogène dans les investissements industriels.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T13:59:05.067812",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE",
+        "justification": "Un stock stratégique plus élevé favorise la sécurité énergétique européenne et renforce les perspectives d'investissements dans les infrastructures de stockage, secteur clé pour les banques et institutions financières. Cela permet également de stabiliser les marchés en cas de crise géopolitique.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'accélération des investissements dans les interconnexions énergétiques est favorable, à condition que le financement soit assuré par un cadre réglementaire clair et qu'il ne pénalise pas la compétitivité des secteurs industriels. Les banques veulent éviter une surcharge réglementaire.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "L'hydrogène vert représente une opportunité majeure pour le secteur bancaire, notamment en matière d'investissements durables. Son inclusion est donc favorable à condition qu'elle soit accompagnée de mesures incitatives et de garanties financières.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La conditionnalité des aides à la réduction du gaz pourrait affecter la compétitivité de certains secteurs industriels. Une approche progressive est préférable pour éviter un impact brutal sur les entreprises dépendantes du gaz.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation du stock stratégique à 60 jours diminuerait la sécurité énergétique européenne et pourrait provoquer des instabilités sur les marchés. Les banques souhaitent une approche plus prudente en matière de gestion des stocks.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de certains pays de l'obligation de stockage pourrait créer des déséquilibres entre les États membres. Une approche plus uniforme est nécessaire pour éviter un dédoublement des règles.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "NEUTRE",
+        "justification": "Le soutien aux infrastructures gazières existantes n'est pas opposé, mais il nécessite une évaluation rigoureuse de leur impact sur la transition écologique. Les banques préfèrent un approche neutre qui permette d'équilibrer les besoins économiques et environnementaux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report de deux ans risquerait de retarder les investissements nécessaires pour atteindre les objectifs climatiques et énergétiques. Les banques souhaitent une application progressive mais non décalée.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Garantir la stabilité des prix énergétiques pour l'industrie chimique.",
+      ""
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "",
+    "alliances": [
+      "Allemagne",
+      "PPE",
+      "Pologne"
+    ],
+    "oppositions": [],
+    "éléments_d_argumentaire": [],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": ""
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Sécuriser l'approvisionnement énergétique des sites de production critiques.",
+      ""
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "",
+    "alliances": [
+      "Allemagne",
+      "France",
+      "PPE"
+    ],
+    "oppositions": [],
+    "éléments_d_argumentaire": [],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": ""
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Soutenir la transition énergétique tout en préservant la compétitivité industrielle.",
+      ""
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "",
+    "alliances": [
+      "Allemagne",
+      "Renouveau Européen",
+      "Socialistes et Démocrates"
+    ],
+    "oppositions": [],
+    "éléments_d_argumentaire": [],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": ""
+  }
+]

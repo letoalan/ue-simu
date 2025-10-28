@@ -1,0 +1,146 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Proposer un cadre fiscal harmonisé pour renforcer la solidarité, l’équité fiscale et la compétitivité de l’Union.",
+  "enjeux_directive": [
+    "Lutter efficacement contre l’évasion et la fraude fiscale.",
+    "Assurer une concurrence loyale entre États membres.",
+    "Renforcer la solidarité budgétaire et le financement commun des politiques européennes.",
+    "Garantir la subsidiarité et la proportionnalité des mesures.",
+    "Accélérer la transition écologique via des recettes fiscales dédiées",
+    "Préserver l'équilibre entre réformes structurelles et protections sectorielles"
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La stratégie de la Commission repose sur une triple priorité : assurer l'équilibre entre solidarité fiscale et compétitivité économique, promouvoir un cadre écologique strictement aligné sur les objectifs climatiques européens (neutralité carbone 2050), et renforcer la transparence des opérations multinationales. Pour cela, elle privilégie une approche progressive dans l'harmonisation fiscale, en intégrant des flexibilités pour protéger les PME et les États à faible revenu, tout en maintenant des mécanismes de transparence obligatoires. L’approche consiste également à mobiliser des recettes fiscales pour financer la transition écologique (fonds de cohésion, investissements verts) tout en évitant une surcharge tarifaire qui pourrait pénaliser les secteurs industriels stratégiques (automobile, énergies fossiles). La Commission adopte un rôle de facilitateur neutre entre acteurs économiques et politiques, en proposant des compromis sectoriels (ex. : flexibilité TVA pour les régions défavorisées) tout en maintenant une cohésion budgétaire européenne.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "PPE (soutien à la flexibilité fiscale nationale pour les PME)",
+    "Big pharma (résistance aux mesures de transparence fiscale)"
+  ],
+  "éléments_d_argumentaire": [
+    "La fiscalité harmonisée renforce la solidarité budgétaire et réduit les distorsions de concurrence entre États membres, un objectif central pour la Commission.",
+    "Les recettes fiscales générées par la taxe sur les transactions financières (1-8A) permettent de financer des projets écologiques sans pénaliser la croissance économique.",
+    "La transparence obligatoire (1-8D) dissuade l'évasion fiscale multinationale, alignant les pratiques européennes sur les standards mondiaux (OCDE).",
+    "Le fonds de cohésion (1-8C) permet de corriger les déséquilibres régions défavorisées sans compromettre les objectifs climatiques.",
+    "La flexibilité TVA (±2%) (1-8E) préserve la compétitivité des pays à faible revenu tout en maintenant l'harmonisation fiscale européenne.",
+    "Exclure les PME de l’harmonisation (1-8F) évite un surcoût tarifaire pour les petites entreprises, préservant leur capacité d’innovation.",
+    "Les dérogations temporaires (1-8H) respectent le principe de subsidiarité tout en maintenant la cohésion budgétaire européenne.",
+    "Reporter l'harmonisation fiscale (1-8G) permet de préparer les États membres à des réformes structurelles sans perturber l'équilibre économique."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-8A",
+      "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il permet de générer des recettes fiscales pour financer la transition écologique, tout en renforçant la solidarité budgétaire européenne. Cette taxe réduit les distorsions de concurrence entre États membres et aligne l’Union sur les standards mondiaux d’équité fiscale.",
+      "priorite": "très_haute",
+      "origine": "Gauche Unitaire",
+      "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+    },
+    {
+      "amendement": "1-8B",
+      "titre": "Allouer une part des recettes fiscales à la transition écologique",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission appuie cet amendement sous réserve de garantir un équilibre entre investissements verts et soutien aux secteurs industriels stratégiques (ex. : automobile, énergies fossiles). La répartition des recettes doit être proportionnelle à la capacité contributive des États membres pour éviter un surcoût tarifaire.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Allouer une part des recettes fiscales à la transition écologique"
+    },
+    {
+      "amendement": "1-8C",
+      "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+      "position": "FAVORABLE",
+      "justification": "Ce fonds permet d’atténuer les déséquilibres économiques entre régions sans compromettre l’équité fiscale européenne. Il est crucial pour garantir un développement harmonieux des États membres, en particulier ceux à faible revenu.",
+      "priorite": "très_haute",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Créer un fonds de cohésion pour les régions défavorisées"
+    },
+    {
+      "amendement": "1-8D",
+      "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement pour éliminer l’évasion fiscale multinationale, renforçant ainsi la solidarité budgétaire européenne. Ce mécanisme aligne l’Union sur les standards mondiaux (OCDE) et protège les contribuables européens.",
+      "priorite": "haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+    },
+    {
+      "amendement": "1-8E",
+      "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission appuie cet amendement sous réserve que les États membres utilisent cette flexibilité pour soutenir des secteurs économiques vulnérables tout en maintenant l’harmonisation fiscale européenne. Cela permet de préserver la compétitivité des pays à faible revenu.",
+      "priorite": "moyenne",
+      "origine": "Suède",
+      "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+    },
+    {
+      "amendement": "1-8F",
+      "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+      "position": "FAVORABLE",
+      "justification": "Cette mesure permet de protéger les petites entreprises contre un surcoût tarifaire, préservant leur capacité d’innovation et leur contribution à la croissance économique européenne. Elle est cruciale pour éviter une distorsion de concurrence entre PME et grandes entreprises.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+    },
+    {
+      "amendement": "1-8G",
+      "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "La Commission s'oppose partiellement à ce report, car il pourrait retarder des réformes nécessaires pour renforcer la solidarité budgétaire européenne. Toutefois, elle soutient une mise en œuvre progressive, conditionnée par des mesures de compensation pour les États membres.",
+      "priorite": "faible",
+      "origine": "Italie",
+      "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+    },
+    {
+      "amendement": "1-8H",
+      "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission appuie cette mesure sous réserve que les dérogations soient strictement encadrées et limitées dans le temps. Cela permet de respecter la subsidiarité tout en maintenant un cadre fiscal harmonisé à l’échelle européenne.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+    }
+  ],
+  "références": [
+    "s1d8.json",
+    "scenario1.json"
+  ],
+  "notes_internes": "Surveiller tensions secteur automobile (Volkswagen, Renault) liées aux mesures climatiques et flexibilité fiscale. Évaluer impact des recettes fiscales sur les régions Sud (Italie, Espagne) vs Nord (Allemagne, France). Surveiller risques de fragmentation fiscale entre partis européens (PPE vs Verts/ALE).",
+  "metadata": {
+    "source_file": "s1-d8.json",
+    "type": "commission",
+    "directive_id": "1-8",
+    "tokens": {
+      "count": 7920,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:45.989903",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 8,
+  "actor_type": "commission",
+  "generated_at": "2025-10-27T22:26:31.315031",
+  "version": "4.7"
+}

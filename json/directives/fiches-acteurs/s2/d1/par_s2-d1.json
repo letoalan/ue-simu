@@ -1,0 +1,757 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Porteur - Propose de porter le stock stratégique à 120 jours pour renforcer la résilience énergétique européenne.",
+    "enjeux_directive": [
+      "Maximiser la résilience énergétique européenne en consolidant les stocks stratégiques.",
+      "Équilibrer l'indépendance énergétique avec la transition écologique progressive.",
+      "Protéger les secteurs industriels critiques (pétrochimie, transports) pendant la transition.",
+      "Assurer une stabilité des prix de l'énergie pour soutenir l'économie européenne.",
+      "Promouvoir un modèle de transition énergétique qui respecte les réalités nationales."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques du Parti Populaire Européen (PPE) sur la stabilité économique et l'intégration européenne.",
+      "Le positionnement du PPE reflète sa vision d'une Europe solidaire, mais respectueuse des différences structurelles entre les États membres."
+    ],
+    "stratégie": "Le Parti Populaire Européen (PPE) adopte une stratégie de prudence et de stabilité dans la transition énergétique. Il défend un modèle progressif, qui combine le développement des énergies renouvelables avec la préservation des sources d'énergie traditionnelles (nucléaire, gaz). Le PPE insiste sur l'importance de la sécurité énergétique pour éviter les chocs économiques et sociaux, tout en reconnaissant l'urgence climatique. Il prône une approche intergouvernementale forte, où chaque État membre peut adapter les mesures à ses spécificités nationales. Son positionnement repose sur un équilibre entre les exigences de la transition écologique et les impératifs économiques des secteurs industriels stratégiques (pétrochimie, automobile). Le PPE s'engage également en faveur d'une coopération accrue au sein de l'Union européenne pour renforcer la solidarité énergétique entre les États membres, tout en maintenant une autonomie nationale dans la gestion des ressources.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (exigences climatiques plus ambitieuses que les propositions du PPE)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité énergétique est un pilier de la stabilité politique et économique européenne. Le PPE défend donc une augmentation des stocks stratégiques pour réduire la dépendance vis-à-vis des importations.",
+      "L'industrie pétrochimique, vitale pour l'économie européenne, doit être soutenue pendant la transition vers les énergies renouvelables. Cela évite un chômage de masse et protège les emplois.",
+      "Le gaz naturel reste une source d'énergie essentielle pour assurer un passage progressif vers les énergies propres, en particulier dans les pays européens à forte densité industrielle.",
+      "La transition écologique doit se faire de manière harmonieuse avec la croissance économique. Le PPE prône des investissements dans l'innovation technologique pour réduire les coûts des énergies renouvelables.",
+      "Les politiques énergétiques doivent respecter les spécificités nationales, en particulier dans les pays qui dépendent fortement du charbon ou du gaz. Une approche uniforme pourrait pénaliser certains États membres.",
+      "La transition vers des sources d'énergie renouvelables doit s'accompagner de mesures de soutien aux secteurs industriels traditionnels, pour éviter une dégradation économique brutale.",
+      "Les infrastructures existantes (centrales à gaz, réseaux de distribution) doivent être préservées et modernisées plutôt que remplacées immédiatement. Cela économise des ressources et préserve la continuité du service."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur pétrochimique (ex. BASF en Allemagne) et les objectifs climatiques de la directive. Évaluer l'impact des mesures sur les régions industrielles du sud de l'Europe, plus dépendantes du gaz. Maintenir un dialogue constant avec les partis socialistes pour éviter une fracture interne au sein du PPE.",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE",
+        "justification": "Le Parti Populaire Européen (PPE) est l'initiateur de cet amendement, qui vise à renforcer la sécurité énergétique européenne. Il s'inscrit dans une stratégie de prudence face aux risques géopolitiques et aux fluctuations des marchés. Ce positionnement permet d'assurer la stabilité des prix de l'énergie pour les ménages et les entreprises, tout en préparant une transition progressive vers les énergies renouvelables.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement car il favorise la coopération entre États membres et renforce l'intégration européenne. Les interconnexions énergétiques permettent de mieux répartir les ressources disponibles, d'améliorer la résilience face aux crises et de créer des économies d'échelle dans le développement des énergies renouvelables.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE appuie l'inclusion du gaz vert (hydrogène) comme élément complémentaire de la transition énergétique, à condition qu'il ne remplace pas les énergies renouvelables existantes. Il considère que le développement de l'hydrogène est essentiel pour certains secteurs industriels et de transport, mais doit être accompagné d'une réduction progressive des émissions de CO2.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose partiellement à cet amendement car il pourrait pénaliser certaines régions dépendantes du gaz. Cependant, le parti reconnaît l'importance de réduire la consommation de gaz dans le cadre d'une transition progressive vers les énergies renouvelables.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE considère que cette proposition réduit la résilience énergétique européenne. Une limite trop basse des stocks stratégiques exposerait l'Union européenne à des crises de pénurie et augmenterait les risques géopolitiques, en particulier dans un contexte de tensions mondiales.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à cette proposition car elle pourrait créer un déséquilibre entre les États membres. Une approche uniforme est nécessaire pour garantir la solidarité européenne et éviter que certains pays soient pénalisés par des obligations de stockage excessives.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement car il valorise le rôle des infrastructures gazières existantes dans la transition énergétique. Ces infrastructures peuvent être modernisées et réutilisées pour transporter le gaz vert, ce qui permet de concilier les objectifs climatiques et économiques.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à cette proposition car elle retarderait la mise en œuvre des mesures de sécurité énergétique. Une transition progressive ne doit pas se faire au détriment de l'urgence climatique et de la stabilité économique européenne.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T14:48:14.323898",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates (S&D)",
+    "actor_id": "sd",
+    "role_europeen": "Porteur - Prône l'accélération des investissements dans les interconnexions énergétiques.",
+    "enjeux_directive": [
+      "Garantir la solidarité énergétique entre États membres en favorisant une transition énergétique juste et inclusive",
+      "Soutenir les investissements publics dans les infrastructures de réseaux intelligents et l'hydrogène vert",
+      "Promouvoir des politiques climatiques ambitieuses alignées sur les objectifs de la COP26 et de l'Union européenne pour 2030-2050",
+      "Assurer une répartition équitable des fonds européens entre régions favorisées et défavorisées dans le cadre de la transition écologique",
+      "Protéger les secteurs industriels stratégiques (automobile, pétroliers) tout en renforçant leur capacité à se transformer vers une économie bas-carbone"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Socialistes et Démocrates (S&D) adopte une stratégie axée sur la solidarité sociale, la transition écologique progressive mais ambitieuse, et le renforcement des liens entre les États membres. Le parti prône un approche de consensus où les décisions politiques s'appuient sur des analyses économiques rigoureuses et une forte participation citoyenne. En matière d'énergie, S&D soutient la diversification des sources énergétiques tout en défendant le nucléaire comme pilier temporaire de la transition (surtout dans les pays de l'Est). Le parti milite pour un financement massif des projets d'interconnexions énergétiques, notamment via des mécanismes européens innovants (comme le fonds dédié à la transition énergétique), tout en exigeant des conditions strictes sur les aides publiques (ex: liées à la réduction des émissions de CO₂). S&D s'oppose aux mesures unilatérales qui pourraient fragiliser l'équilibre économique ou social, et prône une approche collaborative avec les entreprises et les syndicats pour accompagner la transformation des secteurs industriels.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition écologique doit être accompagnée de mesures sociales pour protéger les populations vulnérables, notamment dans les régions en déclin industriel.",
+      "Les investissements dans l'hydrogène vert et les interconnexions énergétiques sont essentiels pour renforcer la sécurité énergétique européenne tout en favorisant l'innovation technologique.",
+      "Le soutien aux secteurs industriels traditionnels (comme le pétrolier) doit être conditionné à leur adaptation vers une économie bas-carbone, avec un plan de restructuration accompagné et non brutal.",
+      "La réduction des émissions de CO₂ ne peut se faire sans une coopération étroite entre les États membres, notamment pour garantir la solidarité entre régions favorisées et défavorisées.",
+      "Les lobbies du secteur pétrolier et gazier doivent être contraints à respecter des normes strictes en matière d'innovation et de réduction des émissions, sans compromettre la compétitivité européenne.",
+      "La directive doit inclure des mécanismes de financement européens innovants pour soutenir les projets d'énergie renouvelable dans les régions périphériques ou en déclin industriel."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "S&D soutient cet amendement comme un levier pour sécuriser la transition énergétique, mais exige qu'il soit accompagné d'investissements massifs dans les infrastructures de stockage et de production d'énergie verte. Cette mesure doit également être conditionnée à l'atteinte des objectifs climatiques européens.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "S&D considère que l'accélération des investissements dans les interconnexions énergétiques est cruciale pour renforcer la solidarité entre les États membres et garantir une transition énergétique juste. Cette mesure doit être soutenue par des mécanismes financiers innovants, comme un fonds européen dédié.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "L'inclusion du volet hydrogène est une priorité stratégique pour S&D, car elle permet de renforcer la sécurité énergétique européenne tout en soutenant l'innovation technologique. Cette mesure doit être accompagnée d'une coopération étroite avec les secteurs industriels et les entreprises.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "FAVORABLE",
+        "justification": "S&D soutient cette mesure comme un outil pour encourager une transition progressive vers des énergies plus propres, tout en protégeant les secteurs industriels stratégiques. Les aides doivent être conditionnées à la réduction des émissions de CO₂ et aux investissements dans l'hydrogène vert.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "S&D s'oppose partiellement à cette mesure, car elle pourrait fragiliser la sécurité énergétique européenne si les infrastructures de production d'énergie verte ne sont pas suffisamment développées. Une limite à 60 jours doit être accompagnée d'investissements massifs dans les projets d'hydrogène vert et de stockage.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "S&D s'oppose à cette mesure, car elle pourrait fragmenter la solidarité entre les États membres et renforcer les inégalités économiques et sociales. Tous les États doivent contribuer à la sécurité énergétique européenne, dans une approche équitable.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "NEUTRE",
+        "justification": "S&D reste neutre sur cet amendement, car il ne s'aligne pas avec ses priorités stratégiques. Le parti préfère soutenir l'hydrogène vert et les énergies renouvelables plutôt que de prolonger la durée de vie des infrastructures gazières existantes.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "S&D s'oppose à cette mesure, car elle pourrait retarder la transition énergétique et fragiliser les objectifs climatiques européens. Une approche proactive est nécessaire pour garantir une transition juste et inclusive.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre secteurs industriels (ex: Volkswagen, Siemens) et les objectifs climatiques de la directive. Évaluer régulièrement l'impact des mesures sur les régions défavorisées (Italie du Sud, Pologne). Surveiller les risques d'inégalités économiques entre les pays membres.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T15:12:20.016144",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur - Demande d'inclure un volet hydrogène dans la stratégie énergétique.",
+    "enjeux_directive": [
+      "Accélérer la transition vers les énergies vertes.",
+      "Positionner l'Europe en leader de l'hydrogène.",
+      "Renforcer les interconnexions énergétiques trans-européennes.",
+      "Équilibrer la décarbonation et la sécurité d'approvisionnement énergétique",
+      "Promouvoir une transition écologique inclusive avec des investissements ciblés"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Renouveau Européen adopte une stratégie à trois piliers : (1) accélérer la transition énergétique vers les énergies renouvelables et l'hydrogène vert, en s'appuyant sur des partenariats technologiques avec les pays membres ; (2) renforcer la coopération transnationale dans le développement d'infrastructures énergétiques interconnectées, notamment via des investissements ciblés dans les régions moins développées ; (3) défendre une approche intégrée de la sécurité énergétique européenne en combinant des stocks stratégiques modérés et une diversification des sources d'énergie. Cette stratégie vise à concilier les objectifs climatiques ambitieux avec la stabilité économique, en s'appuyant sur un modèle de croissance verte inclusif qui intègre les secteurs industriels traditionnels comme l'automobile ou le nucléaire.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'hydrogène vert est un levier clé pour la décarbonation industrielle et transport, avec des bénéfices économiques en termes de création d'emplois dans les régions d'Europe centrale et du sud.",
+      "La transition énergétique doit s'appuyer sur une infrastructure européenne interconnectée, garantissant l'accès à l'énergie renouvelable pour tous les États membres, y compris les pays enclavés.",
+      "Les investissements ciblés dans les régions défavorisées éviteront un élargissement des inégalités socio-économiques et renforceront la cohésion européenne.",
+      "La sécurité d'approvisionnement énergétique ne peut se faire au détriment de l'objectif climatique, nécessitant donc une transition progressive mais structurée vers les énergies propres.",
+      "Les secteurs industriels traditionnels (comme l'automobile) doivent être accompagnés dans leur transformation écologique pour éviter des pertes de compétitivité sur le marché mondial.",
+      "La collaboration avec les acteurs technologiques comme Big Tech est essentielle pour accélérer l'innovation et la digitalisation des réseaux énergétiques."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs industriels traditionnels (automobile, nucléaire) et objectifs climatiques. Évaluer impact de la transition sur régions Sud-Européennes avec faible densité énergétique. Surveiller lobbying des industries fossiles pour bloquer les moratoires.",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient partiellement cet amendement, car il aligne avec la nécessité de sécuriser les approvisionnements énergétiques, mais exige que cela ne remette pas en cause l'objectif de réduction des émissions. Une approche équilibrée doit être adoptée pour éviter un recours excessif aux énergies fossiles.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen défend cet amendement car il favorise l'intégration européenne et la mutualisation des ressources renouvelables. Cela permettra de réduire les disparités d'accès à l'énergie entre les régions membres, en particulier au sud de l'Europe.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen est l'initiateur de cet amendement, qui vise à positionner l'hydrogène vert comme pilier central de la transition énergétique européenne. Cet amendement permettra d'accélérer les investissements dans l'industrie hydrogène et d'éviter une dépendance excessive aux importations d'énergie.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen soutient cet amendement car il encourage une transition rapide vers des sources d'énergie plus durables. Cela renforce l'objectif climatique tout en assurant un usage rationnel de la ressource gaz, particulièrement critique pour les pays membres dépendants du gaz.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renouveau Européen s'oppose partiellement à cet amendement, car il pourrait compromettre la sécurité énergétique. Cependant, un suivi rigoureux des stocks doit être mis en place pour éviter une surconsommation inutile.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "Renouveau Européen s'oppose à cet amendement car il risque d'exacerber les inégalités entre les pays membres. Une approche uniforme est nécessaire pour garantir une transition énergétique juste et inclusive.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "NEUTRE",
+        "justification": "Renouveau Européen adopte une position neutre sur cet amendement, car il est préférable de ne pas favoriser certaines infrastructures à l'exclusion d'autres. Une approche équilibrée doit être privilégiée pour éviter une dépendance durable aux gaz fossiles.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renouveau Européen s'oppose partiellement à cet amendement, car un retard pourrait freiner l'accélération nécessaire de la transition énergétique. Cependant, des mesures de flexibilité peuvent être envisagées pour les pays en difficulté.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T15:28:30.789067",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur Conditionnel - Conditionne les aides à la réduction de la consommation de gaz.",
+    "enjeux_directive": [
+      "Éviter de créer une dépendance permanente au gaz.",
+      "Accélérer la transition énergétique vers les renouvelables.",
+      "Promouvoir l'hydrogène vert comme pilier de la stratégie énergétique européenne.",
+      "Protéger les industries durables et favoriser l'innovation technologique.",
+      "Assurer une répartition équitable des fonds climatiques entre régions et pays membres."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Verts/ALE adopte une stratégie axée sur la transition écologique radicale, en insistant sur la réduction des émissions de gaz à effet de serre et l'accélération des investissements dans les énergies renouvelables. Le parti milite pour un moratoire progressif sur les énergies fossiles et une priorité absolue aux solutions bas carbone, notamment l'hydrogène vert et le développement des interconnexions énergétiques. Son approche est à la fois technocratique (en favorisant les investissements structurels) et idéologiquement forte (en défendant la justice climatique). Verts/ALE cherche à concilier l'ambition écologique avec la compétitivité industrielle européenne, en s'appuyant sur des alliances stratégiques avec des pays progressistes comme la France et l'Italie, ainsi que des partis européens comme S&D et PPE. Le parti met particulièrement l'accent sur les éléments d'argumentaire qui renforcent sa crédibilité dans les négociations politiques, notamment en insistant sur les coûts économiques de la dépendance au gaz et les opportunités de croissance liées à la transition énergétique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "PPE (soutien interconnexions énergétiques + transition écologique)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La dépendance au gaz représente un risque de vulnérabilité géopolitique pour l'Union européenne, ce qui justifie une transition accélérée vers les énergies renouvelables.",
+      "L'hydrogène vert offre une alternative viable et durable à l'énergie fossile, avec des bénéfices économiques potentiels pour les régions industrielles européennes.",
+      "Les investissements dans les interconnexions énergétiques permettent de renforcer la sécurité énergétique européenne et d'intégrer plus efficacement les sources d'énergie renouvelables.",
+      "Conditionner les aides à la réduction de la consommation de gaz incite les pays membres à adopter des politiques plus ambitieuses en matière de transition écologique.",
+      "Les industries durables (comme l'automobile et l'électronique) doivent être protégées pour maintenir la compétitivité de l'Union européenne dans un contexte de décarbonation mondiale.",
+      "La répartition équitable des fonds climatiques entre les régions européennes est essentielle pour éviter les inégalités croissantes et garantir une transition juste.",
+      "Les lobbyings des industries fossiles constituent un obstacle majeur à la mise en œuvre de politiques ambitieuses, nécessitant une vigilance constante dans les négociations."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE considère que l'augmentation du stock stratégique à 120 jours renforce la dépendance à court terme au gaz, ce qui contredit les objectifs de réduction des émissions et de transition vers les énergies renouvelables. Cette mesure pourrait retarder l'accélération nécessaire de la décarbonation secteur par sector.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE soutient fermement cet amendement car il permet de renforcer la sécurité énergétique européenne et d'intégrer plus efficacement les sources d'énergie renouvelables. Les interconnexions facilitent l'interconnexion des réseaux électriques, essentielle pour le développement de l'hydrogène vert.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE défend cet amendement comme une priorité absolue, car l'hydrogène vert est considéré comme une solution clé pour décarboner les secteurs industriels et de transport. Son inclusion dans la stratégie énergétique européenne permettrait de stimuler des investissements massifs et d'accélérer la transition écologique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE est l'initiateur de cet amendement, qui aligne directement ses objectifs idéologiques et politiques. La conditionnalité des aides permettrait d'accélérer la réduction du gaz en Europe tout en incitant les pays membres à adopter des mesures ambitieuses sur la transition écologique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE soutient cet amendement car il réduit la dépendance au gaz et favorise l'accélération de la transition énergétique. Une limite plus stricte permettrait d'orienter les investissements vers des solutions durables comme l'hydrogène vert.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE considère que cette mesure pourrait créer des inégalités entre les pays membres et compromettre la cohésion européenne. Cependant, il serait pertinent d'appliquer des exceptions temporaire aux pays en transition rapide vers l'énergies renouvelables.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE oppose cet amendement car il renforce la dépendance à long terme aux énergies fossiles, contraire à ses objectifs de transition écologique radicale. Les investissements devraient prioriser les solutions bas carbone plutôt que l'entretien des infrastructures gazières.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE considère que le report d'application de la directive retarderait inutilement les mesures climatiques et énergétiques nécessaires. Une action immédiate est indispensable pour respecter les objectifs climatiques européens.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions industrielles en Allemagne (Volkswagen, Siemens) sur la transition énergétique et l'impact des mesures climatiques. Équilibrer les priorités écologiques avec les besoins de compétitivité industrielle européenne. Surveiller également le rôle des lobbyings des industries fossiles dans les négociations.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T16:42:11.932508",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Opposant Modéré - Prudence sur les coûts budgétaires et défense de la souveraineté nationale énergétique.",
+    "enjeux_directive": [
+      "Limiter les contraintes supranationales sur les choix énergétiques.",
+      "Préserver la flexibilité des politiques nationales.",
+      "Soutenir les secteurs traditionnels (nucléaire, gaz) pour la stabilité économique.",
+      "Assurer une transition énergétique progressive et non disruptive pour l'industrie.",
+      "Équilibrer les objectifs climatiques avec la compétitivité des marchés européens.",
+      "Protéger les intérêts des pays membres avec des structures énergétiques hétérogènes."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne.",
+      "La directive renforce le rôle des États membres dans la gestion de leur transition énergétique, ce qui correspond à la philosophie du groupe."
+    ],
+    "stratégie": "Le Conservateurs et Réformistes Européens (ECR) adopte une stratégie axée sur trois piliers : (1) défense de la souveraineté nationale dans les décisions énergétiques, en particulier pour les pays dépendants du gaz ou du nucléaire ; (2) promotion d'une transition énergétique progressive et non disruptive pour préserver l'industrie manufacturière européenne, notamment dans les secteurs de la chimie, de l'automobile et de l'énergie fossile ; (3) défense d'une approche fiscally responsable, en s'opposant aux coûts élevés des mesures climatiques radicales. Cette stratégie vise à concilier les objectifs environnementaux avec la stabilité économique et la préservation de l'autonomie des États membres dans leurs politiques énergétiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La souveraineté nationale sur les choix énergétiques doit être préservée pour éviter une dépendance accrue à l'Union européenne, particulièrement dans les pays historiquement dépendants du gaz russe.",
+      "Les mesures climatiques radicales imposées par la directive pourraient menacer la compétitivité des industries européennes si elles ne sont pas alignées avec les réalités économiques nationales.",
+      "Le soutien aux secteurs traditionnels (nucléaire, gaz) est essentiel pour assurer une transition énergétique stable et non disruptive, en particulier dans les régions industrielles dépendantes de ces ressources.",
+      "Les investissements massifs prévus par la directive devraient être conditionnés à des résultats concrets et mesurables pour éviter le gaspillage budgétaire.",
+      "La directive doit permettre aux États membres de maintenir une certaine flexibilité dans leurs politiques énergétiques, en particulier pour les pays avec des structures économiques hétérogènes.",
+      "La transition vers l'hydrogène vert nécessite un cadre réglementaire clair et des investissements ciblés, plutôt qu'une approche globale qui pourrait surcharger le budget de l'Union européenne.",
+      "Les objectifs climatiques doivent être alignés avec les réalités économiques locales pour éviter une fracture sociale entre les régions riches et celles en développement.",
+      "La directive ne doit pas ignorer les préoccupations des secteurs industriels traditionnels, qui jouent un rôle clé dans la stabilité économique européenne."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les lobbies de l'énergie fossile (particulièrement en Hongrie et Pologne) et les objectifs climatiques. Évaluer les risques d'inégalités régionales dans la répartition des fonds verts, notamment entre le Nord et le Sud de l'Europe. Surveiller les tensions économiques liées à une transition trop rapide vers l'hydrogène vert en l'absence de garanties de financement sectoriel.",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure renforce la sécurité énergétique européenne en garantissant des réserves suffisantes face aux perturbations géopolitiques, tout en évitant une dépendance excessive à l'importation. Cela correspond à la vision de l'ECR sur la nécessité d'une transition progressive et non disruptive.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les investissements dans l'interconnexion énergétique sont cruciaux pour la stabilité européenne, mais doivent être conditionnés à une évaluation rigoureuse de leur impact sur les budgets nationaux et aux priorités stratégiques des États membres.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "L'hydrogène vert représente une opportunité majeure pour l'Europe, mais sa mise en œuvre doit être progressive et accompagnée d'investissements ciblés pour éviter des coûts excessifs. Cette mesure aligne les priorités de l'ECR sur la transition écologique structurée.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les aides publiques doivent être alignées sur des objectifs concrets et mesurables. Cependant, une réduction trop radicale de la consommation de gaz pourrait menacer l'équilibre économique de certains États membres et nuire à leurs secteurs industriels.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une limitation des réserves stratégiques à 60 jours pourrait rendre les États membres vulnérables aux perturbations géopolitiques. Cette mesure est inacceptable pour l'ECR, qui défend une approche prudents et non radicale.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains pays des obligations de stockage énergétique risquerait d'aggraver les inégalités économiques et géographiques au sein de l'Union européenne, ce qui est contraire aux principes de solidarité défendus par l'ECR.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux infrastructures gazières existantes est nécessaire pour assurer une transition énergétique stable, mais doit être accompagné d'une évaluation rigoureuse de leur conformité avec les objectifs climatiques à long terme.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un report de deux ans permettrait d'assurer une mise en œuvre plus réfléchie et adaptée des mesures climatiques, tout en évitant un impact immédiat sur les budgets nationaux. Cela correspond à l'approche prude et structurée adoptée par l'ECR.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T16:05:06.580769",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Opposant - S'oppose aux investissements gaziers et prône une transition immédiate vers les renouvelables.",
+    "enjeux_directive": [
+      "Éviter de prolonger la dépendance aux énergies fossiles.",
+      "Orienter les investissements vers les énergies propres.",
+      "Assurer une transition juste et sociale pour les régions économiquement vulnérables.",
+      "Mettre en place des mécanismes de financement climatique équitables entre États membres.",
+      "Protéger les secteurs industriels stratégiques tout en respectant les objectifs climatiques.",
+      "Éviter une fragmentation des politiques énergétiques européennes"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne.",
+      "Les objectifs climatiques ambitieux de la directive correspondent aux engagements internationaux de GUE/NGL."
+    ],
+    "stratégie": "La Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) adopte une stratégie de mobilisation idéologique et pragmatique pour défendre des objectifs climatiques radicaux. Elle combine un discours anti-capitaliste avec des alliances sectorielles ciblées, en s'appuyant sur les réseaux sociaux et les mouvements citoyens. En matière de négociations, GUE/NGL privilégie des positions intransigeantes sur la lutte contre le changement climatique tout en recherchant des compromis stratégiques avec des acteurs progressistes pour garantir un financement équitable des transitions vertes. La stratégie inclut une volonté de renforcer la position européenne dans les négociations internationales, notamment via l'Union européenne comme acteur global. GUE/NGL mise également sur la mobilisation des jeunes et des mouvements écologistes transnationaux pour augmenter sa visibilité et son influence.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition immédiate vers les énergies renouvelables est incontournable pour atteindre la neutralité carbone d'ici 2045, conformément aux engagements de l'Accord de Paris.",
+      "Les investissements dans les énergies fossiles doivent être interdits par leur nature, car ils entravent la transition écologique et favorisent l'inégalité sociale.",
+      "La directive doit inclure des mécanismes de protection pour les régions économiquement vulnérables qui dépendent encore du gaz, en garantissant une juste répartition des coûts de la transition.",
+      "Les lobbies des énergies fossiles doivent être contrés par des réglementations strictes et une transparence totale sur leurs financements politiques.",
+      "La collaboration avec les partis progressistes (S&D, Verts/ALE) renforce la crédibilité de GUE/NGL sur les enjeux climatiques et sociaux.",
+      "Les alliances sectorielles permettent à GUE/NGL de sécuriser des financements publics pour les projets verts, tout en limitant l'influence des acteurs économiques traditionnels.",
+      "Le soutien aux infrastructures numériques est stratégique pour accélérer la transition énergétique et renforcer la résilience technologique de l'Union européenne.",
+      "La protection des secteurs industriels stratégiques (automobile, chimie) doit s'accompagner d'exigences strictes en matière d'émissions et de durabilité."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions économiquement vulnérables (Italie, Pologne) et les objectifs climatiques radicaux. Évaluer l'impact des mesures sur les secteurs industriels stratégiques comme l'automobile (Allemagne, France). Surveiller la coordination avec les Verts/ALE pour éviter des divergences tactiques.",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Un stock stratégique plus important risque de prolonger la dépendance aux énergies fossiles et d'encourager des investissements dans les infrastructures gazières, ce qui contredit l'objectif de transition immédiate vers les renouvelables. Cette position est incompatible avec les engagements climatiques de GUE/NGL.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "L'accélération des investissements dans les interconnexions énergétiques renforce la sécurité énergétique européenne et favorise l'intégration des réseaux de transport d'énergie renouvelable. Cela soutient la transition vers une Europe décarbonée.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'hydrogène vert est essentiel pour décarboner les secteurs industriels durs, mais uniquement si sa production repose sur des sources 100% renouvelables et s'il est couplé à des mesures de justice climatique. GUE/NGL soutient cet amendement sous réserve de ces conditions.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "FAVORABLE",
+        "justification": "Cette condition renforce l'objectif d'élimination progressive des énergies fossiles. Elle incite les États membres et les industries à adopter des pratiques plus durables, conformément aux principes de GUE/NGL.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "FAVORABLE",
+        "justification": "Une réduction du stock stratégique à 60 jours est cohérente avec l'objectif de décarbonation et évite la stagnation des investissements dans les énergies fossiles. Cela favorise une transition plus rapide vers les renouvelables.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion d'États membres doit être évitée pour préserver l'équité entre les pays. Cependant, si une exclusion est nécessaire, elle devrait s'accompagner de mesures compensatoires pour les régions économiquement vulnérables.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "DEFAVORABLE",
+        "justification": "Le soutien aux infrastructures gazières existantes bloque la transition vers des énergies renouvelables et favorise l'exploitation durable du gaz, ce qui est contraire à la vision de GUE/NGL sur les enjeux climatiques.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report de la directive compromettrait les objectifs climatiques urgents et permettrait aux États membres d'ajourner des mesures nécessaires pour une transition rapide. GUE/NGL s'oppose à toute prolongation.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T16:22:39.780328",
+    "version": "4.7"
+  }
+]

@@ -1,0 +1,769 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la fiscalité sociale et écologique pour financer la transition verte.",
+      "Lutter contre la spéculation financière via des mesures fiscales transnationales.",
+      "Éliminer les disparités régionales grâce à un fonds de cohésion durable.",
+      "Protéger les PME tout en harmonisant le système fiscal européen.",
+      "Accélérer la transition énergétique par une taxation juste et progressive."
+    ],
+    "impacts_directive": [
+      "La directive aligne avec l'objectif écologique et social de GUE/NGL, renforçant sa crédibilité dans les négociations transnationales.",
+      "Elle permet de structurer des politiques fiscales européennes en phase avec la gouvernance verte du groupe."
+    ],
+    "stratégie": "GUE/NGL adopte une approche radicale mais pragmatique, combinant exigences sociales et écologiques. Le parti défend une fiscalité progressive à l'échelle européenne pour financer la transition énergétique, tout en protégeant les petites entreprises contre les effets de l'harmonisation fiscale. Il mise sur des alliances stratégiques avec des partis progressistes et des acteurs économiques engagés dans la durabilité, tout en s'opposant fermement aux blocs conservateurs et pro-fossiles. La stratégie repose sur une dialectique entre idéologie verte et nécessaire concession sectorielle pour éviter un isolement politique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à l'harmonisation fiscale européenne)"
+    ],
+    "éléments_d_argumentaire": [
+      "Une fiscalité écologique renforce la justice sociale en redistribuant les richesses générées par la transition verte.",
+      "La taxation des transactions financières permet de financer des projets d'intérêt public sans peser sur l'économie réelle.",
+      "L'harmonisation fiscale doit exclure les PME pour préserver leur compétitivité dans un contexte européen concurrentiel.",
+      "Les régions défavorisées méritent un soutien structurel via des fonds de cohésion, non conditionnés à des critères économiques.",
+      "La transparence fiscale obligatoire contraint les multinationales à respecter leurs obligations sociales et environnementales.",
+      "Une flexibilité nationale sur la TVA favorise l'innovation technologique dans les pays en transition écologique.",
+      "Les dérogations temporaires pour les États à faible revenu évitent un isolement politique tout en maintenant des objectifs climatiques communs.",
+      "L'exclusion de la fiscalité harmonisée pour les PME permet d'éviter une charge excessive sur le tissu productif européen."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par GUE/NGL, est un pilier de sa stratégie fiscale écologique. Il permet de financer directement la transition verte tout en réduisant la spéculation financière. La taxe doit être harmonisée à l'échelle européenne pour éviter les dérives nationales et garantir une équité redistributive.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL soutient cet amendement sous réserve d'une répartition équitable entre les pays membres. Il faut éviter que les ressources ne soient détournées vers des projets non alignés avec l'objectif écologique global.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds est essentiel pour réduire les inégalités régionales et favoriser une transition écologique équilibrée. GUE/NGL exige qu'il soit alimenté par des recettes fiscales transnationales, non dépendantes des politiques nationales.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE",
+        "justification": "GUE/NGL considère cette mesure comme une exigence morale et économique. Elle permet de lutter contre la déréglementation fiscale et de garantir que les entreprises respectent leurs obligations sociales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL soutient cette flexibilité à condition qu'elle serve des objectifs écologiques ou sociaux précis. Elle doit être encadrée pour éviter une déréglementation fiscale globale.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "GUE/NGL défend fermement cette exclusion pour préserver la compétitivité des petites entreprises européennes. L'harmonisation fiscale doit s'appliquer à des structures de grande taille.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL approuve ce report sous réserve d'un suivi rigoureux pour éviter un retard irréversible dans la mise en œuvre des réformes fiscales européennes.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL soutient ces dérogations à condition qu'elles soient limitées dans le temps et accompagnées d'une stratégie de développement durable claire.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions industrielles dans les pays producteurs d'énergies fossiles (Pologne, Hongrie). Évaluer régulièrement l'impact des mesures fiscales sur les PME en Allemagne et en Italie. Veiller à la non-déviation des fonds de cohésion vers des projets non écologiques.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T12:50:00.141953",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Garantir un financement durable des politiques vertes.",
+      "Associer fiscalité et objectifs environnementaux.",
+      "Renforcer la responsabilité climatique des États.",
+      "Promouvoir une transition juste et équitable pour les régions défavorisées.",
+      "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales.",
+      "Harmoniser les politiques fiscales tout en protégeant la compétitivité des PME."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne.",
+      "Permet d'accélérer la transition écologique tout en renforçant la solidarité entre les États membres."
+    ],
+    "stratégie": "Verts/Alliance Libre Européenne (Verts/ALE) défend une approche intégrée de la fiscalité européenne, associant des mesures environnementales à des objectifs économiques et sociaux. La stratégie vise à mobiliser des ressources financières via des taxes écologiques (comme celle sur les transactions financières ou l'harmonisation fiscale) pour financer la transition verte, tout en préservant la souveraineté nationale dans certaines domaines. L'alliance avec des partis sociaux-démocrates et des acteurs comme Big Tech permet de concilier ambition climatique et innovation technologique. La priorité est donnée à des politiques inclusives, notamment via le fonds de cohésion pour les régions défavorisées, afin d'assurer une transition juste. Cependant, Verts/ALE reste prudemment ouvert à des compromis sur l'harmonisation fiscale, en demandant des dérogations temporaires pour certains États à faible revenu.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Renouveau Européen (soutien innovation et transition écologique)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Gauche Unitaire (critique non-égalité dans la répartition des fonds)"
+    ],
+    "éléments_d_argumentaire": [
+      "La taxe sur les transactions financières génère des recettes directement allouées à la transition écologique, renforçant l'autonomie budgétaire de l'UE.",
+      "L'harmonisation fiscale doit être progressive et accompagnée de mesures compensatoires pour les PME, évitant un déséquilibre économique.",
+      "Le fonds de cohésion pour les régions défavorisées permet de réduire les disparités territoriales tout en soutenant la transition verte.",
+      "La transparence fiscale obligatoire pour les multinationales limite l'évasion fiscale et favorise une meilleure redistribution des richesses.",
+      "Le mécanisme de flexibilité sur le taux de TVA (±2%) doit rester conditionnel aux engagements climatiques nationaux pour éviter les dérives.",
+      "Les dérogations temporaires pour les États à faible revenu doivent être encadrées par des indicateurs clairs pour assurer une équité durable.",
+      "L'absence d'harmonisation pour les PME favorise l'innovation locale tout en préservant la compétitivité européenne."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) soutient fermement cette mesure car elle génère des recettes immédiates pour financer la transition écologique, tout en renforçant l'indépendance budgétaire de l'UE. Cette taxe permettrait d'accélérer les investissements dans les énergies renouvelables et les infrastructures vertes, alignant les politiques fiscales sur les objectifs climatiques.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par Verts/Alliance Libre Européenne (Verts/ALE), est central pour son programme. Il permet de garantir un financement durable des politiques vertes à l’échelle européenne, en orientant les recettes fiscales vers la rénovation énergétique, le développement des transports durables et la protection des sols.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) appuie cette mesure à condition que le fonds intègre des mécanismes de suivi rigoureux pour assurer une distribution équitable entre les régions. Cela éviterait les dérives politiques et garantirait que les ressources servent uniquement la transition écologique.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est cruciale pour lutter contre l'évasion fiscale et assurer une égalité entre les entreprises. Les recettes générées pourraient être allouées à des projets de transition écologique, renforçant ainsi la solidarité européenne.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "NEUTRE",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) reste neutre, à condition que cette flexibilité soit conditionnelle aux engagements climatiques et sociaux des États membres. Elle doit éviter de créer des distorsions concurrentielles ou de fragiliser la fiscalité écologique.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) soutient cette exclusion à condition qu'elle ne pénalise pas les PME dans le cadre d'une transition écologique. Elle favoriserait l'innovation locale tout en préservant la compétitivité européenne.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) appuie ce report à condition qu'il serve de période d'adaptation pour les États membres, tout en maintenant des critères d'éligibilité stricts liés aux engagements climatiques et sociaux.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/Alliance Libre Européenne (Verts/ALE) appuie ces dérogations à condition qu'elles soient encadrées par des indicateurs clairs, évitant un déséquilibre entre les États membres et garantissant une équité durable.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions avec l'industrie du charbon (Énergies fossiles) et les pays dépendants de ce secteur (Hongrie, Pologne). Évaluer impact des mesures fiscales sur la compétitivité des PME en Europe centrale. Surveiller les déséquilibres Nord-Sud dans l'allocation du fonds de cohésion.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T12:16:12.557400",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la solidarité territoriale via des fonds de cohésion ciblés.",
+      "Soutenir les économies en transition avec un focus sur l’innovation et la compétitivité industrielle.",
+      "Limiter les déséquilibres régionaux dans la fiscalité tout en préservant la souveraineté nationale.",
+      "Promouvoir une harmonisation fiscale équilibrée qui respecte les spécificités des États membres.",
+      "Mettre en place des mécanismes de transparence pour les multinationales afin d’éviter l’évasion fiscale."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques des Conservateurs et Réformistes Européens, notamment leur volonté de renforcer la solidarité européenne tout en maintenant un cadre fiscal flexible.",
+      "Le positionnement des Conservateurs et Réformistes reflète sa vision d’une Europe intégrée mais respectueuse de la diversité nationale."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-8C",
+        "origine": "Conservateurs et Réformistes Européens (ECR)",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "Les Conservateurs et Réformistes Européens (ECR) adoptent une stratégie de redistribution ciblée pour renforcer la solidarité européenne tout en préservant l’autonomie des États membres. Cette approche vise à garantir une transition écologique et économique équilibrée, en favorisant les régions défavorisées sans compromettre la compétitivité industrielle. L’ECR promeut également des mesures fiscales innovantes qui encouragent l’innovation technologique tout en soutenant les secteurs stratégiques comme l’industrie automobile et les énergies propres. En parallèle, l’acteur insiste sur la nécessité d’une harmonisation fiscale progressive, permettant aux États membres de maintenir des politiques adaptées à leurs spécificités économiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les Conservateurs et Réformistes Européens défendent un modèle de solidarité européenne basé sur des fonds ciblés pour les régions en difficulté, tout en préservant la souveraineté nationale.",
+      "Ils soutiennent une transition écologique structurée qui respecte les réalités économiques et industrielles locales, notamment dans les pays à forte dépendance énergétique.",
+      "L’ECR insiste sur la nécessité d’une fiscalité européenne harmonisée mais flexible, permettant aux États membres de maintenir des politiques adaptées à leur contexte économique.",
+      "Ils prônent un soutien renforcé aux secteurs industriels stratégiques (comme l’automobile et les énergies propres) pour préserver la compétitivité européenne.",
+      "L’acteur milite pour une transparence fiscale obligatoire des multinationales, visant à éviter l’évasion fiscale tout en protégeant les PME du fardeau réglementaire.",
+      "Les Conservateurs et Réformistes Européens s’opposent à un moratoire généralisé sur le charbon, préférant une transition progressive qui ne pénalise pas les pays dépendants de ce secteur.",
+      "Ils soutiennent la flexibilité nationale sur le taux de TVA (±2%) comme outil pour stimuler l’économie locale tout en répondant aux objectifs climatiques.",
+      "L’ECR défend un mécanisme d’aide ciblée pour les régions défavorisées, combiné à des mesures incitatives pour encourager l’innovation et la transition écologique."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur automobile (Volkswagen, Renault) et objectifs climatiques directive. Équilibrer transition énergétique et compétitivité secteur industriel. Surveiller impact des mesures fiscales sur les PME en Italie et Allemagne.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T12:34:42.897306",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les Conservateurs et Réformistes Européens soutiennent cette mesure conditionnellement, car elle pourrait financer des projets de transition écologique tout en nécessitant un cadre réglementaire clair pour éviter les distorsions de concurrence entre États membres.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition aligne avec les priorités de l’ECR d’une transition écologique structurée, en associant des financements directs aux régions défavorisées et aux secteurs industriels stratégiques.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Conservateurs et Réformistes Européens (ECR) est l'initiateur de cet amendement qu'elle a elle-même proposé pour renforcer la solidarité européenne tout en préservant les spécificités économiques locales. Cet outil permettrait d’atténuer les déséquilibres régionaux sans compromettre la souveraineté nationale.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE",
+        "justification": "L’ECR soutient cette mesure pour combattre l’évasion fiscale tout en protégeant les PME du fardeau réglementaire. Elle favorise une concurrence équitable entre entreprises européennes et multinationales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition reflète la volonté de l’ECR de permettre aux États membres d’ajuster leur fiscalité selon leurs besoins économiques locaux, tout en répondant aux objectifs climatiques et sociaux européens.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les Conservateurs et Réformistes Européens soutiennent cette mesure conditionnellement, car elle permettrait d’alléger la charge fiscale des PME tout en évitant une distorsion de concurrence avec les grandes entreprises.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’ECR soutient cette proposition conditionnellement, car elle permettrait aux États membres d’adapter leurs cadres fiscaux à leur contexte économique avant l’application de mesures harmonisées européennes.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE",
+        "justification": "Cette disposition reflète la volonté de l’ECR de respecter les spécificités économiques des pays les plus défavorisés tout en maintenant un cadre fiscal européen cohérent.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates (S&D)",
+    "actor_id": "sd",
+    "role_europeen": "Porteur de la directive sur l’harmonisation fiscale européenne, défenseur d’une approche progressiste et équitable en matière de justice sociale, de transition écologique et de protection des acteurs économiques fragiles (PME, régions défavorisées).",
+    "enjeux_directive": [
+      "Renforcer la justice fiscale à l’échelle européenne pour combattre l’évasion fiscale transfrontalière.",
+      "Protéger les PME contre les distorsions de concurrence liées à une harmonisation trop rigide de l’impôt sur les sociétés.",
+      "Assurer des financements suffisants pour la transition écologique via des recettes fiscales partagées.",
+      "Créer un fonds de cohésion régionale solidaire pour réduire les disparités entre les États membres.",
+      "Imposer une transparence totale sur les pratiques fiscales des multinationales pour lutter contre la dérégulation et le dumping fiscal."
+    ],
+    "impacts_directive": [
+      "La directive aligne avec les objectifs stratégiques de S&D : équité sociale, protection des classes moyennes et lutte contre l’évasion fiscale.",
+      "S&D s’engage à défendre une vision européenne basée sur la solidarité entre États membres, en particulier pour les régions structurellement défavorisées.",
+      "La directive renforce le rôle de S&D comme force progressiste au sein du Parlement européen, en confrontant des blocs plus conservateurs ou technocratiques."
+    ],
+    "stratégie": "S&D adopte une approche multilatérale et progressive dans les négociations. Son objectif est d’imposer une taxe sur les transactions financières à l’échelle européenne, de garantir la participation des régions défavorisées aux fonds de transition écologique, et d’assurer un soutien structurel aux PME par la flexibilité fiscale. S&D privilégie un modèle social inclusif et une gouvernance démocratique transatlantique, en s’appuyant sur des alliances stratégiques (partis socialistes, écologistes et secteurs industriels sensibles). La stratégie repose sur l’usage de mécanismes de pression institutionnelle (votes, blocages) lorsqu’il s’agit d’obstacles majeurs à la justice fiscale ou à la transition écologique. S&D utilise également des arguments économiques et sociaux pour convaincre les États membres plus réticents (comme la Pologne ou l’Italie), en mettant en avant des études de faisabilité sur les impacts positifs de ces mesures.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à la transparence fiscale multinationales)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les recettes de la taxe sur les transactions financières doivent être allouées à la transition écologique et aux fonds de cohésion régionale, conformément aux priorités climatiques européennes.",
+      "La flexibilité nationale sur le taux de TVA permet d’assurer une justice fiscale entre États membres, en tenant compte des disparités économiques et sociales.",
+      "Exclure les PME de l’harmonisation de l’impôt sur les sociétés protège leur compétitivité face aux multinationales qui échappent à la fiscalité.",
+      "Le mécanisme de transparence fiscale obligatoire pour les multinationales réduit l’évasion fiscale transfrontalière, en particulier dans les secteurs technologiques et pharmaceutiques.",
+      "Reporter l’application de l’harmonisation fiscale permet d’intégrer des améliorations techniques et de s’assurer d’un consensus interne avant la mise en œuvre.",
+      "Les dérogations temporaires pour les États à faible revenu évitent une surcharge fiscale qui pourrait freiner leur développement économique.",
+      "Le fonds de cohésion pour les régions défavorisées renforce l’équité territoriale et garantit une transition écologique inclusive.",
+      "L’harmonisation fiscale doit s’accompagner de mesures compensatoires pour les pays les plus vulnérables, comme la Pologne ou la Hongrie."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE",
+        "justification": "La taxe sur les transactions financières est un levier essentiel pour financer la transition écologique et renforcer la justice fiscale. Elle permet de réduire l’influence des banques d’investissement dans les politiques économiques, tout en générant des recettes transposables à la fois vers les fonds climatiques et aux régions défavorisées. Cette mesure aligne S&D avec ses valeurs progressistes et ses objectifs de réduction des inégalités.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "S&D soutient cette proposition, mais exige que les recettes soient réparties de manière équitable entre les États membres et les régions structurellement défavorisées. Les fonds doivent prioriser les projets d’hydrogène vert, les infrastructures renouvelables et l’électrification des transports, conformément aux objectifs climatiques européens.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds est crucial pour réduire les disparités économiques et sociales entre les régions. S&D défend que ces financements soient conditionnés à une adhésion stricte aux objectifs climatiques, garantissant ainsi un développement durable des régions les plus touchées par la crise écologique.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure lutte efficacement contre l’évasion fiscale et renforce la confiance des citoyens dans le système fiscal européen. Elle permet d’identifier les pratiques déloyales des grandes entreprises, en particulier dans les secteurs technologiques et pharmaceutiques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La flexibilité TVA est acceptable si elle permet d’assurer une justice fiscale entre les États membres. S&D exige cependant que cette flexibilité soit encadrée par des règles strictes pour éviter la création de distorsions de concurrence.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "Cette exclusion protège les PME contre les distorsions de concurrence causées par la pression fiscale des multinationales. Elle renforce également leur position dans les marchés européens et internationaux.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le report permet d’intégrer des améliorations techniques et de s’assurer du consensus interne avant la mise en œuvre. S&D exige que cette période soit utilisée pour renforcer les mécanismes de compensation pour les États plus vulnérables.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE",
+        "justification": "Ces dérogations évitent une surcharge fiscale qui pourrait freiner le développement économique de ces États. S&D exige qu’elles soient associées à des mesures compensatoires pour garantir l’équilibre fiscal global.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre les pays de l’Est (Pologne, Hongrie) et la directive sur la transparence fiscale multinationales. Évaluer impact des mesures sur le secteur automobile allemand (Volkswagen, BMW). Recommander une surveillance régulière des dérogations temporaires pour les États à faible revenu.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T11:45:28.477918",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Non-porteur - Favorise une harmonisation modérée tenant compte des réalités économiques.",
+    "enjeux_directive": [
+      "Assurer la compétitivité des entreprises européennes.",
+      "Éviter une surcharge fiscale excessive.",
+      "Promouvoir une transition écologique progressive et structurée.",
+      "Renforcer la cohésion économique entre régions défavorisées et pays industrialisés."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques du PPE, notamment sur le respect des marges de manœuvre nationales.",
+      "Le positionnement du PPE reflète sa vision d'une Europe solidaire mais non intrusive dans les choix économiques des États membres."
+    ],
+    "stratégie": "Le PPE adopte une approche modérée, privilégiant la coopération entre acteurs centristes et progressistes tout en défendant un équilibre économique. Il vise à concilier les objectifs climatiques avec la préservation de la compétitivité industrielle européenne via des alliances stratégiques (partis pro-nucléaire, lobbies industriels) et une opposition calculée aux positions radicales (ex : moratoires sur le charbon). Son argumentaire repose sur une logique de consensus en Europe centrale, combinant soutien aux investissements structuraux (fonds de cohésion, innovation numérique) avec des réserves sur les mesures fiscales trop ambitieuses. Il cherche à influencer les décisions via des alliances sectorielles (automobile, énergie), tout en maintenant un rôle de médiateur entre positions divergentes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big pharma (résistances réglementaires strictes sur la fiscalité)",
+      "Agrochimie (soutien aux exemptions sectorielles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit s'inscrire dans une logique de croissance verte, en combinant investissements structuraux et préservation des marges de manœuvre nationales.",
+      "Les mesures fiscales doivent être adaptées aux réalités économiques des États membres pour éviter une perte de compétitivité industrielle européenne.",
+      "La transition écologique doit inclure les secteurs traditionnels (énergie, industrie) via des mécanismes progressifs plutôt que radicaux.",
+      "Les fonds de cohésion doivent être accompagnés d'initiatives locales pour renforcer la résilience économique des régions défavorisées.",
+      "La fiscalité européenne doit favoriser l'innovation technologique et numérique, en particulier dans les secteurs stratégiques (automobile, énergie).",
+      "Les mesures de transparence fiscale doivent s'appliquer aux multinationales sans pénaliser les PME, via des dérogations temporaires.",
+      "La flexibilité nationale sur la TVA doit être autorisée pour permettre une réponse adaptée aux besoins sociaux et économiques locaux.",
+      "L'exclusion des PME de l'harmonisation fiscale est cruciale pour maintenir leur dynamisme et leur contribution à l'économie européenne."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les secteurs industriels (Volkswagen, Siemens) et les objectifs climatiques de la directive. Équilibrer les positions pro-nucléaire de certains pays (France, Suède) avec les résistances historiques dans d'autres régions. Veiller à ne pas pénaliser l'industrie automobile européenne via des mesures fiscales trop strictes.",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient cette proposition en tant que levier financier pour la transition écologique, mais exige des garanties sur l'application progressive et les exemptions sectorielles pour préserver la compétitivité économique. Il insiste sur un financement transparent des investissements structuraux.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE",
+        "justification": "Le PPE approuve cette mesure pour renforcer les investissements dans les énergies propres et l'innovation technologique. Il exige toutefois une répartition équitable entre les États membres, en particulier pour les régions défavorisées.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cette initiative pour renforcer l'équité économique et sociale en Europe. Il propose des critères d'attribution basés sur la densité populationnelle et le niveau de développement régional.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE approuve cette mesure mais exige des derogations temporaires pour les PME et une application progressive. Il insiste sur la nécessité d'éviter toute distorsion de concurrence entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cette proposition pour permettre aux États membres d'adapter les politiques fiscales à leurs besoins sociaux et économiques locaux, tout en maintenant un cadre harmonisé.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "Le PPE approuve cette mesure pour préserver le dynamisme économique des PME et éviter une perte de compétitivité dans les secteurs industriels stratégiques.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient cette proposition pour permettre une réflexion supplémentaire sur les impacts économiques et sociaux. Il exige des garanties sur la mise en œuvre progressive des mesures fiscales.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE",
+        "justification": "Le PPE approuve cette mesure pour assurer une équité économique entre les États membres et éviter une charge fiscale excessive pour les pays en développement.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T11:28:53.109819",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Non-porteur - Prudence sur l’étendue des mesures et le rythme de la réforme.",
+    "enjeux_directive": [
+      "Concilier ambition écologique et compétitivité industrielle européenne.",
+      "Assurer une transition énergétique juste sans compromettre les secteurs stratégiques (nucléaire, industries lourdes).",
+      "Gérer les tensions Nord-Sud sur la répartition des fonds de cohésion et des investissements verts.",
+      "Mettre en place un cadre fiscal européen équilibré entre solidarité fiscale et souveraineté nationale."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Renouveau Européen adopte une approche modérée sur Directive 8, combinant soutien à certaines mesures climatiques et sociales avec une prudence stratégique sur l’harmonisation fiscale et la transition énergétique. Le parti défend un modèle de réforme progressive qui privilégie les secteurs industriels stratégiques (nucléaire, chimie) tout en soutenant les investissements verts dans les régions défavorisées. Il s’engage à promouvoir des alliances transversales avec des acteurs européens et nationaux partageant une vision équilibrée de l’intégration européenne. Le parti mise sur la diplomatie multilatérale pour éviter un consensus trop radical qui pourrait fragiliser la cohésion institutionnelle.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux mesures structurelles et à la stabilité institutionnelle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit respecter les réalités économiques des pays membres, en particulier ceux dépendant du nucléaire et de l’industrie lourde.",
+      "Les mesures fiscales européennes doivent éviter de créer un déséquilibre compétitif entre les États membres, notamment avec les pays d’Europe centrale et orientale.",
+      "La création d’un fonds de cohésion pour les régions défavorisées doit être couplée à des mesures d’évaluation rigoureuses de son impact sur la croissance économique globale.",
+      "L’harmonisation fiscale doit respecter la souveraineté nationale, en particulier sur le taux de TVA et l’impôt sur les sociétés pour les PME.",
+      "Le mécanisme de transparence fiscale des multinationales doit être accompagné de mesures incitatives plutôt que punitives pour ne pas décourager les investissements directs étrangers.",
+      "Les dérogations temporaires pour les États à faible revenu doivent être encadrées par un mécanisme d’audit indépendant pour éviter la corruption."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le nucléaire français et les objectifs climatiques de l’UE. Évaluer régulièrement les impacts des mesures fiscales sur la compétitivité des industries lourdes allemandes et polonaises. Surveiller les risques de fragmentation Nord-Sud liés à la répartition inégale des fonds européens.",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE",
+        "justification": "Une taxe européenne sur les transactions financières permettrait de financer la transition écologique tout en renforçant la solidarité fiscale entre les États membres. Renouveau Européen s’engage à soutenir cette mesure si elle est accompagnée d’un mécanisme de redistribution équitable des recettes.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient cet amendement uniquement si les recettes sont allouées de manière proportionnelle aux besoins des pays membres, en particulier ceux dépendant fortement des énergies fossiles. Il exige un suivi rigoureux pour éviter une détournement des fonds.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Un fonds dédié à la cohésion territoriale renforcerait l’équité sociale et économique entre les régions. Renouveau Européen exige un système de gestion transparent avec des indicateurs de performance indépendants.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient cet amendement si le mécanisme est couplé à des incitations fiscales plutôt qu’à des sanctions punitives. Il préconise un dialogue avec les entreprises pour éviter une fuite des capitaux vers d’autres régions.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renouveau Européen s’oppose à cette flexibilité pour éviter la fragmentation fiscale. Cependant, il accepte une marge limitée si elle est compensée par des mesures de solidarité européenne.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "L’exclusion des PME est nécessaire pour protéger leur compétitivité. Renouveau Européen exige que cette mesure soit accompagnée d’un soutien à la digitalisation et à l’innovation de ces entreprises.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient un report conditionnel à une réforme globale de la fiscalité européenne. Il exige que cette mesure soit utilisée pour améliorer le cadre légal et éviter les distorsions de concurrence.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient cet amendement si les dérogations sont encadrées par un mécanisme d’audit indépendant et si elles visent uniquement à réduire la pauvreté structurelle, sans compromettre l’équilibre budgétaire de l’UE.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-10-28T11:59:16.109864",
+    "version": "4.7"
+  }
+]
