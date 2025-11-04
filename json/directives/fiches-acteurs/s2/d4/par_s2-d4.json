@@ -1,0 +1,758 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen (PPE)",
+    "actor_id": "ppe",
+    "role_europeen": "Non-porteur - Soutiens la souveraineté alimentaire tout en défendant la compétitivité du secteur agricole européen, avec un accent particulier sur la stabilité économique et les priorités de l'industrie.",
+    "enjeux_directive": [
+      "Maintenir l'équilibre entre sécurité alimentaire et libre marché.",
+      "Défendre les intérêts des agriculteurs européens face à la concurrence mondiale.",
+      "Assurer une transition écologique compatible avec la croissance économique.",
+      "Protéger les industries stratégiques (nucléaire, automobile) contre les pressions réglementaires excessives."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques du PPE en défendant un approche équilibrée entre sécurité alimentaire et viabilité économique.",
+      "Le positionnement du PPE reflète sa vision de l'intégration européenne, privilégiant la coopération structurelle tout en préservant la souveraineté nationale dans les secteurs clés."
+    ],
+    "stratégie": "Le PPE adopte une approche pragmatique centrée sur la recherche d'accords consensuels qui concilient les impératifs de transition écologique avec la nécessité de maintenir la compétitivité européenne. Il privilégie des compromis qui renforcent la souveraineté alimentaire tout en intégrant les exigences du marché mondial, en particulier dans les secteurs stratégiques comme l'agriculture et l'énergie. Le parti mise sur une diplomatie multilatérale pour éviter les dérives protectionnistes ou isolationnistes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir la sécurité alimentaire tout en évitant les distorsions de concurrence qui pénaliseraient les agriculteurs européens face à des systèmes agricoles moins réglementés.",
+      "Un soutien renforcé aux grandes exploitations agricoles permettrait d'assurer une production suffisante pour alimenter l'Union européenne sans dépendre excessivement de marchés externes.",
+      "La transition écologique doit s'accompagner de mesures concrètes pour soutenir les industries traditionnelles (nucléaire, charbon) tout en favorisant des technologies alternatives comme l'hydrogène vert.",
+      "Les réserves stratégiques doivent être maintenues à un niveau suffisant pour préserver la stabilité alimentaire européenne face aux crises géopolitiques ou climatiques.",
+      "Le PPE défend une approche équilibrée qui évite les mesures radicales pouvant entraver l'innovation technologique et la croissance économique dans des secteurs clés comme l'énergie.",
+      "Les investissements publics doivent être ciblés pour soutenir les régions défavorisées tout en maintenant un cadre réglementaire favorable aux entreprises."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cette mesure car elle assure une marge de sécurité alimentaire face aux crises géopolitiques ou climatiques, tout en permettant des investissements durables dans les secteurs agricoles et énergétiques. Cela renforce la souveraineté européenne sans compromettre la compétitivité.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE appuie cette approche pour encourager une agriculture durable, mais exige qu'elle ne pénalise pas les producteurs traditionnels. Un cadre flexible doit être mis en place pour éviter la marginalisation des exploitations agricoles familiales.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cette initiative car elle favorise l'indépendance alimentaire européenne tout en stimulant les emplois locaux. Cela renforce les chaînes de production agricoles tout en réduisant la dépendance aux importations.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE",
+        "justification": "Le PPE apprécie cette mesure pour promouvoir une distribution plus équitable des produits agricoles et renforcer la proximité entre producteurs et consommateurs. Cela favorise aussi l'innovation dans les chaînes logistiques.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE est opposé à cette mesure car elle réduit la marge de sécurité alimentaire face aux crises. Un niveau plus élevé permet de garantir une réponse rapide en cas de perturbations géopolitiques ou climatiques.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose à cette exclusion sauf pour des raisons économiques ou logistiques justifiées. Une sélection arbitraire pourrait créer des distorsions et pénaliser certains secteurs agricoles clés.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient cette approche pour assurer une production suffisante, mais insiste sur la nécessité de préserver le rôle des petites et moyennes exploitations agricoles. Un équilibre doit être trouvé entre les deux modèles.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Le PPE adopte une position neutre sur cette mesure, car elle pourrait permettre un consensus plus large tout en évitant les retards qui pénaliseraient certaines régions ou secteurs. Un report conditionnel est envisageable si des ajustements sont nécessaires.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions industrielles en Hongrie (opposition à la transition énergétique) et les lobbies de l'énergie fossile. Équilibrer les mesures favorables aux grandes exploitations agricoles avec le soutien aux petites et moyennes exploitations. Monitorer les impacts des réserves stratégiques sur les marchés d'exportation.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "parti",
+    "generated_at": "2025-10-30T11:00:47.293352",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates (S&D)",
+    "actor_id": "sd",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Promouvoir une agriculture de proximité et durable.",
+      "Renforcer la cohésion territoriale et l'emploi rural.",
+      "Assurer une alimentation de qualité accessible à tous.",
+      "Accélérer la transition écologique sans compromettre les secteurs industriels stratégiques.",
+      "Équilibrer les besoins de sécurité alimentaire avec les objectifs climatiques européens."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates (S&D).",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne.",
+      "Les amendements proposés par S&D renforcent la solidarité entre régions développées et défavorisées."
+    ],
+    "stratégie": "Construire des alliances transversales autour de trois piliers : (1) la transition écologique sociale, (2) le soutien aux secteurs industriels stratégiques (agroalimentaire, automobile, énergie), et (3) l'harmonisation des politiques agricoles avec les objectifs climatiques. S&D s'appuie sur sa base de 260 députés pour mobiliser le bloc socialiste dans les comités d'enquête et les groupes parlementaires, tout en négociant des compromis progressistes avec les Verts/ALE et Renouveau. La stratégie vise à imposer un modèle européen basé sur la solidarité interrégionale, l'innovation verte et une transition juste pour les travailleurs du secteur agricole.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Renouveau Européen (convergences sur l'innovation sociale et les énergies renouvelables)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big pharma (influence sur les réglementations agricoles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir une transition écologique qui ne pénalise pas les travailleurs agricoles, en préférant des politiques de relocalisation progressive plutôt que des mesures abruptes.",
+      "Les investissements dans l'hydrogène vert et les énergies renouvelables doivent être associés à des contrats sociaux qui protègent les emplois du secteur industriel traditionnel.",
+      "La réserve stratégique doit intégrer des critères de durabilité, en excluant les produits agricoles non conformes aux normes environnementales et sociales.",
+      "Le fonds européen pour la relocalisation alimentaire doit prioriser les régions défavorisées et les exploitations familiales, tout en soutenant l'innovation agroécologique.",
+      "Les circuits courts doivent être encadrés par un label européen qui garantit des standards de qualité, d'équité sociale et d'impact écologique mesurables.",
+      "La transition agricole doit s'appuyer sur une formation continue des agriculteurs pour accompagner les changements technologiques et environnementaux.",
+      "Les amendements doivent inclure des mécanismes de suivi et de révision régulière, afin d'assurer l'adaptation aux évolutions économiques et climatiques."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "S&D soutient cette proposition pour assurer une transition énergétique plus progressive, permettant aux pays européens de sécuriser leurs approvisionnements tout en développant des infrastructures durables. Cette mesure renforce la résilience des secteurs industriels stratégiques face aux fluctuations mondiales.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "S&D approuve ce principe, mais exige des critères clairs pour évaluer l'impact social et environnemental des transitions agricoles. Les mesures doivent favoriser les petits exploitants et garantir une distribution juste de la subvention.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition correspond aux engagements de S&D en faveur du développement rural et de l'indépendance alimentaire européenne. Le fonds doit soutenir les initiatives locales tout en favorisant une agriculture durable.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE",
+        "justification": "S&D voit dans ce label une opportunité de renforcer la transparence et la qualité des produits alimentaires européens, tout en valorisant les acteurs locaux. Il doit inclure des critères sociaux et écologiques rigoureux.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "S&D juge cette proposition trop restrictive, risquant de compromettre la sécurité alimentaire et énergétique européenne. Une transition progressive est nécessaire pour éviter les chocs économiques.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "S&D approuve l'idée, mais exige que les critères d'exclusion soient basés sur des normes environnementales et sociales strictes. Il est essentiel de ne pas pénaliser les productions durables.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE",
+        "justification": "S&D oppose cette proposition, car elle risque de marginaliser les petits exploitants et de renforcer l'inégalité entre les régions. La transition agricole doit favoriser la diversité des modèles économiques.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "S&D estime que cette mesure pourrait ralentir la transition climatique nécessaire. Cependant, il accepte un report conditionnel à des révisions du texte pour intégrer les retours d'expérience et les inégalités territoriales.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs agricoles traditionnels (France, Italie) et objectifs climatiques directive. Équilibrer transition énergétique et soutien aux exploitations familiales. Surveillance nécessaire de la coopération entre S&D et Renouveau sur les financements verts.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "parti",
+    "generated_at": "2025-10-30T11:17:00.887512",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Maximiser la résilience alimentaire face aux crises géopolitiques.",
+      "Donner une réponse ambitieuse et pragmatique à la souveraineté alimentaire.",
+      "Assurer la sécurité d'approvisionnement à long terme.",
+      "Équilibrer transition écologique et soutien aux secteurs agricoles stratégiques.",
+      "Renforcer les chaînes de production locales face à l'importation dépendante."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Occuper une position de leadership européen en matière de sécurité alimentaire, en combinant souveraineté industrielle et transition écologique. L'acteur vise à renforcer les réserves stratégiques tout en développant des infrastructures agricoles durables, avec un accent particulier sur l'hydrogène vert pour la fertilisation. Il défend une approche qui intègre à la fois la modernisation de l'agriculture européenne et la protection des secteurs traditionnels face aux pressions internationales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La réserve stratégique à 9 mois permet de renforcer la résilience alimentaire face aux crises géopolitiques comme l'invasion ukrainienne, en évitant les ruptures de chaînes d'approvisionnement.",
+      "Les aides conditionnées à la transition agroécologique favorisent des pratiques durables tout en soutenant les producteurs européens, renforçant leur compétitivité face aux importations non réglementées.",
+      "Le fonds européen pour la relocalisation alimentaire stimule l'économie rurale et réduit la dépendance aux importations, particulièrement pertinent dans le contexte post-pandémique.",
+      "Le label européen de circuits courts valorise les producteurs locaux tout en facilitant le suivi des normes sanitaires et environnementales, renforçant l'image européenne de qualité.",
+      "La limitation à 3 mois de la réserve stratégique compromettrait la sécurité alimentaire face aux perturbations soudaines, comme les catastrophes climatiques ou les tensions diplomatiques.",
+      "Exclure certains produits agricoles de la réserve réduit la flexibilité des politiques sectorielles, pénalisant particulièrement les cultures stratégiques pour la biodiversité.",
+      "Le soutien prioritaire aux grandes exploitations risque d'accroître l'inégalité entre les exploitants familiaux et les multinationales agricoles, fragilisant les chaînes de production locales.",
+      "Reporter l'application de la directive de deux ans compromettrait la mise en œuvre des mesures cruciales pour la sécurité alimentaire au moment où les pressions géopolitiques s'accroissent."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen défend cet amendement qu'elle a elle-même proposé, car il aligne avec sa vision de renforcer la sécurité alimentaire européenne face aux crises géopolitiques. La réserve à 9 mois permet d'assurer une résilience à long terme tout en favorisant l'intégration des énergies propres dans le secteur agricole, comme l'hydrogène vert.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient cette mesure pour favoriser des pratiques durables, mais conditionne son application à un suivi rigoureux de l'impact sur les petites exploitations agricoles, afin d'éviter une dépendance excessive aux grands groupes.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds renforcerait l'économie rurale européenne et réduirait la dépendance aux importations, tout en facilitant une transition écologique de l'agriculture. Il favoriserait également les coopératives agricoles.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE",
+        "justification": "Ce label améliorerait la traçabilité des produits agricoles et renforcerait les liens entre producteurs et consommateurs, tout en valorisant l'agriculture européenne.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure compromettrait la sécurité alimentaire face aux crises géopolitiques, en particulier dans un contexte d'instabilité croissante. Elle pénaliserait les pays dépendants des importations.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion risque d'affecter des cultures stratégiques pour la biodiversité et la sécurité alimentaire. Renouveau Européen propose toutefois une révision des critères d'inclusion.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure risque d'accentuer l'inégalité entre les exploitants familiaux et les grands groupes agricoles, fragilisant la chaîne de production européenne.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure retarderait la mise en œuvre des mesures cruciales pour la sécurité alimentaire, au moment où les pressions géopolitiques s'accroissent.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur agricole et objectifs climatiques (particulièrement en France, Italie). Évaluer régulièrement impact des mesures sur les petites exploitations. Surveiller les conflits potentiels avec les lobbies de l'agrochimie.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "parti",
+    "generated_at": "2025-10-30T11:58:49.550381",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Promouvoir une agriculture durable respectueuse de la biodiversité.",
+      "Lier sécurité alimentaire et transition écologique.",
+      "Réduire l'impact environnemental de l'agriculture intensive.",
+      "Soutenir les circuits courts et l'autosuffisance locale agricole.",
+      "Renforcer la relocalisation des chaînes d'approvisionnement alimentaire.",
+      "Protéger les petits producteurs contre les subventions inéquitables"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Verts/Alliance Libre Européenne (Verts/ALE) adopte une stratégie proactive pour intégrer des critères environnementaux stricts dans les politiques agricoles de l'UE. Le parti insiste sur la nécessité d'une transition radicale vers l'agroécologie, en conditionnant les aides agricoles à des engagements concrets en matière de réduction des pesticides, de préservation de la biodiversité et de soutien aux circuits courts. Cette approche vise à renforcer la résilience des systèmes agricoles face au changement climatique tout en favorisant une distribution plus équitable des subventions européennes vers les exploitations respectueuses de l'environnement. Le parti prône également une coopération étroite avec les pays membres progressistes et des lobbies innovants pour accélérer la transition écologique, tout en s'opposant fermement aux politiques qui privilégient les intérêts des industries fossiles ou de l'agrochimie.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Renouveau Européen (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (soutien aux subventions traditionnelles secteur agricole)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les amendements de Verts/ALE favorisent une agriculture durable, en réduisant la dépendance aux intrants chimiques et en valorisant les pratiques respectueuses de l'environnement.",
+      "La conditionnalité des aides à la transition agroécologique renforce la responsabilité des exploitants agricoles dans la préservation des sols et de la biodiversité.",
+      "Le financement d'un fonds européen pour la relocalisation alimentaire permettrait de réduire les impacts environnementaux liés au transport international des denrées alimentaires.",
+      "La création d'un label européen de circuits courts favoriserait l'autoconsommation locale et réduirait le gaspillage alimentaire, en encourageant une consommation plus responsable.",
+      "Le soutien aux petites exploitations agricoles permettrait de préserver la diversité des systèmes agricoles et de renforcer la résilience face au changement climatique.",
+      "La limitation de la réserve stratégique à 3 mois pourrait fragiliser la sécurité alimentaire européenne en réduisant les stocks de produits essentiels, surtout en période de crise."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE juge cette mesure incohérente avec ses objectifs de transition écologique radicale. Une réserve stratégique prolongée pourrait maintenir des pratiques agricoles intensives et freiner la relocalisation alimentaire, contraire à sa vision d'une agriculture durable.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par Verts/ALE, est central pour son programme politique. Il conditionne explicitement le financement agricole européen aux engagements concrets en matière de réduction des produits chimiques, d'agroécologie et de préservation des sols.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE soutient cet amendement comme un levier crucial pour réduire l'empreinte carbone des chaînes d'approvisionnement et renforcer les circuits locaux. Il aligne parfaitement avec sa vision d'une agriculture autonome et durable.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE",
+        "justification": "Ce label favoriserait la consommation responsable et le soutien aux producteurs locaux. Verts/ALE considère que ce dispositif renforce la résilience des systèmes agricoles face au changement climatique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE estime que cette durée est trop courte pour assurer une véritable sécurité alimentaire. Cependant, elle pourrait être acceptable si accompagnée de mesures de relocalisation agricole.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure pourrait marginaliser des productions locales et favoriser les importations d'agriculture intensive. Verts/ALE préfère une approche holistique qui valorise toutes les formes de production agricole.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE",
+        "justification": "Cette proposition va à l'encontre des principes de Verts/ALE, qui prône la protection des petits producteurs et la diversité agricole. Elle pourrait concentrer les subventions sur des structures industrielles non durables.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE considère que ce report pourrait freiner la transition écologique. L'urgence climatique exige une mise en œuvre rapide des politiques agricoles durables.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "notes_internes": "Surveiller les tensions entre lobbies énergies fossiles et propositions de transition écologique. Prioriser la collaboration avec les partis progressistes pour renforcer le soutien aux circuits courts. Évaluer régulièrement l'impact des subventions agricoles sur les petits producteurs.",
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "parti",
+    "generated_at": "2025-10-30T12:14:49.878889",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Non-porteur - Soutien conditionnel avec accent sur la subsidiarité et la prudence budgétaire.",
+    "enjeux_directive": [
+      "Limiter les coûts du stockage stratégique.",
+      "Préserver l'autonomie nationale dans la gestion agricole.",
+      "Éviter une centralisation excessive des politiques agricoles.",
+      "Assurer un équilibre entre objectifs climatiques et compétitivité industrielle."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne.",
+      "La directive doit être adaptée pour respecter les principes de subsidiarité et de fiscalité prudente."
+    ],
+    "stratégie": "Mettre en avant la subsidiarité et plaider pour des mécanismes flexibles. Prioriser des solutions nationales et sectorielles plutôt que des approches centralisées à l'échelle européenne. Défendre des objectifs climatiques ambitieux mais réalisables, en évitant les surcoûts budgétaires non maîtrisés. Collaborer avec des acteurs favorables à un renforcement de la souveraineté nationale, tout en restant ouvert à des coopérations transnationales stratégiques (ex : projets d'innovation numérique).",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Agrochimie (soutien aux grands exploitants agricoles, inquiétude sur relocalisation)"
+    ],
+    "éléments_d_argumentaire": [
+      "La subsidiarité doit primer pour éviter une décentralisation excessive des décisions stratégiques, particulièrement dans les secteurs de l'énergie et de l'agriculture.",
+      "Les mesures climatiques doivent être conçues en tenant compte des réalités économiques nationales, avec un équilibre entre ambitions écologiques et préservation des emplois industriels.",
+      "La directive ne doit pas imposer une uniformisation des politiques agricoles : chaque État membre doit avoir la liberté de choisir ses modèles de production (ex. : soutien aux grandes exploitations vs agroécologie).",
+      "Les investissements européens doivent favoriser les secteurs stratégiques pour l'Europe, comme l'énergie nucléaire, l'industrie automobile et les technologies numériques, tout en évitant les surcoûts non maîtrisés.",
+      "La relocalisation alimentaire doit être encouragée, mais dans des conditions qui ne pénalisent pas la compétitivité agricole européenne (ex. : soutien aux petits producteurs, réduction des contraintes réglementaires).",
+      "Les réserves stratégiques doivent être gérées de manière flexible pour s'adapter aux besoins nationaux, tout en évitant une centralisation excessive qui pourrait limiter l'autonomie des États membres.",
+      "La transition énergétique doit être progressive et adaptée aux spécificités géographiques et économiques de chaque pays (ex. : soutien au nucléaire en France vs priorité à l'hydrogène vert en Italie).",
+      "Les lobbies pro-industrie (Big Tech, Automobile) doivent être associés à la conception des politiques européennes pour garantir un équilibre entre innovation et régulation."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure permettrait de renforcer l'autonomie nationale dans la gestion des stocks énergétiques, tout en évitant une surcharge budgétaire. Cependant, elle doit être accompagnée d'une flexibilité pour s'adapter aux besoins spécifiques des États membres (ex. : Allemagne et France, qui dépendent fortement du nucléaire).",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'ECR est opposé à toute conditionnalité excessive des aides agricoles, car cela risquerait de pénaliser les pays membres (ex. : Italie) et les petits producteurs. Cependant, un soutien ciblé pour l'agroécologie peut être envisagé à titre expérimental.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds pourrait renforcer l'autosuffisance agricole européenne, en particulier dans les régions rurales (ex. : Allemagne, Italie). Cependant, il doit être conçu pour ne pas limiter la compétitivité des exportations agricoles européennes.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un label européen pourraient renforcer la transparence et la confiance des consommateurs dans les circuits courts. Cependant, il doit être conçu en collaboration avec les agriculteurs (ex. : France) pour éviter une réglementation trop lourde.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure est inacceptable pour l'ECR, car elle limiterait l'autonomie des États membres dans la gestion de leurs stocks énergétiques. Elle pourrait également nuire aux secteurs stratégiques (ex. : France et Allemagne) qui dépendent du nucléaire.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "NEUTRE",
+        "justification": "L'ECR reste neutre sur cette proposition, car elle pourrait entraîner des tensions entre les pays membres (ex. : Italie et France), qui dépendent de différents produits agricoles pour leur sécurité alimentaire.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'ECR est ouvert à un soutien ciblé pour les grandes exploitations agricoles, à condition que cela ne pénalise pas les petits producteurs (ex. : Italie). Cependant, la priorité doit être donnée à des modèles durables et compétitifs.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette proposition permettrait d'assurer une mise en œuvre plus réfléchie de la directive, tout en évitant un recul des objectifs climatiques. Cependant, elle doit être accompagnée d'une évaluation rigoureuse des impacts économiques et sociaux.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Big Tech (favorables à la directive) et Énergies fossiles (opposées). Évaluer impact des mesures sur les petites exploitations agricoles (Italie, France). Maintenir un équilibre entre objectifs climatiques et préservation de la souveraineté nationale.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "parti",
+    "generated_at": "2025-10-30T12:30:25.738249",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Soutenir les petits producteurs et l'agriculture paysanne.",
+      "Renforcer la souveraineté alimentaire par la relocalisation.",
+      "Promouvoir la justice sociale et l'accès à une alimentation de qualité.",
+      "Protéger les exploitations agricoles familiales contre la concentration des terres.",
+      "Assurer un financement équitable pour les transitions écologique et énergétique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Faire pression pour une orientation sociale et redistributive des politiques agricoles, en combinant un plaidoyer fort pour la transition écologique radicale avec une défense du modèle de production locale. La stratégie implique d'encourager les initiatives régionales de relocalisation alimentaire tout en critiquant les logiques capitalistes dominantes dans l'agro-industrie. Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) s'appuie sur une dialectique entre objectifs climatiques et justice sociale, en insistant sur la nécessité d'une transition énergétique rapide qui ne pénalise pas les plus vulnérables. Une priorité est donnée à la coordination avec les mouvements sociaux des secteurs agricoles et des services publics.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à la relocalisation alimentaire et aux quotas de production verte)",
+      "Big pharma (opposition au contrôle des prix des médicaments en Europe)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition écologique doit être conçue comme un levier pour réduire les inégalités plutôt qu'un frein à l'économie.",
+      "L'agriculture paysanne est une alternative viable aux modèles agro-industriels dominants, en préservant la biodiversité et la souveraineté alimentaire.",
+      "Les réserves stratégiques doivent être gérées de manière transparente pour éviter les distorsions du marché et garantir l'accès à tous.",
+      "La relocalisation alimentaire renforce l'indépendance des pays européens face aux crises géopolitiques, comme celles affectant la chaîne d'approvisionnement en céréales.",
+      "Le financement de la transition écologique doit être équitablement réparti entre les régions et les secteurs économiques, avec un accent particulier sur les zones rurales défavorisées.",
+      "Les grands lobbies industriels doivent être contraints d'adopter des pratiques durables via des réglementations strictes et des taxes carbone progressives.",
+      "La justice sociale exige une réforme du financement de la PAC pour favoriser les petits exploitants, au lieu de subventionner les grandes multinationales agricoles."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) soutient cet amendement comme un compromis nécessaire pour renforcer la sécurité alimentaire européenne tout en ne sacrifiant pas les objectifs climatiques. Cependant, elle exige que cette mesure soit accompagnée de politiques de relocalisation et d'investissements dans des énergies propres.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement correspond parfaitement aux priorités de GUE/NGL, qui défendent un modèle agricole basé sur l'agroécologie et la réduction des intrants chimiques. Il permet d'influencer positivement les pratiques agricoles tout en renforçant la résilience des exploitations.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) est l'initiateur de cet amendement, qui vise à financer des projets locaux de production et de distribution alimentaire. Cet instrument permettrait d'accélérer la transition vers une économie alimentaire plus équitable et résiliente face aux crises climatiques et géopolitiques.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) soutient activement la création d'un label pour les circuits courts, qui favorise l'économie locale et réduit l'empreinte carbone liée aux transports. Cela renforce également le lien entre producteurs et consommateurs.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) considère que cette proposition est trop rigide et pourrait compromettre la sécurité alimentaire, surtout en période de crise. Elle préfère une approche plus flexible combinée à des mesures de relocalisation.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "DEFAVORABLE",
+        "justification": "Cet amendement est opposé par GUE/NGL car il risque d'accentuer les inégalités entre les pays membres, en favorisant certaines productions tout en marginalisant d'autres. Il pourrait également fragiliser des secteurs agricoles locaux.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) s'oppose fermement à cette proposition, qui va à l'encontre de ses valeurs défendant la souveraineté alimentaire et le soutien aux petits producteurs. Cela favoriserait une concentration des terres au détriment de la biodiversité.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Cet amendement est rejeté par GUE/NGL car il retarderait une transition nécessaire et pourrait permettre aux intérêts économiques dominants de s'adapter sans contraintes. L'urgence climatique exige des actions immédiates.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions agricoles de l'Est et les politiques climatiques. Évaluer l'impact des mesures d'aides conditionnées sur les petits exploitants en Europe centrale. Surveiller la coordination avec les partis verts nordiques pour éviter une fragmentation du bloc écologiste.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "parti",
+    "generated_at": "2025-10-30T12:47:29.529047",
+    "version": "4.7"
+  }
+]

@@ -1,0 +1,747 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, en défendant l'innovation technologique, le libre-échange numérique et l'évolutivité des régulations. Privilégie un cadre européen harmonisé pour éviter la fragmentation des marchés tout en garantissant des standards élevés de cybersécurité et de protection des données.",
+    "enjeux_directive": [
+      "Établir un cadre juridique clair pour l'IA appliquée à la défense sans compromettre les principes éthiques européens",
+      "Assurer une gouvernance transatlantique des infrastructures numériques critiques (5G, cloud, IA) face aux concurrents mondiaux comme la Chine et les États-Unis",
+      "Promouvoir une régulation proportionnelle qui évite le surréglementation technologique tout en protégeant la souveraineté numérique européenne",
+      "Intégrer les plateformes numériques dans les mécanismes de coopération transfrontalière pour lutter contre la cybercriminalité et les menaces hybridées"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech, notamment en matière de responsabilité légale des algorithmes d'IA appliqués à la défense",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés par les dispositions sur la souveraineté numérique européenne",
+      "Le secteur devra s'adapter à une réglementation plus rigoureuse sur la traçabilité des données utilisées dans les systèmes de défense"
+    ],
+    "stratégie": "Big Tech adopte une double stratégie : d'une part, un lobbying actif auprès des États membres et des institutions européennes pour promouvoir une régulation technologique équilibrée qui favorise l'innovation tout en garantissant la sécurité numérique européenne ; d'autre part, une approche de co-construction avec les parties prenantes (partis politiques, pays, autres lobbies) pour intégrer des dispositions flexibles sur l'IA appliquée à la défense et la cybersécurité. Le lobby s'appuie sur des alliances stratégiques avec des acteurs qui partagent ses priorités technologiques et économiques, tout en négociant des compromis avec les opposants pour éviter un blocage de la directive.",
+    "alliances": [
+      "France (collaboration sur les infrastructures numériques critiques et l'innovation technologique)",
+      "Italie (partage d'intérêts dans le développement de la cybersécurité militaire et des systèmes de défense basés sur l'IA)",
+      "Verts/ALE (soutien à une transition écologique numérique, y compris pour les technologies vertes en IA et en cloud computing)",
+      "S&D (priorité aux investissements dans la formation technologique et les infrastructures numériques accessibles aux régions défavorisées)",
+      "Big Tech (innovation sur les systèmes d'intelligence artificielle appliqués à la défense et à la cybersécurité européenne)",
+      "Automobile (protection des secteurs industriels stratégiques liés à l'industrie 4.0, y compris les applications de l'IA dans le transport)",
+      "Banque (soutien aux investissements structuraux dans les technologies numériques et la fintech européenne)"
+    ],
+    "oppositions": [
+      "Pologne (préférence pour une régulation moins stricte sur les technologies numériques, en faveur du libre-échange international)",
+      "Conservateurs (soutien à une transition progressive vers des normes technologiques européennes, plutôt qu'à un cadre rigide)",
+      "Énergies fossiles (opposition aux dispositions qui pourraient limiter l'utilisation des technologies numériques dans le secteur énergétique traditionnel)"
+    ],
+    "éléments_d_argumentaire": [
+      "La régulation technologique stricte risque de décourager les investissements en Europe, favorisant ainsi la concentration des innovations dans d'autres régions du monde",
+      "Une gouvernance européenne unifiée des technologies critiques (IA, 5G) renforcerait la souveraineté numérique et réduirait les dépendances à l'égard des acteurs non européens",
+      "L'intelligence artificielle appliquée à la défense doit être développée dans un cadre éthique qui garantisse la sécurité européenne tout en respectant les droits de l'homme",
+      "Les plateformes numériques ont un rôle clé dans la lutte contre la cybercriminalité et doivent être intégrées aux mécanismes européens de coopération transfrontalière",
+      "La réglementation excessive des données pourrait nuire à la compétitivité des entreprises technologiques européennes sur les marchés mondiaux",
+      "Une approche équilibrée entre innovation et régulation est nécessaire pour éviter le surréglementation technologique qui freinerait l'émergence de startups et d'entreprises innovantes en Europe"
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur Big Tech et les partis favorables à une régulation plus stricte (comme les Verts/ALE) sur l'IA appliquée à la défense. Évaluer les risques de fragmentation des marchés technologiques européens si les pays comme la Pologne s'opposent à un cadre commun. Surveiller également les pressions des lobbies d'autres secteurs (comme l'énergie fossile) qui pourraient influencer l'intégration des technologies numériques dans les politiques sectorielles.",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Big Tech s'aligne sur cette proposition pour renforcer l'influence européenne dans les institutions multilatérales, notamment en matière de normes technologiques mondiales. Cela permettrait d'assurer une représentation équitable des intérêts européens dans les organismes internationaux liés à la cybersécurité et aux technologies numériques.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient en principe cette initiative, mais souligne l'importance d'intégrer les plateformes numériques dans le financement de la diplomatie préventive. Cela permettrait une meilleure coordination entre les acteurs technologiques et les politiques diplomatiques européennes.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cette proposition, car elle ne touche pas directement aux intérêts du secteur technologique. Cependant, il pourrait être utile d'explorer des collaborations avec les institutions européennes pour former des diplomates spécialisés en technologies numériques.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette proposition car elle renforcerait la coopération européenne dans les crises technologiques et cybersécuritaires. Cela permettrait une réponse plus rapide et coordonnée aux menaces transfrontalières liées à la cybercriminalité.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cette proposition car elle pourrait limiter l'influence européenne dans les institutions internationales. Cependant, il convient de réfléchir à une approche plus ciblée et stratégique pour garantir la représentation des intérêts européens.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cette proposition car elle pourrait créer des tensions internes au sein de l'Union européenne. Il est essentiel de maintenir une approche inclusive pour garantir la cohésion politique et technologique européenne.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cette proposition, car elle ne concerne pas directement les intérêts du secteur technologique. Cependant, il pourrait être utile de renforcer la coordination entre les diplomates et les acteurs technologiques pour mieux répondre aux défis mondiaux.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cette proposition car elle pourrait retarder l'adoption d'un cadre technologique européen harmonisé. Cela risquerait de permettre à des acteurs non européens de dominer le marché international de la technologie.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T19:41:07.351449",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des énergies fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Protéger l’accès aux ressources stratégiques.",
+      "Assurer que l’armée européenne sécurise les approvisionnements.",
+      "Maintenir la compétitivité économique des secteurs dépendant des énergies fossiles (charbon, pétrole).",
+      "Préserver les emplois dans les régions économiquement vulnérables dépendantes du charbon (ex. Pologne, Hongrie)."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Énergies Fossiles.",
+      "Les intérêts économiques et stratégiques de Énergies Fossiles sont directement concernés."
+    ],
+    "stratégie": "Énergies Fossiles adopte une stratégie de résistance progressive à la transition énergétique, combinée à des alliances ciblées avec des pays membres dépendants des énergies fossiles (ex. Pologne) et des partis favorables à un rythme lent de décarbonisation (ex. Conservateurs). Son objectif est de maintenir le statut actuel du secteur jusqu’à la mise en place d’alternatives économiquement viables, tout en défendant les intérêts stratégiques liés à la sécurité énergétique de l’UE. Pour cela, elle s’appuie sur des arguments économiques (stabilité des prix), géopolitiques (dépendance aux importations) et sociaux (préservation des emplois dans les régions industrielles). Elle favorise également des compromis technologiques comme le captage et stockage du CO₂ ou l’hydrogène bleu, présentés comme des solutions transitoires.",
+    "alliances": [
+      "Pologne (dépendance au charbon + défense de la sécurité énergétique nationale)",
+      "Hongrie (opposition aux moratoires sur le charbon + soutien à l’industrie pétrolière)",
+      "Conservateurs (préférence pour une transition progressive vs radicale)",
+      "Verts/ALE (soutien partiel à la transition mais en favorisant des solutions technologiques intermédiaires comme l’hydrogène bleu)",
+      "S&D (priorité aux investissements régions défavorisées, y compris celles dépendantes du charbon)",
+      "Big Tech (soutien aux infrastructures numériques liées à la production d’énergie fossile)",
+      "Automobile (protection des secteurs industriels stratégiques dépendants des hydrocarbures)"
+    ],
+    "oppositions": [
+      "France (privilégie le nucléaire et les énergies renouvelables + objectifs climatiques ambitieux)",
+      "Suède (favorise la transition écologique radicale + soutien aux énergies renouvelables marines)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires et taxes carbone)",
+      "Conservateurs (défendent une approche plus prudente mais critiquent les mesures d’accélération de la directive)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition rapide vers les énergies renouvelables menace la sécurité énergétique européenne, en particulier dans les régions dépendantes des importations.",
+      "Les investissements massifs nécessaires pour la transition écologique mettent en péril la compétitivité industrielle européenne, notamment dans le secteur automobile et l’industrie lourde.",
+      "Le développement de solutions intermédiaires comme l’hydrogène bleu ou le captage du CO₂ permet d’allier réduction des émissions et préservation des emplois traditionnels.",
+      "Les pays membres dépendants du charbon (ex. Pologne) ne peuvent se conformer aux objectifs climatiques sans un soutien financier significatif de l’UE.",
+      "La directive risque de fragmenter la politique énergétique européenne en favorisant des approches divergentes entre les États membres, menaçant ainsi l’unanimité nécessaire pour une transition harmonisée.",
+      "Les mesures actuelles ne prennent pas suffisamment en compte la réalité des marchés mondiaux et le rôle stratégique du pétrole dans la géopolitique internationale."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "L’élargissement de la représentation unique à toutes les organisations internationales renforce la position stratégique des États membres dépendants des énergies fossiles, en leur permettant d’influencer plus directement les décisions multilatérales. Cela favorise également une coordination accrue avec les pays producteurs de pétrole et de charbon pour garantir la sécurité énergétique globale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que la diplomatie préventive puisse renforcer la stabilité internationale, les ressources allouées à ce fonds pourraient être mieux utilisées pour soutenir les régions économiquement vulnérables dépendantes des énergies fossiles plutôt que pour des objectifs géopolitiques moins immédiats.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure favorise une meilleure coordination européenne en matière de diplomatie, ce qui peut renforcer l’influence collective des États membres sur les négociations internationales. Cependant, elle nécessite un financement adéquat pour garantir la participation effective de tous les pays concernés.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "DEFAVORABLE",
+        "justification": "Un mécanisme de solidarité diplomatique pourrait renforcer la dépendance européenne à des décisions collectives, limitant la capacité individuelle des États membres à agir dans leur propre intérêt énergétique. Cela risque d’entraver la flexibilité nécessaire pour répondre aux crises locales.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Cette proposition restreindrait l’influence des États membres dépendants des énergies fossiles sur les décisions multilatérales, menaçant ainsi leur capacité à défendre leurs intérêts stratégiques dans le cadre de la transition écologique.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "L’exclusion d’États membres de la représentation unique affaiblirait l’influence collective des pays dépendants du charbon et du pétrole, compromettant la stabilité énergétique européenne. Cela pourrait également créer des tensions internes au sein de l’UE.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La diplomatie bilatérale permet aux États membres de mieux défendre leurs intérêts locaux, notamment en matière d’énergie. Cependant, il est essentiel de maintenir un équilibre entre la flexibilité nationale et l’harmonisation européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un report de deux ans permettrait aux États membres dépendants des énergies fossiles de se préparer plus efficacement à la transition écologique, en évitant un impact brutal sur leur économie et leurs infrastructures existantes.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "notes_internes": "Surveiller les tensions entre régions dépendantes du charbon (Pologne, Hongrie) et objectifs climatiques de la directive. Équilibrer les intérêts des lobbies pétroliers avec les pressions des Verts/ALE pour une transition plus rapide. Évaluer l’impact des mesures sur la compétitivité industrielle de l’UE, notamment dans le secteur automobile.",
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T19:59:22.220410",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur bancaire et financier, influençant la législation européenne pour protéger la stabilité financière, encourager l'innovation technologique dans le secteur (comme la blockchain ou l'IA), et promouvoir des politiques favorables aux investissements transfrontaliers. Le lobby défend également des réglementations équilibrées qui évitent un sur-réglementation pouvant nuire à la concurrence européenne.",
+    "enjeux_directive": [
+      "Assurer une harmonisation des normes de capital et de risque pour renforcer la résilience du secteur bancaire européen face aux crises économiques.",
+      "Promouvoir l'adoption d'instruments financiers innovants (ex : titres vert, obligations climatiques) liés à la transition écologique et à l'économie circulaire.",
+      "Protéger les intérêts des institutions financières européennes dans un marché mondial concurrentiel, notamment face aux réglementations divergentes des États-Unis ou de Chine.",
+      "Faciliter le financement d'infrastructures critiques (énergie, transport, numérique) à l'échelle européenne tout en garantissant une répartition équitable des coûts et bénéfices entre les États membres."
+    ],
+    "impacts_directive": [
+      "La directive pourrait renforcer la coordination interbancaire au sein de l'UE, favorisant une meilleure résilience économique collective.",
+      "Les mesures liées à la transition écologique pourraient encourager des investissements massifs dans les énergies propres par le biais d'instruments financiers (ex : fonds verts).",
+      "Un cadre réglementaire trop rigide pourrait limiter l'innovation technologique ou augmenter les coûts opérationnels pour les banques européennes."
+    ],
+    "stratégie": "Le lobby Banque et Finance adopte une approche de coalition stratégique, s'appuyant sur des alliances avec des pays industriels comme la France et l'Italie, ainsi que des partis pro-économie (PPE) et des lobbies technologiques (Big Tech). Son objectif principal est de convaincre les décideurs européens que ses intérêts sont alignés sur les ambitions de croissance verte et numérique. Pour cela, il propose des compromis comme le financement des énergies propres à travers la création d'outils financiers innovants (ex : certificats carbone). Simultanément, il oppose fermement toute mesure qui risquerait de fragiliser la stabilité du secteur financier européen ou d'entraîner un déplacement de capitaux vers des régions moins réglementées. Le lobby mise également sur sa capacité à mobiliser des acteurs clés dans l'économie européenne (ex : Banque centrale européenne, grands groupes bancaires comme BNP Paribas) pour renforcer son influence.",
+    "alliances": [
+      "France (développement des produits financiers liés aux énergies propres et à la transition écologique)",
+      "Italie (partage de l'objectif d'établir un marché unique financier européen plus résilient face aux chocs économiques globaux)",
+      "Verts/ALE (soutien à la création de fonds verts européens, avec des conditions favorables aux banques participantes)",
+      "S&D (collaboration sur les mesures de protection sociale liées aux impacts de la transition écologique sur le secteur financier)",
+      "Big Tech (innovation dans les systèmes de paiement numériques et de gestion de risques via l'IA)",
+      "Automobile (soutien aux financements d'infrastructures liés à l'électrification des transports)",
+      "Banque (protection du rôle central des banques traditionnelles face à la concurrence des fintechs)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à toute harmonisation stricte des normes de capital, argumentant que cela pénaliserait les petites banques nationales)",
+      "Conservateurs (préférence pour une transition énergétique plus lente et progressive, réduisant ainsi la pression sur les secteurs financiers traditionnels)",
+      "Énergies fossiles (opposition aux fonds verts et aux certificats carbone, préférant des politiques favorables aux industries pétrolières et gazières)"
+    ],
+    "éléments_d_argumentaire": [
+      "La stabilité financière européenne dépend d'une réglementation équilibrée qui évite à la fois les risques systémiques et la sur-réglementation.",
+      "Les instruments financiers innovants (ex : titres vert, obligations climatiques) offrent des opportunités de croissance pour le secteur bancaire en attirant de nouveaux investisseurs.",
+      "Une coordination plus étroite entre les autorités bancaires européennes renforcerait la résilience face aux crises économiques globales (ex : crise de 2008, crise pandémique).",
+      "L'harmonisation des normes de capital et de risque permettrait une meilleure allocation des ressources financières à l'échelle européenne.",
+      "Les banques européennes doivent être soutenues dans leur transition vers des modèles plus durables (ex : fintech, blockchain) pour rester compétitives à l'international.",
+      "La France et l'Italie, comme acteurs majeurs de la finance européenne, défendent une approche collective plutôt qu'individuelle pour les décisions réglementaires.",
+      "Les partis pro-économie (PPE) et les lobbies technologiques (Big Tech) soutiennent des politiques favorables à l'innovation dans le secteur financier."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby Banque et Finance soutient cet amendement dans la mesure où une plus grande participation des institutions financières européennes aux organismes internationaux renforcerait leur influence sur les politiques monétaires globales. Cependant, il insiste sur la nécessité d'assurer un équilibre entre la représentation de l'UE et celle des États membres individuels pour éviter une perte de souveraineté nationale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby Banque et Finance juge que ce fonds pourrait détourner des ressources critiques du secteur financier, en particulier dans un contexte de crise économique. Cependant, il reconnaît l'importance d'une diplomatie préventive pour éviter des conflits qui pourraient perturber les marchés financiers mondiaux.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE",
+        "justification": "Ce dispositif permettrait de garantir que les représentants des banques et institutions financières européennes bénéficient d'une formation uniforme en diplomatie, ce qui renforcerait leur capacité à défendre les intérêts économiques européens sur la scène internationale. Cela favoriserait également une coordination plus étroite entre les acteurs du secteur financier.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Ce mécanisme serait particulièrement utile pour soutenir les pays européens en crise (ex : Italie, Grèce) face aux pressions financières internationales. Le lobby Banque et Finance souligne que la solidarité diplomatique renforcerait la stabilité économique européenne globale.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby Banque et Finance oppose cet amendement, car cela limiterait la capacité des acteurs financiers européens à participer activement aux décisions monétaires internationales. Il argue que cette limitation pourrait affaiblir l'influence de l'UE sur les politiques monétaires globales.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains États membres (ex : Hongrie, Pologne) réduirait la participation des acteurs financiers nationaux dans les décisions européennes. Le lobby Banque et Finance insiste sur l'importance d'une représentation équitable pour éviter une marginalisation de certains pays.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby Banque et Finance considère que la diplomatie bilatérale a sa place, mais insiste sur l'importance d'une approche collective européenne pour les questions transfrontalières. Une focalisation trop forte sur le bilatéralisme pourrait affaiblir la coordination nécessaire au sein de l'UE.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby Banque et Finance soutient un report temporaire de la mise en œuvre pour permettre une adaptation des réglementations nationales. Cependant, il préconise que ce report ne soit pas utilisé comme un moyen d'éviter les réformes nécessaires.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "notes_internes": "Surveiller tensions entre réglementation financière stricte et stabilité du secteur (ex : BNP Paribas, Crédit Agricole). Évaluer impact des mesures de transition écologique sur les banques traditionnelles versus fintechs. Recommander un suivi des débats entre PPE et Verts/ALE sur le rôle des banques dans la transition verte.",
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T20:18:54.546750",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne. Son objectif principal est de maintenir un équilibre entre la réglementation environnementale stricte et la protection des intérêts économiques du secteur, notamment en matière d'utilisation des pesticides, d'innovation technologique agricole, et de sécurité alimentaire.",
+    "enjeux_directive": [
+      "Assurer une protection militaire des chaînes logistiques agricoles.",
+      "Renforcer la sécurité alimentaire en temps de crise.",
+      "Protéger les brevets agrochimiques contre l'harmonisation européenne excessive.",
+      "Promouvoir des politiques favorables aux intrants agricoles à faible impact environnemental.",
+      "Influencer les normes de qualité des produits phytosanitaires pour préserver la compétitivité du secteur."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés.",
+      "Des mesures restrictives sur les produits chimiques agricoles pourraient réduire la marge bénéficiaire des entreprises du secteur."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie d'équilibre entre collaboration et résistance. Elle s'engage à soutenir certaines politiques européennes liées à l'innovation technologique agricole, comme la recherche sur les pesticides biosourcés, tout en contestant des réglementations jugées trop contraignantes pour sa rentabilité. Son approche privilégie les alliances stratégiques avec des pays producteurs de matières premières agricoles et des partis favorables à une transition écologique progressive. En parallèle, elle mobilise des lobbyings ciblés pour influencer les amendements visant à assouplit les normes environnementales. L'objectif est de maintenir sa position dominante tout en évitant d'être isolé politiquement.",
+    "alliances": [
+      "France (priorité aux innovations agricoles durables et à la sécurité alimentaire nationale)",
+      "Allemagne (collaboration sur les normes agricoles et la protection des exportations agricoles)",
+      "S&D (soutien aux investissements dans les régions rurales et aux politiques de développement rural)",
+      "Verts/ALE (mobilisation commune pour l'innovation technologique écologique en agrochimie)",
+      "Big Pharma (synergies sur la recherche pharmaceutique et agricole, notamment en biotechnologie)",
+      "Banque (soutien aux investissements dans les infrastructures agricoles modernisées)"
+    ],
+    "oppositions": [
+      "Hongrie (défense des pratiques agricoles traditionnelles et opposition à la réglementation environnementale stricte)",
+      "Conservateurs (préférence pour une transition énergétique et environnementale progressive plutôt qu'immédiate)",
+      "Énergies fossiles (conflict d'intérêts sur l'utilisation des terres agricoles pour les projets de conversion en carburants fossiles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La réglementation stricte des intrants agricoles menace la compétitivité du secteur européen face aux importations bon marché.",
+      "L'innovation technologique dans le domaine agrochimique est cruciale pour atteindre les objectifs climatiques européens sans compromettre la production alimentaire.",
+      "Les politiques de soutien à l'agriculture biologique doivent être équilibrées avec les besoins réels des producteurs agricoles.",
+      "La directive doit intégrer des mesures de compensation pour les régions rurales affectées par les restrictions sur les pesticides.",
+      "Un cadre réglementaire harmonisé est nécessaire pour prévenir la fuite des brevets agrochimiques vers d'autres marchés non régulés.",
+      "L'Agrochimie joue un rôle clé dans la sécurité alimentaire de l'Union européenne, notamment en période de crise géopolitique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car une plus grande participation des acteurs internationaux dans les négociations européennes pourrait favoriser l'harmonisation des normes agricoles mondiales, réduisant ainsi la pression sur le secteur européen face aux réglementations divergentes. Cela permettrait également de renforcer les accords commerciaux bilatéraux bénéfiques pour les exportateurs de produits agrochimiques.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "NEUTRE",
+        "justification": "Agrochimie adopte une position neutre envers cette proposition, car elle ne perçoit pas directement un lien entre le financement de la diplomatie préventive et ses intérêts. Cependant, elle reste ouverte à une collaboration sur des projets spécifiques liés à la sécurité alimentaire internationale.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose partiellement à cet amendement, car elle considère que les exigences de formation diplomatique pourraient entraver la réactivité des acteurs du secteur dans les négociations urgentes. Cependant, elle reste prête à participer à des formations ciblées sur les enjeux agricoles.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition qu'il inclue des mesures spécifiques pour protéger les chaînes logistiques agricoles pendant les crises géopolitiques. Cela renforcerait la sécurité alimentaire européenne tout en préservant les intérêts du secteur.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cet amendement, car elle estime qu'une limitation de la participation pourrait marginaliser les acteurs du secteur agricole dans les négociations européennes. Elle préfère une approche inclusive pour garantir que ses intérêts soient pleinement représentés.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cet amendement, car elle considère que l'exclusion d'états membres pourrait affaiblir les négociations européennes et fragiliser la cohésion interne de l'Union. Elle prône une approche collaborative plutôt qu'une exclusion sectorielle.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Agrochimie adopte une position neutre envers cette proposition, car elle ne perçoit pas de conflit immédiat entre son activité et les priorités diplomatiques bilatérales. Cependant, elle reste ouverte à des collaborations spécifiques sur des enjeux agricoles.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition qu'une période de transition soit utilisée pour harmoniser les normes agrochimiques entre les états membres et renforcer la coopération technologique. Cela permettrait de préserver la compétitivité du secteur tout en respectant les objectifs environnementaux.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Agrochimie et partis écologistes sur les normes de pesticides. Évaluer impact des réglementations énergétiques sur les infrastructures agricoles en Europe centrale. Recommander renforcement des collaborations avec le secteur automobile pour éviter un conflit d'intérêts sur l'utilisation des terres.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T21:12:07.090036",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, notamment sur les réglementations des médicaments innovants, l'accès aux fonds de recherche, et la protection des brevets. Le lobby vise à équilibrer la nécessité d'innovation avec les impératifs de santé publique.",
+    "enjeux_directive": [
+      "Sécuriser les financements publics pour la R&D pharmaceutique européenne dans un contexte de concurrence mondiale.",
+      "Protéger les brevets et les droits exclusifs sur les médicaments innovants face aux pressions des pays tiers et des ONG.",
+      "Assurer une réglementation harmonisée des médicaments génériques tout en maintenant la rentabilité des entreprises du secteur.",
+      "Renforcer la collaboration avec les États membres pour renforcer la résilience sanitaire de l'UE face aux crises pandémiques."
+    ],
+    "impacts_directive": [
+      "La directive pourrait modifier les cadres réglementaires européens en matière d'accès au marché des médicaments et de financement de la R&D.",
+      "Les entreprises pharmaceutiques devraient s'adapter à des politiques plus strictes sur la transparence des prix des médicaments, ce qui pourrait affecter leur rentabilité."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie de négociation à long terme visant à influencer les décisions politiques européennes. Il s'appuie sur des alliances stratégiques avec des pays membres qui partagent ses priorités en matière d'innovation et de financement de la recherche. En parallèle, il mobilise les partis européens favorables au libre-échange et à la protection de l'industrie pharmaceutique. Pour renforcer sa position, le lobby participe activement aux débats sur les amendements, en s'engageant à défendre des mesures qui favorisent l'innovation tout en garantissant la durabilité financière du secteur. Il collabore également avec d'autres lobbies comme Big Tech et Agrochimie pour créer des synergies dans la recherche et le développement technologique.",
+    "alliances": [
+      "France (partage objectif de promotion de l'innovation pharmaceutique et investissements en recherche)",
+      "Allemagne (collaboration sur les politiques d'harmonisation réglementaire européenne)",
+      "PPE (soutien à la protection des brevets et à la libre concurrence dans le secteur pharmaceutique)",
+      "S&D (priorité aux investissements publics en recherche médicale et santé publique)",
+      "Big Tech (synergies technologiques pour l'innovation pharmaceutique et les outils numériques de santé)",
+      "Agrochimie (collaboration sur la recherche biotechnologique et les solutions alternatives en santé)"
+    ],
+    "oppositions": [
+      "Énergies fossiles (préférence pour des politiques économiques sectorielles qui ne priorisent pas la santé publique)",
+      "Verts/ALE (soutien à une régulation plus stricte sur les prix des médicaments et l'accès aux génériques)",
+      "Conservateurs (préférence pour un marché libre sans contraintes réglementaires trop strictes)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur pharmaceutique est un moteur d'innovation dans la santé publique européenne, nécessitant des financements stables et des protections juridiques solides.",
+      "La protection des brevets est essentielle pour encourager l'investissement dans la recherche sur les médicaments innovants.",
+      "Les politiques européennes doivent favoriser une régulation équilibrée qui assure à la fois un accès équitable aux traitements et la viabilité économique du secteur pharmaceutique.",
+      "La collaboration entre le sector pharmaceutique, les gouvernements et les institutions de recherche est cruciale pour renforcer la résilience sanitaire européenne face aux crises globales.",
+      "Le lobby pharmaceutique appuie des politiques qui promeuvent l'innovation technologique dans le développement des médicaments, en s'appuyant sur les synergies avec d'autres secteurs comme Big Tech.",
+      "Il est essentiel de maintenir une politique européenne qui favorise la concurrence juste et la libre circulation des médicaments pour protéger l'intérêt général."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le lobby pharmaceutique et les partis favorables à une régulation plus stricte sur les prix des médicaments. Évaluer l'impact des amendements sur la compétitivité du secteur face aux concurrents non européens. Surveiller les alliances avec Big Tech et Agrochimie pour identifier d'éventuelles synergies ou conflits d'intérêts.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T20:35:47.246468",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'extension de la représentation unique aux organismes internationaux pourrait renforcer l'influence du lobby pharmaceutique sur les politiques mondiales en matière de santé publique, notamment pour défendre des normes élevées en matière d'innovation et de sécurité des médicaments. Cela permettrait également une meilleure coordination entre les acteurs européens et internationaux.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "NEUTRE",
+        "justification": "Le lobby pharmaceutique reste neutre sur ce point, car les fonds de diplomatie préventive ne sont pas directement liés à ses intérêts sectoriels. Cependant, il pourrait s'engager dans des initiatives de coopération internationale en matière de santé publique.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby pharmaceutique s'oppose partiellement à cette condition, car elle pourrait limiter l'autonomie des acteurs du secteur dans les négociations internationales. Cependant, il est ouvert à une formation commune si celle-ci concerne spécifiquement la régulation mondiale de l'industrie pharmaceutique.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "L'instauration d'un mécanisme de solidarité diplomatique est bénéfique pour le lobby pharmaceutique, car elle permettrait une meilleure coordination dans les crises sanitaires mondiales. Cela renforcerait la position européenne sur les politiques de santé publique.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby pharmaceutique s'oppose à cette limitation, car elle pourrait restreindre son influence sur les politiques internationales en matière de santé publique. Il défend une approche ouverte et collaborative.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion d'États membres pourrait fragiliser l'influence du lobby pharmaceutique en Europe. Le secteur préfère une approche inclusive pour renforcer la coopération européenne sur les politiques de santé.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Le lobby pharmaceutique reste neutre sur cette proposition, car il défend une approche européenne en matière de coordination des politiques de santé. Cependant, il est ouvert à un équilibre entre diplomatie bilatérale et multilatérale.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby pharmaceutique s'oppose à ce report, car il pourrait retarder l'harmonisation des politiques européennes en matière d'accès aux médicaments et de régulation. Une application rapide est considérée comme un avantage pour le secteur.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile européen (constructeurs, fournisseurs de pièces, équipementiers) et cherche à influencer la législation européenne sur la transition énergétique, l'industrialisation, la formation professionnelle, et la concurrence internationale. Son objectif principal est de protéger les intérêts économiques du secteur tout en s'adaptant aux exigences climatiques européennes.",
+    "enjeux_directive": [
+      "Développer des véhicules électriques compétitifs pour maintenir la position dominante de l'industrie européenne dans le marché mondial.",
+      "Assurer un financement adéquat pour les recherches technologiques (batteries, hydrogène) et la formation professionnelle liée à la transition vers une mobilité durable.",
+      "Protéger les emplois dans les usines traditionnelles face à la décarbonation accélérée.",
+      "Influencer l'harmonisation des normes européennes pour éviter un fragmentage réglementaire nuisible à l'économie de l'industrie automobile."
+    ],
+    "impacts_directive": [
+      "La directive pourrait accélérer la transition vers une industrie automobile plus verte, mais risque d'accroître les coûts opérationnels des entreprises si les normes environnementales sont trop strictes.",
+      "L'industrie automobile pourra bénéficier de financements européens pour moderniser ses usines et investir dans la production de véhicules électriques ou à hydrogène, mais cela dépendra de l'adoption d'amendements favorables au secteur."
+    ],
+    "stratégie": "La stratégie du lobby automobile est basée sur un mélange de négociation proactive et de lobbying ciblé. L'objectif est de s'assurer que les directives européennes ne menacent pas la rentabilité des entreprises, tout en favorisant une transition énergétique progressive qui permette à l'industrie européenne de rester compétitive sur le marché mondial. Pour atteindre cet objectif, le lobby automobile collabore étroitement avec les grands pays membres (comme la France et l'Italie) qui dépendent fortement du secteur automobile. Il s'appuie également sur des partis politiques européens comme le PPE et le S&D pour influencer les décisions politiques, tout en formant des alliances stratégiques avec d'autres secteurs économiques (comme la Banque) pour obtenir un financement adéquat. En parallèle, il s'oppose aux amendements qui pourraient accélérer la transition énergétique de manière trop brutale ou imposer des normes trop restrictives à l'industrie automobile.",
+    "alliances": [
+      "France (collaboration sur les projets d'hydrogène vert et d'investissements dans le secteur automobile bas-carbone)",
+      "Italie (partage de l'objectif de relance industrielle et des investissements dans la production de véhicules électriques)",
+      "Verts/ALE (soutien à la transition écologique, en particulier sur les véhicules électriques et l'électrification du transport routier)",
+      "S&D (priorité aux investissements dans les régions défavorisées et au financement de la formation professionnelle pour le secteur automobile)",
+      "Big Tech (innovation technologique dans les infrastructures numériques liées à la mobilité intelligente)",
+      "Banque (soutien aux investissements structuraux pour moderniser l'industrie automobile et financer des projets de transition énergétique)",
+      "Automobile (protection des secteurs industriels stratégiques, comme la production de véhicules électriques et de pièces automobiles)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux moratoires sur le charbon et défense des industries fossiles qui pourraient affecter l'industrie automobile)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt qu'une approche radicale, ce qui pourrait nuire à la compétitivité de l'industrie automobile européenne)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires et favorables à des solutions plus traditionnelles pour le secteur automobile)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'industrie automobile est un pilier économique majeur de l'Union européenne, représentant des millions d'emplois directs et indirects. Il est crucial de la protéger contre les mesures trop restrictives qui pourraient menacer sa viabilité à long terme.",
+      "La transition vers une mobilité durable (voitures électriques, hydrogène) doit être accompagnée d'un soutien financier important pour que les entreprises européennes puissent s'adapter efficacement sans perdre leur compétitivité sur le marché mondial.",
+      "Le lobby automobile défend la nécessité de financer des projets technologiques innovants qui permettront à l'industrie européenne de rester en tête dans le développement de véhicules électriques, de pièces automobiles durables et d'autres solutions de mobilité écologique.",
+      "La formation professionnelle est un élément clé pour assurer la transition vers une économie automobile bas-carbone. Il faut que les directives européennes prennent en compte cette dimension pour garantir l'emploi et la compétence des travailleurs du secteur.",
+      "Les normes environnementales doivent être harmonisées à l'échelle européenne pour éviter un fragmentage réglementaire qui pourrait pénaliser les entreprises européennes face aux concurrents internationaux.",
+      "Il est essentiel de maintenir une coopération étroite entre le secteur automobile et d'autres acteurs économiques (comme la Banque) afin de garantir un financement adéquat pour la transition énergétique. Cela permettra à l'industrie européenne de rester compétitive.",
+      "Les mesures réglementaires doivent être adaptées aux réalités des entreprises européennes, en particulier celles qui dépendent fortement du secteur automobile. Il est important d'éviter les approches trop radicales ou abruptes qui pourraient nuire à la croissance économique.",
+      "Le lobby automobile appuie la nécessité de s'adapter aux exigences climatiques européennes tout en maintenant une industrialisation durable et compétitive. Cela implique des investissements massifs, mais aussi un soutien politique fort."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de la représentation unique aux organisations internationales permettrait d'améliorer la coordination entre le secteur automobile européen et ses partenaires globaux. Cela faciliterait l'échange d'informations, la standardisation des normes technologiques, et les collaborations commerciales transfrontalières, ce qui est crucial pour maintenir la compétitivité du secteur automobile.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "NEUTRE",
+        "justification": "Le lobby automobile est neutre envers cet amendement car il ne perçoit pas directement de lien entre le financement de la diplomatie préventive et l'industrie automobile. Cependant, si ce fonds peut contribuer à stabiliser les marchés internationaux et promouvoir des partenariats commerciaux avantageux pour le secteur automobile, cela pourrait être favorable.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby automobile est partiellement opposé à cet amendement, car il considère que les compétences spécifiques du secteur automobile ne sont pas nécessairement liées à la formation diplomatique. Cependant, s'il pouvait y avoir une collaboration entre le secteur automobile et des experts en diplomatie pour promouvoir des politiques commerciales favorables au secteur, cela pourrait être bénéfique.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby automobile pourrait être favorable à cet amendement si le mécanisme de solidarité diplomatique permet d'assurer une continuité des échanges commerciaux et des partenariats internationaux, même en cas de crise. Cela serait bénéfique pour le secteur automobile qui dépend fortement des marchés globaux.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby automobile s'oppose à cet amendement, car il pourrait limiter l'accès des entreprises européennes à des marchés internationaux. Une restriction de la représentation unique pourrait entraver les collaborations commerciales et technologiques cruciales pour le développement du secteur automobile.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby automobile s'oppose à l'exclusion de certains États membres de la représentation unique, car cela pourrait fragiliser les relations commerciales et technologiques entre le secteur automobile européen et ses partenaires internationaux. Une telle exclusion pourrait nuire à la compétitivité du secteur automobile.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby automobile s'oppose partiellement à cet amendement, car il préfère une approche européenne coordonnée plutôt qu'une diplomatie bilatérale nationale. Cependant, s'il pouvait y avoir un équilibre entre les deux, cela pourrait permettre de mieux défendre les intérêts du secteur automobile à l'échelle internationale.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby automobile pourrait être favorable à cet amendement si le report permettait d'assurer une transition plus progressive et mieux préparée pour le secteur automobile. Cela donnerait aux entreprises plus de temps pour s'adapter aux nouvelles réglementations, ce qui serait bénéfique pour leur rentabilité.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la transition énergétique et la compétitivité du secteur automobile. Évaluer régulièrement l'impact des mesures climatiques sur les entreprises européennes (comme Volkswagen, Renault) et les régions fortement dépendantes de l'industrie automobile (Allemagne, France). Recommander une collaboration étroite avec le secteur énergétique pour assurer un passage fluide vers une mobilité durable.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T20:54:55.383457",
+    "version": "4.7"
+  }
+]

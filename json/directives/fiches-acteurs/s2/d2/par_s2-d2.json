@@ -1,0 +1,765 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur - Soutient une augmentation significative du budget à 0,7% du PIB.",
+    "enjeux_directive": [
+      "Porter une politique de défense ambitieuse européenne.",
+      "Augmenter la capacité opérationnelle et industrielle.",
+      "Développer la recherche en cybersécurité via un fonds européen dédié.",
+      "Promouvoir la coopération transfrontalière pour l'acquisition d'équipements militaires.",
+      "Renforcer les formations des forces armées européennes pour moderniser les capacités opérationnelles.",
+      "Encourager une transition progressive vers des technologies de défense bas-carbone tout en soutenant les industries nationales."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Renouveau Européen adopte une stratégie multifacette axée sur la défense, la technologie et les partenariats stratégiques. En matière de budget de défense, le parti insiste fermement pour atteindre 0,7% du PIB, considérant cela comme un pilier essentiel de l'indépendance européenne et de sa capacité à répondre aux menaces géopolitiques croissantes. Pour soutenir cette ambition, le parti s'appuie sur des alliances transversales avec des pays membres engagés dans une modernisation industrielle (comme la France et l'Italie), des partis européens favorables à la transition écologique et technologique (Verts/ALE, S&D) ainsi que des secteurs économiques clés tels que Big Tech et l'industrie automobile. Ces collaborations permettent de concilier les impératifs de défense avec la nécessité d'une transition énergétique durable. En parallèle, Renouveau Européen cherche à limiter l'influence des lobbies traditionnels de l'énergie fossile et des industries moins innovantes, en favorisant un modèle économique basé sur la technologie verte, l'innovation numérique et les collaborations transfrontalières. Cette approche vise à renforcer la cohésion européenne tout en maintenant une souveraineté industrielle forte, notamment dans les secteurs stratégiques comme l'aéronautique, la défense et les énergies propres.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à l'harmonisation des budgets de défense européens)"
+    ],
+    "éléments_d_argumentaire": [
+      "La montée en puissance des acteurs non occidentaux exige une augmentation du budget européen de défense pour préserver la souveraineté stratégique.",
+      "L'intégration technologique et industrielle européenne est indispensable pour rivaliser avec les géants mondiaux comme les États-Unis ou la Chine.",
+      "La transition écologique doit s'accompagner de solutions technologiques innovantes, notamment en cybersécurité et en énergies propres, pour éviter un décalage entre ambitions climatiques et capacités opérationnelles.",
+      "La coopération transfrontalière permet d'éviter les redondances industrielles tout en renforçant l'unité européenne face aux menaces externes.",
+      "Les investissements dans la formation militaire doivent être prioritaires pour moderniser les forces armées européennes et leur donner une capacité opérationnelle à la hauteur des défis contemporains.",
+      "Le soutien aux industries de défense nationales est crucial pour éviter un déclin technologique et industriel qui pourrait affaiblir l'indépendance européenne."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre industries traditionnelles (pétrole, charbon) et secteurs innovants (cybersécurité, énergies propres). Évaluer l'impact des divergences régionales sur la répartition des fonds de défense. Veiller à l'équilibre entre objectifs climatiques et impératifs militaires.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen est l'initiateur de cet amendement et défend fermement son adoption. Cet objectif aligne les priorités européennes sur la sécurité stratégique, tout en renforçant la capacité industrielle européenne pour produire des équipements de défense durables et innovants. Il permet également d'éviter une dépendance excessive vis-à-vis des fournisseurs non européens.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'industrialisation de la cybersécurité est cruciale pour protéger les infrastructures critiques et assurer la souveraineté numérique européenne. Ce fonds permettrait de coordonner des investissements transnationaux, évitant ainsi une fragmentation technologique entre pays membres.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure favorise une harmonisation industrielle européenne, mais doit être accompagnée de garanties pour les pays membres plus petits ou moins développés technologiquement. Un mécanisme de soutien à la transition vers des standards communs est nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "La modernisation des capacités opérationnelles exige une formation continue et adaptée aux nouvelles technologies. Cet amendement permet de renforcer la cohérence entre les réformes militaires et l'innovation technologique.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Un budget trop faible compromettrait la capacité européenne à répondre aux menaces géopolitiques croissantes. Cet amendement ne serait pas compatible avec les objectifs de souveraineté stratégique définis par Renouveau Européen.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'inclusion de tous les pays membres dans les projets d'achats communs est essentielle pour renforcer l'unité européenne. Cependant, une exclusion temporaire pourrait être envisagée si certains États ne respectent pas des critères mínimaux de coopération ou de transparence.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "Le soutien aux industries de défense est indispensable pour éviter une dépendance excessive vis-à-vis des fournisseurs étrangers. Cet amendement renforce la souveraineté industrielle européenne tout en favorisant l'innovation technologique.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report compromettrait la mise en œuvre rapide des mesures clés pour renforcer la défense européenne. Renouveau Européen préfère une application immédiate, associée à un suivi régulier de l'impact des mesures pour ajuster les priorités.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T08:52:08.337868",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates (S&D)",
+    "actor_id": "sd",
+    "role_europeen": "Porteur - Prône la mise en place d’un fonds européen pour la cybersécurité.",
+    "enjeux_directive": [
+      "Renforcer la protection des infrastructures critiques.",
+      "Soutenir la recherche et innovation en cyberdéfense.",
+      "Promouvoir une transition écologique radicale et équitable.",
+      "Assurer l'égalité d'accès aux fonds européens pour les régions défavorisées.",
+      "Coopérer transfrontalièrement dans le domaine de la défense.",
+      "Équilibrer sécurité nationale et solidarité européenne."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Les S&D défendent une approche proactive pour la directive, combinant renforcement des capacités cybernétiques européennes avec un engagement fort en faveur d'une transition écologique ambitieuse. Ils privilégient des investissements structurels dans les secteurs stratégiques (défense, énergies propres) tout en exigeant une répartition équitable des fonds entre les régions. Leur stratégie se base sur la coopération transfrontalière, l'innovation technologique et la défense des intérêts des travailleurs dans les industries de pointe. Ils s'opposent à toute mesure qui compromettrait la souveraineté européenne ou entraverait l'égalité d'accès aux financements communs.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à l'harmonisation des normes européennes dans la défense)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les S&D mettent en avant l'urgence climatique et la nécessité d'accélérer les investissements dans les énergies propres, y compris le nucléaire, pour atteindre la neutralité carbone d'ici 2045.",
+      "Ils défendent une approche de solidarité européenne en garantissant que les fonds européens soient répartis de manière équitable entre toutes les régions, y compris les plus défavorisées.",
+      "La création d'un fonds dédié à la recherche en cybersécurité est vue comme un pilier essentiel pour protéger l'Union contre les cyberattaques et renforcer ses capacités technologiques.",
+      "Les S&D s'opposent fermement à tout moratoire sur le charbon, arguant qu'il pénaliserait les pays membres qui dépendent encore de ce secteur, sans garantir une transition énergétique rapide et juste.",
+      "Ils soutiennent la coopération transfrontalière dans les domaines de la défense et de l'énergie, considérant que cela renforcera la cohésion européenne et réduira les coûts logistiques.",
+      "Les S&D insistent sur la nécessité d'investir massivement dans la formation des forces armées européennes pour garantir une capacité opérationnelle commune face aux menaces actuelles.",
+      "Ils défendent un rôle central des secteurs industriels stratégiques (automobile, aéronautique) dans la chaîne de valeur européenne, en les protégeant contre les délocalisations et en favorisant l'innovation technologique.",
+      "Les S&D s'opposent à toute exclusion d'États membres des achats communs, estimant que cela fragiliserait la solidarité européenne et pourrait entraîner une fragmentation des marchés."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions industrielles (Big Pharma, Automobile) sur les réformes réglementaires. Évaluer impact de la transition énergétique sur les pays dépendants du charbon (Pologne, Hongrie). Surveiller risques de fragmentation des marchés européens en cas d'exclusion d'États membres.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Les S&D soutiennent cet amendement car il aligne les objectifs européens avec une approche proactive en matière de sécurité collective. Une augmentation du budget de défense est nécessaire pour renforcer la capacité opérationnelle commune et répondre aux menaces géopolitiques actuelles, tout en garantissant l'équité entre les États membres.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Les S&D soutiennent fermement cet amendement comme pilier essentiel de la stratégie européenne en matière de cybersécurité. Un fonds dédié permettrait d'accélérer les investissements technologiques et de renforcer la coopération entre les États membres, protégeant ainsi l'Union contre les cyberattaques.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les S&D appuient cet amendement en théorie, mais soulignent que sa mise en œuvre doit garantir un accès équitable aux États membres, notamment ceux qui ne disposent pas de ressources technologiques ou industrielles suffisantes. Une approche flexible est nécessaire pour éviter une fragmentation des capacités européennes.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "Les S&D défendent cet amendement car une formation commune des forces armées est essentielle pour renforcer la cohésion européenne et assurer une capacité opérationnelle coordonnée. Cela permettrait également de standardiser les pratiques et d'améliorer l'efficacité des interventions communes.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Les S&D s'opposent à cet amendement car il limiterait les capacités européennes en matière de sécurité. Une augmentation des budgets militaires est nécessaire pour répondre aux menaces actuelles et assurer la souveraineté européenne, tout en évitant une fragmentation entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Les S&D s'opposent à cet amendement en raison des risques de fragmentation européenne et des inégalités entre les États membres. Cependant, ils reconnaissent que certaines exclusions pourraient être justifiées dans le cadre d'une transition énergétique ou industrielle spécifique, sous réserve d'un suivi rigoureux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les S&D soutiennent cet amendement en théorie, mais insistent sur la nécessité d'une coordination européenne pour éviter une concurrence déloyale entre les États membres. Une approche équilibrée est indispensable pour garantir la compétitivité des industries européennes tout en renforçant la solidarité.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Les S&D s'opposent à cet amendement car il retarderait la mise en œuvre d'une stratégie européenne essentielle. Une application rapide est nécessaire pour renforcer les capacités européennes et éviter une fragmentation des efforts entre les États membres.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T08:34:39.895573",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur - Demande une coopération renforcée et un encadrement éthique des opérations.",
+    "enjeux_directive": [
+      "Encadrer les opérations dans le respect des droits fondamentaux.",
+      "Promouvoir une défense européenne cohérente et responsable.",
+      "Intégrer la transition écologique dans les cadres de coopération stratégique.",
+      "Assurer un équilibre entre souveraineté nationale et solidarité européenne en matière de défense."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne.",
+      "Les objectifs climatiques de la directive renforcent le rôle de leader écologiste des Verts."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-2C",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "Verts/ALE adopte une approche axée sur la transition écologique et l'innovation technologique pour renforcer la défense européenne. Son objectif principal est d'intégrer des critères environnementaux dans les opérations militaires, tout en favorisant un partenariat transnational qui réduit la dépendance aux énergies fossiles. La stratégie vise à promouvoir l'utilisation de technologies vertes et durables (comme l'hydrogène vert) pour moderniser les capacités défensives européennes. En parallèle, Verts/ALE insiste sur un encadrement strict des opérations en matière de droits fondamentaux et de protection des civils. L'alliance entre la défense européenne et l'agenda climatique est centrale pour garantir une sécurité collective basée sur les principes de durabilité. Les Verts s'appuient également sur des partenariats avec des acteurs industriels innovants (comme les entreprises technologiques) pour concilier objectifs stratégiques et transition écologique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Renouveau Européen (soutien innovation technologique défense durable)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La défense européenne doit intégrer des normes environnementales strictes pour éviter les dégâts écologiques liés aux opérations militaires.",
+      "Les investissements dans les énergies propres (comme l'hydrogène vert) renforcent la sécurité stratégique en réduisant la dépendance aux ressources fossiles.",
+      "La coopération transfrontalière est essentielle pour éviter la fragmentation des capacités défensives et favoriser une approche unifiée de la sécurité européenne.",
+      "Les droits fondamentaux doivent être garantis dans tous les cadres opérationnels, y compris ceux liés à la défense.",
+      "L'innovation technologique est cruciale pour moderniser la défense européenne tout en respectant les objectifs climatiques.",
+      "Une approche transnationale permet de réduire les inégalités régionales et d'assurer une répartition équitable des ressources stratégiques.",
+      "Les Verts/ALE s'appuient sur le soutien des secteurs industriels durables pour concilier ambitions écologiques et compétitivité économique."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la défense européenne et l'agenda climatique, notamment avec des acteurs comme le secteur automobile (Volkswagen, BMW) et les industries fossiles. Évaluer régulièrement l'équilibre entre objectifs de sécurité nationaux et solidarité européenne. Veiller à éviter une concentration excessive des investissements dans les pays nordiques au détriment des régions méditerranéennes.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE estime que l'augmentation du budget militaire doit être conditionnée à la transition écologique et aux investissements dans les énergies propres. Cependant, un financement modéré de la défense est nécessaire pour garantir la sécurité européenne tout en respectant les objectifs climatiques.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE soutient ce fonds car il favorise l'innovation technologique et renforce les capacités européennes de défense tout en assurant une approche éthique dans la cybersécurité. Cet amendement aligne stratégies militaires et responsabilité numérique.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE est l'initiateur de cet amendement. Il vise à renforcer les liens entre les pays européens et à éviter une fragmentation des capacités militaires. Cela favorise une approche stratégique unifiée tout en garantissant la transparence dans l'utilisation des équipements.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/ALE appuie l'idée d'une formation renforcée des forces armées, à condition qu'elle intègre des modules sur la protection de l'environnement et les droits humains. Cela garantirait une défense européenne plus responsable.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE estime que cette limite compromettrait la capacité de l'Europe à assurer sa sécurité. Une réduction excessive des budgets militaires pourrait affaiblir la coopération européenne et nuire aux objectifs stratégiques.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE s'oppose à cette exclusion car elle risque de fragiliser la solidarité européenne. Une approche inclusive est préférable pour renforcer l'intégration stratégique et éviter une fragmentation des capacités militaires.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "NEUTRE",
+        "justification": "Verts/ALE ne prend pas position ferme sur cet amendement. Cependant, elle insiste sur l'importance d'une coopération transnationale et d'une approche écologique pour les industries de défense.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE estime que ce report pourrait ralentir les progrès vers une défense européenne plus durable. Cependant, des mesures d'adaptation doivent être prises pour assurer la transition écologique dans le cadre stratégique.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T09:09:02.184632",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Porteur - Met l’accent sur le besoin d’une formation européenne commune des forces.",
+    "enjeux_directive": [
+      "Professionnaliser et harmoniser les standards militaires.",
+      "Optimiser les capacités opérationnelles.",
+      "Renforcer la coopération transfrontalière dans les domaines stratégiques.",
+      "Assurer une transition progressive mais efficace vers des armées européennes intégrées.",
+      "Mettre en place des mécanismes de financement innovants pour soutenir la défense européenne."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen.",
+      "Le positionnement de Parti Populaire Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Le PPE adopte une approche centrale sur la consolidation des capacités européennes, en insistant sur la nécessité d'une défense commune renforcée par des investissements ciblés dans les technologies militaires et la formation. Il prône une coopération transfrontalière structurée pour éviter la fragmentation des efforts nationaux, tout en maintenant un équilibre entre l'indépendance stratégique des États membres et la synergie européenne. Le parti met également l'accent sur le développement de cadres européens d'éducation et de formation militaire pour répondre aux défis sécuritaires contemporains, tout en soutenant les industries de défense nationales pour préserver la souveraineté industrielle européenne. Il privilégie une transition progressive vers des objectifs climatiques ambitieux dans le secteur de la défense, associée à une modernisation technologique et à l'innovation sectorielle.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Renouveau Européen (favorable à un élargissement plus lent de la défense commune)"
+    ],
+    "éléments_d_argumentaire": [
+      "La défense européenne doit être une priorité stratégique pour renforcer la souveraineté collective face aux menaces géopolitiques et cybernétiques.",
+      "L'harmonisation des standards militaires permettra d'améliorer l'efficacité opérationnelle et de réduire les coûts de duplication des équipements.",
+      "Le soutien aux industries de défense nationales est crucial pour maintenir la compétitivité industrielle européenne dans un contexte de délocalisation et de concurrence mondiale.",
+      "La formation commune des forces armées européennes favorise une culture militaire partagée, essentielle à l'intégration stratégique.",
+      "L'investissement dans les technologies émergentes (cybersécurité, drones, IA) doit être priorisé pour garantir la modernisation de la défense européenne.",
+      "La transition écologique dans le secteur militaire est un levier stratégique pour aligner la défense sur les engagements climatiques européens tout en préservant l'efficacité opérationnelle.",
+      "Les fonds communs doivent être répartis de manière équitable entre les États membres, en tenant compte des disparités économiques et géographiques.",
+      "La coopération transfrontalière doit être conditionnée à une gouvernance partagée pour éviter la fragmentation des initiatives nationales."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les industries de défense traditionnelles (ex : entreprises allemandes, italiennes) et les objectifs climatiques de la directive. Évaluer l'impact des mesures sur les régions périphériques (ex : Sud de l'Italie, Est de la Pologne). Surveiller le risque de déséquilibres économiques entre pays contributeurs et bénéficiaires.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T08:17:13.759728",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement car il correspond à ses objectifs d'harmonisation européenne des budgets militaires et à sa vision stratégique d'une Europe plus sécurisée. L'augmentation du budget de défense à 0,7 % du PIB permettrait une modernisation technologique et une meilleure répartition des ressources entre les États membres, tout en renforçant la capacité opérationnelle collective.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Le PPE considère que l'innovation technologique dans le domaine de la cybersécurité est cruciale pour répondre aux menaces géopolitiques. La création d'un fonds dédié permettrait de consolider les capacités européennes en matière de défense numérique, tout en favorisant la coopération entre les États membres.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE appuie cette mesure pour promouvoir une gouvernance commune des investissements européens. Cependant, il souligne l'importance de garantir un équilibre entre la coopération transfrontalière et la souveraineté nationale, en veillant à ce que les États membres puissent conserver une certaine flexibilité dans leur utilisation des équipements.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par le PPE, vise à renforcer la cohésion stratégique des forces armées européennes. Le développement d'un programme de formation commune est essentiel pour créer une culture militaire partagée et améliorer l'efficacité opérationnelle, tout en préservant les spécificités nationales.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE considère que cette limite est inadaptée et risque d'entraîner un sous-financement des capacités militaires européennes. Une réduction excessive du budget de défense pourrait compromettre la capacité de l'Europe à répondre aux menaces géopolitiques, en particulier face à des acteurs non démocratiques.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose à cette mesure car elle pourrait renforcer les fractures entre les États membres. Cependant, il reconnaît que certaines exclusions peuvent être justifiées si elles sont motivées par des considérations de sécurité ou d'intégration stratégique.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "Le PPE défend fermement cet amendement car il favorise la préservation de l'indépendance industrielle européenne. Le soutien aux secteurs de défense nationaux est crucial pour maintenir une compétitivité technologique face à des acteurs mondiaux tels que les États-Unis ou la Chine.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Le PPE adopte une position neutre sur cet amendement. Bien qu'il reconnaisse l'utilité d'un délai pour permettre aux États membres de s'adapter, il préconise un report modéré et conditionné à des mesures de coordination européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Opposant - Prudence sur le niveau des dépenses et la portée des outils communs.",
+    "enjeux_directive": [
+      "Protéger la souveraineté nationale face aux décisions européennes centralisées.",
+      "Limiter les engagements budgétaires excessifs pour préserver l'autonomie des États membres.",
+      "Soutenir les industries de défense et énergétique nationales contre une intégration trop poussée.",
+      "Assurer un rythme progressif dans la transition écologique, compatible avec les intérêts économiques."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR) en matière de défense nationale et de souveraineté économique.",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision d'une Europe plus fragmentée, avec des politiques nationales plutôt qu'européennes centralisées."
+    ],
+    "stratégie": "Conservateurs et Réformistes Européens (ECR) adopte une stratégie de résistance à l'intégration européenne excessive, en défendant un rôle renforcé pour les États membres dans la prise de décision. Sur la directive, le groupe milite pour des budgets de défense modérés tout en soutenant les industries nationales (comme la production d'énergie nucléaire). Il oppose une transition écologique radicale et prône un moratoire sur les mesures restrictives vis-à-vis des énergies fossiles. En matière de coopération européenne, il favorise les initiatives transfrontalières qui préservent l'autonomie nationale tout en renforçant la sécurité collective.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'ECR prône un budget de défense modéré, centré sur la protection nationale plutôt que sur des dépenses européennes communes. Cela permet d'éviter une dilution des responsabilités entre les États membres.",
+      "Le groupe défend l'idée qu'une transition écologique radicale doit être progressive pour ne pas nuire à l'économie européenne, notamment aux secteurs industriels traditionnels.",
+      "L'ECR s'oppose à une intégration trop poussée dans la coopération en défense et en énergie, considérant que cela compromettrait la souveraineté nationale.",
+      "Le parti soutient la préservation des industries de défense nationales, comme les équipements militaires ou l'énergie nucléaire, face à une concurrence européenne trop rigoureuse.",
+      "L'ECR critique le financement commun de projets européens, jugeant que cela pourrait marginaliser certains pays membres moins développés, créant des tensions économiques internes.",
+      "Le groupe défend un moratoire sur les mesures restrictives envers les énergies fossiles, arguant qu'elles restent nécessaires pour assurer la sécurité énergétique européenne.",
+      "L'ECR est favorable à une coopération transfrontalière dans des domaines stratégiques comme la cyberdéfense ou l'innovation technologique, mais uniquement si cela ne remet pas en cause les intérêts nationaux."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Conservateurs et Réformistes Européens (ECR) soutient cet amendement si le financement est axé sur des projets nationaux de défense et d'énergie, comme le développement du nucléaire ou la modernisation des forces armées. Cela permettrait de renforcer la souveraineté militaire européenne tout en limitant l'interdépendance budgétaire entre les États membres.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'ECR approuve ce projet, car il permettrait de renforcer la défense numérique européenne sans compromettre l'autonomie des États membres. Cela favoriserait un partenariat technologique entre les pays européens tout en limitant les risques liés à la dépendance vis-à-vis de tiers.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Conservateurs et Réformistes Européens (ECR) s'oppose partiellement à cette mesure, car elle pourrait limiter l'accès des États membres à des équipements stratégiques en fonction de critères européens. Cependant, il accepte une coopération limitée dans des domaines comme la recherche scientifique ou la défense.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "ECR soutient cette proposition, car elle renforce la capacité des forces armées européennes à agir de manière autonome. Cela favorise une coopération militaire structurée tout en préservant les priorités nationales.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "ECR s'oppose à cet amendement, car il considère que cette limite est trop restrictive pour assurer la sécurité européenne. Il préconise un budget plus élevé, mais conditionné par des investissements dans des secteurs stratégiques comme l'énergie nucléaire.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "ECR s'oppose à cette mesure, car elle risque de marginaliser certains pays membres moins développés. Il préfère une approche inclusive, mais avec des conditions strictes pour garantir l'autonomie nationale.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "ECR approuve cet amendement, car il protège les secteurs industriels stratégiques tels que l'énergie nucléaire ou la production d'armes. Cela favorise une indépendance technologique et économique européenne.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "ECR soutient un report partiel, à condition que ce délai soit utilisé pour renforcer les capacités des États membres en matière de défense et d'énergie. Cela permettrait d'assurer une mise en œuvre plus efficace de la directive.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l'industrie allemande (Volkswagen, Siemens) et les objectifs climatiques. Le nucléaire reste un point délicat en France (réticences historiques régions). Équilibrer la transition énergétique avec la compétitivité du secteur automobile.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T09:26:07.596405",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Opposant - Refus d’une augmentation des dépenses militarisées et prône un budget plus modéré.",
+    "enjeux_directive": [
+      "Favoriser la paix et la diplomatie avant l’armement.",
+      "Limiter les dépenses au strict nécessaire.",
+      "Renforcer les politiques sociales et environnementales plutôt que les militaires.",
+      "Promouvoir une coopération transfrontalière non conditionnelle pour les projets d’intérêt commun.",
+      "Assurer la souveraineté des États membres sur les décisions stratégiques de défense."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "La GUE/NGL adopte une stratégie centrée sur la défense des valeurs sociales, environnementales et pacifistes au sein de l’Union européenne. Elle prône une réduction progressive des dépenses militaires en faveur d’un investissement accru dans les politiques publiques (santé, éducation, logement) et les transitions écologique et énergétique. L’alliance avec les partis verts et socialistes lui permet de structurer un front progressiste contre la militarisation européenne. Cependant, elle cherche à s’adapter aux réalités géopolitiques en soutenant des mesures de sécurité non conventionnelles (cybersécurité, défense technologique). Sa stratégie repose sur une négociation délibérée pour éviter les compromis qui renforceraient l’industrie militaire au détriment des secteurs civils. Elle préfère la coopération transfrontalière à la centralisation des armées européennes, en défendant le rôle des États membres dans la prise de décisions stratégiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Suède (soutien transition écologique + coopération transfrontalière Scandinavie)",
+      "Verts/ALE (soutien hydrogène vert + transition écologique)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Agrochimie (défense de l’agriculture paysanne et durabilité)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "PPE (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La militarisation de l’Union européenne menace les budgets alloués à la santé, à l’éducation et à la transition écologique.",
+      "Les dépenses militaires ne contribuent pas à la paix mais renforcent des industries polluantes et inégalitaires.",
+      "La défense devrait se concentrer sur des technologies non conventionnelles (cybersécurité, défense numérique) plutôt que sur l’armement classique.",
+      "Une coopération transfrontalière sans condition permettrait de renforcer la souveraineté européenne tout en évitant les inégalités entre États membres.",
+      "Les industries du secteur civil (agroalimentaire, énergie renouvelable) méritent un soutien prioritaire par rapport aux activités militaires.",
+      "L’investissement dans la formation des forces armées doit se faire avec des critères sociaux et écologiques stricts.",
+      "Les États membres doivent garder le contrôle stratégique sur leurs décisions de défense, plutôt que de les déléguer à une institution européenne centralisée."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL considère que cette augmentation des dépenses militaires n’est pas compatible avec ses objectifs sociaux et environnementaux. Elle prône une réduction progressive des budgets militaires en faveur d’investissements dans les politiques publiques, la transition écologique et l’éducation.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "La GUE/NGL soutient cette initiative car elle permet de renforcer la défense européenne sans recourir à l’armement classique. Ce fonds favoriserait des solutions technologiques innovantes et durables, alignées avec ses valeurs écologiques et sociales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La GUE/NGL défend une coopération transfrontalière libre et non conditionnelle. Cependant, elle accepte des critères de solidarité sociale et écologique pour garantir l’équité entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La GUE/NGL soutient cette mesure à condition qu’elle intègre des critères sociaux et écologiques stricts. Elle s’oppose à une militarisation excessive de la formation, qui pourrait renforcer l’industrie militaire au détriment du secteur civil.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition aligne les dépenses militaires sur les objectifs sociaux et environnementaux de la GUE/NGL. Elle permet d’investir davantage dans des secteurs civils comme l’énergie renouvelable, la santé et l’éducation.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL s’oppose à toute exclusion d’un État membre, car cela pourrait renforcer les inégalités entre les pays européens. Elle prône une coopération inclusive et équitable.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL considère que le soutien aux industries de défense nationales favorise l’industrie militaire au détriment des secteurs civils. Elle prône une transition vers des modèles économiques non militaristes.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "La GUE/NGL soutient cette mesure pour permettre une réflexion approfondie sur les impacts sociaux et environnementaux des dépenses militaires. Elle souhaite éviter les compromis hâtifs qui pourraient nuire à ses objectifs.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le soutien aux industries vertes (ex: énergies renouvelables en Allemagne) et la militarisation européenne. Évaluer l’impact de la directive sur les régions défavorisées, notamment en Italie et en Espagne. Assurer un suivi des relations avec les lobbies agrochimiques, qui pourraient influencer la transition écologique.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T09:42:53.017428",
+    "version": "4.7"
+  }
+]

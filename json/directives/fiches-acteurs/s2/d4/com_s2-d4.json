@@ -1,0 +1,146 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+  "enjeux_directive": [
+    "Garantir la sécurité alimentaire de l'Union européenne en réduisant la dépendance aux importations.",
+    "Soutenir la production agricole locale et les circuits courts pour renforcer la résilience.",
+    "Équilibrer souveraineté alimentaire, transition écologique et viabilité économique du secteur agricole.",
+    "Anticiper les tensions entre pays agricoles exportateurs et pays importateurs nets.",
+    "Promouvoir l'innovation technologique dans la chaîne agroalimentaire pour réduire les pertes de production.",
+    "Assurer une répartition équitable des ressources entre régions rurales et urbaines."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission européenne adopte une approche transversale et intégrée pour garantir la cohérence entre les objectifs climatiques, la sécurité alimentaire et l'équilibre économique. Elle privilégie le dialogue stratégique avec les États membres, les parties prenantes et les acteurs économiques pour aligner les mesures sur les priorités de l'Union. La stratégie se concentre sur trois piliers : 1) renforcer la résilience des chaînes alimentaires face aux crises géopolitiques, 2) accélérer la transition écologique du secteur agricole sans compromettre sa viabilité économique, et 3) assurer une gouvernance partagée entre les institutions européennes et les États membres. La Commission insiste sur l'harmonisation des politiques nationales pour éviter les distorsions de concurrence tout en soutenant les initiatives locales innovantes.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Pologne (défense des modèles agricoles traditionnels)",
+    "Big pharma (opposition à la réglementation stricte des produits alimentaires)"
+  ],
+  "éléments_d_argumentaire": [
+    "La directive permet de renforcer l'autosuffisance alimentaire européenne face aux crises géopolitiques, en réduisant la dépendance aux importations de pays tiers.",
+    "L'intégration des circuits courts favorise une économie locale plus résiliente, tout en soutenant les petits producteurs et les territoires ruraux.",
+    "La transition écologique du secteur agricole est incontournable pour atteindre les objectifs climatiques de l'Union européenne d'ici 2030.",
+    "Les mesures proposées évitent les distorsions de concurrence entre États membres en harmonisant les politiques agricoles et environnementales.",
+    "Le soutien aux innovations technologiques (agroécologie, agriculture de précision) améliore la productivité tout en préservant l'environnement.",
+    "La directive renforce la gouvernance européenne en garantissant une coordination efficace entre les institutions et les États membres.",
+    "Les mesures proposées permettent d'assurer un financement équitable des projets agricoles, y compris dans les régions défavorisées.",
+    "La Commission insiste sur l'équilibre nécessaire entre la souveraineté alimentaire et le respect des normes environnementales internationales."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "2-4A",
+      "titre": "Porter la réserve stratégique à 9 mois",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Cette mesure renforcerait la résilience des stocks alimentaires européens face aux crises géopolitiques. Cependant, elle nécessite une évaluation rigoureuse de l'impact sur les prix et la disponibilité des marchés agricoles.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Porter la réserve stratégique à 9 mois"
+    },
+    {
+      "amendement": "2-4B",
+      "titre": "Conditionner les aides à la transition agroécologique",
+      "position": "FAVORABLE",
+      "justification": "Ce dispositif aligne les politiques agricoles sur les objectifs climatiques de l'Union et favorise la durabilité environnementale. Il encourage également l'innovation dans les pratiques agricoles.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Conditionner les aides à la transition agroécologique"
+    },
+    {
+      "amendement": "2-4C",
+      "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+      "position": "FAVORABLE",
+      "justification": "Ce fonds permettrait de soutenir les projets de relocalisation agricole, en particulier dans les régions défavorisées. Il renforcerait également l'indépendance alimentaire européenne.",
+      "priorite": "très_haute",
+      "origine": "Gauche Unitaire",
+      "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+    },
+    {
+      "amendement": "2-4D",
+      "titre": "Créer un label européen de circuits courts",
+      "position": "FAVORABLE",
+      "justification": "Ce label favoriserait la visibilité des produits locaux, en renforçant les liens entre producteurs et consommateurs. Il stimulerait également l'économie rurale.",
+      "priorite": "moyenne",
+      "origine": "Socialistes & Démocrates",
+      "description": "Créer un label européen de circuits courts"
+    },
+    {
+      "amendement": "2-4E",
+      "titre": "Limiter la réserve stratégique à 3 mois",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Cette limite pourrait fragiliser les stocks alimentaires européens en cas de crise. Cependant, elle nécessite une analyse approfondie des risques liés aux fluctuations du marché.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Limiter la réserve stratégique à 3 mois"
+    },
+    {
+      "amendement": "2-4F",
+      "titre": "Exclure certains produits agricoles de la réserve",
+      "position": "DEFAVORABLE",
+      "justification": "L'exclusion de certains produits réduirait l'efficacité des réserves stratégiques. La Commission prône une approche globale et inclusive pour couvrir tous les besoins alimentaires.",
+      "priorite": "faible",
+      "origine": "Suède",
+      "description": "Exclure certains produits agricoles de la réserve"
+    },
+    {
+      "amendement": "2-4G",
+      "titre": "Soutenir prioritairement les grandes exploitations",
+      "position": "DEFAVORABLE",
+      "justification": "Cette mesure risquerait d'accentuer les inégalités entre les exploitations agricoles. La Commission préconise un soutien équilibré pour tous les acteurs du secteur.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement les grandes exploitations"
+    },
+    {
+      "amendement": "2-4H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Le report pourrait retarder des mesures essentielles pour renforcer la résilience alimentaire européenne. Cependant, une mise en œuvre progressive reste à étudier.",
+      "priorite": "faible",
+      "origine": "Hongrie",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "références": [
+    "s2d4.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller tensions entre agriculteurs traditionnels (Poland, France) et objectifs climatiques. Évaluer impact des politiques agricoles sur les régions méditerranéennes (Italie, Espagne). Surveiller l'équilibre entre soutien aux circuits courts et concurrence internationale.",
+  "metadata": {
+    "source_file": "s2-d4.json",
+    "type": "commission",
+    "directive_id": "2-4",
+    "tokens": {
+      "count": 748,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:46.031985",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 4,
+  "actor_type": "commission",
+  "generated_at": "2025-11-01T10:14:13.757964",
+  "version": "4.7"
+}

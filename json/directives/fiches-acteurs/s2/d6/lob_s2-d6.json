@@ -1,0 +1,749 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, en particulier sur les réglementations liées aux données numériques, à l'innovation technologique et à la concurrence dans le marché numérique européen.",
+    "enjeux_directive": [
+      "Attirer et conserver une main-d’œuvre qualifiée.",
+      "Éviter des contraintes trop lourdes qui freinent l’innovation.",
+      "Protéger les infrastructures numériques contre les réglementations excessives.",
+      "Assurer une harmonisation des standards européens en matière de cybersécurité et de données."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech, notamment sur la gouvernance des données et les obligations de transparence.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés par les dispositions relatives à la régulation de l'internet des objets (IoT) et aux plateformes numériques."
+    ],
+    "stratégie": "Big Tech adopte une stratégie de lobbying ciblée sur les instances européennes, en mettant l'accent sur les avantages économiques de la digitalisation et la nécessité d'une réglementation souple pour maintenir la compétitivité européenne. Elle s'appuie sur des alliances stratégiques avec des acteurs clés (partis pro-technologie, secteurs industriels innovants) tout en cherchant à neutraliser les oppositions venues de partis traditionalistes ou d'autres lobbies (comme celui de l'énergie fossile). La stratégie inclut également une communication proactive via des études et des rapports sur la croissance économique liée aux technologies numériques.",
+    "alliances": [
+      "France (partage objectif innovation technologique + investissements dans le numérique)",
+      "Italie (collaboration sur les infrastructures numériques énergies propres et l'innovation en santé digitale)",
+      "Verts/ALE (soutien à la transition écologique via des solutions numériques innovantes)",
+      "S&D (priorité investissements régions défavorisées dans le cadre de projets technologiques)",
+      "Big Tech (innovation infrastructures numériques et énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques via la digitalisation des processus)",
+      "Banque (soutien investissements structuraux en innovation numérique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à l’harmonisation des réglementations numériques et défense de son modèle de gouvernance internet interne)",
+      "Conservateurs (préférence pour une transition progressive vs radicale dans la régulation numérique)",
+      "Énergies fossiles (lobbies centrales charbon - opposés à l'intégration des normes numériques dans les projets énergétiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La digitalisation est un pilier de la croissance européenne, et une réglementation trop stricte pourrait décourager les investissements dans le secteur technologique.",
+      "Les infrastructures numériques sont essentielles pour garantir l'égalité d'accès à internet en Europe et promouvoir l'innovation inclusive.",
+      "La directive doit encourager une approche équilibrée entre la protection des données et la flexibilité nécessaire pour les entreprises technologiques, sans freiner la concurrence internationale.",
+      "L'internationalisation de Big Tech est un atout pour le marché européen, qui bénéficiera d'une réglementation cohérente à l'échelle continentale.",
+      "Les acteurs du numérique (Big Tech) jouent un rôle clé dans les secteurs stratégiques tels que la santé, l'éducation et l'industrie 4.0, et doivent être associés à la réflexion sur ces thèmes.",
+      "Une réglementation trop rigide pourrait pousser les entreprises technologiques vers des marchés non européens, diminuant ainsi l'avantage compétitif de l'UE.",
+      "La coopération européenne en matière d'intelligence artificielle et de cybersécurité doit s'appuyer sur les expertises du secteur numérique pour être efficace.",
+      "Les réglementations actuelles devraient favoriser la création de normes européennes communes, plutôt que d'impliquer des dispositions trop détaillées et techniques."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec le secteur énergétique (ex: Énergies fossiles) sur l'intégration des normes numériques dans les projets énergétiques. Position de Big Tech sur la régulation de l'internet des objets doit rester flexible pour éviter d'entraver la croissance industrielle technologique européenne. Recommander un suivi étroit des impacts des amendements sur la concurrence internationale.",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car il renforce le cadre de cybersécurité européen, ce qui est essentiel pour protéger les infrastructures numériques et assurer la confiance des utilisateurs envers les services technologiques. Une coopération accrue aidera à lutter plus efficacement contre les menaces transfrontalières.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie cet amendement à condition que les données partagées soient strictement protégées et qu'il ne soit pas utilisé pour imposer des contraintes inutiles sur les plateformes numériques. L'observatoire pourrait être un outil utile, mais sa mise en œuvre doit garantir la confidentialité de certaines informations sensibles.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "Big Tech approuve cet amendement car il renforce les normes européennes en matière de protection des données. Cela permettrait d'accroître la confiance des utilisateurs et d'éviter les abus potentiels par les gouvernements ou les entreprises.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cet amendement, car elle considère que les actions de lutte antiterroriste doivent rester sous la responsabilité des autorités nationales. Cependant, elle ne s'oppose pas à une coordination européenne si cela est nécessaire pour combattre efficacement le terrorisme numérique.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement, car elle estime que limiter la coopération pourrait fragiliser la lutte contre certaines formes de criminalité transfrontalière. Cependant, elle apprécie l'idée d'une approche ciblée pour éviter des abus de pouvoir.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement, car elle considère que l'exclusion d'États membres pourrait créer des inégalités dans la lutte contre la cybercriminalité et nuire à la coopération européenne globale. Une approche inclusive est nécessaire pour assurer une sécurité numérique robuste.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie cet amendement car elle considère que l'indépendance des systèmes judiciaires nationaux est essentielle pour garantir un cadre légal équilibré et respectueux de la propriété intellectuelle. Cela permettrait d'éviter une intervention excessive de l'UE dans les affaires juridiques locales.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement, car elle estime que reporter l'application de la directive pourrait ralentir la mise en place d'une réglementation cohérente pour le secteur numérique. Cependant, elle accepterait une période de transition si cela permettait des ajustements techniques importants.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-01T14:57:45.559444",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des Énergies Fossiles et cherche à influencer la législation européenne en défendant l'industrialisation bas-carbone, la continuité des infrastructures énergétiques conventionnelles, et la protection des actifs économiques liés aux combustibles fossiles. Privilégie une transition progressive tout en maintenant les revenus fiscaux générés par le secteur.",
+    "enjeux_directive": [
+      "Maintenir les autorisations d'exploitation des gisements de charbon dans les régions économiquement vulnérables (ex: Slovaquie, Pologne)",
+      "Protéger les investissements historiques dans le gaz naturel et les centrales thermiques",
+      "Éviter l'imposition de quotas de réduction des émissions liés aux industries extractives",
+      "Conserver les subventions publiques pour la recherche sur les technologies de stockage du CO₂",
+      "Soutenir la préservation des emplois dans les secteurs pétroliers et gaziers en Europe centrale"
+    ],
+    "impacts_directive": [
+      "La directive menace la viabilité économique des infrastructures énergétiques conventionnelles à court terme, en particulier pour les États membres dépendants du charbon",
+      "Les mesures de financement climatique ne sont pas alignées avec les objectifs de croissance industrielle du secteur fossile",
+      "L'absence d'exonérations fiscales pour les entreprises pétrolières pourrait entraîner un transfert de capitaux vers des régions non européennes"
+    ],
+    "stratégie": "Lobby Énergies Fossiles adopte une stratégie de négociation à trois niveaux : (1) Renforcer l'union stratégique entre les pays producteurs d'énergie fossile (Pologne, Hongrie, Italie) et les partis favorables aux investissements industriels (PPE, S&D), tout en s'appuyant sur des lobbies économiques comme Banque et Automobile pour défendre la compétitivité sectorielle. (2) Proposer un cadre de transition énergétique à horizon 2045 qui inclut une phase d'adaptation progressive des infrastructures, avec des subventions ciblées pour les régions en déclin économique. (3) Utiliser le lobbyisme indirect via les groupes économiques et les partis conservateurs pour influencer les décisions budgétaires européennes et maintenir les financements publics aux projets de gaz naturel liquéfié (GNL). L'objectif est d'équilibrer la pression climatique avec la préservation des emplois sectoriels, tout en évitant l'isolement géopolitique.",
+    "alliances": [
+      "France (collaboration sur les projets de stockage souterrain du CO₂ et rénovation industrielle)",
+      "Italie (partage d'intérêts sur la préservation des gisements pétroliers en mer Adriatique)",
+      "PPE (soutien aux investissements dans le gaz naturel et l'industrie chimique)",
+      "S&D (accord sur la répartition équitable des fonds climatiques entre les pays producteurs et consommateurs d'énergie fossile)",
+      "Verts/ALE (précision des critères pour le financement de projets de transition énergétique décarbonée)",
+      "Big Tech (coopération sur l'innovation technologique pour la capture du CO₂)",
+      "Banque (soutien aux investissements structuraux dans les infrastructures énergétiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la suppression des subventions fiscales pour le secteur pétrolier)",
+      "Conservateurs (préférence pour une transition plus lente et moins coûteuse en termes d'investissements publics)",
+      "Énergies fossiles (défiance face aux mesures de régulation des émissions sectorielles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition rapide vers les énergies renouvelables entraînerait un effondrement des budgets étatiques, particulièrement pour les pays dépendants du charbon (ex: Pologne)",
+      "Les mesures climatiques actuelles ne tiennent pas compte des coûts de restructuration industrielle, ce qui risque d'accélérer la fuite de capitaux vers l'Asie et l'Afrique",
+      "L'absence de garanties sur les investissements dans le secteur fossile rendrait la transition économique inégalitaire entre les régions riches et pauvres",
+      "La suppression des subventions fiscales favoriserait une concentration du marché énergétique européenne au profit des géants internationaux (ex: Shell, TotalEnergies)",
+      "Les normes d'émission strictes pourraient menacer la survie des petites entreprises de l'industrie pétrolière et gazière en Europe centrale",
+      "La directive ne propose pas de solutions alternatives viables aux infrastructures existantes, ce qui risque d'entraîner un chômage structurel dans les régions économiquement vulnérables",
+      "L'absence de financement public pour la modernisation des infrastructures énergétiques conventionnelles compromettrait la sécurité énergétique européenne à court terme"
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'amendement pourrait renforcer la sécurité des infrastructures énergétiques existantes, en particulier pour les pays dépendants du gaz naturel (ex: Italie) et les secteurs industriels liés aux énergies fossiles. Cependant, une mise en œuvre stricte de mesures de cybersécurité pourrait augmenter les coûts opérationnels pour les entreprises pétrolières et gazières.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE",
+        "justification": "L'observatoire permettrait de mieux identifier les risques liés aux infrastructures énergétiques existantes et aux investissements dans le secteur fossile. Cela renforcerait la coordination entre les pays membres pour protéger les actifs économiques liés aux combustibles fossiles.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Les contraintes sur l'accès aux données pourraient entraver les opérations de surveillance des infrastructures énergétiques existantes. Cependant, une réglementation équilibrée pourrait être acceptée si elle permet de protéger les actifs économiques du secteur fossile tout en respectant la vie privée.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "L'unité renforcerait la sécurité des infrastructures énergétiques existantes, en particulier pour les États membres dépendants du charbon (ex: Pologne) et le secteur pétrolier. Cela favoriserait une transition plus calme et maîtrisée.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation des types de criminalité pourrait compromettre la sécurité globale des infrastructures énergétiques existantes, en particulier pour les pays producteurs d'énergie fossile. Cela risquerait de rendre plus vulnérables les actifs économiques du secteur.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de certains pays pourrait fragmenter la coopération européenne, en particulier pour les États dépendants du charbon (ex: Hongrie). Cependant, une exclusion temporaire pourrait être acceptée si elle permet de protéger les actifs économiques locaux.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'amendement pourrait renforcer la coordination entre les systèmes juridiques nationaux, ce qui est bénéfique pour le secteur énergétique existant. Cependant, une mise en œuvre trop rigoureuse pourrait entraver les initiatives européennes de transition énergétique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report permettrait un raffinement des mesures climatiques et une meilleure adaptation des infrastructures énergétiques existantes. Cependant, il ne doit pas être utilisé comme un moyen de bloquer la transition énergétique à long terme.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "notes_internes": "Surveiller tensions entre les régions dépendantes du charbon (ex: Slovaquie, Pologne) et les objectifs climatiques européens. Évaluer impact des mesures de financement climatique sur la compétitivité industrielle du secteur fossile en Europe centrale. Recommander un suivi régulier des évolutions technologiques dans le stockage du CO₂ pour préserver l'industrie pétrolière.",
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-01T15:17:48.181420",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Encadrer le financement du filet de sécurité sociale européen.",
+      "Promouvoir une stabilité économique et budgétaire.",
+      "Assurer la conformité réglementaire transfrontalière des banques européennes.",
+      "Protéger les systèmes financiers contre les risques cybernétiques croissants.",
+      "Faciliter l'intégration digitale du secteur financier européen",
+      "Équilibrer les normes de protection des données et la fluidité des opérations bancaires"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Banque et Finance adopte une stratégie proactive centrée sur l'harmonisation réglementaire transfrontalière, la défense des marges bénéficiaires sectorielles et la promotion d'un cadre européen de supervision financière renforcé. L'acteur milite pour un dialogue permanent avec les institutions européennes afin de préserver l'autonomie opérationnelle des banques européennes tout en respectant les objectifs de stabilité économique globaux. En matière de transition numérique, Banque et Finance insiste sur la nécessité d'une infrastructure technologique commune européenne, notamment pour sécuriser les transactions transfrontalières. L'acteur s'oppose à toute mesure qui pourrait limiter la libre circulation des capitaux ou imposer des contraintes réglementaires trop strictes sans garanties de compensation sectorielle.",
+    "alliances": [
+      "France (collaboration sur l'harmonisation des normes bancaires transnationales)",
+      "Italie (partage d'intérêts sur la stabilité financière européenne)",
+      "Verts/ALE (soutien à l'intégration digitale sécurisée du secteur financier)",
+      "S&D (priorité aux investissements structuraux dans les infrastructures financières européennes)",
+      "Big Tech (coopération pour le développement des services bancaires numériques)",
+      "Automobile (protection des financements sectoriels stratégiques)",
+      "Conservateurs (soutien à un cadre réglementaire stable et progressif)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux mesures de supervision renforcée transfrontalière)",
+      "Énergies fossiles (rejet des contraintes réglementaires associées à la transition énergétique)",
+      "Renouveau Européen (préférence pour une approche nationale plutôt que paneuropéenne)"
+    ],
+    "éléments_d_argumentaire": [
+      "Soutien à un cadre réglementaire harmonisé pour éviter les distorsions de concurrence entre États membres.",
+      "Défense d'une supervision européenne renforcée pour prévenir les crises bancaires systémiques.",
+      "Promotion d'initiatives technologiques communes (blockchain, IA) pour moderniser le secteur financier européen.",
+      "Mise en garde contre les mesures trop restrictives sur la protection des données pouvant limiter l'innovation numérique.",
+      "Développement de partenariats stratégiques avec les États membres pour sécuriser les flux financiers transfrontaliers.",
+      "Insistance sur la nécessité d'une compensation sectorielle en cas de réglementation européenne contraignante.",
+      "Préférence pour une approche progressive plutôt qu'radicale dans l'harmonisation réglementaire."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "L'acteur Banque et Finance soutient cet amendement car il aligne sur ses priorités de sécurisation des systèmes financiers numériques. Une coopération renforcée permettrait d'harmoniser les normes technologiques européennes, d'améliorer la résilience du secteur bancaire face aux cybermenaces et de moderniser les infrastructures de paiement transfrontalier.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'observatoire serait utile pour identifier les risques communs aux systèmes financiers européens. Toutefois, Banque et Finance insiste sur la nécessité d'intégrer des garanties strictes de protection des données bancaires dans le cadre de cette coopération transfrontalière.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "L'acteur appuie cette mesure car elle renforce la confiance dans les systèmes financiers numériques. Une protection rigoureuse des données bancaires est essentielle pour préserver l'intégrité du secteur et éviter les abus de transferts transfrontaliers.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "NEUTRE",
+        "justification": "La création d'une telle unité pourrait avoir des retombées positives pour la stabilité financière européenne. Cependant, Banque et Finance estime que sa mise en œuvre nécessiterait un cadre juridique clair pour éviter les interférences excessives dans les opérations bancaires.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'acteur s'oppose à une limitation trop restrictive des domaines d'action. Une coopération étroite est nécessaire pour lutter contre les fraudes transfrontalières, mais avec des garanties de protection des données bancaires.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "L'acteur est opposé à cette mesure car elle pourrait fragiliser la cohésion financière européenne. Une exclusion temporaire des pays non conformes est préférable, mais sans créer de division permanente entre États membres.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'acteur appuie le soutien aux systèmes juridiques nationaux, mais souligne la nécessité d'une coordination européenne pour éviter les incohérences réglementaires. Une harmonisation douce des normes est préférable à une approche totalement décentralisée.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report est temporairement acceptable pour permettre des ajustements réglementaires, mais Banque et Finance insiste sur une mise en œuvre rapide afin d'éviter l'accumulation de distorsions de concurrence entre les marchés européens.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre réglementation européenne et autonomie des banques nationales (ex: BNP Paribas, Deutsche Bank). Évaluer impact des mesures de protection des données sur l'innovation numérique. Maintenir dialogue stratégique avec les États membres pour éviter fragmentation sectorielle.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-01T15:32:54.858697",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne, notamment sur les réglementations environnementales, l'innovation technologique, et la compétitivité sectorielle. L’acteur s’engage à promouvoir des politiques qui favorisent l’innovation dans les produits agricoles tout en maintenant la viabilité économique du secteur.",
+    "enjeux_directive": [
+      "Mettre en place des réglementations équilibrées entre protection environnementale et innovation technologique",
+      "Soutenir l'harmonisation des normes européennes sur les intrants agricoles",
+      "Protéger la souveraineté alimentaire européenne face à l'internationalisation du marché agrochimique",
+      "Encourager les investissements dans les technologies vertes et durables pour le secteur agricole"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes sur la réglementation sectorielle de l’agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie multilatérale basée sur la collaboration avec des acteurs clés de l’industrie agricole, des gouvernements membres de l’UE et des partis politiques favorables à une approche progressiste mais réaliste en matière d’environnement. L’acteur s’engage à promouvoir un cadre réglementaire qui permette au secteur d’évoluer vers plus de durabilité sans compromettre sa compétitivité internationale. En parallèle, Agrochimie s’appuie sur des alliances avec des acteurs technologiques et industriels pour stimuler l’innovation dans les produits agrochimiques. Une attention particulière est portée aux régions agricoles stratégiques de la France, d'Italie et de Pologne, où le secteur a un impact économique majeur.",
+    "alliances": [
+      "France (collaboration sur l’innovation technologique et les investissements dans les produits durables)",
+      "Italie (partage des objectifs climatiques et réglementaires sectoriels)",
+      "Verts/ALE (soutien à la transition écologique avec garanties de compétitivité économique du secteur)",
+      "S&D (priorité aux investissements dans les régions agricoles en difficulté)",
+      "Big Tech (partenariats technologiques pour l’innovation dans les produits agrochimiques)",
+      "Automobile (protection des secteurs industriels stratégiques en lien avec la chaîne d'approvisionnement agricole)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation stricte sur les intrants chimiques, défense de l’industrie locale)",
+      "Conservateurs (préférence pour une transition progressive et non radicale dans le secteur agricole)",
+      "Énergies fossiles (lobbies centrales charbon - opposés à la réglementation sectorielle agrochimique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La nécessité de concilier les impératifs écologiques avec une viabilité économique du secteur agricole.",
+      "L’importance d’une harmonisation des normes européennes pour éviter la fragmentation du marché agrochimique.",
+      "Le besoin d’un soutien financier et technique à l’innovation technologique dans les produits agricoles.",
+      "La protection de la souveraineté alimentaire européenne face aux importations non réglementées.",
+      "L’impact positif des politiques européennes sur la compétitivité du secteur agrochimique mondial.",
+      "La nécessité d’éviter une taxation excessive des intrants agricoles qui pourrait nuire à la productivité."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions agricoles de l’Est (Pologne) et les normes environnementales strictes. Évaluer le risque d’une fragmentation du marché agrochimique en Europe de l'Est. Recommander une surveillance étroite des impacts des politiques sur les petites exploitations agricoles.",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie est opposée à cet amendement car il ne concerne pas directement les enjeux du secteur agricole ou agroalimentaire, et pourrait diviser les priorités des acteurs clés de la directive. L’acteur considère que l’énergie devrait être concentrée sur les réglementations sectorielles.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cet amendement car il ne touche pas directement aux enjeux du secteur, bien qu’il puisse avoir des retombées secondaires pour les opérations transfrontalières liées à l’agriculture.",
+        "priorite": "faible",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement dans le cadre d’une réglementation stricte sur les données agricoles, mais exige que cela ne pénalise pas l’innovation technologique ou la traçabilité des produits agricoles.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s’oppose partiellement à cet amendement car il détourne les ressources des enjeux sectoriels, bien que l’acteur reconnaisse la nécessité d’une coopération européenne.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie s’aligne sur cet amendement pour limiter les effets négatifs potentiels de l’expansion des coopérations européennes, en se concentrant uniquement sur des types de criminalité directement liés à l’agriculture ou aux intrants chimiques.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s’oppose à cet amendement car il pourrait fragiliser les relations transfrontalières et nuire à la coopération européenne sur des enjeux sectoriels.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie s’aligne sur cet amendement à condition que cela ne pénalise pas la réglementation sectorielle européenne, et qu’il soit possible de concilier les systèmes juridiques nationaux avec une approche unifiée.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s’oppose à cet amendement car il pourrait créer un retard inutile sur la mise en œuvre des réglementations, même si les ajustements sont nécessaires pour éviter une fragmentation du marché.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-01T16:23:10.266990",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne, notamment sur les réglementations sanitaires, les financements de recherche, et l'accès aux médicaments. Il agit pour protéger les brevets, stimuler l'innovation, et assurer la durabilité des chaînes d'approvisionnement en matières premières.",
+    "enjeux_directive": [
+      "Défendre un cadre réglementaire favorable aux innovations pharmaceutiques et aux investissements dans les recherches sur les maladies rares.",
+      "Protéger les brevets et garantir le financement des médicaments innovants via les fonds européens.",
+      "Assurer une coordination européenne pour lutter contre la contrefaçon et le marché noir des médicaments.",
+      "Promouvoir des politiques favorables à la production locale de principes actifs et de matières premières critiques.",
+      "Influencer les normes sanitaires européennes pour garantir un accès équitable aux traitements, tout en maintenant des marges bénéficiaires suffisantes."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique, notamment sur les réglementations sanitaires et l'accès aux médicaments.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés par la définition des politiques européennes en matière de santé publique."
+    ],
+    "stratégie": "Le secteur pharmaceutique adopte une stratégie de dialogue proactif avec les institutions européennes, en s'appuyant sur ses liens étroits avec les partis favorables à l'innovation et aux investissements dans la recherche. Il vise à influencer les décisions politiques via des alliances stratégiques avec des acteurs comme les Verts/ALE (pour la transition écologique et la protection de l'environnement, qui peut renforcer la durabilité des chaînes d'approvisionnement), le PPE (pour ses positions pro-entreprise), ainsi que des lobbies comme Big Tech (innovation technologique) ou Agrochimie (soutien aux filières agricoles liées à la production pharmaceutique). Le lobby s'engage également dans des campagnes de sensibilisation sur les enjeux sanitaires et les risques d'une réglementation trop stricte, tout en défendant la nécessité d'une coordination européenne pour lutter contre la contrefaçon et le marché noir. En cas de conflit avec d'autres secteurs, il mobilise ses alliés politiques et économiques pour influencer les débats.",
+    "alliances": [
+      "France (collaboration dans les investissements en recherche sur les maladies rares)",
+      "Italie (partage des objectifs de durabilité et d'innovation pharmaceutique)",
+      "Verts/ALE (soutien aux politiques environnementales favorables à la production verte de médicaments)",
+      "PPE (position pro-entreprise et défense des brevets)",
+      "Big Tech (collaboration technologique pour l'innovation dans les traitements numériques)",
+      "Agrochimie (soutien aux filières agricoles liées à la production pharmaceutique)"
+    ],
+    "oppositions": [
+      "Hongrie (préférence pour des réglementations moins strictes sur les brevets et le financement des médicaments innovants)",
+      "Conservateurs (préférence pour une approche progressive dans la régulation de l'industrie pharmaceutique)",
+      "Énergies fossiles (lobbies centrales charbon opposés à l'intégration de mesures environnementales strictes, même si elles affectent indirectement le secteur pharmaceutique)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur pharmaceutique est essentiel pour la santé publique européenne et doit être soutenu par des réglementations favorables à l'innovation.",
+      "Une coordination européenne renforcée permettra de mieux gérer les crises sanitaires et d'accélérer le développement des traitements.",
+      "Les investissements dans la recherche sont cruciaux pour garantir la compétitivité du secteur pharmaceutique européen face aux concurrents internationaux.",
+      "L'innovation technologique, notamment grâce à l'alliance avec Big Tech, peut transformer le secteur pharmaceutique en un pilier de l'économie européenne verte.",
+      "La protection des brevets est nécessaire pour encourager les investissements dans les recherches sur les maladies rares et les traitements innovants.",
+      "Le soutien aux filières agricoles (via l'Agrochimie) permettra de garantir la sécurité des approvisionnements en matières premières critiques."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre réglementations environnementales et durabilité de l'industrie pharmaceutique. Évaluer l'impact des mesures sur la production locale de principes actifs en Europe, notamment dans les pays comme la France ou l'Italie. Surveiller les conflits potentiels avec le secteur de l'Agrochimie pour la disponibilité des matières premières.",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "La protection des données sensibles liées aux recherches pharmaceutiques et aux traitements est cruciale. Une coopération renforcée dans ce domaine permettra de mieux sécuriser les informations confidentielles, en particulier face à la contrefaçon et au vol de brevets.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La lutte contre les crimes transfrontaliers, notamment ceux liés à la contrefaçon de médicaments ou au marché noir, nécessite une coordination européenne. Cependant, il est important que cet observatoire ne nuise pas à la confidentialité des données sensibles du secteur pharmaceutique.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "La protection stricte des données est essentielle pour préserver la confidentialité des recherches pharmaceutiques et éviter les fuites d'informations sensibles. Cela renforce également la confiance du secteur dans une coopération européenne plus étroite.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "NEUTRE",
+        "justification": "Bien que la sécurité globale soit un enjeu majeur, cette proposition ne semble pas directement liée aux intérêts du secteur pharmaceutique. Cependant, une approche équilibrée entre sécurité et protection des données est nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La limite des types de criminalité pourrait entraver une coopération efficace dans les domaines qui touchent directement le secteur pharmaceutique, comme la contrefaçon ou le vol de brevets. Une approche plus large est préférable.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains États membres pourrait fragiliser la coordination nécessaire pour lutter contre les crimes transfrontaliers et la contrefaçon. Une approche inclusive est plus bénéfique pour le secteur pharmaceutique.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux systèmes juridiques nationaux est important, mais il ne doit pas nuire à une coopération européenne plus étroite. Un équilibre doit être trouvé pour garantir la protection des droits du secteur pharmaceutique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report de deux ans pourrait ralentir le déploiement des mesures cruciales pour le secteur pharmaceutique, notamment en matière de protection des données et de lutte contre les crimes transfrontaliers. Une mise en œuvre rapide est préférable.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-01T15:49:53.672509",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile européen, en particulier ceux des constructeurs et fournisseurs de l'industrie. Son objectif principal est de défendre la compétitivité du secteur face aux réglementations environnementales strictes tout en promouvant une transition vers des technologies durables (véhicules électriques, hydrogène vert).",
+    "enjeux_directive": [
+      "Éviter les coûts de conformité liés aux normes de pollution qui menacent la rentabilité du secteur.",
+      "Assurer un financement public pour soutenir l'innovation technologique (batteries, recyclage des matières premières).",
+      "Protéger les emplois dans les usines traditionnelles face à la décarbonation accélérée.",
+      "Faciliter l'accès aux marchés émergents en assurant une harmonisation des normes européennes avec celles des États-Unis et de Chine."
+    ],
+    "impacts_directive": [
+      "La directive pourrait entraîner un repositionnement stratégique du secteur automobile vers les énergies propres, modifiant la structure industrielle actuelle.",
+      "Un impact significatif sur les exportations européennes si les normes ne sont pas alignées avec celles des marchés clés (États-Unis, Asie).",
+      "Risque de délocalisation vers des pays non européens en cas d'absence de soutien aux investissements industriels."
+    ],
+    "stratégie": "L'acteur Automobile adopte une stratégie multifacette combinant lobbying technologique, alliances sectorielles et défense des intérêts économiques. Il mobilise les ressources du secteur pour promouvoir l'innovation en matière de véhicules électriques et d'énergies alternatives (hydrogène vert), tout en négociant des compensations fiscales ou financières pour absorber les coûts de transition. Il s'appuie sur son influence économique pour convaincre les gouvernements européens de l'importance de préserver la compétitivité industrielle, sans compromettre les objectifs climatiques. Parallèlement, il développe des partenariats avec d'autres secteurs (énergies renouvelables, technologies numériques) pour créer un écosystème industriel durable.",
+    "alliances": [
+      "France (partage de l'objectif de décarbonation industrielle et de la nécessité d'un soutien financier aux régions manufacturières en difficulté)",
+      "Italie (collaboration sur les projets d'électrification des transports et de développement des infrastructures de recharge)",
+      "Verts/ALE (soutien à l'innovation technologique dans le secteur automobile, sous réserve de garantir la compétitivité européenne)",
+      "S&D (promotion des investissements publics dans les filières vertes pour préserver les emplois industriels)",
+      "Big Tech (développement commun des technologies numériques pour l'automobile du futur, notamment en matière d'intelligence artificielle et de connectivité)",
+      "Banque (financement des investissements dans les énergies propres et la restructuration industrielle)",
+      "PPE (défense d'une transition progressiste mais maîtrisée par l'industrie européenne)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la fermeture progressive des centrales à charbon, considérée comme nécessaire pour préserver le secteur industriel traditionnel)",
+      "Conservateurs (préférence pour une transition énergétique plus lente et moins contraignante pour les industries de base)",
+      "Énergies fossiles (défense d'une approche moins rigoureuse sur la décarbonation, favorisant les combustibles traditionnels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition vers une économie bas-carbone doit être progressive pour éviter un chômage de masse dans les régions industrielles en Europe.",
+      "Les constructeurs automobiles investissent massivement dans l'innovation technologique et la décarbonation, mais nécessitent des incitations fiscales pour maintenir leur compétitivité mondiale.",
+      "Une directive trop contraignante pourrait pousser les entreprises européennes à se délocaliser vers des pays où les réglementations sont moins strictes (Asie, Amérique du Nord).",
+      "La France et l'Italie représentent des acteurs clés dans la chaîne de valeur automobile européenne, nécessitant un soutien particulier pour leur transition.",
+      "Les partenariats avec le secteur technologique permettent de créer une économie circulaire dans les industries automobiles (recyclage, réutilisation des matières premières).",
+      "La protection des emplois dans les usines traditionnelles doit être conciliée avec l'innovation en matière d'énergies propres.",
+      "Le financement public est crucial pour soutenir la transformation du secteur automobile en Europe, notamment pour les PME et les fournisseurs."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions industrielles (Allemagne, France) et les objectifs climatiques. Évaluer l'impact des normes européennes sur la délocalisation industrielle en Asie. Surveiller les négociations avec les partis Verts/ALE pour éviter un élargissement excessif de la réglementation.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-01T16:07:09.718637",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "L'industrie automobile est un secteur clé de la cybersécurité, notamment en raison de l'intelligence artificielle et des systèmes connectés. Une coopération renforcée permettra d'améliorer la protection contre les cyberattaques ciblant les infrastructures industrielles et les réseaux de véhicules électriques.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "NEUTRE",
+        "justification": "L'industrie automobile ne s'oppose pas à la création d'un tel observatoire, mais souligne l'importance de garantir une protection des données sensibles liées aux systèmes de production et aux réseaux logistiques.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La protection des données est cruciale pour le secteur automobile, particulièrement en matière d'intelligence artificielle et de connectivité. Cependant, il faut veiller à ne pas bloquer l'accès aux données nécessaires à la recherche technologique.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "L'industrie automobile appuie la création d'une telle unité, car elle est directement concernée par les menaces liées à la cybercriminalité et aux attaques sur les infrastructures critiques (systèmes de production, logistique).",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que l'industrie automobile appuie une approche ciblée, elle s'inquiète de la possible restriction des échanges de données liées aux cybermenaces et aux attaques sur les systèmes industriels.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion d'États membres pourrait affaiblir la coopération européenne, particulièrement dans un secteur comme l'industrie automobile, où les flux de données transfrontaliers sont cruciaux pour la sécurité industrielle.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "NEUTRE",
+        "justification": "L'industrie automobile ne s'oppose pas à la préservation des systèmes juridiques nationaux, mais insiste sur l'importance d'une harmonisation européenne en matière de cybercriminalité pour protéger ses infrastructures.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Une mise en œuvre reportée risquerait d'entraver les initiatives actuelles du secteur automobile pour se conformer aux normes européennes, y compris dans le domaine de la cybersécurité et des énergies propres.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  }
+]

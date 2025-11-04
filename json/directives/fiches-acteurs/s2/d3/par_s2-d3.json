@@ -1,0 +1,757 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen (PPE)",
+    "actor_id": "ppe",
+    "role_europeen": "Non-porteur - Soutient une solidarité limitée, conciliant répartition et subsidiarité.",
+    "enjeux_directive": [
+      "Maintenir l’équilibre entre unité européenne et souveraineté nationale.",
+      "Assurer une transition énergétique progressive tout en préservant la compétitivité industrielle des États membres.",
+      "Réconcilier les objectifs climatiques européens avec les réalités économiques des pays d’Europe centrale et orientale.",
+      "Éviter une surcharge budgétaire pour les États membres en déficit structurel, tout en garantissant la répartition des migrants selon des critères justes.",
+      "Protéger les intérêts des secteurs économiques stratégiques (industrie lourde, énergies fossiles) face aux mesures radicales de transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen.",
+      "Le positionnement de Parti Populaire Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Proposer des compromis modérés pour rallier les deux camps, en privilégiant une approche pragmatique qui concilie les exigences climatiques avec la préservation des intérêts économiques nationaux. Le PPE visera à obtenir un consensus large en s'appuyant sur ses alliés conservateurs et centristes, tout en évitant de se positionner comme un bloc idéologique rigide. Il favorisera des mécanismes de flexibilité (ex : quotas ajustables selon les capacités nationales) pour garantir l'acceptabilité par les États membres plus réticents à la solidarité européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La subsidiarité doit rester le pilier de l'intégration européenne, évitant une centralisation excessive qui pourrait heurter les États membres plus conservateurs.",
+      "Les quotas de répartition doivent être ajustés selon la capacité nationale, pour ne pas pénaliser les pays à faible densité démographique ou économiquement vulnérables.",
+      "La transition énergétique doit s'accompagner d'une protection des secteurs industriels clés (ex : automobile) via des investissements publics et privés ciblés.",
+      "L’intégration des migrants nécessite un cadre financier stable, mais les fonds doivent être conditionnés à une coopération efficace entre États membres pour éviter la fragmentation de l’Union.",
+      "Les mesures climatiques européennes doivent inclure des mécanismes de compensation pour les pays en première ligne (ex : Italie, Grèce) confrontés aux impacts directs du changement climatique.",
+      "La solidarité européenne doit s'exprimer par des mécanismes non obligatoires, permettant aux États membres d'adopter des engagements proportionnés à leurs capacités et priorités nationales."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient cet amendement à condition que l’augmentation des quotas soit compensée par une flexibilité dans leur application, en tenant compte des capacités nationales. Cela permet de progresser vers une répartition plus équitable tout en évitant un surmenage des États membres les plus exposés aux flux migratoires.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "Le PPE appuie ce dispositif, mais insiste sur la nécessité d’associer les États membres à sa gestion. Le fonds doit servir à financer des projets de développement économique locaux, réduisant ainsi l’étalement urbain et les tensions sociales dans les régions d’accueil.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "Le PPE apprécie cette mesure car elle garantit un meilleur alignement des migrants avec le marché du travail européen. Cependant, il réclame une coordination étroite entre les États membres pour éviter une fragmentation des normes linguistiques et professionnelles.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient ce mécanisme, mais propose que la solidarité soit répartie à partir d’un fonds commun et non par des transferts directs. Cela éviterait de créer des déséquilibres budgétaires entre les États membres.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "Le PPE approuve cette limite, car elle permet d’éviter une surcharge des systèmes locaux tout en maintenant un niveau d’engagement européen. Cela concilie les exigences de solidarité avec la réalité des capacités nationales.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s’oppose à cet amendement, car il pourrait fragiliser la cohésion européenne. Cependant, il propose une alternative : des exceptions temporaires pour les États membres en situation de crise (ex : conflits armés) ou souffrant d’un déficit structurel.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Le PPE appuie cette mesure, mais insiste sur la nécessité de financer ces centres via des recettes européennes (ex : taxe sur l’énergie) pour éviter une charge excessive sur les budgets nationaux.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Le PPE reste neutre sur cet amendement. Il considère que la mise en œuvre doit être progressive, mais ne justifie pas un report qui pourrait fragiliser les engagements européens à court terme.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions secteur automobile (Volkswagen, Fiat) face aux obligations climatiques et risques de délocalisation. Évaluer régulièrement impact des quotas migratoires sur les pays périphériques (Italie, Espagne). Surveiller fragilité du consensus entre États membres en déficit et ceux à forte capacité d’accueil.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T14:27:10.978825",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates (S&D)",
+    "actor_id": "sd",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Promouvoir justice sociale et intégration.",
+      "Renforcer la cohésion territoriale.",
+      "Accélérer la transition écologique en associant les acteurs économiques locaux.",
+      "Assurer un financement équitable des régions défavorisées dans le cadre de politiques migratoires.",
+      "Mettre en place des mécanismes de solidarité entre pays membres pour atténuer les tensions liées aux flux migratoires."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Socialistes et Démocrates (S&D) adoptent une approche centrale sur la justice sociale, la solidarité internationale et la transition écologique. Leur stratégie vise à renforcer les alliances avec des partis progressistes et des acteurs économiques engagés dans des politiques durables. Ils privilégient des partenariats stratégiques pour promouvoir un modèle de développement inclusif, tout en s'opposant fermement aux positions conservatrices ou libérales qui mettraient en péril les droits sociaux et environnementaux. Leur rôle dans la directive repose sur une volonté d'accélérer l'intégration des migrants tout en garantissant un soutien financier adéquat pour les régions en première ligne, ce qui renforce leur position de leader dans le débat européen sur ces enjeux.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit favoriser une répartition équitable des migrants, en garantissant un soutien financier aux pays accueillants pour éviter les déséquilibres économiques.",
+      "Les investissements dans l'énergie verte et les infrastructures durables doivent être prioritaires pour assurer la transition écologique de manière inclusive.",
+      "Les amendements liés à la formation linguistique et professionnelle des migrants sont essentiels pour faciliter leur intégration sociale et économique.",
+      "Le mécanisme de solidarité avec les pays en première ligne doit être renforcé, afin d'assurer une réponse collective face aux flux migratoires.",
+      "Les quotas de répartition doivent être augmentés pour respecter les objectifs européens de justice sociale et d'équité entre les États membres.",
+      "L'inclusion des secteurs industriels stratégiques comme l'automobile dans les priorités de financement permettra de préserver les emplois tout en favorisant la transition écologique.",
+      "Le soutien aux centres d'accueil aux frontières extérieures doit être renforcé pour assurer une prise en charge humanitaire efficace et équitable."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE",
+        "justification": "Cette augmentation des quotas permettrait une meilleure répartition des migrants et renforcerait la solidarité entre les États membres. Elle s'inscrit dans la volonté de S&D d'accélérer l'intégration européenne et de garantir un soutien adéquat aux pays en première ligne.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "La création d'un fonds dédié à la formation linguistique et professionnelle des migrants est cruciale pour leur insertion sociale. S&D considère que cela renforce la cohésion européenne et garantit l'équité entre les États membres.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Bien que S&D appuie l'idée de conditions pour les aides, ils souhaitent éviter une fragmentation excessive qui pourrait nuire à la cohésion sociale. Une approche équilibrée est donc nécessaire.",
+        "priorite": "haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "Ce point est essentiel pour S&D afin d'assurer une réponse coordonnée face aux flux migratoires. Cela permettrait de renforcer l'unité européenne tout en soutenant les pays directement concernés.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette limitation pourrait entraver la justice sociale et l'équité entre les États membres. S&D préfère une approche plus flexible, tout en garantissant un soutien adéquat aux pays accueillants.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "S&D s'oppose à cette proposition, car elle pourrait créer des inégalités entre les États membres et affaiblir l'esprit de solidarité européenne. Une approche inclusive est préférable.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est cruciale pour assurer une prise en charge humanitaire efficace des migrants. S&D appuie fermement cette proposition, car elle renforce la solidarité européenne et l'efficacité des politiques migratoires.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Bien que S&D comprenne les raisons d'une telle demande, ils estiment qu'il serait préférable de ne pas reporter l'application, afin de garantir une réponse rapide face aux défis migratoires actuels.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l'industrie allemande (Volkswagen, Siemens) et les objectifs climatiques. Évaluer régulièrement l'impact des mesures sur les régions de l'Est (40% de la population, 25% des investissements). Surveiller aussi les risques de fragmentation entre les pays du Sud-Est et les autres membres de l'UE.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T14:41:41.352543",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la solidarité européenne tout en respectant les capacités nationales.",
+      "Promouvoir une transition écologique rapide, soutenue par des investissements structurels.",
+      "Assurer un équilibre entre ambitions climatiques et compétitivité industrielle.",
+      "Mettre en place des mécanismes d’intégration efficaces pour les migrants."
+    ],
+    "impacts_directive": [
+      "La directive aligne avec la vision de Renouveau Européen sur l'intégration européenne, mais exige une adaptation aux réalités nationales.",
+      "Le positionnement du parti reflète sa volonté d’harmoniser solidarité et pragmatisme."
+    ],
+    "stratégie": "Renouveau Européen adopte une stratégie de médiation entre les positions radicales des écologistes (Verts/ALE) et les conservateurs (Conservateurs), tout en défendant un modèle européen fondé sur l’innovation, la transition verte et la coopération structurée. Le parti cherche à positionner la France et l'Italie comme des pôles d’attractivité pour les investissements verts, tout en s’assurant que les pays périphériques (comme la Hongrie) ne se sentent pas marginalisés dans le processus de décision. Cette approche permet à Renouveau Européen de maximiser son influence sur les débats européens sans sacrifier ses priorités nationales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les quotas de répartition doivent être élevés pour renforcer l’unité européenne, mais avec un mécanisme de compensation pour les pays accueillant des flux migratoires massifs.",
+      "La France et l'Italie sont des leaders technologiques dans les énergies propres (hydrogène vert) : leur expertise doit être mobilisée pour moderniser la directive.",
+      "Les secteurs industriels, notamment l’automobile, nécessitent un soutien structurel pour éviter une dégradation de leur compétitivité européenne.",
+      "Un fonds européen pour l’intégration des migrants permettrait de réduire les inégalités régionales et d’accélérer la reprise économique.",
+      "Les pays en première ligne (Italie, Grèce) doivent être soutenus par un mécanisme de solidarité européenne pour éviter une surcharge administrative.",
+      "La formation linguistique et professionnelle doit être conditionnée aux aides européennes pour garantir l’efficacité des mesures d’intégration.",
+      "Les énergies fossiles, bien que progressivement remplacées, doivent bénéficier de transitions justes et contrôlées pour éviter un chômage massif dans les régions industrielles."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen est l'initiateur de cet amendement, qui correspond à sa vision d’une Europe plus solidaire. Il permet de renforcer la responsabilité collective des États membres tout en garantissant un soutien aux pays en première ligne (Italie, Grèce). Cette augmentation des quotas aligne avec les objectifs climatiques et sociaux du parti.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient cette proposition à condition qu’il soit accompagné de mesures de formation linguistique et professionnelle. Cela permettrait d’éviter les inégalités régionales tout en renforçant la cohésion sociale.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est essentielle pour maximiser l’efficacité des aides européennes. Renouveau Européen considère que l’intégration ne peut être réussie sans un investissement ciblé dans la formation.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "Les pays situés aux frontières extérieures (Italie, Grèce) ont besoin d’un soutien renforcé. Renouveau Européen défend cette mesure pour éviter une surcharge administrative et garantir la continuité des politiques d’asile.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renouveau Européen est partiellement opposé à cette limite, car elle pourrait décourager les pays volontaires. Toutefois, il propose une flexibilité pour les pays en première ligne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "Renouveau Européen est contre cette exclusion, car elle risquerait d’entacher l’unité européenne. Le parti défend un modèle basé sur la responsabilité collective.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait de réduire la pression sur les régions internes et d’assurer une gestion plus efficace des flux migratoires. Renouveau Européen soutient activement cette priorisation.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renouveau Européen est partiellement opposé à cette prolongation, car elle pourrait freiner les investissements structurels. Cependant, il propose un délai conditionnel à l’adoption de mesures préparatoires.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "À surveiller les tensions entre Big Tech et Agrochimie sur la priorisation des investissements. Surveiller également l’équilibre entre les pays du Nord (France, Allemagne) et les régions du Sud (Italie, Espagne). Recommandé de maintenir un suivi régulier des impacts des quotas sur le secteur automobile en France.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T14:56:36.568697",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Non-porteur - Soutien fort à une approche contraignante et ambitieuse.",
+    "enjeux_directive": [
+      "Assurer la défense des droits humains et des réfugiés.",
+      "Renforcer la solidarité européenne.",
+      "Promouvoir une transition écologique juste et inclusive.",
+      "Intégrer les dimensions climatiques et sociales dans l'union des migrations.",
+      "Accélérer la mise en œuvre de politiques renouvelables à l'échelle de l'UE."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne.",
+      "L'approche radicale de Verts/ALE sur la transition écologique pourrait polariser le débat au sein des institutions européennes."
+    ],
+    "stratégie": "Verts/ALE adopte une stratégie de pression constante pour amplifier les objectifs climatiques, sociaux et environnementaux au-delà de toute proposition initiale. Son approche se concentre sur la création d'une feuille de route claire à l'horizon 2030, incluant des mécanismes contraignants liés aux énergies renouvelables, à la justice climatique et à la financement des politiques sociales. L'acteur agit en synergie avec les partis de gauche (S&D) pour multiplier l'influence dans le Conseil et le Parlement européen, tout en cherchant à convaincre certains membres du PPE qui partagent des ambitions similaires sur la transition énergétique. Cette stratégie est soutenue par une communication forte sur les réseaux sociaux et dans les médias indépendants, visant à mobiliser l'opinion publique européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "Renouveau Européen (accord sur l'ambition climatique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit inclure un mécanisme de répartition équitable des migrants, assurant une solidarité européenne renforcée.",
+      "Les objectifs climatiques doivent être ambitieux et contraignants pour les États membres, avec des sanctions claires en cas de non-respect.",
+      "Le financement des projets écologiques doit être prioritaire, notamment dans les régions défavorisées ou touchées par le déclin industriel.",
+      "Une transition juste doit garantir la reconversion professionnelle des travailleurs dans les secteurs polluants, avec un soutien financier et technique.",
+      "L'Europe doit jouer un rôle leader mondial en matière de lutte contre le changement climatique, en imposant des normes strictes aux pays tiers.",
+      "La directive doit intégrer une dimension sociale forte, notamment sur l'accès à la santé, à l'éducation et au logement pour tous les migrants.",
+      "Les investissements dans les énergies renouvelables doivent être soutenus par des subventions européennes, avec un objectif de 100% d'électricité verte d'ici 2035."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE soutient cet amendement car il renforce la solidarité européenne et permet une répartition plus équitable des migrants entre les États membres, alignée avec ses valeurs d'égalité et de justice sociale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE appuie cet amendement car il permet de financer des politiques d'intégration sociales et économiques, essentielles pour la cohésion européenne.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/ALE soutient cet amendement avec des conditions strictes pour s'assurer que les migrants reçoivent une formation adéquate, favorisant l'inclusion sociale.",
+        "priorite": "haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE approuve cet amendement pour renforcer le soutien aux États membres confrontés à des flux migratoires importants, en accordant des ressources supplémentaires.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE considère cet amendement comme trop restrictif, car il pourrait limiter la solidarité européenne et nuire à l'équité entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE s'oppose à cette exclusion, sauf si elle est justifiée par des circonstances exceptionnelles, car cela pourrait fragmenter l'action européenne.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/ALE soutient cet amendement sous réserve que ces centres soient équipés de conditions humanitaires dignes et respectant les droits des migrants.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE s'oppose à ce report, car il pourrait retarder des mesures urgentes pour renforcer la solidarité européenne et l'intégration des migrants.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les États membres du Sud-Est (Italie, Grèce) et le reste de l'UE sur la répartition des migrants. Surveiller également les résistances au financement des projets écologiques par certains pays. Évaluer régulièrement l'impact des politiques migratoires sur les droits humains.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T15:10:27.333210",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Promouvoir l’intégration conditionnelle et pragmatique.",
+      "Limiter les coûts sociaux.",
+      "Renforcer la souveraineté nationale dans les politiques migratoires.",
+      "Protéger les intérêts économiques des pays membres du Sud-Est européen.",
+      "Assurer une transition énergétique non intrusive pour les secteurs industriels stratégiques."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Mettre en avant l’importance de la subsidiarité et du contrôle national. L'ECR adopte une approche pragmatique, visant à concilier les exigences européennes avec les préférences nationales des États membres. Son objectif est de défendre un modèle d’intégration européenne qui respecte la diversité culturelle et institutionnelle des pays membres. En matière de migration, l'ECR prône une gestion décentralisée, avec des quotas flexibles basés sur les capacités nationales, tout en exigeant des conditions strictes pour l'accès aux aides publiques. Sur le plan énergétique, l'ECR défend la poursuite du nucléaire et de l'utilisation des énergies fossiles en transition, tout en soutenant des investissements dans les technologies propres. L'approche de l'ECR se fonde sur un consensus entre les priorités économiques et les objectifs environnementaux, en évitant une transformation radicale du modèle européen.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big Pharma (soutien réglementation européenne stricte sur la santé publique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La subsidiarité est un pilier fondamental de l'intégration européenne, permettant aux États membres d'adapter les politiques migratoires à leurs réalités nationales.",
+      "Les quotas de répartition doivent être flexibles pour éviter une surcharge des pays situés en première ligne du flux migratoire.",
+      "L'investissement dans l'énergie nucléaire et les énergies fossiles est nécessaire pour maintenir la compétitivité industrielle européenne, tout en progressant vers des solutions bas-carbone.",
+      "Les conditions d'accès aux aides publiques doivent être strictes pour garantir une intégration efficace des migrants et éviter la dépendance excessive à l'État.",
+      "La transition écologique doit se faire de manière progressive, en tenant compte des intérêts économiques des secteurs industriels traditionnels.",
+      "L’harmonisation des politiques migratoires doit respecter les traditions culturelles et historiques des pays membres, évitant une uniformisation excessive.",
+      "Les investissements dans les technologies propres doivent être accompagnés de mesures qui protègent les secteurs économiques stratégiques comme l'automobile ou la chimie."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "L’augmentation des quotas de répartition de 20 % serait inacceptable pour l'ECR, car elle pourrait dépasser les capacités d’accueil des pays membres et augmenter le fardeau fiscal sur la population. L’ECR préfère une approche plus flexible, basée sur les capacités nationales et les priorités économiques locales.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’ECR soutient l'idée d’un fonds européen pour l'intégration des migrants, à condition qu’il soit lié à des critères stricts de performance et ne compromette pas les budgets nationaux. Ce fonds devrait être axé sur la formation professionnelle et linguistique, tout en évitant une dépendance excessive aux aides publiques.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "L’ECR est favorable à cette mesure, car elle garantit que l’aide européenne soit utilisée de manière ciblée pour favoriser l’intégration économique des migrants. Cela renforce la responsabilité des États membres dans la gestion migratoire et évite une dépendance excessive aux fonds européens.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’ECR soutient ce mécanisme, à condition qu’il ne crée pas de dépendance structurelle des pays bénéficiaires. Il doit être associé à une répartition équitable des responsabilités entre tous les États membres, évitant une concentration excessive des flux migratoires sur quelques pays.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "Cette limite respecte les capacités d'accueil des États membres et évite une surcharge excessive. L’ECR soutient cette mesure car elle garantit un équilibre entre l’aide européenne et la souveraineté nationale dans la gestion migratoire.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’ECR est favorable à l’exclusion temporaire d'États membres qui ne disposent pas des ressources suffisantes pour accueillir les migrants. Cependant, cette exclusion doit être encadrée par des conditions strictes et surveillée régulièrement.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "NEUTRE",
+        "justification": "L’ECR ne se positionne pas clairement sur cette mesure, car elle pourrait encourager une concentration excessive des flux migratoires à l'extérieur de l’UE. Cependant, un soutien limité aux centres d'accueil est acceptable si cela permet une gestion plus rapide et efficace.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’ECR est favorable à un report, à condition que cela permette une révision des mesures et une adaptation aux réalités nationales. Cela offrirait un délai pour ajuster les politiques migratoires sans compromettre l’harmonisation européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les États du Sud-Est européen et les objectifs climatiques de l’UE, particulièrement dans les secteurs industriels. Évaluer régulièrement l'impact des politiques migratoires sur la compétitivité des pays membres. Surveiller le risque de fragmentation des positions européennes entre les partis conservateurs et réformistes.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T15:24:49.449335",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la justice sociale et le respect des droits.",
+      "Soutenir les États en première ligne de l’accueil.",
+      "Promouvoir une transition écologique radicale et équitable.",
+      "Assurer une répartition justifiée des migrants selon les capacités nationales.",
+      "Créer un mécanisme de solidarité transnationale pour les pays frontières.",
+      "Équilibrer les obligations de répartition avec l’aide à la formation linguistique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne.",
+      "La directive renforce les principes d'équité sociale et écologique défendus par GUE/NGL."
+    ],
+    "stratégie": "Faire pression pour plus d’équité, de solidarité transnationale et une transition écologique accélérée. Privilégier un approche bottom-up en associant les régions frontalières, les ONG et les mouvements sociaux. Utiliser l’influence des partis progressistes (Verts/ALE, S&D) pour contourner la résistance des conservateurs et du PPE. Mobiliser les lobbies de l’innovation (Big Tech, Automobile) contre les intérêts des énergies fossiles.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (résistance aux quotas de répartition exigeants)",
+      "Big Pharma (priorité santé publique au-dessus des obligations migratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir une répartition des migrants basée sur la capacité nationale, non une imposition uniforme.",
+      "Les pays en première ligne (ex: Italie, Grèce) nécessitent un soutien structurel pour gérer les flux migratoires sans compromettre leur développement économique.",
+      "La transition écologique doit être prioritaire, avec des quotas de répartition conditionnés à l’investissement dans les énergies renouvelables.",
+      "L’intégration des migrants ne peut se faire sans une formation linguistique et professionnelle massive, financée par un fonds européen dédié.",
+      "Les amendements doivent inclure des mécanismes de solidarité accrue entre États membres, évitant la concentration des efforts sur quelques pays.",
+      "L’opposition aux quotas exigeants doit être contestée, car les objectifs climatiques et sociaux exigeant une répartition plus équitable.",
+      "Les lobbies de l’énergie fossile doivent être exclus du processus décisionnel pour ne pas entraver la transition écologique.",
+      "La directive doit inclure des clauses d’exception pour les pays en situation critique (ex: conflits, crises humanitaires) sans défaire le fondement des quotas."
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre l’objectif de quotas exigeants et la capacité réelle des pays du Sud-Est (Italie, Grèce). Évaluer impact de la solidarité accrue sur les budgets nationaux. Surveiller collaboration avec Big Tech pour éviter une dépendance technologique excessive. Rester vigilant contre les lobbying énergies fossiles via des acteurs comme l’Allemagne.",
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "GUE/NGL estime que cette augmentation risquerait d’overcharger les pays en première ligne (Italie, Grèce) sans compensations structurelles. Elle préfère une répartition proportionnelle aux capacités nationales, évaluées sur la base des ressources économiques et sociales disponibles.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds permettrait d’assurer une intégration efficace et durable, en combinant formation linguistique, professionnelle et accès à la santé publique. GUE/NGL soutient cette mesure comme pilier de sa vision équitable du droit d’asile.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL approuve cette condition, mais exige des seuils clairs pour l’accès aux fonds européens. Elle préconise un suivi rigoureux des débouchés professionnels pour les bénéficiaires.",
+        "priorite": "haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, proposé par GUE/NGL, vise à allouer des ressources supplémentaires aux États frontières (Italie, Grèce) pour gérer les flux migratoires tout en respectant la capacité nationale. Il renforce le principe de solidarité transnationale.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL accepte ce plafond, mais exige des flexibilités pour les situations exceptionnelles (crises humanitaires). Elle propose une révision annuelle des quotas basée sur des indicateurs socio-économiques.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "GUE/NGL refuse l’exclusion d’États, mais accepte une dérogation temporaire pour les pays en situation critique (conflits armés). Elle exige un suivi rigoureux des conditions de dérogation.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure aligne avec la stratégie de GUE/NGL pour dédramatiser le rôle des frontières et favoriser une gestion humanisée des flux migratoires. Elle préconise un financement prioritaire pour les centres d’accueil sécurisés.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "GUE/NGL estime que cette reporte risquerait d’aggraver les tensions migratoires et retarder la mise en place des mécanismes de solidarité. Elle préfère une adoption immédiate avec des ajustements progressifs.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "parti",
+    "generated_at": "2025-10-29T15:39:32.950600",
+    "version": "4.7"
+  }
+]

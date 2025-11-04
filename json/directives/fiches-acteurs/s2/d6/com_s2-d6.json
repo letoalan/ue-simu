@@ -1,0 +1,144 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+  "enjeux_directive": [
+    "Réduire les inégalités sociales au sein de l’UE.",
+    "Renforcer la cohésion et la solidarité européenne.",
+    "Éviter les distorsions économiques tout en respectant la subsidiarité.",
+    "Promouvoir la souveraineté numérique européenne face aux géants technologiques.",
+    "Assurer une coopération transfrontalière efficace contre le terrorisme et la cybercriminalité.",
+    "Équilibrer les priorités de sécurité avec les droits fondamentaux (notamment en matière de données personnelles)."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La stratégie de la Commission repose sur un triple pilier : (1) renforcer l'union numérique et la souveraineté européenne en matière de données, (2) structurer une coopération transfrontalière efficace contre les menaces sécuritaires (cybercriminalité, terrorisme), tout en garantissant des protections strictes des droits fondamentaux. (3) Encadrer la transition écologique par des normes européennes harmonisées, notamment sur l'hydrogène vert et la réduction des émissions industrielles. La Commission privilégie un dialogue constant avec les États membres pour éviter les distorsions économiques tout en maintenant une cohésion institutionnelle forte. Elle s'appuie sur des partenariats stratégiques avec les secteurs technologiques et industriels, tout en surveillant la pression exercée par les lobbies traditionnels (énergies fossiles, banques).",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Allemagne (innovation infrastructures numériques + transition énergétique accélérée)",
+    "Verts/ALE (soutien hydrogène vert + transition écologique structurée)",
+    "S&D (priorité investissements régions défavorisées + protection des droits sociaux)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques + adaptation à la transition écologique)",
+    "Banque (soutien investissements structuraux énergie + innovation technologique)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+  ],
+  "éléments_d_argumentaire": [
+    "La directive renforce la souveraineté numérique européenne en encadrant l'accès aux données et les transferts transfrontaliers, garantissant une protection stricte des droits fondamentaux.",
+    "Elle permet de structurer une coopération efficace contre le terrorisme et la cybercriminalité, avec un observatoire européen qui centralise les informations sans compromettre la sécurité nationale.",
+    "L'intégration d'une unité européenne de lutte contre le terrorisme renforce la coordination entre services de renseignement des États membres tout en maintenant leur autonomie opérationnelle.",
+    "Les investissements dans les infrastructures numériques et l'hydrogène vert, soutenus par des acteurs comme Big Tech et l'industrie automobile, accélèrent la transition écologique et renforcent la compétitivité européenne.",
+    "La priorité donnée aux systèmes judiciaires nationaux permet de préserver les traditions juridiques des États membres tout en facilitant une coopération transfrontalière harmonisée.",
+    "Les garanties strictes sur l'accès aux données (comme celles proposées par le Gauche Unitaire) renforcent la confiance publique dans les initiatives numériques européennes.",
+    "La directive évite les distorsions économiques en imposant des normes harmonisées pour l'hydrogène vert et la transition énergétique, évitant ainsi une fragmentation sectorielle.",
+    "Elle soutient la solidarité européenne en priorisant les régions défavorisées (via le soutien des S&D) tout en maintenant un cadre législatif uniforme pour l'ensemble de l'UE."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "2-6A",
+      "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+      "position": "FAVORABLE",
+      "justification": "La Commission européenne soutient cet amendement car il renforce la coordination transfrontalière contre les menaces numériques, un enjeu central pour l'union numérique européenne. L'intégration de mesures cybernétiques renforce également la sécurité des infrastructures critiques (énergie, santé, transports), tout en maintenant une autonomie nationale opérationnelle.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+    },
+    {
+      "amendement": "2-6B",
+      "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Cet amendement est favorable à condition qu'il intègre des garanties strictes sur la protection des données et la souveraineté nationale. L'observatoire permettrait de centraliser les informations criminelles tout en évitant une surveillance intrusive ou inutile, ce qui aligne avec l'objectif de réduire les distorsions économiques tout en protégeant les droits fondamentaux.",
+      "priorite": "haute",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+    },
+    {
+      "amendement": "2-6C",
+      "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+      "position": "FAVORABLE",
+      "justification": "La Commission européenne approuve cet amendement car il renforce la confiance publique dans les initiatives numériques européennes. Les garanties sur la vie privée sont essentielles pour éviter une fragmentation juridique entre les États membres et assurer une harmonisation des normes de protection des données, conformément à l'objectif de souveraineté numérique européenne.",
+      "priorite": "très_haute",
+      "origine": "Gauche Unitaire",
+      "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+    },
+    {
+      "amendement": "2-6D",
+      "titre": "Créer une unité européenne de lutte contre le terrorisme",
+      "position": "FAVORABLE",
+      "justification": "La création d'une unité européenne renforce la coordination entre les services de renseignement des États membres tout en préservant leur autonomie opérationnelle. Cet amendement favorise une réponse unifiée aux menaces terroristes, ce qui aligne avec l'objectif de sécurité collective définie dans le cadre de l'UE.",
+      "priorite": "haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Créer une unité européenne de lutte contre le terrorisme"
+    },
+    {
+      "amendement": "2-6E",
+      "titre": "Limiter la coopération à certains types de criminalité",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "La Commission européenne s'oppose partiellement à cet amendement car il pourrait fragmenter les actions transfrontalières. Cependant, elle reconnaît que certaines limites peuvent être justifiées pour éviter une surcharge administrative et garantir l'efficacité des mesures proposées.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Limiter la coopération à certains types de criminalité"
+    },
+    {
+      "amendement": "2-6F",
+      "titre": "Exclure certains États membres de l’échange systématique de données",
+      "position": "NEUTRE",
+      "justification": "La Commission européenne reste neutre sur cet amendement. Elle privilégie une coopération étendue mais conditionnée à des garanties strictes sur la protection des données. Cependant, elle reconnaît que certaines exclusions pourraient être nécessaires pour respecter les normes juridiques nationales ou les exigences de souveraineté.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Exclure certains États membres de l’échange systématique de données"
+    },
+    {
+      "amendement": "2-6G",
+      "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+      "position": "FAVORABLE",
+      "justification": "La Commission européenne soutient cet amendement car il préserve la diversité des traditions juridiques européennes tout en facilitant une coopération transfrontalière harmonisée. Cela évite les distorsions économiques et renforce la confiance des citoyens dans le cadre institutionnel européen.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+    },
+    {
+      "amendement": "2-6H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE",
+      "justification": "La Commission européenne s'oppose à cet amendement car il retarderait la mise en œuvre d'une législation nécessaire pour renforcer la souveraineté numérique et la sécurité collective. Une application rapide est essentielle pour répondre aux défis de l'évolution technologique et des menaces transfrontalières.",
+      "priorite": "faible",
+      "origine": "Allemagne",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "références": [
+    "s2d6.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller les tensions entre la souveraineté numérique européenne et la pression exercée par Big Tech sur les normes réglementaires. Évaluer l'impact des mesures de sécurité renforcées (comme le 2-6D) sur les secteurs industriels stratégiques (automobile, énergie). Surveiller les résistances des pays comme la Hongrie face aux transitions écologiques et à l'harmonisation des normes européennes.",
+  "metadata": {
+    "source_file": "s2-d6.json",
+    "type": "commission",
+    "directive_id": "2-6",
+    "tokens": {
+      "count": 731,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:46.051116",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 6,
+  "actor_type": "commission",
+  "generated_at": "2025-11-02T18:03:53.881816",
+  "version": "4.7"
+}

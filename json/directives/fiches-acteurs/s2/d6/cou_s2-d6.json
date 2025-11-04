@@ -1,0 +1,757 @@
+[
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer justice sociale et convergence.",
+      "Renforcer son leadership social en Europe.",
+      "Équilibrer la transition énergétique avec les intérêts industriels nationaux.",
+      "Protéger ses systèmes judiciaires nationaux tout en favorisant la coopération européenne."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La France adopte une stratégie mixte basée sur l'alignement avec les priorités sociales et climatiques européennes tout en défendant ses intérêts industriels et technologiques. Elle s'appuie sur des alliances stratégiques (Italie, Allemagne) pour promouvoir la transition énergétique, tout en renforçant son influence via le soutien aux partis sociaux-démocrates et Verts/ALE. L'objectif est de positionner la France comme leader européen dans les domaines des technologies numériques (via Big Tech), de l'industrie automobile (protection sectorielle) et de l'énergie nucléaire (partie intégrante de sa transition bas-carbone). Elle combine également des positions prudents sur les amendements liés aux données (2-6C, 2-6F) pour protéger la vie privée tout en maintenant la coopération européenne. Cette approche permet à la France d'assurer une influence significative dans les négociations tout en préservant ses spécificités nationales.",
+    "alliances": [
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Allemagne (partage objectif nucléaire + investissements bas-carbone)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France insiste sur l'importance de la nucléaire comme pilier de sa transition énergétique, argumentant que cette technologie est nécessaire pour atteindre ses objectifs climatiques tout en assurant la sécurité énergétique.",
+      "Elle défend un approche équilibrée entre innovation numérique (via Big Tech) et protection des données privées, soulignant les risques d'exploitation abusive sans garanties strictes (amendement 2-6C).",
+      "La France s'appuie sur l'expertise de l'industrie automobile (via le lobby Automobile) pour démontrer que la transition écologique doit inclure des mesures concrètes de soutien aux secteurs industriels stratégiques.",
+      "Elle promeut les investissements sociaux dans les régions défavorisées via une alliance avec S&D, insistant sur l'importance d'une convergence européenne juste pour éviter la marginalisation des territoires périphériques.",
+      "La France s'oppose à toute exclusion de certains États membres (amendement 2-6F) en affirmant que la coopération globale est essentielle pour lutter efficacement contre les cybermenaces, tout en insistant sur des garanties strictes de protection des données.",
+      "Elle défend un rôle actif de l'Union européenne dans la lutte contre le terrorisme (amendement 2-6D), argumentant que la création d'une unité européenne renforcerait la coordination et réduirait les lacunes des systèmes nationaux.",
+      "La France s'engage à soutenir la souveraineté judiciaire nationale (amendement 2-6G) tout en reconnaissant l'utilité d'un observatoire européen des crimes transfrontaliers (amendement 2-6B), proposant un équilibre entre coopération et autonomie.",
+      "Elle justifie une transition progressive via l'opposition aux amendements radicaux (ex. 2-6E) en argumentant que la convergence européenne doit s'accompagner de mesures adaptées aux réalités économiques des États membres."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre secteurs industriels (ex. Volkswagen, Renault) et objectifs climatiques de la directive. Évaluer régulièrement l'impact des mesures sur les régions rurales (30% de la population, 25% des investissements). Surveiller la dépendance à la nucléaire et son acceptabilité dans les régions Sud-Ouest.",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement pour renforcer la sécurité numérique européenne, alignant sur ses priorités de défense technologique et d'innovation. Cela permettra de mieux combattre les menaces transfrontalières tout en protégeant les données des citoyens européens.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie cet amendement pour améliorer la coordination européenne en matière de criminalité, tout en exigeant des garanties sur le partage des données entre États membres et l'indépendance des systèmes judiciaires nationaux. Cela renforcerait l'efficacité sans compromettre les souverainetés.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "La France défend fermement cette mesure pour protéger les droits fondamentaux des citoyens européens. Elle considère que toute coopération transfrontalière doit s'accompagner d'une réglementation rigoureuse sur la collecte et le traitement des données personnelles.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement pour renforcer la coordination européenne dans la lutte contre le terrorisme. Cela permettrait d'harmoniser les approches et de mieux répondre aux menaces transnationales sans nuire à l'autonomie nationale.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose partiellement à cet amendement, jugeant que limiter la coopération à certains types de criminalité pourrait affaiblir l'efficacité générale des mesures européennes. Cependant, elle propose un cadre flexible qui respecte les spécificités nationales.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initialement proposé par la France, vise à protéger la souveraineté nationale tout en renforçant la sécurité européenne. Il permettrait d'exclure les États membres non coopératifs ou non conformes aux normes européennes de protection des données.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement pour préserver l'autonomie des systèmes juridiques nationaux tout en favorisant la coopération européenne. Elle considère que la souveraineté judiciaire est essentielle à l'efficacité de la directive.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "La France reste neutre sur cet amendement, jugeant que tout report doit être accompagné d'une évaluation rigoureuse des impacts et d'un plan d'action concret. Elle préfère une mise en œuvre progressive mais structurée.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-11-02T14:48:15.598893",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Non-porteur - Soutien à un salaire minimum européen mais insistance sur la flexibilité nationale.",
+    "enjeux_directive": [
+      "Éviter les rigidités économiques liées aux cadres européens unifiés.",
+      "Préserver sa compétitivité industrielle face à des réglementations divergentes entre États membres.",
+      "Assurer une transition énergétique harmonisée avec la préservation de secteurs stratégiques (automobile, chimie).",
+      "Maintenir un équilibre entre les exigences climatiques et les contraintes économiques nationales."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Allemagne en imposant des cadres harmonisés qui pourraient limiter la flexibilité sectorielle.",
+      "La position allemande reflète ses préoccupations nationales spécifiques, notamment la nécessité d'un accompagnement financier ciblé pour les régions industrielles."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-6H",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "L'Allemagne adopte une stratégie d'alignement progressif avec les objectifs européens tout en défendant ses priorités nationales. Elle privilégie un dialogue constructif avec les partenaires européens pour intégrer des clauses flexibles dans la directive, permettant aux États membres de s'adapter à leur propre contexte socio-économique. En parallèle, elle renforce sa position sur les enjeux stratégiques tels que l'énergie (transition vers l'hydrogène vert tout en maintenant une ouverture nucléaire), la protection des secteurs industriels (automobile, chimie) et la préservation de l'autonomie technologique. L'Allemagne insiste également sur un soutien financier ciblé pour les régions touchées par la transition énergétique et une coopération renforcée dans le domaine de la cyber-sécurité, en vue d'une coordination européenne efficace.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Allemagne défend une approche équilibrée entre objectifs climatiques et soutien aux secteurs industriels stratégiques, en soulignant les risques d'une transition trop rapide pour le tissu économique allemand.",
+      "Elle insiste sur la nécessité de respecter la souveraineté nationale dans la gestion des ressources énergétiques, tout en favorisant une coopération européenne structurée sur les enjeux de sécurité énergétique.",
+      "L'Allemagne milite pour un renforcement des mécanismes de financement européen ciblés, afin de compenser les coûts liés à la transition écologique dans les régions industrielles historiques du pays.",
+      "Elle préconise une approche nucléaire prudente mais ouverte, en soulignant l'importance d'une énergie bas-carbone pour assurer la continuité industrielle et la sécurité énergétique nationale.",
+      "L'Allemagne appuie un renforcement de la coopération européenne sur la cyber-sécurité, tout en défendant des garanties strictes en matière de protection des données personnelles.",
+      "Elle s'oppose à une harmonisation trop rigide des cadres juridiques européens, estimant qu'elle pourrait limiter l'adaptabilité des mesures nationales aux réalités économiques locales."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre secteurs industriels (Volkswagen, Siemens) et objectifs climatiques directive. Position nucléaire délicate (réticences historiques régions). Équilibrer transition énergétique et compétitivité secteur automobile.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-11-02T14:23:48.416321",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement car il aligne avec sa stratégie de renforcement des capacités de cybersécurité nationales et favorise une coordination européenne pour protéger les infrastructures critiques, notamment dans le secteur industriel.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie cette proposition à condition que l'observatoire intègre des garanties strictes en matière de protection des données et qu'il ne remette pas en cause les compétences nationales en matière de justice.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend fermement cette exigence, en soulignant son engagement envers le respect des droits fondamentaux et la nécessité d'un cadre légal robuste pour protéger les données personnelles.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cette initiative pour renforcer la coordination transnationale en matière de sécurité, tout en exigeant un respect strict des droits civils et des garanties juridiques nationales.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'inquiète d'une approche trop restrictive qui pourrait limiter l'efficacité des actions européennes, mais appuie une priorisation ciblée des types de criminalité les plus urgents.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose à cette proposition, estimant qu'elle pourrait fragiliser la coopération européenne et créer des fractures entre les États membres en matière de sécurité.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie cette proposition à condition qu'elle ne remette pas en cause la coopération européenne structurée, tout en défendant un soutien ciblé aux systèmes judiciaires les plus vulnérables.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend fermement cet amendement qu'elle a elle-même proposé pour permettre une adaptation progressive des réglementations au contexte économique allemand, tout en assurant un dialogue constructif avec les partenaires européens.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Réduire les inégalités territoriales.",
+      "Obtenir davantage de soutien financier.",
+      "Accélérer la transition énergétique tout en préservant le secteur industriel.",
+      "Renforcer la coopération transfrontalière contre la cybercriminalité.",
+      "Protéger les données personnelles tout en facilitant l'échange d'informations sécurisées."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Italie défend une approche équilibrée qui allie solidarité européenne, protection des secteurs industriels stratégiques (notamment l'automobile et les énergies fossiles), et renforcement de la coopération transfrontalière. Elle privilégie un modèle de transition écologique progressif, en associant les régions du Sud à la relance économique via des investissements dans l'hydrogène vert et les infrastructures numériques. L'Italie insiste également sur une gouvernance partagée pour éviter toute centralisation excessive des données, tout en soutenant un observatoire européen des crimes transfrontaliers pour renforcer la sécurité intérieure.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Italie considère que la directive doit intégrer des mesures de solidarité renforcée pour les régions du Sud, en particulier dans le domaine de l'énergie et de l'infrastructure.",
+      "Elle défend un approche progressive de transition écologique qui respecte les réalités économiques locales, notamment dans les secteurs industriels traditionnels.",
+      "L'Italie insiste sur la nécessité d'un soutien financier significatif pour financer des projets de développement durable en Italie, surtout dans les zones rurales et périurbaines.",
+      "Elle souligne l'importance de garantir la souveraineté nationale dans la gestion des données sensibles, tout en facilitant une coopération transfrontalière sécurisée.",
+      "L'Italie appuie la création d'une unité européenne de lutte contre le terrorisme, mais conditionne cette initiative à la préservation des systèmes juridiques nationaux.",
+      "Elle oppose un veto à toute mesure qui pourrait marginaliser les acteurs économiques traditionnels (comme le secteur du charbon) sans alternatives viables."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions Nord-Sud sur répartition fonds verts. Évaluer impact des mesures anti-charbon sur régions centrales (Emilie-Romagne, Lombardie). Surveiller lobbying automobile et énergies fossiles pour bloquer transition radicale.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-11-02T15:08:16.705766",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cet amendement pour renforcer la sécurité numérique dans les régions du Sud, où l'infrastructure technologique est moins développée. Cela permettrait de protéger les systèmes financiers et industriels contre les cybermenaces.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie approuve l'idée d'un observatoire, mais exige une garantie de respect de la souveraineté nationale et une participation active des autorités italiennes dans sa gestion.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "L'Italie considère que cette mesure est essentielle pour protéger les données personnelles des citoyens, en particulier dans les régions où les infrastructures numériques sont moins sécurisées.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient la création d'une telle unité, mais exige qu'elle ne remette pas en cause les responsabilités des systèmes juridiques nationaux dans l'application de la loi.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie est opposée à une limitation trop restrictive qui pourrait fragiliser les enquêtes transfrontalières, notamment dans les cas de cybercriminalité ou de terrorisme.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie rejette toute exclusion d'États membres, affirmant que cela pourrait créer des failles dans la coopération européenne et menacer la sécurité collective.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cette mesure pour renforcer la confiance dans le système juridique italien, en particulier dans les régions du Sud où l'efficacité des institutions est souvent critiquée.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie préfère une application progressive, mais s'oppose à un report prolongé qui pourrait retarder les investissements critiques dans l'énergie et l'infrastructure.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Préserver sa souveraineté économique et juridique sur les données nationales.",
+      "Éviter des coûts salariaux jugés trop élevés liés aux normes européennes de protection des données.",
+      "Protéger ses industries traditionnelles (agroalimentaire, énergie) contre une réglementation perçue comme intrusive.",
+      "Maintenir un contrôle stratégique sur les politiques de lutte contre la cybercriminalité."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Former un bloc avec les pays d'Europe centrale et orientale pour défendre une approche plus souveraine sur la coopération européenne en matière de cybercriminalité, tout en consolidant des alliances sectorielles dans les domaines industriels et technologiques. La Hongrie privilégie une diplomatie bilatérale avec des acteurs clés comme l'Italie ou la Pologne pour renforcer sa position face aux initiatives européennes plus centralisées.",
+    "alliances": [
+      "Allemagne (partage d'intérêts en matière de défense et de cybersécurité)",
+      "Italie (collaboration sur les mesures de protection des données nationales)",
+      "Verts/ALE (soutien à la transition écologique, y compris l'hydrogène vert)",
+      "S&D (priorité aux investissements dans les régions défavorisées et secteurs traditionnels)",
+      "Big Tech (innovation technologique pour renforcer la cybersécurité nationale)",
+      "Énergies fossiles (défense des intérêts sectoriels face à une transition rapide)",
+      "Conservateurs (préférence pour une approche plus progressive dans les politiques de lutte contre la criminalité transfrontalière)"
+    ],
+    "oppositions": [
+      "France (soutien à une coopération européenne plus étroite et centralisée)",
+      "PPE (préférence pour un cadre réglementaire uniforme à l'échelle de l'UE)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires sur les énergies fossiles, même indirectement liés à la directive)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Hongrie défend un contrôle national strict des données pour protéger sa souveraineté et éviter une dépendance excessive vis-à-vis des institutions européennes.",
+      "Elle souligne que les coûts associés aux normes de protection des données pourraient pénaliser les PME locales, qui sont déjà fragiles dans un contexte économique incertain.",
+      "La Hongrie insiste sur la nécessité d'une approche régionale dans la lutte contre la cybercriminalité, plutôt qu'une coordination centralisée à l'échelle de l'UE, pour mieux répondre aux réalités locales.",
+      "Elle argumente que l'intégration d'une unité européenne de lutte contre le terrorisme pourrait renforcer les capacités de sécurité nationale, mais doit être encadrée par des garanties juridiques strictes sur la protection des données personnelles.",
+      "La Hongrie préfère une transition progressive vers des normes plus strictes en matière de protection des données, afin d'éviter un choc économique ou technologique brutal pour les secteurs industriels traditionnels.",
+      "Elle défend le droit des États membres à refuser l'accès aux données dans certains cas, comme une mesure préventive contre les abus potentiels de la part des institutions européennes."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient l'élargissement de la coopération en matière de cybersécurité, mais uniquement dans le cadre d'un accord bilatéral ou régional. Elle préfère un contrôle national strict des données partagées et refuse tout mécanisme centralisé à l'échelle de l'UE.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "NEUTRE",
+        "justification": "La Hongrie reste neutre sur l'instauration d'un observatoire centralisé, car elle craint que cela ne mène à une surveillance excessive et non transparente. Elle suggère plutôt un modèle décentralisé ou régional.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie défend fermement cette mesure, car elle considère que les garanties strictes sur la protection de la vie privée sont essentielles pour préserver la souveraineté nationale et éviter une violation des droits fondamentaux.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient l'idée d'une unité européenne de lutte contre le terrorisme, mais insiste sur la nécessité de garantir un contrôle national strict des données et une transparence totale dans ses opérations.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie a initié cet amendement pour protéger ses intérêts nationaux en limitant la portée de la directive. Elle estime que certaines formes de coopération, notamment dans les domaines sensibles comme la sécurité nationale, doivent rester sous contrôle strict du gouvernement hongrois.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient cette proposition, mais uniquement si les exclusions sont basées sur des critères objectifs et non discriminatoires. Elle estime que certains États membres ne respectent pas les normes de protection des données européennes.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie défend la primauté des systèmes juridiques nationaux dans la lutte contre la cybercriminalité et la criminalité transfrontalière. Elle estime que l'harmonisation excessive pourrait nuire à la justice nationale et aux droits locaux.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Hongrie s'oppose à un report de deux ans, car elle considère que cela pourrait entraver les progrès en matière de cybersécurité européenne. Cependant, elle propose un délai plus court ou des conditions spécifiques pour assurer une transition contrôlée.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les secteurs industriels traditionnels de la Hongrie (agroalimentaire, énergie) et l'harmonisation européenne des normes. Évaluer régulièrement l'impact des mesures sur la souveraineté nationale en matière de protection des données. Surveiller également les relations avec les pays voisins comme la Slovaquie ou la Roumanie dans le cadre des initiatives européennes.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-11-02T15:34:42.193750",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Protéger ses industries nationales (notamment centrales à charbon et secteur énergétique)",
+      "Limiter le choc économique immédiat lié à la transition écologique",
+      "Assurer la souveraineté juridique nationale face aux mécanismes européens centralisés",
+      "Maintenir un équilibre entre les obligations climatiques et la préservation des emplois dans les régions industrielles",
+      "Soutenir les systèmes judiciaires nationaux contre l'intervention excessive de structures supranationales"
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Pologne adopte une stratégie hybride combinant des alliés proches (comme la Hongrie) pour renforcer sa position sur les enjeux énergétiques et climatiques, tout en s'appuyant sur des acteurs européens comme le PPE et les Conservateurs pour défendre une approche progressiste mais modérée. Elle insistera également sur l'importance de la souveraineté nationale dans les décisions judiciaires et économiques, tout en cherchant à convaincre des acteurs comme les Verts/ALE ou S&D d'adopter un cadre plus flexible sur les délais de mise en œuvre. Cette stratégie vise à concilier les exigences européennes avec les priorités nationales, notamment dans le domaine énergétique.",
+    "alliances": [
+      "France (partage des objectifs climatiques mais préfère une transition progressive et un soutien aux secteurs industriels stratégiques)",
+      "Italie (collaboration sur les enjeux de la transition écologique, notamment en matière d'hydrogène vert et de relance industrielle)",
+      "Verts/ALE (soutien à la transition écologique mais avec des conditions strictes pour protéger les secteurs économiques vulnérables)",
+      "S&D (priorité aux investissements dans les régions défavorisées, en particulier celles touchées par la fermeture des centrales à charbon)",
+      "Big Tech (innovation technologique dans les infrastructures numériques et l'énergie propre)",
+      "Automobile (protection des secteurs industriels stratégiques contre une transition trop rapide)",
+      "Banque (soutien aux investissements structuraux en énergie et innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon, défense des industries fossiles et résistance à toute réglementation européenne contraignante)",
+      "Conservateurs (préférence pour une transition progressive plutôt qu'une approche radicale, priorité aux secteurs économiques traditionnels)",
+      "Énergies fossiles (lobbies représentant les centrales à charbon polonaises et hongroises, opposés aux moratoires et réglementations européennes)"
+    ],
+    "éléments_d_argumentaire": [
+      "Pologne défend fermement la préservation de ses industries nationales, notamment les centrales à charbon, en soulignant l'importance économique et sociale de ces infrastructures.",
+      "Le pays insiste sur la nécessité d'une transition écologique progressive qui ne compromette pas la stabilité économique ni la création d'emplois dans les régions industrielles.",
+      "Pologne met en avant sa souveraineté nationale, affirmant que les décisions judiciaires et législatives doivent rester sous le contrôle des autorités nationales plutôt que d'être déléguées à des structures supranationales.",
+      "Le pays souligne l'importance de garantir une protection rigoureuse des données personnelles lorsqu'il s'agit d'accéder aux informations sensibles, en particulier pour éviter tout abus ou violation de la vie privée.",
+      "Pologne appuie l'idée d'une coopération renforcée sur la lutte contre la cybercriminalité, mais avec des conditions strictes garantissant une autonomie nationale dans la gestion des données et des infrastructures critiques.",
+      "Le pays défend un soutien prioritaire aux systèmes judiciaires nationaux, arguant que cela permettra de mieux respecter les droits et libertés individuels tout en évitant les interférences extérieures.",
+      "Pologne insiste sur la nécessité d'assurer une équitable répartition des financements européens entre toutes les régions du pays, notamment celles touchées par la transition écologique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cette proposition, mais avec des conditions strictes garantissant une souveraineté nationale sur les données critiques et un contrôle localisé des infrastructures de sécurité.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "NEUTRE",
+        "justification": "Pologne adopte une position neutre, soulignant que la mise en place d'un tel observatoire doit respecter les compétences nationales et ne pas remettre en cause l'autorité judiciaire locale.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "La Pologne appuie fermement cette proposition, considérant que la protection des droits fondamentaux doit toujours primer sur les besoins opérationnels ou économiques.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Pologne s'oppose partiellement à cette proposition, arguant que la mise en place d'une telle unité pourrait menacer l'indépendance judiciaire et la souveraineté nationale.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cette proposition, estimant qu'une coopération plus ciblée permettrait d'éviter les interférences inutiles et de concentrer les efforts sur des crimes transfrontaliers réels.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "Pologne s'oppose à cette proposition, considérant que l'exclusion d'états membres pourrait créer des inégalités et nuire à la coopération européenne globale.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "Pologne est l'initiateur de cet amendement, défendant fermement la nécessité d'accorder une priorité absolue aux systèmes judiciaires nationaux pour garantir la souveraineté et respecter les droits individuels.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Pologne soutient cette proposition sous réserve d'une mise en œuvre progressive qui ne compromette pas les objectifs climatiques ni la stabilité économique nationale.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions dans le secteur énergétique (centrales à charbon, régions industrielles) et l'impact des mesures climatiques sur les emplois. Évaluer impact des réglementations européennes sur la souveraineté judiciaire nationale. Recommander suivi de l'équilibre entre transition écologique et préservation des secteurs économiques stratégiques.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-11-02T15:56:40.274035",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Non-porteur - Opposée à un salaire minimum européen contraignant.",
+    "enjeux_directive": [
+      "Préserver son modèle basé sur la négociation collective.",
+      "Éviter une ingérence européenne perçue comme excessive.",
+      "Protéger l'indépendance énergétique (nucléaire + renouvelables).",
+      "Renforcer les capacités de cyberdéfense et de lutte contre le terrorisme.",
+      "Assurer la protection des données personnelles dans les coopérations transfrontalières.",
+      "Équilibrer la transition écologique avec l'innovation industrielle."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La Suède adopte une approche pragmatique en insistant sur la préservation de sa souveraineté économique et sociale. Elle défend un modèle de négociation collective fondé sur le dialogue social, refusant toute ingérence européenne dans les politiques salariales. Son objectif est de promouvoir des solutions adaptées à son contexte nordique, tout en collaborant sur des dossiers transversaux comme la cyberdéfense et l'énergie verte. La Suède cherche à renforcer ses alliances avec les pays partageant une vision progressiste mais souveraine (France, Italie) et à s'opposer aux positions centralisatrices ou conservatrices. Elle privilégie des amendements favorables à la protection de la vie privée, la coopération technologique et l'autonomie judiciaire nationale.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Suède s'appuie sur son modèle de négociation collective, reconnu pour sa flexibilité et son efficacité dans la gestion des relations sociales.",
+      "Elle défend un système énergétique indépendant (nucléaire + renouvelables) contrairement aux pressions de l'Europe en faveur d'une décarbonation rapide.",
+      "La Suède insiste sur la nécessité de protéger les données personnelles dans toute coopération transfrontalière, alignée sur ses normes strictes de protection de la vie privée.",
+      "Elle soutient une cyberdéfense renforcée via des alliances technologiques (Big Tech) et des investissements en innovation numérique.",
+      "La Suède valorise la souveraineté judiciaire nationale, préférant des solutions collaboratives plutôt qu'une centralisation européenne de l'application des lois.",
+      "Elle défend les intérêts industriels stratégiques (secteur automobile) en s'opposant à toute réglementation excessive qui pourrait pénaliser la compétitivité.",
+      "La Suède prône une transition écologique progressive, en s'appuyant sur les partenariats avec les Verts/ALE pour des objectifs climatiques ambitieux mais réalisables.",
+      "Elle mise sur l'innovation technologique (Big Tech) comme levier de croissance durable, en évitant les politiques qui limiteraient la liberté d'entreprendre."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions secteur automobile (Volvo, Saab) face à des réglementations environnementales. Évaluer impact de la transition énergétique sur les petites entreprises nordiques. Surveiller risques de centralisation des données via amendements cyber et terrorisme.",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "La Suède soutient cet amendement en raison de sa forte expertise en cybersécurité et des investissements récents dans les technologies numériques. Une coopération renforcée permettra d'assurer une défense commune contre les cybermenaces tout en respectant les normes de protection des données.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède appuie l'idée d'un observatoire mais souligne la nécessité de garantir la souveraineté nationale dans la collecte et l'analyse des données. Une structure décentralisée est préférable à une centralisation européenne.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "La Suède est un champion des droits fondamentaux et des libertés numériques. Elle s'engage à renforcer les garantiess en matière de confidentialité, conformément à ses lois nationales sur la protection des données.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "La Suède appuie la création d'une unité commune pour lutter contre le terrorisme, tout en insistant sur la nécessité de respecter les principes juridiques et les garanties constitutionnelles nationales.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Suède considère que limiter la coopération pourrait fragiliser les efforts collectifs contre des menaces transfrontalières. Cependant, elle préfère une approche flexible plutôt qu'une restriction rigide.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "La Suède s'oppose à toute exclusion d'États membres, considérant que cela pourrait créer des inégalités et affaiblir la solidarité européenne. Une coopération universelle est préférable.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "La Suède défend la primauté des systèmes juridiques nationaux, en insistant sur l'importance de respecter les traditions constitutionnelles et les normes établies.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "La Suède reste neutre sur le délai d'application, estimant que tout report doit être accompagné de mesures concrètes pour assurer une mise en œuvre efficace. Elle préfère une transition progressive plutôt qu'un report non conditionné.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-11-02T16:16:50.895004",
+    "version": "4.7"
+  }
+]

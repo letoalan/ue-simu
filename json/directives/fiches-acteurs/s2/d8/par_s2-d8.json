@@ -1,0 +1,766 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Protéger les industries stratégiques européennes (automobile, énergie) contre les cybermenaces.",
+      "Renforcer la résilience numérique de l'Union européenne face aux attaques transfrontalières.",
+      "Assurer une transition écologique compatible avec la compétitivité industrielle et le soutien aux secteurs traditionnels.",
+      "Équilibrer la gouvernance européenne des normes cybersécurité tout en respectant les souverainetés nationales.",
+      "Promouvoir l'innovation technologique comme levier de croissance économique et de sécurité collective."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques du PPE, notamment la défense des secteurs économiques clés et le renforcement des institutions européennes.",
+      "Le positionnement du PPE reflète sa vision d'une intégration européenne structurée par des normes communes tout en préservant les intérêts nationaux."
+    ],
+    "stratégie": "Le PPE adopte une approche pragmatique et défensive pour la directive, visant à sécuriser les secteurs économiques critiques (énergie, transport, industrie) tout en évitant un recul technologique. Son objectif est de renforcer la souveraineté européenne sur la cybersécurité sans compromettre l'innovation ou le libre-échange. Le parti prône une coopération étroite avec les pays membres (Allemagne, France) pour aligner les mesures sur les priorités nationales (nucléaire, transition énergétique) tout en défendant des normes communes strictes contre les cybermenaces. Il milite pour un financement européen ciblé de la formation des professionnels du secteur et une collaboration étroite avec les industries stratégiques (automobile, banque) pour garantir leur adaptation aux nouvelles réglementations.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Renouveau Européen (préférence libérale sur réglementation européenne)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité industrielle est un pilier de la souveraineté européenne, particulièrement pour les secteurs stratégiques comme l'automobile et l'énergie.",
+      "Un financement européen ciblé des compétences numériques renforcera la résilience technologique sans peser sur les budgets nationaux.",
+      "La protection des industries traditionnelles (charbon, pétrole) doit être conciliée avec les objectifs climatiques via une transition progressive et accompagnée.",
+      "L'harmonisation des normes cybersécurité favorise l'intégration européenne tout en évitant la fragmentation réglementaire.",
+      "La coopération entre l'Union et les acteurs privés (Big Tech, automobile) est cruciale pour garantir un déploiement efficace des mesures de sécurité.",
+      "Les investissements dans les technologies vertes doivent être associés à une protection des secteurs économiques existants pour éviter la déindustrialisation.",
+      "La résilience numérique doit s'appuyer sur une collaboration étroite entre États membres et institutions européennes pour anticiper les cybermenaces transnationales."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "Le PPE, initiateur de cet amendement, défend fermement son adoption pour sécuriser l'ensemble des secteurs stratégiques européens (énergie, transport, industrie) face aux cybermenaces croissantes. Cet élargissement permettra d'assurer une protection cohérente et uniformisée tout en préservant la souveraineté nationale sur les normes applicables.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE appuie cet amendement à condition que le financement priorise les secteurs industriels stratégiques et les PME européennes. Une répartition équitable des fonds entre les pays membres (notamment ceux avec des infrastructures numériques moins développées) est essentielle pour éviter une fracture technologique au sein de l'Union.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement pour garantir une main-d'œuvre qualifiée dans le domaine de la cybersécurité, en particulier pour les pays membres où la formation technique est insuffisante. Cela renforcera la résilience numérique tout en évitant un déséquilibre entre les régions développées et défavorisées.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Le PPE considère que la création d'un mécanisme européen de réaction immédiate aux cybermenaces est indispensable pour protéger les infrastructures critiques (transport, énergie) et prévenir les attaques transnationales. Cela renforcera la confiance des citoyens et des entreprises dans l'Union européenne.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose partiellement à cet amendement car il pourrait limiter l'efficacité des mesures européennes face aux cybermenaces. Une trop grande restriction du champ d'action risquerait de laisser certaines infrastructures critiques vulnérables, en particulier dans les pays membres avec des systèmes informatiques moins développés.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à l'exclusion de secteurs critiques (comme le nucléaire ou l'énergie) des normes européennes, car cela pourrait créer une fragmentation réglementaire et compromettre la sécurité commune. Une approche unifiée est nécessaire pour garantir une protection homogène dans tous les pays membres.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Le PPE adopte une position neutre sur cet amendement, car il estime que la coordination européenne doit coexister avec l'autonomie nationale. Cependant, une priorisation des initiatives nationales pourrait créer des inégalités dans le déploiement des mesures de cybersécurité selon les pays membres.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose partiellement à ce report, car il pourrait retarder la mise en œuvre des mesures essentielles pour la sécurité européenne. Cependant, un délai de transition court et ciblé (sur les secteurs économiques critiques) pourrait être acceptable pour éviter une surcharge administrative.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les secteurs industriels (Volkswagen, Renault) et les objectifs climatiques de la directive. Équilibrer les positions du PPE sur la transition énergétique avec les priorités des pays membres comme l'Allemagne et l'Italie. Surveiller l'équilibre entre souveraineté nationale et gouvernance européenne dans le domaine de la cybersécurité.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T21:52:32.011397",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates",
+    "actor_id": "sd",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer la protection immédiate des citoyens et des entreprises contre les cybermenaces transfrontalières.",
+      "Renforcer la solidarité européenne via une coopération structurée en cybersécurité.",
+      "Promouvoir l'équilibre entre innovation numérique et respect des droits de l'homme.",
+      "Soutenir les petites et moyennes entreprises (PME) dans leur transition vers des infrastructures sécurisées.",
+      "Garantir la neutralité technologique pour éviter les monopolies des géants du numérique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates, notamment la défense d'une Europe solidaire face aux menaces numériques.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne via des mécanismes transnationaux de cybersécurité."
+    ],
+    "stratégie": "Socialistes et Démocrates (S&D) adopte une stratégie axée sur la création d'infrastructures numériques sécurisées tout en préservant les droits sociaux. Le parti insiste sur l'importance de l'éducation numérique pour tous, le financement public de la recherche en cybersécurité et la coopération européenne renforcée. L'alliance avec les Verts/ALE permet d'intégrer des perspectives écologiques dans les systèmes numériques. La S&D soutient également une régulation stricte des géants du numérique pour éviter les abus, tout en favorisant l'innovation technologique via des investissements publics ciblés. Le parti défend un modèle de cybersécurité qui ne sacrifie pas la souveraineté nationale, en s'appuyant sur des accords mutuellement bénéfiques entre États membres.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'intégration de la cybersécurité dans les politiques sociales permet de protéger les données des citoyens vulnérables.",
+      "Le financement public de l'innovation numérique garantit un accès équitable aux technologies pour tous les États membres.",
+      "La coopération européenne en cybersécurité renforce la résilience collective face aux cyberattaques transfrontalières.",
+      "Les investissements ciblés dans les régions défavorisées favorisent l'inclusion numérique et réduisent les disparités sociales.",
+      "La régulation des géants du numérique évite le monopole sur les infrastructures critiques tout en encourageant la concurrence éthique.",
+      "L'harmonisation des normes européennes permet de standardiser les pratiques de cybersécurité sans sacrifier la souveraineté nationale.",
+      "La formation obligatoire des professionnels du secteur garantit une main-d'œuvre qualifiée et responsable dans le domaine numérique."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l'industrie automobile allemande (Volkswagen, BMW) et les objectifs climatiques de la directive. Évaluer régulièrement l'impact des mesures sur les PME en Europe centrale. Surveiller les désaccords avec les Conservateurs sur le rythme de la transition numérique.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T22:07:37.337492",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement du Corps européen de cybersécurité aux secteurs critiques comme la santé, l'énergie et la finance renforce la protection collective des citoyens européens. Cette mesure aligne les objectifs de S&D sur une Europe résiliente face aux cybermenaces transnationales.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un tel fonds permettrait de financer des projets innovants tout en garantissant une répartition équitable des ressources entre les pays membres. Cependant, il doit être accompagné d'une transparence totale pour éviter les abus.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE",
+        "justification": "La formation obligatoire de tous les professionnels impliqués dans la cybersécurité garantit un niveau élevé de compétences et de responsabilité. Cela renforce la crédibilité européenne en matière d'innovation numérique.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Un mécanisme de réponse rapide permettrait de minimiser les dommages causés par les cyberattaques, protégeant ainsi l'économie européenne et la vie privée des citoyens.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que la limitation du champ d'action puisse éviter des surcharges, elle risque de réduire l'efficacité globale. Un équilibre doit être trouvé entre spécialisation et couverture complète.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains secteurs des normes communes pourrait créer des failles de sécurité et des disparités entre les États membres. La cohésion européenne exige une harmonisation des standards.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Le soutien aux initiatives nationales est acceptable à condition qu'elles soient alignées avec les objectifs européens. Cela éviterait une fragmentation inutile des efforts collectifs.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report de deux ans permettrait aux États membres de s'adapter, mais doit être accompagné d'un plan de mise en œuvre clair pour éviter les retards inutiles.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Soutenir la compétitivité des entreprises technologiques européennes face aux acteurs globaux (États-Unis, Chine).",
+      "Promouvoir une transition numérique sécurisée et inclusive pour les PME et secteurs traditionnels.",
+      "Renforcer la souveraineté européenne en cybersécurité tout en favorisant l'innovation ouverte.",
+      "Assurer un équilibre entre régulation stricte des risques numériques et flexibilité pour les start-ups et entrepreneurs.",
+      "Structurer une réponse collective aux menaces cybernétiques transnationales (cyberattaques, piratage industriel)."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Positionner l’Europe comme leader mondial de la cybersécurité, en combinant innovation technologique et coopération transnationale. Le parti mise sur trois piliers : (1) renforcer les capacités industrielles européennes pour produire des solutions logicielles, matérielles et infrastructures de sécurité ; (2) promouvoir un marché unique numérique ouvert tout en garantissant la protection des données et la confidentialité (RGPD 2.0) ; (3) favoriser une diplomatie numérique active avec les acteurs mondiaux pour établir des normes internationales partagées. Cette stratégie vise à concilier souveraineté technologique, croissance économique et coopération multilatérale, tout en répondant aux attentes des secteurs critiques comme l'industrie manufacturière, les services financiers et la santé.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir la souveraineté européenne en cybersécurité tout en évitant de créer des barrières commerciales avec les marchés mondiaux.",
+      "Les fonds européens pour l'innovation doivent prioriser les PME et start-ups technologiques, non seulement les géants du numérique (Big Tech).",
+      "La formation des professionnels du secteur doit être conditionnée à la maîtrise des normes de cybersécurité européennes, pour éviter des lacunes en compétences.",
+      "Un mécanisme de réponse rapide aux cyberattaques nécessite une coordination étroite avec les États-Membres et les acteurs privés, y compris les industries critiques (énergie, santé).",
+      "L'élargissement du corps européen de cybersécurité à tous les secteurs critiques doit être accompagné d'un plan de financement stable pour éviter les lacunes structurelles.",
+      "Les normes communes doivent respecter la diversité des besoins sectoriels (banque, santé, transports) tout en assurant un niveau minimum de sécurité partagé.",
+      "La directive doit encourager l'innovation européenne dans le domaine des solutions logicielles, en évitant une dépendance excessive aux produits américains ou chinois."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen soutient cette extension pour renforcer la résilience des secteurs stratégiques (énergie, santé, transports) face aux cybermenaces. Cela permettrait de généraliser les compétences acquises dans les domaines technologiques et de créer un réseau paneuropéen de défense numérique, essentiel pour protéger l'économie européenne.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen est l'initiateur de cet amendement, qui vise à financer la recherche et le développement de solutions innovantes en cybersécurité. Cela stimulerait l'émergence d'un écosystème technologique européen indépendant des géants mondiaux, tout en soutenant les PME et start-ups du secteur.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Renouveau Européen soutient cette condition pour garantir que les formations reçues correspondent aux besoins réels du marché européen. Cependant, il préconise un accompagnement des régions défavorisées pour éviter une fracture numérique entre les pays membres.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement permettrait une coordination immédiate entre les États-Membres et les acteurs privés pour limiter l'impact des cyberattaques. Renouveau Européen soutient cette initiative, en soulignant la nécessité d'un système paneuropéen de détection et de riposte.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Renouveau Européen s'oppose à cette limitation, car elle pourrait fragiliser la couverture des secteurs critiques. Cependant, il préconise une flexibilité dans l'application des normes pour les pays avec des infrastructures moins développées.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "Renouveau Européen s'oppose à cette exclusion, car elle risquerait de créer des disparités entre les pays membres et d'entraîner une fragmentation du marché numérique. L'uniformité des normes est essentielle pour assurer la sécurité transnationale.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Renouveau Européen reste neutre, car il préconise un équilibre entre les initiatives nationales et l'harmonisation européenne. Les investissements locaux doivent être complétés par une coopération paneuropéenne pour éviter des doubles efforts.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Renouveau Européen s'oppose à ce report, car il pourrait retarder la mise en place d'un cadre européen unifié. La transition numérique doit être rapide et structurée pour répondre aux menaces croissantes.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec lobby Énergies fossiles (réticence à la transition vert) et inégalités d'accès aux fonds innovants entre pays membres. Évaluer impact de la directive sur les PME technologiques en Italie et l'industrie automobile allemande.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T22:23:38.628154",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Non-porteur - Soutiennent la directive mais insistent sur la transparence et l’éthique.",
+    "enjeux_directive": [
+      "Garantir le respect des droits numériques.",
+      "Assurer une cybersécurité respectueuse des libertés.",
+      "Promouvoir des normes technologiques durables alignées sur les objectifs climatiques de l’UE (2030/2050).",
+      "Renforcer la coopération transfrontalière pour la protection des infrastructures critiques dans un contexte de dépendance géopolitique.",
+      "Intégrer des standards éthiques dans les technologies cybernétiques pour prévenir les abus algorithmiques.",
+      "Protéger les régions périphériques contre l’abandon technologique en garantissant une transition juste."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne.",
+      "L’accent mis sur la durabilité technologique renforce leur crédibilité dans les négociations climatiques.",
+      "La directive offre un cadre pour concilier cybersécurité et justice sociale."
+    ],
+    "stratégie": "Verts/ALE adopte une approche progressiste mais pragmatique, combinant des exigences strictes en matière d’éthique numérique avec un soutien conditionnel aux mesures économiquement viables. Leur stratégie repose sur trois piliers : (1) renforcer les garde-fous éthiques et environnementaux dans la gouvernance technologique, (2) favoriser l’innovation verte dans les secteurs de la cybersécurité pour aligner les normes européennes avec les objectifs climatiques (notamment le Pacte Vert), et (3) promouvoir des solutions collaboratives transnationales pour éviter une fragmentation technologique au sein de l’UE. Ils insisteront sur des mécanismes de contrôle indépendants, la transparence des algorithmes d’intelligence artificielle utilisés dans les systèmes de cybersécurité, et l’inclusion de la justice climatique dans la conception des infrastructures numériques critiques. Leur objectif est de garantir que les gains technologiques ne pénalisent pas les pays ou secteurs en difficulté, tout en renforçant la résilience européenne face aux menaces géopolitiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "Renouveau Européen (convergences sur l’agriculture durable)",
+      "Énergies renouvelables (développement infrastructures vertes)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à l’harmonisation des normes environnementales dans les secteurs industriels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit intégrer des critères de durabilité et d’équité climatique pour éviter une concurrence déloyale entre les États-membres sur les standards technologiques.",
+      "Le renforcement du corps européen de cybersécurité nécessite un financement massif (proposition de 20% des fonds européens à l’horizon 2030) et une coopération transfrontalière pour protéger les infrastructures critiques.",
+      "Les normes technologiques doivent inclure des obligations d’évaluation d’impact environnemental pour éviter la surconsommation énergétique des systèmes de cybersécurité.",
+      "La directive doit prévoir des mécanismes d’aide aux pays et secteurs en difficulté pour ne pas creuser les écarts technologiques entre régions riches et périphériques.",
+      "Une approche rigoureuse sur l’éthique algorithmique est nécessaire pour éviter les discriminations systémiques dans les systèmes de cybersécurité.",
+      "La transition vers des normes durables doit être accompagnée d’un plan de formation pour les travailleurs des secteurs traditionnels (ex : énergies fossiles) menacés par la transformation numérique."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs traditionnels (énergies fossiles, automobile) et objectifs climatiques. Évaluer impact de la directive sur les régions périphériques (Italie du Sud, Balkans). Surveiller l’alignement des normes technologiques avec les priorités vertes.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-11-04T08:40:48.655638",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure renforce la résilience numérique de l’UE en couvrant des secteurs comme l’énergie, l’eau et les infrastructures agricoles, essentiels pour atteindre les objectifs climatiques. L’expansion garantit une protection cohérente à travers l’Union face aux cybermenaces croissantes.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Un financement dédié permettrait de soutenir des projets innovants en cybersécurité alignés sur les principes environnementaux (ex : IA verte, réseaux énergétiques résilients). Cela favoriserait une transition technologique durable à l’échelle européenne.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les formations doivent inclure des modules sur l’éthique numérique et la durabilité technologique. Une approche rigoureuse éviterait l’exploitation abusive de données, tout en développant une main-d’œuvre compétente pour les infrastructures critiques.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Un dispositif commun permettrait d’atténuer les impacts des attaques sur les infrastructures critiques (ex : réseaux électriques, systèmes agricoles). Cela renforcerait la solidarité européenne et préserverait l’équilibre écologique.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une limitation pourrait fragiliser la protection des infrastructures critiques, notamment dans les régions défavorisées. Cependant, un cadre strict doit encadrer l’extension pour éviter une surcharge administrative.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "L’exclusion de secteurs clés (ex : agriculture, énergie) risquerait d’entacher la cohérence européenne et d’affaiblir l’impact global de la directive. Une harmonisation rigoureuse est nécessaire pour protéger les normes environnementales.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Les initiatives nationales doivent être alignées sur les objectifs communs européens. Une coopération renforcée éviterait la fragmentation technologique et garantirait une approche transfrontalière.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report pourrait ralentir la transition vers des systèmes cybernétiques durables. Cependant, un calendrier flexible doit être proposé pour respecter les capacités des États-membres moins avancés technologiquement.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Non-porteur - Soutien prudent avec insistance sur la subsidiarité.",
+    "enjeux_directive": [
+      "Préserver les compétences nationales en cybersécurité.",
+      "Limiter les dépenses européennes à l'innovation technologique.",
+      "Protéger les secteurs industriels stratégiques (énergie, automobile).",
+      "Renforcer la souveraineté numérique des États membres."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR) en favorisant une approche décentralisée.",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne fondée sur la coopération non contraignante."
+    ],
+    "stratégie": "Mettre en avant l’importance des responsabilités nationales tout en s'appuyant sur une gouvernance partagée. La stratégie se concentre sur trois axes : (1) Renforcer les capacités d'État dans la cybersécurité, (2) Promouvoir un financement conditionnel aux investissements privés, et (3) Maintenir un équilibre entre souveraineté nationale et coopération européenne. L’approche vise à éviter une surcharge bureaucratique tout en garantissant la protection des secteurs stratégiques comme l’énergie ou les infrastructures critiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Renouveau Européen (soutien à une approche plus centralisée de la directive)"
+    ],
+    "éléments_d_argumentaire": [
+      "La subsidiarité doit primer sur les initiatives européennes, préservant la capacité des États membres à gérer leurs propres infrastructures critiques.",
+      "Les investissements conditionnels à la formation professionnelle permettent de garantir une main-d'œuvre qualifiée sans surcharger le budget communautaire.",
+      "Un mécanisme européen de réponse rapide aux cyberattaques doit s'appuyer sur des partenariats public-privé, non sur une gestion centralisée.",
+      "La protection des secteurs industriels stratégiques (automobile, énergie) est un pilier de la souveraineté économique européenne.",
+      "Les normes communes doivent rester souples pour éviter d'entraver l'innovation technologique dans les pays membres.",
+      "Un fonds européen pour l’innovation en cybersécurité doit privilégier des projets pilotés par des États membres, non par une instance européenne."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "L'extension du corps européen de cybersécurité aux secteurs industriels et énergétiques critique est alignée avec l'objectif des Conservateurs et Réformistes Européens (ECR) de renforcer la souveraineté numérique européenne. Cela permettrait de créer une réponse commune sans compromettre les responsabilités nationales.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un tel fonds doit être conditionné à des investissements privés et aux priorités nationales, afin d'éviter une dépendance excessive aux budgets communautaires. Cela correspond à la vision de l'ECR sur la gouvernance partagée.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait de garantir une qualité élevée de la main-d'œuvre sans surcharger le système européen. Elle s'inscrit dans l'objectif de l'ECR de promouvoir des investissements responsables et ciblés.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un mécanisme européen doit rester coordonné avec les initiatives nationales, et ne pas remplacer la responsabilité des États membres. Cela aligne avec l'approche de l'ECR sur la subsidiarité.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une limitation trop stricte pourrait fragiliser la réponse collective face aux cybermenaces. Cependant, les frontières doivent rester claires pour préserver la souveraineté des États membres.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "FAVORABLE",
+        "justification": "L'ECR soutient une flexibilité dans l'application des normes, afin de permettre aux États membres d'adapter les règles à leurs priorités sectorielles et économiques.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Cela renforce la subsidiarité et permet aux États membres d'agir en autonomie, tout en bénéficiant d'une coopération européenne structurée.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report pourrait permettre une meilleure mise en œuvre, mais ne doit pas entraver les efforts de coordination européenne. Un délai court et ciblé est préférable.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs énergétiques (ex: Énergies fossiles en Pologne, Allemagne) et objectifs climatiques. Risque de conflits d'intérêts dans les lobbies automobiles (ex: Volkswagen, Renault). Évaluer impact des normes communes sur les régions économiquement vulnérables.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-11-04T08:03:16.165103",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Promouvoir l’emploi et la justice sociale.",
+      "Renforcer les compétences locales.",
+      "Assurer une transition écologique équitable.",
+      "Protéger la souveraineté numérique européenne.",
+      "Soutenir les initiatives de recherche publique sur le climat."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne.",
+      "La directive permet d'harmoniser les politiques climatiques et sociales à l'échelle européenne."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-8C",
+        "origine": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+        "description": "Conditionner les aides à la formation des professionnels du secteur",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "La Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) adopte une stratégie axée sur l’union des forces progressistes pour renforcer les politiques climatiques, sociales et numériques à l’échelle européenne. Elle défend un modèle de transition écologique fondé sur la justice sociale, le soutien aux secteurs d’avenir (comme l’éolien, l’hydrogène vert ou les énergies renouvelables), et une forte coopération transnationale pour combattre les inégalités économiques. L’alliance avec des acteurs comme la France, l'Italie, le Parti Socialiste & Démocrates (S&D) et les Verts/ALE permet de mobiliser des ressources significatives pour financer des projets d’innovation durable. En même temps, elle s’oppose à toute mesure qui pourrait favoriser les intérêts des énergies fossiles ou retarder la transition écologique. La GUE/NGL mise également sur des alliances stratégiques avec des lobbies comme Big Tech pour promouvoir une gouvernance numérique inclusive, tout en exigeant des garanties sociales et environnementales strictes. Cette approche vise à concilier croissance économique, justice sociale et durabilité écologique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La GUE/NGL s’engage à garantir la justice sociale dans la transition écologique en exigeant une répartition équitable des fonds européens entre les régions défavorisées et celles déjà avancées.",
+      "Elle défend un modèle de développement basé sur l’économie circulaire, la sobriété énergétique et la réduction des déchets industriels pour atteindre les objectifs climatiques de la Commission européenne.",
+      "La GUE/NGL soutient l’expansion du corps européen de cybersécurité vers tous les secteurs critiques (comme l’énergie, la santé ou le transport) afin d’assurer une protection collective contre les cyberattaques et de renforcer la résilience numérique européenne.",
+      "Elle exige que les aides européennes soient conditionnées à la formation professionnelle des travailleurs du secteur technologique et des industries vertes pour éviter le chômage structurel lié aux changements climatiques.",
+      "La GUE/NGL s’oppose à toute mesure qui pourrait favoriser les intérêts des énergies fossiles, comme la prolongation de l’utilisation du charbon ou le report de l’application d’une directive climatique.",
+      "Elle milite pour une gouvernance numérique inclusive, en insistant sur la nécessité de réglementer les géants technologiques tout en développant des infrastructures numériques accessibles à tous les citoyens européens.",
+      "La GUE/NGL préconise l’harmonisation des normes européennes pour les secteurs critiques (comme l’énergie, la santé ou l’agriculture) afin d’assurer une cohérence légale et technologique à l’intérieur de l’Union.",
+      "Elle appuie le financement européen d’une transition écologique accélérée, en particulier pour les pays membres confrontés à des défis climatiques majeurs (comme les îles méditerranéennes ou les régions nordiques)."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "À surveiller tensions entre les secteurs industriels traditionnels (comme l’automobile allemande) et les objectifs climatiques de la directive. Évaluer régulièrement l’impact des mesures sur les régions en difficulté économique (notamment dans le Sud de l’Europe). Surveiller les négociations avec les partis conservateurs, qui pourraient freiner certaines initiatives progressistes.",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "La GUE/NGL défend fermement cet amendement car il aligne avec sa stratégie de renforcer la sécurité numérique européenne et d’assurer une protection collective pour tous les secteurs critiques (comme l’énergie, la santé ou le transport). Cet élargissement permettrait de mieux préparer l’Europe aux cyberattaques et d’améliorer la résilience technologique des États membres.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La GUE/NGL s’engage à soutenir cet amendement si les financements du fonds sont conditionnés à des critères sociaux et écologiques stricts. Elle considère que l’innovation en cybersécurité doit servir à protéger les droits des citoyens, pas seulement les intérêts économiques privés.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE",
+        "justification": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) est l'initiateur de cet amendement qu'elle a elle-même proposé pour garantir une transition écologique et numérique équitable. Cet amendement vise à préparer les travailleurs du secteur technologique et des industries vertes aux changements économiques induits par la transition écologique, tout en évitant le chômage structurel.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "La GUE/NGL soutient cet amendement car il permettrait d’assurer une coordination efficace entre les États membres face aux menaces numériques. Cela renforcerait la sécurité collective et réduirait le risque de dépendance excessive envers des acteurs privés technologiques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La GUE/NGL s’oppose à cet amendement car il pourrait limiter la capacité de l’Union européenne à protéger tous les secteurs critiques. Cependant, elle reste ouverte à des restrictions si elles sont justifiées par des considérations de sécurité nationale ou de souveraineté.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL s’oppose à cet amendement car elle considère que l’exclusion de certaines industries du cadre réglementaire européen pourrait créer des inégalités entre les États membres et compromettre la cohésion économique européenne.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "La GUE/NGL reste neutre sur cet amendement car elle considère que l’harmonisation européenne est nécessaire pour éviter la fragmentation technologique, mais elle accepterait des initiatives nationales si elles sont complémentaires du cadre commun.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL s’oppose à cet amendement car elle estime que le report pourrait retarder la mise en œuvre des mesures climatiques et numériques cruciales pour l’Europe. Elle préconise une application rapide de la directive.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "parti",
+    "generated_at": "2025-11-04T08:21:52.870767",
+    "version": "4.7"
+  }
+]

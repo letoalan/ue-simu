@@ -1,0 +1,749 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne. Son objectif principal est de promouvoir une réglementation favorable aux innovations numériques tout en limitant l'interférence des autorités publiques dans la gouvernance technologique.",
+    "enjeux_directive": [
+      "Développer des solutions d'agriculture intelligente (IoT, drones, IA pour optimisation des rendements).",
+      "Valoriser les données agricoles pour créer de nouveaux marchés numériques.",
+      "Sécuriser l'accès aux infrastructures critiques (cloud computing, réseaux 5G) en évitant les restrictions excessives.",
+      "Protéger les investissements massifs dans la recherche et le développement technologique contre des réglementations jugées coûteuses.",
+      "Assurer un cadre juridique harmonisé pour l'utilisation de l'IA agricole, en évitant des divergences nationales qui nuiraient à l'échelle européenne."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés, notamment en matière de régulation des données agricoles et d'accès aux infrastructures numériques."
+    ],
+    "stratégie": "Big Tech adopte une approche proactive pour influencer la législation européenne. Elle s'appuie sur un réseau d'alliances stratégiques avec des pays avancés technologiquement (comme la France et l'Italie), des partis européens favorables à l'innovation (Verts/ALE, PPE) et des lobbies économiques complémentaires (automobile, banque). Son objectif est de promouvoir une réglementation qui permette aux technologies numériques d'être pleinement intégrées dans la chaîne agricole, tout en évitant les moratoires ou les restrictions excessives. Elle défend également l'idée d'une gouvernance partagée entre le secteur privé et les autorités publiques pour garantir à la fois l'innovation et la sécurité des données. En cas de confrontation, elle s'appuie sur son influence économique et technologique pour défendre ses positions.",
+    "alliances": [
+      "France (partage objectif numérique + investissements bas-carbone)",
+      "Italie (collaboration infrastructures numériques + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + innovation technologique)",
+      "S&D (priorité investissements régions défavorisées en technologies agricoles)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques liés à l'IA)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les solutions d'agriculture intelligente développées par Big Tech permettent une augmentation significative des rendements agricoles tout en réduisant l'utilisation de ressources naturelles.",
+      "La valorisation des données agricoles via les outils numériques crée de nouveaux marchés dynamiques pour la filière agricole et technologique européenne.",
+      "Les réglementations restrictives imposées par certains pays ou partis risquent de freiner l'innovation dans le secteur agricole numérique, pénalisant les acteurs européens compétitifs sur le marché mondial.",
+      "Big Tech défend un cadre juridique clair et harmonisé pour l'utilisation de l'intelligence artificielle en agriculture, afin d'éviter des divergences nationales qui nuiraient à la cohérence européenne.",
+      "La réglementation excessive sur les infrastructures numériques (cloud computing, 5G) pourrait limiter l'accès aux outils critiques nécessaires au développement de l'agriculture intelligente.",
+      "L'absence d'une stratégie commune pour la gouvernance des données agricoles risque de fragmenter le marché européen, réduisant ainsi les économies d'échelle et la compétitivité globale du secteur."
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec le secteur agroalimentaire traditionnel (France, Italie) sur la gouvernance des données agricoles. Évaluer régulièrement impact mesures régions Sud (40% population, 25% investissements). Surveiller équilibre entre innovation technologique et protection des petits exploitants.",
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car il permet d'assurer une plus grande flexibilité dans l'utilisation des infrastructures numériques critiques, facilitant ainsi le déploiement de solutions agricoles intelligentes. Une réserve stratégique plus longue renforce la résilience du secteur technologique face aux crises énergétiques et logistiques.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cet amendement car il ne concerne pas directement ses intérêts dans le secteur agricole. Cependant, elle apprécie l'idée de conditionner les subventions à des critères environnementaux, à condition que cela ne pénalise pas l'innovation technologique.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement car une relocalisation excessive des chaînes agricoles pourrait limiter l'accès aux technologies numériques transfrontalières. Elle défend plutôt une approche basée sur la connectivité numérique et les échanges internationaux.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que le label ne pénalise pas les solutions numériques qui optimisent les chaînes logistiques. Elle défend une approche hybride combinant circuits courts et technologies d'optimisation numérique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose fermement à cet amendement car une réserve stratégique trop courte risque de fragiliser les infrastructures numériques critiques, limitant l'accès aux outils nécessaires au développement agricole intelligent.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cet amendement car il ne concerne pas directement les infrastructures numériques ou l'innovation technologique. Cependant, elle apprécie l'idée d'une régulation ciblée, à condition qu'elle n'entrave pas la connectivité agricole.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à cet amendement car elle défend une approche inclusive, favorisant l'accès aux technologies agricoles pour toutes les tailles d'exploitations. Elle préfère un soutien équilibré entre petites et grandes exploitations.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement car un report de deux ans pourrait retarder le déploiement des solutions agricoles intelligentes, pénalisant ainsi les acteurs européens compétitifs sur le marché mondial. Elle défend une mise en œuvre rapide pour maximiser l'impact technologique.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T21:30:30.745948",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Energies Fossiles et cherche à influencer la législation européenne. Son objectif principal est de ralentir la transition énergétique en défendant des politiques sectorielles, tout en minimisant l'impact économique sur les industries extractives et les régions dépendantes des combustibles fossiles.",
+    "enjeux_directive": [
+      "Maintenir une part significative d'énergies fossiles dans le mix énergétique européen pour assurer la sécurité d'approvisionnement à moyen terme",
+      "Protéger les investissements existants dans les infrastructures de production et de distribution d'énergie conventionnelle",
+      "Résister à l'adoption d'objectifs climatiques ambitieux qui menacent la rentabilité du secteur",
+      "Promouvoir une transition progressive vers des technologies bas-carbone (comme le charbon à faible émission) plutôt que des solutions radicales",
+      "Contrôler les financements européens liés aux énergies fossiles pour éviter leur réduction prématurée"
+    ],
+    "impacts_directive": [
+      "La directive menace la viabilité économique du secteur pétrolier, gazier et charbonnier en Europe",
+      "Les politiques de décarbonation accélérées menacent l'emploi dans les régions industrielles historiquement liées aux énergies fossiles",
+      "L'introduction d'objectifs climatiques ambitieux pourrait rendre obsolètes les investissements existants dans le secteur"
+    ],
+    "stratégie": "La stratégie de Énergies Fossiles repose sur une triple approche: (1) la négociation sectorielle pour intégrer des mesures de transition progressive, (2) la formation d'alliances avec les pays et partis favorables à une approche modérée, et (3) l'exploitation des inégalités économiques entre régions. Lobbies comme celui des énergies fossiles collaborent avec des acteurs tels que Pologne et Hongrie pour défendre la nécessité d'une transition contrôlée, tout en exploitant les divergences entre pays plus avancés (comme la France) et ceux moins industrialisés. L'objectif est de retarder l'adoption d'objectifs climatiques ambitieux tout en maintenant une participation sectorielle à l'échelon européen.",
+    "alliances": [
+      "Pologne (défense des industries charbonnières traditionnelles et nécessité de transition contrôlée)",
+      "Hongrie (opposition aux moratoires sur le charbon et défense du secteur industriel)",
+      "Conservateurs (préférence pour une transition progressive vs radicale)",
+      "PPE (défense des intérêts économiques sectoriels européens)",
+      "Énergies fossiles (lobbies centrales charbon et gaz - opposition aux moratoires)",
+      "Agrochimie (dépendance des engrais chimiques aux énergies fossiles)",
+      "Banque (soutien aux investissements structuraux dans le secteur d'énergie conventionnelle)"
+    ],
+    "oppositions": [
+      "France (pionnière de la transition écologique et promotion de l'hydrogène vert)",
+      "Verts/ALE (objectifs climatiques ambitieux et phase-out rapide des énergies fossiles)",
+      "S&D (priorité aux investissements régions défavorisées en énergies propres)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition vers les énergies renouvelables doit être progressive pour éviter une crise industrielle et sociale, particulièrement dans les régions fortement dépendantes des combustibles fossiles",
+      "Les investissements existants dans le secteur des énergies conventionnelles ne devraient pas être abandonnés prématurément, sous peine de pertes économiques massives pour l'Europe",
+      "La sécurité d'approvisionnement à court terme dépend encore largement des énergies fossiles, particulièrement dans un contexte géopolitique incertain",
+      "Les technologies bas-carbone (comme le charbon à faible émission) peuvent contribuer à la transition écologique sans compromettre l'industrie européenne traditionnelle",
+      "Une approche modérée permet de concilier les objectifs climatiques avec la préservation des emplois dans les régions industrielles historiques",
+      "Les financements européens devraient continuer à soutenir le secteur énergétique traditionnel pour éviter un déclin économique prématuré"
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "L'extension de la réserve stratégique permettrait d'assurer une sécurité d'approvisionnement à moyen terme, particulièrement dans un contexte géopolitique incertain. Cela garantirait la continuité des investissements dans les infrastructures traditionnelles, tout en évitant des pics de prix excessifs qui pourraient affecter la compétitivité industrielle européenne.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'association de critères agroécologiques aux subventions pourrait limiter l'accès des producteurs dépendant des engrais chimiques (qui restent encore largement basés sur les énergies fossiles) à ces aides. Cependant, une approche modérée permettrait de concilier la transition agricole avec les besoins du secteur énergétique.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "DEFAVORABLE",
+        "justification": "La création d'un fonds spécifique pour la relocalisation de l'agriculture pourrait accélérer la réduction des dépendances aux engrais chimiques et à la production industrielle actuelle, menaçant ainsi les intérêts du secteur énergétique. Cela risquerait de décourager l'investissement dans les technologies bas-carbone.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "NEUTRE",
+        "justification": "Le label pourrait encourager des pratiques agricoles plus durables, mais son impact sur le secteur énergétique reste limité. Une approche neutre permettrait d'éviter tout conflit inutile tout en laissant les acteurs du secteur énergétique traditionnel se concentrer sur leur propre transition.",
+        "priorite": "faible",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Une réduction de la réserve stratégique à 3 mois créerait un risque accru de pénurie énergétique, particulièrement dans les régions dépendantes des combustibles fossiles. Cela pourrait menacer la stabilité industrielle et affecter l'industrie européenne traditionnelle.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'exclusion sélective de certains produits agricoles pourrait permettre d'assurer une plus grande flexibilité dans la gestion des réserves, tout en évitant un impact trop brutal sur les producteurs dépendant des engrais chimiques. Cependant, cette exclusion devrait rester modérée pour ne pas compromettre la transition agricole.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le soutien aux grandes exploitations agricoles pourrait accélérer la transition vers des pratiques plus durables, mais cela risquerait de marginaliser certaines structures traditionnelles. Une approche équilibrée permettrait d'assurer une transition graduelle sans sacrifier les intérêts du secteur énergétique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un report de la directive permettrait d'assurer une transition plus maîtrisée et coordonnée, en donnant le temps aux acteurs économiques de s'adapter. Cela éviterait des perturbations inutiles dans les secteurs dépendants des énergies fossiles.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions régions centrales (Pologne, Hongrie) et objectifs climatiques directive. Évaluer impact mesures sur les emplois industriels. Surveiller collaborations entre lobbies énergies fossiles et agrochimie.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T21:49:47.754188",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Financer les infrastructures de stockage stratégique.",
+      "Développer des produits financiers pour soutenir les agriculteurs (prêts, assurances).",
+      "Assurer la stabilité du système financier face aux transitions énergétiques et climatiques.",
+      "Intégrer des critères de durabilité dans les prêts et investissements sectoriels.",
+      "Faciliter l'accès au financement pour les petites entreprises agricoles et industrielles.",
+      "Concilier objectifs climatiques avec la compétitivité du secteur bancaire européen."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Banque et Finance adopte une approche proactive dans les négociations européennes en s'appuyant sur des alliances stratégiques avec des acteurs clés (pays, partis, lobbies). La stratégie vise à promouvoir des solutions financières innovantes pour soutenir la transition écologique tout en préservant la stabilité du secteur. Cela inclut une collaboration étroite avec les États membres pour financer des infrastructures de stockage stratégiques, le développement d'outils financiers (prêts vert, assurances climat), et l'intégration des critères environnementaux dans la réglementation bancaire. En parallèle, Banque et Finance s'efforce de modérer les amendements qui pourraient entraver sa capacité à financer le secteur agricole ou industriel tout en respectant les objectifs climatiques. La lobby s'appuie sur ses partenariats avec des acteurs économiques et politiques influents pour maximiser son impact dans les décisions européennes.",
+    "alliances": [
+      "France (collaboration sur les projets de financement vert et l'innovation technologique)",
+      "Italie (partage d'intérêts en matière de stabilité financière et de transition énergétique)",
+      "PPE (soutien aux réformes économiques et à la réglementation sectorielle stricte)",
+      "Verts/ALE (alignement sur les objectifs climatiques tout en développant des produits financiers durables)",
+      "Big Tech (partenariats pour la digitalisation des services financiers et l'innovation infrastructurale)",
+      "Automobile (protection des secteurs industriels stratégiques face aux transitions énergétiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux mesures restrictives sur les industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La stabilité du système financier est cruciale pour soutenir la transition écologique. Les banques jouent un rôle central dans le financement des projets vert et des infrastructures durables.",
+      "Le développement de produits financiers innovants (prêts vert, assurances climat) permet d'atténuer les risques liés aux transitions énergétiques tout en stimulant l'économie.",
+      "La réglementation stricte sur les secteurs polluants doit être accompagnée de mesures de soutien financière pour éviter la perte de compétitivité européenne.",
+      "Les petites entreprises agricoles et industrielles nécessitent un accès équitable au financement pour s'adapter aux nouvelles normes environnementales.",
+      "Les critères de durabilité doivent être intégrés progressivement dans les prêts et investissements, en évitant une réglementation trop rigide qui pourrait freiner l'économie.",
+      "La transition énergétique doit se faire avec un financement adéquat pour éviter la déstabilisation des marchés financiers européens.",
+      "Les acteurs du secteur bancaire doivent être associés à la conception des politiques climatiques pour garantir leur viabilité économique et sociale.",
+      "Une coopération étroite entre les banques, les gouvernements et les lobbies économiques est nécessaire pour concilier objectifs climatiques et développement industriel."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement permet d'assurer une plus grande stabilité des marchés agricoles et industriels face aux fluctuations énergétiques, ce qui est crucial pour les banques qui financent ces secteurs. Une réserve stratégique augmentée facilite également l'accès au financement pour les projets de transition écologique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Bien que cette mesure favorise une agriculture plus durable, elle nécessite des garanties de financement pour les petites exploitations agricoles. Banque et Finance soutient l'idée à condition qu'elle soit accompagnée de mesures concrètes pour faciliter l'accès au crédit.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds permettrait de stimuler l'économie rurale et d'améliorer la résilience des chaînes d'approvisionnement agricoles, ce qui est bénéfique pour les banques qui financent ces secteurs. Il renforce également le financement de projets durables.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La création d'un label européen favoriserait les circuits courts, ce qui pourrait stimuler l'économie locale. Cependant, Banque et Finance exige des garanties sur la viabilité financière de ces projets pour éviter une surcharge des banques.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Une réserve stratégique réduite pourrait entraîner une instabilité des marchés agricoles et industriels, ce qui affecterait négativement les banques dans leur capacité à financer ces secteurs. Ce compromis risque d'aggraver l'inégalité entre les grandes exploitations et les PME.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de certains produits agricoles pourrait créer des déséquilibres dans les marchés et nuire à l'économie rurale. Banque et Finance propose un accompagnement financier pour ces secteurs, mais reste opposée à toute exclusion sans compensation.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE",
+        "justification": "Ce soutien favorise des inégalités entre les grandes et les petites exploitations agricoles, ce qui pourrait entraver la diversité économique. Banque et Finance préfère un soutien équilibré pour tous les acteurs du secteur.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report de deux ans risque d'entacher la crédibilité des objectifs climatiques européens. Banque et Finance soutient une application rapide pour garantir une transition énergétique efficace et un financement adéquat des projets durables.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur bancaire et réglementation climatique stricte. Évaluer impact des mesures sur les petites entreprises agricoles (ex: Italie, France). Surveiller alignement des objectifs climatiques avec la viabilité économique du financement.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T22:06:08.034638",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Maintenir l'usage des pesticides et engrais chimiques dans l'agriculture conventionnelle.",
+      "Limiter les exigences de transition agroécologique pour préserver leurs marchés.",
+      "Protéger les parts de marché des produits phytosanitaires en limitant la réglementation européenne.",
+      "Assurer une concurrence équitable avec d'autres secteurs agricoles (agriculture biologique, circuits courts).",
+      "Accroître l'investissement public dans la recherche et développement des solutions agrochimiques."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie de défense active de l'usage des produits chimiques agricoles en s'appuyant sur les alliances politiques et économiques. Le lobby mobilise ses ressources pour influencer la législation européenne en faveur de la pérennité de ses marchés, tout en évitant d'entraîner un recul de l'agriculture conventionnelle. Son approche repose sur des alliances stratégiques avec des pays membres (comme la France et l'Italie) qui partagent une vision économique similaire, ainsi qu'avec des groupes politiques comme le PPE et les Conservateurs. Agrochimie favorise un cadre réglementaire flexible pour permettre aux acteurs du secteur de s'adapter progressivement à des normes plus strictes, tout en maintenant leur compétitivité. En parallèle, le lobby participe activement aux débats sur les amendements, en insistant notamment sur la nécessité d'équilibrer les exigences environnementales avec l'efficacité agronomique de ses produits. Cette stratégie vise à garantir une transition agroécologique progressive et contrôlée, sans compromettre les bénéfices économiques du secteur.",
+    "alliances": [
+      "France (partage objectif maintien des marchés agricoles conventionnels)",
+      "Italie (collaboration pour la protection de l'industrie agrochimique dans le sud de l'Europe)",
+      "PPE (soutien à la flexibilité réglementaire sur les produits phytosanitaires)",
+      "Conservateurs (préférence pour une transition progressive et non radicale)",
+      "Big Tech (synergies en matière d'innovation numérique dans le secteur agricole)",
+      "Automobile (protection des chaînes d'approvisionnement agricoles en produits chimiques)",
+      "Banque (soutien aux investissements structuraux pour la recherche agrochimique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la réglementation stricte sur les pesticides et engrais chimiques)",
+      "Verts/ALE (soutien exclusif à l'agriculture biologique et circuits courts)",
+      "Énergies fossiles (lobbies centrales charbon, opposés aux mesures environnementales strictes)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'agrochimie est essentielle pour assurer la production agricole à grande échelle, indispensable à l'alimentation mondiale.",
+      "La transition agroécologique doit être progressive afin de ne pas nuire à la compétitivité des agriculteurs européens.",
+      "Les réglementations strictes sur les pesticides risquent d'entraîner un déplacement des productions vers des pays avec des normes moins exigeantes.",
+      "La recherche agrochimique permet de développer des solutions innovantes pour lutter contre les ravageurs et améliorer la résistance des cultures.",
+      "Les acteurs du secteur s'engagent à respecter les objectifs environnementaux, mais en évitant une réglementation trop contraignante.",
+      "L'industrie agrochimique contribue à l'économie européenne par le biais de la recherche, des exportations et des emplois."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cet amendement car il pourrait accélérer la transition énergétique de manière inégalitaire, favorisant les pays membres qui ont déjà investi dans l'hydrogène vert au détriment des secteurs agricoles qui dépendent encore du pétrole et du gaz. Cela risque d'affecter indirectement la production de matières premières chimiques.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie est partiellement opposée à cet amendement car il pourrait limiter l'accès aux subventions pour les producteurs qui n'adoptent pas rapidement des pratiques agroécologiques. Toutefois, le lobby accepte une transition progressive accompagnée de mesures de soutien pour les agriculteurs.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition que les financements soient répartis équitablement entre les pays membres, en tenant compte des spécificités agricoles de chacun. Cela pourrait renforcer la souveraineté alimentaire européenne tout en préservant les marchés agrochimiques.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cet amendement car il pourrait marginaliser les grandes exploitations agricoles, qui dépendent encore fortement des produits chimiques pour assurer leur productivité et leur rentabilité.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose fermement à cet amendement car il risque d'accélérer la transition énergétique au détriment des secteurs agricoles et industriels qui dépendent encore de la production pétrolière et gazière. Cela pourrait entraîner une baisse de l'efficacité énergétique dans certains pays membres.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition que les exclusions soient basées sur des critères scientifiques objectifs et non politiques. Cela permettrait de mieux cibler les produits agricoles qui ne nécessitent pas de stockage stratégique.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car il favorise un modèle agricole qui maximise la production à grande échelle, essentiel pour assurer l'alimentation européenne. Cela permettrait de maintenir une économie agricole performante et rentable.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition qu'une période de transition soit accompagnée d'aides spécifiques pour les agriculteurs. Cela permettrait une adaptation progressive sans compromettre la compétitivité du secteur agrochimique.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec les Verts/ALE sur les circuits courts et l'agriculture biologique. Évaluer impact des amendements sur les régions agricoles dépendantes de la production chimique (Allemagne, France). Surveiller coopération avec Big Tech pour l'innovation numérique dans le secteur agrochimique.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-30T09:43:27.115898",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique, notamment la recherche, l'innovation, et l'accès aux médicaments. Vise à influencer la législation européenne pour favoriser un environnement réglementaire propice aux entreprises du secteur tout en assurant une couverture santé publique optimale.",
+    "enjeux_directive": [
+      "Assurer la continuité des approvisionnements en médicaments essentiels pendant les crises sanitaires.",
+      "Promouvoir l'innovation pharmaceutique via un cadre réglementaire stimulant la recherche et le développement.",
+      "Protéger les brevets pour encourager les investissements dans les traitements innovants.",
+      "Garantir une répartition équitable des bénéfices des innovations sanitaires à l'échelle européenne."
+    ],
+    "impacts_directive": [
+      "La directive pourrait modifier les conditions de régulation des prix des médicaments, affectant la rentabilité des entreprises pharmaceutiques.",
+      "Les mesures liées aux accords de licence obligatoire pourraient influencer le modèle économique du secteur."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une approche multifacette combinant lobbying actif auprès des institutions européennes, collaborations stratégiques avec des pays et partis favorables à l'innovation, ainsi que défenses juridiques pour protéger les brevets. Il cherche à promouvoir un équilibre entre la nécessité d'accès aux médicaments abordables et la protection de l'innovation. La stratégie inclut également des campagnes publicitaires ciblées sur le rôle crucial du secteur dans la santé publique européenne, en mettant l'accent sur les investissements dans la recherche sur les maladies rares ou les pandémies. Le lobby collabore étroitement avec des acteurs clés comme les États-Unis et le Canada pour aligner les normes réglementaires internationales.",
+    "alliances": [
+      "France (soutien à l'innovation pharmaceutique via des financements publics)",
+      "Allemagne (partage d'objectifs en matière de recherche médicale et de développement technologique)",
+      "S&D (priorité aux investissements dans la santé publique européenne)",
+      "Verts/ALE (collaboration sur les technologies vertes appliquées à l'industrie pharmaceutique)",
+      "Big Tech (partenariats en matière d'intelligence artificielle pour accélérer la découverte de médicaments)",
+      "Automobile (synergies dans les chaînes d'approvisionnement et les logistiques sanitaires)"
+    ],
+    "oppositions": [
+      "Énergies fossiles (soutien à des politiques qui pourraient limiter les investissements dans la santé publique)",
+      "Conservateurs (préférence pour une réglementation moins stricte sur les brevets)",
+      "Hongrie (position favorable à des mesures réduisant les coûts de production pharmaceutique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La recherche et l'innovation dépendent fortement des protections juridiques des brevets, sans lesquelles le secteur ne pourrait pas investir dans la découverte de nouveaux traitements.",
+      "L'Union européenne doit garantir que les médicaments essentiels restent accessibles aux populations vulnérables, ce qui exige un équilibre entre régulation et innovation.",
+      "Les collaborations internationales, notamment avec des pays non européens, sont cruciales pour accélérer le développement de traitements contre des maladies rares ou pandémiques.",
+      "Un cadre réglementaire harmonisé favorisera la compétitivité européenne du secteur pharmaceutique face à d'autres acteurs mondiaux comme les États-Unis ou l'Inde.",
+      "La digitalisation et l'intelligence artificielle doivent être encouragées pour améliorer l'efficacité des recherches sur les médicaments.",
+      "Les politiques climatiques doivent intégrer la nécessité d'assurer une chaîne d'approvisionnement résiliente dans le secteur pharmaceutique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La prolongation de la réserve stratégique pourrait affecter l'accessibilité des médicaments essentiels en cas de crise, surtout si les stocks ne sont pas gérés efficacement. Cependant, une coordination européenne sur la gestion des réserves reste nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "NEUTRE",
+        "justification": "Ce point ne concerne pas directement le secteur pharmaceutique, mais une vigilance est nécessaire pour éviter que des mesures agricoles n'affectent indirectement la disponibilité de matières premières utilisées dans la production pharmaceutique.",
+        "priorite": "faible",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Si le fonds permet de garantir une chaîne d'approvisionnement résiliente, cela pourrait bénéficier indirectement au secteur pharmaceutique. Cependant, des conditions doivent être imposées pour éviter que les ressources ne soient détournées vers des secteurs moins prioritaires.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "DEFAVORABLE",
+        "justification": "Les circuits courts pourraient limiter l'accès à des matières premières importées nécessaire à la production pharmaceutique, surtout dans les régions moins favorisées. Une étude approfondie est nécessaire avant de valider ce type d'initiative.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Une réserve réduite pourrait favoriser une meilleure gestion des stocks et éviter les surstocks coûteux. Cependant, cela doit être accompagné de mécanismes d'urgence pour assurer l'approvisionnement en cas de crise.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "NEUTRE",
+        "justification": "L'impact sur le secteur pharmaceutique est limité, mais une évaluation des conséquences indirectes sur les matières premières agricoles utilisées dans la production pharmaceutique doit être faite.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un soutien inégal entre grands et petits exploitants pourrait créer des tensions dans la chaîne d'approvisionnement, affectant indirectement le secteur pharmaceutique. Une approche équilibrée est préférable.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report permettrait de mieux évaluer les impacts sur le secteur pharmaceutique, notamment en termes de réglementation et de financement. Cependant, cela ne doit pas retarder des mesures essentielles pour la santé publique.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre régulation des brevets et accessibilité aux médicaments. Coordonner avec les États-Unis pour aligner les normes internationales. Évaluer l'impact des mesures agricoles sur les matières premières utilisées dans la production pharmaceutique.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T22:22:22.005581",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne, en particulier sur les normes environnementales, la transition vers les véhicules électriques, l'innovation technologique et l'accès aux marchés stratégiques (UE, Asie, Amérique).",
+    "enjeux_directive": [
+      "Développer la logistique et les transports pour les circuits courts (véhicules électriques, livraisons locales).",
+      "Bénéficier des investissements dans les infrastructures rurales.",
+      "Assurer une transition énergétique compatible avec la compétitivité du secteur automobile (batteries, hydrogène vert).",
+      "Protéger les chaînes d'approvisionnement critiques en matières premières (lithium, cobalt) pour les véhicules électriques.",
+      "Mettre en place des normes harmonisées pour la reprise de l'économie circulaire (récupération des matériaux, recyclage).",
+      "Soutenir les investissements publics dans la R&D automobile bas-carbone."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés par les normes environnementales, la transition vers l'électrification et la répartition des fonds européens."
+    ],
+    "stratégie": "L'acteur Automobile adopte une stratégie de dialogue multilatéral pour aligner les objectifs climatiques de l'UE sur ses besoins industriels. Il insiste sur un cadre réglementaire progressif, en évitant les mesures radicales qui risqueraient d'affecter la compétitivité du secteur européen. L'acteur mène des campagnes ciblées auprès des États-membres clés (Allemagne, France, Italie) pour obtenir un soutien à sa vision d'une transition technologique structurée et équilibrée. Il participe activement aux groupes de travail de la Commission sur l'innovation automobile et les politiques climatiques, en soulignant les coûts économiques potentiels des transitions trop rapides.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "PPE (compromis entre ambitions climatiques et défis économiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Renouveau Européen (privilégie l'innovation technologique sur les mesures climatiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "Protéger des emplois industriels stratégiques dans le secteur automobile, notamment dans les régions historiques de production (Allemagne, France, Italie).",
+      "Soutenir la transition vers l'électrification en garantissant un accès équitable aux technologies de batterie et à l'hydrogène vert.",
+      "Assurer une coopération étroite avec le secteur technologique (Big Tech) pour intégrer les innovations numériques dans les véhicules électriques (connectivité, IA).",
+      "Mettre en place des mécanismes de financement public pour compenser l'augmentation des coûts liés à la transition écologique.",
+      "Promouvoir une approche globale de la logistique et du transport (circuits courts) qui favorise à la fois les objectifs climatiques et la réduction des coûts logistiques.",
+      "Préserver la compétitivité européenne face aux concurrents asiatiques en investissant dans les infrastructures de production locale."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-4A",
+        "titre": "Porter la réserve stratégique à 9 mois",
+        "position": "FAVORABLE",
+        "justification": "L'augmentation de la réserve stratégique permettrait de stabiliser les coûts des matières premières critiques (lithium, cobalt) pour les véhicules électriques, réduisant ainsi le risque d'interruptions dans les chaînes d'approvisionnement. Cela alignerait également la directive avec les objectifs européens de sécurité énergétique et de diversification des fournisseurs.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter la réserve stratégique à 9 mois"
+      },
+      {
+        "amendement": "2-4B",
+        "titre": "Conditionner les aides à la transition agroécologique",
+        "position": "NEUTRE",
+        "justification": "Bien que l'automobile s'intéresse aux synergies entre agriculture et transport, cette mesure concerne davantage le secteur agricole. Cependant, un soutien conditionnel aux pratiques agricoles durables pourrait indirectement bénéficier à la logistique verte et aux circuits courts.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la transition agroécologique"
+      },
+      {
+        "amendement": "2-4C",
+        "titre": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette mesure pourrait entraîner des coûts supplémentaires pour les transporteurs routiers et ferroviaires, qui sont essentiels au secteur automobile. Cependant, un financement ciblé pour la relocalisation de l'agriculture pourrait renforcer les circuits courts, ce qui est favorable à long terme.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la relocalisation alimentaire"
+      },
+      {
+        "amendement": "2-4D",
+        "titre": "Créer un label européen de circuits courts",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le label pourrait renforcer la visibilité des transports locaux et favoriser l'adoption de véhicules électriques pour les livraisons courtes. Cependant, il doit être conçu de manière à ne pas pénaliser les transporteurs qui utilisent des routes longues.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un label européen de circuits courts"
+      },
+      {
+        "amendement": "2-4E",
+        "titre": "Limiter la réserve stratégique à 3 mois",
+        "position": "DEFAVORABLE",
+        "justification": "Une réduction trop rapide de la réserve stratégique exposerait le secteur automobile à des volatilités市场价格 des matières premières, compromettant ainsi sa capacité à investir dans les technologies de demain (batteries, hydrogène). Cela pourrait également ralentir la transition vers l'électrification.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Limiter la réserve stratégique à 3 mois"
+      },
+      {
+        "amendement": "2-4F",
+        "titre": "Exclure certains produits agricoles de la réserve",
+        "position": "NEUTRE",
+        "justification": "Cette mesure concernant principalement l'agriculture n'a pas d'impact direct sur le secteur automobile. Cependant, une exclusion des produits agricoles non essentiels pourrait indirectement renforcer la sécurité alimentaire, ce qui est bénéfique pour les circuits courts.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains produits agricoles de la réserve"
+      },
+      {
+        "amendement": "2-4G",
+        "titre": "Soutenir prioritairement les grandes exploitations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'automobile préfère une approche équilibrée entre les grandes et petites exploitations agricoles, afin d'éviter de pénaliser les circuits locaux qui dépendent des exploitants familiaux. Cependant, un soutien modéré aux grandes exploitations pourrait favoriser la production en masse nécessaire pour la logistique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les grandes exploitations"
+      },
+      {
+        "amendement": "2-4H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report pourrait permettre aux entreprises automobiles d'adapter leurs infrastructures et processus à la nouvelle réglementation. Cependant, cela doit être accompagné de mesures concrètes pour garantir une transition rapide et non dilatoire.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d4.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la nécessité de décarboner le secteur automobile et l'impact sur les emplois industriels dans les régions traditionnelles (Allemagne, France, Italie). Évaluer l'effet des mesures climatiques sur les exportations européennes vers les marchés asiatiques. Recommander un dialogue accru avec le secteur de l'énergie pour aligner les objectifs d'hydrogène vert.",
+    "scenario_id": 2,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T22:39:16.572404",
+    "version": "4.7"
+  }
+]

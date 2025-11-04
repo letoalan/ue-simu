@@ -1,0 +1,763 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Protéger la sécurité européenne en renforçant la coopération militaire et diplomatique.",
+      "Soutenir les industries militaires pour assurer une défense autonome de l'UE face aux menaces géopolitiques.",
+      "Promouvoir des mécanismes de solidarité diplomatique pour prévenir les conflits internationaux.",
+      "Équilibrer la transition écologique avec les intérêts économiques des secteurs industriels clés (énergies fossiles, automobile).",
+      "Assurer une représentation élargie de l'UE dans les organisations internationales pour renforcer son influence diplomatique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques du PPE, notamment sur la défense européenne et le soutien aux secteurs industriels stratégiques.",
+      "Le positionnement du PPE reflète sa vision d'une Europe unie mais souveraine, capable de répondre à des défis extérieurs tout en préservant l'indépendance économique."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-5D",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "Le PPE adopte une stratégie axée sur la défense européenne et le soutien aux secteurs industriels stratégiques, tout en défendant des objectifs climatiques ambitieux mais progressifs. Il vise à renforcer l'unité de l'UE face aux menaces géopolitiques tout en maintenant un équilibre entre les intérêts économiques et environnementaux. Le parti privilégie une approche multilatérale, combinée à une coopération étroite avec des partenaires comme la France, l'Italie et le secteur automobile.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité européenne doit être renforcée par une coopération militaire et diplomatique étroite entre les États membres.",
+      "Les industries militaires et énergétiques doivent bénéficier d'un soutien structurel pour garantir la souveraineté technologique de l'UE.",
+      "La transition écologique doit s'accompagner de mesures économiques pour préserver les emplois dans les secteurs en déclin (charbon, pétrole).",
+      "L'innovation technologique (numérique, hydrogène vert) est un levier clé pour l'équilibre entre développement durable et compétitivité industrielle.",
+      "La diplomatie européenne doit être renforcée par des fonds dédiés à la prévention des conflits internationaux.",
+      "Les investissements dans les régions défavorisées doivent être prioritaires pour réduire les disparités économiques au sein de l'UE.",
+      "La représentation unique de l'UE doit s'étendre à toutes les organisations internationales pour renforcer son influence globale."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le soutien aux industries énergétiques fossiles (Énergies fossiles, Hongrie) et les objectifs climatiques progressistes du PPE. Évaluer régulièrement l'impact des mesures de transition écologique sur les secteurs industriels stratégiques comme la voiture et l'énergie. Surveiller également les divergences entre le PPE et les partis plus radicaux (Verts/ALE, S&D) sur la vitesse et l'étendue des réformes climatiques.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "parti",
+    "generated_at": "2025-10-31T07:23:57.668720",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Le PPE défend fermement cette proposition car elle renforce la position de l'UE dans les instances mondiales, ce qui est essentiel pour promouvoir ses intérêts économiques et diplomatiques. Cela permettra également d'accroître la coopération transatlantique et multilatérale sur des sujets clés comme la sécurité énergétique et la défense.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient ce fonds à condition qu'il soit financé par des contributions équitables des États membres. Ce mécanisme permettrait de renforcer la capacité de l'UE à agir préventivement dans les conflits internationaux, tout en maintenant un équilibre entre les priorités budgétaires nationales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "NEUTRE",
+        "justification": "Le PPE reste neutre sur cette proposition car elle pourrait renforcer l'unité de l'UE dans ses actions diplomatiques, mais nécessite des investissements importants en matière de formation. Une évaluation plus approfondie est nécessaire pour déterminer son impact réel.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Le PPE est l'initiateur de cet amendement. Il vise à renforcer la solidarité européenne face aux crises internationales, tout en maintenant un cadre de coopération structuré entre les États membres. Cette mesure est cruciale pour garantir une réponse coordonnée et efficace lors des conflits géopolitiques.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose partiellement à cette proposition car elle pourrait limiter l'influence de l'UE dans les instances mondiales. Cependant, il reste ouvert à une réflexion sur la pertinence des organisations concernées pour éviter un gaspillage des ressources.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à cette proposition car elle pourrait fragiliser l'unité européenne et créer des tensions internes. Une exclusion serait perçue comme une menace à la souveraineté nationale de certains États membres, ce qui nuirait à l'image globale de l'UE.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose partiellement à cette proposition car elle pourrait affaiblir l'action commune de l'UE au niveau international. Cependant, il reconnaît la nécessité d'une flexibilité dans certaines situations pour préserver les intérêts nationaux.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à cette proposition car elle retarderait la mise en œuvre des mesures cruciales pour la sécurité et la diplomatie européenne. Un report pourrait compromettre l'équilibre entre les priorités politiques et économiques de l'UE.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates",
+    "actor_id": "sd",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer la légitimité sociale et politique de la défense européenne.",
+      "Concilier sécurité et valeurs progressistes.",
+      "Promouvoir une diplomatie multilatérale renforcée par des mécanismes de solidarité transnationale.",
+      "Protéger les droits des travailleurs dans le cadre des politiques d'intégration européenne.",
+      "Renforcer la gouvernance partagée pour l'innovation technologique et la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Construire des alliances transversales autour de la sécurité humaine, en combinant un engagement fort pour les droits sociaux, la justice climatique et une diplomatie préventive. La stratégie repose sur trois piliers : (1) renforcer les solidarités régionales via des investissements ciblés, (2) défendre l'innovation technologique inclusive en collaboration avec le secteur public et les acteurs sociaux, (3) promouvoir une diplomatie multilatérale fondée sur la coopération transnationale plutôt que sur la souveraineté nationale. Cette approche vise à concilier sécurité collective et équité sociale, en insistant sur des mécanismes de financement européen structurés pour soutenir les politiques publiques sociales et environnementales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir une justice climatique équitable en intégrant la voix des régions les plus touchées par le changement climatique, comme les pays méditerranéens et les zones rurales vulnérables.",
+      "Les investissements européens doivent prioriser l'innovation technologique socialement responsable, avec une mise en œuvre claire des principes de durabilité, d'égalité et de transparence.",
+      "Le mécanisme de solidarité diplomatique doit inclure des garanties concrètes pour les pays membres en difficulté, en particulier les régions périphériques confrontées à des défis économiques majeurs.",
+      "La formation diplomatique commune doit être structurée pour renforcer la capacité collective de l'Union européenne à agir de manière unifiée face aux crises internationales et aux conflits géopolitiques.",
+      "Les fonds européens dédiés à la diplomatie doivent être alloués en fonction des besoins réels, en évitant les distorsions entre les pays membres plus développés et ceux en situation de vulnérabilité économique.",
+      "La représentation unique doit être élargie aux organisations internationales engagées dans la défense des droits humains, de l'égalité sociale et de l'écologie, tout en maintenant un contrôle démocratique strict sur les décisions prises à l'international.",
+      "Les amendements doivent favoriser une diplomatie préventive axée sur le dialogue interculturel et la résolution pacifique des conflits, en évitant les interventions militaires unilatérales qui pourraient nuire aux relations internationales de l'Union européenne.",
+      "La directive doit s'inscrire dans une logique d'équité entre les acteurs économiques, en favorisant l'accès égal à la technologie et aux infrastructures numériques, notamment pour les petites et moyennes entreprises."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de la représentation unique permettrait une diplomatie plus inclusive, en intégrant davantage d'organisations engagées dans la défense des droits humains et de l'égalité sociale. Cela renforcerait la légitimité de l'Union européenne sur le plan international, tout en favorisant une coopération multilatérale équilibrée.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "La création d'un fonds dédié à la diplomatie préventive permettrait de renforcer les capacités de l'Union européenne à agir de manière proactive face aux crises internationales. Cela favoriserait une approche basée sur le dialogue et la résolution pacifique des conflits, en évitant les interventions militaires unilatérales.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La conditionnalité de la participation aux missions diplomatiques sur la formation commune renforcerait l'unité d'action de l'Union européenne. Cependant, il conviendrait d'accorder des exemptions spécifiques pour les pays membres en difficulté économique ou géographique.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Un mécanisme de solidarité diplomatique en cas de crise renforcerait la résilience collective de l'Union européenne. Cela permettrait aux pays membres en difficulté d'accéder à un soutien immédiat, tout en maintenant une coordination stratégique au sein des institutions européennes.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La limitation de la représentation unique à certaines organisations risquerait d'exclure des acteurs clés dans les domaines de la justice sociale, de l'écologie et des droits humains. Il conviendrait toutefois de réviser cette liste régulièrement pour garantir son adaptabilité aux enjeux émergents.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains États membres de la représentation unique risquerait d'affaiblir l'unité de l'Union européenne et d'entacher sa légitimité politique. Une telle mesure devrait être évitée, en privilégiant une approche inclusive basée sur les principes de souveraineté égalitaire.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Le soutien à la diplomatie bilatérale nationale pourrait coexister avec une approche multilatérale renforcée. Cependant, il conviendrait de veiller à ce que cette priorité ne nuise pas à l'unité stratégique de l'Union européenne sur les plans international et européen.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le report de deux ans pourrait nuire à la cohérence stratégique et à l'efficacité des politiques européennes. Cependant, il serait acceptable dans le cadre d'une évaluation rigoureuse des impacts pour les pays membres en difficulté.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur automobile (Volkswagen, Renault) et objectifs climatiques directive. Évaluer impact mesures sur régions Sud-Est (Italie, Espagne). Surveiller déséquilibres financement diplomatique Nord-Sud.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "parti",
+    "generated_at": "2025-10-31T07:41:16.932753",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer l’efficacité militaire européenne.",
+      "Montrer un leadership modernisateur.",
+      "Promouvoir la solidarité diplomatique en cas de crise.",
+      "Assurer une diplomatie préventive cohérente avec les objectifs climatiques.",
+      "Équilibrer la coopération internationale et la souveraineté nationale."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Plaider pour une armée européenne crédible, intégrée et technologiquement avancée, en s'appuyant sur des investissements stratégiques dans les secteurs clés (énergie, défense, numérique). Promouvoir une approche de diplomatie préventive et multilatérale, en favorisant la coopération internationale sans compromettre l'autonomie européenne. Développer un mécanisme de solidarité diplomatique pour renforcer la réponse commune aux crises géopolitiques. Soutenir les innovations technologiques comme leviers d'efficacité militaire et d'indépendance stratégique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La militarisation européenne renforce la sécurité collective et réduit les coûts de défense individuels.",
+      "L'intégration technologique permet d'accélérer la transition énergétique et l'innovation numérique.",
+      "Une diplomatie préventive évite les conflits et favorise le dialogue international.",
+      "La solidarité diplomatique renforce la crédibilité de l'Union européenne à l'échelle mondiale.",
+      "Les investissements dans les secteurs clés (énergie, défense) stimulent la croissance économique durable.",
+      "L'alignement avec les objectifs climatiques européens renforce le leadership vert du continent.",
+      "La coopération multilatérale garantit une prise de décision rapide en cas de crise géopolitique."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les pays producteurs d'énergie fossile (Hongrie, Pologne) et les objectifs climatiques. Évaluer l'impact des lobbies de l'industrie automobile sur la transition énergétique. Suivre les débats internes du Parti Populaire Européen sur le financement de la défense européenne.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "parti",
+    "generated_at": "2025-10-31T07:56:06.705927",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen défend fermement cet amendement qu'elle a elle-même proposé pour renforcer l'unité de la diplomatie européenne sur des sujets clés comme le climat, la sécurité et les technologies. Cela permettrait d'éviter les discordances entre États membres lors des négociations multilatérales, tout en consolidant une vision commune stratégique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le financement de la diplomatie préventive est essentiel, mais il doit être conditionné à une évaluation rigoureuse des priorités géopolitiques et climatiques. Renouveau Européen s'engage à participer activement au développement du fonds sous réserve d'une gestion transparente.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen soutient cette proposition pour renforcer les compétences des diplomates européens et garantir une cohérence stratégique dans l'ensemble de l'Union. Cela permettrait d'améliorer la coordination lors des missions multilatérales.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Ce mécanisme renforcerait la résilience européenne face aux crises géopolitiques et économiques. Renouveau Européen soutient cette initiative comme un pilier essentiel pour une Europe plus solidaire et capable.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Cette proposition pourrait fragmenter l'approche européenne et nuire à l'unité stratégique. Renouveau Européen préfère une approche plus intégrée, avec des exceptions justifiées par les enjeux spécifiques.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de certains pays pourrait créer des tensions internes et fragiliser l'unité européenne. Renouveau Européen suggère une approche plus collaborative, avec des mesures d'adaptation plutôt qu'une exclusion directe.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Renouveau Européen reconnaît l'importance de la diplomatie bilatérale, mais privilégie une approche multilatérale pour les sujets d'intérêt commun. Une évaluation régulière permettrait de concilier les deux logiques.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Reporter l'application de la directive risquerait d'affaiblir les objectifs stratégiques à court terme. Renouveau Européen préfère une mise en œuvre rapide, accompagnée de mesures adaptatives pour gérer les difficultés éventuelles.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Non-porteur - Soutien limité, insistent sur le contrôle démocratique et la réduction des dépenses militaires.",
+    "enjeux_directive": [
+      "Préserver les priorités écologiques et sociales.",
+      "Éviter une dérive militariste.",
+      "Renforcer la coopération interétatique pour l'innovation verte",
+      "Assurer un équilibre entre objectifs climatiques et politiques de sécurité",
+      "Promouvoir l'égalité des droits dans les missions diplomatiques"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Mettre la pression pour des garde-fous démocratiques. Les Verts/ALE adopteront une approche proactive en insistant sur les principes de souveraineté nationale et de participation citoyenne. Ils mobiliseront leurs alliés parlementaires pour exiger un audit indépendant des coûts militaires, tout en défendant la transition énergétique comme pilier central de toute négociation européenne. Leur stratégie inclut la mise en avant de l'innovation verte et l'opposition aux mesures qui pourraient compromettre les objectifs climatiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "Renouveau Européen (convergence sur transition écologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (réticence à l'harmonisation des normes environnementales)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit intégrer des mécanismes de participation citoyenne pour garantir la légitimité démocratique de ses décisions",
+      "Les investissements en technologies vertes doivent être prioritaires par rapport aux dépenses militaires",
+      "Il est essentiel d'assurer une égalité entre les pays membres dans l'accès aux fonds européens liés à la transition écologique",
+      "La formation diplomatique commune doit inclure des modules sur les enjeux climatiques et sociaux",
+      "Les missions diplomatiques doivent être conditionnées à une évaluation rigoureuse de leur impact environnemental",
+      "Les lobbys industriels traditionnels doivent être contrés par des mesures réglementaires favorisant l'économie circulaire",
+      "La directive doit renforcer les dispositifs de solidarité entre les États membres pour éviter une fragmentation territoriale"
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Verts/ALE soutient cet amendement sous réserve qu'il soit accompagné de mesures renforçant l'indépendance des institutions européennes et garantissant une participation élargie à la prise de décision au niveau des États membres. Cela permettrait d'éviter les risques de concentration du pouvoir.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement aligne parfaitement avec les priorités des Verts/ALE de renforcer le rôle diplomatique de l'Union européenne dans la prévention des conflits. Un tel fonds permettrait d'investir dans des initiatives de dialogue et de coopération transfrontalière.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE",
+        "justification": "Verts/ALE est l'initiateur de cet amendement, qui vise à garantir une uniformisation des compétences diplomatiques et à renforcer la crédibilité des actions de l'Union européenne sur les plans international et environnemental. Il s'agit d'une mesure essentielle pour assurer une diplomatie éclairée et participative.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cet amendement est soutenu par Verts/ALE, sous réserve qu'il soit associé à des dispositifs d'aide aux régions les plus touchées par les crises. Cela permettrait de renforcer l'unité européenne tout en respectant les besoins locaux.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE s'oppose partiellement à cet amendement car il pourrait limiter l'influence des acteurs non européens dans les décisions de l'Union. Cependant, ils acceptent une limitation si elle est accompagnée d'une évaluation rigoureuse des impacts sur la souveraineté européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE s'oppose à cet amendement car il pourrait creuser les inégalités entre les États membres et fragiliser l'unité européenne. Une exclusion d'États doit être évitée pour préserver la cohésion de l'Union.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Verts/ALE s'oppose partiellement à cet amendement, car il pourrait fragiliser les initiatives européennes et réduire l'efficacité des actions collectives. Cependant, ils acceptent un soutien conditionnel si cela renforce la coopération entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Verts/ALE s'oppose à cet amendement car il retarderait l'implémentation des mesures climatiques urgentes. Une mise en œuvre immédiate est nécessaire pour atteindre les objectifs de la transition écologique.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "À surveiller tensions entre l'industrie fossile (ex. Énergies fossiles) et les priorités climatiques. Évaluer l'impact des mesures sur les régions rurales (ex. Italie, France). Surveiller la coopération avec le lobby automobile pour éviter un conflit d'intérêts sur les politiques de transition énergétique.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "parti",
+    "generated_at": "2025-10-31T08:12:41.069778",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Protéger la souveraineté nationale.",
+      "Limiter la centralisation européenne.",
+      "Privilégier une approche diplomatique bilatérale et multilatérale équilibrée.",
+      "Assurer la continuité des politiques sectorielles (énergie, industrie) en réduisant l'interventionisme institutionnel.",
+      "Renforcer les capacités diplomatiques des États membres sans compromettre leur autonomie."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne.",
+      "La directive offre un cadre pour renforcer la coordination diplomatique tout en préservant la souplesse nationale."
+    ],
+    "stratégie": "Appuyer la subsidiarité et défendre l’OTAN comme pilier principal. L’ECR mise sur une diplomatie européenne renforcée mais non centralisée, avec un accent particulier sur les coopérations sectorielles (énergie, innovation) en lien avec les priorités nationales. Le parti insiste sur la nécessité de moderniser l’institution européene sans sacrifier la souveraineté des États membres. Il prône une transition écologique progressive et technologiquement neutre, en s’opposant aux cadres climatiques trop rigides. L’ECR défend un rôle actif de l’Europe dans les relations internationales tout en refusant toute dérive fédéraliste.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La souveraineté des États membres doit rester le socle de toute décision européenne, y compris en diplomatie.",
+      "Une transition écologique doit s'appuyer sur les ressources nationales (nucléaire, hydrogène) sans imposer un calendrier uniforme à tous les pays.",
+      "La centralisation excessive menace la compétitivité des secteurs industriels stratégiques (automobile, énergie).",
+      "Les fonds européens doivent prioriser l'innovation technologique plutôt que des objectifs climatiques trop ambitieux.",
+      "Le rôle de l’OTAN reste incontestable comme pilier de la sécurité européenne, même en matière de diplomatie.",
+      "La diplomatie préventive doit s’appuyer sur les capacités nationales et ne pas se substituer à la diplomatie bilatérale.",
+      "Les États membres doivent conserver un droit de veto sur les décisions touchant à leur souveraineté."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur énergétique et objectifs climatiques (Énergies fossiles, Pologne). Évaluer impact des mesures sur régions Sud-Européennes (Italie, Espagne) en cas de moratoires. Surveiller conflits d'intérêts entre lobbies industriels et ambitions écologiques.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "parti",
+    "generated_at": "2025-10-31T08:30:24.163146",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'ECR considère que l’élargissement de la représentation européenne à toutes les organisations internationales pourrait fragiliser la souveraineté nationale. Cependant, il soutient une coopération renforcée avec des partenaires stratégiques (OTAN, G20) sur des dossiers transversaux.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le financement d’un mécanisme de diplomatie préventive est favorable si celui-ci s’articule avec les capacités nationales et ne remplace pas les politiques bilatérales. L’ECR s’oppose à toute centralisation des décisions diplomatiques.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "DEFAVORABLE",
+        "justification": "L’ECR est opposé à toute imposition d’une formation diplomatie unique, considérant que les États membres doivent conserver leur autonomie pédagogique et leurs méthodes de diplomatie.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "L’ECR soutient une coopération renforcée dans les situations critiques, à condition que celle-ci s’appuie sur des accords bilatéraux et multilatéraux existants, sans créer de structures européennes supplémentaires.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "FAVORABLE",
+        "justification": "L’ECR défend une approche ciblée de la représentation européenne, en limitant celle-ci aux organisations stratégiques pour l’Union (OTAN, ONU) et en évitant les duplications inutiles.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L’ECR s’oppose à toute exclusion d’un État membre, mais reconnaît que des exceptions peuvent être faites pour les pays qui ne respectent pas les valeurs fondamentales de l’Union.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "FAVORABLE",
+        "justification": "L’ECR insiste sur la primauté de la diplomatie bilatérale, en soulignant que les relations internationales doivent rester une responsabilité directe des États membres.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le report est acceptable si les États membres disposent d’un cadre clair pour les adaptations nécessaires. L’ECR s’inquiète cependant du risque d’un retard prolongé qui pourrait affaiblir la coordination européenne.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Non-porteur - Critique l’armée européenne comme outil militariste au détriment des politiques sociales.",
+    "enjeux_directive": [
+      "Dénoncer l’augmentation des budgets militaires.",
+      "Promouvoir une Europe pacifiste et solidaire.",
+      "Protéger les acquis sociaux face à la militarisation européenne.",
+      "Réorienter les financements vers des politiques sociales et environnementales."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne.",
+      "La directive risque d'aggraver les inégalités sociales si la militarisation est priorisée sur les politiques redistributives."
+    ],
+    "stratégie": "S’opposer frontalement à l’intégration militaire tout en proposant des alternatives basées sur la coopération pacifique et la solidarité sociale. La GUE/NGL privilégiera une diplomatie décentralisée, favorisera les initiatives régionales de coopération non-militaire (comme les projets d’énergie renouvelable transfrontaliers), et s’engagera pour un financement prioritaire des politiques sociales. L’objectif est de transformer le rôle de l’Union européenne en un acteur de paix, de justice sociale et de durabilité environnementale, plutôt qu’en force militaire intégrée.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L’armée européenne est un outil de militarisation qui détourne les ressources des politiques sociales et environnementales.",
+      "Une Europe pacifiste favorise la coopération plutôt que la confrontation, renforçant la stabilité globale.",
+      "Les budgets militaires doivent être réorientés vers l’éducation, la santé, et le développement durable pour atteindre l’objectif de neutralité climatique.",
+      "La militarisation européenne renforce les inégalités sociales en priorisant des secteurs économiques non inclusifs.",
+      "La GUE/NGL défend une diplomatie décentralisée qui valorise la souveraineté nationale tout en favorisant la coopération multilatérale.",
+      "Les industries fossiles, soutenues par certains pays et lobbies, représentent un obstacle majeur à la transition écologique européenne.",
+      "La GUE/NGL s’oppose aux mesures qui renforcent le pouvoir des États membres les plus riches au détriment des régions défavorisées."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL s’oppose à l’élargissement de la représentation unique car cela renforcerait le pouvoir des États membres dominants au sein de l’Union européenne, marginalisant les acteurs non-alignés et les mouvements sociaux. Cela contredit sa vision d’une diplomatie décentralisée et inclusive.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "La création d’un fonds dédié à la diplomatie préventive correspond aux priorités de la GUE/NGL, qui défend une Europe de paix et de coopération. Cela permettrait de renforcer les initiatives de dialogue interculturel et de résolution pacifique des conflits.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La GUE/NGL considère que la formation diplomatique commune risque de standardiser les approches, négligeant les spécificités des pays membres. Cependant, elle approuve l’idée d’un cadre partagé pour renforcer la coordination en cas de crise.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "La GUE/NGL soutient cette mesure comme un outil pour renforcer la résilience européenne face aux conflits. Un mécanisme de solidarité permettrait d’assurer une réponse coordonnée et équitable en cas de crise.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La GUE/NGL approuve cette proposition si elle permet de renforcer le rôle des organisations non-gouvernementales et des mouvements sociaux dans les processus diplomatiques, en complément de la représentation étatique.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL s’oppose à l’exclusion d’États membres, car cela risquerait de creuser les inégalités entre pays et de marginaliser certaines régions. Elle défend une approche inclusive de la diplomatie européenne.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE",
+        "justification": "La GUE/NGL critique cette proposition car elle pourrait affaiblir l’action collective européenne et renforcer les déséquilibres entre pays. Elle privilégie une diplomatie multilatérale et coopérative.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La GUE/NGL approuve un report si cela permet d’intégrer des mesures correctives visant à renforcer l’inclusivité et l’équité dans les processus diplomatiques européens. Cependant, elle s’oppose à un report non-accompagné de réformes structurelles.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les pays nordiques et l’Europe centrale sur la transition énergétique. Évaluer l’impact des industries pétrolières (comme les entreprises suédoises) sur les objectifs climatiques. Surveiller les pressions exercées par les partis conservateurs pour limiter les investissements sociaux.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "parti",
+    "generated_at": "2025-10-31T08:47:06.459204",
+    "version": "4.7"
+  }
+]

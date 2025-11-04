@@ -1,0 +1,753 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Participer à la définition des normes européennes.",
+      "Obtenir des financements pour l’innovation en cybersécurité.",
+      "Protéger les données numériques et la souveraineté technologique européenne.",
+      "Assurer une concurrence loyale entre acteurs technologiques et secteurs traditionnels.",
+      "Promouvoir le développement d'infrastructures numériques de pointe dans l'Union."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés."
+    ],
+    "stratégie": "Big Tech adopte une approche proactive pour influencer la directive en s'appuyant sur son expertise technologique, ses investissements massifs dans l'innovation numérique, et sa capacité à mobiliser des ressources internationales. L'objectif est de maximiser les financements européens pour la cybersécurité tout en limitant les régulations qui pourraient freiner sa croissance. Le lobby travaille également à aligner la directive sur les priorités stratégiques du secteur, notamment l'intelligence artificielle et le cloud computing. En parallèle, Big Tech cherche à renforcer ses alliances avec des acteurs politiques favorables à une approche libérale de la régulation technologique, tout en minimisant les risques liés aux normes communes ou aux obligations de transparence. Une stratégie d'argumentation axée sur l'innovation et l'efficacité économique est déployée pour convaincre les décideurs européens.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Agrochimie (privilège réglementation sectorielle spécifique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit favoriser l'innovation technologique et la compétitivité européenne, en évitant des normes trop contraignantes pour les acteurs du secteur numérique.",
+      "Les financements européens pour la cybersécurité doivent être orientés vers les grands groupes technologiques, capables de déployer des solutions à grande échelle et d'assurer la sécurité des infrastructures critiques.",
+      "La réglementation doit s'appuyer sur une approche proportionnelle, évitant de pénaliser les entreprises qui investissent dans l'intelligence artificielle et le cloud computing.",
+      "Il est essentiel que la directive ne crée pas de barrières à l'innovation en imposant des obligations trop lourdes sur les acteurs technologiques, notamment concernant la transparence algorithmique ou les droits d'auteur numériques.",
+      "Big Tech doit être associé à la définition des normes européennes pour garantir leur pertinence technique et leur alignement avec les tendances mondiales du secteur numérique.",
+      "La directive doit encourager l'interconnexion des réseaux technologiques transfrontaliers, facilitant une coopération accrue entre les acteurs économiques européens."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec secteur automobile (Volkswagen, Siemens) sur impact des normes numériques. Évaluer risque de fragmentation réglementaire entre pays membres. Recommander surveillance des financements directs à Big Tech vs investissements dans les PME technologiques.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-03T20:03:56.188049",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement du corps européen de cybersécurité permettra d'intégrer des acteurs clés comme les plateformes technologiques, renforçant ainsi la protection collective des infrastructures numériques. Cela aligne également les priorités de Big Tech avec celles des États-membres soucieux de la sécurité digitale.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Un tel fonds favoriserait le développement de solutions technologiques innovantes, ce qui est crucial pour les entreprises du secteur Big Tech. Il permettrait également d'assurer la neutralité numérique et l'autonomie stratégique des infrastructures européennes.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient ce point à condition que les formations soient adaptées aux besoins spécifiques de l'industrie technologique. Cela renforcerait la qualité des compétences numériques dans l'Union européenne.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Un mécanisme de réponse rapide est essentiel pour protéger les infrastructures critiques, notamment celles dépendant des technologies du secteur Big Tech. Cela renforcerait la coopération entre acteurs publics et privés.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation du champ d'action pourrait affaiblir la sécurité numérique globale. Big Tech s'oppose à toute mesure qui réduirait la portée des initiatives européennes en matière de cybersécurité.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose à l'exclusion de certaines industries technologiques, qui devraient être incluses dans les normes communes pour assurer un cadre harmonisé en Europe. Cependant, il accepte une flexibilité dans certains cas.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Bien que Big Tech appuie l'initiative européenne, il reste neutre sur la question du financement des mesures nationales. Cela permettrait d'éviter une fragmentation inutile entre les États-membres.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report de deux ans pourrait compromettre les objectifs stratégiques en matière de cybersécurité. Big Tech s'oppose à toute mesure qui retarde l'adoption des normes européennes.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des énergies fossiles et cherche à influencer la législation européenne, en particulier sur la réglementation de l'énergie, la transition écologique et la sécurité énergétique. Son objectif principal est de protéger les actifs existants (charbon, pétrole, gaz) tout en défendant un cadre réglementaire flexible permettant la coexistence avec des solutions alternatives.",
+    "enjeux_directive": [
+      "Protéger leurs infrastructures critiques contre les cyberattaques.",
+      "Limiter les obligations coûteuses de mise en conformité.",
+      "Maintenir la souveraineté nationale sur les ressources fossiles et leur exploitation.",
+      "Assurer une transition énergétique progressive, non disruptive pour les secteurs industriels traditionnels."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies Fossiles.",
+      "Les intérêts économiques et stratégiques de Energies Fossiles sont directement concernés."
+    ],
+    "stratégie": "Énergies Fossiles adopte une stratégie de blocage progressif et de négociation de compromis. Elle privilégie les alliances avec des pays membres dépendants des énergies fossiles (comme la Pologne ou l'Ukraine) et des partis européens conservateurs (PPE, Conservateurs). Elle vise à intégrer des clauses flexibles dans le texte final de la directive pour permettre une transition graduelle. En parallèle, elle s'appuie sur des lobbyings ciblés auprès des banques et du secteur automobile pour défendre les intérêts industriels liés aux combustibles fossiles. Elle cherche également à influencer les amendements en faveur de solutions hybrides (comme l'hydrogène vert) qui ne menacent pas directement ses activités principales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (soutien hydrogène vert + transition écologique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit être progressive pour éviter les ruptures économiques et sociales, surtout dans les régions dépendantes des carrières minières ou de la production pétrolière.",
+      "Les normes européennes doivent intégrer une flexibilité géographique, en tenant compte des spécificités nationales (ex : la Pologne a besoin d'une période de transition plus longue pour réduire sa dépendance au charbon).",
+      "L'industrie européenne du pétrole et du gaz doit être soutenue dans ses efforts d'innovation technologique, notamment en matière d'hydrogène bleu ou de capture de CO2.",
+      "Les investissements dans les infrastructures énergétiques existantes (réseaux de distribution, centrales) doivent être préservés pour éviter des pertes économiques massives, surtout dans les pays à faible densité de population.",
+      "La sécurité énergétique doit rester une priorité, ce qui implique de ne pas se précipiter vers une dépendance totale aux énergies renouvelables intermittentes (solaire, éolien) sans solutions de stockage fiables.",
+      "Les réglementations sur la cybersécurité doivent être alignées avec les besoins spécifiques des infrastructures du secteur énergétique (ex : centrales électriques, réseaux gaziers).",
+      "La directive doit encourager l'innovation technologique au sein des industries fossiles (captage de CO2, conversion à l'hydrogène) plutôt que les éliminer brutalement.",
+      "Les mesures de transition doivent être accompagnées d'une forte mobilisation de financements européens pour compenser les pertes économiques subies par les acteurs du secteur."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "Le secteur énergétique est un des cibles principales des cyberattaques. Une expansion du Corps européen de cybersécurité permettrait d'améliorer la protection de l'infrastructure critique, ce qui est crucial pour les centrales électriques et les réseaux gaziers, souvent exploités par des acteurs étrangers.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un tel fonds pourrait être utilisé pour financer des projets de cybersécurité spécifiques au secteur énergétique, à condition que les critères d'éligibilité soient adaptés aux besoins des infrastructures existantes et des entreprises du secteur.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE",
+        "justification": "La formation de personnel compétent en cybersécurité est essentielle pour protéger les actifs critiques. Un lien entre les aides et la qualité de la formation favoriserait une meilleure préparation des employés du secteur énergétique.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Un mécanisme de réaction immédiate est nécessaire pour limiter les dommages sur les infrastructures énergétiques, surtout dans le contexte d'une transition vers des systèmes numériques plus vulnérables.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une restriction trop large du champ d'action pourrait fragiliser la protection des infrastructures énergétiques. Une approche plus globale est nécessaire pour couvrir tous les risques potentiels.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de secteurs critiques comme l'énergie risquerait d'entraîner une fragmentation des standards, ce qui pourrait créer des vulnérabilités et des inégalités entre les pays membres.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Le soutien aux initiatives nationales est nécessaire, mais doit être complété par une approche harmonisée à l'échelle européenne pour éviter des incohérences entre les pays.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report temporaire permettrait aux acteurs du secteur énergétique de s'adapter aux nouvelles normes de cybersécurité. Cependant, ce délai doit être accompagné d'un plan clair de mise en œuvre progressive.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions industrie automobile (Volkswagen, PSA) et transition énergétique. Évaluer impact régions dépendantes du charbon (Pologne, Hongrie). Surveiller lobbying des secteurs pétroliers et gaziers dans les amendements.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-03T20:21:18.827364",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne. Son objectif principal est de promouvoir une réglementation harmonisée des marchés financiers tout en garantissant la sécurité cybernétique, la stabilité systémique et l'innovation technologique.",
+    "enjeux_directive": [
+      "Renforcer la sécurité des transactions financières.",
+      "Éviter les perturbations liées aux cyberattaques.",
+      "Assurer une réglementation harmonisée des marchés financiers transfrontaliers.",
+      "Promouvoir l'adoption de normes technologiques avancées pour le secteur bancaire.",
+      "Protéger la souveraineté économique européenne face aux menaces géopolitiques."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Banque et Finance adopte une approche proactive, combinant lobbying ciblé avec des partenariats stratégiques pour influencer la directive. Sa stratégie repose sur trois piliers : (1) défendre les intérêts du secteur bancaire face à des réglementations potentiellement restrictives ; (2) promouvoir une transition numérique structurée, en insistant sur le besoin d'investissements dans l'infrastructure cybernétique et la formation professionnelle ; (3) s'opposer aux mesures qui pourraient fragmenter les marchés financiers européens. Pour cela, elle collabore étroitement avec des acteurs clés comme la France, l'Italie, le PPE, les Verts/ALE, et les secteurs technologiques et automobiles. Elle défend également un cadre réglementaire équilibré qui favorise à la fois la sécurité financière et l'innovation.",
+    "alliances": [
+      "France (collaboration sur les normes de cybersécurité sectorielle)",
+      "Italie (soutien mutuel dans le développement des infrastructures numériques)",
+      "PPE (partage d'intérêts en matière de régulation financière européenne)",
+      "Verts/ALE (coordination sur la transition vers l'économie numérique sécurisée)",
+      "S&D (mobilisation conjointe pour les investissements structuraux dans le secteur financier)",
+      "Big Tech (synergies en matière d'innovation technologique et de protection des données)",
+      "Automobile (collaboration sur la mise en place de normes cybernétiques communes)"
+    ],
+    "oppositions": [
+      "Hongrie (position défavorable à l'harmonisation européenne des réglementations financières)",
+      "Conservateurs (privilégie une approche plus traditionnelle du secteur bancaire, résistant aux normes numériques rigoureuses)",
+      "Énergies fossiles (soutient un cadre réglementaire moins contraignant pour le secteur financier, parallèlement à ses intérêts sectoriels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité cybernétique est essentielle pour préserver la confiance des clients et éviter les pertes économiques liées aux attaques informatiques.",
+      "Une réglementation harmonisée permet d'éviter une fragmentation du marché financier européen, facilitant ainsi l'innovation et le commerce transfrontalier.",
+      "L'adoption de normes technologiques avancées est cruciale pour maintenir la compétitivité du secteur bancaire face aux menaces géopolitiques.",
+      "Les investissements dans l'infrastructure cybernétique doivent être soutenus par des financements européens, pour garantir un niveau de sécurité uniforme sur tout le territoire.",
+      "La formation professionnelle spécialisée en cybersécurité doit être prioritaire pour renforcer les capacités du secteur financier face aux menaces numériques.",
+      "Les mesures restrictives doivent être évitées, afin d'assurer la flexibilité nécessaire à l'évolution rapide des marchés financiers européens.",
+      "La coopération internationale est essentielle pour aligner les normes européennes sur celles des autres régions du monde."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la réglementation européenne et les intérêts sectoriels, notamment dans le domaine de l'énergie fossile. Évaluer les impacts des mesures sur les petites banques locales et leurs capacités d'innovation technologique. Recommander une collaboration accrue avec les pays du Sud-Est européen pour renforcer la résilience cybernétique de leur secteur financier.",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement du Corps européen de cybersécurité permettra d'assurer une protection renforcée des systèmes financiers, essentiels à la stabilité économique européenne. Cela aligne les intérêts du secteur bancaire avec ceux de l'Union européenne en matière de sécurité numérique.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Un tel fonds permettrait de stimuler la recherche et le développement technologique dans le domaine de la cybersécurité, bénéficiant directement au secteur bancaire en améliorant sa résilience face aux cybermenaces.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La conditionnalité des aides à la formation professionnelle est nécessaire pour garantir une main-d'œuvre qualifiée en cybersécurité, essentielle au secteur financier. Cependant, il convient de veiller à ce que les conditions ne soient pas trop restrictives pour les petites banques.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Un mécanisme de réponse rapide est crucial pour protéger les systèmes financiers européens contre les attaques informatiques, qui menacent directement la stabilité économique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un élargissement excessif ou une limitation excessive des responsabilités du Corps européen de cybersécurité pourrait nuire à la coordination nécessaire entre les secteurs critiques, y compris le secteur financier.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains secteurs des normes communes pourrait créer des lacunes dans la réglementation, rendant certaines parties du secteur financier vulnérables aux menaces cybernétiques.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Bien que le soutien aux initiatives nationales puisse être utile, il convient d'assurer une harmonisation européenne pour éviter des disparités trop importantes entre les pays membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report prolongé pourrait exposer le secteur financier à des risques cybernétiques accrues, mais un délai modéré pourraient permettre une mise en œuvre plus réfléchie de la directive.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-03T20:37:50.667301",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne, en particulier sur les normes réglementaires, la protection des chaînes d'approvisionnement agricoles connectées et l'intégration technologique dans les pratiques agricoles.",
+    "enjeux_directive": [
+      "Protéger les chaînes d’approvisionnement agricoles connectées.",
+      "Limiter les nouvelles charges réglementaires.",
+      "Promouvoir l'innovation technologique et la transformation numérique du secteur agricole.",
+      "Assurer un équilibre entre durabilité environnementale et compétitivité économique du secteur Agrochimie.",
+      "Soutenir les initiatives de recherche et développement liées aux biotechnologies agricoles."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie, notamment sur l'harmonisation des normes réglementaires européennes.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés par la mise en place d'exigences environnementales renforcées."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "Agrochimie adopte une stratégie de défense proactive vis-à-vis des réglementations européennes, combinée à un positionnement technologique avancé. L’objectif est d’influencer les décisions politiques en insistant sur la nécessité de ne pas imposer de normes excessivement contraignantes qui pourraient affecter la compétitivité du secteur. La lobby s’appuie sur des alliances stratégiques avec des pays et des partis européens favorables à une transition technologique progressive, tout en promouvant les innovations dans le domaine des biotechnologies agricoles et de l’agro-écologie. Elle cherche également à renforcer sa position face aux acteurs opposés en mettant en avant la nécessité d’un soutien européen pour garantir la sécurité alimentaire et la durabilité environnementale, tout en maintenant la flexibilité réglementaire nécessaire à son développement.",
+    "alliances": [
+      "France (partage des objectifs de transition écologique et technologique dans l'agriculture)",
+      "Italie (collaboration sur les normes communes et la protection des chaînes d’approvisionnement agricoles connectées)",
+      "Verts/ALE (soutien à la transition écologique et à l'innovation durable dans le secteur agricole)",
+      "S&D (priorité aux investissements régionaux et soutien aux politiques de durabilité sociale)",
+      "Big Tech (collaboration sur les technologies numériques appliquées à l’agriculture et à la transformation numérique du secteur)",
+      "Automobile (protection des secteurs industriels stratégiques liés à la chaîne agricole)",
+      "Banque (soutien aux investissements structuraux dans le secteur agricole et technologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à l’harmonisation des normes communes, défense d’une approche nationale plus flexible)",
+      "Conservateurs (préférence pour une transition progressive des réglementations environnementales)",
+      "Énergies fossiles (lobbies centraux charbon - opposés aux mesures de régulation renforcée sur les pratiques agricoles)"
+    ],
+    "éléments_d_argumentaire": [
+      "L’harmonisation excessive des normes réglementaires pourrait nuire à la compétitivité du secteur Agrochimie, en particulier dans les pays membres avec des politiques agricoles divergentes.",
+      "La protection des chaînes d’approvisionnement agricoles connectées est cruciale pour garantir la sécurité alimentaire et la résilience économique de l’UE.",
+      "L’innovation technologique, notamment en matière de biotechnologies agricoles, doit être soutenue par des réglementations favorables à la recherche et au développement.",
+      "Les mesures environnementales renforcées doivent être accompagnées d’un cadre financier adéquat pour éviter les perturbations économiques dans le secteur agricole.",
+      "L’Agrochimie doit être associée aux décisions politiques en matière de normes réglementaires, afin de garantir un équilibre entre durabilité environnementale et prospérité économique.",
+      "La transition écologique ne doit pas se faire au détriment des intérêts économiques du secteur agricole européen, notamment dans les zones rurales."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la réglementation environnementale et les intérêts économiques du secteur Agrochimie, notamment dans les régions agricoles de l’UE. Évaluer régulièrement l’impact des mesures sur les entreprises agricoles et les acteurs du secteur en Europe centrale. Recommander un suivi des négociations entre la France, l'Italie et les partis Verts/ALE pour éviter les divergences stratégiques.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-03T21:33:40.967506",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cette proposition, car elle ne considère pas directement l'agriculture comme un secteur critique en matière de cybersécurité. Cependant, elle pourrait s’engager à surveiller les impacts potentiels sur la sécurité des données agricoles connectées.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement ce projet, car il pourrait favoriser l'adoption de technologies numériques sécurisées dans le secteur agricole. Toutefois, elle insiste sur la nécessité d’une collaboration étroite avec les acteurs technologiques pour éviter des investissements inutiles.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie est partiellement opposée à cette proposition, car elle pourrait accroître la charge réglementaire sur les entreprises agricoles. Elle préfère une approche plus flexible et ciblée dans la formation professionnelle.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient activement ce projet, car il renforce la sécurité numérique des systèmes agricoles connectés. Elle considère que cette mesure est essentielle pour protéger les chaînes d’approvisionnement agricoles.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cette proposition, car elle pourrait limiter la portée des initiatives de cybersécurité dans les secteurs agricoles. Elle insiste sur l’importance d’une approche globale et inclusive.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie est partiellement opposée à cette proposition, car elle pourrait créer des inégalités entre les pays membres. Elle préfère une approche harmonisée des normes pour éviter la fragmentation réglementaire.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cette proposition, car elle préfère une approche européenne unifiée plutôt qu'une dépendance excessive aux initiatives nationales. Elle suggère toutefois de surveiller la coordination entre les politiques nationales et européennes.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement ce projet, car elle considère qu’un délai supplémentaire permettrait une meilleure adaptation des secteurs agricoles aux nouvelles normes. Cependant, elle insiste sur l’importance d’une mise en œuvre rapide pour éviter les retards dans la transition écologique.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, notamment en matière de cybersécurité, de protection des données médicales, d'innovation technologique et de régulation sectorielle. Son objectif principal est de sécuriser les chaînes de production, de protéger les brevets, et de garantir un cadre réglementaire favorable à la recherche et au développement.",
+    "enjeux_directive": [
+      "Sécuriser les données médicales sensibles pour éviter les fuites ou cyberattaques qui pourraient menacer la confidentialité des patients et perturber la chaîne de production pharmaceutique.",
+      "Obtenir un soutien pour la cybersécurité dans la recherche médicale, en particulier pour les laboratoires travaillant sur des traitements innovants ou des données sensibles.",
+      "Assurer une régulation équilibrée qui favorise l'innovation tout en respectant les normes européennes de protection des données et de confidentialité industrielle.",
+      "Protéger les brevets et la propriété intellectuelle face aux menaces cybernétiques ou aux politiques d'accès public à certaines recherches."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur pharmaceutique, notamment en termes de cybersécurité et de régulation sectorielle.",
+      "Les intérêts économiques et stratégiques du lobby pharmaceutique sont directement concernés par l'élargissement du corps européen de cybersécurité à tous les secteurs critiques.",
+      "La directive pourrait impacter la capacité des entreprises pharmaceutiques à protéger leurs données sensibles et à maintenir leur compétitivité sur le marché mondial."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie de coopération étroite avec les acteurs politiques et économiques européens pour influencer la législation et obtenir des garanties en matière de cybersécurité. Il privilégie des alliances stratégiques avec les pays majeurs (comme l'Allemagne, la France, l'Italie) qui partagent ses préoccupations sur la protection des données et la régulation technologique. En parallèle, il s'engage à collaborer avec des partis européens comme le PPE et les Verts/ALE pour promouvoir des politiques favorables à l'innovation pharmaceutique tout en respectant les normes de cybersécurité. Le lobby s'appuie également sur des alliances avec des secteurs industriels stratégiques (comme l'industrie automobile ou le secteur technologique) pour renforcer sa position face aux oppositions et influencer la directive.",
+    "alliances": [
+      "France (collaboration sur les enjeux de cybersécurité et de régulation du secteur pharmaceutique)",
+      "Italie (partage des objectifs de protection des données médicales sensibles et d'innovation technologique)",
+      "Verts/ALE (soutien à la transition écologique et à la cybersécurité dans les recherches pharmaceutiques)",
+      "S&D (priorité aux investissements dans le secteur pharmaceutique pour lutter contre les maladies rares et favoriser l'équité en santé)",
+      "Big Tech (collaboration sur les innovations technologiques et la cybersécurité des données médicales)",
+      "PPE (soutien à une régulation équilibrée qui protège les intérêts économiques du secteur pharmaceutique tout en favorisant l'innovation)",
+      "Banque (financement des projets de recherche pharmaceutique et des initiatives de cybersécurité)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à l'élargissement du corps européen de cybersécurité aux secteurs non critiques, préférant une approche plus restreinte)",
+      "Conservateurs (préférence pour une régulation moins stricte en matière de protection des données et d'accès à la recherche pharmaceutique)",
+      "Énergies fossiles (lobbies centrales charbon opposés aux mesures de cybersécurité qui pourraient impacter les infrastructures énergétiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La protection des données médicales sensibles est essentielle pour éviter les fuites ou cyberattaques pouvant menacer la confidentialité des patients et perturber la chaîne de production pharmaceutique.",
+      "Le soutien à la cybersécurité dans la recherche est crucial pour protéger les brevets et la propriété intellectuelle, en particulier pour les laboratoires travaillant sur des traitements innovants.",
+      "Une régulation équilibrée permet de favoriser l'innovation tout en respectant les normes européennes de protection des données et de confidentialité industrielle.",
+      "Les alliances avec des acteurs comme Big Tech, le PPE ou les Verts/ALE renforcent la position du lobby pharmaceutique face aux oppositions et influencent positivement la directive.",
+      "La collaboration avec des pays comme l'Allemagne, la France et l'Italie permet de créer un consensus stratégique sur les enjeux de cybersécurité et de régulation sectorielle.",
+      "Le lobby pharmaceutique s'appuie sur des alliances industrielles (comme l'industrie automobile ou le secteur technologique) pour renforcer sa position face aux oppositions et influencer la directive."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "À surveiller les tensions entre le lobby pharmaceutique et les lobbies d'autres secteurs (comme Big Tech) sur la régulation de la cybersécurité. Évaluer régulièrement l'impact des amendements sur la protection des données médicales sensibles et la compétitivité du secteur pharmaceutique européen.",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement du corps européen de cybersécurité à tous les secteurs critiques est essentiel pour protéger les données médicales sensibles et renforcer la sécurité des chaînes de production pharmaceutique. Cela permettrait d'établir un cadre harmonisé pour la protection des informations sensibles dans tout l'Union européenne.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Un fonds dédié à la cybersécurité favoriserait les innovations technologiques dans le secteur pharmaceutique, notamment pour protéger les brevets et garantir la confidentialité des données médicales. Cela renforcerait également la capacité du lobby à influencer positivement la directive.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les aides conditionnées à la formation des professionnels du secteur pharmaceutique pourraient améliorer la sécurité informatique dans l'industrie. Cependant, il faut s'assurer que les conditions ne pénalisent pas les petites entreprises ou les laboratoires indépendants.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE",
+        "justification": "Un mécanisme de réponse rapide aux cyberattaques serait crucial pour protéger les données médicales sensibles et éviter les perturbations dans la chaîne de production pharmaceutique. Cela renforcerait également la confiance des partenaires européens envers le secteur.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que certaines limites puissent être justifiées, un champ d'action trop restreint pourrait compromettre la protection des données médicales sensibles et la sécurité du secteur pharmaceutique. Il est essentiel de maintenir une couverture globale.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains secteurs, comme le pharmaceutique, des normes communes de cybersécurité pourrait compromettre la protection des données sensibles et la sécurité des chaînes de production. Il est essentiel que toutes les industries critiques soient incluses.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Bien que le soutien aux initiatives nationales puisse être utile, il est important de garantir une approche européenne harmonisée pour la protection des données sensibles et la sécurité des chaînes de production pharmaceutique.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report de deux ans pourrait retarder la mise en place des mesures de cybersécurité essentielles pour le secteur pharmaceutique. Cependant, il est possible d'envisager un délai court si les ressources sont insuffisantes.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-03T20:59:29.737666",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Protéger les véhicules connectés et autonomes contre les cybermenaces.",
+      "Accéder aux financements européens pour la cybersécurité et l'innovation technologique.",
+      "Assurer une concurrence équitable avec les secteurs non réglementés en matière de normes de sécurité.",
+      "Maintenir un cadre réglementaire flexible permettant d'intégrer rapidement les nouvelles technologies (IA, 5G).",
+      "Préserver la souveraineté industrielle européenne face aux pressions globalisées."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés.",
+      "Une réglementation trop contraignante pourrait affecter la compétitivité du secteur face aux concurrents asiatiques."
+    ],
+    "stratégie": "Le lobby Automobile adopte une double approche : défendre les intérêts industriels tout en s'engageant dans un dialogue constructif sur la cybersécurité. Il milite pour des normes technologiques souples, favorisant l'innovation, tout en exigeant des financements européens substantiels pour soutenir la transition vers les véhicules connectés et autonomes. Parallèlement, il s'allie avec des acteurs pro-technologie (Big Tech) et des partis soucieux de la compétitivité industrielle (PPE). Le lobby insiste sur la nécessité d'harmoniser les normes européennes pour éviter une fragmentation du marché. Il oppose fermement toute mesure qui limiterait l'autonomie des entreprises dans le développement technologique ou retarderait la mise en œuvre de la directive, arguant que cela nuirait à l'indépendance stratégique européenne.",
+    "alliances": [
+      "France (partage objectif cybersécurité + investissements bas-carbone)",
+      "Italie (collaboration sur standardisation technologique et relance industrielle)",
+      "Verts/ALE (soutien transition écologique + sécurité numérique)",
+      "S&D (priorité aux investissements régionaux pour l'innovation)",
+      "Big Tech (synergie infrastructures numériques + cybersécurité)",
+      "Automobile (protection sectorielle + défense des intérêts industriels)",
+      "Banque (soutien aux financements structuraux pour la transition technologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à l'harmonisation des normes de cybersécurité)",
+      "Conservateurs (préférence pour une transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centraux charbon - opposés aux mesures contraignantes en cybersécurité)"
+    ],
+    "éléments_d_argumentaire": [
+      "La réglementation de la cybersécurité doit respecter les spécificités techniques des véhicules connectés pour éviter d'entraver l'innovation.",
+      "Les financements européens doivent être dédiés à la recherche en IA, 5G et sécurité numérique pour soutenir la compétitivité du secteur automobile.",
+      "La directive ne doit pas créer de barrières tarifaires entre les pays membres, menaçant l'intégration européenne des marchés automobiles.",
+      "Les normes européennes doivent être alignées avec celles des États-Unis et de la Chine pour éviter une fragmentation technologique mondiale.",
+      "Le lobby Automobile défend un cadre réglementaire qui encourage les investissements privés en R&D, plutôt que des contraintes imposées par le législateur.",
+      "Il est crucial de garantir une transition technologique sans compromettre la souveraineté industrielle européenne sur les chaînes d'approvisionnement et les systèmes critiques.",
+      "Le lobby insiste sur l'importance des collaborations transnationales pour renforcer la résilience du secteur face aux cybermenaces géopolitiques."
+    ],
+    "références": [
+      "s2d8.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre normes de cybersécurité et innovation technologique (ex : Tesla, BMW). Évaluer les risques de fragmentation du marché européen en cas d'harmonisation insuffisante. Surveiller les impacts des mesures sur les PME du secteur automobile dans les régions Sud-Européennes.",
+    "scenario_id": 2,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-03T21:17:46.331420",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-8A",
+        "titre": "Élargir le corps européen de cybersécurité à tous les secteurs critiques",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement du Corps européen de cybersécurité à tous les secteurs critiques, y compris l'automobile, renforce la protection des systèmes connectés et autonomes. Cela permettrait une meilleure coordination entre les acteurs industriels, les États membres et les institutions européennes pour identifier et atténuer les risques technologiques. Le lobby Automobile soutient cette mesure car elle aligne avec ses objectifs de sécurité numérique tout en favorisant l'innovation.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Élargir le corps européen de cybersécurité à tous les secteurs critiques"
+      },
+      {
+        "amendement": "2-8B",
+        "titre": "Instaurer un fonds européen pour l’innovation en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Un fonds dédié à la recherche et au développement de solutions en cybersécurité serait essentiel pour soutenir les entreprises du secteur automobile. Cela permettrait d'accélérer l'adoption des technologies de sécurité avancées, tout en renforçant la résilience de l'écosystème numérique européen. Le lobby Automobile appuie cette initiative car elle favorise l'innovation et réduit les coûts de conformité pour ses membres.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un fonds européen pour l’innovation en cybersécurité"
+      },
+      {
+        "amendement": "2-8C",
+        "titre": "Conditionner les aides à la formation des professionnels du secteur",
+        "position": "NEUTRE",
+        "justification": "Le lobby Automobile reste neutre sur cette proposition car il estime que les conditions de formation devraient être flexibles pour permettre aux entreprises de s'adapter rapidement aux évolutions technologiques. Cependant, il reconnaît l'importance d'une main-d'œuvre qualifiée et soutient une approche collaborative avec les États membres sur ce point.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner les aides à la formation des professionnels du secteur"
+      },
+      {
+        "amendement": "2-8D",
+        "titre": "Créer un mécanisme de réponse rapide aux cyberattaques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un mécanisme de réponse rapide aux cyberattaques est indispensable pour protéger les infrastructures critiques, y compris celles du secteur automobile. Cependant, le lobby Automobile insiste sur la nécessité d'intégrer des mesures techniques spécifiques à l'industrie et de garantir une coopération étroite entre les acteurs privés et publics pour assurer son efficacité.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un mécanisme de réponse rapide aux cyberattaques"
+      },
+      {
+        "amendement": "2-8E",
+        "titre": "Limiter le champ d’action du corps européen de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby Automobile s'oppose à toute limitation du champ d'action du Corps européen de cybersécurité, car cela pourrait compromettre la sécurité des systèmes connectés. Cependant, il accepte une approche ciblée qui tient compte des spécificités techniques du secteur automobile.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le champ d’action du corps européen de cybersécurité"
+      },
+      {
+        "amendement": "2-8F",
+        "titre": "Exclure certains secteurs des normes communes",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby Automobile oppose fermement l'exclusion de certaines industries des normes communes, y compris celle du secteur automobile. Il considère que cela nuirait à la sécurité collective et à l'intégration européenne des marchés technologiques.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Exclure certains secteurs des normes communes"
+      },
+      {
+        "amendement": "2-8G",
+        "titre": "Soutenir prioritairement les initiatives nationales de cybersécurité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby Automobile s'oppose à la priorisation des initiatives nationales au détriment d'une approche européenne unifiée. Il préconise une coordination transnationale pour éviter les écarts technologiques entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les initiatives nationales de cybersécurité"
+      },
+      {
+        "amendement": "2-8H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby Automobile s'oppose à tout report de l'application de la directive, car cela retarderait l'adoption de mesures cruciales pour protéger les véhicules connectés. Il préconise une mise en œuvre progressive mais rapide, alignée sur les avancées technologiques.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  }
+]

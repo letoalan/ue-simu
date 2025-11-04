@@ -1,0 +1,192 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+  "enjeux_directive": [
+    "Renforcer l’autonomie stratégique de l’Europe.",
+    "Réduire la dépendance à l’OTAN et aux États-Unis.",
+    "Assurer une répartition équitable des charges et responsabilités militaires.",
+    "Élargir la capacité diplomatique européenne pour renforcer le rôle de l’UE dans les relations internationales.",
+    "Promouvoir une approche multilatérale globale, intégrant les acteurs non étatiques."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif.",
+    "Elle favorisera une meilleure coordination entre les politiques diplomatique et stratégique au niveau européen."
+  ],
+  "impacts_amendements": [
+    {
+      "id": "2-5A",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la représentation unique à toutes les organisations internationales",
+      "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+    },
+    {
+      "id": "2-5B",
+      "origine": "Socialistes & Démocrates",
+      "description": "Créer un fonds européen pour la diplomatie préventive",
+      "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+    },
+    {
+      "id": "2-5C",
+      "origine": "Verts/ALE",
+      "description": "Conditionner la participation aux missions à la formation diplomatique commune",
+      "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+    },
+    {
+      "id": "2-5D",
+      "origine": "Parti Populaire Européen",
+      "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+      "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+    },
+    {
+      "id": "2-5E",
+      "origine": "Hongrie",
+      "description": "Limiter la représentation unique à certaines organisations",
+      "impact": "modérerait la portée et les exigences de la directive"
+    },
+    {
+      "id": "2-5F",
+      "origine": "France",
+      "description": "Exclure certains États membres de la représentation unique",
+      "impact": "réduirait le champ d'application de la directive"
+    },
+    {
+      "id": "2-5G",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement la diplomatie bilatérale nationale",
+      "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+    },
+    {
+      "id": "2-5H",
+      "origine": "Suède",
+      "description": "Reporter l’application de la directive de deux ans",
+      "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+    }
+  ],
+  "stratégie": "La Commission européenne adopte une stratégie centrée sur le renforcement de la cohérence institutionnelle et la promotion d’une diplomatie multilatérale. Elle vise à aligner les actions diplomatiques des États membres avec un cadre stratégique commun, tout en assurant que les politiques européennes soient pleinement respectées. En matière de représentation unique, elle s’engage à élargir sa portée à toutes les organisations internationales pour renforcer la légitimité européenne sur la scène mondiale. Parallèlement, elle soutient des initiatives comme le fonds européen pour la diplomatie préventive et le mécanisme de solidarité diplomatique, qui renforcent la capacité réactive de l’UE dans les crises géopolitiques. La Commission mise également sur la formation commune des diplomates européens pour uniformiser les approches et éviter les divergences entre États membres. Elle s’oppose fermement à tout amendement restreignant le champ d’application de la directive, comme l’exclusion de certains États ou une limitation à certaines organisations, car cela affaiblirait la capacité collective européenne et nuirait à sa crédibilité internationale.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "PPE (soutien aux priorités stratégiques européennes et à l’approche multilatérale)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+  ],
+  "éléments_d_argumentaire": [
+    "La Commission insiste sur la nécessité d’une diplomatie multilatérale pour renforcer l’influence européenne globalement, en alignant les actions des États membres sous un cadre commun.",
+    "L’élargissement de la représentation unique à toutes les organisations internationales permettrait de mieux défendre les intérêts européens dans des forums clés comme l’ONU ou l’OMC.",
+    "Le fonds européen pour la diplomatie préventive est crucial pour anticiper et gérer les crises géopolitiques, en évitant les conflits avant qu’ils ne se déclenchent.",
+    "La formation diplomatique commune renforce la cohérence des positions européennes et réduit les divergences entre États membres sur les sujets sensibles.",
+    "Le mécanisme de solidarité diplomatique permettrait une répartition équitable des responsabilités dans les crise, évitant que certains pays ne portent seuls le poids des négociations difficiles.",
+    "La Commission met en avant l’importance d’une approche globale qui intègre à la fois les acteurs étatiques et non étatiques (comme les grandes entreprises ou les ONG) dans les politiques diplomatiques européennes."
+  ],
+  "références": [
+    "s2d5.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller tensions entre pays comme la Hongrie et l’Allemagne sur le moratoire du charbon. Évaluer impact des résistances des lobby énergies fossiles (ex: Pologne, Slovaquie) sur les objectifs climatiques. Recommander une surveillance régulière de l’équilibre entre diplomatie multilatérale et intérêts nationaux.",
+  "positions_amendements": [
+    {
+      "amendement": "2-5A",
+      "titre": "Élargir la représentation unique à toutes les organisations internationales",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il aligne avec sa vision de diplomatie multilatérale renforcée, permettant d’assurer une coordination plus étroite des actions européennes à l’international. Cet élargissement favoriserait également la légitimité européenne dans des forums clés comme l’ONU ou les groupes internationaux sur la transition écologique.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la représentation unique à toutes les organisations internationales"
+    },
+    {
+      "amendement": "2-5B",
+      "titre": "Créer un fonds européen pour la diplomatie préventive",
+      "position": "FAVORABLE",
+      "justification": "La Commission juge cet amendement essentiel pour anticiper les crises géopolitiques et renforcer la capacité de l’UE à agir de manière proactive. Ce fonds permettrait de financer des initiatives préventives, comme le suivi des tensions régionales ou la promotion d’accords multilatéraux avant qu’ils ne deviennent des conflits.",
+      "priorite": "très_haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Créer un fonds européen pour la diplomatie préventive"
+    },
+    {
+      "amendement": "2-5C",
+      "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission appuie cet amendement pour garantir une cohérence des positions européennes, mais insiste sur l’importance de former des diplomates capables d’intervenir dans divers contextes. Elle suggère cependant que cette condition soit accompagnée d’un soutien financier et technique aux États membres.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+    },
+    {
+      "amendement": "2-5D",
+      "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il renforce la résilience européenne face aux crises, en permettant une répartition équitable des responsabilités et des ressources entre les États membres. Cela éviterait que certains pays ne portent seuls le poids des négociations difficiles.",
+      "priorite": "haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+    },
+    {
+      "amendement": "2-5E",
+      "titre": "Limiter la représentation unique à certaines organisations",
+      "position": "DEFAVORABLE",
+      "justification": "La Commission s’oppose à cet amendement car il réduirait le champ d’action de l’UE et affaiblirait sa capacité à influencer les décisions internationales. Une telle restriction nuirait à la cohérence des politiques européennes et limiterait la participation active de l’Union dans certains forums clés.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Limiter la représentation unique à certaines organisations"
+    },
+    {
+      "amendement": "2-5F",
+      "titre": "Exclure certains États membres de la représentation unique",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "La Commission s’oppose à cet amendement car l’exclusion de certains pays affaiblirait l’unité européenne et pourrait susciter des tensions internes. Cependant, elle accepte que des exceptions soient faites dans des cas exceptionnels où les intérêts nationaux divergent fortement.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Exclure certains États membres de la représentation unique"
+    },
+    {
+      "amendement": "2-5G",
+      "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+      "position": "DEFAVORABLE",
+      "justification": "La Commission s’oppose à cet amendement car elle privilégie une approche multilatérale et cohérente, qui permet d’assurer l’équilibre des intérêts européens. La diplomatie bilatérale nationale pourrait fragmenter les actions de l’Union et nuire à sa capacité collective.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+    },
+    {
+      "amendement": "2-5H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE",
+      "justification": "La Commission s’oppose à cet amendement car elle estime que le délai supplémentaire pourrait affaiblir la crédibilité institutionnelle européenne et retarder les bénéfices attendus pour l’Union. Elle préconise une mise en œuvre rapide afin de garantir un impact immédiat des politiques diplomatiques européennes.",
+      "priorite": "faible",
+      "origine": "Suède",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "metadata": {
+    "source_file": "s2-d5.json",
+    "type": "commission",
+    "directive_id": "2-5",
+    "tokens": {
+      "count": 722,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:46.041975",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 5,
+  "actor_type": "commission",
+  "generated_at": "2025-11-01T12:27:54.456083",
+  "version": "4.7"
+}

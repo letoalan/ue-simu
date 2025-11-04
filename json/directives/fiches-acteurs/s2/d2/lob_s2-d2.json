@@ -1,0 +1,750 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, notamment en matière de régulation numérique, d'innovation technologique, de cybersécurité et de défense. Son objectif principal est de promouvoir des cadres légaux favorables aux entreprises technologiques tout en s'assurant que les mesures ne freinent pas la croissance économique ni l'innovation.",
+    "enjeux_directive": [
+      "Fournir des technologies de pointe pour la défense et la cyberdéfense.",
+      "Promouvoir une régulation européenne équilibrée qui favorise l'innovation tout en protégeant les données personnelles et la souveraineté numérique.",
+      "Assurer un accès mondial aux services numériques européens, notamment dans le secteur de la défense et des infrastructures critiques.",
+      "Accélérer la transition écologique via l'innovation technologique (IA, énergies renouvelables, etc.)."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés."
+    ],
+    "stratégie": "Big Tech adopte une approche proactive dans les négociations européennes en s'appuyant sur un réseau d'alliances avec des acteurs clés tels que la France, l'Italie, le Parti Populaire Européen (PPE), les Verts/ALE et les secteurs industriels comme l'automobile. L'objectif est de renforcer la souveraineté technologique européenne tout en évitant des régulations trop contraignantes. Big Tech mise sur l'innovation numérique pour soutenir la transition écologique, notamment via le développement d'infrastructures énergétiques propres et la cybersécurité. Pour cela, il collabore étroitement avec les gouvernements européens et les institutions technologiques, tout en défendant des positions modérées sur les amendements liés à la régulation numérique et aux investissements publics.",
+    "alliances": [
+      "France (développement d'infrastructures numériques énergétiques propres et soutien à l'innovation technologique pour la transition écologique)",
+      "Italie (collaboration sur les projets de cybersécurité européenne et les investissements dans les technologies vertes)",
+      "PPE (soutien aux mesures favorables à la croissance économique et à l'innovation technologique dans le cadre des priorités européennes)",
+      "Verts/ALE (partage d'intérêts sur la transition écologique via l'utilisation de la technologie pour réduire les émissions de CO₂)",
+      "Automobile (protection du secteur industriel européen face à la concurrence mondiale, notamment en matière de véhicules électriques et d'automatisation industrielle)",
+      "Banque (soutien aux investissements structurels dans les technologies numériques et l'énergie renouvelable)",
+      "Renouveau Européen (position commune sur le besoin de renforcer la souveraineté technologique européenne)"
+    ],
+    "oppositions": [
+      "Hongrie (défense des intérêts économiques liés aux énergies fossiles et opposition à une transition radicale vers les énergies propres)",
+      "Conservateurs (préférence pour une transition progressive vers la régulation numérique, plutôt qu'une approche très stricte)",
+      "Énergies fossiles (opposition aux mesures qui favorisent l'innovation technologique au détriment des industries traditionnelles)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'investissement massif dans la recherche et le développement technologique permettra de renforcer la souveraineté numérique européenne et de réduire la dépendance aux géants technologiques non européens.",
+      "La régulation numérique doit être équilibrée pour encourager l'innovation tout en protégeant les données des citoyens et les droits fondamentaux (ex : respect du RGPD).",
+      "Les entreprises Big Tech sont prêtes à collaborer avec les gouvernements européens sur la cybersécurité, notamment via des investissements communs dans la protection des infrastructures critiques.",
+      "La transition écologique doit s'appuyer sur l'innovation technologique (IA, énergies renouvelables, etc.) pour atteindre les objectifs climatiques européens de manière efficace et économique.",
+      "Les mesures restrictives imposées par la Commission européenne à Big Tech doivent être proportionnées et éviter de freiner la croissance économique et l'innovation technologique.",
+      "La régulation doit garantir un équilibre entre les intérêts des entreprises technologiques et ceux des citoyens, notamment en matière de protection contre les abus de position dominante.",
+      "Big Tech s'engage à soutenir les initiatives européennes visant à renforcer la compétitivité du secteur technologique face aux acteurs émergents (ex : Chine, États-Unis)."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller la tension entre les réglementations strictes imposées par l'Union européenne à Big Tech et ses intérêts économiques. Évaluer l'impact des amendements liés aux investissements publics dans les technologies numériques sur le secteur. Surveiller les relations avec les pays comme la Hongrie, où les intérêts économiques liés aux énergies fossiles pourraient entrer en conflit avec les objectifs climatiques européens.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Big Tech s'aligne sur cette position car un budget renforcé permettra d'accélérer les investissements dans la cybersécurité et l'innovation technologique, essentiels pour protéger les infrastructures critiques. Cela favorise également la coopération transfrontalière en matière de défense numérique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient activement cette proposition car elle renforce la capacité européenne à développer des solutions de cybersécurité innovantes. Cela permettrait également d'encourager l'émergence de startups technologiques européennes spécialisées dans ce secteur.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie cette proposition à condition qu'elle ne freine pas l'innovation individuelle des entreprises. Une collaboration étroite entre les États membres et les entreprises technologiques est nécessaire pour garantir la sécurité des infrastructures critiques tout en favorisant l'émergence de solutions locales.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "Big Tech s'engage à contribuer à la formation des forces armées dans le domaine de la cybersécurité et des technologies numériques. Cela renforcerait la capacité européenne à protéger ses infrastructures critiques face aux menaces cybernétiques.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech est défavorable à cette mesure car elle pourrait limiter les investissements dans la cybersécurité et l'innovation technologique. Cependant, il reste ouvert à des compromis si ces limites sont accompagnées d'autres mesures favorables aux entreprises technologiques.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech oppose cette proposition car elle pourrait fragmenter le marché technologique européen et entraver l'accès à la concurrence internationale. Il préfère une approche unitaire qui favorise la coopération entre tous les États membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "NEUTRE",
+        "justification": "Big Tech ne prend pas position clairement sur cet amendement car il considère que l'innovation technologique doit être favorisée à tous les niveaux, y compris dans les secteurs industriels traditionnels. Cependant, il reste ouvert à des collaborations avec les industries de défense nationales.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech est défavorable à cette mesure car elle pourrait retarder les investissements dans les technologies numériques et la cybersécurité. Cependant, il reste ouvert à des négociations pour ajuster le calendrier en fonction de l'impact sur l'économie européenne.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T19:49:18.897971",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des énergies fossiles et cherche à influencer la législation européenne en défendant un rythme modéré de transition énergétique, tout en protégeant l'industrie pétrolière et gazière, ainsi que les emplois liés aux combustibles fossiles.",
+    "enjeux_directive": [
+      "Influencer pour éviter des réglementations trop sévères qui impacteraient certains secteurs liés aux énergies fossiles, comme l'industrie du charbon et le pétrole brut.",
+      "Soutenir la poursuite des exportations d'énergies fossiles vers des marchés non européens pour maintenir la compétitivité économique des pays producteurs (ex. Pologne, Hongrie).",
+      "Protéger les investissements dans les infrastructures énergétiques existantes, en particulier les réseaux de gaz naturel et les centrales à charbon, contre les mesures de décarbonation accélérées.",
+      "S'opposer à l'introduction d'accords internationaux climatiques contraignants qui pourraient limiter la capacité des États membres à exporter leurs ressources fossiles."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur énergies fossiles, notamment une pression accrue sur les exportations et une réduction progressive du marché intérieur pour les combustibles fossiles.",
+      "Les intérêts économiques et stratégiques de l'industrie pétrolière, gazière et charbonnière sont directement concernés par la mise en place d'instruments de régulation climatique."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L’Énergies Fossiles adopte une approche multifacette pour influencer les décisions européennes. Elle s’appuie sur des alliances stratégiques avec des pays producteurs de combustibles fossiles (comme la Pologne et la Hongrie), ainsi que des groupes politiques favorables à un transition énergétique progressive (PPE, Conservateurs). L’objectif est de préconiser une réglementation européenne qui permette de maintenir les revenus fiscaux liés aux exportations d’énergies fossiles, tout en évitant une concurrence déloyale des pays non européens dans ce secteur. Le lobby s’appuie également sur la mobilisation des employés du secteur (ex. ouvriers des centrales à charbon) pour susciter un soutien populaire au sein des États membres, notamment en Europe de l’Est. Par ailleurs, il promeut l’innovation technologique dans les énergies fossiles (ex. capture et stockage du CO2), présentée comme une solution viable à la transition écologique. Enfin, il cherche à influencer les décisions politiques en soulignant les risques géopolitiques liés à la dépendance européenne envers des sources d’énergie non traditionnelles.",
+    "alliances": [
+      "Pologne (défense industrielle du charbon et de l'industrie pétrolière)",
+      "Hongrie (opposition aux moratoires sur le charbon et soutien à la production locale de gaz naturel)",
+      "PPE (soutien à une transition énergétique progressive et à la préservation des emplois dans les secteurs fossiles)",
+      "Conservateurs (privilège pour les solutions d’énergie traditionnelle et les mesures de sécurité nationale)",
+      "Big Tech (collaboration sur l’innovation technologique liée aux énergies fossiles, comme la capture du CO2)",
+      "Automobile (protection des secteurs industriels dépendants des combustibles fossiles, ex. moteurs à combustion)"
+    ],
+    "oppositions": [
+      "France (soutien aux objectifs climatiques et à l’électrification de la mobilité, via le nucléaire et les énergies renouvelables)",
+      "Verts/ALE (promotion d’une transition écologique rapide et sans compromis sur les émissions de CO2)",
+      "Agrochimie (soutien aux politiques d’agriculture durable et de réduction des dépendances fossiles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition vers les énergies renouvelables doit se faire progressivement pour ne pas menacer l’emploi dans les secteurs du charbon, du pétrole et du gaz, notamment en Europe de l’Est.",
+      "L’indépendance énergétique de l’Europe dépend de la préservation des infrastructures existantes (ex. réseaux de gaz) plutôt que d’une dépendance accrue aux importations de matières premières non européennes.",
+      "Les technologies liées aux énergies fossiles, comme la capture et le stockage du CO2, peuvent être un levier pour atteindre les objectifs climatiques tout en préservant l’industrie pétrolière.",
+      "L’Europe ne doit pas se priver d’une source de revenus fiscaux liés aux exportations d’énergies fossiles, qui reste stratégique pour certains États membres (ex. Pologne).",
+      "Les mesures climatiques doivent être adaptées aux spécificités nationales, en particulier pour les pays dépendants des combustibles fossiles dans leur économie.",
+      "La transition énergétique doit être accompagnée de politiques d’innovation technologique et de restructuration industrielle pour éviter une crise économique dans certaines régions (ex. bassin minier polonais)."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "À surveiller les tensions entre les pays dépendants des énergies fossiles (Pologne, Hongrie) et les objectifs climatiques européens. Surveiller l’impact des mesures sur les emplois dans le secteur du charbon en Europe de l’Est. Évaluer la capacité de l’industrie pétrolière à s’adapter aux politiques d’innovation technologique (ex. capture du CO2).",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T20:09:50.216900",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "L’augmentation du budget de défense permettrait de renforcer les infrastructures énergétiques critiques (ex. pipelines de gaz naturel) et d’améliorer la sécurité géopolitique des États membres dépendants des exportations fossiles.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "NEUTRE",
+        "justification": "Bien que l’investissement dans la cybersécurité soit important, son impact direct sur les énergies fossiles est limité. Toutefois, le lobby s’oppose à une redirection des fonds vers des secteurs non liés aux ressources naturelles.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette mesure pourrait limiter les exportations d’énergies fossiles vers des marchés non européens, ce qui nuirait à la compétitivité des producteurs européens. Cependant, le lobby s’engage à respecter les conditions liées aux coopérations transfrontalières.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La formation des forces armées pourrait inclure des aspects liés à la protection des infrastructures énergétiques, ce qui est favorable au lobby. Toutefois, il exige que ces formations ne pèsent pas sur les budgets dédiés aux transitions énergétiques.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Une réduction du budget de défense nuirait à la sécurité des infrastructures critiques (ex. pipelines) et affaiblirait la position géopolitique des États membres dépendants des exportations énergétiques.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure pourrait marginaliser les pays dépendants des énergies fossiles (ex. Pologne, Hongrie), ce qui menacerait leur autonomie économique et réduirait l’impact de ces États sur les décisions européennes.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux industries de défense nationales pourrait bénéficier à certaines entreprises liées aux énergies fossiles (ex. fournisseurs de matériels militaires). Cependant, le lobby exige que ces mesures ne compromettent pas les objectifs climatiques européens.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report permettrait aux États membres dépendants des énergies fossiles de se préparer à la transition énergétique. Cependant, le lobby exige que ce délai ne soit pas utilisé pour freiner les objectifs climatiques à long terme.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Soutenir la structuration financière des dépenses communes.",
+      "Promouvoir une réglementation harmonisée des marchés bancaires européens",
+      "Assurer la stabilité du secteur financier face aux politiques climatiques exigeantes",
+      "Renforcer l'indépendance de la Banque centrale européenne dans les décisions budgétaires",
+      "Faciliter l'accès des institutions financières à des fonds d'investissement structuraux",
+      "Protéger les intérêts des banques européennes face aux régulations sectorielles des États membres"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Banque et Finance adopte une approche multi-pivot visant à influencer la directive par des alliances stratégiques avec les acteurs économiques clés. Le lobby priorise l'harmonisation réglementaire transnationale pour éviter les distorsions de concurrence entre États membres, tout en défendant une stabilité financière qui favorise l'accès au crédit pour les entreprises européennes. Une stratégie de dialogue direct avec les institutions européennes (Commission, BCE) est combinée à des alliances sectorielles pour contrer les pressions climatiques excessives. Le lobby insiste sur la nécessité d'une transition énergétique maîtrisée, évitant les charges financières imprévues pour le système bancaire. Parallèlement, il défend un rôle renforcé des acteurs privés dans la gouvernance européenne des fonds structuraux.",
+    "alliances": [
+      "France (partage objectif de stabilisation du secteur bancaire face aux transitions climatiques)",
+      "Italie (collaboration sur les réglementations harmonisées pour l'Union économique et monétaire)",
+      "Verts/ALE (soutien à une transition écologique maîtrisée avec garanties financières pour le système bancaire)",
+      "S&D (priorité aux investissements structuraux favorables au secteur financier européen)",
+      "Big Tech (innovation infrastructures numériques et services bancaires digitaux transfrontaliers)",
+      "Automobile (protection des financements sectoriels pour la transition industrielle)",
+      "Banque (soutien aux fonds d'investissement structuraux européens)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation européenne contraignante sur les secteurs traditionnels)",
+      "Conservateurs (préférence pour des politiques budgétaires moins exigeantes en matière climatique)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux mesures restrictives pour le secteur financier)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir la stabilité du système bancaire européen face aux impacts économiques de la transition énergétique",
+      "Une réglementation trop exigeante pourrait fragiliser les institutions financières, en particulier dans les pays périphériques",
+      "Il est crucial de préserver l'indépendance des banques centrales dans la gestion des fonds structuraux européens",
+      "Les mesures climatiques doivent être accompagnées de mécanismes de financement adaptés pour éviter les distorsions de concurrence",
+      "La directive doit intégrer une approche sectorielle qui tienne compte des spécificités du secteur financier européen",
+      "Le lobby défend un cadre réglementaire qui favorise l'innovation financière tout en maintenant la stabilité systémique",
+      "Il est nécessaire de garantir la continuité des services bancaires transfrontaliers face aux politiques sectorielles divergentes",
+      "Une coordination renforcée entre les autorités nationales et européennes est essentielle pour éviter les frictions réglementaires"
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur bancaire allemand (Deutsche Bank, Commerzbank) et objectifs climatiques directive. Évaluer impact de la réglementation sur les banques des pays Sud-Européens (Italie, Espagne). Surveiller risques d'instabilité financière due à une transition énergétique trop rapide.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T20:25:22.799289",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait d'assurer une stabilité géopolitique nécessaire pour la continuité des flux financiers transnationaux. Une augmentation du budget de défense renforcerait la sécurité des infrastructures bancaires européennes face aux menaces cybernétiques croissantes.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur financier voit dans ce fonds une opportunité de renforcer sa propre cybersécurité. Cependant, il exige des garanties sur l'indépendance des décisions budgétaires et la protection des données bancaires.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "NEUTRE",
+        "justification": "Le lobby reste neutre sur cette mesure, estimant que les conditions d'accès aux équipements doivent rester flexibles pour permettre des collaborations sectorielles variées. Cependant, il souligne l'importance de garantir la continuité des services bancaires transfrontaliers.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby s'oppose partiellement à cette mesure, arguant qu'une trop grande allocation budgétaire aux forces armées pourrait affecter les financements alloués au secteur financier. Il propose une révision du budget pour mieux équilibrer les priorités.",
+        "priorite": "faible",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Cette limite budgétaire pourrait fragiliser la sécurité des infrastructures financières européennes. Le lobby considère qu'une telle restriction ne serait pas compatible avec l'objectif d'une stabilité géopolitique nécessaire à l'économie européenne.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby s'oppose à cette mesure, estimant qu'elle pourrait créer des distorsions de concurrence au sein du marché bancaire européen. Il propose plutôt une coopération renforcée entre tous les États membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby soutient cette mesure à condition que les fonds alloués aux industries de défense ne compromettent pas la stabilité financière générale. Il exige une coordination étroite entre le secteur financier et les autorités nationales.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby soutient partiellement cette mesure, estimant que le délai supplémentaire permettrait d'ajuster les réglementations pour mieux tenir compte des spécificités du secteur financier. Cependant, il souligne l'importance de ne pas retarder trop longtemps la mise en œuvre.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Suivi attentif des réglementations en lien avec la défense et la sécurité.",
+      "Protection des brevets agricoles face aux normes environnementales strictes.",
+      "Accès au marché unique européen pour les produits chimiques agricoles non contrôlés par des directives sectorielles.",
+      "Financement des recherches en agrochimie dans le cadre de la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés.",
+      "Risques d'interdiction progressive de pesticides non biosourcés, impactant la production agricole."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie de négociation axée sur le maintien des cadres réglementaires favorables à l'innovation chimique et agricole. Elle vise à intégrer les secteurs agroalimentaire et chimique dans les politiques européennes tout en minimisant les contraintes environnementales directes. En s'appuyant sur des alliances stratégiques avec des pays producteurs agricoles (France, Italie, Pologne) et des partis favorables à la régulation progressive (PPE, S&D), Agrochimie défend une approche technologique et collaborative, insistant sur les avantages économiques de l'agriculture intensive. Elle s'oppose fermement aux amendements qui encadrent les brevets agricoles ou limitent la liberté d'accès au marché unique européen pour ses produits chimiques. Par ailleurs, Agrochimie s'appuie sur des lobbyistes comme Big Tech et Automobile pour renforcer son influence dans les domaines de l'innovation numérique et industrielle, tout en évitant les conflits avec des acteurs environnementaux comme les Verts/ALE.",
+    "alliances": [
+      "France (partage objectif agricole + investissements recherche chimie)",
+      "Italie (collaboration innovation pesticides biosourcés + relance industrielle)",
+      "PPE (soutien régulation sectorielle progressiste + investissements infrastructures)",
+      "S&D (priorité développement rural + financement agriculture durable)",
+      "Big Tech (innovation logiciels agricoles + traçabilité chimique)",
+      "Banque (financement projets R&D agrochimie + investissements européens)",
+      "Automobile (protection secteurs industriels stratégiques + synergies chimie)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition interdiction pesticides non biosourcés + défense industries traditionnelles)",
+      "Conservateurs (préférence régulation minimale vs transition écologique radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés à la réglementation chimie)"
+    ],
+    "éléments_d_argumentaire": [
+      "La réglementation stricte des pesticides menace la productivité agricole européenne, impactant la sécurité alimentaire.",
+      "Les investissements dans l'agrochimie sont cruciaux pour la modernisation de l'agriculture européenne et son compétitivité mondiale.",
+      "L'innovation chimique est un levier majeur pour réduire les pertes agricoles causées par les maladies des cultures.",
+      "La France, leader européen en agrochimie, défend une approche équilibrée entre régulation et innovation sectorielle.",
+      "Les brevets agricoles sont essentiels à la croissance de l'industrie chimique européenne et à son indépendance technologique.",
+      "La transition écologique doit s'appuyer sur des solutions agrochimiques innovantes, non sur des interdictions brutales.",
+      "L'agriculture intensive est une composante clé de la sécurité alimentaire européenne, qui ne peut être sacrifiée sans alternatives viables."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "NEUTRE",
+        "justification": "Agrochimie est neutre sur cet amendement car les dépenses militaires n'ont pas d'impact direct sur son secteur. Cependant, elle s'inquiète de l'éventuelle réduction des budgets alloués à la recherche agricole si le budget global du PIB est détourné vers la défense.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient l'amélioration de la cyber-sécurité, particulièrement pour protéger les données sensibles des entreprises agroalimentaires et chimiques. Une meilleure protection numérique renforce également la sécurité alimentaire européenne.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose partiellement à cet amendement car il pourrait complexifier les processus d'approvisionnement pour certaines entreprises chimiques, surtout si la coopération transfrontalière n'est pas bien gérée. Cependant, elle reconnaît les avantages de l'intégration européenne.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "NEUTRE",
+        "justification": "Cet amendement n'a pas d'impact direct sur le secteur Agrochimie. Cependant, Agrochimie reste attentive à ce que les formations militaires ne compromettent pas les ressources humaines nécessaires pour la recherche agricole.",
+        "priorite": "faible",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à une réduction du budget de défense car cela pourrait affecter indirectement les investissements dans l'agriculture et la sécurité alimentaire. Une défense robuste est nécessaire pour protéger le marché européen.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose partiellement à cet amendement car l'exclusion de pays clés comme la Pologne ou l'Italie pourrait nuire à l'intégration des marchés agricoles européens. Elle défend un approche inclusive.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cet amendement, car le secteur agroalimentaire et chimique n'est pas directement concerné par la défense. Elle s'assure cependant que les priorités industrielles ne dévient pas des besoins agricoles.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement ce report pour permettre une meilleure adaptation des réglementations sectorielles, notamment en matière d'innovation chimique. Cependant, elle préconise un suivi rigoureux des impacts sur l'agriculture européenne.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre Agrochimie et les Verts/ALE sur la réglementation des pesticides. Évaluer l'impact des amendements environnementaux sur les secteurs agricoles en Europe centrale (Pologne, Hongrie). Recommander un dialogue accru avec les entreprises chimiques pour aligner innovation et régulation.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T21:40:41.888939",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, notamment sur les réglementations sanitaires, l'innovation technologique, et les politiques de santé publique.",
+    "enjeux_directive": [
+      "Investir dans la recherche stratégique en santé liée à la défense.",
+      "Harmoniser les normes européennes pour accélérer le développement d'innovations médicales.",
+      "Protéger les brevets et droits de propriété intellectuelle des entreprises pharmaceutiques.",
+      "Assurer un financement durable des recherches en santé publique et en médecine personnalisée."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur pharmaceutique, notamment sur les réglementations sanitaires transfrontalières.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés par la définition d'objectifs de recherche en santé liée à la défense."
+    ],
+    "stratégie": "Le secteur pharmaceutique adopte une stratégie axée sur la collaboration avec les États membres et les acteurs européens pour renforcer l'innovation technologique, tout en protégeant ses intérêts économiques. Il s'appuie sur des alliances stratégiques avec des pays leaders dans la recherche médicale (comme la France et l'Italie) et des partis favorables à la défense du secteur privé (PPE). Les éléments clés de sa stratégie incluent la promotion d'une réglementation harmonisée, le soutien aux investissements en R&D, et la défense des droits de propriété intellectuelle. L'objectif est de garantir un environnement propice à l'innovation tout en maintenant une influence significative sur les politiques européennes.",
+    "alliances": [
+      "France (collaboration en recherche médicale et innovation technologique)",
+      "Italie (partage des objectifs d'harmonisation réglementaire dans le secteur pharmaceutique)",
+      "PPE (soutien aux entreprises privées et à la libre circulation des brevets)",
+      "S&D (priorité aux investissements en santé publique et recherche médicale)",
+      "Big Tech (synergies en innovation numérique et biotechnologie)",
+      "Agrochimie (collaboration sur les réglementations sanitaires transfrontalières)",
+      "Verts/ALE (soutien à la transition écologique dans le secteur pharmaceutique)"
+    ],
+    "oppositions": [
+      "Hongrie (défense d'une approche plus nationale en matière de santé publique et d'indépendance réglementaire)",
+      "Conservateurs (préférence pour une régulation moins contraignante sur les brevets pharmaceutiques)",
+      "Énergies fossiles (opposition à l'intégration des secteurs pharmaceutiques dans des cadres transfrontaliers)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur pharmaceutique est un pilier de la santé publique européenne et garantit une réponse rapide aux crises sanitaires.",
+      "L'innovation technologique et l'accès à des traitements innovants dépendent d'un cadre réglementaire favorable à la recherche.",
+      "La protection des brevets encourage les investissements massifs en R&D, essentiels pour le développement de nouveaux médicaments.",
+      "Une réglementation harmonisée permet d'éliminer les barrières commerciales entre les États membres et facilite l'expansion du secteur pharmaceutique.",
+      "Le soutien aux entreprises pharmaceutiques favorise la création d'emplois qualifiés et stimule l'économie européenne.",
+      "Les politiques de santé publique doivent s'appuyer sur des collaborations transfrontalières pour maximiser l'efficacité des traitements.",
+      "L'intégration du secteur pharmaceutique dans les initiatives européennes renforce la souveraineté technologique et la sécurité sanitaire."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur pharmaceutique et les partis favorables à des politiques plus progressistes en matière de santé publique. Évaluer l'impact potentiel des réglementations transfrontalières sur les petites entreprises européennes, notamment en Italie et en France. Surveiller les éventuelles tensions avec le lobby Agrochimie concernant la régulation des produits pharmaceutiques et leurs effets environnementaux.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "L'augmentation du budget de défense pourrait rediriger les ressources vers des secteurs non prioritaires pour le secteur pharmaceutique. Cela risque d'affecter les investissements en santé publique, essentiels pour la recherche et l'innovation médicale.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Si le fonds est conçu pour soutenir la cybersécurité des systèmes de santé et des infrastructures pharmaceutiques, il pourrait offrir des opportunités d'innovation et renforcer la protection des données sensibles.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure favorise une collaboration plus étroite entre les États membres, ce qui est bénéfique pour le secteur pharmaceutique en facilitant l'harmonisation des réglementations et l'accès aux équipements de recherche partagés.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "NEUTRE",
+        "justification": "Bien que cette mesure concernant la formation des forces armées ait peu d'impact direct sur le secteur pharmaceutique, elle pourrait indirectement affecter les ressources allouées à la santé publique si les budgets sont réalloués.",
+        "priorite": "faible",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Une limitation du budget de défense permettrait de consacrer davantage de ressources aux secteurs prioritaires comme la santé publique et l'innovation pharmaceutique.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion de certains pays pourrait créer des inégalités dans l'accès aux équipements et à la réglementation, affectant négativement les collaborations transfrontalières essentielles pour le secteur pharmaceutique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure favorise des secteurs non pharmaceutiques et pourrait réduire l'attention portée aux besoins du secteur pharmaceutique, notamment en matière de recherche et d'innovation.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Si le report permet d'améliorer les conditions de mise en œuvre et d'assurer une meilleure coordination entre les États membres, il pourrait être bénéfique pour le secteur pharmaceutique.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T20:41:04.926844",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne. Son objectif principal est de défendre les investissements industriels, d'assurer la transition écologique sans compromettre la compétitivité des chaînes de production européennes, et de sécuriser l'accès aux marchés stratégiques pour les véhicules électriques et à hydrogène.",
+    "enjeux_directive": [
+      "Développer des équipements et véhicules pour la défense.",
+      "Protéger les investissements dans les usines d'assemblage européennes face à l'émergence de concurrents non réglementés.",
+      "Intégrer les normes de durabilité et de sécurité routière sans surcoûts prohibitifs pour les PME du secteur.",
+      "Accélérer la transition vers les véhicules électriques tout en préservant les infrastructures existantes (centrales thermiques, réseaux de carburants).",
+      "Assurer une coopération transfrontalière pour l'innovation technologique et le partage des brevets."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés par la réglementation sur les émissions, l'innovation technologique, et l'accès aux marchés publics européens."
+    ],
+    "stratégie": "L'Automobile adopte une stratégie de négociation multilatérale, combinant lobbying direct auprès des institutions européennes (Commission, Parlement), alliances avec les pays industriels majeurs (Allemagne, France) et les partis favorables à la relance industrielle. Elle s'appuie sur l'expertise technique du secteur pour défendre des solutions durables (hydrogène vert, batterie recyclable) tout en exigeant des subventions européennes pour compenser les coûts de transition. En cas de blocage politique, elle mobilise ses réseaux d'influence (partis conservateurs, lobbies pro-innovation) et utilise des arguments économiques (perte d'emplois, risque de délocalisation vers des pays non réglementés).",
+    "alliances": [
+      "France (soutien à la relance industrielle via les investissements dans les usines électriques)",
+      "Italie (partage des objectifs de transition écologique et collaboration sur les projets d'hydrogène vert)",
+      "Verts/ALE (accord sur l'accélération du déploiement des infrastructures de recharge rapide)",
+      "S&D (soutien aux mesures de financement public pour les PME automobile)",
+      "Big Tech (collaboration sur la digitalisation des chaînes de production et l'intelligence artificielle appliquée à l'industrie)",
+      "Banque (financement structurel des investissements en énergies propres dans le secteur automobile)",
+      "PPE (soutien aux mesures de défense industrielle européenne)"
+    ],
+    "oppositions": [
+      "Hongrie (défiance face aux restrictions sur les subventions publiques et à la coopération transfrontalière)",
+      "Conservateurs (préférence pour une transition progressive du secteur automobile, plutôt qu'une réforme radicale)",
+      "Énergies fossiles (opposition au moratoire sur le charbon, qui menace les fournisseurs traditionnels de carburants pour l'industrie)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition vers les véhicules électriques doit être accompagnée d'une garantie de financement public pour éviter la délocalisation des usines en Asie et aux États-Unis.",
+      "Les normes européennes sur l'électrification doivent s'aligner avec les capacités technologiques actuelles, en particulier dans les pays à faible densité de population (ex. Suède).",
+      "La coopération transfrontalière pour l'innovation automobile doit être conditionnée à la préservation des secrets industriels et des brevets.",
+      "Les subventions publiques aux secteurs alternatifs (hydrogène, batterie) doivent inclure une clause de non-discrimination géographique pour éviter les inégalités entre pays membres.",
+      "La directive doit exclure l'application à court terme des normes strictes sur le recyclage des batteries, afin de ne pas pénaliser les entreprises en phase de transition.",
+      "Le secteur automobile doit être exempté temporairement des contraintes budgétaires liées aux équipements militaires pour se concentrer sur l'innovation écologique.",
+      "Les investissements dans les infrastructures de recharge doivent être financés par un fonds européen spécifique, plutôt que par les États membres individuellement."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les pays nordiques (Suède, Finlande) et le reste de l'UE sur la priorité donnée aux véhicules électriques par rapport aux solutions hybrides. Évaluer l'impact des mesures de financement public sur les PME allemandes du secteur. Recommander une surveillance régulière de l'équilibre entre transition écologique et préservation des emplois dans les usines traditionnelles (France, Italie).",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'automobile ne s'oppose pas au financement de la défense, mais s'inquiète que cette allocation des ressources affecte les budgets dédiés à l'innovation technologique dans le secteur. Elle propose un compromis pour maintenir une part minimale des investissements publics sur la transition écologique.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Automobile salue l'idée d'un fonds dédié à la cybersécurité, mais exige que ce financement inclue des mesures spécifiques pour protéger les réseaux industriels et les usines de production automobile contre les cybermenaces. Elle propose un partenariat avec le secteur technologique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "L'Automobile appuie cette mesure car elle favorise l'intégration des chaînes de production européennes et renforce la compétitivité face aux concurrents non réglementés. Elle propose des mécanismes d'accord entre les acteurs allemands, italiens et polonais.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "NEUTRE",
+        "justification": "L'Automobile ne s'oppose pas à ce volet, mais souligne qu'il doit être financé par des fonds dédiés et non prélevé sur le budget de recherche automobile. Elle recommande une collaboration avec les universités allemandes spécialisées en formation technique.",
+        "priorite": "faible",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "L'Automobile s'oppose à cette limite car elle pourrait réduire les investissements publics dans l'électrification et la transition écologique. Elle propose un plafond flexible, ajusté selon les besoins technologiques.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "L'Automobile s'inquiète que cette exclusion fragilise les marchés intérieurs et réduise la concurrence entre fournisseurs européens. Elle propose une approche basée sur des critères techniques, pas géographiques.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Automobile salue le soutien aux industries nationales, mais souligne que cela ne doit pas pénaliser les collaborations transfrontalières. Elle propose un mécanisme d'aide conditionnée à la conformité avec les normes européennes.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Automobile appuie un report temporaire pour permettre aux acteurs économiques de s'adapter technologiquement, à condition que ce délai ne soit pas utilisé comme un frein permanent. Elle recommande un suivi rigoureux des progrès technologiques pendant cette période.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T20:58:47.051920",
+    "version": "4.7"
+  }
+]
