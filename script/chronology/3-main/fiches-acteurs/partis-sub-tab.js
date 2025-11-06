@@ -372,7 +372,7 @@ function renderPartisCard(partyId, selection, DOMRefs) {
     const { currentScenarioId, selectedDirectiveId } = AppState;
 
     const logoUrl = getImagePath(`/medias/images/logo-partis/${partyId}.png`);
-    const directiveImageUrl = getImagePath(`/medias/images/fiches-acteurs/${currentScenarioId}-${selectedDirectiveId}.png`);
+    const directiveImageUrl = getImagePath(`/medias/images/fiches-acteurs/s${currentScenarioId}/${currentScenarioId}-${selectedDirectiveId}.png`);
 
     if (DOMRefs.fichesPartisPhoto1) {
         DOMRefs.fichesPartisPhoto1.style.backgroundImage = `url('${logoUrl}')`;

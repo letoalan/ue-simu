@@ -344,7 +344,7 @@ function renderLobbiesCard(lobbyId, selection, DOMRefs) {
     const logoUrl = getImagePath(`/medias/images/logo-lobbies/${lobbyId}.png`);
 
     // Image 2: Image de la directive (dynamique)
-    const directiveImageUrl = getImagePath(`/medias/images/fiches-acteurs/${currentScenarioId}-${selectedDirectiveId}.png`);
+    const directiveImageUrl = getImagePath(`/medias/images/fiches-acteurs/s${currentScenarioId}/${currentScenarioId}-${selectedDirectiveId}.png`);
 
     if (DOMRefs.fichesLobbiesPhoto1) {
         DOMRefs.fichesLobbiesPhoto1.style.backgroundImage = `url('${logoUrl}')`;
