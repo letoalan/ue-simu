@@ -1,0 +1,79 @@
+# stats2d2
+
+Source : `directives/fiches-acteurs/s2/d2/stats2d2.json`
+
+## Contenu
+
+- **scenario** : `2`
+- **directive** : `2`
+- **nom** : Défense commune européenne
+- **valeurs\_prevues** :
+  - **normandie\_eu** : `88`
+  - **vdem\_eu** : `0.87`
+  - **pib\_growth\_eu** : `1.4`
+  - **idh\_eu** : `0.94`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 2-2A
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `90`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.3`
+      - **idh\_eu** : `0.94`
+  - **Élément 2** :
+    - **id** : 2-2B
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `89`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.95`
+  - **Élément 3** :
+    - **id** : 2-2C
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `89`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.4`
+      - **idh\_eu** : `0.94`
+  - **Élément 4** :
+    - **id** : 2-2D
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.95`
+  - **Élément 5** :
+    - **id** : 2-2E
+    - **origine** : Italie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.93`
+  - **Élément 6** :
+    - **id** : 2-2F
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.85`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.93`
+  - **Élément 7** :
+    - **id** : 2-2G
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.4`
+      - **idh\_eu** : `0.94`
+  - **Élément 8** :
+    - **id** : 2-2H
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`

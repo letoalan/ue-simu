@@ -1,0 +1,772 @@
+[
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer la pérennité des secteurs industriels clés (acier, énergie, semi-conducteurs).",
+      "Concentrer les ressources sur les industries vitrines de l'économie nationale pour renforcer la souveraineté industrielle européenne.",
+      "Garantir une transition écologique alignée avec les réalités économiques polonaises (priorité à la stabilité des emplois et à la modernisation progressive).",
+      "Protéger les régions défavorisées de l'Est de l'Europe contre un déséquilibre géographique dans la répartition des fonds européens.",
+      "Maintenir une coopération stratégique avec les pays voisins (Ukraine, Biélorussie) pour sécuriser les approvisionnements énergétiques."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne en imposant des contraintes environnementales sur ses secteurs industriels traditionnels.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques, notamment la préservation de l'industrie lourde et la stabilisation de l'économie face à une transition rapide."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-6E",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "La Pologne adopte une stratégie axée sur la préservation des secteurs industriels clés tout en intégrant progressivement les exigences environnementales. Elle cherche à maximiser l'attractivité des subventions européennes pour ses industries stratégiques (acier, énergie, semi-conducteurs) tout en minimisant les perturbations économiques. L'approche privilégie la modernisation technologique et l'innovation dans les procédés bas carbone plutôt qu'une transition radicale. La Pologne insiste sur une coordination étroite avec ses partenaires européens (notamment la France, l'Italie) pour renforcer sa position au sein de l'Union européenne tout en défendant ses intérêts nationaux.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux secteurs stratégiques et à la souveraineté industrielle européenne)",
+      "S&D (priorité aux investissements dans les régions défavorisées de l'Est de l'Europe)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection des secteurs industriels stratégiques)",
+      "Banque (soutien aux investissements structuraux dans l'énergie et l'innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon + défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centrales à charbon opposés aux moratoires et aux réglementations strictes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne défend le maintien de ses industries lourdes en tant qu'acteurs clés de la souveraineté industrielle européenne, notamment dans les secteurs de l'acier et des semi-conducteurs.",
+      "Elle insiste sur la nécessité d'une transition écologique progressive pour éviter une crise économique majeure, en particulier dans les régions économiquement vulnérables du centre-est de l'Europe.",
+      "La Pologne met en avant l'importance de protéger les emplois liés aux industries traditionnelles (charbon, sidérurgie) tout en développant des technologies bas carbone, comme le gaz naturel et l'hydrogène vert.",
+      "Elle prône une coopération étroite avec la France et l'Italie pour moderniser les infrastructures énergétiques européennes tout en garantissant la sécurité énergétique de la Pologne face aux tensions géopolitiques avec la Russie.",
+      "La Pologne souligne que la transition écologique doit être accompagnée d'une formation professionnelle adaptée pour empêcher le chômage structurel dans les régions industrielles traditionnelles.",
+      "Elle défend une flexibilité nationale dans l'attribution des subventions, en particulier pour les petites et moyennes entreprises (PME) qui nécessitent un soutien spécifique pour s'adapter aux nouvelles normes environnementales."
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les secteurs industriels traditionnels (acier, charbon) et les objectifs climatiques de l'Union européenne. Évaluer régulièrement l'impact des subventions sur la compétitivité de l'industrie polonaise face aux concurrents européens (Allemagne, Italie). Surveiller la mise en œuvre des mesures liées à la transition énergétique dans les régions économiquement vulnérables du centre-est de l'Europe.",
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cet amendement car il permet d'accorder des subventions plus importantes aux industries lourdes (charbon, acier), essentielles à son économie. Cela renforce la compétitivité de ses usines face à une transition rapide vers les énergies propres, tout en garantissant un financement adéquat pour moderniser ces secteurs.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne appuie cet amendement à condition qu'il ne pénalise pas les régions industrielles traditionnelles. Elle est prête à soutenir des mesures favorables aux emplois locaux, mais souligne l'importance de préserver la main-d'œuvre existante dans les secteurs dits « polluants » pour éviter une crise sociale.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "La Pologne défend cet amendement car une transition écologique efficace dépend de la préparation des travailleurs. Elle insiste sur l'importance d'une formation adaptée, en particulier pour les régions économiquement vulnérables du centre-est de l'Europe.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cet amendement car il permet de stimuler la recherche et le développement en faveur des procédés industriels innovants. Cela renforce sa position au sein de l'Union européenne tout en répondant aux exigences climatiques.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par la Pologne, vise à garantir que les subventions européennes soient orientées vers des secteurs clés pour sa souveraineté industrielle. Cela renforce l'industrie de l'acier et du semi-conducteur tout en évitant une dilution des fonds dans d'autres secteurs moins stratégiques.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement à condition que les PME puissent bénéficier d'une transition adaptée. Elle souligne l'importance d'éviter un déséquilibre entre grands groupes et petites entreprises dans la mise en œuvre de la directive.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "La Pologne appuie cet amendement car il favorise les exportations de ses produits industriels (acier, semi-conducteurs), ce qui renforce sa position économique au sein de l'Union européenne. Cela permet également d'assurer la stabilité du marché intérieur face à une concurrence accrue.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose partiellement à cet amendement car elle préfère un cadre européen harmonisé pour la distribution des fonds. Cependant, elle reste ouverte à une flexibilité limitée pour les régions économiquement vulnérables.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T12:16:01.348875",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Permettre aux PME d'accéder aux subventions malgré contraintes techniques.",
+      "Soutenir la modernisation progressive sans pénaliser les entreprises locales.",
+      "Préserver l'emploi industriel national.",
+      "Accélérer le déploiement de la transition énergétique en alignant les critères européens sur les capacités technologiques nationales.",
+      "Protéger les secteurs stratégiques (acier, semi-conducteurs) tout en maintenant une compétitivité globale."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "France adopte une stratégie basée sur un équilibre entre les impératifs climatiques et la préservation de son tissu industriel. En s'appuyant sur l'expertise technologique des PME, le pays vise à maximiser les subventions tout en garantissant des critères décarbonationnels adaptés à la réalité sectorielle. L'accent est mis sur la collaboration avec les acteurs européens engagés dans une transition écologique progressive (Verts/ALE) et les partis favorables aux investissements régionaux (S&D). La France défend un modèle de modernisation qui combine innovation technologique (via Big Tech et l'industrie automobile) à la préservation des emplois locaux. Cet objectif est soutenu par une diplomatie énergétique visant à renforcer la coopération avec les pays partageant des visions similaires, comme l'Italie, sur l'hydrogène vert et le relancement industriel.",
+    "alliances": [
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "PPE (alignement sur les objectifs d'investissement stratégique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les PME industrielles, clé du tissu économique français, nécessitent des critères décarbonationnels flexibles pour ne pas pénaliser leur innovation technologique.",
+      "Le soutien aux investissements régionaux permet de réduire les disparités territoriales tout en stimulant l'emploi local dans les zones rurales et périurbaines.",
+      "La préservation des secteurs stratégiques (acier, semi-conducteurs) est un pilier de la souveraineté industrielle européenne et nationale.",
+      "L'innovation technologique, soutenue par Big Tech, est essentielle pour accélérer la transition vers une économie bas-carbone.",
+      "Les subventions doivent être alignées sur les capacités des PME pour éviter de les marginaliser par rapport aux grands groupes industriels européens.",
+      "La France défend un modèle de transition écologique qui intègre à la fois l'ambition climatique et la compétitivité économique, contrairement à une approche radicale qui pourrait pénaliser certaines régions industrielles.",
+      "La flexibilité nationale dans l'allocation des subventions est cruciale pour respecter les spécificités géographiques et sectorielles de chaque État membre."
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur automobile (Renault, PSA) et les objectifs climatiques. Évaluer l'impact des subventions sur les régions industrielles du Nord-Est (40% de la production nationale). Surveiller les divergences avec les partis radicaux sur l'approche transitionnelle.",
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "France soutient cet amendement dans le cadre d'une transition énergétique progressive, mais conditionne son adoption à l'intégration de critères sectoriels adaptés aux PME. L'objectif est de ne pas pénaliser les industries en phase de modernisation tout en favorisant des investissements ciblés dans les usines les plus polluantes.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE",
+        "justification": "La France soutient clairement cet amendement, car il aligne avec sa priorité nationale de préserver l'emploi industriel et régional. Les critères liés aux emplois locaux renforcent les politiques de relance économique dans les zones défavorisées.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement comme un pilier essentiel de la transition écologique. La formation des travailleurs est cruciale pour accompagner les métiers en mutation, notamment dans les secteurs industriels en reconversion.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "La France soutient fermement cet amendement, qui correspond à sa stratégie nationale d'innovation technologique. L'industrie française a besoin de financements ciblés pour développer des procédés industriels bas carbone compétitifs à l'échelle européenne.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement comme un levier essentiel pour protéger ses secteurs industriels stratégiques. Ces réserves garantissent que les investissements européens soutiennent la souveraineté technologique et industrielle.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE",
+        "justification": "France défend fermement cet amendement qu'elle a elle-même proposé. Il permet aux petites et moyennes entreprises, clé du tissu économique français, d'accéder aux subventions tout en respectant des critères décarbonationnels adaptés à leur capacité technique. Cet alignement est essentiel pour ne pas marginaliser les PME par rapport aux grands groupes industriels.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient cet amendement dans le cadre d'une transition énergétique globale. Un soutien temporaire aux exportations permettrait de renforcer la compétitivité des secteurs industriels en phase de reconversion, tout en évitant un impact négatif sur les marchés internationaux.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement comme un pilier de sa diplomatie énergétique. Une flexibilité nationale permettrait aux États membres d'adapter les subventions à leurs réalités sectorielles et géographiques, renforçant ainsi l'efficacité des investissements européens.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T11:23:31.308757",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la compétitivité des entreprises allemandes à l'international.",
+      "Accompagner les exportations industrielles modernisées.",
+      "Protéger les parts de marché européennes face à la concurrence mondiale.",
+      "Assurer une transition énergétique respectueuse des secteurs industriels stratégiques (acier, automobile).",
+      "Soutenir la relance économique post-pandémie par des investissements ciblés."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Allemagne.",
+      "La position allemande reflète ses préoccupations nationales spécifiques sur la transition industrielle.",
+      "Les mesures climatiques doivent être conciliées avec les priorités sectorielles (automobile, énergie)."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-6G",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "Plaider pour un soutien ciblé facilitant l'exportation de produits issus d'usines modernisées, tout en intégrant des mesures de transition écologique progressives. L'Allemagne insistera sur la nécessité d'un équilibre entre les objectifs climatiques et la compétitivité industrielle, en s'appuyant sur l'excellence technologique allemande (automobile, énergie). Elle promouvra des innovations dans les procédés bas carbone tout en protégeant les secteurs stratégiques comme l'acier.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance aux normes climatiques strictes pour secteur énergie)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit favoriser une transition écologique qui ne pénalise pas les PME industrielles, en leur offrant des incitations fiscales et techniques adaptées.",
+      "Les subventions doivent être ciblées pour soutenir la modernisation des usines polluantes, tout en garantissant la compétitivité européenne (ex. secteur acier).",
+      "L'innovation dans les procédés bas carbone doit être encouragée par des fonds européens dédiés, avec un suivi strict des résultats.",
+      "Un mécanisme de soutien temporaire à l’export est essentiel pour préserver le leadership industriel allemand sur les marchés mondiaux.",
+      "Les secteurs stratégiques (acier, semi-conducteurs) doivent bénéficier d’un accès prioritaire aux subventions et aux investissements européens.",
+      "L'Allemagne défend une approche équilibrée qui permette à ses entreprises de concurrencer les pays non européens tout en respectant les objectifs climatiques.",
+      "La formation des travailleurs affectés par la transition (ex. secteur charbon) doit être intégrée dans les plans d'accompagnement, avec un financement communautaire."
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions secteur automobile (Volkswagen, BMW) face aux normes climatiques. Évaluer impact des subventions sur les PME allemandes et l’équilibre Nord-Sud en Europe. Surveiller position nucléaire (réticences historiques dans certaines régions).",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T11:07:33.260487",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cette mesure, à condition qu'elle soit accompagnée de normes environnementales strictes et d'un suivi des entreprises bénéficiaires. Elle permettrait d'accélérer la transition vers une production bas carbone tout en préservant les emplois industriels.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne appuie cette condition pour éviter le transfert de production vers des pays non européens. Cela renforce l'emploi dans les régions industrielles allemandes tout en maintenant la compétitivité.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est cruciale pour l'Allemagne, qui souhaite accompagner les travailleurs affectés par la transition énergétique (ex. secteur charbon). Elle doit être financée à hauteur de 30% par le budget européen.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend fermement cette initiative, qui aligne avec sa stratégie de leadership technologique en Europe. Elle préconise des partenariats public-privé pour accélérer les démonstrations pilotes.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cette réserve à condition que les critères de sélection soient transparents et basés sur des indicateurs européens communs. Cela évite la distorsion de concurrence entre pays membres.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose partiellement à cette mesure, craignant un effet de « dumping » climatique. Elle propose plutôt des incitations fiscales adaptées aux PME sans relâcher les objectifs de réduction d'émissions.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, proposé par l'Allemagne, vise à préserver sa position dominante dans les marchés mondiaux tout en respectant les objectifs climatiques. Il doit être financé via un fonds communautaire dédié.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "NEUTRE",
+        "justification": "L'Allemagne reste neutre sur cette proposition, souhaitant un cadre harmonisé à l'échelle européenne tout en reconnaissant la nécessité d'adaptations locales. Elle préconise une évaluation annuelle par le Conseil de l’Union.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Adapter les subventions aux spécificités industrielles nationales.",
+      "Garantir l'autonomie des États membres dans la distribution des aides.",
+      "Éviter une approche uniforme inadaptée aux réalités locales.",
+      "Soutenir les secteurs stratégiques (acier, semi-conducteurs) en Europe.",
+      "Promouvoir l'innovation dans les procédés industriels bas carbone."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Suède adopte une approche équilibrée, combinant l'ambition climatique européenne avec la nécessité d'adapter les mesures aux réalités économiques locales. En tant que pays pionnier dans la transition écologique, elle défend un modèle de subsidiarité qui permet aux États membres de déterminer leurs propres priorités dans l'allocation des subventions tout en respectant les objectifs climatiques communs. Elle mise sur la collaboration avec les acteurs industriels (comme le secteur sidérurgique) et les parties politiques favorables à une transition progressive pour éviter les ruptures économiques soudaines. En parallèle, elle insiste sur la nécessité de préserver l'autonomie nationale dans la gestion des fonds européens, en particulier pour financer des projets innovants comme le développement de l'hydrogène vert ou la modernisation des infrastructures énergétiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La flexibilité nationale permet aux pays d'adapter les subventions à leurs secteurs industriels spécifiques, évitant une application uniforme inadaptée.",
+      "L'autonomie des États membres dans la distribution des aides renforce la responsabilité nationale et favorise l'innovation locale.",
+      "Les mesures climatiques doivent respecter les réalités économiques pour ne pas menacer la compétitivité européenne.",
+      "La subsidiarité est un pilier de la gouvernance européenne, garantissant une prise en compte des spécificités régionales et sectorielles.",
+      "L'harmonisation stricte des subventions risque d'entraîner des distorsions de concurrence entre les pays membres.",
+      "Les secteurs stratégiques (acier, semi-conducteurs) doivent être soutenus pour maintenir la souveraineté technologique européenne.",
+      "L'équilibre entre objectifs climatiques et croissance économique est indispensable pour éviter des ruptures industrielles brutales.",
+      "La transition écologique doit s'accompagner de mesures de formation et d'adaptation sociale pour préserver l'emploi."
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions industrielles (secteur sidérurgique, entreprises comme SSAB) et impact des mesures sur la compétitivité. Évaluer régulièrement les effets de l'harmonisation européenne sur l'économie suédoise. Recommander un suivi des collaborations transfrontalières avec le nord de la Scandinavie.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T12:31:53.525422",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Suède soutient cet amendement dans le cadre d'une approche progressive, en associant les subventions à des engagements concrets de réduction des émissions. Cela permettra de favoriser la transition écologique tout en préservant l'industrie nationale.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE",
+        "justification": "L'engagement en faveur de la création locale d'emplois est aligné avec les priorités suédoises de développement régional et de justice sociale. Cela garantit que les aides européennes bénéficient directement des populations locales.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "La transition écologique doit s'accompagner d'une préparation des travailleurs à nouveaux métiers. Cet amendement permettra de renforcer la compétitivité du marché du travail suédois.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède défend cette initiative conditionnellement à la garantie d'une répartition équitable des financements entre les secteurs et les régions, afin de ne pas marginaliser certaines zones.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE",
+        "justification": "La protection des secteurs industriels stratégiques est essentielle pour la souveraineté technologique européenne. La Suède défend cet amendement comme un pilier de sa politique industrielle.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Suède soutient un assouplement progressif des critères, mais souligne l'importance d'éviter une dilution excessive qui compromettrait les objectifs climatiques européens.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cet amendement pourrait renforcer la compétitivité des entreprises suédoises sur les marchés internationaux, mais doit être accompagné d'une évaluation rigoureuse pour éviter les distorsions de concurrence.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE",
+        "justification": "Suède, originaire de cet amendement, défend fermement la flexibilité nationale pour permettre aux États membres d'adapter les mesures à leurs spécificités industrielles tout en respectant l'objectif climatique commun. Cette approche favorise une transition écologique équilibrée et durable.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Non-porteur - Demande davantage d'accompagnement pour les régions industrielles en reconversion.",
+    "enjeux_directive": [
+      "Soutenir les zones industrielles fragilisées par la transition.",
+      "Éviter les pertes d'emplois massives dans le secteur manufacturier.",
+      "Renforcer la cohésion territoriale.",
+      "Maintenir la compétitivité des secteurs stratégiques (acier, chimie).",
+      "Assurer une répartition équitable des financements européens entre nord et sud du pays."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Italie.",
+      "La position de l'Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Italie adopte une approche pragmatique, combinant un soutien à la transition écologique avec la préservation des emplois industriels. Elle prône une transition progressive et accompagnée, en insistant sur l'importance de mesures de requalification professionnelle pour les travailleurs affectés par la reconversion. L'Italie cherche à renforcer sa position dans les secteurs stratégiques (acier, semi-conducteurs) tout en s'engageant vers des objectifs climatiques ambitieux. Elle milite pour une coopération étroite avec les pays méditerranéens sur des projets de transition énergétique et industrielle, notamment dans le domaine de l'hydrogène vert. Elle défend également la nécessité d'une flexibilité nationale pour adapter les mesures aux spécificités régionales, en particulier dans les zones industrielles du nord (Piémont, Lombardie) et du sud (Pugle, Campanie). L'Italie s'appuie sur des alliances avec les partis pro-européens et les lobbies industriels pour promouvoir une transition énergétique qui ne pénalise pas la compétitivité nationale.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "PPE (soutien à la stabilité des secteurs stratégiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (préférence pour un cadre moins contraignant sur les émissions industrielles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La relance industrielle doit s'appuyer sur des subventions ciblées pour les usines en reconversion, afin de préserver les emplois locaux.",
+      "Les secteurs stratégiques (acier, chimie) nécessitent un accompagnement spécifique pour éviter une perte de compétitivité par rapport aux pays voisins.",
+      "La formation des travailleurs doit être intégrée dans tout plan de transition, en particulier pour les régions industrielles du nord et du sud du pays.",
+      "Une flexibilité nationale dans la répartition des subventions est indispensable pour tenir compte des disparités régionales.",
+      "L'innovation dans les procédés industriels bas carbone doit être encouragée, en particulier dans les zones avec un fort taux de pollution.",
+      "Les PME industrielles méritent une approche spécifique, avec des critères de décarbonation adaptés à leur taille et à leurs contraintes.",
+      "Le soutien temporaire à l'export est crucial pour préserver la compétitivité des industries italiennes sur les marchés internationaux.",
+      "La transition énergétique doit s'accompagner d'une coopération renforcée avec les pays méditerranéens sur les projets de développement durable."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cet amendement car il permet d'accompagner la reconversion des usines polluantes tout en préservant les emplois dans les régions industrielles. Cela renforce également la compétitivité des secteurs stratégiques (acier, chimie) face aux concurrents européens.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie appuie ce point, mais exige une flexibilité dans l'évaluation des emplois locaux, en tenant compte des spécificités régionales. Elle met l'accent sur la nécessité de créer des postes durables dans les zones industrialisées du nord et du sud.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient fermement cet amendement, car il permet de préparer les travailleurs à la transition industrielle. Elle met en avant l'importance d'une formation ciblée et accessible à toutes les régions du pays.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "L'Italie appuie cet amendement, car il favorise le développement technologique dans les secteurs industriels clés. Cela renforce la position de l'Italie en tant que leader européen de l'innovation et de la durabilité.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient cette mesure, mais exige une définition claire des secteurs stratégiques. Elle souligne l'importance de préserver les industries historiques tout en s'engageant dans la transition écologique.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie appuie cet amendement, mais exige une approche adaptée à la taille des PME. Elle met en avant l'importance d'un soutien spécifique pour ces entreprises, souvent plus vulnérables aux exigences environnementales.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cet amendement, car il permet de préserver la compétitivité des industries italiennes sur les marchés internationaux. Cela renforce également la position de l'Italie dans les chaînes de valeur européennes.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cet amendement, car il permet d'adapter les mesures aux spécificités régionales. Elle souligne l'importance de respecter les disparités économiques et industrielles entre le nord et le sud du pays.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions Nord-Sud sur répartition fonds verts (régions Sud: 25% investissements). Prioriser collaboration avec Espagne/Portugal pour projets maritimes Méditerranée. Évaluer régulièrement impact mesures régions industrielles (40% population, 30% emplois manufacturiers).",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T11:39:49.699550",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Non-porteur - Craint une dépendance accrue aux technologies étrangères et préfère investir dans l'innovation locale.",
+    "enjeux_directive": [
+      "Préserver l'autonomie technologique nationale en évitant les normes harmonisées imposées par la Commission.",
+      "Protéger les secteurs stratégiques comme le pétrochimique et la production d'énergie (centrales à charbon de Villányi).",
+      "Maintenir des subventions pour l'industrie manufacturière, notamment pour les PME en difficulté.",
+      "Lutter contre les mesures restrictives liées aux énergies fossiles qui menacent la sécurité énergétique nationale.",
+      "Promouvoir le développement de l'hydrogène vert comme alternative à la décarbonation radicale."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Hongrie adopte une approche défensive vis-à-vis des directives climatiques strictes, privilégiant la protection de sa base industrielle et l'autonomie technologique. Elle s'engage dans un dialogue stratégique avec les acteurs favorables à la flexibilité nationale (comme la France) tout en résistant aux pressions pour une transition rapide vers des énergies propres. Son objectif est de maintenir un équilibre entre l'adoption d'innovations vertes et la préservation des secteurs économiques clés, notamment les industries pétrochimiques et le charbon. La Hongrie mise sur des partenariats sectoriels (comme avec le lobby Automobile) pour sécuriser son approvisionnement énergétique et éviter une dépendance accrue à l'UE. Elle propose également de soutenir localement les technologies alternatives, comme l'hydrogène vert, tout en refusant des mesures qui pourraient compromettre sa souveraineté industrielle ou économique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Pologne (défense des intérêts nationaux dans l'industrie pétrochimique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La décarbonation radicale menacerait la sécurité énergétique de Hongrie, dépendante du charbon pour 40% de sa production électrique.",
+      "Les subventions conditionnées à l'innovation écologique pourraient favoriser des entreprises étrangères au détriment des PME locales.",
+      "La flexibilité nationale dans la répartition des fonds est essentielle pour éviter une perte de compétitivité industrielle.",
+      "L'introduction d'un mécanisme d'export temporaire permettrait de maintenir les emplois dans les secteurs stratégiques comme l'industrie chimique.",
+      "Le soutien aux énergies fossiles est crucial pour éviter un chômage massif dans les régions rurales dépendant du charbon (ex: Villányi).",
+      "La protection des industries manufacturières est une priorité nationale, en particulier face à la concurrence européenne et mondiale.",
+      "L'hydrogène vert doit être développé localement pour éviter de dépendre d'importations étrangères coûteuses."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait de soutenir les secteurs industriels stratégiques de Hongrie (comme l'industrie chimique) tout en favorisant une transition progressive vers des technologies vertes. Cela alignerait la stratégie nationale avec l'objectif européen de réduction des émissions sans compromettre la compétitivité économique.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que la création d'emplois locaux soit un objectif légitime, cette condition pourrait limiter l'accès aux subventions pour des entreprises situées dans des régions rurales ou moins développées. Hongrie préfère une approche plus flexible pour encourager l'innovation sans créer de barrières géographiques.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure serait bénéfique si elle était accompagnée de mesures de soutien à l'emploi dans les secteurs en difficulté. Cependant, Hongrie s'inquiète d'une possible inadéquation entre les formations proposées et les besoins du marché du travail local.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition correspond à la stratégie nationale de promouvoir l'innovation locale tout en développant des technologies vertes. Cela permettrait de renforcer le tissu industriel hongrois sans dépendre des solutions externes.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure aligne l'objectif européen avec la stratégie nationale de soutien aux secteurs clés pour la sécurité économique. Elle garantirait un financement ciblé pour des industries essentielles à la souveraineté technologique.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette proposition pourrait aider les petites et moyennes entreprises à s'adapter aux exigences climatiques sans compromettre leur survie économique. Cependant, Hongrie préfère une approche graduelle pour éviter des perturbations majeures.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement permettrait de sécuriser les exportations dans des secteurs stratégiques comme la chimie, tout en maintenant la compétitivité sur le marché mondial. Cela renforcerait l'économie hongroise face aux pressions climatiques.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est cruciale pour permettre à la Hongrie d'adapter les politiques climatiques à ses besoins spécifiques. Cela éviterait des incohérences entre les objectifs européens et les réalités nationales.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions dans l'industrie chimique (Magyar Társaság) face aux réglementations climatiques. Évaluer impact de la transition énergétique sur les régions dépendantes du charbon comme Villányi. S'assurer que les fonds verts sont répartis de manière équitable entre les régions et les secteurs.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T11:56:53.950813",
+    "version": "4.7"
+  }
+]

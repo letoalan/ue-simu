@@ -1,0 +1,751 @@
+[
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Non-porteur - Soutien mesuré : demande des garanties sur l’articulation avec les politiques nationales de logement et de rénovation.",
+    "enjeux_directive": [
+      "Préserver la marge de manœuvre nationale dans la gestion du logement social.",
+      "Éviter la complexification administrative pour les bailleurs sociaux.",
+      "Assurer une répartition équitable des financements entre régions urbaines et rurales.",
+      "Protéger les secteurs industriels stratégiques (construction, matériaux) tout en respectant les engagements climatiques.",
+      "Garantir la prise en compte des spécificités territoriales (zone montagneuse, îles) dans les obligations de rénovation."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Médiateur entre ambitions européennes et réalités administratives nationales. La France adopte une posture pragmatique, combinant soutien à des objectifs climatiques ambitieux tout en défendant une flexibilité adaptée aux contraintes locales (zones rurales, densité urbaine). Elle insiste sur la nécessité d’harmoniser les normes européennes avec les cadres nationaux existants (ex: plan logement 2035), tout en développant des alliances stratégiques pour renforcer sa position dans les négociations. La France mise sur un argumentaire fondé sur l’expérience sectorielle (réseau ferré, maîtrise de la rénovation énergétique) et le dialogue constructif avec les parties prenantes clés (partis sociaux, secteur immobilier).",
+    "alliances": [
+      "Italie (collaboration sur les logements accessibles aux personnes à mobilité réduite et renforcement des normes de qualité pour les matériaux locaux)",
+      "Verts/ALE (soutien à la transition écologique, en particulier pour l’innovation dans la construction bas-carbone)",
+      "S&D (priorité aux investissements dans les régions défavorisées et aux mesures sociales inclusives)",
+      "Big Tech (développement des solutions numériques pour optimiser la gestion des logements sociaux et des projets immobiliers publics)",
+      "Automobile (protection des secteurs industriels liés à la construction et au transport, en particulier les fournisseurs de matériaux locaux)",
+      "Banque (soutien aux financements structuraux pour l’habitat et les rénovations énergétiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux mesures contraignantes sur la transition énergétique et à la centralisation des normes européennes)",
+      "Conservateurs (préférence pour une transition progressive, rejet de l’obligation de rénovation immédiate pour les petits bailleurs)",
+      "Énergies fossiles (soutien aux centrales charbon et opposition aux moratoires progressifs sur la production d’énergie bas-carbone)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France souligne l’importance de respecter les spécificités locales (ruralité, densité urbaine) pour éviter une surcharge administrative des bailleurs sociaux.",
+      "Elle défend la nécessité d’un financement européen équilibré entre régions métropolitaines et zones rurales, en particulier dans les départements périphériques comme l’Ardèche ou le Finistère.",
+      "La France insiste sur l’importance de ne pas marginaliser les matériaux locaux (ex: béton cellulaire français) au profit de normes uniformisées européennes.",
+      "Elle met en avant la nécessité d’intégrer des critères sociétaux (mixité intergénérationnelle, accessibilité aux personnes à mobilité réduite) pour garantir une transition énergétique inclusive.",
+      "La France appelle à un soutien accru aux petites entreprises immobilières (ex: bailleurs locaux dans le Sud-Est) via des mesures incitatives plutôt qu’obligatoires.",
+      "Elle préconise un dialogue continu avec les acteurs économiques du secteur de la construction pour éviter une rupture brutale entre objectifs climatiques et compétitivité industrielle."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur immobilier (ex: SNIM, Bouygues Immobilier) et les objectifs de rénovation énergétique. Évaluer régulièrement l’impact des mesures sur les régions rurales (20% des logements sociaux en France métropolitaine). Surveiller les risques d’érosion du savoir-faire local dans la construction bas-carbone.",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "La France appuie cet objectif en soulignant la nécessité d’accélérer les investissements dans le secteur immobilier social, en particulier pour combattre l’augmentation du coût de la vie et répondre aux besoins des familles modeste. Cet amendement aligne les ambitions européennes sur les priorités nationales (ex: plan logement 2035), tout en valorisant les chantiers immobiliers comme un levier d’emplois locaux.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient cet amendement, mais exige une flexibilité pour les petites collectivités et une prise en compte de l’ancienneté des bâtiments (ex: logements du XIXe siècle dans le Nord). Elle préconise un accompagnement financier et technique pour éviter la surcharge administrative et garantir la qualité des rénovations.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "La France appuie cet amendement, car elle considère que l’accessibilité est une condition essentielle pour l’inclusion sociale. Cet objectif correspond aux priorités nationales (ex: plan d’action pour les personnes handicapées) et renforce la cohérence entre les politiques européennes et les engagements locaux.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France s’engage à soutenir cet amendement, mais insiste sur l’importance d’une approche progressive pour éviter de pénaliser les zones urbaines en difficulté. Elle propose des mesures incitatives plutôt qu’un conditionnement strict, tout en valorisant la diversité sociologique comme un levier de cohésion sociale.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement pour respecter les spécificités territoriales (ex: zones rurales, densité urbaine). Elle propose des cadres européens flexibles, tout en exigeant un suivi régulier pour garantir la convergence vers les objectifs communs.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s’oppose à cette exclusion, car elle considère que les logements intermédiaires (ex: T2/3 en Île-de-France) sont essentiels pour lutter contre la précarité. Elle propose un accompagnement spécifique plutôt qu’une exclusion totale.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient cet amendement, mais souligne la nécessité d’un soutien technique et financier pour ces bailleurs. Elle préconise un suivi strict pour éviter une mise en retard trop longue sur l’objectif global de rénovation.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE",
+        "justification": "La France appuie cet amendement, car elle considère que les zones rurales (ex: Aveyron, Ariège) ont des besoins spécifiques. Elle propose un cadre flexible tout en exigeant une évaluation régulière pour garantir l’atteinte des objectifs de rénovation.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T19:58:40.443326",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Adapter les objectifs aux capacités nationales et régionales.",
+      "Éviter des contraintes trop rigides pour certains États membres.",
+      "Garantir une mise en œuvre progressive.",
+      "Protéger les industries stratégiques (p. ex. énergies fossiles).",
+      "Assurer la souveraineté nationale sur les politiques économiques."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Soutenir des compromis pour ménager les spécificités locales tout en défendant l'indépendance nationale dans la mise en œuvre des objectifs climatiques. La Hongrie privilégiera une approche progressive, intégrant des flexibilités nationales pour éviter les chocs économiques et sociaux, tout en participant à la transition écologique sur des bases acceptables par l'opinion publique et le secteur industriel. L'accent sera mis sur la coopération avec les pays partageant une vision conservatrice de la transition énergétique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à l'équilibre entre croissance économique et transition écologique)",
+      "S&D (priorité aux investissements dans les régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Pologne (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La mise en œuvre d'objectifs trop ambitieux sans flexibilité nationale pourrait menacer la stabilité économique et sociale de la Hongrie.",
+      "Les industries stratégiques (notamment dans les énergies fossiles) doivent être préservées pour éviter une perte de compétitivité européenne.",
+      "La transition écologique doit se faire en respectant les spécificités géographiques, historiques et économiques des États membres.",
+      "Les investissements dans les logements sociaux doivent être conditionnés à la préservation des équilibres régionaux existants.",
+      "Une approche trop radicale risque d'exclure les pays en transition (comme la Hongrie) de la gouvernance européenne sur ces sujets.",
+      "La flexibilité nationale est nécessaire pour éviter une fragmentation des politiques climatiques au sein de l'UE.",
+      "Les amendements doivent refléter une volonté d'équilibre entre les objectifs climatiques et la préservation du tissu industriel européen."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur automobile (Renault, Volkswagen) et objectifs climatiques directive. Position nucléaire délicate en raison des reticences historiques du gouvernement. Équilibrer transition énergétique et compétitivité secteur industriel.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T20:31:48.121818",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Hongrie estime que cet objectif, bien qu'ambitieux, pourrait dépasser les capacités économiques et structurelles du pays sans flexibilité nationale. Elle préconise une approche plus graduée adaptée aux réalités locales.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "DEFAVORABLE",
+        "justification": "La Hongrie s'oppose à cette mesure jugée trop contraignante pour le secteur de l'immobilier social. Elle préfère une approche volontaire et incitative, respectant les spécificités régionales.",
+        "priorite": "faible",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie approuve cet amendement sous réserve qu'il intègre des dispositions adaptées aux particularités architecturales et urbaines du pays. Elle soutient une approche inclusive, mais réaliste.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie soutient cet amendement pour favoriser une répartition plus équitable des bénéficiaires des aides logistiques. Elle considère que cette mesure renforce l'équité sociale et les liens intergénérationnels.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie, initiativeur de cet amendement, défend fermement cette proposition pour permettre aux États membres d'adapter les cadres réglementaires à leurs propres capacités économiques et structurelles. Elle considère que cette flexibilité est essentielle pour éviter une fragmentation des politiques climatiques.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient cet amendement à condition qu'il ne pénalise pas les catégories socio-économiques vulnérables. Elle préconise une approche équilibrée, respectant la diversité des besoins logistiques.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie soutient cet amendement pour alléger la charge administrative et financière des petits bailleurs. Elle considère que cette mesure favorise une transition plus équilibrée et respectueuse du tissu immobilier local.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie approuve cet amendement sous réserve qu'il ne compromette pas les objectifs climatiques généraux. Elle soutient une approche adaptée aux réalités géographiques et démographiques des zones rurales.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Protéger les propriétaires modestes face à des coûts importants.",
+      "Veiller à la pérennité du parc de logements accessibles.",
+      "Réduire l’impact social des mesures.",
+      "Soutenir les régions en déclin (Sud italien) face aux investissements inégaux.",
+      "Équilibrer transition écologique et compétitivité industrielle (secteur automobile)."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Italie adopte une approche équilibrée, combinant ambition climatique avec protection sociale. Elle cherche à concilier les objectifs européens d'efficacité énergétique et de justice sociale, en insistant sur la nécessité d'une transition progressive pour éviter les chocs économiques et sociaux. L'Italie s'appuie sur ses partenariats stratégiques (France, PPE) et son expertise sectorielle (agrochimie, automobile) pour promouvoir des solutions adaptées à sa réalité nationale. Elle défend une approche flexible qui respecte la diversité régionale tout en maintenant les objectifs climatiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux priorités économiques et sociales)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Agrochimie (soutien aux mesures agricoles et rurales)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (défiance sur la flexibilité nationale)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit intégrer des mesures de soutien aux ménages modeste pour éviter une augmentation exponentielle des coûts énergétiques.",
+      "Les logements sociaux existants nécessitent un financement public ciblé, en particulier dans les régions en déclin (Sud italien).",
+      "La transition écologique doit s'accompagner de mesures de requalification professionnelle pour les secteurs touchés (agriculture, industrie).",
+      "Les régions économiquement faibles (Sicile, Calabre) doivent bénéficier d'une aide particulière dans le cadre des fonds verts européens.",
+      "L'Italie défend une approche sectorielle pour protéger les industries stratégiques (automobile, agrochimie).",
+      "Une flexibilité nationale est nécessaire pour respecter les disparités géographiques et économiques internes.",
+      "Les petites entreprises du secteur immobilier doivent être exemptées de certaines obligations pour éviter une crise sectorielle.",
+      "L'hydrogène vert doit figurer comme pilier central des investissements européens, en particulier dans le Sud italien."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cet objectif ambitieux, aligné avec ses ambitions climatiques et sociales. Cependant, elle insiste sur la nécessité de financer ce développement par des mécanismes européens, en particulier via les fonds verts et les investissements sectoriels.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie approuve l'obligation de rénovation, mais préconise une mise en œuvre progressive et accompagnée de subventions ciblées pour les ménages à faible revenu. Une flexibilité régionale est nécessaire pour respecter les disparités économiques.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "L'Italie défend ce quota comme une priorité sociale, en particulier pour les régions anciennes et les zones rurales. Cela renforce l'inclusion et la justice sociale dans le cadre de la directive.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient ce principe, mais souligne que des exceptions peuvent être nécessaires dans les zones rurales ou les quartiers historiques. Une approche flexible est recommandée.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "L'Italie défend cette flexibilité pour respecter les disparités régionales et les spécificités économiques. Cela permet d'éviter des pressions sociales excessives dans certaines zones.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie est opposée à cette exclusion, car cela réduirait l'impact social et économique de la directive. Elle préfère une approche inclusive pour tous les types de logement.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, proposé par l'Italie, vise à soulager les petits bailleurs qui pourraient être confrontés à des coûts prohibitifs. Il permet une transition plus douce tout en préservant les logements accessibles.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie approuve cette dérogation, mais insiste sur la nécessité d'accompagner ces zones par des investissements ciblés et des mesures spécifiques pour éviter une marginalisation accrue.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions Nord-Sud sur répartition fonds verts. Évaluer impact des mesures sur les régions Sud (40% population, 25% investissements). Collaborer avec Espagne/Portugal pour projets maritimes Méditerranée.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T20:16:08.252296",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Prendre en compte les spécificités rurales et l’impact économique.",
+      "Garantir la cohésion territoriale et éviter les abandons.",
+      "Fournir des solutions adaptées aux territoires fragiles.",
+      "Équilibrer les objectifs climatiques avec la compétitivité industrielle.",
+      "Protéger les intérêts de secteurs stratégiques comme l'agriculture et le bâtiment."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Mettre l’accent sur l’adaptation territoriale des mesures, en priorisant la prise en compte des réalités rurales et l’équilibre entre objectifs climatiques et développement économique. La Pologne défend une approche progressive de la transition écologique, en insistant sur les flexibilités nationales pour éviter une surcharge administrative et un impact négatif sur les secteurs économiques clés (agriculture, bâtiment). Elle propose également des mécanismes de financement innovants pour soutenir les régions défavorisées tout en maintenant la croissance industrielle.",
+    "alliances": [
+      "France (collaboration sur le développement du logement social et les infrastructures énergétiques bas-carbone)",
+      "Italie (partage d'intérêts dans la transition écologique et la préservation des secteurs traditionnels)",
+      "Verts/ALE (soutien à l'objectif climatique tout en intégrant les besoins territoriaux de la Pologne)",
+      "S&D (priorité aux investissements dans les régions rurales et défavorisées)",
+      "Big Tech (innovation dans les solutions numériques pour le secteur du logement social)",
+      "Agrochimie (protection des intérêts agricoles et de la chaîne alimentaire face aux mesures environnementales)",
+      "Banque (soutien à des financements structuraux adaptés aux réalités nationales)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux mesures contraignantes sur les logements sociaux et la transition énergétique)",
+      "Conservateurs (préférence pour une transition plus progressive et moins radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires et aux objectifs climatiques ambitieux)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne souligne que les zones rurales, représentant une large part de sa population, nécessitent des solutions adaptées pour éviter l'abandon des territoires.",
+      "Une transition太快 pourrait menacer la compétitivité industrielle et affecter des secteurs stratégiques comme l'agriculture ou le bâtiment.",
+      "Le pays défend un financement équitable des projets de logements sociaux, en intégrant les réalités économiques locales pour éviter une charge excessive sur les budgets publics.",
+      "La Pologne insiste sur la nécessité d'une approche progressive, permettant aux régions de s'adapter sans compromettre l'équilibre économique national.",
+      "Elle propose des mécanismes flexibles pour les petites entreprises et les zones à faible densité, en évitant une surcharge administrative.",
+      "La protection des secteurs économiques clés (agriculture, énergie) est un pilier de sa stratégie, nécessitant des mesures adaptées et non uniformisées.",
+      "La Pologne défend la préservation d'une certaine autonomie nationale pour garantir que les politiques européennes ne contredisent pas les priorités locales."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions rurales et les objectifs climatiques ambitieux, en particulier dans les zones de l’est de la Pologne. Évaluer l’impact des mesures sur les secteurs agricoles et le bâtiment, qui représentent une part importante de l’économie nationale. Surveiller également les tensions avec les lobbies énergétiques, notamment ceux liés aux centrales à charbon, face aux moratoires proposés.",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet objectif, mais insiste sur la nécessité de financements adaptés aux réalités des régions défavorisées et à une répartition équitable des ressources entre les zones urbaines et rurales. Une approche progressive est recommandée pour éviter un surcoût budgétaire.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s’oppose à une application trop rigide de cette mesure, qui pourrait surcharger les budgets locaux et affecter les petites entreprises du secteur. Elle propose une flexibilité pour permettre aux collectivités locales d’adapter le rythme des rénovations.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cette mesure, en soulignant l’importance d’une inclusion sociale totale et de la prise en compte des besoins des personnes à mobilité réduite dans les politiques publiques. Elle propose un suivi régulier pour garantir une mise en œuvre efficace.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne approuve le principe, mais insiste sur l’adaptation des critères de mixité aux spécificités locales. Elle propose un cadre flexible permettant aux régions de définir leurs propres priorités tout en garantissant une équité sociale.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "La Pologne défend cette mesure comme un pilier pour éviter une pression excessive sur les budgets locaux et permettre aux régions d’ajuster leurs plans selon leurs capacités économiques. Elle propose des indicateurs clairs pour mesurer l’avancement.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s’oppose à une exclusion totale des logements intermédiaires, qui jouent un rôle crucial dans l’équilibre social. Elle propose une révision du cadre pour inclure ces types de logements avec des conditions adaptées.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cet amendement, en soulignant que les petits bailleurs doivent bénéficier d’une marge de manœuvre supplémentaire pour s’adapter aux nouvelles obligations sans compromettre leur capacité financière. Une transition progressive est nécessaire.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE",
+        "justification": "La Pologne est l’initiateur de cet amendement, qui vise à protéger les zones rurales et à éviter une surcharge administrative. Elle insiste sur la nécessité d’un cadre flexible pour permettre aux régions à faible densité de s’adapter sans compromettre les objectifs climatiques.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T20:50:37.378493",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Garantir une mise en conformité efficace et rapide.",
+      "Soutenir les innovations dans les matériaux et technologies de rénovation.",
+      "Équilibrer les objectifs climatiques et les impératifs économiques nationaux.",
+      "Assurer la compatibilité avec les politiques sectorielles (automobile, énergie).",
+      "Promouvoir une transition écologique inclusive, respectant les disparités régionales."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Allemagne.",
+      "La position de l'Allemagne reflète ses préoccupations nationales spécifiques."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L'Allemagne adopte une approche proactive pour aligner la directive avec sa vision stratégique de transition écologique accélérée et de préservation des secteurs industriels clés. Elle privilégie un mix énergétique diversifié, combinant nucléaire (pour assurer la continuité énergétique), renouvelables (sous l'impulsion des Verts/ALE) et innovations technologiques (soutenues par les lobby automobile). L'Allemagne insiste sur une mise en œuvre flexible pour permettre aux régions à faible densité d'adapter les mesures locales, tout en exigeant des garanties de qualité dans la construction durable. Elle cherche à concilier les objectifs climatiques avec la préservation du modèle industriel allemand (notamment l'automobile) et une approche collaborative avec les États membres partageant ses priorités énergétiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration sur le développement de l'hydrogène vert et la relance industrielle)",
+      "Verts/ALE (soutien à la transition écologique et aux objectifs climatiques ambitieux)",
+      "S&D (priorité donnée aux investissements dans les régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques pour le secteur énergétique)",
+      "Automobile (protection des secteurs industriels stratégiques et recherche de financements pour la transition verte)",
+      "Banque (soutien aux investissements structuraux dans l'énergie et l'innovation technologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon et à la défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centrales charbon opposés aux mesures contraignantes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit favoriser l'innovation technologique dans le secteur de la rénovation énergétique, un levier majeur pour atteindre les objectifs climatiques européens.",
+      "L'Allemagne insiste sur la nécessité d'un cadre réglementaire flexible, permettant aux pays à faible densité de s'adapter sans compromettre l'efficacité des mesures nationales.",
+      "Le soutien aux logements sociaux doit être conditionné à une rénovation énergétique obligatoire pour éviter les inégalités thermiques et garantir un accès équitable au confort social.",
+      "La directive doit intégrer des quotas de logements accessibles aux personnes à mobilité réduite, en cohérence avec les obligations légales nationales allemandes et européennes.",
+      "L'Allemagne défend la priorisation des investissements dans les régions économiquement défavorisées pour éviter un dédoublement territorial de l'effort climatique.",
+      "Les logements intermédiaires doivent être exclu du champ de la directive, selon l'amendement 1-7F, afin de ne pas pénaliser les segments du marché résidentiel qui n'ont pas bénéficié des mêmes subventions historiques."
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le lobby automobile (Volkswagen, Siemens) et les objectifs climatiques de la directive. Évaluer l'impact des mesures sur les régions industrielles historiques du sud-est allemand. Surveiller les débats autour du nucléaire et son rôle dans la transition énergétique allemande.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T19:41:03.104284",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cet amendement sous réserve de garantir la qualité énergétique des nouveaux logements et leur adéquation avec les normes nationales. Cela permettrait d'accélérer la transition vers une économie bas-carbone tout en préservant l'équilibre financier du secteur immobilier.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient fermement cet amendement car il aligne avec ses objectifs nationaux de réduction des émissions et favorise l'innovation technologique dans le secteur du bâtiment. Cela renforcerait également la résilience sociale face aux crises climatiques.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend cet amendement pour garantir l'inclusion sociale et respecter les obligations légales nationales sur l'accessibilité. Cela favoriserait une transition écologique inclusive, en particulier dans les zones urbaines densément peuplées.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cet amendement sous réserve de ne pas créer de distorsions économiques entre régions. Cela encouragerait une répartition plus équitable des ressources et renforcerait la cohésion sociale.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement pour permettre aux pays à faible densité d'adapter les mesures locales sans pénaliser l'efficacité générale. Cela favoriserait une transition énergétique harmonisée au sein de la zone euro.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend fermement cet amendement qu'elle a elle-même proposé pour éviter une charge excessive sur un segment du marché résidentiel qui n'a pas bénéficié des mêmes subventions historiques. Cela permettrait de concentrer les efforts sur les logements sociaux et d'éviter une distorsion entre les secteurs.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose partiellement à cet amendement car il pourrait retarder la mise en œuvre des objectifs climatiques. Cependant, elle reste ouverte à une solution intégrant des compensations pour les petits bailleurs.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cet amendement sous réserve de garantir que ces dérogations ne compromettent pas l'efficacité globale des mesures climatiques. Cela permettrait aux régions rurales d'adapter les normes locales tout en respectant les objectifs nationaux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Non-porteur - Favorise des standards élevés et une forte ambition climatique dans le secteur du logement.",
+    "enjeux_directive": [
+      "Promouvoir la neutralité carbone dans la construction neuve et rénovation.",
+      "Soutenir les politiques sociales d’accès au logement.",
+      "Assurer une transition énergétique juste et inclusive pour les régions nordiques.",
+      "Renforcer l’innovation technologique en matière de bâtiments durables."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La Suède adopte une approche proactive pour aligner la directive sur son objectif national d’atteindre la neutralité climatique d’ici 2045. Elle milite pour des normes ambicioses en matière de réduction des émissions, tout en favorisant l’inclusion sociale dans les politiques logistiques. La Suède insiste sur la nécessité de combiner ambitions environnementales et protections sociales, en exigeant que les critères de durabilité soient intégrés à toutes les phases du cycle de vie des logements (construction, rénovation, gestion). Elle soutient également l’harmonisation européenne des standards pour éviter une fragmentation réglementaire qui nuirait à la compétitivité industrielle. Enfin, elle défend un financement équitable des projets sociaux et écologiques, en exigeant des mécanismes de contrôle rigoureux pour garantir l’utilisation optimale des fonds européens.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (réticence à l’obligation de rénovation énergétique des logements sociaux)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Suède défend la nécessité d’un cadre européen unifié pour éviter une fragmentation réglementaire qui pénaliserait les pays nordiques en matière d’innovation écologique.",
+      "Elle met l’accent sur l’inclusion sociale, exigeant que les logements sociaux soient accessibles à tous et respectent des normes élevées en matière de durabilité.",
+      "La Suède argumente en faveur d’un soutien accru aux régions défavorisées via la directive, afin de réduire les disparités économiques tout en promouvant l’équité climatique.",
+      "Elle insiste sur l’importance des technologies vertes (comme l’hydrogène ou le stockage d’énergie) pour renforcer la résilience européenne face aux crises énergétiques.",
+      "La Suède souligne que les mesures de rénovation doivent être associées à des politiques de formation professionnelle pour préparer les travailleurs aux métiers du futur en matière de construction durable.",
+      "Elle défend une approche flexible pour les zones rurales, mais insiste sur l’obligation de respecter des seuils minimaux d’émissions et de durabilité à l’échelle nationale."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-7A",
+        "titre": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035",
+        "position": "FAVORABLE",
+        "justification": "La Suède soutient cet amendement car il aligne les objectifs européens sur ses propres ambitions nationales en matière de logements abordables et durables. Elle considère que cette augmentation renforcerait la résilience sociale et climatique de l’Europe, tout en favorisant une croissance économique bas-carbone.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Porter l’objectif à 7 millions de logements sociaux construits d’ici 2035"
+      },
+      {
+        "amendement": "1-7B",
+        "titre": "Rendre obligatoire la rénovation énergétique des logements sociaux existants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède soutient cette mesure, mais exige une flexibilité pour les petits bailleurs et les zones rurales. Elle propose un financement européen ciblé pour éviter que les mesures ne pénalisent les acteurs locaux qui manquent de ressources.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Rendre obligatoire la rénovation énergétique des logements sociaux existants"
+      },
+      {
+        "amendement": "1-7C",
+        "titre": "Inclure un quota de logements accessibles aux personnes à mobilité réduite",
+        "position": "FAVORABLE",
+        "justification": "La Suède considère ce point comme essentiel pour garantir l’inclusion sociale et la durabilité à long terme. Elle insiste sur la nécessité d’intégrer cette exigence dans les normes européennes en matière de conception architecturale.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un quota de logements accessibles aux personnes à mobilité réduite"
+      },
+      {
+        "amendement": "1-7D",
+        "titre": "Conditionner les aides à la mixité sociale et intergénérationnelle",
+        "position": "FAVORABLE",
+        "justification": "La Suède défend cette mesure pour éviter les ghettos sociaux et favoriser une cohésion territoriale forte. Elle propose des indicateurs clairs pour mesurer l’impact de ces politiques sur la qualité de vie dans les quartiers urbains.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Conditionner les aides à la mixité sociale et intergénérationnelle"
+      },
+      {
+        "amendement": "1-7E",
+        "titre": "Permettre une flexibilité nationale sur le rythme de construction",
+        "position": "NEUTRE",
+        "justification": "La Suède reste neutre, car elle préfère un cadre harmonisé à l’échelle européenne. Cependant, elle propose des exceptions ciblées pour les régions avec une densité faible ou des contraintes géographiques spécifiques.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Permettre une flexibilité nationale sur le rythme de construction"
+      },
+      {
+        "amendement": "1-7F",
+        "titre": "Exclure les logements intermédiaires du champ de la directive",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Suède s’oppose à cette exclusion, car elle considère que les logements intermédiaires jouent un rôle clé dans l’équilibre du marché immobilier. Elle propose plutôt des mesures adaptées pour ces types de logement.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les logements intermédiaires du champ de la directive"
+      },
+      {
+        "amendement": "1-7G",
+        "titre": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède accepte ce report, à condition que des fonds européens soient alloués aux petites entreprises et associations gestionnaires. Elle considère que cette mesure permettra de mieux respecter les objectifs climatiques sans pénaliser les acteurs locaux.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter de deux ans l’obligation de rénovation pour les petits bailleurs"
+      },
+      {
+        "amendement": "1-7H",
+        "titre": "Autoriser des dérogations pour les zones rurales à faible densité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède soutient cette proposition, mais exige que toutes les dérogations soient accompagnées de mesures compensatoires en matière d’émissions et de durabilité. Elle propose un suivi rigoureux pour éviter une dilution des objectifs climatiques.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Autoriser des dérogations pour les zones rurales à faible densité"
+      }
+    ],
+    "références": [
+      "s1d7.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre lobbies de l’énergie fossile (en particulier dans les régions nordiques) et objectifs climatiques directive. Évaluer impact des mesures sur les petites entreprises de construction en Suède, notamment dans les zones rurales. Recommander un suivi régulier de la mise en œuvre des fonds européens pour éviter les dérives.",
+    "scenario_id": 1,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-10-27T21:07:03.408699",
+    "version": "4.7"
+  }
+]

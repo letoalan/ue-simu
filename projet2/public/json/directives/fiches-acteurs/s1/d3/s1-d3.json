@@ -1,0 +1,680 @@
+{
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Proposer et défendre une réforme ambitieuse des soutiens agricoles intégrant les objectifs du Pacte vert, tout en conciliant durabilité, compétitivité et équité sociale. La Commission agit comme un médiateur entre les États membres et les partis politiques pour trouver un compromis.",
+    "enjeux_directive": [
+      "Accélérer la transition agroécologique en Europe.",
+      "Réorienter les subventions vers des pratiques agricoles durables.",
+      "Maintenir la compétitivité et la résilience du secteur agricole.",
+      "Soutenir la souveraineté alimentaire et protéger la biodiversité."
+    ],
+    "impacts_directive": [
+      "La directive, si elle est adoptée, renforcera le rôle de la Commission en tant que moteur de la politique agricole durable et de l'innovation dans l'agroécologie."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-3A",
+        "origine": "Socialistes et Démocrates",
+        "description": "Augmenter la part des subventions à l’agriculture biologique à 50%.",
+        "impact": "Augmenterait l'ambition de la directive, mais pourrait créer des tensions avec les États et les lobbies pro-conventionnels."
+      },
+      {
+        "id": "1-3E",
+        "origine": "Hongrie",
+        "description": "Maintenir une part de subventions pour l’agriculture conventionnelle.",
+        "impact": "Réduirait l'ambition agroécologique, mais apaiserait les préoccupations des États et des acteurs ruraux concernés par la transition."
+      },
+      {
+        "id": "1-3B",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+        "impact": "Renforce considérablement l'ambition écologique, mais risque une forte opposition du lobby agrochimique et des agriculteurs."
+      },
+      {
+        "id": "1-3C",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer un fonds d’innovation pour la santé des sols",
+        "impact": "Approche incitative et technologique qui pourrait rassembler un large consensus, mais dont l'efficacité dépendra du financement."
+      },
+      {
+        "id": "1-3D",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Soutenir les circuits courts et la relocalisation alimentaire",
+        "impact": "S'aligne sur les objectifs de souveraineté alimentaire, mais son impact sur la réforme globale de la PAC reste limité."
+      },
+      {
+        "id": "1-3F",
+        "origine": "France",
+        "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+        "impact": "Mesure socialement juste qui facilite l'acceptation de la réforme, mais pourrait complexifier la gestion des aides."
+      },
+      {
+        "id": "1-3G",
+        "origine": "Italie",
+        "description": "Inclure un soutien spécifique à l’irrigation durable",
+        "impact": "Répond à un enjeu crucial pour les pays du Sud, mais pourrait être perçu comme un financement trop spécifique par les pays du Nord."
+      },
+      {
+        "id": "1-3H",
+        "origine": "Allemagne",
+        "description": "Reporter l’objectif de réduction des pesticides à 2040",
+        "impact": "Affaiblit significativement les objectifs environnementaux de la directive, mais offre une transition plus douce pour l'industrie et l'agriculture intensive."
+      }
+    ],
+    "stratégie": "Adopter une position de médiateur en cherchant un compromis entre les ambitions des Verts/ALE et les préoccupations économiques des agriculteurs et de certains États membres.",
+    "alliances": [
+      "La Commission cherchera des alliés parmi les États membres pragmatiques (comme la France) et les partis politiques qui soutiennent le Pacte vert (comme Socialistes et Démocrates et Renouveau Européen)."
+    ],
+    "oppositions": [
+      "L'opposition viendra des acteurs qui considèrent le budget trop élevé ou les objectifs trop contraignants (Hongrie, Conservateurs et Réformistes) ou des acteurs qui souhaitent une ambition beaucoup plus forte (Verts/ALE, Gauche Unitaire)."
+    ],
+    "éléments_d_argumentaire": [
+      "La directive est un investissement stratégique pour la compétitivité de l'UE et la souveraineté alimentaire.",
+      "Le plan actuel est un compromis viable qui équilibre les ambitions écologiques et les contraintes économiques."
+    ],
+    "références": [
+      "s1d3.json (directive, commission)",
+      "scenario1.json (directive 3)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Protéger la diversité des exploitations agricoles, notamment les petites fermes.",
+        "Faciliter la transition agroécologique sans fragiliser les agriculteurs familiaux.",
+        "Maintenir la cohésion sociale et territoriale rurale."
+      ],
+      "impacts_directive": [
+        "La directive initiale est une opportunité pour la France de diriger la transition agroécologique, mais pourrait être contraignante pour les petites exploitations sans amendement."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3F",
+          "origine": "France",
+          "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations.",
+          "impact": "Cet amendement protégerait les petites exploitations françaises et faciliterait la transition en rendant les aides plus accessibles."
+        }
+      ],
+      "stratégie": "Insister sur un soutien ciblé pour les petites exploitations afin d’équilibrer transition écologique et précarité agricole.",
+      "alliances": [
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Certains lobbies de l'agro-industrie qui privilégient les grandes exploitations."
+      ],
+      "éléments_d_argumentaire": [
+        "La petite agriculture est le cœur de notre souveraineté alimentaire et un pilier de la diversité des territoires ruraux.",
+        "Un soutien ciblé est nécessaire pour garantir une transition juste et équitable pour tous les agriculteurs."
+      ],
+      "références": [
+        "s1d3.json (pays, France)",
+        "scenario1.json (amendements, 1-3F)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Assurer une transition progressive compatible avec les réalités économiques locales.",
+        "Protéger une agriculture conventionnelle importante pour certaines régions.",
+        "Préserver la compétitivité face aux marchés mondiaux."
+      ],
+      "impacts_directive": [
+        "La directive initiale pourrait menacer les exploitations agricoles conventionnelles en Hongrie, qui sont encore majoritaires."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3E",
+          "origine": "Hongrie",
+          "description": "Maintenir une part de subventions pour l’agriculture conventionnelle.",
+          "impact": "Réduirait la charge budgétaire et offrirait une plus grande flexibilité financière à la Hongrie et à ses alliés. L'impact environnemental serait moins fort que la directive initiale."
+        }
+      ],
+      "stratégie": "Pousser un compromis sur la répartition des aides entre agriculture biologique et conventionnelle pour protéger les exploitations existantes.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Pays à forte ambition écologique (Suède) et partis politiques comme les Verts/ALE et les Socialistes & Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être progressive et financièrement soutenable pour tous les États membres.",
+        "Un engagement de 1,5% du PIB est un compromis réaliste qui permet de poursuivre les objectifs climatiques sans compromettre la stabilité économique."
+      ],
+      "références": [
+        "s1d3.json (pays, Hongrie)",
+        "scenario1.json (amendements, 1-3E)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Répondre aux enjeux climatiques locaux, notamment la gestion de l’eau.",
+        "Soutenir une agriculture plus résiliente face aux sécheresses.",
+        "Concilier durabilité et sécurité alimentaire."
+      ],
+      "impacts_directive": [
+        "La directive initiale ne prend pas suffisamment en compte les spécificités des pays méditerranéens et les enjeux de la gestion de l'eau."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3G",
+          "origine": "Italie",
+          "description": "Inclure un soutien spécifique à l’irrigation durable.",
+          "impact": "Permettrait à l’Italie de mieux gérer les sécheresses et de s'adapter aux changements climatiques, tout en protégeant son secteur agricole."
+        }
+      ],
+      "stratégie": "Mettre en avant l’importance des infrastructures durables dans la transition agroécologique, notamment pour les pays méditerranéens.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Lobby des Agriculteurs et coopératives"
+      ],
+      "oppositions": [
+        "Certains acteurs qui considèrent cet amendement comme trop ciblé et non essentiel à la directive."
+      ],
+      "éléments_d_argumentaire": [
+        "La gestion de l'eau est un enjeu de souveraineté alimentaire et de résilience face au changement climatique. C'est un point de détail d'importance pour notre pays."
+      ],
+      "références": [
+        "s1d3.json (pays, Italie)",
+        "scenario1.json (amendements, 1-3G)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Éviter un calendrier trop contraignant pour les exploitants.",
+        "Assurer un ajustement progressif compatible avec les pratiques agricoles.",
+        "Maintenir la compétitivité des productions agricoles."
+      ],
+      "impacts_directive": [
+        "La directive initiale propose un calendrier de réduction des pesticides qui pourrait fragiliser les grands producteurs allemands."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3H",
+          "origine": "Allemagne",
+          "description": "Reporter l’objectif de réduction des pesticides à 2040.",
+          "impact": "Affaiblit significativement les objectifs environnementaux de la directive, mais offre une transition plus douce pour l'industrie et l'agriculture intensive."
+        }
+      ],
+      "stratégie": "Proposer un calendrier réaliste pour accompagner la transition en douceur, en se positionnant comme un acteur pragmatique.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Lobby de l'Agrochimie"
+      ],
+      "oppositions": [
+        "Pays et partis écologistes qui demandent des actions plus rapides et plus ambitieuses."
+      ],
+      "éléments_d_argumentaire": [
+        "Une transition réussie passe par le pragmatisme et non par un calendrier irréaliste.",
+        "Les agriculteurs ont besoin de temps pour adapter leurs pratiques et innover."
+      ],
+      "références": [
+        "s1d3.json (pays, Allemagne)",
+        "scenario1.json (amendements, 1-3H)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Non-porteur",
+      "enjeux_directive": [
+        "Préserver la structure agricole nationale en tenant compte des capacités d’adaptation.",
+        "Favoriser un équilibre entre durabilité et maintien économique.",
+        "Éviter les mesures trop contraignantes pour les exploitations agricoles traditionnelles."
+      ],
+      "impacts_directive": [
+        "La directive initiale pourrait imposer des contraintes économiques trop fortes aux exploitations polonaises."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner comme le défenseur des agricultures traditionnelles et des économies locales, et chercher des alliances pour obtenir des aménagements financiers.",
+      "alliances": [
+        "Hongrie",
+        "Italie",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes",
+        "Lobby de l'Agrochimie"
+      ],
+      "oppositions": [
+        "Les pays et partis qui défendent une transition rapide et ambitieuse."
+      ],
+      "éléments_d_argumentaire": [
+        "La sécurité alimentaire et la stabilité économique doivent être prioritaires. Une transition progressive est essentielle."
+      ],
+      "références": [
+        "s1d3.json (pays, Pologne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Non-porteur",
+      "enjeux_directive": [
+        "Encourager le passage rapide à l’agriculture biologique et la réduction des pesticides.",
+        "Porter les standards environnementaux européens au plus haut niveau.",
+        "Aligner la directive avec les objectifs nationaux d'écologie."
+      ],
+      "impacts_directive": [
+        "La directive initiale s'aligne bien avec les objectifs suédois en matière de politique agricole et environnementale."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les pays et partis politiques les plus progressistes sur les questions environnementales pour faire pression en faveur d'objectifs plus ambitieux.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Les pays et partis qui défendent une approche plus prudente et un rythme de transition plus lent."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition agroécologique est un enjeu de long terme qui ne peut pas être reporté. Des actions fortes sont nécessaires maintenant."
+      ],
+      "références": [
+        "s1d3.json (pays, Suède)"
+      ]
+    }
+  ],
+  "partis": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Concilier compétitivité agricole, innovation et durabilité environnementale.",
+        "Assurer la modernisation de l'agriculture européenne et la sécurité alimentaire.",
+        "Défendre les intérêts des grands producteurs agricoles et de l'agro-industrie."
+      ],
+      "impacts_directive": [
+        "Le PPE soutient la directive, mais souhaite mettre l'accent sur les solutions technologiques et incitatives plutôt que sur les contraintes réglementaires."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3C",
+          "origine": "Parti Populaire Européen",
+          "description": "Créer un fonds d’innovation pour la santé des sols",
+          "impact": "Cette approche incitative pourrait rassembler un large consensus en se concentrant sur les solutions technologiques, mais son efficacité dépendrait du financement."
+        }
+      ],
+      "stratégie": "Mettre en avant le rôle de la technologie et de l'innovation comme solution principale pour atteindre les objectifs de durabilité, tout en protégeant les intérêts économiques des agriculteurs.",
+      "alliances": [
+        "Hongrie",
+        "Italie",
+        "Allemagne",
+        "Agrochimie"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "L'innovation technologique est la clé pour une agriculture plus durable et compétitive.",
+        "Un fonds d'innovation permettra de développer des solutions de pointe pour la santé des sols, sans imposer de contraintes excessives."
+      ],
+      "références": [
+        "s1d3.json (parties, PPE)",
+        "scenario1.json (amendements, 1-3C)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Renforcer les soutiens publics à l’agriculture durable et biologique.",
+        "Réduire les inégalités territoriales en favorisant les zones rurales défavorisées.",
+        "Favoriser une transition agricole socialement juste."
+      ],
+      "impacts_directive": [
+        "La directive initiale est un bon point de départ, mais le groupe souhaite la rendre plus ambitieuse socialement et écologiquement."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Augmenter la part des subventions à l’agriculture biologique à 50%.",
+          "impact": "Un tel amendement permettrait de renforcer l'ambition de la directive, mais pourrait créer des tensions avec les États et les lobbies pro-conventionnels."
+        }
+      ],
+      "stratégie": "Faire le lien entre transition écologique et justice sociale en proposant des mesures qui soutiennent à la fois l'environnement et les communautés rurales.",
+      "alliances": [
+        "Verts/ALE",
+        "France",
+        "Suède"
+      ],
+      "oppositions": [
+        "Partis qui privilégient le maintien de l’agriculture conventionnelle (Parti Populaire Européen, Conservateurs et Réformistes)."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition agricole doit être juste et ne pas laisser les agriculteurs sur le bord de la route.",
+        "Un soutien plus fort à l'agriculture biologique est essentiel pour la santé publique et l'environnement."
+      ],
+      "références": [
+        "s1d3.json (parties, Socialistes et Démocrates)",
+        "scenario1.json (amendements, 1-3A)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Soutenir une transition agricole pragmatique et incitative.",
+        "Mettre en avant le rôle de l'innovation et des technologies (agriculture de précision).",
+        "Chercher un compromis entre les exigences économiques et environnementales."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient globalement la directive, mais souhaite y intégrer des éléments de flexibilité et d'innovation pour garantir sa mise en œuvre."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Agir comme un pont entre les groupes les plus ambitieux et les plus prudents, en se positionnant comme un acteur pragmatique et constructif.",
+      "alliances": [
+        "Commission",
+        "Parti Populaire Européen",
+        "Suède",
+        "Big Tech",
+        "Banque et Finance"
+      ],
+      "oppositions": [
+        "Les positions extrêmes, qu'elles soient trop ambitieuses ou trop prudentes."
+      ],
+      "éléments_d_argumentaire": [
+        "L'innovation est la clé pour une agriculture durable et compétitive.",
+        "La directive doit être mise en œuvre de manière pragmatique, en encourageant l'investissement et la recherche."
+      ],
+      "références": [
+        "s1d3.json (parties, Renouveau Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Accélérer la diminution des pesticides pour la santé environnementale.",
+        "Promouvoir un modèle agricole respectueux de la biodiversité.",
+        "Renforcer les politiques agroécologiques dans le cadre européen."
+      ],
+      "impacts_directive": [
+        "La directive initiale est un bon point de départ, mais les Verts/ALE la jugent insuffisante et trop lente."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3B",
+          "origine": "Verts/ALE",
+          "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030.",
+          "impact": "Renforcerait considérablement l'ambition écologique, mais risquerait une forte opposition de la part du lobby agrochimique et de certains agriculteurs."
+        }
+      ],
+      "stratégie": "Faire pression pour un alignement total de la PAC sur les objectifs du Pacte vert pour l'Europe, en se positionnant comme le gardien de l'ambition écologique.",
+      "alliances": [
+        "Suède",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes, l'Agrochimie et l'Allemagne."
+      ],
+      "éléments_d_argumentaire": [
+        "Le coût de l'inaction est plus élevé que le coût de la transition. Des objectifs ambitieux sont nécessaires pour garantir la viabilité de l'agriculture à long terme.",
+        "La réduction des pesticides est essentielle pour la santé des sols et des populations."
+      ],
+      "références": [
+        "s1d3.json (parties, Verts/ALE)",
+        "scenario1.json (amendements, 1-3B)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Porteur",
+      "enjeux_directive": [
+        "Défendre les intérêts des agriculteurs et des petites exploitations en s'opposant à une réforme trop radicale.",
+        "Promouvoir une approche pragmatique et incitative en matière de transition agricole.",
+        "Soutenir la souveraineté alimentaire et les circuits courts."
+      ],
+      "impacts_directive": [
+        "Le CRE considère la directive comme une ingérence excessive de l'UE et s'inquiète de son impact sur la compétitivité et la souveraineté des États membres."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-3D",
+          "origine": "Conservateurs et Réformistes",
+          "description": "Soutenir les circuits courts et la relocalisation alimentaire.",
+          "impact": "S'aligne sur les objectifs de souveraineté alimentaire mais son impact sur la réforme globale de la PAC reste limité."
+        }
+      ],
+      "stratégie": "S'opposer aux mesures trop contraignantes et proposer des solutions alternatives axées sur la souveraineté alimentaire et les économies locales.",
+      "alliances": [
+        "Hongrie",
+        "Italie",
+        "Pologne",
+        "Agrochimie",
+        "Automobile"
+      ],
+      "oppositions": [
+        "Les Verts/ALE et les Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "Les agriculteurs ont besoin de soutien, pas de contraintes excessives. Les circuits courts sont une solution concrète pour l'économie rurale.",
+        "Une réforme trop radicale menace la souveraineté alimentaire et la diversité des agricultures en Europe."
+      ],
+      "références": [
+        "s1d3.json (parties, Conservateurs et Réformistes)",
+        "scenario1.json (amendements, 1-3D)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique",
+      "role_europeen": "Non-porteur",
+      "enjeux_directive": [
+        "Promouvoir la justice sociale et environnementale en s'opposant à l'influence de l'agro-industrie.",
+        "Lutter contre les inégalités et l'accaparement des terres par les grandes exploitations.",
+        "Soutenir une transition radicale vers une agriculture locale et durable."
+      ],
+      "impacts_directive": [
+        "Le groupe considère la directive comme un pas dans la bonne direction, mais la juge trop timide et trop influencée par les lobbies de l'agro-industrie."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner en opposition radicale à l'agriculture conventionnelle et défendre les intérêts des petits agriculteurs et des citoyens en matière de santé et d'environnement.",
+      "alliances": [
+        "Verts/ALE",
+        "ONG environnementales (non-officiel)"
+      ],
+      "oppositions": [
+        "Le Parti Populaire Européen, l'Agrochimie."
+      ],
+      "éléments_d_argumentaire": [
+        "L'agriculture doit servir l'intérêt général, et non les profits de quelques multinationales. Il est nécessaire de soutenir une agriculture paysanne et locale.",
+        "La santé publique ne peut pas être sacrifiée au profit de l'industrie agrochimique."
+      ],
+      "références": [
+        "s1d3.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente les intérêts des producteurs de pesticides et d'engrais chimiques, cherchant à limiter les contraintes réglementaires et à maintenir son modèle économique.",
+      "enjeux_directive": [
+        "S'opposer aux objectifs de réduction des pesticides et des engrais.",
+        "Faire valoir les 'solutions' technologiques comme la 'nouvelle' agriculture de précision qui serait compatible avec le maintien de l'utilisation de produits chimiques.",
+        "Maintenir un cadre favorable à l'utilisation des substances chimiques."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme une menace directe pour l'industrie agrochimique, car elle vise à réduire la dépendance aux produits chimiques."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Faire pression sur les États et les partis les plus prudents (Allemagne, Hongrie, PPE) pour obtenir des reports ou des assouplissements des objectifs de la directive. Utiliser les arguments de la compétitivité et de la souveraineté alimentaire.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Socialistes et Démocrates",
+        "ONG environnementales."
+      ],
+      "éléments_d_argumentaire": [
+        "Une agriculture moderne et compétitive ne peut pas se passer de l'agrochimie.",
+        "Des objectifs trop ambitieux menacent la sécurité alimentaire de l'UE et de ses exportations."
+      ],
+      "références": [
+        "s1d3.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharma",
+      "role_europeen": "Représente l'industrie pharmaceutique, cherchant à promouvoir ses solutions en santé humaine et animale liées aux enjeux environnementaux et alimentaires.",
+      "enjeux_directive": [
+        "Promouvoir le rôle de la santé animale dans la résilience de l'agriculture.",
+        "Mettre en avant la recherche sur les liens entre environnement et santé publique."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'industrie pharmaceutique de se positionner comme un acteur de la santé publique et de la recherche en santé environnementale."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner comme un allié des institutions européennes et des groupes soucieux de la santé publique, en mettant l'accent sur la recherche et l'innovation.",
+      "alliances": [
+        "Renouveau Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La santé animale et humaine est intrinsèquement liée à la qualité de notre environnement agricole.",
+        "Notre industrie peut apporter des solutions pour une agriculture plus saine."
+      ],
+      "références": [
+        "s1d3.json (lobbies, Pharma)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente les intérêts des banques et des fonds d'investissement, en cherchant à promouvoir le financement de la transition agricole et des technologies vertes.",
+      "enjeux_directive": [
+        "Financer les projets agricoles durables et l'innovation verte.",
+        "Promouvoir les instruments financiers verts adaptés au secteur agricole."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de développement de marché pour l'industrie de la finance et de la technologie, en particulier pour les solutions vertes."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner comme le partenaire financier de la transition, en s'alliant avec les acteurs les plus progressistes pour promouvoir des solutions de financement adaptées.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Les groupes qui s'opposent à une financiarisation de l'agriculture."
+      ],
+      "éléments_d_argumentaire": [
+        "L'investissement privé est indispensable pour réussir la transition agricole. Nous pouvons apporter les capitaux nécessaires."
+      ],
+      "références": [
+        "s1d3.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les intérêts des grandes entreprises technologiques, en cherchant à promouvoir leurs solutions numériques et d'intelligence artificielle pour le secteur agricole.",
+      "enjeux_directive": [
+        "Promouvoir l'agriculture de précision, les capteurs et les logiciels de gestion agricole.",
+        "Développer des partenariats avec les agriculteurs pour optimiser l'efficacité et la durabilité."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les entreprises technologiques de développer un nouveau marché et de vendre leurs solutions aux agriculteurs pour la transition."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Mettre en avant le rôle de la technologie comme solution à tous les enjeux de la transition, en s'alliant avec les acteurs les plus favorables à l'innovation.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Les groupes qui s'opposent à la collecte de données ou à la dépendance technologique (certains Verts/ALE, Gauche Unitaire)."
+      ],
+      "éléments_d_argumentaire": [
+        "L'agriculture de demain est une agriculture de haute technologie. Nos solutions permettent d'optimiser l'usage des ressources et de réduire les impacts."
+      ],
+      "références": [
+        "s1d3.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Énergies fossiles",
+      "role_europeen": "Représente les intérêts de l'industrie des énergies fossiles, cherchant à limiter les ambitions de la directive et à promouvoir des solutions alternatives.",
+      "enjeux_directive": [
+        "Protéger le modèle économique basé sur l'utilisation des énergies fossiles dans l'agriculture (carburants, engrais).",
+        "S'opposer aux objectifs de décarbonation trop ambitieux ou trop rapides.",
+        "Promouvoir le rôle des biocarburants et du gaz naturel."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme une menace pour le modèle économique de l'industrie, car elle encourage la réduction de la consommation d'énergies fossiles."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les acteurs les plus conservateurs pour affaiblir les objectifs de la directive et promouvoir des solutions de transition qui maintiennent un rôle pour les énergies fossiles.",
+      "alliances": [
+        "Conservateurs et Réformistes",
+        "Pologne"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Socialistes et Démocrates",
+        "Renouveau Européen."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition énergétique doit être progressive pour éviter les chocs économiques. Les énergies fossiles ont encore un rôle à jouer pour la sécurité énergétique.",
+        "Les biocarburants sont une solution de transition viable et durable."
+      ],
+      "références": [
+        "s1d3.json (lobbies, Energies fossiles)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, cherchant à soutenir la transition vers la mobilité durable dans les zones rurales.",
+      "enjeux_directive": [
+        "Moins directement concerné, mais vigilant sur la mobilité durable liée aux zones rurales.",
+        "Soutient les technologies de mobilité électrique pour les exploitations agricoles."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de lier la transition agricole à la transition des transports, et d'obtenir des subventions pour le développement de véhicules électriques pour les agriculteurs."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Positionner l'industrie automobile comme un partenaire de la transition agricole, en mettant en avant les solutions de transport durable pour le secteur.",
+      "alliances": [
+        "Pologne",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'industrie automobile est un moteur de l'économie européenne, son soutien est vital pour la transition."
+      ],
+      "références": [
+        "s1d3.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

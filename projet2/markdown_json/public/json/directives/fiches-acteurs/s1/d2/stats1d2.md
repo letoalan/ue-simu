@@ -1,0 +1,79 @@
+# stats1d2
+
+Source : `directives/fiches-acteurs/s1/d2/stats1d2.json`
+
+## Contenu
+
+- **scenario** : `1`
+- **directive** : `2`
+- **nom** : Marché unique numérique
+- **valeurs\_prevues** :
+  - **pib\_eu** : `2.5`
+  - **gini\_eu** : `0.32`
+  - **co2\_eu** : `7.0`
+  - **veb\_eu** : `78`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 1-2A
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.3`
+      - **co2\_eu** : `7.0`
+      - **veb\_eu** : `80`
+  - **Élément 2** :
+    - **id** : 1-2B
+    - **origine** : Gauche Unitaire
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.7`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `6.9`
+      - **veb\_eu** : `80`
+  - **Élément 3** :
+    - **id** : 1-2C
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.8`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `6.8`
+      - **veb\_eu** : `82`
+  - **Élément 4** :
+    - **id** : 1-2D
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.3`
+      - **co2\_eu** : `7.0`
+      - **veb\_eu** : `81`
+  - **Élément 5** :
+    - **id** : 1-2E
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.6`
+      - **gini\_eu** : `0.3`
+      - **co2\_eu** : `6.9`
+      - **veb\_eu** : `79`
+  - **Élément 6** :
+    - **id** : 1-2F
+    - **origine** : Allemagne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.33`
+      - **co2\_eu** : `7.1`
+      - **veb\_eu** : `77`
+  - **Élément 7** :
+    - **id** : 1-2G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.6`
+      - **gini\_eu** : `0.32`
+      - **co2\_eu** : `6.8`
+      - **veb\_eu** : `82`
+  - **Élément 8** :
+    - **id** : 1-2H
+    - **origine** : Suède
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `7.0`
+      - **veb\_eu** : `80`

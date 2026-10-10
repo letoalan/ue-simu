@@ -1,0 +1,611 @@
+# par\_s2-d6
+
+Source : `directives/fiches-acteurs/s2/d6/par_s2-d6.json`
+
+## Contenu
+
+- **Élément 1** :
+  - **type** : Parti
+  - **nom** : Parti Populaire Européen
+  - **actor\_id** : ppe
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Créer une unité européenne opérationnelle de lutte contre le terrorisme (2-6D).
+    - Renforcer l'autorité et les pouvoirs opérationnels d'Europol et d'Eurojust.
+    - Assurer la sécurité des citoyens européens face aux menaces terroristes et au grand banditisme.
+    - Faciliter l'accès rapide des forces de l'ordre aux données d'enquête transfrontalières.
+  - **impacts\_directive** :
+    - La directive concrétisera la vision du PPE d'une Europe qui protège efficacement ses citoyens.
+    - Elle renforcera la réactivité collective face aux attentats et aux organisations criminelles armées.
+  - **stratégie** : Le PPE est l'initiateur de l'amendement 2-6D portant création d'une unité européenne de lutte contre le terrorisme. Le parti défend une ligne ferme de sécurité et d'ordre public, soutenant l'échange systématique de données policières et la lutte contre la cybercriminalité (2-6A). Il s'oppose aux restrictions du champ pénal (2-6E) et aux verrous excessifs qui paralyseraient les enquêteurs.
+  - **alliances** :
+    - France (partage de la priorité absolue sur l'antiterrorisme)
+    - Allemagne (accord sur le renforcement des capacités opérationnelles)
+    - Italie (soutien fort aux unités de frappe contre le crime organisé)
+    - Renouveau Européen (alliance sur la sécurité et le volet cyber)
+    - Banque et Finance (coopération contre le financement du terrorisme)
+    - Automobile (sécurisation des systèmes de transport contre les attaques)
+  - **oppositions** :
+    - Gauche Unitaire (refus des contraintes procédurales qui entravent les enquêtes d'urgence)
+    - Hongrie (opposition à l'affaiblissement de la coopération opérationnelle)
+  - **éléments\_d\_argumentaire** :
+    - La sécurité est la première des libertés : l'Union européenne doit être armée pour neutraliser les terroristes avant qu'ils ne passent à l'acte.
+    - L'unité européenne de lutte contre le terrorisme (2-6D) offrira une coordination permanente entre les meilleurs spécialistes des 27 États.
+    - Les criminels profitent de la lenteur des échanges judiciaires : nous devons leur opposer un partage de données immédiat et sans faille.
+    - Protéger nos frontières et nos villes exige des moyens modernes, numériques et une solidarité policière totale.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Faire de l'amendement 2-6D la ligne rouge du groupe et négocier avec Renouveau un compromis liant antiterrorisme et cyber-sécurité.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Le PPE soutient pleinement la lutte contre la cybercriminalité, essentielle pour protéger l'économie et la sécurité des citoyens.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Un observatoire statistique et stratégique aidera à cibler les moyens policiers sur les routes criminelles émergentes.
+      - **priorite** : haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Craint que cet amendement n'alourdisse les procédures et n'empêche d'agir à temps lors d'une alerte terroriste.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : Amendement phare du PPE créant un pôle opérationnel intégré de renseignement et d'intervention antiterroriste.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : Affaiblirait la portée de la directive et laisserait le champ libre aux trafics criminels complexes.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Privilégie l'échange universel entre États membres mais accepte la protection du secret militaire stratégique.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient les moyens des tribunaux nationaux en veillant à préserver l'efficacité des mandats d'arrêt européens.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Souhaite une mise en œuvre sans retard pour parer aux menaces immédiates, tout en acceptant des transitions techniques.
+      - **priorite** : faible
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 2** :
+  - **type** : Parti
+  - **nom** : Socialistes et Démocrates
+  - **actor\_id** : sd
+  - **role\_europeen** : Non-porteur - Équilibre entre sécurité collective et garanties démocratiques.
+  - **enjeux\_directive** :
+    - Concilier efficacité de la lutte contre le crime organisé et protection irréprochable des droits des citoyens.
+    - Renforcer les droits de la défense, l'aide aux victimes et les garanties procédurales dans toute procédure européenne.
+    - Cibler la lutte contre la traite des êtres humains, le travail forcé criminel et l'exploitation des personnes vulnérables.
+    - Prévenir les dérives de profilage discriminatoire dans les algorithmes de police prédictive.
+  - **impacts\_directive** :
+    - La directive améliorera la protection des victimes de la criminalité transfrontalière organisée.
+    - Le groupe veillera à ce que l'échange de données soit soumis à des contrôles indépendants réguliers.
+  - **stratégie** : Le groupe S&D adopte une position constructive et équilibrée. Favorable à la coopération policière européenne et à la cyber-sécurité (2-6A), il soutient l'unité antiterroriste (2-6D) tout en exigeant des garanties fortes de protection de la vie privée (2-6C). Il s'oppose aux exclusions bilatérales (2-6F) et aux restrictions frileuses (2-6E).
+  - **alliances** :
+    - Verts/ALE (convergence sur la protection des droits fondamentaux et des données)
+    - Parti Populaire Européen (recherche d'un compromis responsable sur la sécurité publique)
+    - Renouveau Européen (accord sur la lutte contre la cybercriminalité)
+    - Italie (soutien mutuel sur la répression des trafics d'êtres humains)
+  - **oppositions** :
+    - Hongrie (critique du manque d'engagement sur la sécurité collective européenne)
+    - Conservateurs et Réformistes (méfiance envers le refus des normes communes)
+  - **éléments\_d\_argumentaire** :
+    - La sécurité est un bien commun démocratique : elle doit protéger tous les citoyens sans sacrifier leurs libertés fondamentales.
+    - L'entraide policière doit s'accompagner d'un renforcement des droits procéduraux des prévenus et du statut des victimes.
+    - La lutte contre la cybercriminalité (2-6A) est indispensable pour protéger les citoyens contre les arnaques numériques et le chantage en ligne.
+    - Nous soutenons une coopération policière transparente, responsable devant le Parlement et respectueuse de la dignité humaine.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Voter pour les amendements sécuritaires (2-6A, 2-6D) à condition qu'ils intègrent des garanties suffisantes sur le contrôle judiciaire (2-6C).
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Soutien plein à la lutte contre la cybercriminalité qui frappe en premier lieu les citoyens et services publics les plus vulnérables.
+      - **priorite** : haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : L'observatoire permettra d'éclairer les politiques publiques par des données objectives sur les trafics.
+      - **priorite** : moyenne
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE
+      - **justification** : Essentiel pour prévenir les dérives de surveillance de masse et protéger les droits des citoyens innocents.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient l'unité antiterroriste à condition qu'elle opère sous un strict contrôle judiciaire et démocratique.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : Affaiblirait la capacité des autorités à lutter contre les réseaux de traite et d'exploitation humaine.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Crée des failles discriminatoires dans l'espace européen de justice et de sécurité.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient les moyens des tribunaux à condition que l'indépendance de la magistrature soit scrupuleusement garantie.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : NEUTRE
+      - **justification** : Comprend les contraintes d'adaptation technique mais souhaite une mise en œuvre sans délai excessif.
+      - **priorite** : faible
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 3** :
+  - **type** : Parti
+  - **nom** : Renouveau Européen
+  - **actor\_id** : re
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Élargir la coopération policière et judiciaire à la lutte contre la cybercriminalité (2-6A).
+    - Moderniser et numériser les instruments européens d'enquête et de partage de preuves électroniques.
+    - Construire un véritable espace de sécurité intérieure intégré, agile et technologiquement souverain.
+    - Protéger les citoyens et les entreprises européennes contre les rançongiciels et le cyber-espionnage.
+  - **impacts\_directive** :
+    - La directive accélérera la transformation numérique d'Europol et créera des synergies transfrontalières contre le cybercrime.
+    - Elle positionnera l'Union comme leader mondial dans la régulation et la répression des infractions numériques.
+  - **stratégie** : Renouveau Européen est le porteur de l'amendement 2-6A visant à intégrer pleinement la cybercriminalité dans la directive. Le groupe défend une intégration sécuritaire résolument tournée vers l'avenir, alliant réactivité technologique et garanties d'État de droit. Il soutient l'unité antiterroriste (2-6D), recherche un consensus sur la vie privée (2-6C) et combat les tentatives souverainistes de restreindre le partage d'informations (2-6E, 2-6F).
+  - **alliances** :
+    - Parti Populaire Européen (partenaire clé pour bâtir une majorité pro-sécurité)
+    - Socialistes et Démocrates (accord sur les normes éthiques et la cyber-défense)
+    - France (collaboration sur la technologie et la cyber-résilience)
+    - Big Tech (coopération sur les standards de chiffrement et la sécurité des données)
+  - **oppositions** :
+    - Hongrie (rejet des blocages souverainistes sur les nouvelles technologies criminelles)
+    - Conservateurs et Réformistes (opposition au repli intergouvernemental frileux)
+  - **éléments\_d\_argumentaire** :
+    - Aujourd'hui, 80 % des crimes ont une composante numérique : refuser d'élargir la directive à la cybercriminalité (2-6A), c'est combattre les menaces du XXIe siècle avec des méthodes du XIXe siècle.
+    - La cybercriminalité détruit des milliards d'euros de valeur et paralyse des hôpitaux : l'Europe doit frapper vite et de manière coordonnée.
+    - Une police européenne connectée et interopérable est indispensable pour protéger notre espace de liberté et de circulation.
+    - Nous voulons une Europe puissante, moderne, capable de neutraliser les cyberattaquants où qu'ils se trouvent.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Défendre l'amendement 2-6A comme une priorité absolue et forger une alliance transpartisane avec le PPE et le S&D.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Amendement phare de Renouveau intégrant les cyberattaques, fraudes en ligne et rançongiciels dans le champ de la coopération européenne.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Soutient un observatoire technologique et analytique moderne pour cartographier les flux criminels.
+      - **priorite** : haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient des garanties élevées de vie privée dès lors qu'elles restent compatibles avec des enquêtes numériques agiles.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : L'unité antiterroriste renforce la sécurité collective de l'Europe face aux réseaux terroristes internationaux.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : Cette proposition freinerait la modernisation de la police européenne et créerait des failles inacceptables.
+      - **priorite** : très\_haute
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : L'exclusion d'États membres contredit la vision d'un espace de sécurité européen uni et cohérent.
+      - **priorite** : haute
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Favorable au soutien des tribunaux mais refuse que cela serve de prétexte pour bloquer l'intégration européenne.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE
+      - **justification** : La menace cybernétique n'attend pas : l'Union doit être opérationnelle immédiatement.
+      - **priorite** : haute
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 4** :
+  - **type** : Parti
+  - **nom** : Verts/Alliance Libre Européenne (Verts/ALE)
+  - **actor\_id** : verts\_ale
+  - **role\_europeen** : Non-porteur - Défense intransigeante de la vie privée et de l’État de droit.
+  - **enjeux\_directive** :
+    - Interdire la surveillance de masse, la reconnaissance faciale dans l'espace public et la police prédictive discriminatoire.
+    - Garantir un contrôle judiciaire préalable et indépendant pour toute mesure d'accès ou d'interception de données.
+    - Protéger le chiffrement fort des communications privées contre toute obligation d'installation de portes dérobées.
+    - Veiller à ce que la coopération sécuritaire ne serve pas à criminaliser les lanceurs d'alerte ou militants associatifs.
+  - **impacts\_directive** :
+    - Le groupe exercera une pression maximale pour intégrer des verrous stricts de proportionnalité et de transparence.
+    - Il s'opposera à toute dérive vers un État policier européen automatisé sans contrôle démocratique.
+  - **stratégie** : Les Verts/ALE adoptent une posture de vigilance critique. Ils soutiennent sans réserve l'amendement 2-6C de la Gauche Unitaire pour conditionner l'accès aux données à des garanties strictes de vie privée. Ils appuient la lutte contre la cybercriminalité (2-6A) à condition qu'elle renforce la sécurité des systèmes et non la surveillance des citoyens. Ils rejettent fermement les unités antiterroristes sans contrôle parlementaire clair.
+  - **alliances** :
+    - Gauche Unitaire (alliance stratégique indéfectible sur la protection de la vie privée)
+    - Socialistes et Démocrates (convergence sur les garanties d'État de droit et les droits de la défense)
+    - Suède (appui sur la transparence et la proportionnalité des fichiers de police)
+  - **oppositions** :
+    - Parti Populaire Européen (opposition frontale aux velléités de surveillance sans contrôle)
+    - Conservateurs et Réformistes (méfiance envers l'absence de garanties démocratiques)
+  - **éléments\_d\_argumentaire** :
+    - La sécurité ne peut jamais justifier la mise en place d'une surveillance généralisée des citoyens innocents.
+    - L'amendement 2-6C est indispensable : chaque accès aux données personnelles doit être autorisé par un juge indépendant.
+    - Le chiffrement fort est la meilleure protection de nos sociétés contre les cybercriminels et les dictatures étrangères.
+    - Nous voulons une police démocratique, ciblée, qui respecte la vie privée et protège les libertés fondamentales.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Conditionner tout vote favorable final à l'adoption de l'amendement 2-6C et à l'exclusion formelle des technologies de reconnaissance faciale en temps réel.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Soutient la coopération contre les rançongiciels et le piratage, à condition de renforcer la sécurité des infrastructures.
+      - **priorite** : haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Un observatoire public favorise la transparence et l'évaluation scientifique des politiques de sécurité.
+      - **priorite** : moyenne
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE
+      - **justification** : Amendement capital pour les Verts/ALE : indispensable pour empêcher la surveillance de masse et protéger les libertés fondamentales.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Craint une opacité excessive et exige un contrôle parlementaire et judiciaire strict sur cette unité.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : NEUTRE
+      - **justification** : Préfère des critères stricts de gravité des infractions plutôt qu'une liste politique arbitraire.
+      - **priorite** : faible
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Opposé aux exemptions arbitraires qui créent des régimes de sécurité asymétriques.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable au soutien des tribunaux si et seulement si l'État de droit et l'indépendance de la justice sont respectés.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Un report peut être bénéfique s'il permet d'intégrer des garanties renforcées de respect de la vie privée.
+      - **priorite** : moyenne
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 5** :
+  - **type** : Parti
+  - **nom** : Conservateurs et Réformistes Européens (ECR)
+  - **actor\_id** : ecr
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Instaurer un observatoire européen des crimes transfrontaliers (2-6B).
+    - Préserver la souveraineté des forces de police et des systèmes judiciaires nationaux.
+    - Refuser la création d'une police fédérale européenne coercitive ou de centres de commandement supranationaux.
+    - Privilégier la coopération volontaire, le partage d'analyses et la coordination intergouvernementale.
+  - **impacts\_directive** :
+    - Le groupe veillera à cantonner l'action de l'UE à l'appui technique et à l'échange de renseignements sans transfert d'autorité.
+    - Il soutiendra les mesures concrètes de répression du banditisme et de protection des frontières.
+  - **stratégie** : L'ECR est le porteur de l'amendement 2-6B instituant un observatoire européen des crimes transfrontaliers, instrument analytique respectueux des compétences des capitales. Opposé à tout embryon de FBI européen, l'ECR appuie l'amendement polonais (2-6G) sur la primauté des tribunaux nationaux, la limitation du mandat (2-6E) et le report allemand (2-6H).
+  - **alliances** :
+    - Pologne (front commun sur la primauté judiciaire et la subsidiarité)
+    - Hongrie (soutien à la limitation du champ d'action européen)
+    - Énergies Fossiles (protection des infrastructures stratégiques nationales)
+  - **oppositions** :
+    - Renouveau Européen (rejet du fédéralisme policier et judiciaire)
+    - Parti Populaire Européen (critique de la création d'unités supranationales permanentes)
+  - **éléments\_d\_argumentaire** :
+    - La sécurité et la justice sont le cœur de la souveraineté des nations : Europol ne doit pas devenir une police fédérale.
+    - L'observatoire européen des crimes transfrontaliers (2-6B) apporte une valeur ajoutée d'analyse sans empiéter sur nos forces de police nationales.
+    - Les juridictions nationales doivent conserver la primauté absolue (2-6G) sur toutes les décisions de justice.
+    - La coopération intergouvernementale directe entre polices d'État est bien plus efficace que la bureaucratie bruxelloise.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Faire adopter l'amendement 2-6B pour offrir une alternative pragmatique à l'intégration policière supranationale.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient la coopération contre les cybermenaces à condition qu'elle respecte l'autonomie des services spécialisés nationaux.
+      - **priorite** : moyenne
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Amendement phare de l'ECR créant un observatoire d'analyse stratégique respectueux de la subsidiarité.
+      - **priorite** : très\_haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable à la protection des données des citoyens contre les intrusions des super-agences européennes.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : DEFAVORABLE
+      - **justification** : Opposé à une unité supranationale permanente qui concurrencerait les services antiterroristes d'État.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : FAVORABLE
+      - **justification** : Permet d'empêcher les dérives d'extension des compétences européennes au-delà des traités.
+      - **priorite** : haute
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : FAVORABLE
+      - **justification** : Soutient le droit souverain des capitales de protéger leurs renseignements sensibles.
+      - **priorite** : haute
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE
+      - **justification** : Appui total à la primauté des tribunaux et polices des États membres.
+      - **priorite** : très\_haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE
+      - **justification** : Un report permet de freiner l'intégration supranationale et de préserver l'autonomie des États.
+      - **priorite** : haute
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 6** :
+  - **type** : Parti
+  - **nom** : Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)
+  - **actor\_id** : gue\_ngl
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Conditionner l’accès aux données à des garanties strictes de protection de la vie privée (2-6C).
+    - Protéger les libertés civiles et les droits fondamentaux contre les abus de pouvoir policier et la surveillance d'État.
+    - Empêcher la criminalisation des mouvements sociaux, des défenseurs des droits et des personnes migrantes.
+    - Exiger un contrôle judiciaire indépendant, transparent et contradictoire sur tous les fichiers policiers.
+  - **impacts\_directive** :
+    - Le groupe combattra toute disposition créant des fichiers de police automatisés sans recours juridique effectif.
+    - Il fera de la protection de la vie privée la condition sine qua non de toute coopération transfrontalière.
+  - **stratégie** : La Gauche Unitaire porte l'amendement 2-6C pour instaurer un verrou juridique absolu protégeant la vie privée et les données des citoyens. Dénonçant les risques de dérive vers un État policier européen autoritaire, elle s'oppose fermement aux unités antiterroristes supranationales opaques (2-6D) et réclame l'encadrement strict de toute technologie de surveillance.
+  - **alliances** :
+    - Verts/ALE (front uni pour les libertés publiques et contre la surveillance de masse)
+    - Socialistes et Démocrates (recherche d'appuis sur les droits procéduraux)
+    - Suède (soutien sur les exigences de transparence et d'État de droit)
+  - **oppositions** :
+    - Parti Populaire Européen (rejet du tout-sécuritaire et du recul des libertés civiles)
+    - Renouveau Européen (méfiance envers l'extension illimitée des pouvoirs policiers)
+  - **éléments\_d\_argumentaire** :
+    - Une société démocratique ne peut sacrifier la vie privée de ses citoyens au nom d'un fantasme de sécurité totale.
+    - L'amendement 2-6C garantit qu'aucune donnée personnelle ne pourra être consultée sans l'autorisation motivée d'un juge indépendant.
+    - Nous refusons les fichiers secrets d'Europol sans droit de rectification ni contrôle démocratique direct.
+    - La lutte contre la criminalité doit s'attaquer aux causes économiques et sociales plutôt que de bâtir une forteresse sécuritaire.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Mobiliser la société civile et les ONG de défense des libertés numériques pour faire pression en faveur de l'amendement 2-6C.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable à la lutte contre les escroqueries numériques si elle ne sert pas de prétexte à la surveillance des communications privées.
+      - **priorite** : moyenne
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Soutient un observatoire indépendant pour analyser les causes socio-économiques de la criminalité.
+      - **priorite** : moyenne
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE
+      - **justification** : Amendement fondamental de la Gauche Unitaire imposant un contrôle judiciaire strict et protégeant les droits fondamentaux.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : DEFAVORABLE
+      - **justification** : Opposé à une unité policière supranationale opaque susceptible de porter atteinte aux libertés démocratiques.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable à ce que la coopération policière ne s'étende pas aux délits mineurs ou aux contestations sociales.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Refuse les privilèges unilatéraux et exige des règles protectrices universelles pour tous les citoyens.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE
+      - **justification** : Soutient le financement de l'aide juridictionnelle et des tribunaux de proximité au service des citoyens.
+      - **priorite** : haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Un report permet d'éviter l'adoption hâtive de dispositions liberticides.
+      - **priorite** : moyenne
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans

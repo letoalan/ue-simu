@@ -1,0 +1,155 @@
+/* Legislative Institution Cards & Progress Gauges */
+.legislative-card {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.legislative-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
+/* Progress bar with threshold */
+.progress-bar-track {
+  position: relative;
+  width: 100%;
+  height: 16px;
+  background: var(--color-surface-hover);
+  border-radius: var(--radius-full);
+  overflow: visible;
+  border: 1px solid var(--color-border);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.progress-bar-fill {
+  height: 100%;
+  border-radius: var(--radius-full);
+  transition: width 0.35s cubic-bezier(0.4, 0, 0.2, 1), background 0.3s ease;
+  background: #2563eb;
+  min-width: 0%;
+}
+
+.progress-bar-fill.fill-blue {
+  background: linear-gradient(90deg, #3b82f6 0%, #1d4ed8 100%);
+  box-shadow: 0 1px 4px rgba(37, 99, 235, 0.3);
+}
+
+.progress-bar-fill.fill-green {
+  background: linear-gradient(90deg, #10b981 0%, #059669 100%);
+  box-shadow: 0 0 8px rgba(16, 185, 129, 0.45);
+}
+
+.progress-bar-threshold {
+  position: absolute;
+  top: -4px;
+  bottom: -4px;
+  width: 3px;
+  background: #dc2626;
+  border-radius: 2px;
+  z-index: 10;
+  box-shadow: 0 0 5px rgba(220, 38, 38, 0.8);
+}
+
+.progress-bar-threshold .threshold-label {
+  position: absolute;
+  top: -18px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: #dc2626;
+  background: #fef2f2;
+  padding: 1px 4px;
+  border-radius: 3px;
+  border: 1px solid #fecaca;
+  white-space: nowrap;
+  pointer-events: none;
+}
+
+[data-theme="dark"] .progress-bar-threshold .threshold-label {
+  color: #f87171;
+  background: rgba(239, 68, 68, 0.15);
+  border-color: rgba(239, 68, 68, 0.35);
+}
+
+.btn-realistic-active {
+  background: #e0e7ff !important;
+  color: #3730a3 !important;
+  border: 1px solid #6366f1 !important;
+  font-weight: 700 !important;
+  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.2) !important;
+}
+
+[data-theme="dark"] .btn-realistic-active {
+  background: rgba(99, 102, 241, 0.22) !important;
+  color: #a5b4fc !important;
+  border: 1px solid #818cf8 !important;
+  box-shadow: 0 0 0 2px rgba(129, 140, 248, 0.3) !important;
+}
+
+/* Toggle pills for individual votes (POUR, ABSTENTION, CONTRE) */
+.vote-toggle-group {
+  display: inline-flex;
+  background: var(--color-surface-hover);
+  border-radius: var(--radius-full);
+  padding: 2px;
+  border: 1px solid var(--color-border);
+  gap: 2px;
+}
+
+.vote-pill {
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+  border: none;
+  background: transparent;
+  font-size: 0.76rem;
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  transition: all 0.15s ease;
+}
+
+.vote-pill:hover {
+  color: var(--color-text-main);
+}
+
+.vote-pill.active-pour {
+  background: #10b981;
+  color: #ffffff;
+  box-shadow: 0 1px 4px rgba(16, 185, 129, 0.3);
+}
+
+.vote-pill.active-abst {
+  background: #f59e0b;
+  color: #ffffff;
+  box-shadow: 0 1px 4px rgba(245, 158, 11, 0.3);
+}
+
+.vote-pill.active-contre {
+  background: #ef4444;
+  color: #ffffff;
+  box-shadow: 0 1px 4px rgba(239, 68, 68, 0.3);
+}
+
+/* Micro buttons */
+.btn-micro {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 2px 7px;
+  font-size: 0.72rem;
+  cursor: pointer;
+  color: var(--color-text-muted);
+  transition: all 0.15s ease;
+}
+
+.btn-micro:hover {
+  background: var(--color-surface-hover);
+  color: var(--color-text-main);
+  border-color: var(--color-text-muted);
+}

@@ -1,0 +1,903 @@
+{
+  "directive": {
+    "id": "2-3",
+    "title": "Solidarité migratoire européenne",
+    "description": "Quotas contraignants de répartition des migrants. Instaurer un mécanisme permanent de répartition équitable des demandeurs d’asile et de protection internationale entre États membres.",
+    "commission": {
+      "type": "Commission",
+      "nom": "Commission européenne",
+      "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux_directive": [
+        "Assurer une répartition équitable des demandeurs d’asile dans un cadre contraignant.",
+        "Équilibrer solidarité européenne, pressions sociales nationales et respect des droits humains.",
+        "Anticiper les blocages politiques et favoriser les compromis viables entre États membres."
+      ],
+      "impacts_directive": [
+        "La directive, si elle est adoptée, renforcerait le rôle de la Commission en tant qu'acteur central pour coordonner la politique migratoire. Elle permettrait de centraliser la gestion des flux migratoires et d'établir des mécanismes de solidarité permanents entre les États membres."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-3A",
+          "origine": "Italie",
+          "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures.",
+          "impact": "L'amendement renforcerait le rôle de la Commission dans le financement des pays en première ligne, tout en maintenant l'objectif de répartition."
+        },
+        {
+          "id": "2-3B",
+          "origine": "Hongrie",
+          "description": "Limiter les quotas de répartition à 80% de la capacité nationale.",
+          "impact": "L'amendement réduirait la portée et l'ambition de la directive, rendant le compromis plus difficile avec les États membres favorables à des quotas contraignants."
+        },
+        {
+          "id": "2-3C",
+          "origine": "Pologne",
+          "description": "Reporter l’application de la directive de deux ans.",
+          "impact": "L'amendement retarderait la réalisation des objectifs de solidarité, ce qui irait à l'encontre de l'urgence de la situation migratoire."
+        },
+        {
+          "id": "2-3D",
+          "origine": "Suède",
+          "description": "Exclure certains États membres des obligations de répartition.",
+          "impact": "L'amendement compromettrait le principe de solidarité et d'équité, affaiblissant la capacité de l'UE à gérer les crises migratoires de manière collective."
+        },
+        {
+          "id": "2-3E",
+          "origine": "Socialistes et Démocrates",
+          "description": "Instaurer un fonds européen pour l’intégration des migrants.",
+          "impact": "L'amendement soutiendrait l'objectif de la directive en se concentrant sur une solution à long terme, mais pourrait créer des tensions budgétaires."
+        },
+        {
+          "id": "2-3F",
+          "origine": "Renouveau Européen",
+          "description": "Augmenter les quotas de répartition de 20%.",
+          "impact": "L'amendement augmenterait l'ambition de la directive, mais pourrait rendre le compromis plus difficile avec les États membres réticents."
+        },
+        {
+          "id": "2-3G",
+          "origine": "Conservateurs et Réformistes",
+          "description": "Conditionner les aides à la formation linguistique et professionnelle.",
+          "impact": "L'amendement est compatible avec la position de la Commission en favorisant une approche pragmatique, mais pourrait être perçu comme un frein par certains États membres."
+        },
+        {
+          "id": "2-3H",
+          "origine": "Gauche Unitaire",
+          "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne.",
+          "impact": "L'amendement s'aligne sur les objectifs de solidarité de la Commission, mais pourrait soulever des questions sur le financement."
+        }
+      ],
+      "stratégie": "Adopter une position de médiateur en cherchant un compromis entre les États en première ligne (Italie) et ceux réticents (Hongrie, Pologne). Mettre en avant le rôle de la directive pour la stabilité et la solidarité de l'UE. La Commission cherchera à s'allier avec les États membres et les partis politiques pragmatiques qui soutiennent l'intégration et une approche collective.",
+      "alliances": [
+        "France",
+        "Allemagne",
+        "Parti Populaire Européen",
+        "Renouveau Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne",
+        "Suède",
+        "Conservateurs et Réformistes"
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité est la clé pour gérer les flux migratoires de manière équitable et efficace.",
+        "Le mécanisme proposé est un compromis viable qui équilibre les ambitions et les contraintes nationales.",
+        "La répartition des migrants permettra de rationaliser les dépenses et de mieux organiser l'accueil."
+      ],
+      "références": [
+        "Synthèse de la directive Solidarité migratoire européenne (ID 2-3)",
+        "Déclaration d'intention de la directive 2-3."
+      ]
+    },
+    "countries": [
+      {
+        "type": "Etat",
+        "nom": "France",
+        "role_europeen": "Non-porteur",
+        "enjeux_directive": [
+          "Équilibre entre humanité et sécurité.",
+          "Préserver la cohésion sociale nationale."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à la France de mieux contrôler ses frontières tout en garantissant un accueil ordonné, mais pourrait générer des tensions internes si les quotas sont perçus comme trop importants."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "impact": "Cet amendement est favorable à la position de la France, car il déplace la responsabilité de l'accueil aux frontières extérieures, mais pourrait soulever des questions sur la solidarité budgétaire."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "Cet amendement va à l'encontre de la position de la France qui prône une répartition contraignante."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "Cet amendement est un compromis pour la France. Il renforce la solidarité européenne mais augmente le risque de tensions internes."
+          }
+        ],
+        "stratégie": "Médiateur entre les pays favorables aux quotas et les pays réticents. La France cherchera à s'allier avec les États membres pragmatiques pour obtenir un équilibre entre solidarité et contrôle.",
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Suède"
+        ],
+        "éléments_d_argumentaire": [
+          "Il est nécessaire de concilier une approche humanitaire avec la sécurité des frontières.",
+          "La solidarité européenne est essentielle pour une gestion efficace des crises migratoires."
+        ],
+        "références": [
+          "Position de la France dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Allemagne",
+        "role_europeen": "Non-porteur",
+        "enjeux_directive": [
+          "Répondre à la pression migratoire interne.",
+          "Consolider son rôle moteur en Europe."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à l'Allemagne de soulager ses frontières et de montrer l'exemple en matière de solidarité européenne."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "impact": "L'amendement est conforme à la position de l'Allemagne car il renforce la solidarité avec les pays en première ligne."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement va à l'encontre des objectifs de l'Allemagne en matière de solidarité."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est favorable à la position de l'Allemagne car il augmente l'ambition de la directive."
+          },
+          {
+            "id": "2-3H",
+            "origine": "Gauche Unitaire",
+            "impact": "L'amendement renforce la dimension solidaire de la directive, ce qui est conforme à la position de l'Allemagne."
+          }
+        ],
+        "stratégie": "Moteur des alliances progressistes en faveur d’une solidarité accrue. L'Allemagne cherche à s'allier avec les pays 'porteurs' pour que la directive soit adoptée dans sa version la plus ambitieuse.",
+        "alliances": [
+          "France",
+          "Socialistes et Démocrates",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Suède"
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité migratoire est un enjeu de justice et de cohésion pour l'UE.",
+          "L'Allemagne est un exemple de pays qui a su gérer une crise migratoire et qui peut aider les autres pays."
+        ],
+        "références": [
+          "Position de l’Allemagne dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Italie",
+        "role_europeen": "Porteur",
+        "enjeux_directive": [
+          "Alléger la pression migratoire sur ses frontières.",
+          "Obtenir un soutien financier et logistique accru."
+        ],
+        "impacts_directive": [
+          "La directive permettrait à l'Italie d'alléger la pression migratoire sur ses frontières, ce qui est une priorité pour le pays. L'objectif est d'obtenir des fonds et un soutien logistique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures.",
+            "impact": "L'amendement protège les intérêts de l'Italie en se concentrant sur les frontières extérieures, ce qui est une priorité pour ce pays. L'adoption de cet amendement pourrait augmenter l'investissement dans ces centres, ce qui allégerait la pression sur les ressources nationales."
+          },
+          {
+            "id": "2-3H",
+            "origine": "Gauche Unitaire",
+            "impact": "L'amendement est conforme à la position de l'Italie en renforçant la solidarité financière."
+          },
+          {
+            "id": "2-3D",
+            "origine": "Suède",
+            "impact": "L'amendement va à l'encontre de l'objectif de l'Italie car il affaiblit la directive en créant des exemptions."
+          }
+        ],
+        "stratégie": "Mettre en avant la solidarité concrète avec les pays en première ligne. L'Italie cherchera à s'allier avec les pays qui partagent ses préoccupations pour que la directive inclue un volet sur l'aide financière et logistique.",
+        "alliances": [
+          "France",
+          "Grèce"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "L'Italie ne peut pas gérer seule les flux migratoires aux frontières de l'Europe. La solidarité financière est une nécessité.",
+          "Une répartition équitable des migrants est la seule solution pour une gestion juste de la crise."
+        ],
+        "références": [
+          "Position de l’Italie dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Hongrie",
+        "role_europeen": "Opposant",
+        "enjeux_directive": [
+          "Préserver sa souveraineté nationale.",
+          "Limiter l’impact social et politique d’une répartition contraignante."
+        ],
+        "impacts_directive": [
+          "La directive serait perçue comme une ingérence dans les affaires nationales et un coût social et politique important. La Hongrie s'opposerait à toute approche contraignante et défendrait le principe de la souveraineté nationale."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "description": "Limiter les quotas de répartition à 80% de la capacité nationale.",
+            "impact": "L'amendement vise à protéger les intérêts de la Hongrie en limitant le nombre de migrants accueillis. Cela irait à l'encontre du principe de solidarité, mais permettrait de respecter la souveraineté nationale."
+          },
+          {
+            "id": "2-3D",
+            "origine": "Suède",
+            "impact": "L'amendement est en ligne avec les préoccupations de la Hongrie en matière de souveraineté."
+          },
+          {
+            "id": "2-3G",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est conforme à la position de la Hongrie qui prône une approche plus pragmatique."
+          }
+        ],
+        "stratégie": "Fédérer les pays hostiles à une approche obligatoire. La Hongrie cherchera à s'allier avec les pays qui partagent ses craintes pour faire échouer la directive ou en limiter la portée.",
+        "alliances": [
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Allemagne",
+          "France",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La défense des frontières est une compétence nationale. L'Europe n'a pas à nous imposer des quotas.",
+          "Une répartition des migrants est un risque pour la cohésion sociale."
+        ],
+        "références": [
+          "Position de la Hongrie dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Pologne",
+        "role_europeen": "Opposant",
+        "enjeux_directive": [
+          "Limiter les obligations immédiates.",
+          "Obtenir flexibilité et temps d’adaptation."
+        ],
+        "impacts_directive": [
+          "La directive imposerait des obligations immédiates à la Pologne, ce qui est contraire à ses intérêts. La Pologne chercherait à reporter son application pour s'adapter à une nouvelle politique migratoire."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3C",
+            "origine": "Pologne",
+            "description": "Reporter l’application de la directive de deux ans.",
+            "impact": "L'amendement protège les intérêts de la Pologne en lui donnant plus de temps pour s'adapter à la nouvelle législation."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement est conforme à la position de la Pologne qui souhaite plus de flexibilité."
+          },
+          {
+            "id": "2-3D",
+            "origine": "Suède",
+            "impact": "L'amendement est conforme à la position de la Pologne qui souhaite des exemptions."
+          }
+        ],
+        "stratégie": "Former un front commun avec d’autres pays réticents (Hongrie, Suède). La Pologne cherchera à s'allier avec les pays qui partagent ses préoccupations pour obtenir un report de l'application de la directive.",
+        "alliances": [
+          "Hongrie",
+          "Suède",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Allemagne",
+          "France",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "Une politique de solidarité migratoire doit être progressive. Il faut prendre le temps de se préparer et de s’adapter.",
+          "Le report de l'application est une preuve de prudence et de sagesse."
+        ],
+        "références": [
+          "Position de la Pologne dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Suède",
+        "role_europeen": "Opposant",
+        "enjeux_directive": [
+          "Limiter la portée des quotas contraignants.",
+          "Protéger son autonomie nationale."
+        ],
+        "impacts_directive": [
+          "La directive, en imposant des quotas contraignants, irait à l'encontre de l'autonomie nationale de la Suède. La Suède cherchera à s'exempter de cette obligation."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3D",
+            "origine": "Suède",
+            "description": "Exclure certains États membres des obligations de répartition.",
+            "impact": "L'amendement protège les intérêts de la Suède en lui permettant de conserver son autonomie nationale et en évitant les quotas contraignants."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement est conforme à la position de la Suède qui souhaite limiter les obligations."
+          },
+          {
+            "id": "2-3C",
+            "origine": "Pologne",
+            "impact": "L'amendement est conforme à la position de la Suède qui souhaite plus de flexibilité."
+          }
+        ],
+        "stratégie": "Obtenir des exemptions ciblées pour certains États. La Suède cherchera à s'allier avec les pays qui partagent ses préoccupations pour obtenir des dérogations.",
+        "alliances": [
+          "Pologne",
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Allemagne",
+          "France",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "Une politique migratoire doit tenir compte des spécificités nationales et de l'autonomie des États membres.",
+          "La solidarité européenne doit se faire sur la base du volontariat et non de l'obligation."
+        ],
+        "références": [
+          "Position de la Suède dans la directive 2-3."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "type": "Parti",
+        "nom": "Parti Populaire Européen",
+        "role_europeen": "Non-porteur",
+        "position": "Soutient une solidarité limitée, conciliant répartition et subsidiarité.",
+        "enjeux_directive": [
+          "Maintenir l’équilibre entre unité européenne et souveraineté nationale."
+        ],
+        "impacts_directive": [
+          "Le groupe PPE soutient une approche équilibrée de la directive, en conciliant solidarité européenne et souveraineté nationale. Il chercherait à éviter une approche trop contraignante pour les États membres."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "impact": "L'amendement est conforme à la position du PPE car il renforce la solidarité tout en maintenant le contrôle aux frontières."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement est en ligne avec les préoccupations du PPE sur la subsidiarité."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est un compromis pour le PPE, car il renforce l'ambition, mais pourrait soulever des questions sur la souveraineté."
+          },
+          {
+            "id": "2-3G",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est en ligne avec la position du PPE en matière d'intégration conditionnelle."
+          }
+        ],
+        "stratégie": "Proposer des compromis modérés pour rallier les deux camps. Le groupe PPE cherchera à s'allier avec les partis et les États qui partagent sa position équilibrée.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [
+          "Gauche Unitaire",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "Une solidarité efficace doit respecter la souveraineté des États membres.",
+          "La répartition doit être un mécanisme flexible et non une obligation rigide."
+        ],
+        "références": [
+          "Position du Parti Populaire Européen dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Socialistes et Démocrates",
+        "role_europeen": "Porteur",
+        "position": "Instaurer un fonds européen pour l’intégration des migrants.",
+        "enjeux_directive": [
+          "Promouvoir justice sociale et intégration.",
+          "Renforcer la cohésion territoriale."
+        ],
+        "impacts_directive": [
+          "Le groupe S&D soutient la directive et cherche à la renforcer en y ajoutant un volet sur l'intégration. L'objectif est de s'assurer que les migrants sont bien intégrés dans la société."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "description": "Instaurer un fonds européen pour l’intégration des migrants.",
+            "impact": "L'amendement renforce l'approche solidaire de la directive en ajoutant un volet financier pour l'intégration des migrants."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est conforme à la position du groupe S&D qui prône une politique de solidarité ambitieuse."
+          },
+          {
+            "id": "2-3G",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est un compromis pour le groupe S&D, qui prône l'intégration sans conditions."
+          }
+        ],
+        "stratégie": "Construire des alliances avec Renew et les Verts pour renforcer l’aspect social. Le groupe S&D cherche à faire pression pour que la directive inclue un volet sur l'intégration, qui est pour lui un enjeu majeur.",
+        "alliances": [
+          "Renouveau Européen",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité ne se limite pas à la répartition. Il faut aussi s'assurer de la bonne intégration des migrants.",
+          "Un fonds européen pour l'intégration est un investissement dans la cohésion sociale."
+        ],
+        "références": [
+          "Position des Socialistes et Démocrates dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Renouveau Européen",
+        "role_europeen": "Porteur",
+        "position": "Augmenter les quotas de répartition de 20%.",
+        "enjeux_directive": [
+          "Donner une réponse ambitieuse et pragmatique.",
+          "Allier solidarité européenne et efficacité."
+        ],
+        "impacts_directive": [
+          "Le groupe Renouveau Européen soutient une approche ambitieuse de la directive et cherche à augmenter l'efficacité des quotas. L'objectif est d'assurer une répartition rapide et équitable des migrants."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "description": "Augmenter les quotas de répartition de 20%.",
+            "impact": "L'amendement renforce l'ambition de la directive et permet d'atteindre plus rapidement l'objectif de solidarité."
+          },
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "impact": "L'amendement est compatible avec la position de Renouveau Européen en renforçant la solidarité financière."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement est en totale opposition avec la position de Renouveau Européen."
+          }
+        ],
+        "stratégie": "Occuper une position de trait d’union entre progressistes et modérés. Renouveau Européen cherchera à s'allier avec les partis et les États qui partagent sa vision ambitieuse et pragmatique.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "Les quotas sont la seule solution pour une gestion équitable des flux migratoires. Il faut être ambitieux.",
+          "La solidarité est la clé de la crédibilité de l'Europe."
+        ],
+        "références": [
+          "Position de Renouveau Européen dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Verts/ALE",
+        "role_europeen": "Non-porteur",
+        "position": "Soutien fort à une approche contraignante et ambitieuse.",
+        "enjeux_directive": [
+          "Assurer la défense des droits humains et des réfugiés.",
+          "Renforcer la solidarité européenne."
+        ],
+        "impacts_directive": [
+          "Le groupe Verts/ALE soutient la directive et cherche à la renforcer en y ajoutant un volet sur les droits humains. L'objectif est de s'assurer que les migrants sont traités avec dignité et respect."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est conforme à la position des Verts/ALE qui prônent l'intégration et la justice sociale."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est conforme à la position des Verts/ALE qui prônent une politique ambitieuse."
+          },
+          {
+            "id": "2-3G",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement va à l'encontre de la position des Verts/ALE en conditionnant l'aide."
+          }
+        ],
+        "stratégie": "Faire pression pour aller plus loin que la proposition initiale. Les Verts/ALE cherchera à s'allier avec les partis qui partagent sa position pour que la directive inclue un volet sur les droits humains.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité migratoire n'est pas qu'une question de quotas, c'est aussi une question de droits humains et de dignité.",
+          "Une Europe qui se veut forte doit être un exemple en matière de droits humains."
+        ],
+        "références": [
+          "Position des Verts/ALE dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Conservateurs et Réformistes",
+        "role_europeen": "Opposant",
+        "position": "Conditionner les aides à la formation linguistique et professionnelle.",
+        "enjeux_directive": [
+          "Promouvoir l’intégration conditionnelle et pragmatique.",
+          "Limiter les coûts sociaux."
+        ],
+        "impacts_directive": [
+          "Le groupe C&R s'oppose à la directive, car il la considère comme une ingérence dans les affaires nationales et un surcoût social. Il défend le principe de la souveraineté en matière d'immigration et cherchera à faire échouer la directive ou à en limiter la portée."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3G",
+            "origine": "Conservateurs et Réformistes",
+            "description": "Conditionner les aides à la formation linguistique et professionnelle.",
+            "impact": "L'amendement vise à protéger les intérêts des C&R en conditionnant l'aide, ce qui permettrait de limiter les coûts et de protéger la souveraineté nationale."
+          },
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement est en ligne avec la position des C&R en matière de limitation des obligations."
+          },
+          {
+            "id": "2-3C",
+            "origine": "Pologne",
+            "impact": "L'amendement est en ligne avec la position des C&R qui souhaitent plus de flexibilité."
+          }
+        ],
+        "stratégie": "Mettre en avant l’importance de la subsidiarité et du contrôle national. Le groupe C&R cherche à s'allier avec les pays qui partagent leurs craintes et qui s'opposent à une approche trop contraignante.",
+        "alliances": [
+          "Hongrie",
+          "Pologne",
+          "Suède"
+        ],
+        "oppositions": [
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates",
+          "Renouveau Européen"
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité migratoire est une utopie qui coûte cher. Il faut privilégier la souveraineté nationale.",
+          "Les contribuables n’ont pas à payer pour une politique migratoire qui ne les concerne pas."
+        ],
+        "références": [
+          "Position des Conservateurs et Réformistes dans la directive 2-3."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Gauche Unitaire",
+        "role_europeen": "Porteur",
+        "position": "Créer un mécanisme de solidarité accrue avec les pays en première ligne.",
+        "enjeux_directive": [
+          "Renforcer la justice sociale et le respect des droits.",
+          "Soutenir les États en première ligne de l’accueil."
+        ],
+        "impacts_directive": [
+          "Le groupe Gauche Unitaire soutient la directive et cherche à la renforcer en y ajoutant un volet financier. L'objectif est de s'assurer que les pays en première ligne reçoivent un soutien financier adéquat."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3H",
+            "origine": "Gauche Unitaire",
+            "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne.",
+            "impact": "L'amendement renforce la dimension solidaire de la directive en se concentrant sur les pays qui subissent une pression migratoire importante."
+          },
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est conforme à la position de la Gauche Unitaire qui prône l'intégration et la justice sociale."
+          }
+        ],
+        "stratégie": "Faire pression pour plus d’équité et de solidarité. La Gauche Unitaire cherchera à s'allier avec les partis qui partagent sa position pour que la directive inclue un volet sur l'aide financière et logistique.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité n'est pas un slogan. Il faut la traduire par des actes concrets et des fonds.",
+          "Les pays en première ligne ont besoin de notre soutien. C’est une question de justice sociale."
+        ],
+        "références": [
+          "Position de la Gauche Unitaire dans la directive 2-3."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "type": "Lobby",
+        "nom": "Big Tech",
+        "role_europeen": "Développer des solutions numériques pour le suivi et l’accueil des migrants.",
+        "enjeux_directive": [
+          "Développement de solutions numériques pour le suivi et l’accueil des migrants.",
+          "Valorisation des données migratoires pour la gestion des politiques publiques."
+        ],
+        "impacts_directive": [
+          "La directive, si elle est adoptée, permettrait à ce lobby de vendre ses technologies et services de suivi, d’accueil et de valorisation des données migratoires, ce qui augmenterait leurs marges et leur compétitivité."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "impact": "L'amendement est une opportunité, car il augmenterait les investissements dans les centres d'accueil aux frontières, ce qui est un marché potentiel pour les solutions technologiques."
+          },
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est une opportunité, car il créerait un fonds pour l'intégration, ce qui est un marché potentiel pour les solutions technologiques."
+          }
+        ],
+        "stratégie": "Le lobby Big Tech cherche à s'allier avec les partis qui prônent l'innovation et l'investissement dans les technologies de gestion migratoire. Il soutient les pays et partis qui défendent les nouvelles technologies et les investissements dans les réseaux intelligents.",
+        "alliances": [
+          "Renouveau Européen",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent aux nouvelles technologies ou qui les taxent lourdement."
+        ],
+        "éléments_d_argumentaire": [
+          "La gestion migratoire est un enjeu complexe. La technologie est la solution pour la rendre plus efficace et plus humaine."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby Big Tech."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Energies Fossiles",
+        "role_europeen": "Influencer pour éviter les réglementations qui impacteraient les coûts de l'énergie.",
+        "enjeux_directive": [
+          "Maintenir la pression politique pour limiter l’arrivée de migrants climatiques.",
+          "Éviter les débats sur la responsabilité environnementale des flux migratoires."
+        ],
+        "impacts_directive": [
+          "Ce lobby craint les débats sur l'impact de l'énergie sur l'environnement, car cela pourrait augmenter la pression politique sur l'industrie. Il cherchera à limiter les débats sur ce sujet et à s'opposer à toute augmentation des dépenses pour la solidarité migratoire."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3B",
+            "origine": "Hongrie",
+            "impact": "L'amendement est favorable à la position des Énergies Fossiles, car il limite les obligations pour les États membres."
+          },
+          {
+            "id": "2-3C",
+            "origine": "Pologne",
+            "impact": "L'amendement est favorable à la position des Énergies Fossiles, car il retarde la mise en place de la directive."
+          }
+        ],
+        "stratégie": "Ce lobby cherche à nouer des alliances avec des États membres et des partis qui partagent leur scepticisme vis-à-vis d'une augmentation des dépenses. Leur objectif est de préserver les budgets et de limiter les contraintes sur leurs activités.",
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "oppositions": [
+          "Verts/ALE",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "Il est nécessaire de protéger l’industrie et la compétitivité de l’Europe. Il ne faut pas s’imposer de nouvelles contraintes financières."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby des Énergies Fossiles."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Banque et Finance",
+        "role_europeen": "Soutenir la structuration financière des dépenses communes.",
+        "enjeux_directive": [
+          "Financer l’intégration par des fonds européens.",
+          "Promouvoir des mécanismes stables de solidarité budgétaire."
+        ],
+        "impacts_directive": [
+          "Ce lobby soutient la directive, car elle ouvre la voie à de nouveaux investissements dans les programmes d'intégration et les mécanismes de solidarité, ce qui est une source de revenus pour lui."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est une opportunité, car il génère de nouveaux besoins de financement."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est une opportunité, car il génère de nouveaux besoins de financement pour la solidarité."
+          }
+        ],
+        "stratégie": "La finance est un allié de la Commission sur cette directive. Elle défend une politique de soutien aux investissements dans les infrastructures d'accueil et d'intégration, car cela crée de nouvelles opportunités de marché. Elle veut aussi un cadre réglementaire stable pour rassurer les investisseurs.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "France"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent aux investissements publics ou qui prônent une finance plus régulée."
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité migratoire nécessite des investissements massifs. La finance est le partenaire naturel de cette transition.",
+          "Un cadre réglementaire clair est essentiel pour mobiliser les investissements privés dans la gestion migratoire."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby de la Banque et Finance."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Agrochimie",
+        "role_europeen": "Utiliser la main-d’œuvre migrante pour soutenir l’agriculture.",
+        "enjeux_directive": [
+          "Utiliser la main-d’œuvre migrante pour soutenir l’agriculture.",
+          "Assurer un accès facilité au travail saisonnier."
+        ],
+        "impacts_directive": [
+          "La directive, en facilitant l'accès à une main-d'œuvre migrante, serait favorable à ce lobby. L'objectif est de garantir un accès facile au travail saisonnier et de soutenir l'agriculture."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3A",
+            "origine": "Italie",
+            "impact": "L'amendement est favorable à ce lobby, car il garantit un flux constant de main-d'œuvre à la frontière."
+          },
+          {
+            "id": "2-3F",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est favorable à ce lobby, car il augmente les quotas de répartition."
+          }
+        ],
+        "stratégie": "Le lobby de l'agrochimie soutient les mesures qui garantissent un accès facile à la main-d'œuvre migrante. Il cherche à s'allier avec les pays et partis qui partagent cette préoccupation.",
+        "alliances": [
+          "Italie",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent à l'utilisation de la main-d'œuvre migrante."
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité alimentaire de l'Europe dépend de la stabilité de l'industrie chimique. Il faut s'assurer que la politique migratoire ne pèse pas sur la compétitivité."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby de l'Agrochimie."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Pharmaceutique",
+        "role_europeen": "Promouvoir la santé publique et l’accès aux soins pour les migrants.",
+        "enjeux_directive": [
+          "Promouvoir la santé publique et l’accès aux soins pour les migrants.",
+          "Développer des programmes européens de santé."
+        ],
+        "impacts_directive": [
+          "La directive, en garantissant l'accès aux soins pour les migrants, serait favorable à ce lobby. L'objectif est de s'assurer que les migrants sont traités avec dignité et respect et de développer des programmes européens de santé."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est favorable, car il renforce l'aspect social de la directive."
+          },
+          {
+            "id": "2-3H",
+            "origine": "Gauche Unitaire",
+            "impact": "L'amendement est favorable, car il renforce la solidarité financière."
+          }
+        ],
+        "stratégie": "Le lobby pharmaceutique défend le principe de la santé publique, car il est essentiel pour son activité. Il s'allie avec les pays qui défendent la résilience et la stabilité. Son argumentaire met en avant la nécessité de protéger la santé des citoyens et de garantir l'accès aux médicaments.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Les partis qui s'opposent aux subventions aux entreprises pharmaceutiques ou qui prônent une régulation trop forte."
+        ],
+        "éléments_d_argumentaire": [
+          "Une Europe qui se veut forte doit d'abord être en mesure de protéger la santé de ses citoyens. Pour cela, il nous faut une politique migratoire sûre et stable."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby pharmaceutique."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Automobile",
+        "role_europeen": "Bénéficier de main-d’œuvre qualifiée issue des migrations.",
+        "enjeux_directive": [
+          "Bénéficier de main-d’œuvre qualifiée issue des migrations.",
+          "Renforcer l’image de responsabilité sociale du secteur."
+        ],
+        "impacts_directive": [
+          "La directive, si elle est bien mise en œuvre, pourrait permettre de sécuriser les approvisionnements en main-d'œuvre qualifiée pour l'industrie automobile et de créer de nouveaux débouchés en développant des véhicules pour la défense."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-3E",
+            "origine": "Socialistes et Démocrates",
+            "impact": "L'amendement est favorable, car il renforce l'aspect social et l'intégration des migrants, ce qui est une opportunité pour ce lobby."
+          },
+          {
+            "id": "2-3G",
+            "origine": "Conservateurs et Réformistes",
+            "impact": "L'amendement est favorable, car il renforce l'intégration et la formation, ce qui est une opportunité pour ce lobby."
+          }
+        ],
+        "stratégie": "Le lobby automobile soutient la transition énergétique et la défense, mais avec un bémol. Il veut s'assurer que les coûts ne soient pas trop élevés pour l'industrie. Il s'allie avec les partis qui défendent l'innovation et la compétitivité.",
+        "alliances": [
+          "Allemagne",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Les partis qui prônent des mesures trop contraignantes sur le secteur automobile ou des taxes trop lourdes."
+        ],
+        "éléments_d_argumentaire": [
+          "La solidarité migratoire est une opportunité pour l'industrie automobile. Nous avons besoin de main-d'œuvre qualifiée pour faire face à la transition énergétique."
+        ],
+        "références": [
+          "Intérêts et alliances du lobby de l'Automobile."
+        ]
+      }
+    ]
+  }
+}

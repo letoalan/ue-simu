@@ -1,0 +1,170 @@
+/* ==========================================================================
+   Sélecteur d'Acteurs & Échelle de Simulation Sandbox (Multi-acteur & Mobile)
+   ========================================================================== */
+
+.sandbox-actor-selector-bar {
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 10px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+@media (min-width: 860px) {
+  .sandbox-actor-selector-bar {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.sandbox-actor-tabs {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.sandbox-actor-tab {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  user-select: none;
+}
+
+.sandbox-actor-tab:hover {
+  color: var(--color-text-main);
+  border-color: var(--color-primary-light);
+  transform: translateY(-1px);
+}
+
+.sandbox-actor-tab.active {
+  background: var(--color-primary);
+  color: #ffffff;
+  border-color: var(--color-primary);
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
+}
+
+.sandbox-entity-selector-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.sandbox-entity-help-text {
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  font-style: italic;
+}
+
+.sandbox-entity-picker-group {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.sandbox-entity-picker-label {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+.sandbox-entity-select {
+  padding: 5px 10px;
+  font-size: 0.82rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  min-width: 180px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.sandbox-entity-actions {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.sandbox-actor-link-btn {
+  font-size: 0.76rem !important;
+  padding: 4px 9px !important;
+  border-radius: var(--radius-sm);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+/* Adaptations Smartphone pour la Modale Sandbox */
+@media (max-width: 640px) {
+  .sandbox-modal-overlay { padding: 6px; }
+  .sandbox-modal-content { max-height: 96vh; border-radius: var(--radius-md); }
+  .sandbox-modal-header { padding: 10px 14px; }
+  .sandbox-modal-title { font-size: 1.05rem; }
+  .sandbox-modal-subtitle { font-size: 0.75rem; }
+  .sandbox-modal-body { padding: 12px 10px; gap: 12px; }
+
+  .sandbox-actor-tabs {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 4px;
+    gap: 4px;
+    width: 100%;
+  }
+
+  .sandbox-actor-tab {
+    padding: 5px 9px;
+    font-size: 0.74rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .sandbox-entity-picker-group {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    gap: 6px;
+  }
+
+  .sandbox-entity-select { width: 100%; min-width: 0; }
+  .sandbox-entity-actions { width: 100%; }
+  .sandbox-entity-actions .sandbox-actor-link-btn {
+    flex: 1;
+    justify-content: center;
+    padding: 6px 4px !important;
+  }
+
+  .sandbox-kpi-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .sandbox-kpi-card { padding: 8px 10px; }
+  .sandbox-kpi-current { font-size: 1.05rem; }
+
+  .sandbox-chart-section { padding: 10px; }
+  .sandbox-chart-header { flex-direction: column; align-items: flex-start; gap: 6px; }
+  .sandbox-chart-wrapper { height: 220px !important; }
+  .sandbox-amendments-section { padding: 10px; }
+  .sandbox-amendments-grid { grid-template-columns: 1fr; max-height: 140px; }
+  .sandbox-modal-footer { padding: 10px 14px; flex-direction: column; gap: 8px; }
+  .sandbox-modal-footer > div { width: 100%; }
+  .sandbox-modal-footer .btn { flex: 1; justify-content: center; padding: 8px 6px; }
+}
+
+@media (max-width: 380px) {
+  .sandbox-kpi-grid { grid-template-columns: 1fr; }
+}

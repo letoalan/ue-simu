@@ -1,0 +1,762 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, en particulier sur les aspects technologiques, numériques et industriels. Axée sur l'innovation numérique, le développement des infrastructures de pointe, la protection des données, et la régulation de l'économie numérique.",
+    "enjeux_directive": [
+      "Fournir des solutions pour l’automatisation intelligente et la robotisation, en particulier dans les secteurs industriels stratégiques tels que l'acier, les semi-conducteurs, ou l'agroalimentaire.",
+      "Consolider la place de la technologie dans la modernisation industrielle européenne, notamment grâce à l'intégration des outils d'intelligence artificielle et d'Internet des Objets (IoT).",
+      "Créer des opportunités de marché pour les services numériques, la cybersécurité, et les plateformes technologiques, en renforçant le cadre réglementaire favorable à l'écosystème numérique.",
+      "Assurer une régulation harmonisée des géants du numérique au niveau européen pour éviter la fragmentation des règles et garantir un marché unique technologique équilibré.",
+      "Promouvoir l'innovation technologique dans les domaines de l'énergie, de la mobilité, et de la santé, en soutenant la transition numérique et écologique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech, notamment sur la régulation des données, la concurrence entre les acteurs technologiques, et l'adaptation des infrastructures à la transition énergétique.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés par les mesures liées à l'innovation, au numérique, à la cybersécurité, et aux normes technologiques européennes."
+    ],
+    "stratégie": "Big Tech adopte une stratégie axée sur la promotion des technologies numériques innovantes, en particulier dans les secteurs industriels stratégiques. L'objectif est de renforcer sa position dominante sur le marché européen tout en s'assurant que les réglementations européennes favorisent l'innovation plutôt qu'elle ne freinent la concurrence. Pour cela, Big Tech s'appuie sur des alliances avec des acteurs politiques et économiques pro-technologie (comme certains partis européens et lobbyistes), tout en opposant ses intérêts à ceux de secteurs traditionnels ou réglementés (comme les énergies fossiles). L'approche consiste également à influencer la directive sur les aspects technologiques, notamment pour obtenir un cadre favorable à l'expansion des infrastructures numériques, la protection des données, et la régulation de l'économie numérique. Big Tech vise ainsi à obtenir une position dominante dans le paysage technologique européen tout en évitant les contraintes excessives qui pourraient limiter son influence ou sa croissance.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (préférence régulation stricte des géants du numérique)",
+      "Agrochimie (soutien aux secteurs traditionnels, opposition à la digitalisation)"
+    ],
+    "éléments_d_argumentaire": [
+      "Big Tech défend l'innovation technologique comme un levier essentiel pour la modernisation industrielle européenne et la compétitivité globale de l'UE.",
+      "Le secteur Big Tech souligne le besoin d'un cadre réglementaire favorable à l'économie numérique, en particulier pour garantir une concurrence équitable entre les géants technologiques et les PME innovantes.",
+      "Big Tech argumente que la transition écologique doit s'appuyer sur des solutions numériques (IA, IoT, etc.) pour atteindre les objectifs climatiques européens de manière efficace et durable.",
+      "L'industrie Big Tech défend l'idée d'une réglementation harmonisée au niveau européen pour éviter la fragmentation du marché technologique et favoriser une économie numérique unifiée.",
+      "Big Tech insiste sur la nécessité d'intégrer les technologies numériques dans les secteurs industriels stratégiques (acier, semi-conducteurs, etc.) pour améliorer l'efficacité énergétique et la productivité.",
+      "Le lobby Big Tech met en avant le rôle central de l'innovation technologique pour stimuler l'économie européenne, notamment dans les domaines de la santé, de la mobilité, et des services numériques.",
+      "Big Tech souligne que l'ouverture à la concurrence mondiale est essentielle pour maintenir une position dominante sur le marché technologique européen face aux concurrents non européens (notamment américains et asiatiques)."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech est généralement opposé à une augmentation de la subvention des usines polluantes, car cela pourrait favoriser des secteurs traditionnels et non durables. Cependant, si les fonds sont conditionnés à l'innovation numérique ou à l'utilisation d'outils technologiques pour réduire l'empreinte écologique (comme l'intelligence artificielle ou la robotisation), Big Tech pourrait être favorable à ce type de subvention.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient l'idée de conditionner les aides aux mesures favorisant la création d'emplois locaux, à condition que ces emplois soient liés au secteur technologique ou numérique. Cela permettrait de stimuler l'économie locale tout en maintenant une dynamique d'innovation.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient l'idée d'inclure un volet de formation pour les travailleurs, en particulier dans le cadre des transitions sectorielles. Cela permettrait de préparer la main-d'œuvre à des métiers liés aux technologies numériques, à l'intelligence artificielle, ou à l'IoT, tout en favorisant l'adaptation du secteur industriel.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient activement ce type d'amendement, car il aligne avec sa stratégie de promouvoir la transition écologique à travers l'innovation technologique. L'utilisation des outils numériques pour optimiser les processus industriels et réduire leur empreinte carbone est un point clé de son argumentaire.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie cette mesure à condition que les secteurs bénéficiaires soient étendus pour inclure non seulement les secteurs traditionnels mais aussi les technologies numériques, comme l'intelligence artificielle ou la cyber-sécurité. Cela permettrait d'assurer une transition technologique équilibrée.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose partiellement à l'idée d'assouplir les critères de décarbonation, car cela pourrait freiner la transition écologique. Cependant, si ces assouplissements sont accompagnés d'une aide technologique (comme des outils numériques ou une formation professionnelle), Big Tech pourrait être favorable.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient ce type d'amendement, car cela permettrait aux entreprises technologiques européennes de mieux se positionner face à la concurrence mondiale. Un mécanisme de soutien temporaire à l'export favoriserait l'expansion du secteur Big Tech au-delà des frontières européennes.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette mesure à condition que la flexibilité nationale soit encadrée pour éviter les inégalités entre les pays membres. Cela permettrait de respecter les spécificités locales tout en maintenant un cadre réglementaire commun au sein de l'UE.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur technologique et réglementations climatiques strictes. Évaluer impact des mesures sur la concurrence mondiale, notamment face aux géants non européens (Amazon, Google). Surveiller positionnement des pays comme la France ou l'Italie sur les investissements numériques.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T09:07:57.609159",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Énergies fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Préserver la compétitivité du secteur énergétique européen face aux pressions climatiques.",
+      "Obtenir des délais plus longs pour la décarbonation des infrastructures (charbon, gaz) afin de ne pas pénaliser les régions économiquement dépendantes des énergies fossiles.",
+      "Promouvoir l'adoption généralisée des technologies de capture et stockage du carbone (CSC) comme solution intermédiaire pour réduire les émissions sans fermer immédiatement les usines.",
+      "Assurer une transition juste en exigeant des compensations financières pour les secteurs industriels et les régions impactés par la décarbonation.",
+      "Soutenir le maintien des exportations d'hydrocarbures vers les pays tiers non signataires de l'accord de Paris, afin de préserver les parts de marché européennes."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Énergies fossiles.",
+      "Les intérêts économiques et stratégiques de Énergies fossiles sont directement concernés par la réduction progressive des subventions aux énergies fossiles."
+    ],
+    "stratégie": "La stratégie du lobby des Énergies Fossiles repose sur une combinaison d'arguments économiques, technologiques et sociaux pour retarder ou atténuer les mesures restrictives liées à la transition énergétique. Il privilégie un dialogue avec les pays producteurs (comme la Pologne et l'Italie) qui dépendent encore fortement des énergies fossiles, tout en cherchant à s'insérer dans le discours écologique via des technologies comme le gaz naturel et la capture de CO₂. Lobbies comme Big Tech ou Automobile sont sollicités pour défendre les infrastructures industrielles existantes, notamment en mettant l'accent sur la nécessité de moderniser les usines plutôt que de les fermer. Le lobby s'appuie également sur des amendements visant à assouplir les critères de décarbonation (comme le 1-6F) et à prolonger les subventions (amendement 1-6A), tout en soulignant l'importance des emplois liés aux énergies fossiles pour les régions périphériques. Il cherche à créer une coalition transversale incluant des partis comme le PPE, qui défendent un modèle de transition progressive, et des lobbies économiques qui craignent la perte d'emplois dans les secteurs industriels.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien transition énergétique progressive vs radicale)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Suède (pro-énergies renouvelables + politiques climatiques strictes)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les énergies fossiles restent indispensables pour assurer la sécurité énergétique européenne, notamment en période de crise géopolitique.",
+      "La transition vers les énergies renouvelables ne peut se faire sans une phase intermédiaire basée sur le gaz naturel et la capture du CO₂ (CSC), qui permettent d'atteindre les objectifs climatiques sans perturber l'économie.",
+      "Les régions économiquement dépendantes des énergies fossiles (comme la Pologne ou certaines zones industrielles en Italie) risquent de subir des chocs sociaux importants si les mesures sont trop rapides et non accompagnées de compensations financières.",
+      "Les investissements dans les technologies de capture du CO₂ doivent être soutenus par des politiques publiques, car leur rentabilité économique dépend d'une assistance étatique significative.",
+      "La directive doit reconnaître la nécessité de moderniser les infrastructures existantes plutôt que de les supprimer, afin de préserver les emplois et l'industrie européenne.",
+      "Les subventions aux énergies fossiles doivent être prolongées pour permettre une transition juste, notamment dans les pays qui dépendent encore fortement de ces ressources (comme la Hongrie ou la Pologne).",
+      "La concurrence internationale exige que l'Union européenne ne pénalise pas ses propres industries en interdisant trop rapidement le charbon ou le gaz naturel, tout en continuant à exporter ces énergies vers des pays tiers."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE",
+        "justification": "Les énergies fossiles soutiennent cet amendement car il permet de maintenir des subventions importantes aux industries pétrolières et gazières, qui sont cruciales pour la transition intermédiaire. Cela favorise également l'adoption des technologies de capture du CO₂ (CSC) dans les usines, ce qui réduit les émissions tout en préservant les emplois liés aux énergies fossiles.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que la création d'emplois locaux soit un objectif légitime, le lobby des énergies fossiles considère qu'imposer cette condition pourrait limiter l'accès aux subventions pour les régions qui ne disposent pas de ressources suffisantes en main-d'œuvre. Cela risquerait de freiner la transition énergétique dans ces zones.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby appuie cet amendement à condition que la formation soit financée par des investissements publics. Cela permettrait de préparer les ouvriers aux métiers du futur, comme ceux liés à l'hydrogène vert ou aux technologies de capture du CO₂.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement est soutenu par le lobby des énergies fossiles, car il permet d'accélérer la recherche et le développement de procédés industriels moins polluants. Cela réduit les coûts associés à l'adoption de la capture du CO₂ (CSC) et favorise une transition plus rapide vers des technologies bas-carbone.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby des énergies fossiles critique cet amendement car il considère que la répartition des subventions selon des critères sectoriels pourrait marginaliser les industries pétrolières et gazières, qui sont essentielles pour assurer la sécurité énergétique européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE",
+        "justification": "Le lobby appuie cet amendement car il permet aux petites et moyennes entreprises (PME) du secteur énergétique de s'adapter plus facilement à la transition. Cela évite un impact négatif sur leur compétitivité tout en encourageant l'adoption progressive des technologies bas-carbone.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby des énergies fossiles soutient cet amendement, car il permettrait de maintenir la compétitivité des exportations européennes d'hydrocarbures vers les pays tiers. Toutefois, cela doit être accompagné de mesures strictes pour éviter une exploitation excessive des ressources et respecter les objectifs climatiques.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE",
+        "justification": "Le lobby soutient cet amendement car il permet à chaque pays de décider en fonction de ses spécificités économiques et sociales. Cela évite les inégalités entre les régions qui dépendent plus ou moins des énergies fossiles.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre régions dépendantes du charbon (Pologne, Hongrie) et objectifs climatiques. Évaluer impact des mesures sur les secteurs industriels (acier, chimie). Équilibrer soutien aux travailleurs et réduction d'émissions.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T09:27:01.552370",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Faciliter l’accès au financement pour les projets industriels, notamment dans les secteurs stratégiques (acier, semi-conducteurs) par le biais de garanties publiques et privées.",
+      "Renforcer les dispositifs de garanties publiques et privées pour atténuer les risques liés aux investissements durables et aux transitions industrielles.",
+      "Soutenir la titrisation verte et les investissements durables en développant des outils financiers innovants adaptés à la transition écologique.",
+      "Protéger la compétitivité du secteur bancaire européen face aux réglementations trop contraignantes, tout en alignant les pratiques sur les objectifs climatiques européens.",
+      "Assurer une coordination entre politiques financières et climatiques pour éviter les distorsions de concurrence internationales."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et finance, notamment en matière d’allocation des subventions et de garanties publiques.",
+      "Les intérêts économiques et stratégiques de Banque et finance sont directement concernés par les mécanismes de soutien aux investissements durables."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "La stratégie du lobby Banque et Finance repose sur une triple approche : d’abord, promouvoir des politiques favorisant l’accès au financement pour les projets industriels, en particulier dans les secteurs stratégiques (acier, semi-conducteurs) par le biais de garanties publiques et privées. Ensuite, défendre la titrisation verte et les investissements durables comme leviers clés pour aligner les pratiques bancaires sur les objectifs climatiques européens. Enfin, influencer les décisions politiques en insistant sur l’importance de renforcer les dispositifs de garanties publiques et privées afin de réduire les risques associés aux investissements dans des projets à forte intensité énergétique ou technologique. Cette stratégie vise à concilier les impératifs environnementaux avec la compétitivité du secteur financier européen, tout en évitant une réglementation trop contraignante qui pourrait pénaliser les acteurs économiques clés.",
+    "alliances": [
+      "France (collaboration sur les garanties publiques et investissements structuraux)",
+      "Italie (soutien à la titrisation verte et relance industrielle)",
+      "Verts/ALE (alignement sur la transition écologique et objectifs climatiques)",
+      "S&D (priorité aux investissements dans les régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques et financement des projets technologiques)",
+      "Automobile (protection des secteurs industriels stratégiques)",
+      "Banque (soutien aux mécanismes de garanties publique et privée)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux mesures de décarbonation)"
+    ],
+    "éléments_d_argumentaire": [
+      "La facilitation d’accès au financement est cruciale pour les projets industriels, en particulier dans des secteurs stratégiques comme l’acier ou le semi-conducteur. Les garanties publiques et privées jouent un rôle clé pour atténuer les risques associés à ces investissements.",
+      "La titrisation verte offre un levier inédit pour mobiliser des capitaux vers des projets durables, ce qui est bénéfique tant pour la transition écologique que pour la stabilité du secteur financier.",
+      "Les garanties publiques doivent être renforcées pour encourager les investissements dans des secteurs à haut risque mais à forte valeur ajoutée, comme l’hydrogène vert ou les énergies renouvelables.",
+      "Le soutien aux secteurs stratégiques (acier, semi-conducteur) est essentiel pour préserver la compétitivité européenne face à des concurrents non réglementés sur le plan environnemental.",
+      "Une flexibilité nationale dans l’allocation des subventions permettra d’adapter les politiques à l’échelle locale, tout en maintenant une cohérence européenne globale.",
+      "Un mécanisme de soutien temporaire à l’export est nécessaire pour compenser les distorsions de concurrence liées aux politiques climatiques européennes, sans pénaliser les entreprises exportatrices.",
+      "L’inclusion d’un volet formation pour les travailleurs permettra de préparer la transition industrielle, en veillant à ne pas marginaliser des catégories professionnelles importantes.",
+      "La conditionnalité des aides aux créations d’emplois locaux doit être équilibrée avec la flexibilité nécessaire pour éviter une surcharge administrative."
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre secteurs bancaires et industriels, notamment en matière de financement des projets à forte intensité énergétique. Évaluer régulièrement l’impact des mesures sur la compétitivité du secteur européen face aux marchés non réglementés (États-Unis, Chine). Surveiller les risques d’un déséquilibre entre financement vert et soutien aux secteurs stratégiques. Recommander une coordination étroite avec les ministères de l’industrie pour éviter les distorsions.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T09:44:57.431529",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE",
+        "justification": "L’augmentation de la subvention à 40% permettrait d’accélérer l’innovation technologique dans des secteurs clés, comme le métallurgie ou la chimie, tout en garantissant un financement suffisant pour les projets de décarbonation. Cela favoriserait une transition industrielle plus rapide sans pénaliser les acteurs économiques stratégiques.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que l’objectif de créer des emplois locaux soit louable, cette condition pourrait limiter la flexibilité nécessaire pour orienter les investissements vers des régions ou secteurs plus dynamiques. Une approche équilibrée entre création d’emplois et attractivité territoriale est essentielle.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un volet formation est indispensable pour accompagner la transition industrielle, mais il doit être financé de manière équilibrée et non dépendre uniquement des ressources publiques. Une collaboration entre secteurs privés et publics est nécessaire.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement aligne parfaitement sur les objectifs du lobby, en favorisant la recherche et le développement de technologies vertes. Il renforce également la position européenne comme leader technologique dans des secteurs stratégiques.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE",
+        "justification": "La réservation des subventions à ces secteurs est cruciale pour préserver la compétitivité européenne face à la concurrence internationale. Cela permet de maintenir une base industrielle solide tout en respectant les objectifs climatiques.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si l’assouplissement des critères favorise la survie des PME, il doit être accompagné d’outils de suivi et d’aides ciblées. Une approche trop laxiste pourrait freiner la transition écologique globale.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un soutien temporaire à l’export est pertinent pour compenser les distorsions de concurrence liées aux politiques climatiques européennes. Cependant, il doit être bien encadré pour éviter une dépendance excessive aux subventions.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE",
+        "justification": "La flexibilité nationale est nécessaire pour adapter les politiques aux réalités locales, tout en maintenant une cohérence européenne. Elle permet de mieux cibler les besoins spécifiques de chaque pays sans compromettre l’objectif global.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Bénéficier d’aides pour la relocalisation de la production de principes actifs.",
+      "Promouvoir les biotechnologies industrielles durables.",
+      "Accélérer l’innovation dans la fabrication automatisée des médicaments.",
+      "Assurer un cadre réglementaire favorable à la R&D pharmaceutique européenne.",
+      "Éviter toute harmonisation excessive des normes qui pourrait nuire à la compétitivité du secteur."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés.",
+      "Une possible réglementation stricte sur les déchets industriels pourrait augmenter les coûts opérationnels."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une approche tripartite : (1) renforcer son influence sur les amendements liés aux subventions sectorielles, en argumentant que la relocalisation de la production européenne est essentielle pour l'autosuffisance sanitaire ; (2) promouvoir des mesures favorables à l'innovation technologique et à l'économie circulaire (ex. : recyclage des déchets chimiques), en s'appuyant sur les positions pro-innovation du PPE et de S&D ; (3) contrer les amendements qui pourraient limiter la flexibilité réglementaire, notamment via un lobbying ciblé auprès des États membres comme l'Italie et la France. Le lobby insiste également sur la nécessité d'assurer un financement européen spécifique pour les PME pharmaceutiques, en s'appuyant sur le soutien de la S&D et du Renouveau Européen.",
+    "alliances": [
+      "France (soutien à la relocalisation industrielle et aux subventions sectorielles)",
+      "Italie (partage des priorités pour l'innovation pharmaceutique européenne)",
+      "PPE (favorise les mesures pro-innovation et d'investissements structuraux)",
+      "S&D (soutien aux dispositifs de financement pour les PME et PMI du secteur)",
+      "Big Pharma (lobbies sectoriels défendant les intérêts économiques du secteur)",
+      "Agrochimie (collaboration sur les innovations en chimie verte appliquée à la pharmacie)"
+    ],
+    "oppositions": [
+      "Poland (soutien aux industries fossiles et opposé à toute réglementation stricte sur les déchets industriels)",
+      "Conservateurs (préfèrent une transition énergétique progressive, risquant de limiter les subventions sectorielles)",
+      "Énergies fossiles (défendent un cadre réglementaire plus flexible pour les industries polluantes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La relocalisation des usines européennes de production pharmaceutique est cruciale pour garantir la sécurité sanitaire face aux crises géopolitiques.",
+      "Les subventions sectorielles doivent être alignées avec les objectifs de la stratégie européenne « Europe 2020 » et des normes climatiques.",
+      "L'innovation en chimie verte (ex. : déchets pharmaceutiques recyclables) doit être encouragée via des financements ciblés.",
+      "La réglementation sur les déchets industriels ne doit pas pénaliser les PME pharmaceutiques, mais favoriser l'adoption de technologies propres.",
+      "Le secteur pharmaceutique européen doit conserver sa capacité de R&D indépendante pour éviter une dépendance excessive à des acteurs non européens (ex. : Chine).",
+      "Les mesures d'export doivent privilégier les marchés en développement, sans compromettre la qualité des produits pharmaceutiques.",
+      "La formation continue du personnel industriel est essentielle pour l'adoption réussie des nouvelles technologies de fabrication automatisée."
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la S&D et le PPE sur les priorités d'investissement. Évaluer l'impact des restrictions réglementaires sur les PME pharmaceutiques en région Sud de l'UE (Italie, France). Surveiller les pressions des énergies fossiles pour débloquer des subventions non conditionnées.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T10:01:29.257521",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby pharmaceutique s'oppose partiellement à cette mesure, car elle pourrait inciter des investissements dans des secteurs polluants (ex. : chimie classique) au détriment de la recherche en biotechnologie verte. Cependant, il reste ouvert à une révision des critères d'éligibilité pour inclure les usines pharmaceutiques relocalisées.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby soutient cet amendement sous réserve que les critères d'emploi soient adaptés aux spécificités du secteur pharmaceutique (ex. : formation de personnel qualifié). Cela favoriserait la relocalisation des usines tout en garantissant l'employabilité des travailleurs.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "Le lobby pharmaceutique appuie fermement cet amendement, car la transition vers des technologies automatisées nécessite une formation continue du personnel. Cela renforcerait la compétitivité européenne du secteur et réduirait les risques de chômage structurel.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Le lobby soutient activement cet amendement, car il aligne avec ses objectifs de développement durable. Cela permettrait d'encourager la recherche sur l'utilisation d'énergies renouvelables dans les usines pharmaceutiques.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby pharmaceutique s'oppose à cette mesure, car elle exclurait le secteur pharmaceutique des aides européennes. Il défend un financement ciblé pour les industries stratégiques de santé (ex. : biopharmaceutique).",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby appuie cet amendement, à condition que les PME pharmaceutiques bénéficient d'un accès prioritaire aux subventions. Cela permettrait de réduire la charge réglementaire sur des entreprises fragiles.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "Le lobby pharmaceutique soutient cet amendement, car il favoriserait la compétitivité des produits européens sur les marchés en développement. Cela renforcerait la position du secteur face aux acteurs non européens.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby appuie cet amendement, à condition que la flexibilité ne pénalise pas les pays européens en déclin industriel. Il défend une répartition équitable des aides entre les régions européennes.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Soutenir la modernisation des chaînes de production d’engrais et de produits phytosanitaires.",
+      "Encourager la R&D dans les alternatives écologiques.",
+      "Préserver la compétitivité du secteur agricole européen.",
+      "Promouvoir une réglementation équilibrée entre sécurité alimentaire et protection environnementale.",
+      "Faciliter l'accès aux marchés internationaux pour les produits agrochimiques européens.",
+      "Assurer une coopération transfrontalière avec les secteurs agricoles et industriels."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie de défense proactive des intérêts du secteur agroalimentaire et chimique européen, en combinant lobbying ciblé auprès des institutions européennes, collaboration avec les acteurs économiques clés (secteur agricole, industriels), et promotion de politiques favorables à la R&D durable. Le lobby insiste sur la nécessité d’équilibrer les exigences environnementales et les impératifs économiques, en développant des arguments qui mettent en avant le rôle stratégique du secteur dans l'agriculture européenne. Il s'appuie également sur des partenariats avec des acteurs politiques et industriels pour contrer les mesures réglementaires trop contraignantes ou les subventions allouées à d'autres secteurs.",
+    "alliances": [
+      "France (collaboration pour l’innovation en agrochimie durable)",
+      "Italie (partage des objectifs de modernisation industrielle et de recherche)",
+      "Verts/ALE (soutien aux initiatives de R&D écologique dans la filière agricole)",
+      "S&D (priorité aux investissements dans les régions rurales dépendantes du secteur agroalimentaire)",
+      "Big Tech (partage des ambitions technologiques et numériques pour l’agriculture intelligente)",
+      "Automobile (développement de synergies entre industries chimiques et automobiles dans la transition énergétique)",
+      "Banque (soutien aux investissements structuraux dans les filières agrochimiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à des mesures réglementaires strictes sur les polluants industriels)",
+      "Conservateurs (préférence pour une transition énergétique plus progressive et moins coûteuse pour le secteur)",
+      "Énergies fossiles (défense des intérêts de la filière pétrolière face aux subventions allouées à l’agriculture)"
+    ],
+    "éléments_d_argumentaire": [
+      "Agrochimie défend une réglementation équilibrée qui ne pénalise pas les producteurs agricoles européens, tout en respectant des normes environnementales.",
+      "Le lobby insiste sur l’importance de la R&D dans les alternatives écologiques pour maintenir la compétitivité du secteur européen face aux importations non réglementées.",
+      "Agrochimie argumente que le développement d’innovations technologiques (comme les engrais à faible impact environnemental) doit être soutenu par des subventions ciblées.",
+      "Le lobby souligne l’importance de la coopération transfrontalière pour renforcer la sécurité alimentaire européenne et réduire la dépendance aux importations étrangères.",
+      "Agrochimie met en avant le besoin d’un soutien financier significatif pour accompagner les transformations industrielles vers des pratiques plus durables, sans compromettre la rentabilité des entreprises.",
+      "Le lobby insiste sur l’importance de protéger les investissements européens dans les filières agrochimiques contre les subventions allouées à d’autres secteurs industriels."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie oppose ce soutien aux usines polluantes, car cela pourrait renforcer des pratiques industrielles non durables. Cependant, le lobby suggère un financement ciblé pour les entreprises qui investissent dans la transition écologique.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient le principe de conditionnalité des subventions, mais souligne l'importance d'éviter une discrimination entre les régions rurales et urbaines. Les emplois locaux doivent être associés à des projets durables.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie appuie cette mesure, car elle permet de préparer les travailleurs aux transformations technologiques et environnementales du secteur. Une formation ciblée est essentielle pour garantir la compétitivité européenne.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie s'engage pleinement pour la promotion de ces innovations, qui renforcent la position du secteur européen sur le marché mondial. Une subvention ciblée est nécessaire pour accélérer leur développement.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cette réservation, car elle pourrait marginaliser le secteur agrochimique dans l'allocation des aides. Les subventions doivent être accessibles aux filières économiquement importantes comme l'agriculture.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient l'idée d'assouplissements, à condition que cela ne compromette pas la conformité aux normes environnementales. Une transition progressive est nécessaire pour les PME.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie appuie cette mesure, car elle renforce la position des entreprises européennes sur les marchés internationaux. Un soutien transitoire est crucial pour compenser les coûts de transition écologique.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie apprécie cette flexibilité, mais insiste sur la nécessité d’un cadre européen harmonisé pour éviter les distorsions de concurrence entre les États membres.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre régions agricoles et industriels sur l’allocation des subventions. Évaluer impact de l'opposition à la directive sur la compétitivité du secteur européen face aux importations non réglementées. Coordonner avec les partis Verts/ALE pour éviter un encadrement trop strict.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T10:37:35.195811",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile européen (constructeurs, fournisseurs, distributeurs), avec un focus sur la transition vers les véhicules électriques, la protection des emplois industriels et l'équilibre entre réglementation climatique et compétitivité. Influence la législation via des alliances stratégiques et des négociations sectorielles.",
+    "enjeux_directive": [
+      "Subventionner la transition vers les véhicules électriques tout en protégeant l'industrie traditionnelle",
+      "Accélérer l'innovation technologique (batteries, recyclage) sans pénaliser la compétitivité européenne",
+      "Maintenir le leadership industriel européen face à la concurrence asiatique et nord-américaine",
+      "Garantir des subventions pour les PME du secteur automobile tout en respectant les objectifs climatiques",
+      "Intégrer des mesures de formation professionnelle pour les travailleurs affectés par la transition écologique",
+      "Assurer une flexibilité nationale dans l'application des règles de décarbonation"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences majeures sur le secteur automobile, notamment en matière d'innovation technologique et de financement des transitions",
+      "Les intérêts économiques et stratégiques du lobby Automobile sont directement concernés par les mesures de soutien à l'industrie verte",
+      "La directive pourrait renforcer la position européenne dans le marché mondial des véhicules électriques, sous réserve de subventions suffisantes"
+    ],
+    "stratégie": "Le lobby Automobile adopte une stratégie de négociation progressive et multilatérale. Il privilégie l'approche de coalition avec les pays industriels majeurs (France, Allemagne) pour défendre des subventions sectorielles adaptées à la transition écologique. Il s'appuie sur une alliance stratégique avec les partis sociaux-démocrates et le parti populaire européen pour promouvoir un cadre réglementaire équilibré entre ambitions climatiques et préservation de l'emploi. Parallèlement, il engage des dialogues sectoriels avec les lobby Big Tech et Banque pour renforcer la chaîne de valeur européenne dans les technologies vertes (batteries, infrastructures de recharge). En opposition, il mobilise ses forces contre les positions radicales des Verts/ALE sur le moratoire du charbon et celles des Conservateurs sur une transition trop lente. La stratégie vise à créer un consensus large autour d'un modèle européen de transition automobile durable, tout en protégeant les intérêts industriels traditionnels.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (préférence soutien à l'industrie lourde traditionnelle)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les subventions pour les usines polluantes permettent de financer la transition écologique tout en maintenant l'emploi dans les régions industrielles dépendantes du secteur automobile (ex: Alsace, Rhin-Rhône)",
+      "La conditionnalité des aides à la création d’emplois locaux renforce la cohésion sociale et favorise une transition juste",
+      "Le volet formation pour les travailleurs garantit un transfert de compétences vers les métiers du futur (électrification, robotisation)",
+      "L'innovation dans les procédés industriels bas carbone est cruciale pour maintenir la compétitivité européenne face à l'industrie chinoise",
+      "La réservation des subventions aux secteurs stratégiques (acier, semi-conducteurs) sert de levier technologique pour le secteur automobile européen",
+      "L'assouplissement des critères de décarbonation pour les PME industrielles permet de ne pas pénaliser les entreprises plus petites mais tout aussi essentielles à la chaîne de valeur européenne",
+      "Le mécanisme de soutien temporaire à l’export renforce la capacité du secteur automobile européen à concurrencer les marchés internationaux, en particulier en Amérique du Nord et en Asie",
+      "La flexibilité nationale dans l'allocation des subventions permet d'adapter les politiques sectorielles aux spécificités géographiques et économiques de chaque pays membre"
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-6A",
+        "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+        "position": "FAVORABLE",
+        "justification": "L'augmentation de la subvention permettra d'accélérer l'investissement dans les technologies vertes (batteries, électrification) tout en protégeant les emplois industriels des régions dépendantes du secteur automobile. Cela renforce la compétitivité européenne face aux marchés asiatiques et nord-américains.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+      },
+      {
+        "amendement": "1-6B",
+        "titre": "Conditionner les aides à la création d’emplois locaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure permettrait de garantir que les subventions servent à créer des emplois dans les régions touchées par la transition écologique, tout en évitant une délocalisation des activités vers d'autres pays européens moins réglementés. Cependant, il faut s'assurer qu'elle ne pénalise pas les PME.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la création d’emplois locaux"
+      },
+      {
+        "amendement": "1-6C",
+        "titre": "Inclure un volet formation pour les travailleurs",
+        "position": "FAVORABLE",
+        "justification": "La transition vers l'électrification et l'automatisation nécessite une réorientation des compétences des travailleurs. Un volet formation permettra de garantir une transition juste, en particulier dans les régions industrielles comme la Rhénanie ou le bassin parisien.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet formation pour les travailleurs"
+      },
+      {
+        "amendement": "1-6D",
+        "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure renforce la position européenne dans les technologies vertes (batteries, recyclage), essentielles pour le secteur automobile. Elle permet d'assurer une avance technologique face aux concurrents asiatiques et nord-américains.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+      },
+      {
+        "amendement": "1-6E",
+        "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette approche favorise la chaîne de valeur européenne dans les matériaux critiques pour l'industrie automobile. Cependant, il faut éviter un sur-accord sur les secteurs non stratégiques pour ne pas pénaliser les PME.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+      },
+      {
+        "amendement": "1-6F",
+        "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+        "position": "FAVORABLE",
+        "justification": "Les PME jouent un rôle essentiel dans la chaîne de valeur automobile européenne. Un assouplissement des critères leur permettra d'investir progressivement sans pénalisation immédiate, tout en alignant sur les objectifs climatiques.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+      },
+      {
+        "amendement": "1-6G",
+        "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+        "position": "FAVORABLE",
+        "justification": "Ce dispositif renforce la capacité du secteur automobile européen à concurrencer les marchés internationaux, en particulier aux États-Unis et en Chine. Il permet de compenser les coûts supplémentaires liés à la transition écologique.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Inclure un mécanisme de soutien temporaire à l’export"
+      },
+      {
+        "amendement": "1-6H",
+        "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La flexibilité nationale permet d'adapter les politiques sectorielles aux spécificités géographiques et économiques de chaque pays membre. Cependant, il faut s'assurer que cela ne crée pas des disparités trop importantes au sein de l'UE.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+      }
+    ],
+    "références": [
+      "s1d6.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la transition industrielle et la préservation des emplois dans les régions industrielles (ex: Rhin-Rhône, Alsace). Évaluer l'impact de la concurrence asiatique sur les PME européennes. Recommander un suivi régulier des négociations entre le lobby Automobile et les partis sociaux-démocrates pour garantir une transition juste.",
+    "scenario_id": 1,
+    "directive_id": 6,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-27T10:19:17.861515",
+    "version": "4.7"
+  }
+]

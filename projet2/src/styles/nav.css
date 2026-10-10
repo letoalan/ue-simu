@@ -1,0 +1,171 @@
+/* Navigation (Desktop & Mobile) */
+.desktop-nav {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .desktop-nav {
+    display: flex;
+    gap: 6px;
+  }
+}
+
+.nav-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: var(--radius-md);
+  border: none;
+  background: transparent;
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.15s ease-in-out;
+}
+
+.nav-btn:hover {
+  background: var(--color-surface-hover);
+  color: var(--color-text-main);
+}
+
+.nav-btn.active {
+  background: var(--color-primary);
+  color: #ffffff;
+}
+
+/* Style distinctif pour l'onglet Simulateur */
+.nav-btn.nav-btn-simulator {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  color: #92400e;
+  border: 1px solid #f59e0b;
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(245, 158, 11, 0.2);
+  margin-left: 2px;
+}
+
+.nav-btn.nav-btn-simulator:hover {
+  background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+  color: #78350f;
+  border-color: #d97706;
+  box-shadow: 0 2px 6px rgba(245, 158, 11, 0.3);
+  transform: translateY(-1px);
+}
+
+.nav-btn.nav-btn-simulator.active {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: #ffffff;
+  border-color: #b45309;
+  box-shadow: 0 3px 10px rgba(217, 119, 6, 0.4);
+}
+
+/* Mobile Bottom Navigation Bar */
+.mobile-nav {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: calc(62px + env(safe-area-inset-bottom, 0px));
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 50;
+  box-shadow: var(--shadow-md);
+  transition: background-color var(--transition-normal), border-color var(--transition-normal);
+}
+
+@media (min-width: 768px) {
+  .mobile-nav {
+    display: none;
+  }
+}
+
+.mobile-nav-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 100%;
+  min-height: 48px;
+  background: transparent;
+  border: none;
+  color: var(--color-text-muted);
+  font-size: 0.72rem;
+  font-weight: 600;
+  gap: 3px;
+  cursor: pointer;
+  transition: color var(--transition-fast), background-color var(--transition-fast);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.mobile-nav-btn.active {
+  color: var(--color-primary);
+}
+
+.mobile-nav-btn.mobile-nav-btn-simulator {
+  color: #b45309;
+  font-weight: 700;
+  background: #fffdf5;
+  border-top: 2px solid #f59e0b;
+}
+
+.mobile-nav-btn.mobile-nav-btn-simulator.active {
+  color: #92400e;
+  background: #fef3c7;
+  border-top: 3px solid #d97706;
+}
+
+[data-theme="dark"] .mobile-nav-btn.mobile-nav-btn-simulator {
+  color: #fbbf24;
+  background: rgba(245, 158, 11, 0.08);
+  border-top: 2px solid #f59e0b;
+}
+
+[data-theme="dark"] .mobile-nav-btn.mobile-nav-btn-simulator.active {
+  color: #fde68a;
+  background: rgba(245, 158, 11, 0.2);
+  border-top: 3px solid #fbbf24;
+}
+
+.mobile-nav-btn.mobile-nav-btn-simulator .mobile-nav-icon {
+  filter: drop-shadow(0 1px 2px rgba(245, 158, 11, 0.4));
+}
+
+.mobile-nav-icon {
+  font-size: 1.25rem;
+}
+
+.nav-btn-locked {
+  opacity: 0.75;
+}
+
+.mobile-nav-btn.locked {
+  opacity: 0.7;
+}
+
+/* Dark mode overrides pour le bouton simulateur desktop */
+[data-theme="dark"] .nav-btn.nav-btn-simulator {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(217, 119, 6, 0.22) 100%);
+  color: #fbbf24;
+  border: 1px solid rgba(245, 158, 11, 0.45);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme="dark"] .nav-btn.nav-btn-simulator:hover {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.25) 0%, rgba(217, 119, 6, 0.35) 100%);
+  color: #fde68a;
+  border-color: #f59e0b;
+  box-shadow: 0 2px 8px rgba(245, 158, 11, 0.35);
+}
+
+[data-theme="dark"] .nav-btn.nav-btn-simulator.active {
+  background: linear-gradient(135deg, #d97706 0%, #b45309 100%);
+  color: #ffffff;
+  border-color: #f59e0b;
+  box-shadow: 0 3px 12px rgba(245, 158, 11, 0.4);
+}

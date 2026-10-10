@@ -1,0 +1,160 @@
+{
+  "directive": {
+    "id": "2-1",
+    "title": "Initiative sécurité énergétique",
+    "description": "Stock stratégique de gaz (90 jours). Diversification des sources d'approvisionnement (Afrique, Norvège, etc.). Réduire la dépendance au gaz russe à 10% et renforcer la sécurité énergétique de l'Union.",
+    "commission": {
+      "role": "Garantir la sécurité énergétique de l'Union européenne en diversifiant les sources d'approvisionnement et en instaurant des stocks stratégiques de gaz.",
+      "enjeux": [
+        "Renforcer l'indépendance énergétique de l'UE.",
+        "Réduire la vulnérabilité face aux crises internationales.",
+        "Assurer la stabilité des approvisionnements pour les citoyens et l'industrie.",
+        "S'inscrire dans la stratégie européenne de transition énergétique et de résilience."
+      ]
+    },
+    "countries": [
+      {
+        "name": "Allemagne",
+        "role": "Porteur Fort",
+        "position": "Soutient activement la diversification pour réduire sa dépendance historique au gaz russe.",
+        "enjeux": [
+          "Sécuriser ses approvisionnements industriels critiques.",
+          "Maintenir la compétitivité de son économie exportatrice."
+        ]
+      },
+      {
+        "name": "France",
+        "role": "Porteur",
+        "position": "Favorable à la diversification tout en préservant ses intérêts dans le secteur énergétique.",
+        "enjeux": [
+          "Renforcer sa position de hub énergétique européen.",
+          "Protéger ses champions énergétiques nationaux."
+        ]
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur Partiel",
+        "position": "Demande des exemptions pour certains États membres des obligations de stockage.",
+        "enjeux": [
+          "Adapter les obligations à ses contraintes budgétaires.",
+          "Préserver sa flexibilité dans les choix énergétiques."
+        ]
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur Conditionnel",
+        "position": "Soutient prioritairement les infrastructures gazières existantes plutôt que de nouveaux investissements.",
+        "enjeux": [
+          "Valoriser ses infrastructures gazières nationales.",
+          "Maintenir son rôle de corridor énergétique vers l'Est."
+        ]
+      },
+      {
+        "name": "Hongrie",
+        "role": "Opposant Modéré",
+        "position": "Demande de limiter le stock stratégique à 60 jours pour réduire les coûts.",
+        "enjeux": [
+          "Limiter l'impact budgétaire sur ses finances publiques.",
+          "Conserver une marge de manœuvre énergétique."
+        ]
+      },
+      {
+        "name": "Suède",
+        "role": "Soutien Conditionnel",
+        "position": "Prône le report de l'application de la directive de deux ans pour une mise en œuvre progressive.",
+        "enjeux": [
+          "Permettre une adaptation ordonnée de ses infrastructures.",
+          "Garantir l'efficacité à long terme du dispositif."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "position": "Propose de porter le stock stratégique à 120 jours pour renforcer la sécurité.",
+        "enjeux": [
+          "Maximiser la résilience énergétique européenne.",
+          "Répondre aux attentes des entreprises sur la stabilité des prix."
+        ]
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "position": "Prône l'accélération des investissements dans les interconnexions énergétiques.",
+        "enjeux": [
+          "Garantir la solidarité énergétique entre États membres.",
+          "Soutenir les investissements publics dans les infrastructures."
+        ]
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "position": "Demande d'inclure un volet hydrogène dans la stratégie énergétique.",
+        "enjeux": [
+          "Accélérer la transition vers les énergies vertes.",
+          "Positionner l'Europe en leader de l'hydrogène."
+        ]
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur Conditionnel",
+        "position": "Conditionne les aides à la réduction de la consommation de gaz.",
+        "enjeux": [
+          "Éviter de créer une dépendance permanente au gaz.",
+          "Accélérer la transition énergétique vers les renouvelables."
+        ]
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Opposant Modéré",
+        "position": "Prudence sur les coûts budgétaires et défense de la souveraineté nationale énergétique.",
+        "enjeux": [
+          "Limiter les contraintes supranationales sur les choix énergétiques.",
+          "Préserver la flexibilité des politiques nationales."
+        ]
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Opposant",
+        "position": "S'oppose aux investissements gaziers et prône une transition immédiate vers les renouvelables.",
+        "enjeux": [
+          "Éviter de prolonger la dépendance aux énergies fossiles.",
+          "Orienter les investissements vers les énergies propres."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": ["Soutenir les technologies de stockage et de gestion intelligente de l'énergie.",""],
+        "alliances": ["Renouveau Européen", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": ["Maintenir un rôle central du gaz naturel dans le mix énergétique européen.",""],
+        "alliances": ["Conservateurs et Réformistes", "Hongrie", "Pologne"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": ["Financer les infrastructures de stockage et les projets de diversification.",""],
+        "alliances": ["PPE", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": ["Garantir la stabilité des prix énergétiques pour l'industrie chimique.",""],
+        "alliances": ["Allemagne", "PPE", "Pologne"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": ["Sécuriser l'approvisionnement énergétique des sites de production critiques.",""],
+        "alliances": ["Allemagne", "France", "PPE"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": ["Soutenir la transition énergétique tout en préservant la compétitivité industrielle.",""],
+        "alliances": ["Allemagne", "Renouveau Européen", "Socialistes et Démocrates"]
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+# stats2d8
+
+Source : `directives/fiches-acteurs/s2/d8/stats2d8.json`
+
+## Contenu
+
+- **scenario** : `2`
+- **directive** : `8`
+- **nom** : Souveraineté numérique et cybersécurité
+- **valeurs\_prevues** :
+  - **normandie\_eu** : `86`
+  - **vdem\_eu** : `0.88`
+  - **pib\_growth\_eu** : `1.7`
+  - **idh\_eu** : `0.93`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 2-8A
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.89`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.94`
+  - **Élément 2** :
+    - **id** : 2-8B
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.89`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.94`
+  - **Élément 3** :
+    - **id** : 2-8C
+    - **origine** : Gauche Unitaire
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.94`
+  - **Élément 4** :
+    - **id** : 2-8D
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.89`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.95`
+  - **Élément 5** :
+    - **id** : 2-8E
+    - **origine** : Italie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.93`
+  - **Élément 6** :
+    - **id** : 2-8F
+    - **origine** : Allemagne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+  - **Élément 7** :
+    - **id** : 2-8G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+  - **Élément 8** :
+    - **id** : 2-8H
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.9`
+      - **idh\_eu** : `0.93`

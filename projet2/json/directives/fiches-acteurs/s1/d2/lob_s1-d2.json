@@ -1,0 +1,754 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne. Privilégie une réglementation équilibrée entre innovation technologique, protection des données, et croissance économique numérique. Soutient des initiatives favorisant l'interconnectivité européenne des infrastructures numériques et l'internationalisation de ses actifs.",
+    "enjeux_directive": [
+      "Influencer la réglementation sur l’éthique IA et la gestion des données.",
+      "Promouvoir un accès contrôlé mais suffisamment libre aux données.",
+      "Penser la cybersécurité intégrée dans les infrastructures numériques.",
+      "Défendre une fiscalité numérique harmonisée mais non punitive pour le secteur.",
+      "Assurer un cadre réglementaire favorable à l'innovation technologique tout en garantissant la protection des consommateurs.",
+      "Soutenir les initiatives de collaboration transnationale entre acteurs du numérique et des secteurs stratégiques (énergie, transport, santé)."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés par la définition d'une réglementation digitale harmonisée à l'échelle européenne.",
+      "L'harmonisation des règles sur la protection des données pourrait renforcer la position du secteur face aux concurrences internationales."
+    ],
+    "stratégie": "Big Tech adopte une stratégie de négociation multifacette visant à s'assurer d'une réglementation européenne qui favorise l'innovation technologique tout en répondant aux attentes des autorités publiques sur la protection des données, la cybersécurité et la responsabilité des algorithmes. Cette stratégie se décline en trois axes : 1) Mener des campagnes de lobbying ciblées auprès des États membres et des institutions européennes pour promouvoir une approche équilibrée ; 2) Collaborer avec des acteurs clés (partis, lobbies, pays) partageant ses priorités sur les infrastructures numériques et la cybersécurité ; 3) Opposer fermement les amendements qui risquent d'encadrer de manière excessive ou incohérente le secteur. L'objectif est d'obtenir une réglementation qui permette à Big Tech de continuer à innover, tout en répondant aux attentes des citoyens et des États sur la protection des données et l'éthique numérique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux secteurs de l'innovation et du numérique)",
+      "Verts/ALE (soutien à la transition écologique et à la cybersécurité)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Automobile (protection des secteurs industriels stratégiques)",
+      "Banque (soutien aux investissements structuraux en énergie et innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Promouvoir l'innovation technologique et la croissance économique européenne, en particulier dans les secteurs numériques stratégiques.",
+      "Assurer un cadre réglementaire qui permette aux entreprises du numérique de rester compétitives sur le marché mondial tout en respectant les normes européennes.",
+      "Développer des infrastructures numériques robustes et sécurisées, en collaboration avec d'autres secteurs (énergie, transport, santé) pour accélérer la transition écologique.",
+      "Protéger les données personnelles tout en évitant une réglementation trop restrictive qui pourrait nuire à l'innovation et à la liberté des utilisateurs.",
+      "Soutenir les start-ups européennes via un environnement réglementaire favorable aux startups, en particulier dans les domaines de l'intelligence artificielle, de la cybersécurité et des énergies renouvelables.",
+      "Encourager une coopération transnationale entre acteurs du numérique et d'autres secteurs clés (comme l'automobile) pour aligner les politiques industrielles sur les objectifs climatiques européens.",
+      "Développer un modèle de régulation qui favorise la confiance des citoyens envers les technologies numériques, tout en évitant une surveillance excessive ou intrusive.",
+      "Assurer une harmonisation des règles fiscales numériques à l'échelle européenne pour éviter la fuite des entreprises vers des juridictions moins réglementées."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cet amendement car il aligne les règles européennes sur la protection des données avec les standards internationaux, tout en permettant aux entreprises de numériques d'innover dans des secteurs comme l'intelligence artificielle. Cela renforce la confiance des utilisateurs et favorise une approche équilibrée entre sécurité et liberté numérique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose à une taxation excessive des géants du numérique, qui pourrait pénaliser les entreprises innovantes. Cependant, il est prêt à accepter un cadre fiscal harmonisé qui permette de répartir équitablement la charge fiscale entre tous les acteurs du secteur, y compris les start-ups.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie fermement cet amendement, car il favorise la croissance des startups européennes et renforce la compétitivité du secteur numérique à l'échelle mondiale. Une réglementation favorable aux start-ups stimule l'innovation et l'emploi dans les pays membres.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition qu'il ne limite pas l'efficacité des mesures de sécurité cybersécurité. Une réglementation trop stricte pourrait nuire à la capacité des entreprises du numérique à protéger les données sensibles et à prévenir les cyberattaques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie une harmonisation de la fiscalité numérique, mais souligne l'importance d'éviter un système trop complexe ou coûteux pour les petites entreprises. Une réglementation bien conçue permettra à toutes les entreprises du secteur d'être équitables et compétitives.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cet amendement car il pourrait créer un double standard entre les services du secteur numérique et d'autres secteurs essentiels. Une exclusion des services numériques de la régulation risquerait de nuire à l'équité et à la cohérence des règles européennes.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie cet amendement car il renforce les mesures de protection des infrastructures numériques critiques, comme l'énergie, le transport et la santé. Une cybersécurité robuste est essentielle pour prévenir les cyberattaques et protéger les données sensibles.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose à une limitation excessive de l'accès aux données personnelles, car cela pourrait entraver l'innovation technologique. Cependant, il accepte des restrictions raisonnables qui permettent d'équilibrer la protection des utilisateurs et le développement des services numériques.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les acteurs du secteur numérique et ceux des énergies fossiles, en particulier les positions opposées sur la transition écologique. Évaluer l'impact des amendements sur les startups européennes et leur capacité à concurrencer les géants numériques internationaux. Recommander une surveillance étroite des dynamiques entre Big Tech et les partis comme les Conservateurs, qui privilégient une transition progressive.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-23T17:38:47.387901",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des énergies fossiles et cherche à influencer la législation européenne, en particulier sur les réglementations liées aux émissions de CO2, à la sécurité énergétique et à la transition écologique. Son objectif principal est de préserver l'accès aux ressources fossiles tout en limitant l'impact des régulations environnementales sur la compétitivité industrielle européenne.",
+    "enjeux_directive": [
+      "Protection des investissements dans les énergies fossiles face à une transition rapide vers l'énergie renouvelable",
+      "Maintien de la sécurité énergétique européenne en évitant un dépendance excessive aux importations d'hydrogène vert",
+      "Résistance à l'harmonisation des normes environnementales entre les États membres, favorisant une approche progressive",
+      "Défense des emplois dans les secteurs traditionnels (charbon, pétrole) face aux politiques de réduction des émissions"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Énergies Fossiles en imposant des restrictions sur l'exploitation des ressources fossiles",
+      "Les intérêts économiques et stratégiques de Énergies Fossiles sont directement concernés par les mesures de réduction des émissions de CO2"
+    ],
+    "stratégie": "Le lobby des énergies fossiles adopte une stratégie à double volet : d'une part, il cherche à influencer les politiques européennes pour maintenir l'accès aux ressources fossiles dans un cadre réglementaire flexible ; d'autre part, il s'efforce de promouvoir des solutions technologiques adaptées (comme le charbon propre ou la conversion du gaz naturel en hydrogène) afin de concilier les objectifs climatiques et les intérêts économiques. Pour cela, il collabore étroitement avec des États membres comme la Pologne et l'Italie, ainsi qu'avec des lobbyistes comme Big Tech (pour ses infrastructures numériques) ou le secteur automobile (qui dépend encore de l'énergie fossile). Il s'appuie également sur des partis européens comme le PPE et les Conservateurs pour défendre une transition progressive plutôt qu'une approche radicale. L'objectif est de ralentir la mise en place d'une réglementation trop stricte, tout en maintenant un rôle clé dans la sécurité énergétique européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à une transition progressive vers les énergies propres)",
+      "Conservateurs (préférence pour la modération réglementaire)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection des secteurs industriels stratégiques)",
+      "Banque (soutien aux investissements structuraux en énergie)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien à une transition écologique radicale et objectifs climatiques ambitieux)",
+      "S&D (priorité aux investissements régions défavorisées, favorables à la décarbonation rapide)",
+      "Énergies fossiles (lobbies centraux charbon opposés aux moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit être progressive pour éviter un chômage massif dans les régions dépendantes des énergies fossiles, comme la Pologne ou la Hongrie.",
+      "Les énergies fossiles restent essentielles à la sécurité énergétique européenne, en particulier dans les secteurs de production industrielle et de transport lourds.",
+      "La transition vers des sources d'énergie renouvelables doit être accompagnée d'investissements massifs pour garantir la compétitivité industrielle européenne.",
+      "Les régulations climatiques trop strictes risquent d'accroître la dépendance européenne aux importations énergétiques, menaçant la souveraineté économique.",
+      "Le développement des technologies de capture du CO2 (CCUS) permettrait de réduire les émissions tout en préservant l'industrie fossile.",
+      "Les pays comme la Pologne et la Hongrie dépendent économiquement des centrales à charbon, nécessitant un soutien temporaire pour leur transition vers des technologies plus propres.",
+      "Une approche coordonnée entre les États membres est essentielle pour éviter une fragmentation réglementaire qui pourrait nuire aux secteurs énergétiques traditionnels.",
+      "Les investissements dans les infrastructures de stockage et de distribution d'énergie doivent être maintenus pour assurer la stabilité du marché européen."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "NEUTRE",
+        "justification": "La protection des données personnelles n'a pas d'impact direct sur les activités du secteur énergétique fossile, mais un renforcement de ces mesures pourrait compliquer l'accès à certaines informations stratégiques pour la gestion des ressources.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le secteur des énergies fossiles dépend largement de technologies numériques, et une taxation excessive pourrait affecter la compétitivité des entreprises du secteur. Cependant, une taxation modérée peut être acceptée si elle est compensée par des investissements dans les infrastructures énergétiques.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux start-ups peut contribuer à l'innovation technologique, mais doit être aligné avec les besoins du secteur énergétique traditionnel pour éviter une dépendance excessive aux solutions numériques.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "Une réduction de la surveillance de masse pourrait favoriser l'innovation technologique et renforcer la confiance des citoyens envers les entreprises du secteur énergétique, notamment celles dépendant de la digitalisation.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "DEFAVORABLE",
+        "justification": "Une harmonisation stricte de la fiscalité numérique pourrait pénaliser les entreprises du secteur énergétique qui dépendent d'infrastructures numériques coûteuses, en particulier dans les pays à faible niveau de développement technologique.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "FAVORABLE",
+        "justification": "L'exclusion des services essentiels comme l'énergie et le transport de la régulation numérique permettrait de garantir une continuité de service sans compromettre la sécurité énergétique ou les besoins industriels.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "La sécurité des infrastructures énergétiques est cruciale pour prévenir les cyberattaques, ce qui justifie un renforcement de la cybersécurité. Cependant, cela doit être accompagné d'investissements dans des technologies de protection adaptées aux besoins du secteur.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une limitation excessive de l'accès aux données pourrait entraver la prise de décisions stratégiques dans le secteur énergétique. Cependant, une gestion rigoureuse des données est nécessaire pour protéger les intérêts des citoyens.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs traditionnels (charbon, pétrole) et régulations climatiques strictes. Évaluer impact des mesures sur les régions dépendantes d'énergies fossiles (Pologne, Hongrie). Recommander un suivi de l'adaptation des industries à la transition énergétique.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-23T17:57:30.624368",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Promouvoir des services numériques financiers sûrs et innovants.",
+      "Soutenir un cadre réglementaire stable et clair pour la fintech.",
+      "Assurer la protection des données financières et clients.",
+      "Renforcer la résilience du secteur face aux risques systémiques liés à l'innovation technologique.",
+      "Faciliter l'intégration européenne des marchés financiers tout en préservant les standards nationaux."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "La stratégie de Banque et Finance repose sur trois piliers : la défense d'un cadre réglementaire harmonisé mais non contraignant pour les institutions financières, la promotion des innovations technologiques (notamment en fintech) tout en garantissant la stabilité du système bancaire européen, et l'élaboration de normes européennes ambitieuses en matière de protection des données et de cybersécurité. Le lobby s'engage activement pour éviter les régulations trop exigeantes qui risqueraient d'éloigner les capitaux internationaux vers des marchés moins réglementés. Il milite également pour une approche progressive dans la transition écologique, en privilégiant des solutions technologiques et numériques plutôt que des restrictions sectorielles. La Banque et Finance cherche à s'aligner sur les pays leaders économiques (Allemagne, France) et à collaborer avec des acteurs politiques pro-business comme le PPE et S&D, tout en restant vigilant face aux pressions des partis écologistes (Verts/ALE) ou progressistes qui prônent une régulation plus stricte.",
+    "alliances": [
+      "France (collaboration sur la réglementation de la fintech et la modernisation des services bancaires)",
+      "Allemagne (partage d'intérêts en matière de stabilité financière européenne et de protection des données clients)",
+      "PPE (soutien à une approche équilibrée entre innovation technologique et régulation prudente)",
+      "S&D (priorité aux investissements dans les infrastructures numériques européennes)",
+      "Big Tech (coopération sur l'innovation numérique et la sécurisation des services en ligne)",
+      "Automobile (protection commune contre des régulations qui pourraient pénaliser les industries manufacturières)",
+      "Banque (soutien mutuel à un cadre réglementaire stable pour le secteur financier européen)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux régulations sur la protection des données et à l'harmonisation des normes européennes)",
+      "Conservateurs (préférence pour une transition progressive en matière de régulation technologique)",
+      "Énergies fossiles (lobbies centraux charbon opposés à l'intégration des normes numériques dans les secteurs traditionnels)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'innovation technologique, notamment en fintech, est un levier essentiel pour la compétitivité européenne du secteur financier.",
+      "La protection des données personnelles et financières doit rester une priorité, mais sans entraver l'accès aux services numériques innovants.",
+      "Une régulation excessive pourrait repousser les investissements internationaux vers des marchés moins contrôlés, menaçant la stabilité du système bancaire européen.",
+      "Le secteur financier a besoin d'une continuité réglementaire pour gérer l'intégration croissante de l'IA et de la blockchain dans ses processus.",
+      "La collaboration entre le secteur bancaire et les géants technologiques est cruciale pour moderniser les services financiers européens tout en préservant des normes élevées de sécurité.",
+      "Il convient de distinguer les services essentiels (comme les banques) des innovations disruptives, pour éviter une régulation trop uniforme qui pourrait pénaliser certains acteurs.",
+      "La transition écologique doit s'appuyer sur des solutions technologiques et numériques, plutôt que sur des restrictions sectorielles directes."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "La protection accrue des données personnels est cruciale pour le secteur financier, qui traite quotidiennement d'informations sensibles. Cet amendement permettrait de renforcer la confiance des clients tout en alignant les réglementations européennes sur les standards mondiaux, évitant ainsi une fuite des capitaux vers des marchés moins réglementés.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE",
+        "justification": "Une taxation excessive des géants technologiques pourrait décourager l'innovation et limiter la capacité de ces entreprises à investir dans des solutions numériques qui bénéficient au secteur bancaire. Cela risquerait également d'affaiblir la compétitivité européenne face aux marchés non réglementés.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur bancaire soutient le développement des start-ups fintech, mais avec l'obligation que celles-ci respectent des normes de sécurité et d'intégrité financière strictes. Un cadre réglementaire clair est nécessaire pour garantir la coexistence pacifique entre les startups innovantes et les institutions traditionnelles.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "La limitation de la surveillance de masse est essentielle pour protéger les données des clients bancaires et éviter une concentration excessive d'informations sensibles dans un seul secteur. Cela renforce également l'image de confiance du secteur financier européen face aux régulations globales.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "NEUTRE",
+        "justification": "L'harmonisation de la fiscalité numérique est complexe et nécessite des discussions approfondies pour éviter un déséquilibre entre les secteurs bancaires traditionnels et les startups technologiques. Une approche équilibrée est nécessaire pour garantir une concurrence juste.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'exclusion des services essentiels (comme les banques) de certaines régulations pourrait créer un vide juridique. Cependant, il est possible d'adapter les normes pour garantir à la fois l'innovation et la stabilité du secteur financier.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "La renforcement de la cybersécurité est vital pour protéger les systèmes bancaires contre les cyberattaques. Cet amendement permettrait de renforcer la confiance des clients et d'assurer une stabilité du secteur face aux menaces numériques croissantes.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation trop stricte de l'accès aux données personnelles pourrait entraver la capacité des banques à offrir des services personnalisés et efficaces. Cela risquerait d'affecter négativement l'expérience client et la compétitivité du secteur financier européen.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre régulations fintech et protections des données clients. Évaluer impact des mesures fiscales sur les startups et l'innovation numérique en Europe centrale. Maintenir dialogue avec les partis pro-business pour éviter un encadrement trop restrictif.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-23T18:14:32.588905",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne, en particulier sur les réglementations liées aux produits chimiques agricoles, à la protection de l'environnement, et à la concurrence dans le marché européen.",
+    "enjeux_directive": [
+      "Limiter les contraintes imposées par des régulations numériques spécifiques pour l’industrie.",
+      "Veiller à la compatibilité des règlements européens avec l’innovation technologique agro.",
+      "Promouvoir une harmonisation des normes environnementales dans l'UE pour éviter les distorsions de concurrence.",
+      "Assurer la continuité de l'utilisation d'engrais chimiques en réduisant les restrictions liées à la protection de la santé publique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie, notamment sur la réglementation des produits chimiques agricoles.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés par les mesures liées à la durabilité."
+    ],
+    "stratégie": "La stratégie d'Agrochimie repose sur une combinaison de lobbying actif, de partenariats stratégiques avec des pays membres et des groupes politiques européens favorables à la libéralisation du secteur agrochimique. L’objectif principal est de s’assurer que les réglementations européennes ne freinent pas l'innovation technologique et la concurrence dans le marché européen. Agrochimie vise à renforcer son influence en collaborant avec des acteurs clés comme l'Italie, la France, et le PPE, tout en s’opposant aux mesures qui pourraient limiter ses activités ou augmenter les coûts opérationnels. Parallèlement, Agrochimie cherche à promouvoir une vision équilibrée entre la protection environnementale et l'innovation technologique dans le secteur agroalimentaire.",
+    "alliances": [
+      "Italie (collaboration sur les innovations agricoles et la réglementation sectorielle)",
+      "France (partage des objectifs de transition écologique tout en défendant les intérêts industriels du secteur Agrochimie)",
+      "PPE (soutien aux politiques favorables à la libre concurrence dans le secteur agrochimique)",
+      "Verts/ALE (collaboration sur la durabilité environnementale et l'innovation technologique dans l'agriculture)",
+      "S&D (privilégie les investissements dans les régions agricoles défavorisées, alignés avec les intérêts de Agrochimie)",
+      "Big Tech (synergie sur la digitalisation des pratiques agricoles et l'utilisation d'outils technologiques avancés)"
+    ],
+    "oppositions": [
+      "Hongrie (soutien aux industries traditionnelles, y compris les chimiques, opposé à une réglementation stricte)",
+      "Conservateurs (préférence pour une transition énergétique et environnementale progressive, plus adaptée aux secteurs traditionnels comme l'agrochimie)",
+      "Énergies fossiles (lobbies défendant des pratiques industrielles non durables, opposés à la réglementation de l'Agrochimie)"
+    ],
+    "éléments_d_argumentaire": [
+      "L’industrie Agrochimie est un pilier économique dans de nombreux pays membres et doit être soutenue pour éviter une déréglementation excessive qui nuirait à la compétitivité européenne.",
+      "Les régulations européennes doivent respecter les particularités sectorielles du marché agroalimentaire, afin d’éviter des distorsions de concurrence internationale.",
+      "Agrochimie contribue à l’innovation technologique agricole et doit être associée aux décisions politiques qui influencent ce secteur.",
+      "La protection de la santé publique ne doit pas compromettre les avancées technologiques et économiques du secteur Agrochimie.",
+      "Les normes environnementales doivent être harmonisées à l’échelle européenne pour éviter une fragmentation réglementaire qui pourrait pénaliser certains pays ou entreprises."
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre Agrochimie et l'industrie agricole concernant la réglementation des pesticides. Évaluer les risques d’isolement du secteur face aux pressions environnementales croissantes. Recommander une coopération étroite avec les pays producteurs de matières premières agricoles pour assurer une transition équilibrée.",
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "NEUTRE",
+        "justification": "Agrochimie est neutre sur cette mesure car elle ne touche pas directement aux activités du secteur, mais reste attentive à l’impact potentiel sur les fournisseurs de services numériques associés.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s’oppose partiellement à cette mesure car elle pourrait affecter l’utilisation des outils numériques dans le secteur agricole. Cependant, elle reconnaît la nécessité de réguler les géants du numérique pour éviter un monopole.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement cette mesure si elle favorise l’émergence de startups innovantes dans le secteur agricole et technologique. Cependant, elle préfère un soutien ciblé plutôt qu’une aide généralisée.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cette mesure car elle aligne avec ses principes d’éthique technologique et de protection des données, tout en ne compromettant pas ses opérations.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "NEUTRE",
+        "justification": "Agrochimie est neutre sur cette proposition car elle ne concerne pas directement ses activités, mais reste attentive aux implications potentielles pour les fournisseurs numériques de l’industrie.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s’oppose à cette proposition car elle pourrait limiter l’application des réglementations à certains services, ce qui risquerait d’entacher la sécurité et l’éthique technologique.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient fermement cette mesure car elle renforce la sécurité des opérations technologiques et agricoles, tout en protégeant les données sensibles du secteur.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement cette mesure si elle favorise la protection des données sans entraver l’innovation technologique dans le secteur agricole. Cependant, elle préconise un équilibre entre sécurité et développement.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-23T19:09:01.411818",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, notamment sur la réglementation des données de santé, l'innovation technologique dans le domaine médical, et la protection intellectuelle. Le lobby agit pour sécuriser les investissements en R&D, préserver la souveraineté industrielle européenne, et éviter des cadres juridiques trop restrictifs sur les essais cliniques et l'accès aux traitements.",
+    "enjeux_directive": [
+      "Assurer un usage responsable des données de santé et de recherche numérique pour protéger la confidentialité tout en facilitant l'innovation.",
+      "Soutenir les innovations dans la santé numérique (IA, télé-médecine) tout en évitant une réglementation trop contraignante.",
+      "Protéger les brevets pharmaceutiques et encourager les investissements en R&D face aux pressions des lobbies de la santé publique et des partis progressistes.",
+      "Assurer une coopération transfrontalière dans le cadre de la réglementation harmonisée sur les médicaments, en particulier pour les maladies rares ou endémiques.",
+      "Promouvoir la souveraineté industrielle européenne face à la concurrence des géants technologiques et pharmaceutiques non européens."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur pharmaceutique, notamment sur les normes régissant la protection des données de santé et l'accès aux traitements innovants.",
+      "Les intérêts économiques et stratégiques du lobby sont directement concernés par la réglementation sur les essais cliniques, les brevets, et les collaborations transnationales en R&D."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une approche multilatérale pour influencer les négociations européennes. Il vise à renforcer ses alliances avec des acteurs clés comme la France et l'Italie, qui partagent un intérêt commun en matière d'innovation technologique et de protection industrielle. Au niveau européen, il collabore avec le PPE et les S&D pour défendre une réglementation équilibrée entre innovation et protection des données. Simultanément, il s'oppose aux positions radicales du parti Verts/ALE sur la surveillance numérique et des lobbies comme Big Tech, qui prônent un cadres plus restrictif en matière de propriété intellectuelle. Le lobby mise aussi sur des alliances stratégiques avec les secteurs automobile et bancaire pour renforcer son influence dans les débats sur l'harmonisation des réglementations numériques et la sécurité des données. Il mobilise ses ressources pour influencer directement le Parlement européen, notamment via des campagnes ciblées auprès des députés français et allemands, ainsi que des partenariats avec les universités et les centres de recherche européens.",
+    "alliances": [
+      "France (partage objectif innovation santé numérique + régulation équilibrée brevets)",
+      "Italie (collaboration R&D médicaments rares + protection industrielle européenne)",
+      "PPE (soutien réglementation équilibrée entre innovation et protection des données)",
+      "S&D (priorité investissements santé publique + soutien recherche pharmaceutique)",
+      "Big Tech (innovation infrastructures numériques + sécurisation données santé)",
+      "Agrochimie (coopération R&D biopharmaceutique + réglementation harmonisée)",
+      "Banque (soutien financement secteur santé + régulation équilibrée brevets)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire brevets pharmaceutiques + défense industries non innovantes)",
+      "Conservateurs (préférence réglementation progressiste vs radicale sur données de santé)",
+      "Énergies fossiles (lobbies centrales charbon - opposés régulation numérique stricte)",
+      "Verts/ALE (soutien régulation stricte brevets + surveillance renforcée santé publique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La protection des données de santé est essentielle pour garantir la confiance des patients et assurer l'innovation technologique dans le secteur pharmaceutique.",
+      "Les brevets pharmaceutiques sont un levier clé pour stimuler les investissements en R&D, nécessaires à la création de traitements innovants contre les maladies rares ou émergentes.",
+      "Une réglementation trop stricte sur la santé numérique pourrait freiner l'adoption de technologies disruptives comme l'intelligence artificielle dans le diagnostic médical.",
+      "La souveraineté industrielle européenne doit être préservée face à la concurrence mondiale, notamment asiatique, sur les marchés pharmaceutiques et biotechnologiques.",
+      "L'harmonisation des normes réglementaires européennes est cruciale pour éviter une fragmentation du marché et garantir l'accès aux traitements innovants dans tous les États membres.",
+      "Les partenariats entre le secteur pharmaceutique et les universités permettent de renforcer la recherche sur les maladies rares, un enjeu majeur pour l'Union européenne.",
+      "La réglementation harmonisée sur les données de santé favorise une coopération transfrontalière dans la gestion des épidémies et des crises sanitaires.",
+      "Les investissements bancaires dans le secteur pharmaceutique doivent être encouragés pour soutenir l'innovation et la croissance du marché européen."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Le secteur pharmaceutique soutient cet amendement car il renforce la confidentialité des données de santé, essentielle pour protéger les patients et assurer l'innovation technologique. Cependant, une réglementation trop stricte pourrait entraver la collaboration entre les acteurs du secteur et les institutions médicales.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby pharmaceutique s'oppose à cette mesure car elle pourrait pénaliser les entreprises innovantes, y compris celles du secteur pharmaceutique. Cependant, il reconnaît la nécessité de réguler les géants technologiques pour éviter une concentration excessive des marchés numériques.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby pharmaceutique appuie cette initiative en tant que promoteur de l'innovation, mais souligne la nécessité d'éviter une réglementation trop contraignante pour les petites entreprises. Il prône des mesures ciblées pour accompagner les start-ups sans pénaliser le secteur pharmaceutique.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "NEUTRE",
+        "justification": "Le lobby pharmaceutique reste neutre sur cet amendement. Il reconnaît les avantages d'une réglementation sur la surveillance numérique, mais ne souhaite pas que cela affecte les capacités des institutions médicales à traiter les données de santé pour des raisons de sécurité.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "Le secteur pharmaceutique soutient cet amendement car il favorise une réglementation équilibrée sur les impôts numériques, évitant ainsi une désavantage compétitif pour les entreprises européennes face aux géants technologiques non européens.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby pharmaceutique s'oppose à cette mesure car elle pourrait créer des lacunes dans la réglementation, notamment pour les traitements de santé essentiels. Il préfère une approche uniforme pour garantir un accès équitable aux soins.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Le secteur pharmaceutique soutient cet amendement car il renforce la protection des infrastructures numériques, essentiel pour préserver la sécurité des données de santé et éviter les cyberattaques sur les systèmes médicaux.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE",
+        "justification": "Le lobby pharmaceutique s'oppose à cette mesure car elle pourrait entraver la collaboration entre les acteurs du secteur et les institutions médicales. Il prône une réglementation équilibrée qui protège les données tout en facilitant l'innovation.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre réglementation stricte sur les données de santé et besoins d'innovation du secteur pharmaceutique. Évaluer impact des mesures fiscales numériques sur les start-ups pharmaceutiques en Europe centrale (Pologne, Hongrie). Surveiller conflits avec le lobby Agrochimie sur l'allocation des ressources pour la R&D.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-23T18:33:13.951690",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne, en particulier les réglementations liées aux véhicules connectés, autonomes, cybersécurité et transition énergétique.",
+    "enjeux_directive": [
+      "Influencer la réglementation des données liées aux véhicules connectés et autonomes pour protéger l'innovation technologique.",
+      "Soutenir la cybersécurité dans les systèmes de conduite automatisée afin d'éviter les vulnérabilités numériques.",
+      "Promouvoir des normes harmonisées en Europe pour les batteries, l'hydrogène vert et l'infrastructure de recharge sans fragmenter le marché.",
+      "Protéger les emplois dans les usines traditionnelles tout en encourageant la transition vers les véhicules électriques.",
+      "Concilier les objectifs climatiques de l'UE avec les coûts d'innovation pour éviter un désavantage compétitif global."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes sur la réglementation du secteur automobile, notamment en matière de données et de sécurité.",
+      "Les intérêts économiques et stratégiques de l'industrie automobile sont directement concernés par les mesures législatives proposées."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L’industrie automobile européenne adopte une stratégie basée sur la collaboration avec les acteurs technologiques et énergétiques pour défendre son secteur face aux réglementations. Elle cherche à obtenir des normes harmonisées en Europe pour l'innovation (véhicules électriques, autonomie) tout en protégeant ses intérêts économiques. L’automobile mise sur une transition progressiste mais contrôlée, avec un soutien aux investissements dans les technologies propres et une opposition aux réglementations trop strictes ou coûteuses. Elle s'associe à des acteurs comme la Banque pour financer l'innovation et les startups européennes, tout en négociant avec les partis politiques pour éviter un moratoire sur le charbon ou d'autres mesures qui menacent ses chaînes de production traditionnelles. L’objectif est de concilier la transition écologique avec la compétitivité industrielle européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "PPE (privilégie stabilité industrielle + transition progressive)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Gauche Unitaire (soutien réglementation stricte sur données personnelles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La voiture électrique et l’hydrogène vert constituent des leviers de compétitivité pour l’industrie européenne, à condition d’avoir un cadre réglementaire harmonisé.",
+      "Les normes technologiques strictes sur la sécurité des véhicules connectés doivent être développées en collaboration avec les acteurs du numérique et de la cybersécurité.",
+      "Une transition太快 peut menacer la stabilité industrielle, notamment dans les régions traditionnellement dépendantes du secteur automobile (ex: Alsace, Lombardie).",
+      "Le soutien aux startups européennes doit inclure des incitations fiscales et une réduction des contraintes réglementaires pour favoriser l’innovation.",
+      "La protection des données personnelles liées aux véhicules connectés est essentielle, mais doit s’accompagner de flexibilité pour les tests technologiques en cours.",
+      "Les mesures fiscales sur les géants du numérique ne doivent pas pénaliser les PME de l’industrie automobile qui dépendent des infrastructures numériques."
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions industrielles (ex: Allemagne, Italie) et la transition climatique. Évaluer le risque de délocalisation vers des pays non européens si les coûts de conformité augmentent. Recommander une surveillance étroite des lobbyings des énergies fossiles pour éviter un blocage des initiatives vertes.",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-23T18:52:54.855954",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’automobile soutient cette mesure pour protéger les données des utilisateurs de véhicules connectés, mais exige une flexibilité pour les tests technologiques et l’accès aux données par les constructeurs. Une réglementation trop rigide pourrait freiner l’innovation.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La taxation des géants du numérique pourrait pénaliser indirectement l’industrie automobile, qui dépend des infrastructures numériques et des données. Une approche équilibrée est nécessaire pour éviter un déséquilibre entre secteurs.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "L’automobile appuie le soutien aux startups, notamment celles développant des technologies de mobilité intelligente et d’électrification. Des incitations fiscales et réglementaires sont nécessaires pour stimuler l’innovation.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure est compatible avec les objectifs de cybersécurité pour les véhicules connectés. Elle renforce la confiance des consommateurs tout en limitant l’usage abusif des données.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "NEUTRE",
+        "justification": "L’automobile est neutre sur cette mesure, car elle dépend indirectement des systèmes numériques. Une harmonisation pourrait aider à réduire les coûts d’accès aux infrastructures technologiques.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE",
+        "justification": "L’exclusion des services essentiels (ex: véhicules connectés) pourrait créer un vide réglementaire et nuire à la sécurité. Une réglementation uniforme est préférable pour garantir les standards européens.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L’automobile soutient cette mesure, car elle est cruciale pour protéger les systèmes de conduite automatisée contre les cyberattaques. Une réglementation forte renforce la confiance des consommateurs et l’innovation.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une limitation excessive de l’accès aux données pourrait entraver les développements technologiques. Une approche équilibrée doit être adoptée pour permettre des tests et des innovations tout en protégeant la vie privée.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ]
+  }
+]

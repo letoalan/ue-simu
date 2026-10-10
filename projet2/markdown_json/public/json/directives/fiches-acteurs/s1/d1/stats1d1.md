@@ -1,0 +1,79 @@
+# stats1d1
+
+Source : `directives/fiches-acteurs/s1/d1/stats1d1.json`
+
+## Contenu
+
+- **scenario** : `1`
+- **directive** : `1`
+- **nom** : Pacte vert innovant
+- **valeurs\_prevues** :
+  - **pib\_eu** : `2.0`
+  - **gini\_eu** : `0.3`
+  - **co2\_eu** : `8.0`
+  - **veb\_eu** : `80`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 1-1A
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `6.0`
+      - **veb\_eu** : `85`
+  - **Élément 2** :
+    - **id** : 1-1B
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.1`
+      - **gini\_eu** : `0.25`
+      - **co2\_eu** : `7.5`
+      - **veb\_eu** : `83`
+  - **Élément 3** :
+    - **id** : 1-1C
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `1.8`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `5.0`
+      - **veb\_eu** : `82`
+  - **Élément 4** :
+    - **id** : 1-1D
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `7.0`
+      - **veb\_eu** : `86`
+  - **Élément 5** :
+    - **id** : 1-1E
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `1.7`
+      - **gini\_eu** : `0.32`
+      - **co2\_eu** : `9.0`
+      - **veb\_eu** : `78`
+  - **Élément 6** :
+    - **id** : 1-1F
+    - **origine** : Italie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.0`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `8.5`
+      - **veb\_eu** : `77`
+  - **Élément 7** :
+    - **id** : 1-1G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.27`
+      - **co2\_eu** : `8.2`
+      - **veb\_eu** : `81`
+  - **Élément 8** :
+    - **id** : 1-1H
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.0`
+      - **gini\_eu** : `0.3`
+      - **co2\_eu** : `6.0`
+      - **veb\_eu** : `77`

@@ -1,0 +1,42 @@
+/* Schemas, Diagrams & Causal Graphs */
+.causal-schema {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  width: 100%;
+}
+
+.schema-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.legend-badge {
+  padding: 4px 8px;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.legend-badge.plus { background: var(--color-success-bg); color: var(--color-success); }
+.legend-badge.minus { background: var(--color-danger-bg); color: var(--color-danger); }
+.legend-badge.feedback { background: var(--color-info-bg); color: var(--color-info); }
+
+.schema-svg {
+  width: 100%;
+  height: auto;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  transition: background-color var(--transition-normal), border-color var(--transition-normal);
+}
+
+.schema-textual {
+  background: var(--color-surface-hover);
+  padding: 14px;
+  border-radius: var(--radius-md);
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  line-height: 1.6;
+}

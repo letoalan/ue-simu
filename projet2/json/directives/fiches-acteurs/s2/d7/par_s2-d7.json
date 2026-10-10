@@ -1,0 +1,762 @@
+[
+  {
+    "type": "Parti",
+    "nom": "Renouveau Européen",
+    "actor_id": "renew",
+    "role_europeen": "Porteur - Propose d'élargir Erasmus+ à tous les niveaux d'éducation pour maximiser l'impact.",
+    "enjeux_directive": [
+      "Créer une véritable citoyenneté européenne par l'éducation.",
+      "Renforcer l'intégration européenne par la culture.",
+      "Accélérer la transition écologique via des investissements en formation verte",
+      "Promouvoir un modèle européen de coopération scientifique transnationale",
+      "Concilier objectifs climatiques et mobilité éducative"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Renouveau Européen.",
+      "Le positionnement de Renouveau Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Renouveau Européen adopte une approche transformatrice de la directive, combinant ambitions culturelles et écologiques. L'expansion d'Erasmus+ vers tous les niveaux d'éducation est considérée comme un levier incontournable pour renforcer l'identité européenne et favoriser l'interdépendance des nations. Le parti s'appuie sur une triple logique : 1) Éduquer à la citoyenneté européenne dès le primaire, 2) Intégrer des modules de transition écologique dans les programmes d'études (en collaboration avec Verts/ALE), 3) Développer une infrastructure numérique transnationale via l'expertise de Big Tech. Cette stratégie permet de concilier ambitions culturelles et objectives climatiques, tout en sécurisant la place des pays européens dans un monde multipolaire.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'élargissement d'Erasmus+ à tous les niveaux d'éducation renforce la cohésion européenne en ancrant l'idée de citoyenneté dès le primaire, ce qui est crucial face aux tendances nationalistes croissantes.",
+      "La directive offre une opportunité unique de redynamiser les régions périphériques (ex: Balkans) via des échanges éducatifs structurés, répondant aux préoccupations du S&D sur la fracture territoriale.",
+      "L'intégration d'objectifs climatiques dans l'enseignement (via collaboration avec Verts/ALE) assure une transition écologique durable et éducative, évitant les erreurs historiques des politiques environnementales.",
+      "La digitalisation des infrastructures éducatives, soutenue par Big Tech, permettra de surmonter les disparités technologiques entre pays membres, renforçant la compétitivité européenne globale.",
+      "L'engagement des secteurs industriels (ex: Automobile) garantit que les formations restent alignées avec les besoins du marché du travail, évitant un décalage entre éducation et emploi.",
+      "Le financement des centres culturels européens à l'étranger (amendement 2-7D) renforce la soft power européenne, une priorité stratégique pour Renouveau Européen.",
+      "La conditionnalité des aides à la promotion des valeurs européennes (amendement 2-7C) permet de contrer les dérives populistes dans certains États membres tout en préservant l'autonomie nationale.",
+      "L'initiative de centres culturels à l'étranger (2-7D) renforce la visibilité européenne sur la scène internationale, ce qui est stratégique pour défendre les intérêts européens dans un contexte géopolitique tendu."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "Renouveau Européen défend fermement cet amendement qu'elle a elle-même proposé pour renforcer la cohésion européenne via l'éducation. Cet élargissement permet de créer une véritable citoyenneté européenne dès le primaire, tout en facilitant la transition écologique par des formations spécialisées en énergies propres. La France et l'Italie, membres du parti, ont exprimé leur soutien à cette initiative qui aligne sur leurs politiques nationales de coopération transnationale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Ce fonds pourrait renforcer l'identité européenne par le soutien aux arts, mais nécessite des garanties sur l'utilisation des ressources. Renouveau Européen propose d'intégrer des critères de durabilité et d'inclusion sociale dans la gestion du fonds pour éviter les dérives.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permet de contrer les dérives populistes tout en préservant l'autonomie nationale. Les États membres comme la France et l'Italie, qui partagent cette vision, ont souligné sa pertinence pour stabiliser l'intégration européenne.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "Ces centres renforceront la soft power européenne et la visibilité de ses valeurs. La collaboration avec les Verts/ALE garantit une approche écologique dans leur conception.",
+        "priorite": "moyenne",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si la concentration sur les universités est utile, l'absence de formation de base compromettrait la cohésion européenne. Renouveau Européen propose un compromis avec une extension progressive aux niveaux inférieurs.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "Cette exclusion risque de fragmenter le tissu culturel européen. Renouveau Européen s'oppose à toute restriction et propose une gestion transparente du fonds avec des comités d'évaluation indépendants.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Cette approche risquerait de fragmenter l'action européenne. Renouveau Européen prône une coordination stratégique entre initiatives nationales et européennes, comme le montre l'expérience avec la France sur les énergies propres.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un report temporaire pourrait permettre d'ajuster les mesures, mais un retard prolongé affaiblirait la crédibilité européenne. Renouveau Européen propose une mise en œuvre progressive avec des étapes de revue annuelle.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre ambitions éducatives et intérêts industriels en Pologne (opposition à la transition écologique). Évaluer impact des centres culturels sur les pays de l'Est, où les financements européens sont souvent perçus comme une forme d'imposition. Recommander un suivi régulier de la coopération entre secteurs culturels et industriels pour éviter la fragmentation européenne.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T13:45:31.633004",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Socialistes et Démocrates",
+    "actor_id": "sd",
+    "role_europeen": "Porteur - Demande la création de centres culturels européens à l'étranger pour diffuser les valeurs démocratiques.",
+    "enjeux_directive": [
+      "Promouvoir les droits sociaux et la démocratie.",
+      "Lutter contre la désinformation par la culture.",
+      "Soutenir l'innovation technologique inclusive",
+      "Renforcer la cohésion européenne via des projets transnationaux"
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Socialistes et Démocrates.",
+      "Le positionnement de Socialistes et Démocrates reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "L'approche stratégique des S&D repose sur un triple pilier : la promotion du multilatérisme, la défense de la justice sociale, et le renforcement des liens culturels entre les nations européennes. Ils privilégient une négociation basée sur l'émulation collective plutôt que la concurrence sectorielle. Leur diplomatie se distingue par un accent particulier mis sur les initiatives transnationales qui favorisent à la fois l'éducation, la culture et la solidarité entre régions défavorisées. Ils adoptent une posture proactive dans les discussions climatiques tout en veillant à ne pas compromettre la compétitivité industrielle européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance aux quotas d'émissions sectoriels)",
+      "Big pharma (critiques réglementations sanitaires européennes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La création de centres culturels à l'étranger renforce la soft power européenne en promouvant des valeurs universelles comme la liberté, l'égalité et la solidarité.",
+      "Le soutien aux régions défavorisées permet d'atténuer les disparités économiques qui menacent la cohésion de l'Union.",
+      "L'élargissement d'Erasmus+ à tous les niveaux éducatifs favorise une mobilité inclusive et renforce le capital humain européen global.",
+      "La promotion des valeurs européennes via la culture permet de contrecarrer efficacement la désinformation et l'intolérance.",
+      "Les investissements structuraux dans l'énergie verte doivent être accompagnés d'une protection adéquate des secteurs industriels stratégiques.",
+      "L'harmonisation des objectifs climatiques doit s'accompagner de mécanismes de compensation pour les pays en transition.",
+      "La collaboration avec les lobbies technologiques est essentielle pour moderniser l'économie européenne tout en préservant la souveraineté numérique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement d'Erasmus+ aux formations professionnelles et secondaires favorise une mobilité éducative inclusive, renforçant ainsi la compétitivité européenne sur le marché du travail. Cette mesure aligne parfaitement avec les objectifs de la S&D de promouvoir l'égalité des chances et l'internationalisation de l'éducation.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un tel fonds pourrait stimuler l'économie culturelle européenne tout en renforçant la diplomatie culturelle. Cependant, il doit être accompagné de mesures garantissant une distribution équitable des subventions entre les pays membres.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure renforce l'identité européenne tout en incitant les pays membres à adopter une posture plus proactive dans la défense des droits fondamentaux. Elle s'inscrit parfaitement dans la vision de la S&D d'une Europe unie par des valeurs communes.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "Ces centres renforcent la présence européenne dans le monde tout en promouvant une vision positive de l'Union. Ils constituent un outil clé pour diffuser les valeurs démocratiques et lutter contre la désinformation.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si la concentration sur les universitaires permet d'optimiser les ressources, il est essentiel de ne pas négliger les niveaux professionnels et secondaires. Une approche plus inclusive serait préférable.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "Toute exclusion de secteurs artistiques risquerait de limiter la diversité culturelle européenne. La S&D soutient une approche inclusive qui valorise toutes les expressions artistiques.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "NEUTRE",
+        "justification": "Bien que la S&D apprécie l'initiative des pays membres, une approche plus intégrée à l'échelle européenne serait préférable pour maximiser l'impact des projets culturels.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure risquerait d'entacher la crédibilité européenne et de retarder des initiatives essentielles pour le renforcement de l'Union. Une mise en œuvre rapide est préférable.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs culturels et industriels (ex. Volkswagen, Siemens). Équilibrer transition énergétique et compétitivité secteur automobile. Surveiller adhésion des pays du Sud-Est à initiatives culturelles transnationales.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T13:23:04.957760",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)",
+    "actor_id": "gue",
+    "role_europeen": "Porteur - Prône l'instauration d'un fonds européen pour la création artistique indépendante.",
+    "enjeux_directive": [
+      "Soutenir la diversité artistique contre la standardisation commerciale.",
+      "Promouvoir l'art comme outil d'émancipation sociale.",
+      "Assurer une transition écologique radicale et équitable au sein de l’Union européenne.",
+      "Renforcer les liens entre les mouvements sociaux et les politiques européennes.",
+      "Protéger les droits des travailleurs dans les secteurs industriels stratégiques."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL).",
+      "Le positionnement de Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL) reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "La stratégie de GUE/NGL s'appuie sur une alliance transversale entre les forces progressistes et écologistes pour défendre des politiques sociales et environnementales ambitieuses. Elle vise à renforcer la solidarité entre États membres, en particulier avec les régions du Sud de l’Europe, tout en promouvant une transition écologique radicale. Le parti mise sur une approche pluraliste qui intègre les visions des partis socialistes (S&D), des Verts (Verts/ALE) et des mouvements autonomistes nordiques pour construire un modèle européen fondé sur l'équité, la justice sociale et la durabilité écologique. GUE/NGL s'engage également à renforcer les liens entre le secteur artistique indépendant et les politiques culturelles européennes, en défendant un financement public massif de la création artistique. Cette stratégie est soutenue par des partenariats stratégiques avec des lobbies tels que Big Tech (pour leur engagement en faveur d’une transition numérique inclusive) et les acteurs industriels de l’automobile (pour protéger les secteurs manufacturiers face aux pressions climatiques).",
+    "alliances": [
+      "France (partage des objectifs de transition écologique radicale et de soutien à la culture européenne)",
+      "Italie (collaboration sur les projets d’hydrogène vert et de relance industrielle écologique)",
+      "S&D (priorité aux investissements dans les régions défavorisées de l’Union)",
+      "Verts/ALE (soutien à la transition écologique et aux objectifs climatiques ambitieux)",
+      "Big Tech (innovation technologique pour des infrastructures numériques durables)",
+      "Automobile (protection des secteurs industriels stratégiques face au changement climatique)",
+      "Banque (soutien aux investissements structuraux dans les énergies propres et l’innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la transition écologique radicale et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centraux charbon opposés aux moratoires climatiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La création d’un fonds européen dédié à la création artistique indépendante permettrait de renforcer le rôle de l’art comme pilier de la culture européenne et d’éviter sa commercialisation excessive.",
+      "Une transition écologique radicale est nécessaire pour atteindre les objectifs climatiques de l'Union, en particulier dans les pays industrialisés comme la France ou l’Allemagne.",
+      "La défense des droits des travailleurs dans le secteur automobile et d’autres industries stratégiques doit être un pilier central de toute directive européenne.",
+      "L’élargissement d’Erasmus+ à tous les niveaux éducatifs favoriserait une mobilité plus inclusive, en particulier pour les étudiants issus des régions défavorisées.",
+      "Les initiatives artistiques européennes doivent être soutenues de manière prioritaire par le financement public, afin d’éviter que les secteurs culturels ne soient submergés par les logiques du marché.",
+      "La promotion des valeurs européennes doit se faire en s’appuyant sur la culture et l’identité partagée entre les pays membres, plutôt que sur une approche centrale top-down.",
+      "Les centres culturels européens à l’étranger permettraient d’étendre l’influence culturelle de l’Union, tout en renforçant les liens avec les communautés diasporiques.",
+      "Le report de la directive de deux ans pourrait créer des inégalités accrues entre les pays membres en termes de mise en œuvre des réformes."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions internes au sein de GUE/NGL sur la balance entre les intérêts écologiques et économiques. Évaluer régulièrement l’impact des initiatives artistiques européennes sur les secteurs culturels locaux, en particulier dans les pays du Sud de l’Europe. Surveiller également les pressions exercées par les lobbyings industriels (notamment automobile) pour limiter la transition écologique radicale.",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L’élargissement d’Erasmus+ à tous les niveaux éducatifs correspond aux priorités de GUE/NGL en matière d’inclusion et de mobilité européenne. Cet amendement permettrait de favoriser l’égalité des chances pour les étudiants issus des régions défavorisées, tout en renforçant la cohésion européenne par un échange culturel plus inclusif.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, proposé par GUE/NGL, est central à sa vision d’une Europe culturellement diverse et socialement émancipatrice. Le financement public de la création artistique permettrait de préserver l’indépendance des artistes face aux logiques du marché, tout en renforçant le rôle de l’art comme outil de résistance sociale.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "GUE/NGL soutient cet amendement à condition qu’il intègre une approche participative et inclusive, évitant de réduire l’Europe à un projet top-down. La promotion des valeurs doit s’appuyer sur la culture européenne partagée plutôt que sur une imposition centrale.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "La création de centres culturels à l’étranger renforce la visibilité européenne, tout en favorisant les liens avec les communautés diasporiques. Cet amendement correspond aux objectifs de GUE/NGL d’une Europe ouverte et interconnectée.",
+        "priorite": "moyenne",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "GUE/NGL s’oppose à cette limitation, car elle exclurait des étudiants de niveau secondaire et professionnels qui pourraient bénéficier d’une mobilité européenne. Cependant, la proposition peut être reconsidérée si les financements sont adaptés.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "GUE/NGL s’oppose à toute exclusion de domaines artistiques, car cela risquerait de marginaliser des formes d’art moins commerciales mais essentielles à la diversité culturelle européenne.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "NEUTRE",
+        "justification": "GUE/NGL adopte une position neutre sur cet amendement, car il pourrait renforcer le fédéralisme national au détriment de l’intégration européenne. Une coordination accrue entre les politiques nationales et européennes est nécessaire.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le report de deux ans risquerait d’accroître les inégalités entre les pays membres et de retarder les mesures urgentes nécessaires pour atteindre les objectifs climatiques européens.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T14:54:58.724279",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Verts/Alliance Libre Européenne (Verts/ALE)",
+    "actor_id": "verts",
+    "role_europeen": "Porteur - Soutient mais conditionne les aides à la promotion des valeurs écologiques européennes.",
+    "enjeux_directive": [
+      "Intégrer la transition écologique dans l'éducation et la formation professionnelle pour préparer une économie durable.",
+      "Promouvoir une culture européenne basée sur l'innovation verte, la justice sociale et la coopération internationale.",
+      "Assurer une répartition équitable des fonds européens en faveur des régions les plus touchées par le changement climatique.",
+      "Renforcer l'indépendance stratégique de l'UE face aux dépendances énergétiques et technologiques extérieures.",
+      "Protéger la biodiversité et les droits des générations futures via des politiques contraignantes sur les industries polluantes."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Verts/ALE.",
+      "Le positionnement de Verts/ALE reflète sa vision de l'intégration européenne.",
+      "La directive permettra d'accélérer la transition écologique à travers des mesures structurelles."
+    ],
+    "stratégie": "Verts/ALE adopte une approche offensive et radicale en matière de transition écologique, combinant des objectifs climatiques ambitieux (neutralité carbone 2045) avec un renforcement du rôle de l'UE dans la gouvernance mondiale. Le parti mise sur la mobilisation citoyenne, la fiscalité écologique et les investissements massifs dans les énergies renouvelables. En négociation, Verts/ALE privilégie une logique d’efficacité collective plutôt que de compromis sectoriels. Le parti s'engage à utiliser des amendements pour transformer la directive en un outil structurel de transformation sociale et économique. Il s'oppose fermement aux politiques qui compromettent les objectifs climatiques ou les valeurs sociales, même si cela implique une rupture avec des blocs parlementaires traditionnels.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Renouveau Européen (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Agrochimie (défends intérêts agricoles conventionnels)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les amendements favorisant l’expansion de programmes éducatifs et culturels renforcent les fondamentaux d’une Europe résiliente.",
+      "Le financement des projets artistiques innovants est un levier pour revitaliser les territoires en crise écologique ou socio-économique.",
+      "L’intégration de critères écologiques et sociaux dans la distribution des aides européennes garantit une équité interrégionale.",
+      "La création de centres culturels européens à l’étranger renforce le rayonnement de l’UE tout en valorisant ses valeurs fondamentales.",
+      "La limitation du programme aux étudiants universitaires est incohérente avec les objectifs d’égalité des chances et d’accessibilité des formations.",
+      "L’exclusion de certains domaines artistiques du financement risque de marginaliser des créateurs essentiels à la diversité culturelle européenne.",
+      "La priorisation des initiatives nationales compromet l’harmonisation nécessaire pour une transition écologique coordonnée à l’échelle européenne."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la France et le Royaume-Uni sur les financements maritimes (enjeux de compétition industrielle). Évaluer régulièrement l’impact des mesures climatiques sur les régions Sud-Est (ex: Italie, Espagne) touchées par le dérèglement climatique. Surveiller la concurrence entre les secteurs automobiles allemands et italiens dans la transition vers les énergies propres.",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L’élargissement d’Erasmus+ à tous les niveaux éducatifs favorise une mobilité inclusive et renforce les compétences transversales nécessaires à la transition écologique. Cela permettra de mieux former des citoyens européens capables de répondre aux défis climatiques et sociaux.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un fonds dédié à la création artistique soutient des secteurs clés de l’économie culturelle européenne. Cependant, il doit être conditionné à des critères écologiques et sociaux pour éviter les investissements incohérents avec la transition verte.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure renforce la cohésion européenne et protège contre les dérives populistes ou autoritaires. Elle garantit que l’Union agit en tant qu’acteur global, porteur de valeurs universelles.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "Les centres culturels renforcent la diplomatie européenne et diffusent les valeurs écologiques et sociales de l’UE. Ils serviront également de plateformes pour des initiatives collaboratives transnationales.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette limite risque d’exclure des catégories d’étudiants (lycéens, apprentis) qui pourraient bénéficier davantage de la mobilité. Une approche plus inclusive est nécessaire pour garantir l’égalité des chances.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "L’exclusion de domaines artistiques risque de marginaliser des formes d’expression culturelle essentielles. Une approche inclusive et non discriminante est nécessaire pour préserver la diversité culturelle européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Cette approche risque de fragmenter l’action européenne et d’affaiblir la coordination nécessaire à une transition écologique réussie. Une gouvernance commune est indispensable pour atteindre les objectifs climatiques.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Tout report compromet les objectifs climatiques et sociaux à court terme. Une action rapide est nécessaire pour éviter des pertes irréversibles sur les écosystèmes et l’équité sociale.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T14:06:15.591202",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Parti Populaire Européen",
+    "actor_id": "ppe",
+    "role_europeen": "Soutien Modéré - Soutient l'initiative mais met l'accent sur les valeurs traditionnelles européennes.",
+    "enjeux_directive": [
+      "Préserver l'héritage culturel chrétien de l'Europe.",
+      "Maintenir l'équilibre entre innovation et tradition.",
+      "Renforcer la coopération transnationale dans le secteur éducatif.",
+      "Promouvoir les valeurs européennes via des financements conditionnels.",
+      "Protéger les industries stratégiques (nucléaire, automobile) tout en favorisant la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Parti Populaire Européen.",
+      "Le positionnement de Parti Populaire Européen reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Le PPE adopte une approche équilibrée pour la Directive 7, combinant soutien à l'innovation technologique et défense des valeurs européennes traditionnelles. Il priorise les investissements dans les secteurs industriels stratégiques (nucléaire, automobile) tout en intégrant progressivement des mesures écologiques. Le PPE milite pour la préservation de l'héritage culturel chrétien et la promotion de l'identité européenne à travers des initiatives éducatives et artistiques. Il collabore étroitement avec les pays membres comme la France (pour le nucléaire) et l'Italie (sur l'hydrogène vert), tout en défendant un soutien conditionnel aux aides européennes pour garantir la cohérence idéologique. Le PPE s'engage également à renforcer les liens entre les institutions européennes et les régions défavorisées via des financements ciblés, tout en s'opposant à toute approche radicale de transition écologique qui pourrait menacer la compétitivité industrielle.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big pharma (soutien conditions réglementaires strictes pour l'innovation médicale)"
+    ],
+    "éléments_d_argumentaire": [
+      "La préservation de l'héritage culturel chrétien est un pilier de l'identité européenne, nécessitant une défense active contre les influences externes.",
+      "L'équilibre entre innovation technologique et respect des valeurs traditionnelles évite la fragmentation du marché européen.",
+      "Les investissements dans le nucléaire et l'industrie automobile renforcent la sécurité énergétique et la compétitivité européenne.",
+      "La collaboration avec les Verts/ALE sur la transition écologique permet de concilier objectifs climatiques et soutien aux secteurs industriels stratégiques.",
+      "Le financement conditionnel des aides européennes garantit l'alignement des politiques nationales avec les valeurs européennes fondamentales.",
+      "La création d'une diplomatie culturelle via les centres européens à l'étranger renforce la soft power et le rayonnement de l'Europe.",
+      "Le soutien aux initiatives artistiques favorise la diversité culturelle tout en préservant des normes éthiques partagées.",
+      "La priorisation des investissements régions défavorisés réduit les disparités économiques tout en renforçant l'intégration européenne."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur automobile allemand (Volkswagen, BMW) et les objectifs climatiques de la directive. Évaluer l'équilibre entre soutien aux industries traditionnelles (nucléaire, charbon) et transition écologique. Surveiller l'impact des financements conditionnels sur les régions Sud-Européennes (Italie, Espagne non-disponible).",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cet amendement car il renforce l'intégration européenne par le biais de l'échange interculturel et favorise la mobilité des jeunes, alignant ainsi les priorités éducatives avec l'objectif de construction d'une identité commune. Cela permet également de promouvoir les valeurs européennes traditionnelles à travers une formation transnationale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le PPE soutient conditionnellement cet amendement, à condition que le financement reste aligné avec les valeurs européennes traditionnelles. Cela permettrait de renforcer la culture européenne tout en évitant un financement inconditionnel qui pourrait favoriser des courants artistiques divergents.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE",
+        "justification": "Ce point est central pour le PPE, qui considère que les financements européens doivent être liés à la défense des valeurs fondamentales (liberté, démocratie, tradition chrétienne) afin d'éviter une dilution de l'identité européenne. Cela renforce également le contrôle des politiques nationales sur les priorités idéologiques.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "Le PPE soutient cette proposition comme un levier de diplomatie culturelle, renforçant la visibilité européenne sur la scène internationale tout en promouvant les valeurs européennes dans des régions géographiques stratégiques (Afrique du Nord, Asie).",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le PPE s'oppose partiellement à cette limite, car il considère que l'élargissement de Erasmus+ aux niveaux d'éducation inférieurs (lycées, écoles professionnelles) renforce davantage l'intégration européenne et la mobilité des jeunes générations.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à cette exclusion, car elle risquerait de marginaliser des formes d'art traditionnelles (musique classique, peinture) au profit de secteurs plus modernes. Cela pourrait affaiblir la cohésion culturelle européenne.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "NEUTRE",
+        "justification": "Le PPE adopte une position neutre, car il prône un équilibre entre soutien aux initiatives européennes et respect des politiques nationales. Cependant, il met l'accent sur la nécessité d'une coordination transnationale pour éviter les duplications.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le PPE s'oppose à ce report, car il considère que les objectifs de la directive doivent être appliqués sans délai pour garantir une continuité dans les politiques européennes et éviter un retard qui pourrait affaiblir l'intégration européenne.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T13:03:10.903793",
+    "version": "4.7"
+  },
+  {
+    "type": "Parti",
+    "nom": "Conservateurs et Réformistes Européens (ECR)",
+    "actor_id": "ecr",
+    "role_europeen": "Opposant - S'oppose à une centralisation excessive et défend la subsidiarité culturelle.",
+    "enjeux_directive": [
+      "Protéger la souveraineté culturelle des États membres.",
+      "Limiter les dépenses publiques européennes.",
+      "Promouvoir les énergies nucléaires comme pilier de la transition écologique.",
+      "Soutenir les secteurs industriels stratégiques (automobile, aéronautique).",
+      "Assurer une transition progressive vers des objectifs climatiques ambitieux.",
+      "Préserver l'autonomie des initiatives nationales face aux directives européennes."
+    ],
+    "impacts_directive": [
+      "La directive s'aligne avec les priorités politiques et idéologiques de Conservateurs et Réformistes Européens (ECR).",
+      "Le positionnement de Conservateurs et Réformistes Européens (ECR) reflète sa vision de l'intégration européenne."
+    ],
+    "stratégie": "Les Conservateurs et Réformistes Européens (ECR) adoptent une approche pragmatique axée sur la subsidiarité, la préservation des identités nationales et la défense des intérêts économiques de leurs États membres. Ils privilégient une coopération européenne limitée aux domaines où les États membres ont des intérêts convergents (sécurité, défense, énergie nucléaire). Leur stratégie consiste à promouvoir des amendements qui renforcent la souveraineté nationale tout en soutenant des initiatives européennes visant à moderniser les infrastructures et à stimuler l'innovation technologique. Ils s'opposent fermement aux politiques de centralisation excessive, préférant une approche décentralisée qui permet aux pays membres de garder le contrôle sur leurs budgets, leur culture et leurs priorités économiques.",
+    "alliances": [
+      "France (collaboration sur les investissements nucléaires et la relance industrielle)",
+      "Italie (partage des objectifs en matière d'hydrogène vert et de soutien aux secteurs manufacturiers)",
+      "PPE (convergence sur les politiques économiques, l'autonomie stratégique et le scepticisme vis-à-vis des réglementations européennes excessives)",
+      "Verts/ALE (soutien à la transition écologique dans un cadre respectueux de la subsidiarité nationale)",
+      "Big Tech (promotion d'une Europe numérique innovante, basée sur l'écosystème technologique national)",
+      "Automobile (protection des secteurs industriels stratégiques et défense de leur compétitivité internationale)",
+      "Banque (soutien à la stabilité financière européenne tout en préservant la souveraineté budgétaire nationale)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux moratoires sur le charbon et défense des industries fossiles traditionnelles)",
+      "Conservateurs (préférence pour une transition progressive plutôt qu'une approche radicale de la directive)",
+      "Énergies fossiles (lobbies centrales charbon, opposés à tout moratoire ou restriction rapide de l'énergie conventionnelle)",
+      "S&D (critique du refus d'investissements dans les régions défavorisées et de l'approche sectorielle des amendements ECR)"
+    ],
+    "éléments_d_argumentaire": [
+      "La subsidiarité culturelle doit primer sur une centralisation européenne qui risque de diluer les identités nationales.",
+      "Les dépenses publiques européennes doivent être limitées pour éviter la dépendance excessive aux institutions bruxelloises.",
+      "Le nucléaire est un pilier essentiel de la transition écologique, à promouvoir activement par l'UE.",
+      "La protection des secteurs industriels stratégiques (automobile, aéronautique) est cruciale pour assurer la compétitivité européenne.",
+      "Les initiatives nationales doivent être soutenues avant d'appliquer des directives européennes uniformisées.",
+      "Une transition écologique doit être progressive et respectueuse des réalités économiques sectorielles.",
+      "La souveraineté budgétaire nationale ne doit pas être sacrifiée au profit de politiques européennes inadaptées.",
+      "Les amendements doivent favoriser l'autonomie stratégique des États membres tout en renforçant la coopération internationale."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) estiment que l'élargissement de Erasmus+ à tous les niveaux pourrait diluer la responsabilité des États membres dans la gestion de leur système éducatif. Ils préfèrent une approche sectorielle, axée sur le financement des étudiants universitaires, tout en défendant la préservation des priorités nationales.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "DEFAVORABLE",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) s'opposent à ce qu'un fonds européen dédié aux arts soit créé, considérant que cela pourrait entraîner une centralisation excessive de la culture européenne. Ils préfèrent laisser les initiatives artistiques être financées par des moyens nationaux ou locaux.",
+        "priorite": "faible",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE",
+        "justification": "Conservateurs et Réformistes Européens (ECR) est l'initiateur de cet amendement, qui vise à aligner le financement européen sur une charte claire des valeurs partagées par les États membres. Cet amendement reflète leur volonté d'une Europe unie autour de principes communs tout en préservant la souveraineté nationale.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "DEFAVORABLE",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) s'opposent à la création de centres culturels européens à l'étranger, estimant que cela pourrait renforcer un sentiment d'interventionnisme européen au détriment des initiatives locales. Ils préfèrent une approche plus décentralisée et respectueuse des réalités nationales.",
+        "priorite": "faible",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "FAVORABLE",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) soutiennent la limitation de Erasmus+ aux étudiants universitaires, considérant que cela permettrait d'assurer une meilleure concentration des ressources vers les formations supérieures. Cela favoriserait également une approche plus ciblée et efficace en matière de mobilité académique.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) soutiennent l'idée d'exclure certains domaines artistiques du fonds européen, sous réserve qu'une liste claire et transparente soit établie. Ils craignent que la création d'un fonds général puisse entraîner une centralisation excessive de la culture européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) défendent fermement cet amendement, qui vise à privilégier les initiatives nationales face aux directives européennes. Cela renforce l'autonomie des États membres tout en garantissant une approche plus ciblée dans la mise en œuvre des politiques culturelles et éducatives.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les Conservateurs et Réformistes Européens (ECR) sont favorables à un report de l'application de la directive, sous réserve qu'une évaluation rigoureuse des impacts soit effectuée. Cela permettrait d'éviter toute mise en œuvre précipitée qui pourrait nuire aux secteurs économiques et culturels.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la préservation des industries fossiles (Hongrie, Pologne) et les objectifs climatiques de l'UE. Évaluer régulièrement l'impact de l'amendement 2-7C sur la répartition des fonds européens en fonction des valeurs partagées par les États membres. Surveiller également le risque d'érosion des initiatives nationales (Italie, France) face aux directives européennes centralisées.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "parti",
+    "generated_at": "2025-11-03T14:30:49.605226",
+    "version": "4.7"
+  }
+]

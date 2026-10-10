@@ -1,0 +1,771 @@
+{
+  "directive": {
+    "id": "1-4",
+    "title": "Flexisécurité européenne",
+    "description": "Chômage européen mutualisé (50% du salaire) pour garantir un revenu transitoire aux travailleurs en transition. L'objectif est de réduire le chômage des jeunes à 8% et de renforcer la cohésion sociale en Europe."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Porte la proposition de mutualisation européenne du risque chômage, assure la coordination entre les États membres et veille au respect du principe de subsidiarité dans l'application du dispositif.",
+    "enjeux_directive": [
+      "Équilibrer la solidarité européenne et la souveraineté budgétaire nationale.",
+      "Garantir la faisabilité technique et juridique d'un système de chômage transnational.",
+      "Prévenir les effets d'aubaine et le dumping social entre les États membres.",
+      "Articuler le dispositif avec les systèmes nationaux existants."
+    ],
+    "impacts_directive": [
+      "La directive, si elle est adoptée, renforcera le rôle de la Commission en tant que moteur de la politique sociale de l'UE et de la réduction des inégalités sociales."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-4A",
+        "origine": "Socialistes et Démocrates",
+        "description": "Étendre la couverture à 60% du salaire",
+        "impact": "Un tel amendement préserverait les revenus des travailleurs mais pourrait accroître les coûts budgétaires pour les États membres et rendre l'adoption plus difficile."
+      },
+      {
+        "id": "1-4B",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif",
+        "impact": "L'inclusion des travailleurs indépendants pourrait renforcer la cohésion sociale et la protection des emplois, mais complexifierait la mise en œuvre et le financement."
+      },
+      {
+      "id": "1-4C",
+      "origine": "Renouveau Européen",
+      "description": "Financer la formation continue pour les demandeurs d’emploi",
+      "impact": "Un amendement sur la formation continue pourrait améliorer l'adaptabilité de la main-d’œuvre et réduire le chômage de longue durée, ce qui est en ligne avec les objectifs de la Commission."
+      },
+      {
+        "id": "1-4D",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière",
+        "impact": "Cet amendement faciliterait la mobilité des travailleurs en Europe, mais poserait des défis administratifs en termes de coordination."
+      },
+      {
+        "id": "1-4E",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire",
+        "impact": "Cet amendement allégerait les coûts pour les États membres mais diminuerait la protection sociale des travailleurs, allant à l'encontre de l'objectif initial de solidarité."
+      },
+      {
+        "id": "1-4F",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI",
+        "impact": "Un tel amendement pourrait limiter l'efficacité du dispositif pour les travailleurs précaires (CDD, intérim, etc.) et créer des distorsions de concurrence."
+      },
+      {
+        "id": "1-4G",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel",
+        "impact": "Cet amendement renforcerait la cohésion territoriale mais pourrait créer des disparités entre les régions européennes."
+      },
+      {
+        "id": "1-4H",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides",
+        "impact": "Un tel amendement encouragerait les circuits courts d'emploi mais pourrait freiner la mobilité des travailleurs au sein de l'UE, un principe fondamental."
+      }
+    ],
+    "stratégie": "Trouver un juste milieu entre les exigences budgétaires des États membres et l'ambition sociale de la directive, en mettant l'accent sur la formation et la reconversion.",
+    "alliances": [
+      "France",
+      "Suède",
+      "Partis sociaux-démocrates et libéraux"
+    ],
+    "oppositions": [
+      "Hongrie",
+      "Pologne",
+      "Conservateurs et Réformistes qui privilégient la souveraineté nationale"
+    ],
+    "éléments_d_argumentaire": [
+      "La mutualisation du risque chômage est une assurance collective contre les chocs économiques asymétriques.",
+      "L'investissement dans la formation est le meilleur moyen de préparer les travailleurs aux emplois de demain."
+    ],
+    "références": [
+      "s1-d4.json (directive, commission)",
+      "scenario1.json (directive 4)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Porte un amendement visant à limiter la portée du dispositif aux salariés en CDI.",
+      "enjeux_directive": [
+        "Préserver l'équilibre budgétaire et éviter l'aléa moral.",
+        "Maintenir l'efficacité du modèle allemand de formation professionnelle.",
+        "Rassurer l'opinion publique sur la maîtrise des transferts sociaux européens."
+      ],
+      "impacts_directive": [
+        "La directive initiale est jugée trop coûteuse et risquée pour le marché du travail allemand."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4F",
+          "origine": "Allemagne",
+          "description": "Réserver le dispositif aux salariés en CDI",
+          "impact": "Un tel amendement protégerait les finances publiques mais irait à l'encontre de la flexibilité du marché du travail et de la protection des travailleurs précaires."
+        }
+      ],
+      "stratégie": "Promouvoir un modèle de flexisécurité encadré, s'appuyer sur l'expertise germanique en matière de politiques d'emploi actives.",
+      "alliances": [
+        "Hongrie",
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates, Verts/ALE, Gauche Unitaire qui promeuvent une protection sociale plus large."
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité européenne ne doit pas mettre en péril la stabilité budgétaire nationale."
+      ],
+      "références": [
+        "s1-d4.json (countries, Allemagne)",
+        "scenario1.json (amendements, 1-4F)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Porte un amendement visant à réduire la couverture à 40% du salaire.",
+      "enjeux_directive": [
+        "Contrôler les coûts pour les finances publiques nationales limitées.",
+        "Éviter la dépendance excessive aux transferts européens.",
+        "Préserver la compétitivité salariale face à l'Ouest européen."
+      ],
+      "impacts_directive": [
+        "La directive initiale est jugée trop ambitieuse et coûteuse pour les finances publiques."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4E",
+          "origine": "Hongrie",
+          "description": "Limiter la couverture à 40% du salaire",
+          "impact": "Cet amendement allégerait la charge budgétaire mais réduirait la protection sociale des travailleurs et créerait un précédent pour des transferts minimaux."
+        }
+      ],
+      "stratégie": "Fédérer les pays d'Europe centrale sur une approche budgétairement prudente et négocier des dérogations.",
+      "alliances": [
+        "Allemagne",
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates, Verts/ALE, Gauche Unitaire, France, Suède."
+      ],
+      "éléments_d_argumentaire": [
+        "L'Europe doit être un moteur de croissance, non un fardeau social pour les États membres."
+      ],
+      "références": [
+        "s1-d4.json (countries, Hongrie)",
+        "scenario1.json (amendements, 1-4E)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Porte un amendement pour soutenir les régions en déclin industriel.",
+      "enjeux_directive": [
+        "Accompagner la reconversion des bassins charbonniers et sidérurgiques.",
+        "Éviter l'exode des travailleurs qualifiés vers l'Allemagne.",
+        "Maintenir la cohésion territoriale dans les régions désindustrialisées."
+      ],
+      "impacts_directive": [
+        "La directive initiale ne prend pas suffisamment en compte les enjeux de cohésion territoriale et de transition industrielle."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les régions en déclin industriel",
+          "impact": "Cet amendement renforcerait la cohésion territoriale et l'emploi local, mais pourrait créer des disparités entre les régions européennes."
+        }
+      ],
+      "stratégie": "Construire une coalition des pays en transition industrielle pour obtenir un ciblage territorial des aides.",
+      "alliances": [
+        "Hongrie",
+        "Italie",
+        "Lobby de l'Automobile",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Renouveau Européen, France qui préfèrent une approche de marché plus large."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition économique doit être juste et ne doit laisser aucune région derrière."
+      ],
+      "références": [
+        "s1-d4.json (countries, Pologne)",
+        "scenario1.json (amendements, 1-4G)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Porte un amendement pour prioriser l'emploi local dans l'attribution des aides.",
+      "enjeux_directive": [
+        "Lutter contre le chômage de masse dans le Mezzogiorno.",
+        "Éviter la fuite des cerveaux vers le Nord de l'Europe.",
+        "Renforcer l'attractivité territoriale des régions italiennes en difficulté."
+      ],
+      "impacts_directive": [
+        "La directive initiale ne prend pas suffisamment en compte les spécificités du marché du travail italien et la lutte contre le chômage de masse."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4H",
+          "origine": "Italie",
+          "description": "Prioriser l’emploi local dans l’attribution des aides",
+          "impact": "Un tel amendement encouragerait les circuits courts d'emploi mais pourrait freiner la mobilité des travailleurs au sein de l'UE, ce qui va à l'encontre de la libre circulation."
+        }
+      ],
+      "stratégie": "Mettre en avant les spécificités du marché du travail italien et négocier des flexibilités nationales.",
+      "alliances": [
+        "Pologne",
+        "Hongrie",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Renouveau Européen, Verts/ALE qui prônent la mobilité et le marché unique."
+      ],
+      "éléments_d_argumentaire": [
+        "Un système de solidarité doit s'adapter aux réalités locales pour être efficace."
+      ],
+      "références": [
+        "s1-d4.json (countries, Italie)",
+        "scenario1.json (amendements, 1-4H)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Soutient le principe de la directive mais demande des garanties sur l'articulation avec Pôle emploi et l'UNEDIC.",
+      "enjeux_directive": [
+        "Préserver l'efficacité du modèle français d'indemnisation du chômage.",
+        "Éviter la complexification administrative pour les demandeurs d'emploi."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de renforcer la politique d'emploi française et d'obtenir des financements européens pour l'UNEDIC."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": "La France est favorable à cet amendement qui renforce la protection sociale et pourrait alléger le budget de l'UNEDIC."
+        },
+        {
+          "id": "1-4D",
+          "origine": "Verts/ALE",
+          "description": "Soutenir la mobilité professionnelle transfrontalière",
+          "impact": "La France est prudente sur cet amendement, craignant des défis administratifs et un afflux de demandeurs d'emploi."
+        }
+      ],
+      "stratégie": "Médiateur entre ambitions européennes et réalités administratives nationales.",
+      "alliances": [
+        "Suède",
+        "Commission européenne",
+        "Socialistes et Démocrates",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Hongrie, Pologne, Conservateurs et Réformistes qui s'opposent au principe de la mutualisation."
+      ],
+      "éléments_d_argumentaire": [
+        "La mutualisation doit être un atout, pas une contrainte, pour nos systèmes nationaux de protection sociale."
+      ],
+      "références": [
+        "s1-d4.json (countries, France)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Favorable à la directive mais exige le maintien des standards nordiques de qualité d'accompagnement.",
+      "enjeux_directive": [
+        "Préserver le modèle suédois de politique active de l'emploi.",
+        "Éviter le nivellement par le bas des prestations sociales."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de renforcer la politique d'emploi suédoise et de promouvoir le modèle nordique de flexisécurité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": "La Suède est favorable, car cet amendement renforce les standards sociaux européens, en ligne avec son modèle national."
+        },
+        {
+          "id": "1-4E",
+          "origine": "Hongrie",
+          "description": "Limiter la couverture à 40% du salaire",
+          "impact": "La Suède s'oppose à cet amendement, qui va à l'encontre de ses propres normes élevées en matière de protection sociale."
+        }
+      ],
+      "stratégie": "Défenseur d'une flexisécurité ambitieuse intégrant formation et accompagnement personnalisé.",
+      "alliances": [
+        "France",
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Hongrie, Conservateurs et Réformistes qui préfèrent des politiques sociales moins ambitieuses."
+      ],
+      "éléments_d_argumentaire": [
+        "Une protection sociale de qualité est un investissement dans la productivité et la compétitivité à long terme."
+      ],
+      "références": [
+        "s1-d4.json (countries, Suède)"
+      ]
+    }
+  ],
+  "partis": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Porte un amendement pour inclure les travailleurs indépendants.",
+      "enjeux_directive": [
+        "Soutenir la compétitivité des entreprises et la flexibilité du marché du travail.",
+        "Promouvoir la création d'emplois et l'entrepreneuriat."
+      ],
+      "impacts_directive": [
+        "Le groupe est favorable à la directive mais souhaite en limiter les coûts et l'impact sur la compétitivité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": "Le PPE s'oppose à cet amendement qui alourdirait les charges sociales et budgétaires, nuisant à la compétitivité."
+        },
+        {
+          "id": "1-4B",
+          "origine": "Parti Populaire Européen",
+          "description": "Inclure les travailleurs indépendants dans le dispositif",
+          "impact": "L'inclusion des indépendants renforcerait la cohésion sociale mais complexifierait la mise en œuvre et le financement."
+        }
+      ],
+      "stratégie": "Trouver un compromis entre protection sociale et flexibilité du marché du travail.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates, Gauche Unitaire, Verts/ALE."
+      ],
+      "éléments_d_argumentaire": [
+        "La flexisécurité est un outil pour stimuler l'économie et non un simple système d'indemnisation."
+      ],
+      "références": [
+        "s1-d4.json (parties, PPE)",
+        "scenario1.json (amendements, 1-4B)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Porte un amendement pour étendre la couverture à 60% du salaire.",
+      "enjeux_directive": [
+        "Maximiser la protection sociale des travailleurs européens.",
+        "Réduire les inégalités et renforcer la solidarité."
+      ],
+      "impacts_directive": [
+        "Le groupe est très favorable à la directive, mais la trouve insuffisamment ambitieuse en matière de protection sociale."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": "Cet amendement protégerait davantage les travailleurs mais accroîtrait les coûts pour les États membres."
+        },
+        {
+          "id": "1-4E",
+          "origine": "Hongrie",
+          "description": "Limiter la couverture à 40% du salaire",
+          "impact": "Le groupe s'oppose fermement à cet amendement qui affaiblirait la protection sociale et la solidarité européenne."
+        }
+      ],
+      "stratégie": "Se positionner comme garant de la justice sociale dans la transition économique.",
+      "alliances": [
+        "Suède",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen, Renouveau Européen, Conservateurs et Réformistes."
+      ],
+      "éléments_d_argumentaire": [
+        "L'Europe est un espace de solidarité, pas une simple zone de libre-échange."
+      ],
+      "références": [
+        "s1-d4.json (parties, Socialistes et Démocrates)",
+        "scenario1.json (amendements, 1-4A)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Porte un amendement pour financer la formation continue.",
+      "enjeux_directive": [
+        "Soutenir la formation continue pour les demandeurs d’emploi.",
+        "Améliorer l'adaptabilité de la main-d’œuvre aux mutations technologiques."
+      ],
+      "impacts_directive": [
+        "Le groupe est favorable à la directive, mais la considère insuffisante pour stimuler l'innovation et l'adaptabilité du marché du travail."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4C",
+          "origine": "Renouveau Européen",
+          "description": "Financer la formation continue pour les demandeurs d’emploi",
+          "impact": "Un tel amendement améliorerait l'adaptabilité de la main-d’œuvre et réduirait le chômage de longue durée."
+        },
+        {
+          "id": "1-4H",
+          "origine": "Italie",
+          "description": "Prioriser l’emploi local dans l’attribution des aides",
+          "impact": "Renouveau Européen s'oppose à cet amendement qui contredit le principe de mobilité des travailleurs du marché unique."
+        }
+      ],
+      "stratégie": "Promouvoir une approche libérale mais sociale de la flexisécurité.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Allemagne",
+        "Lobby des entreprises de la tech"
+      ],
+      "oppositions": [
+        "Gauche Unitaire, Verts/ALE qui ne veulent pas de solutions de marché."
+      ],
+      "éléments_d_argumentaire": [
+        "La flexibilité est la clé pour une économie européenne compétitive et résiliente."
+      ],
+      "références": [
+        "s1-d4.json (parties, Renouveau Européen)",
+        "scenario1.json (amendements, 1-4C)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Porte un amendement pour soutenir la mobilité professionnelle transfrontalière.",
+      "enjeux_directive": [
+        "Faciliter la mobilité des travailleurs au sein de l'UE.",
+        "Soutenir l'emploi des jeunes et les transitions professionnelles."
+      ],
+      "impacts_directive": [
+        "Le groupe est très favorable à la directive, mais la juge insuffisante sur le plan de la mobilité et de la transition écologique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4D",
+          "origine": "Verts/ALE",
+          "description": "Soutenir la mobilité professionnelle transfrontalière",
+          "impact": "Cet amendement faciliterait la mobilité des travailleurs en Europe, mais pourrait créer des défis administratifs en termes de coordination."
+        },
+        {
+          "id": "1-4F",
+          "origine": "Allemagne",
+          "description": "Réserver le dispositif aux salariés en CDI",
+          "impact": "Les Verts s'opposent à cet amendement qui exclurait les travailleurs précaires et limiterait l'efficacité du dispositif."
+        }
+      ],
+      "stratégie": "Se positionner en défenseur de la mobilité et de la transition écologique juste.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Suède",
+        "ONG environnementales"
+      ],
+      "oppositions": [
+        "Les partis et les gouvernements qui s'opposent à la libre circulation des travailleurs, comme l'Italie et la Hongrie."
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité européenne doit se traduire par une Europe sans frontières pour les travailleurs."
+      ],
+      "références": [
+        "s1-d4.json (parties, Verts/ALE)",
+        "scenario1.json (amendements, 1-4D)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Non-porteur, mais s'oppose à une mutualisation trop large.",
+      "enjeux_directive": [
+        "Préserver la souveraineté budgétaire nationale.",
+        "Limiter les transferts sociaux européens."
+      ],
+      "impacts_directive": [
+        "Le groupe s'oppose à la directive telle quelle, car elle porte atteinte à la souveraineté des États membres."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4E",
+          "origine": "Hongrie",
+          "description": "Limiter la couverture à 40% du salaire",
+          "impact": "Cet amendement est en ligne avec la position du groupe et allégerait les coûts pour les États membres."
+        },
+        {
+          "id": "1-4A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": "Le groupe s'oppose fermement à cet amendement qui augmente la charge financière et la mutualisation."
+        }
+      ],
+      "stratégie": "S'opposer aux mesures de mutualisation et promouvoir une flexibilité budgétaire nationale.",
+      "alliances": [
+        "Hongrie",
+        "Pologne",
+        "Allemagne"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates, Gauche Unitaire, Verts/ALE."
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité doit être un choix national, non une obligation européenne."
+      ],
+      "références": [
+        "s1-d4.json (parties, Conservateurs et Réformistes)",
+        "scenario1.json (amendements, 1-4E)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique",
+      "role_europeen": "Non-porteur, mais milite pour une protection sociale plus ambitieuse.",
+      "enjeux_directive": [
+        "Assurer la protection de tous les travailleurs.",
+        "Lutter contre la précarité et les inégalités sociales."
+      ],
+      "impacts_directive": [
+        "Le groupe est favorable à la directive, mais la trouve trop timide et trop influencée par les logiques de marché."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4A",
+          "origine": "Socialistes et Démocrates",
+          "description": "Étendre la couverture à 60% du salaire",
+          "impact": "Un tel amendement protégerait davantage les travailleurs et réduirait les inégalités, ce qui est en ligne avec les objectifs du groupe."
+        },
+        {
+          "id": "1-4F",
+          "origine": "Allemagne",
+          "description": "Réserver le dispositif aux salariés en CDI",
+          "impact": "Le groupe s'oppose à cet amendement qui est considéré comme une régression sociale et une exclusion des travailleurs précaires."
+        }
+      ],
+      "stratégie": "S'allier avec les groupes de gauche et les syndicats pour défendre les droits des travailleurs.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Suède",
+        "Italie"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen, Renouveau Européen, Conservateurs et Réformistes."
+      ],
+      "éléments_d_argumentaire": [
+        "La solidarité est le fondement de la construction européenne et doit s'appliquer à tous."
+      ],
+      "références": [
+        "s1-d4.json (parties, Gauche Unitaire)",
+        "scenario1.json (amendements, 1-4A)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Défend les intérêts des plateformes numériques et des travailleurs de la tech.",
+      "enjeux_directive": [
+        "Soutenir l'inclusion des travailleurs de l'économie des plateformes.",
+        "Promouvoir la formation continue et l'acquisition de compétences numériques."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les entreprises de la tech de se positionner comme un acteur clé de la transition du marché du travail."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4B",
+          "origine": "Parti Populaire Européen",
+          "description": "Inclure les travailleurs indépendants dans le dispositif",
+          "impact": "Le lobby soutient cet amendement qui formaliserait la protection des travailleurs de l'économie des plateformes, en ligne avec ses intérêts."
+        },
+        {
+          "id": "1-4C",
+          "origine": "Renouveau Européen",
+          "description": "Financer la formation continue pour les demandeurs d’emploi",
+          "impact": "Ce lobby est favorable à l'amendement qui soutient les compétences numériques, un enjeu clé pour l'industrie."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent la flexibilité du marché du travail et la formation continue.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Gauche Unitaire, Socialistes et Démocrates qui cherchent à réglementer strictement le statut des travailleurs des plateformes."
+      ],
+      "éléments_d_argumentaire": [
+        "La flexisécurité est un outil pour soutenir l'innovation et l'emploi dans le secteur du numérique."
+      ],
+      "références": [
+        "s1-d4.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente le secteur financier, cherchant à promouvoir le financement de la transition.",
+      "enjeux_directive": [
+        "Financer les programmes de formation et de reconversion.",
+        "Développer des solutions de marché pour les régimes de retraite."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le secteur financier de développer des solutions de marché."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4C",
+          "origine": "Renouveau Européen",
+          "description": "Financer la formation continue pour les demandeurs d’emploi",
+          "impact": "Cet amendement est soutenu par le lobby car il ouvre des opportunités de financement de la formation par des acteurs privés."
+        }
+      ],
+      "stratégie": "Se positionner comme le partenaire financier de la transition du marché du travail.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Gauches Unitaire qui préfèrent des financements publics et des systèmes d'État."
+      ],
+      "éléments_d_argumentaire": [
+        "L'investissement privé est indispensable pour une politique de l'emploi efficace."
+      ],
+      "références": [
+        "s1-d4.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente l'industrie agrochimique, moins directement concernée mais impliquée dans les mutations du marché de l'emploi agricole.",
+      "enjeux_directive": [
+        "Accompagner la transition des agriculteurs vers l'agroécologie.",
+        "Financer la reconversion des emplois industriels ruraux.",
+        "Maintenir l'emploi dans les territoires agricoles en mutation."
+      ],
+      "impacts_directive": [
+        "La directive pourrait financer la reconversion des emplois agricoles vers l'agroécologie et la durabilité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les régions en déclin industriel",
+          "impact": "Ce lobby est favorable à l'amendement car il cible les aides sur les régions rurales et industrielles, en lien avec les emplois de son secteur."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent l'emploi local et la reconversion.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Verts/ALE, Socialistes et Démocrates qui mettent l'accent sur la reconversion loin du modèle intensif."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition écologique doit être une opportunité pour la création d'emplois, pas une menace pour l'emploi existant."
+      ],
+      "références": [
+        "s1-d4.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharmaceutique",
+      "role_europeen": "Représente l'industrie pharmaceutique, cherchant à promouvoir la formation aux métiers de la santé.",
+      "enjeux_directive": [
+        "Soutenir la formation aux métiers de la santé et de la recherche.",
+        "Faciliter la mobilité des chercheurs et techniciens européens.",
+        "Développer les compétences biotechnologiques via la formation continue."
+      ],
+      "impacts_directive": [
+        "La directive peut financer la formation de nouveaux profils en lien avec la recherche et la santé."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4C",
+          "origine": "Renouveau Européen",
+          "description": "Financer la formation continue pour les demandeurs d’emploi",
+          "impact": "Le lobby soutient cet amendement car il peut permettre de financer des formations qualifiantes pour des métiers très spécialisés."
+        },
+        {
+          "id": "1-4D",
+          "origine": "Verts/ALE",
+          "description": "Soutenir la mobilité professionnelle transfrontalière",
+          "impact": "Le lobby est favorable à cet amendement qui facilite la mobilité des chercheurs et des experts au sein de l'UE."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent l'emploi qualifié et la recherche.",
+      "alliances": [
+        "Allemagne",
+        "Suède",
+        "Socialistes et Démocrates",
+        "Renouveau Européen"
+      ],
+      "oppositions": ["Conservateurs et Réformistes","Parti Populaire Européen","Hongrie","Italie"],
+      "éléments_d_argumentaire": [
+        "Un marché du travail qualifié est un atout pour la recherche et l'innovation en Europe."
+      ],
+      "références": [
+        "s1-d4.json (lobbies, Pharmaceutique)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, cherchant à financer la reconversion vers l'électrique.",
+      "enjeux_directive": [
+        "Financer la reconversion vers l'électrique et l'hydrogène.",
+        "Accompagner les fermetures d'usines de moteurs thermiques.",
+        "Former les travailleurs aux nouvelles technologies de mobilité."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité d'obtenir des financements pour la reconversion des travailleurs et des sites industriels."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-4G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les régions en déclin industriel",
+          "impact": "Le lobby soutient cet amendement car la reconversion de l'industrie automobile (vers l'électrique) est un enjeu majeur dans certaines régions industrielles européennes."
+        }
+      ],
+      "stratégie": "S'allier avec les acteurs qui soutiennent la transition industrielle et la reconversion.",
+      "alliances": [
+        "Allemagne",
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE qui poussent pour une transition industrielle plus radicale et parfois des politiques anti-voiture."
+      ],
+      "éléments_d_argumentaire": [
+        "Une transition juste est un impératif social pour l'industrie automobile européenne."
+      ],
+      "références": [
+        "s1-d4.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

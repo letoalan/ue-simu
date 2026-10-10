@@ -1,0 +1,622 @@
+# cou\_s2-d4
+
+Source : `directives/fiches-acteurs/s2/d4/cou_s2-d4.json`
+
+## Contenu
+
+- **Élément 1** :
+  - **type** : Etat
+  - **nom** : France
+  - **actor\_id** : france
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Limiter la durée de la réserve stratégique à 3 mois pour éviter les surcoûts prohibitifs d'immobilisation et de stockage céréalier.
+    - Préserver la réactivité et la compétitivité des exportations de céréales françaises sur les marchés européens et internationaux.
+    - Défendre le modèle agricole familial et valoriser les circuits courts territoriaux.
+    - Soutenir la transition agroécologique sans fragiliser la trésorerie des exploitations agricoles.
+  - **impacts\_directive** :
+    - La directive affectera les intérêts stratégiques et économiques de France.
+    - La position de France reflète ses préoccupations nationales spécifiques.
+  - **stratégie** : Prôner une gestion pragmatique des stocks pour préserver la rentabilité des exploitations, en nouant des alliances avec les pays méridionaux sur les circuits courts tout en s'opposant aux reports de mise en œuvre.
+  - **alliances** :
+    - Italie (collaboration sur les circuits courts, filières de qualité et résilience hydrique)
+    - S&D (soutien au label de circuits courts et justice sociale pour les exploitants)
+    - Verts/ALE (soutien à la transition agroécologique progressive)
+    - Automobile (machinisme agricole décarboné et logistique de proximité)
+    - Banque et Finance (financement des capacités de stockage et modernisation agricole)
+    - Big Tech (agronomie de précision, capteurs de sol et prévision des calamités climatiques)
+  - **oppositions** :
+    - Hongrie (demande de report de deux ans pénalisant la réactivité européenne)
+    - Pologne (volonté de réserver les fonds aux seules méga-exploitations)
+    - Conservateurs et Réformistes (refus de toute régulation solidaire)
+    - Énergies fossiles (pressions sur les prix des carburants et engrais agricoles)
+  - **éléments\_d\_argumentaire** :
+    - Une réserve de 3 mois offre le compromis optimal entre sécurité d'approvisionnement et maîtrise des frais financiers de stockage.
+    - Le maintien de flux céréaliers dynamiques est indispensable pour préserver les parts de marché et l'équilibre financier de nos producteurs.
+    - Les circuits courts apportent une valeur ajoutée directe aux agriculteurs et renforcent le lien de confiance avec les consommateurs.
+    - L'accompagnement financier des exploitations familiales est la clé d'une transition agroécologique réussie.
+  - **références** :
+    - s2d4.json
+    - scenario2.json
+  - **notes\_internes** : Préserver l'équilibre entre la grande céréaliculture exportatrice du Bassin parisien et les filières d'élevage et polyculture régionales.
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-4A
+      - **titre** : Porter la réserve stratégique à 9 mois
+      - **position** : DEFAVORABLE
+      - **justification** : La France s'oppose à une augmentation de la réserve stratégique à 9 mois, considérant que cela augmenterait les coûts de stockage et pénaliserait les producteurs agricoles. Elle préfère un modèle équilibré qui tient compte des spécificités hexagonales en matière d'agriculture.
+      - **priorite** : moyenne
+      - **origine** : Renouveau Européen
+      - **description** : Porter la réserve stratégique à 9 mois
+    - **Élément 2** :
+      - **amendement** : 2-4B
+      - **titre** : Conditionner les aides à la transition agroécologique
+      - **position** : FAVORABLE
+      - **justification** : La France soutient cet amendement car il aligne les aides européennes avec une transition agroécologique plus ambitieuse, compatible avec le modèle agricole français. Cela renforce l'innovation et la durabilité des pratiques agricoles.
+      - **priorite** : très\_haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner les aides à la transition agroécologique
+    - **Élément 3** :
+      - **amendement** : 2-4C
+      - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : La France appuie ce fonds à condition qu'il ne pénalise pas les producteurs locaux. Elle propose des mesures compensatoires pour soutenir les filières agroalimentaires face aux pressions internationales.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **Élément 4** :
+      - **amendement** : 2-4D
+      - **titre** : Créer un label européen de circuits courts
+      - **position** : FAVORABLE
+      - **justification** : La France soutient cet amendement car il valorise les circuits courts et renforce l'autosuffisance alimentaire. Cela correspond à ses objectifs de préservation des filières locales et de promotion de la qualité agricole.
+      - **priorite** : très\_haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un label européen de circuits courts
+    - **Élément 5** :
+      - **amendement** : 2-4E
+      - **titre** : Limiter la réserve stratégique à 3 mois
+      - **position** : FAVORABLE
+      - **justification** : France est l'initiateur de cet amendement. Elle défend fermement cette proposition pour éviter les coûts excessifs liés à une réserve stratégique trop longue, tout en garantissant la sécurité alimentaire et la compétitivité des producteurs agricoles.
+      - **priorite** : très\_haute
+      - **origine** : France
+      - **description** : Limiter la réserve stratégique à 3 mois
+    - **Élément 6** :
+      - **amendement** : 2-4F
+      - **titre** : Exclure certains produits agricoles de la réserve
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : La France s'oppose à l'exclusion partielle des produits agricoles, craignant que cela ne pénalise certaines filières locales. Elle propose une approche équilibrée pour éviter les distorsions de concurrence.
+      - **priorite** : moyenne
+      - **origine** : Suède
+      - **description** : Exclure certains produits agricoles de la réserve
+    - **Élément 7** :
+      - **amendement** : 2-4G
+      - **titre** : Soutenir prioritairement les grandes exploitations
+      - **position** : DEFAVORABLE
+      - **justification** : La France s'oppose à une prioritisation des grandes exploitations, craignant que cela ne pénalise les petites et moyennes exploitations agricoles. Elle défend un modèle qui valorise la diversité et l'équilibre entre tous les types de productions.
+      - **priorite** : haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les grandes exploitations
+    - **Élément 8** :
+      - **amendement** : 2-4H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : La France appuie un report conditionnel, afin d'assurer une transition progressive et harmonisée. Elle propose un calendrier flexible qui tienne compte des réalités nationales et des spécificités agricoles.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Reporter l’application de la directive de deux ans
+  - **scenario\_id** : `2`
+  - **directive\_id** : `4`
+  - **actor\_type** : pays
+  - **generated\_at** : 2025-10-30T15:35:52.791599
+  - **version** : 4.7
+- **Élément 2** :
+  - **type** : Etat
+  - **nom** : Allemagne
+  - **actor\_id** : allemagne
+  - **role\_europeen** : Non-porteur - Soutient la directive avec vigilance sur les coûts et la libre circulation des produits agricoles.
+  - **enjeux\_directive** :
+    - Garantir un approvisionnement céréalier et alimentaire stable pour les industries de transformation agroalimentaire et la population.
+    - Préserver le bon fonctionnement et la libre circulation des denrées agricoles au sein du marché intérieur sans distorsions.
+    - Maîtriser les coûts budgétaires globaux de stockage public et éviter les lourdeurs bureaucratiques excessives.
+    - Accompagner la décarbonation du machinisme agricole et la modernisation technique des exploitations.
+  - **impacts\_directive** :
+    - La directive affectera les intérêts stratégiques et économiques de Allemagne.
+    - La position de Allemagne reflète ses préoccupations nationales spécifiques.
+  - **stratégie** : Adopter un rôle de médiateur budgétaire rigoureux, veillant à ce que la réserve céréalière garantisse la sécurité d'approvisionnement des transformateurs sans peser excessivement sur les finances publiques.
+  - **alliances** :
+    - France (stabilité des marchés et équilibre des approvisionnements)
+    - Renouveau Européen (pragmatisme économique et modernisation des filières)
+    - Automobile (machinisme agricole sobre et logistique multimodale des grains)
+    - Banque et Finance (rigueur des montages financiers de stockage)
+    - Big Tech (modélisation agronomique et prévisions météorologiques par l'IA)
+  - **oppositions** :
+    - Hongrie (opposition à un report de deux ans qui créerait de l'incertitude sur les approvisionnements)
+    - Pologne (refus des distorsions de concurrence favorisant uniquement les grands céréaliers de l'Est)
+    - Énergies fossiles (dépendance excessive aux énergies carbonées pour les silos)
+  - **éléments\_d\_argumentaire** :
+    - Le marché intérieur agricole doit rester fluide, sans constitution de stocks publics excessifs qui fausseraient les prix.
+    - L'industrie agroalimentaire a besoin d'une visibilité claire et d'une sécurité contractuelle d'approvisionnement.
+    - La rigueur budgétaire impose de calibrer strictement les mécanismes de compensation et de stockage.
+    - Le progrès agronomique et le machinisme performant permettent d'allier productivité et respect de l'environnement.
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-4A
+      - **titre** : Porter la réserve stratégique à 9 mois
+      - **position** : FAVORABLE
+      - **justification** : L'Allemagne soutient cet amendement pour garantir une flexibilité accrue dans la gestion des crises alimentaires. Une réserve stratégique élargie permet de renforcer la sécurité nationale tout en facilitant l'intégration progressive des produits locaux sur le marché allemand.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Porter la réserve stratégique à 9 mois
+    - **Élément 2** :
+      - **amendement** : 2-4B
+      - **titre** : Conditionner les aides à la transition agroécologique
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : La transition agroécologique est alignée sur les objectifs allemands d'agriculture durable. Toutefois, des conditions supplémentaires doivent être imposées pour garantir un soutien équitable aux petites exploitations agricoles et éviter une concentration excessive du secteur.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner les aides à la transition agroécologique
+    - **Élément 3** :
+      - **amendement** : 2-4C
+      - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+      - **position** : FAVORABLE
+      - **justification** : L'Allemagne soutient cette initiative pour renforcer l'autosuffisance alimentaire européenne et réduire les dépendances géographiques. Un tel fonds permettrait de stimuler l'agriculture régionale tout en favorisant la transition écologique.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **Élément 4** :
+      - **amendement** : 2-4D
+      - **titre** : Créer un label européen de circuits courts
+      - **position** : FAVORABLE
+      - **justification** : Ce dispositif renforce la valorisation des produits locaux et soutient les producteurs agricoles allemands. Il favorise également une distribution plus durable, en cohérence avec les priorités climatiques.
+      - **priorite** : moyenne
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un label européen de circuits courts
+    - **Élément 5** :
+      - **amendement** : 2-4E
+      - **titre** : Limiter la réserve stratégique à 3 mois
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Une réserve stratégique trop courte risque de fragiliser la sécurité alimentaire allemande, surtout en cas de crises géopolitiques. Cependant, des mesures d'efficacité accrue doivent être associées pour éviter une surcharge logistique.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Limiter la réserve stratégique à 3 mois
+    - **Élément 6** :
+      - **amendement** : 2-4F
+      - **titre** : Exclure certains produits agricoles de la réserve
+      - **position** : DEFAVORABLE
+      - **justification** : L'Allemagne s'oppose à cette proposition car elle pourrait créer des distorsions dans le marché intérieur et affaiblir les secteurs agricoles allemands. Une approche inclusive est nécessaire pour éviter la fragmentation du marché.
+      - **priorite** : faible
+      - **origine** : Suède
+      - **description** : Exclure certains produits agricoles de la réserve
+    - **Élément 7** :
+      - **amendement** : 2-4G
+      - **titre** : Soutenir prioritairement les grandes exploitations
+      - **position** : DEFAVORABLE
+      - **justification** : L'Allemagne défend une approche équilibrée qui valorise aussi bien les grandes structures agricoles que les petites exploitations familiales. Une concentration excessive risque de nuire à la diversité des modèles agricoles européens.
+      - **priorite** : faible
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les grandes exploitations
+    - **Élément 8** :
+      - **amendement** : 2-4H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : NEUTRE
+      - **justification** : L'Allemagne ne s'oppose pas à un report temporaire, mais insiste sur l'importance d'une mise en œuvre rapide pour répondre aux urgences climatiques. Tout report doit être accompagné de mesures concrètes et de financements suffisants.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Reporter l’application de la directive de deux ans
+  - **références** :
+    - s2d4.json
+    - scenario2.json
+  - **notes\_internes** : Surveiller l'impact sur l'industrie de transformation et veiller à une gestion décentralisée mais coordonnée des stocks stratégiques.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `4`
+  - **actor\_type** : pays
+  - **generated\_at** : 2025-10-30T15:05:29.407709
+  - **version** : 4.7
+- **Élément 3** :
+  - **type** : Etat
+  - **nom** : Italie
+  - **actor\_id** : italie
+  - **role\_europeen** : Non-porteur - Soutiens fortement la directive mais exige un accès équitable aux fonds de soutien agricole.
+  - **enjeux\_directive** :
+    - Sécuriser les productions vivrières locales et les cultures méditerranéennes face aux crises géopolitiques.
+    - Valoriser les filières d'excellence sous signes officiels de qualité (AOP/IGP) et l'agriculture paysanne.
+    - Mobiliser des financements européens pour la résilience hydrique des exploitations face aux sécheresses récurrentes.
+    - Assurer une répartition équitable des fonds de stockage entre céréales continentales et productions méridionales.
+  - **impacts\_directive** :
+    - La directive affectera les intérêts stratégiques et économiques de l'Italie, notamment en matière d'approvisionnement alimentaire et de modernisation agricole.
+    - La position italienne reflète ses préoccupations nationales spécifiques liées à la résilience des chaînes alimentaires face aux crises.
+  - **stratégie** : Agir comme chef de file des agricultures méridionales, en défendant les circuits courts et les aides à l'adaptation climatique face au stress hydrique.
+  - **alliances** :
+    - France (défense des modèles agricoles familiaux et des circuits courts)
+    - S&D (cohésion rurale et alimentation de qualité)
+    - Verts/ALE (soutien à l'agroécologie et gestion durable de l'eau)
+    - Pharmaceutique (sécurité sanitaire et traçabilité des filières)
+    - Banque et Finance (prêts bonifiés pour les infrastructures d'irrigation et de stockage)
+  - **oppositions** :
+    - Pologne (tentative de monopoliser les aides au profit des céréales intensives du Nord et de l'Est)
+    - Conservateurs et Réformistes (dérégulation mettant en péril les normes de qualité AOP/IGP)
+    - Énergies fossiles (impact de la hausse des prix des intrants sur les exploitations italiennes)
+  - **éléments\_d\_argumentaire** :
+    - La souveraineté alimentaire européenne ne peut se limiter aux grandes céréales et doit englober la diversité méditerranéenne.
+    - Les sécheresses chroniques imposent des investissements d'urgence dans les retenues d'eau et l'irrigation efficiente.
+    - Les circuits courts et les labels de qualité protègent la valeur ajoutée des agriculteurs face aux géants industriels.
+    - Les fonds européens doivent soutenir équitablement le Sud pour éviter une désertification agricole rurale.
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-4A
+      - **titre** : Porter la réserve stratégique à 9 mois
+      - **position** : FAVORABLE
+      - **justification** : L'Italie soutient cet amendement car il permet de stabiliser les stocks alimentaires nationaux face aux crises géopolitiques, tout en garantissant une résilience des chaînes d'approvisionnement pour les produits agricoles italiens emblématiques (ex : fromages, olives).
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Porter la réserve stratégique à 9 mois
+    - **Élément 2** :
+      - **amendement** : 2-4B
+      - **titre** : Conditionner les aides à la transition agroécologique
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : L'Italie appuie cet amendement si les critères de financement intègrent des mesures spécifiques pour les régions du Sud, où la transition agroécologique est plus complexe en raison des contraintes climatiques et économiques.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner les aides à la transition agroécologique
+    - **Élément 3** :
+      - **amendement** : 2-4C
+      - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+      - **position** : FAVORABLE
+      - **justification** : L'Italie considère cet amendement comme essentiel pour renforcer les filières agricoles locales et réduire les dépendances logistiques, en particulier dans le Sud italien.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **Élément 4** :
+      - **amendement** : 2-4D
+      - **titre** : Créer un label européen de circuits courts
+      - **position** : FAVORABLE
+      - **justification** : L'Italie soutient cet amendement pour promouvoir les productions agricoles italiennes et renforcer leur visibilité sur le marché européen, tout en réduisant la dépendance aux importations.
+      - **priorite** : haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un label européen de circuits courts
+    - **Élément 5** :
+      - **amendement** : 2-4E
+      - **titre** : Limiter la réserve stratégique à 3 mois
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : L'Italie s'oppose partiellement à cet amendement car une réserve trop courte compromettrait la sécurité alimentaire nationale, en particulier face aux crises géopolitiques.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Limiter la réserve stratégique à 3 mois
+    - **Élément 6** :
+      - **amendement** : 2-4F
+      - **titre** : Exclure certains produits agricoles de la réserve
+      - **position** : DEFAVORABLE
+      - **justification** : L'Italie s'oppose à cet amendement car il risquerait d'exclure des produits agricoles italiens emblématiques, réduisant ainsi la diversité alimentaire nationale et l'autonomie stratégique.
+      - **priorite** : moyenne
+      - **origine** : Suède
+      - **description** : Exclure certains produits agricoles de la réserve
+    - **Élément 7** :
+      - **amendement** : 2-4G
+      - **titre** : Soutenir prioritairement les grandes exploitations
+      - **position** : DEFAVORABLE
+      - **justification** : L'Italie s'oppose à cet amendement car il pourrait accroître les inégalités entre les PME agricoles et les grandes exploitations, menaçant la biodiversité agricole italienne.
+      - **priorite** : faible
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les grandes exploitations
+    - **Élément 8** :
+      - **amendement** : 2-4H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : L'Italie s'oppose partiellement à cet amendement car un report prolongé pourrait retarder les mesures climatiques critiques pour la résilience agricole italienne.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Reporter l’application de la directive de deux ans
+  - **références** :
+    - s2d4.json
+    - scenario2.json
+  - **notes\_internes** : Priorité absolue aux mesures de résilience face au stress hydrique dans la plaine du Pô et le Mezzogiorno.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `4`
+  - **actor\_type** : pays
+  - **generated\_at** : 2025-10-30T15:51:37.705699
+  - **version** : 4.7
+- **Élément 4** :
+  - **type** : Etat
+  - **nom** : Hongrie
+  - **actor\_id** : hongrie
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Obtenir un délai de deux ans pour permettre l'adaptation des silos et infrastructures de stockage nationales.
+    - Limiter la charge financière immédiate pesant sur les exploitations agricoles familiales et le budget national.
+    - Préserver l'autonomie nationale dans la gestion des équilibres agricoles et des surplus céréaliers.
+    - Assurer une transition progressive vers les normes de stockage sans déstabiliser la viabilité des exploitants.
+  - **impacts\_directive** :
+    - La directive affectera les intérêts stratégiques et économiques de Hongrie.
+    - La position de Hongrie reflète ses préoccupations nationales spécifiques.
+  - **stratégie** : Bâtir une alliance d'assouplissement avec les pays demandant de la flexibilité budgétaire et réglementaire, en faisant valoir les délais d'équipement des silos danubiens.
+  - **alliances** :
+    - Pologne (partage des préoccupations sur les investissements de stockage et les contraintes de l'Est)
+    - Parti Populaire Européen (flexibilité réglementaire et pragmatisme)
+    - Conservateurs et Réformistes (défense de la subsidiarité nationale)
+    - Énergies fossiles (maintien d'engrais et de carburants agricoles accessibles)
+  - **oppositions** :
+    - France (exigence d'une application sans délai pour stabiliser les marchés)
+    - Renouveau Européen (refus catégorique du report de deux ans)
+    - Verts/ALE (opposition à tout ralentissement des normes agroécologiques)
+  - **éléments\_d\_argumentaire** :
+    - Un délai de deux ans est indispensable pour que nos silos ruraux soient modernisés sans asphyxier nos exploitants.
+    - Chaque État membre doit conserver une marge d'appréciation adaptée à ses spécificités pédo-climatiques.
+    - Imposer des normes de stockage trop rapides pénaliserait les fermes familiales au profit des grands négociants.
+    - La souveraineté alimentaire commence par la protection économique des producteurs nationaux.
+  - **références** :
+    - s2d4.json
+    - scenario2.json
+  - **notes\_internes** : Maintenir une position ferme sur le calendrier d'application tout en négociant des dérogations pour les silos régionaux.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `4`
+  - **actor\_type** : pays
+  - **generated\_at** : 2025-10-30T16:07:15.472591
+  - **version** : 4.7
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-4A
+      - **titre** : Porter la réserve stratégique à 9 mois
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Hongrie soutient cet amendement dans un contexte de crise alimentaire globale, mais exige des compensations financières pour préserver sa sécurité alimentaire nationale. Une réserve plus importante permettrait de mieux gérer les fluctuations mondiales tout en protégeant les exportations agricoles.
+      - **priorite** : haute
+      - **origine** : Renouveau Européen
+      - **description** : Porter la réserve stratégique à 9 mois
+    - **Élément 2** :
+      - **amendement** : 2-4B
+      - **titre** : Conditionner les aides à la transition agroécologique
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Hongrie appuie un conditionnement des aides mais exige une adaptation aux conditions locales, en particulier pour les exploitations familiales. Elle propose un fonds spécifique pour accompagner la transition technologique dans les régions agricoles défavorisées.
+      - **priorite** : moyenne
+      - **origine** : Verts/ALE
+      - **description** : Conditionner les aides à la transition agroécologique
+    - **Élément 3** :
+      - **amendement** : 2-4C
+      - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+      - **position** : FAVORABLE
+      - **justification** : Ce fonds est perçu comme une opportunité stratégique pour renforcer l’autosuffisance alimentaire hongroise tout en développant les circuits courts. Hongrie propose de le combiner à des mesures d’accompagnement technologique et infrastructuraux.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **Élément 4** :
+      - **amendement** : 2-4D
+      - **titre** : Créer un label européen de circuits courts
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Hongrie soutient l’initiative mais exige que le label tienne compte des spécificités locales, notamment les pratiques agricoles traditionnelles et les marchés régionaux. Elle propose un financement ciblé pour les producteurs locaux.
+      - **priorite** : haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un label européen de circuits courts
+    - **Élément 5** :
+      - **amendement** : 2-4E
+      - **titre** : Limiter la réserve stratégique à 3 mois
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Hongrie s’oppose à cette mesure en raison des risques pour sa sécurité alimentaire, mais accepte un compromis si les conditions de financement sont adaptées. Elle propose une réserve minimale de 6 mois avec un mécanisme de compensation européenne.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Limiter la réserve stratégique à 3 mois
+    - **Élément 6** :
+      - **amendement** : 2-4F
+      - **titre** : Exclure certains produits agricoles de la réserve
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Hongrie s’oppose à cette exclusion pour préserver l’équilibre alimentaire national. Elle propose une révision des critères d’exclusion pour inclure les produits stratégiques comme le blé et la viande bovine.
+      - **priorite** : moyenne
+      - **origine** : Suède
+      - **description** : Exclure certains produits agricoles de la réserve
+    - **Élément 7** :
+      - **amendement** : 2-4G
+      - **titre** : Soutenir prioritairement les grandes exploitations
+      - **position** : DEFAVORABLE
+      - **justification** : Hongrie s’oppose à cette proposition pour préserver les petits exploitants familiaux, clé de la ruralité hongroise. Elle propose un équilibre entre soutien aux grandes exploitations et renforcement des circuits courts.
+      - **priorite** : faible
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les grandes exploitations
+    - **Élément 8** :
+      - **amendement** : 2-4H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE
+      - **justification** : Hongrie défend cet amendement qu'elle a elle-même proposé pour permettre un alignement des infrastructures agricoles obsolescentes sur les exigences de la directive, tout en évitant une charge budgétaire excessive. Ce délai lui permet également d’assurer une transition progressive vers des pratiques agroécologiques adaptées à son contexte géographique et climatique.
+      - **priorite** : très\_haute
+      - **origine** : Hongrie
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 5** :
+  - **type** : Etat
+  - **nom** : Pologne
+  - **actor\_id** : pologne
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Consolider les capacités de production et de stockage des grands bassins céréaliers polonais.
+    - Maximiser les volumes de céréales mobilisables pour garantir la sécurité alimentaire de l'Est européen.
+    - Orienter les aides européennes de stockage vers les structures agricoles à fort rendement capables d'alimenter les réserves stratégiques.
+    - Sécuriser l'accès aux engrais azotés et carburants indispensables à la productivité des grandes plaines agricoles.
+  - **impacts\_directive** :
+    - La directive affectera les intérêts stratégiques et économiques de Pologne.
+    - La position de Pologne reflète ses préoccupations nationales spécifiques.
+  - **stratégie** : Pousser vigoureusement pour des aides et des investissements ciblant les exploitations à fort volume céréalier, en mettant en avant la position géostratégique de la Pologne aux frontières orientales de l'UE.
+  - **alliances** :
+    - Hongrie (solidarité régionale d'Europe centrale)
+    - PPE (défense des grands producteurs et compétitivité agricole)
+    - Agrochimie (rendement céréalier et fertilisation raisonnée)
+    - Énergies fossiles (sécurisation des engrais azotés et carburants de récolte)
+  - **oppositions** :
+    - Verts/ALE (opposition au modèle productif des grandes exploitations)
+    - GUE/NGL et France (défense prioritaire de l'agriculture paysanne et des petits exploitants)
+    - Suède (refus d'aides sectorielles asymétriques)
+  - **éléments\_d\_argumentaire** :
+    - La sécurité alimentaire du continent repose sur la capacité productive de masse de nos grands bassins céréaliers.
+    - Les investissements européens doivent prioritairement équiper les structures à fort rendement pour constituer des réserves efficaces.
+    - La disponibilité garantie des engrais et carburants est un préalable absolu à la sécurité des récoltes.
+    - La Pologne constitue un bastion agricole stratégique essentiel pour la résilience géopolitique de l'Europe.
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-4A
+      - **titre** : Porter la réserve stratégique à 9 mois
+      - **position** : FAVORABLE
+      - **justification** : Cette position aligne les intérêts polonais sur une stabilité des marchés agricoles européens. En portant la réserve stratégique à 9 mois, Pologne protège ses producteurs céréalières contre les fluctuations mondiales tout en maintenant un équilibre entre les besoins de sécurité alimentaire et la libre circulation des biens dans l'UE.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Porter la réserve stratégique à 9 mois
+    - **Élément 2** :
+      - **amendement** : 2-4B
+      - **titre** : Conditionner les aides à la transition agroécologique
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Bien que Pologne soutienne une transition écologique, elle considère que les critères actuels de l'amendement pourraient pénaliser les producteurs agricoles compétitifs. Elle propose un compromis permettant d'incorporer des mesures agroécologiques sans nuire à la productivité.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner les aides à la transition agroécologique
+    - **Élément 3** :
+      - **amendement** : 2-4C
+      - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Pologne appuie l'idée d'un fonds, mais insiste sur une répartition équitable des financements entre les pays producteurs et les régions consommatrices. Elle craint un déséquilibre qui pourrait affecter ses exportations agricoles.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **Élément 4** :
+      - **amendement** : 2-4D
+      - **titre** : Créer un label européen de circuits courts
+      - **position** : FAVORABLE
+      - **justification** : Le label renforcerait la souveraineté alimentaire européenne tout en valorisant les producteurs locaux comme ceux du sud de la Pologne. Cela correspond à une vision stratégique de modernisation des chaînes d'approvisionnement.
+      - **priorite** : moyenne
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un label européen de circuits courts
+    - **Élément 5** :
+      - **amendement** : 2-4E
+      - **titre** : Limiter la réserve stratégique à 3 mois
+      - **position** : DEFAVORABLE
+      - **justification** : Une réduction à 3 mois compromettrait la sécurité alimentaire nationale et européenne. Pologne s'oppose fermement à ce changement, arguant qu'il serait contraire aux objectifs de stabilité des marchés agricoles.
+      - **priorite** : très\_haute
+      - **origine** : France
+      - **description** : Limiter la réserve stratégique à 3 mois
+    - **Élément 6** :
+      - **amendement** : 2-4F
+      - **titre** : Exclure certains produits agricoles de la réserve
+      - **position** : NEUTRE
+      - **justification** : Pologne reste neutre sur cette proposition, estimant qu'une exclusion partielle pourrait créer des distorsions de concurrence dans le secteur céréalière. Elle préfère une approche globale et équitable.
+      - **priorite** : faible
+      - **origine** : Suède
+      - **description** : Exclure certains produits agricoles de la réserve
+    - **Élément 7** :
+      - **amendement** : 2-4G
+      - **titre** : Soutenir prioritairement les grandes exploitations
+      - **position** : FAVORABLE
+      - **justification** : Cet amendement, proposé par Pologne, vise à renforcer la compétitivité agricole en soutenant les grandes exploitations. Il correspond à une stratégie nationale de modernisation du secteur agricole tout en préservant la souveraineté alimentaire européenne.
+      - **priorite** : très\_haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les grandes exploitations
+    - **Élément 8** :
+      - **amendement** : 2-4H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Pologne est favorable à un report, mais uniquement s'il permet d'assurer une transition énergétique et agricole progressive. Elle craint que l'absence d'une période de transition rende les mesures plus difficiles à appliquer.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Reporter l’application de la directive de deux ans
+  - **références** :
+    - s2d4.json
+    - scenario2.json
+  - **notes\_internes** : Veiller à ce que les critères d'éligibilité aux fonds de stockage favorisent les capacités de grande échelle de Mazovie et Grande-Pologne.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `4`
+  - **actor\_type** : pays
+  - **generated\_at** : 2025-10-30T16:22:40.410892
+  - **version** : 4.7
+- **Élément 6** :
+  - **type** : Etat
+  - **nom** : Suède
+  - **actor\_id** : suede
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Restreindre le périmètre de la réserve aux céréales panifiables stratégiques afin d'éviter le gaspillage et la dégradation de denrées périssables.
+    - Garantir une gestion budgétaire rationnelle, transparente et efficiente des stocks publics de denrées.
+    - Éviter les coûts de stockage disproportionnés pour les pays nordiques ayant des contraintes climatiques spécifiques.
+    - Préserver la fluidité des flux marchands sans distorsion étatique excessive.
+  - **impacts\_directive** :
+    - La directive affectera les intérêts stratégiques et économiques de Suède.
+    - La position de Suède reflète ses préoccupations nationales spécifiques.
+  - **stratégie** : Plaider pour une gestion ciblée, rationnelle et scientifiquement éprouvée des denrées stockées, en s'appuyant sur les États frugaux et attachés à l'efficacité gestionnaire.
+  - **alliances** :
+    - Allemagne (rigueur budgétaire et bon fonctionnement du marché)
+    - Renouveau Européen (modernisation rationnelle et logistique numérique des chaînes d'approvisionnement)
+    - Banque et Finance (efficacité financière des mécanismes de stockage)
+  - **oppositions** :
+    - Commission européenne (qui prône une couverture alimentaire trop extensive)
+    - S&D et GUE/NGL (crainte d'une réserve trop étriquée ne garantissant pas la sécurité alimentaire complète)
+    - Hongrie (désaccord sur le calendrier et les méthodes)
+  - **éléments\_d\_argumentaire** :
+    - Seules les céréales de base à longue conservation doivent être stockées pour prévenir les gaspillages massifs.
+    - Les denrées périssables doivent être exclues pour éviter des coûts sanitaires et d'énergie disproportionnés.
+    - Une réserve ciblée est plus réactive, moins coûteuse et plus transparente à administrer.
+    - Le marché intérieur doit rester la source première d'ajustement sans interventionnisme excessif.
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-4A
+      - **titre** : Porter la réserve stratégique à 9 mois
+      - **position** : FAVORABLE
+      - **justification** : La Suède soutient cet amendement pour renforcer sa sécurité alimentaire face aux crises géopolitiques, tout en alignant cette mesure avec ses objectifs de réduction des émissions et d'investissements dans les énergies renouvelables. Un stockage plus long permettrait de stabiliser les marchés agricoles nordiques et de favoriser l'électrification du secteur agricole.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Porter la réserve stratégique à 9 mois
+    - **Élément 2** :
+      - **amendement** : 2-4B
+      - **titre** : Conditionner les aides à la transition agroécologique
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : La Suède soutient ce conditionnement uniquement si les critères d'éligibilité prennent en compte les spécificités des marchés agricoles nordiques, comme la nécessité de préserver certaines cultures pour l'innovation verte. Une approche trop rigide pourrait nuire aux secteurs agricoles vulnérables du pays.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner les aides à la transition agroécologique
+    - **Élément 3** :
+      - **amendement** : 2-4C
+      - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+      - **position** : FAVORABLE
+      - **justification** : La Suède défend cet amendement pour promouvoir une agriculture locale durable, réduisant les dépendances aux importations et renforçant la sécurité alimentaire. Ce fonds permettrait de financer des projets pilotes d'agriculture verticale et d'agroécologie adaptés au climat nordique.
+      - **priorite** : très\_haute
+      - **origine** : Gauche Unitaire
+      - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **Élément 4** :
+      - **amendement** : 2-4D
+      - **titre** : Créer un label européen de circuits courts
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : La Suède soutient ce label uniquement s'il inclut des critères spécifiques aux produits nordiques, comme la traçabilité des matières premières et l'impact écologique réduit. Une approche trop générique pourrait ne pas refléter les particularités du marché suédois.
+      - **priorite** : moyenne
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un label européen de circuits courts
+    - **Élément 5** :
+      - **amendement** : 2-4E
+      - **titre** : Limiter la réserve stratégique à 3 mois
+      - **position** : DEFAVORABLE
+      - **justification** : La Suède oppose cet amendement car une réserve trop courte compromettrait sa capacité à assurer la sécurité alimentaire face aux crises mondiales. La directive doit garantir un équilibre entre les objectifs climatiques et la stabilité des marchés agricoles nordiques.
+      - **priorite** : haute
+      - **origine** : France
+      - **description** : Limiter la réserve stratégique à 3 mois
+    - **Élément 6** :
+      - **amendement** : 2-4F
+      - **titre** : Exclure certains produits agricoles de la réserve
+      - **position** : FAVORABLE
+      - **justification** : La Suède, origine de cet amendement, défend fermement l'exclusion des produits non critiques pour éviter des coûts de stockage inutiles. Cette mesure permettrait de concentrer les ressources sur les céréales stratégiques et d'accompagner la transition écologique agricole, en alignement avec ses objectifs climatiques.
+      - **priorite** : très\_haute
+      - **origine** : Suède
+      - **description** : Exclure certains produits agricoles de la réserve
+    - **Élément 7** :
+      - **amendement** : 2-4G
+      - **titre** : Soutenir prioritairement les grandes exploitations
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : La Suède s'oppose partiellement à cet amendement car une préférence pour les grandes exploitations pourrait marginaliser les petits producteurs nordiques, déjà vulnérables. Une approche équilibrée doit être privilégiée pour garantir la diversité agricole et l'équité sociale.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les grandes exploitations
+    - **Élément 8** :
+      - **amendement** : 2-4H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : NEUTRE
+      - **justification** : La Suède adopte une position neutre sur ce délai, car elle estime que les mesures doivent être mises en œuvre progressivement pour ne pas perturber la transition écologique. Cependant, un report pourrait permettre d'affiner les règles en tenant compte des retours de pays nordiques comme la Suède.
+      - **priorite** : faible
+      - **origine** : Hongrie
+      - **description** : Reporter l’application de la directive de deux ans
+  - **références** :
+    - s2d4.json
+    - scenario2.json
+  - **notes\_internes** : Défendre l'exclusion stricte des produits à conservation délicate pour éviter des charges de gestion inutiles.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `4`
+  - **actor\_type** : pays
+  - **generated\_at** : 2025-10-30T16:39:12.452849
+  - **version** : 4.7

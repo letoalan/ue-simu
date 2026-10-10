@@ -1,0 +1,124 @@
+# evaluation
+
+Source : `finance/s1/d7/evaluation.json`
+
+## Contenu
+
+- **directiveId** : `7`
+- **scenarioId** : `1`
+- **actions** :
+  - **Élément 1** :
+    - **id** : act-1-7-1
+    - **nom** : Rénovation thermique globale
+    - **categorie** : infrastructure
+    - **coutUnitaire** : `0.5`
+    - **coutFixe** : `1`
+    - **quantiteParPays** :
+      - **DE** : `12`
+      - **FR** : `10`
+      - **IT** : `9`
+      - **PL** : `8`
+      - **SE** : `4`
+      - **HU** : `3`
+    - **coutTotalParPays** :
+      - **DE** : `7.5`
+      - **FR** : `6.5`
+      - **IT** : `5.5`
+      - **PL** : `5`
+      - **SE** : `3`
+      - **HU** : `2.5`
+    - **coutTotalGlobal** : `30`
+    - **source** : Évaluation préliminaire conjointe Commission-États membres
+  - **Élément 2** :
+    - **id** : act-1-7-2
+    - **nom** : Construction logements bas carbone
+    - **categorie** : r\_d
+    - **coutUnitaire** : `0.8`
+    - **coutFixe** : `1.5`
+    - **quantiteParPays** :
+      - **DE** : `14`
+      - **FR** : `12`
+      - **IT** : `10`
+      - **PL** : `9`
+      - **SE** : `5`
+      - **HU** : `4`
+    - **coutTotalParPays** :
+      - **DE** : `13.5`
+      - **FR** : `11.9`
+      - **IT** : `9.5`
+      - **PL** : `8.7`
+      - **SE** : `5.5`
+      - **HU** : `4.7`
+    - **coutTotalGlobal** : `53.8`
+    - **source** : Évaluation préliminaire conjointe Commission-États membres
+  - **Élément 3** :
+    - **id** : act-1-7-3
+    - **nom** : Lutte contre la précarité énergétique
+    - **categorie** : equipement
+    - **coutUnitaire** : `1.1`
+    - **coutFixe** : `2`
+    - **quantiteParPays** :
+      - **DE** : `16`
+      - **FR** : `14`
+      - **IT** : `11`
+      - **PL** : `10`
+      - **SE** : `6`
+      - **HU** : `5`
+    - **coutTotalParPays** :
+      - **DE** : `20.6`
+      - **FR** : `18.4`
+      - **IT** : `14.1`
+      - **PL** : `13`
+      - **SE** : `8.6`
+      - **HU** : `7.5`
+    - **coutTotalGlobal** : `82.2`
+    - **source** : Évaluation préliminaire conjointe Commission-États membres
+  - **Élément 4** :
+    - **id** : act-1-7-4
+    - **nom** : Matériaux biosourcés
+    - **categorie** : accompagnement
+    - **coutUnitaire** : `1.4`
+    - **coutFixe** : `2.5`
+    - **quantiteParPays** :
+      - **DE** : `18`
+      - **FR** : `16`
+      - **IT** : `12`
+      - **PL** : `11`
+      - **SE** : `7`
+      - **HU** : `6`
+    - **coutTotalParPays** :
+      - **DE** : `29`
+      - **FR** : `26.2`
+      - **IT** : `19.3`
+      - **PL** : `17.9`
+      - **SE** : `12.3`
+      - **HU** : `10.9`
+    - **coutTotalGlobal** : `115.6`
+    - **source** : Évaluation préliminaire conjointe Commission-États membres
+- **coutTotalGlobal** : `281.6`
+- **moyensNationauxRef** :
+  - **DE** : `25`
+  - **FR** : `21`
+  - **IT** : `17`
+  - **PL** : `13`
+  - **SE** : `12`
+  - **HU** : `10`
+- **besoinRestant** :
+  - **DE** : `45.6`
+  - **FR** : `42`
+  - **IT** : `31.4`
+  - **PL** : `31.6`
+  - **SE** : `17.4`
+  - **HU** : `15.6`
+- **besoinRestantTotal** : `183.6`
+- **propositionReference** :
+  - **enveloppeProposee** : `119`
+  - **reservePourcentage** : `0.05`
+  - **tauxCofinancementDefaut** : `0.25`
+  - **cleContributionDefaut** : pib
+  - **cleAllocationDefaut** : besoins
+- **bornes** :
+  - **enveloppeMin** : `55`
+  - **enveloppeMax** : `193`
+  - **cofinancementMin** : `0.15`
+  - **cofinancementMax** : `0.4`

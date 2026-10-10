@@ -1,0 +1,754 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne, en particulier sur les réglementations liées aux données, à l'innovation numérique et à la concurrence. Il défend un cadre réglementaire favorable au développement de technologies disruptives tout en s'opposant à des mesures qui pourraient restreindre sa capacité d'expansion ou augmenter ses coûts opérationnels.",
+    "enjeux_directive": [
+      "Étendre la flexisécurité aux travailleurs de l'économie numérique (y compris les freelances et les employés à distance).",
+      "Financer la formation aux compétences digitales via le dispositif, en particulier pour les métiers liés à l'intelligence artificielle, au cloud computing et à l'analyse des données.",
+      "Développer des plateformes de gestion des parcours professionnels adaptées aux spécificités du secteur tech (mobilité transfrontalière, reconversion numérique).",
+      "Accélérer la digitalisation des services publics européens pour renforcer l'attractivité du marché européen face à la concurrence globale.",
+      "Faciliter le déploiement d'infrastructures numériques de nouvelle génération (5G avancée, Internet des objets) en s'appuyant sur les investissements structurels européens.",
+      "S'assurer que les réglementations sur la protection des données ne freinent pas l'innovation ou le développement d'applications transfrontalières."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech, notamment en matière de conformité aux nouvelles normes de flexisécurité et de formation continue.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés, avec un risque accru d'incertitudes réglementaires si les amendements ne reflètent pas ses priorités."
+    ],
+    "stratégie": "Big Tech adopte une stratégie basée sur la collaboration ciblée avec des pays et des acteurs européens alignés sur l'innovation numérique, tout en s'opposant à des mesures qui pourraient limiter son influence ou augmenter ses coûts. Elle privilégie les alliances avec des pays comme la France (pour ses investissements dans les infrastructures numériques) et l'Italie (pour sa stratégie de transition énergétique basée sur le numérique). En parallèle, elle collabore avec des partis européens tels que le PPE (qui défend la modernisation de l'Union européenne via la technologie) et les Verts/ALE (pour leur soutien à l'innovation vertueuse). Elle s'appuie également sur des lobbies comme celui de l'industrie automobile, qui partage ses intérêts en matière d'intégration numérique. En revanche, elle s'oppose fermement aux initiatives visant à limiter la flexibilité du marché du travail (comme les amendements réduisant la couverture salariale) ou à renforcer des réglementations sectorielles contraignantes (ex : moratoires sur l'énergie fossile qui pourraient freiner certains projets technologiques). Sa stratégie repose également sur une argumentation axée sur le besoin de modernisation européenne, la sécurité numérique, et la compétitivité globale du secteur tech en Europe.",
+    "alliances": [
+      "France (partage objectif d'investissements dans les infrastructures numériques et la transition écologique)",
+      "Italie (collaboration sur le développement de plateformes de gestion des parcours professionnels transfrontaliers)",
+      "Verts/ALE (soutien à l'innovation numérique durable et aux initiatives de formation continue pour les métiers du futur)",
+      "S&D (priorité accordée aux investissements dans les régions défavorisées, y compris celles qui bénéficient des technologies numériques)",
+      "Big Tech (développement conjoint d'infrastructures numériques et de plateformes collaboratives)",
+      "Automobile (protection du secteur industriel face à l'intensification de la réglementation européenne sur les données et la cyber-sécurité)",
+      "Banque (soutien aux investissements structurels dans les technologies digitales et les services financiers numériques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à l'élargissement de la flexisécurité aux travailleurs indépendants, jugé non conforme au modèle économique local)",
+      "Conservateurs (préférence pour une transition énergétique plus progressive, avec des mesures moins radicales en matière de réglementation numérique)",
+      "Énergies fossiles (lobbies centraux charbon, opposés à la priorisation des initiatives numériques au détriment de leurs intérêts sectoriels)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur Big Tech est un moteur clé de l'innovation européenne et doit être soutenu par des réglementations favorables à la croissance technologique.",
+      "La flexisécurité étendue aux travailleurs numériques permettra d'améliorer la mobilité professionnelle transfrontalière, ce qui renforcera la compétitivité de l'Europe sur le marché global.",
+      "Les investissements dans la formation digitale sont essentiels pour préparer les employés du secteur tech à l'évolution rapide des technologies et des métiers.",
+      "Les plateformes de gestion des parcours professionnels doivent être développées avec un cadre réglementaire qui permette leur déploiement transfrontalier sans freins excessifs.",
+      "La digitalisation des services publics doit être accélérée pour répondre aux attentes des citoyens et améliorer la qualité des services européens.",
+      "Les réglementations sur la protection des données doivent être équilibrées entre sécurité et innovation, afin de ne pas freiner l'expansion du secteur tech.",
+      "Le déploiement d'infrastructures numériques avancées (comme le 5G) doit bénéficier d'un soutien financier structurel pour garantir la modernisation des réseaux européens.",
+      "La concurrence mondiale exige une réglementation européenne harmonisée qui favorise l'innovation tout en protégeant les acteurs locaux du secteur tech."
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur Big Tech (particulièrement les entreprises comme Google, Apple et Microsoft) et les réglementations plus strictes sur la protection des données, notamment en France et en Allemagne. Évaluer l'impact de la flexisécurité étendue sur les startups technologiques et leur capacité à s'adapter aux nouvelles normes européennes. Surveiller également les contradictions entre les objectifs climatiques et les investissements dans des technologies à fort impact énergétique (ex : data centers).",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T22:39:27.163431",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient l'idée d'étendre la couverture de flexisécurité, mais avec des conditions sur les modalités de calcul et le financement. Une couverture à 60% pourrait favoriser la mobilité professionnelle transfrontalière, notamment pour les métiers numériques. Cependant, il est crucial que cette mesure ne pénalise pas les petites entreprises du secteur tech qui ont des budgets limités en matière de restructurations.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech s'engage à soutenir l'inclusion des travailleurs indépendants, mais avec un encadrement strict pour éviter une dilution excessive du dispositif. Les freelances technologiques (ex : développeurs web) bénéficieraient d'un meilleur accès aux formations et à la sécurité sociale, ce qui renforcerait leur contribution à l'économie européenne.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie fermement cette proposition, car elle permettrait de reconstruire une main-d'œuvre compétitive dans des métiers en forte demande (IA, cybersécurité). Une formation continue structurée pourrait réduire la fracture numérique et renforcer l'intégration professionnelle des demandeurs d'emploi dans le secteur tech.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "Big Tech est un fervent défenseur de cette mesure, car elle faciliterait l'accès à des talents européens pour les entreprises technologiques. Une mobilité accrue favoriserait également la coopération entre les pays membres sur des projets numériques transfrontaliers.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Big Tech s'oppose à cette proposition, car elle pourrait limiter l'efficacité de flexisécurité pour les secteurs à forte mobilité. Cependant, il serait acceptable d'intégrer une clause permettant des plafonds adaptés selon les métiers et les tailles d'entreprises.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE",
+        "justification": "Big Tech s'oppose à cette mesure, car elle exclurait les freelances et les travailleurs indépendants qui jouent un rôle clé dans l'économie numérique. Cela pourrait fragiliser la flexibilité du marché du travail et entraver l'innovation.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette proposition, à condition qu'elle ne pénalise pas les régions plus dynamiques. Une répartition équilibrée des investissements pourrait stimuler l'économie numérique dans les zones en déclin tout en maintenant la croissance globale.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cette proposition, car elle pourrait créer des tensions entre les régions locales et l'efficacité globale du dispositif. Une priorisation trop stricte risquerait de limiter l'accès aux aides pour les entreprises technologiques opérant dans des zones non prioritaires.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des Energies Fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Obtenir des financements pour la reconversion des travailleurs du secteur.",
+      "Retarder les transitions énergétiques brutales en insistant sur la nécessité d'une approche progressive.",
+      "Sécuriser l'accompagnement social des fermetures d'installations en exigeant des dispositifs de requalification adaptés.",
+      "Protéger l'accès au marché intérieur européen pour les entreprises du secteur énergétique traditionnel.",
+      "Conserver une place stratégique dans la chaîne de valeur européenne de l'énergie."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies Fossiles, notamment en matière de financement et d'accompagnement social.",
+      "Les intérêts économiques et stratégiques de Energies Fossiles sont directement concernés par les mesures de transition énergétique."
+    ],
+    "stratégie": "La stratégie du lobby Énergies Fossiles repose sur trois piliers : (1) défendre un rythme progressif de la transition énergétique pour éviter les chocs économiques et sociaux, (2) maximiser l'accompagnement social des fermetures d'installations en exigeant des dispositifs de reconversion adaptés aux régions industrielles touchées, et (3) renforcer les alliances avec les pays producteurs de charbon (Poland, Hongrie) et les partis conservateurs pour limiter l'influence des forces pro-écologie. L'acteur s'appuie également sur des lobbyings ciblés auprès des banques et du secteur automobile pour obtenir un soutien financier à court terme. En parallèle, il développe une argumentation basée sur la nécessité de garantir la sécurité énergétique européenne en maintenant des capacités productives d'énergie fossile jusqu'au moment opportun. Cette approche se conjugue avec une volonté de préserver les emplois directs dans le secteur et de minimiser l'impact des mesures climatiques sur les régions économiquement vulnérables.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à la transition progressive et aux secteurs stratégiques)",
+      "Conservateurs (préférence pour une transition énergétique plus lente)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection des secteurs industriels stratégiques)",
+      "Banque (soutien aux investissements structuraux et à l'innovation)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien à la transition écologique radicale + objectifs climatiques ambitieux)",
+      "S&D (priorité aux investissements dans les régions défavorisées et aux mesures sociales)",
+      "Énergies Fossiles (lobbies centrales charbon - opposés aux moratoires sectoriels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit être progressive pour éviter des pertes massives d'emplois et assurer la stabilité économique de certaines régions.",
+      "Les mesures climatiques doivent inclure un accompagnement social solide, avec une allocation financière spécifique pour les travailleurs impactés.",
+      "La sécurité énergétique européenne dépend d'une diversification des sources d'énergie, y compris la persistance d'actifs fossiles jusqu'à leur rentabilité économique optimale.",
+      "Les investissements dans les énergies propres doivent être complétés par un soutien aux secteurs industriels traditionnels pour préserver l'indépendance technologique de l'Europe.",
+      "Le financement des reconversions doit s'appuyer sur un modèle commun à tous les acteurs économiques, évitant une discrimination sectorielle.",
+      "Les régions dépendantes du secteur énergétique fossile nécessitent des mesures spécifiques pour préserver leur croissance économique.",
+      "L'innovation technologique doit s'accompagner de politiques industrielles qui préservent les compétences existantes dans le secteur énergétique traditionnel."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'extension de la couverture à 60% du salaire pourrait constituer un compromis acceptable pour les acteurs économiques concernés, à condition qu'elle soit accompagnée d'un plan de reconversion structuré. Cela permettrait de réduire le coût social des fermetures d'installations tout en maintenant une certaine capacité productive du secteur énergétique traditionnel.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'inclusion des travailleurs indépendants pourrait étendre le coût de l'accompagnement social à des acteurs non directement liés aux fermetures d'installations. Cependant, une solution limitée au secteur énergétique fossile pourrait être acceptable.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "La formation continue des travailleurs impactés par la transition énergétique est une priorité stratégique pour le secteur. Cela permettrait de préparer leur reconversion vers d'autres secteurs économiques tout en préservant les compétences technologiques existantes.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "NEUTRE",
+        "justification": "Le soutien à la mobilité professionnelle est un enjeu important, mais son impact direct sur le secteur énergétique fossile reste limité. Une position neutre permet de ne pas bloquer la mise en œuvre de cette mesure.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation de la couverture à 40% du salaire risquerait d'accroître les inégalités économiques et sociales dans les régions dépendantes du secteur énergétique traditionnel. Cela pourrait provoquer une augmentation des tensions sociales.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La réservation du dispositif aux salariés en CDI pourrait favoriser une meilleure prévisibilité des financements, mais elle nécessite un accompagnement spécifique pour les travailleurs non permanents. Une solution limitée au secteur énergétique fossile pourrait être acceptable.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "Le soutien aux régions en déclin industriel est essentiel pour assurer une transition énergétique équilibrée. Cela permettrait de préserver la stabilité sociale et économique dans ces zones.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE",
+        "justification": "La priorisation de l'emploi local est un objectif stratégique pour le secteur énergétique fossile. Cela renforcerait la cohésion sociale et réduirait les risques d'une délocalisation des investissements.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre Énergies Fossiles et Verts/ALE sur les objectifs climatiques. Évaluer impact des mesures sociales sur les régions industrielles (Poland, Hungary). Surveiller dépendance de l'Allemagne à la transition énergétique accélérée.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T22:56:31.469303",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Participer à la gestion des fonds européens de flexisécurité.",
+      "Développer des produits d'épargne-formation et de transition professionnelle.",
+      "Assurer la solvabilité actuarielle du système.",
+      "Protéger les secteurs bancaires stratégiques contre les risques liés aux transitions économiques rapides.",
+      "Promouvoir une réglementation harmonisée des marchés financiers transfrontaliers.",
+      "Influencer les normes de financement des projets durables pour préserver la rentabilité des investissements."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Banque et Finance adopte une approche multitiers pour influencer la Directive. Son principal objectif est de garantir que les mécanismes de flexisécurité ne pénalisent pas la solvabilité des systèmes bancaires, en particulier dans les régions à forte dépendance industrielle. Pour cela, elle s'engage à promouvoir des amendements qui renforcent la capacité des institutions financières à financer la transition écologique tout en maintenant leur stabilité. Elle privilégie également des alliances stratégiques avec des pays et des acteurs européens partageant ses priorités en matière de régulation financière et d'innovation technologique. En cas de conflits, elle mise sur un dialogue constructif pour intégrer des compromis qui préservent les intérêts sectoriels tout en respectant les objectifs climatiques européens.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir la continuité des services financiers en cas de crises sectorielles, comme les chocs énergétiques ou industriels.",
+      "Les banques doivent être autorisées à développer des produits d'épargne-formation adaptés aux besoins des entreprises et des travailleurs.",
+      "La solvabilité actuarielle du système doit être préservée pour éviter un effondrement des marchés financiers lors de transitions économiques rapides.",
+      "Les investissements dans les secteurs verts doivent être encadrés par des règles claires pour prévenir la volatilité des actifs et protéger les épargnants.",
+      "La flexisécurité doit s'accompagner d'une garantie de l'accessibilité aux services bancaires pour tous, y compris les travailleurs indépendants.",
+      "Les normes européennes de financement doivent favoriser la coopération entre institutions financières et les secteurs industriels dans le cadre des transitions.",
+      "La directive doit intégrer des mécanismes d'assurance contre les risques climatiques pour les projets durables soutenus par les banques."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "L'extension de la couverture à 60% du salaire favorise l'inclusion des secteurs financiers dans les dispositifs d'assurance chômage, ce qui renforce leur capacité à gérer les crises économiques. Cela permet également aux institutions bancaires de mieux planifier leurs risques et d'investir durablement.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'inclusion des travailleurs indépendants est conditionnelle à la mise en place de mécanismes d'assurance adaptés, évitant un surcoût pour les banques. Cela permettrait toutefois de stabiliser l'épargne et de renforcer la résilience du secteur.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "La formation continue des demandeurs d'emploi renforce la capacité du secteur financier à recruter et former des talents adaptés aux nouvelles normes. Cela réduit le risque de défaillance sectorielle liée au manque de compétences.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La mobilité professionnelle doit être soutenue, mais sous réserve que les réglementations bancaires soient alignées pour éviter des déséquilibres entre les pays membres. Cela favorise une meilleure répartition des ressources et des compétences.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette limitation risque de fragiliser les systèmes bancaires dans certaines régions en déclin industriel. Cependant, une révision progressive pourrait être acceptable si elle accompagne des mesures de soutien à la solvabilité.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE",
+        "justification": "La restriction au CDI réduit l'accessibilité des dispositifs de flexisécurité pour les secteurs dynamiques comme la finance, qui dépendent d'une main-d'œuvre plus flexible. Cela pourrait limiter l'innovation et la compétitivité.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux régions en déclin doit être accompagné de garanties financières pour éviter une charge trop lourde sur les institutions bancaires. Cela permettrait toutefois d'assurer la stabilité à long terme.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La priorité à l'emploi local doit être accompagnée de flexibilités réglementaires pour éviter les distorsions de concurrence. Cela permettrait d'équilibrer les besoins locaux et la stabilité du système financier.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre réglementations sectorielles et objectifs climatiques (ex: secteur bancaire vs. industries fossiles). Évaluer impact des mesures de flexisécurité sur la solvabilité des institutions en régions déclinantes. Équilibrer les priorités des lobbies bancaires avec les attentes des partis pro-écologie.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T23:14:29.407844",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne, en particulier sur la réglementation des pesticides, l'innovation agricole et la soutenance des filières agricoles traditionnelles. Son rôle est stratégique dans les négociations liées aux subventions agricoles, à la transition vers une agriculture plus durable tout en préservant les modèles économiques existants.",
+    "enjeux_directive": [
+      "Accompagner la transition des agriculteurs vers l'agroécologie tout en garantissant un soutien financier adéquat aux filières traditionnelles de l'agriculture intensive.",
+      "Soutenir les recherches et innovations dans le développement d'alternatives à la chimie agricole classique (biopesticides, agrochimies biologiques).",
+      "Éviter un durcissement des réglementations européennes sur l'utilisation des pesticides, qui pourrait menacer la compétitivité du secteur et la sécurité alimentaire.",
+      "Conserver les subventions agricoles existantes en faveur de la production intensive, tout en encourageant une redistribution plus équitable entre les zones rurales productives et les régions en déclin."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés, notamment en matière de régulation des marchés agricoles."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "La stratégie d'Agrochimie repose sur une triple approche : (1) la construction d'alliances stratégiques avec les pays et partis européens qui défendent un modèle agricole équilibré entre durabilité et rentabilité ; (2) la mise en avant des bénéfices économiques de son secteur pour justifier les subventions, les innovations technologiques et l'emploi dans les zones rurales ; (3) le débat sur l'équilibre entre protection de la santé publique et soutien aux agriculteurs. Pour cela, Agrochimie s'engage à promouvoir des amendements qui garantissent un financement suffisant pour la transition agricole tout en évitant les mesures trop restrictives sur les pratiques actuelles. Elle cherche également à influencer les débats politiques sur l'harmonisation des normes européennes dans le domaine de l'agriculture, afin d'éviter une fragmentation des marchés et de préserver sa capacité à exporter ses produits vers d'autres régions du monde.",
+    "alliances": [
+      "France (collaboration sur la transition agricole tout en préservant les filières traditionnelles)",
+      "Italie (partage de vision sur le soutien aux petites exploitations et l'innovation agricole)",
+      "Parti Populaire Européen (soutien à un modèle économique équilibré entre croissance et durabilité)",
+      "S&D (privilégie une transition progressive et inclusive dans les secteurs ruraux)",
+      "Big Tech (collaboration sur l'innovation numérique pour moderniser l'agriculture)",
+      "Automobile (recherche de synergies dans le développement des bioénergies agricoles)"
+    ],
+    "oppositions": [
+      "Hongrie (préférence pour les subventions aux filières agricoles intensives, opposition à une transition trop rapide vers l'agroécologie)",
+      "Conservateurs (rejet d'une réglementation européenne trop contraignante sur l'utilisation des pesticides)",
+      "Énergies fossiles (soutien à la production de biocarburants issus de cultures intensives, en opposition avec certaines pratiques agrochimiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La réglementation européenne doit respecter les réalités économiques des zones rurales et ne pas pénaliser les agriculteurs qui s'appuient sur les technologies agrochimiques actuelles.",
+      "Le financement de la transition agricole doit être accompagné d'une prise en charge des coûts liés à l'innovation technologique, particulièrement pour les PME du secteur Agrochimie.",
+      "Les restrictions sur les pesticides doivent être proportionnées et basées sur des études scientifiques fiables, afin de ne pas menacer la sécurité alimentaire européenne.",
+      "L'agriculture biologique ne peut pas constituer le seul modèle à suivre : il faut un équilibre entre durabilité environnementale et rentabilité économique pour les producteurs.",
+      "La directive doit favoriser l'innovation technologique dans le secteur Agrochimie, notamment en matière de biopesticides et d'agriculture de précision.",
+      "Les subventions agricoles existantes doivent être conservées ou adaptées pour soutenir les filières agricoles traditionnelles tout en encourageant la transition vers des pratiques plus durables."
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions avec les partis verts sur l'usage des pesticides et les normes environnementales. Évaluer impact des subventions agricoles sur la compétitivité des filières traditionnelles dans les régions rurales. Suivre les débats entre le secteur Agrochimie et les lobbies de l'énergie fossile concernant la production de biocarburants.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-25T08:05:45.882277",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car une extension de la couverture salariale permettrait d'attirer et de retenir des travailleurs dans les zones rurales, en particulier pour les métiers saisonniers qui dépendent fortement du secteur agricole. Cela favoriserait également l'innovation technologique et la modernisation des exploitations.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie appuie cet amendement sous réserve que les travailleurs indépendants soient clairement identifiés et qu'une réglementation spécifique soit mise en place pour éviter une surcharge administrative. Cela permettrait d'encourager l'innovation agricole et de stimuler la croissance des filières rurales.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie appuie cet amendement car une formation continue est essentielle pour permettre aux travailleurs du secteur agricole de s'adapter aux nouvelles technologies et pratiques agrochimiques. Cela renforcerait la transition vers une agriculture plus durable tout en préservant les emplois.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "NEUTRE",
+        "justification": "Agrochimie n'a pas de position claire sur cet amendement car il pourrait avoir un impact variable selon les régions et les secteurs agricoles. Cependant, elle reste ouverte à une coopération européenne pour favoriser l'innovation technologique et la modernisation des exploitations.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cet amendement car il pourrait limiter l'accès aux financements pour les agriculteurs et les travailleurs saisonniers, en particulier dans les zones rurales où la couverture salariale est déjà insuffisante. Cela risquerait de freiner l'innovation technologique et la modernisation des exploitations.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose partiellement à cet amendement car elle estime que cela limiterait l'accès au financement pour les travailleurs indépendants et les employés en CDD, qui constituent un important segment du secteur agricole. Elle propose des solutions alternatives pour inclure ces catégories sans compromettre la durabilité.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car elle considère que les régions rurales en déclin industrial ont besoin d'une transition agricole soutenue pour rester économiquement viables. Cela permettrait de renforcer l'innovation technologique et la compétitivité du secteur agrochimique.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement sous réserve qu'il soit appliqué de manière équitable et qu'il ne pénalise pas les régions qui ont besoin d'investissements extérieurs pour moderniser leurs exploitations. Cela favoriserait l'innovation technologique et la croissance économique des zones rurales.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne, notamment en matière de R&D, d'accès aux médicaments, et de coopération transnationale pour l'innovation.",
+    "enjeux_directive": [
+      "Soutenir la formation aux métiers de la santé et de la recherche.",
+      "Faciliter la mobilité des chercheurs et techniciens européens.",
+      "Développer les compétences biotechnologiques via la formation continue.",
+      "Protéger les brevets et inciter à l'innovation pharmaceutique européenne.",
+      "Assurer un accès équitable aux médicaments dans tous les États membres."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique, notamment en matière de financement de la R&D et d'harmonisation réglementaire.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés par les mesures liées à l'accès aux médicaments et à la coopération entre pays membres."
+    ],
+    "stratégie": "Le secteur pharmaceutique européen adopte une stratégie axée sur la promotion d'une législation favorable à l'innovation, à la recherche, et à l'accès équitable aux médicaments. Il s'engage à collaborer avec les États membres, les instances européennes, et les acteurs clés (comme les partis politiques et les autres secteurs industriels) pour défendre des politiques qui favorisent la R&D, la formation continue des professionnels de santé, et l'harmonisation réglementaire. Parallèlement, il cherche à renforcer ses alliances avec les pays leaders en matière d'innovation (comme la France, l'Italie, et l'Allemagne), ainsi qu'avec des partis européens comme le PPE, S&D, et Renouveau Européen. Cependant, il reste vigilant face aux oppositions venues de partis plus conservateurs ou de lobbies comme celui des énergies fossiles, qui peuvent nuire à ses objectifs. L'approche stratégique du secteur pharmaceutique inclut aussi la participation active aux débats sur les amendements, en exprimant clairement ses positions pour influencer le texte final.",
+    "alliances": [
+      "France (soutien à l'innovation pharmaceutique et aux politiques de recherche)",
+      "Italie (collaboration dans la formation continue des professionnels de santé)",
+      "Verts/ALE (partage d'intérêts pour la transition écologique et la R&D durable)",
+      "S&D (priorité à l'accès équitable aux médicaments et aux investissements publics en santé)",
+      "Big Tech (synergies dans les technologies de pointe et la digitalisation des soins)",
+      "Banque (financement des projets d'innovation pharmaceutique)",
+      "PPE (soutien à l'harmonisation réglementaire européenne)"
+    ],
+    "oppositions": [
+      "Hongrie (réticence face aux mesures de contrôle des prix des médicaments)",
+      "Conservateurs (préférence pour une approche plus libérale en matière d'accès aux brevets)",
+      "Énergies fossiles (opposition à l'incitation financière vers les innovations vertes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La R&D pharmaceutique est un pilier essentiel de la santé européenne et doit être soutenue par des politiques claires.",
+      "L'accès équitable aux médicaments est une priorité pour les États membres en situation difficile, ce qui justifie une approche collective.",
+      "La formation continue des professionnels de santé garantit la qualité des soins et l'adoption rapide des nouvelles thérapies.",
+      "Les brevets sont un levier clé pour inciter à l'innovation, mais doivent être équilibrés avec les besoins de santé publique.",
+      "La collaboration transnationale entre les pays membres favorise la diffusion des innovations et réduit les inégalités en matière d'accès aux soins.",
+      "L'harmonisation réglementaire réduit les coûts pour les entreprises pharmaceutiques, favorisant ainsi l'innovation à l'échelle européenne."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "L'extension de la couverture à 60% du salaire renforce les capacités des professionnels de santé à se former, ce qui est essentiel pour le secteur pharmaceutique. Cette mesure favorise un cadre stable pour l'innovation et la recherche.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'inclusion des travailleurs indépendants est favorable, à condition que cela ne compromette pas l'accès aux médicaments ou la qualité de la R&D. Une approche équilibrée est nécessaire.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE",
+        "justification": "Le financement de la formation continue est crucial pour le secteur pharmaceutique, qui dépend fortement des compétences techniques et scientifiques des professionnels.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "La mobilité des chercheurs et techniciens européens renforce les synergies entre les pays membres, favorisant l'innovation et la diffusion des connaissances.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation à 40% de la couverture pourrait limiter les investissements dans la formation des professionnels de santé, nuissant ainsi au secteur pharmaceutique.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette réserve pourrait exclure des acteurs clés du secteur pharmaceutique, comme les indépendants. Une approche inclusive est nécessaire.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux régions en déclin industriiel est favorable, à condition qu'il ne pénalise pas les régions plus développées ou les secteurs pharmaceutiques en croissance.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE",
+        "justification": "La priorisation de l'emploi local renforce les liens entre les acteurs pharmaceutiques et leur environnement, favorisant l'économie régionale.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les grands groupes pharmaceutiques et les mesures de contrôle des prix. Évaluer l'impact des politiques régionales sur la distribution des aides à l'innovation. Recommander une surveillance constante des relations avec les partis conservateurs.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-24T23:30:09.008699",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile et cherche à influencer la législation européenne, notamment sur la transition énergétique, la formation professionnelle et la protection des emplois liés aux moteurs thermiques.",
+    "enjeux_directive": [
+      "Financer la reconversion vers l'électrique et l'hydrogène tout en préservant les emplois dans le secteur automobile traditionnel.",
+      "Accompagner les fermetures d'usines de moteurs thermiques avec des plans de relocalisation et des compensations financières pour les régions touchées.",
+      "Former les travailleurs aux nouvelles technologies de mobilité (véhicules électriques, autonomie, etc.) pour éviter un chômage de masse dans le secteur.",
+      "Assurer une compétitivité européenne du secteur automobile face à la concurrence chinoise et américaine sur les marchés des véhicules électriques.",
+      "Promouvoir l'innovation technologique (batteries, hydrogène) tout en maintenant un contrôle européen sur les chaînes de production."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur automobile, notamment en matière de financement des transitions énergétiques et de restructurations industrielles.",
+      "Les intérêts économiques et stratégiques de l'automobile sont directement concernés par les mesures liées aux investissements dans la transition écologique."
+    ],
+    "stratégie": "Lobbying ciblé auprès des gouvernements nationaux (Allemagne, France) et des institutions européennes pour défendre une transition énergétique progressive, associant les secteurs traditionnels de l'automobile aux nouvelles technologies. Collaborations étroites avec les partis PPE et S&D pour obtenir des financements publics dans le cadre des fonds européens (NextGenerationEU). Développement d'une alliance stratégique avec Big Tech pour renforcer l'innovation technologique et la compétitivité européenne du secteur. Opposition systématique aux amendements qui restreignent les investissements dans les moteurs thermiques ou limitent la couverture des aides publiques. Mise en avant de l'importance des régions industrielles (Allemagne, France, Italie) pour justifier des mesures spécifiques adaptées à leur contexte économique local.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (protection de l'économie industrielle traditionnelle)",
+      "Verts/ALE (soutien hydrogène vert + transition écologique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition vers les véhicules électriques et l'hydrogène doit être financée par des subventions publiques pour compenser la perte de revenus liés aux moteurs thermiques.",
+      "Les régions industrielles (comme l'Alsace en France ou le Baden-Wurtemberg en Allemagne) nécessitent des mesures ciblées pour éviter un déclin économique massif.",
+      "La formation continue doit être prioritaire pour les travailleurs du secteur automobile afin de garantir leur employabilité dans les nouvelles technologies.",
+      "Les partenariats avec Big Tech sont essentiels pour accélérer l'innovation technologique dans le secteur et maintenir la compétitivité européenne.",
+      "Le soutien à la mobilité transfrontalière doit être renforcé pour favoriser le développement des marchés européens de l'électrique.",
+      "L'hydrogène vert doit être développé comme alternative viable aux batteries, avec des investissements publics massifs.",
+      "Les régions en déclin industriel (comme les anciennes usines de moteurs thermiques en Allemagne) doivent être priorisées dans l'allocation des aides européennes."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-4A",
+        "titre": "Étendre la couverture à 60% du salaire",
+        "position": "FAVORABLE",
+        "justification": "Une extension de la couverture à 60% du salaire permettrait une meilleure protection des travailleurs affectés par les transitions industrielles, notamment dans les régions touchées par le déclin de l'industrie automobile traditionnelle.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Étendre la couverture à 60% du salaire"
+      },
+      {
+        "amendement": "1-4B",
+        "titre": "Inclure les travailleurs indépendants dans le dispositif",
+        "position": "DEFAVORABLE",
+        "justification": "L'inclusion des travailleurs indépendants pourrait diluer les financements dédiés aux secteurs industriels structuraux comme l'automobile, qui nécessitent un soutien prioritaire pour leur reconversion.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure les travailleurs indépendants dans le dispositif"
+      },
+      {
+        "amendement": "1-4C",
+        "titre": "Financer la formation continue pour les demandeurs d’emploi",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Cette mesure est favorable si elle inclut des formations spécifiques aux nouvelles technologies (électrique, hydrogène) et si elle s'adresse exclusivement aux travailleurs du secteur automobile.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Financer la formation continue pour les demandeurs d’emploi"
+      },
+      {
+        "amendement": "1-4D",
+        "titre": "Soutenir la mobilité professionnelle transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "Le soutien à la mobilité transfrontalière est essentiel pour renforcer l'attractivité des régions industrielles européennes et favoriser la reconversion professionnelle dans le secteur automobile.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Soutenir la mobilité professionnelle transfrontalière"
+      },
+      {
+        "amendement": "1-4E",
+        "titre": "Limiter la couverture à 40% du salaire",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une limite à 40% du salaire pourrait pénaliser les régions industrielles et rendre la transition énergétique plus difficile, mais une approche conditionnelle peut être acceptable.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter la couverture à 40% du salaire"
+      },
+      {
+        "amendement": "1-4F",
+        "titre": "Réserver le dispositif aux salariés en CDI",
+        "position": "FAVORABLE",
+        "justification": "La réserve du dispositif aux salariés en CDI garantirait une concentration des financements sur les emplois stables, évitant un gaspillage dans des secteurs moins structuraux.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Réserver le dispositif aux salariés en CDI"
+      },
+      {
+        "amendement": "1-4G",
+        "titre": "Soutenir prioritairement les régions en déclin industriel",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un soutien ciblé aux régions touchées par le déclin de l'industrie automobile (comme le Baden-Wurtemberg) est nécessaire, mais doit être accompagné d'un plan de réinsertion économique global.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les régions en déclin industriel"
+      },
+      {
+        "amendement": "1-4H",
+        "titre": "Prioriser l’emploi local dans l’attribution des aides",
+        "position": "FAVORABLE",
+        "justification": "La priorité à l'emploi local est cruciale pour les régions dépendantes de l'industrie automobile traditionnelle, afin d'éviter un exode économique massif vers d'autres secteurs.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Prioriser l’emploi local dans l’attribution des aides"
+      }
+    ],
+    "références": [
+      "s1d4.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre les régions industrielles (Allemagne, France) et les objectifs climatiques de la directive. Équilibrer la transition énergétique avec la préservation des emplois dans le secteur automobile. Surveiller les critiques des partis conservateurs sur l'approche radicale du lobby automobiles.",
+    "scenario_id": 1,
+    "directive_id": 4,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-25T07:47:20.039510",
+    "version": "4.7"
+  }
+]

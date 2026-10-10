@@ -1,0 +1,749 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne. Son objectif est de promouvoir une réglementation favorable aux innovations numériques, tout en limitant les restrictions sur l'utilisation des données migratoires pour optimiser les politiques publiques.",
+    "enjeux_directive": [
+      "Développement de solutions numériques pour le suivi et l’accueil des migrants.",
+      "Valorisation des données migratoires pour la gestion des politiques publiques.",
+      "Harmonisation des réglementations européennes sur les technologies d'intelligence artificielle appliquées aux migrations.",
+      "Protection des intérêts économiques du secteur Big Tech face à des mesures restrictives."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés.",
+      "Les obligations légales liées aux données migratoires pourraient limiter l'innovation technologique."
+    ],
+    "stratégie": "Big Tech adopte une stratégie proactive visant à intégrer ses solutions numériques dans la gestion migratoire, en mettant l’accent sur l’efficacité des technologies d’intelligence artificielle et de traitement des données. L'objectif est de collaborer avec les institutions européennes pour co-développer des outils technologiques adaptés aux besoins de l’Union européenne tout en évitant une réglementation trop contraignante. Le secteur se positionne comme un partenaire clé dans la transition numérique, en proposant des infrastructures innovantes et sécurisées. Parallèlement, il cherche à influencer les discussions politiques pour que les amendements favorisent l’expansion technologique et réduisent les obstacles réglementaires.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (privilège sécurité nationale sur innovation technologique)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les technologies numériques permettent une gestion plus efficace des flux migratoires et de l’accueil, réduisant les coûts opérationnels pour les États membres.",
+      "L’utilisation des données migratoires sécurisées favorise une prise de décision éclairée et une meilleure planification des politiques publiques.",
+      "Les solutions Big Tech renforcent la compétitivité européenne sur le marché technologique mondial, en positionnant l’UE comme leader de l’innovation verte.",
+      "Une réglementation trop stricte pourrait entraver l’adoption de nouvelles technologies, pénalisant les acteurs européens dans un contexte de concurrence internationale.",
+      "La collaboration entre Big Tech et les autorités publiques permet de créer des synergies économiques et sociales, favorisant la transition numérique.",
+      "Les investissements dans les infrastructures numériques sont cruciaux pour atteindre les objectifs climatiques et énergétiques européens."
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec secteur automobile (Volkswagen, BMW) sur financement de l'innovation numérique. Évaluer impact des réglementations sur startups technologiques en Europe centrale. Recommander une surveillance régulière des collaborations entre Big Tech et États membres pour éviter les conflits d’intérêts.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T11:54:42.743640",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que l'augmentation des quotas soit accompagnée d'une modernisation des infrastructures numériques. Cela permettrait une meilleure gestion des flux migratoires, facilitant le suivi et la coordination entre les États membres.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "L'instauration d'un fonds dédié favoriserait la collaboration entre Big Tech et les institutions européennes pour développer des outils numériques innovants. Cela stimulerait l'économie européenne tout en facilitant l'intégration des migrants.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "NEUTRE",
+        "justification": "Big Tech reste neutre sur cette mesure, car elle pourrait entraîner des coûts supplémentaires pour le secteur. Cependant, une collaboration avec les autorités publiques permettrait d'optimiser les formations à distance.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que Big Tech soutienne la solidarité européenne, il s'oppose à une charge excessive sur certains pays. Une distribution équitable des ressources technologiques est nécessaire pour éviter les inégalités.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE",
+        "justification": "Cette limite pourrait freiner l'innovation technologique en limitant l'accès aux données migratoires. Big Tech préfère une approche flexible, adaptée aux besoins réels des États membres.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion d'États membres risquerait de créer des inégalités entre les pays. Big Tech préfère une approche inclusive, favorisant l'utilisation uniforme des technologies numériques à travers l’UE.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cet amendement à condition que la technologie soit intégrée dans la gestion des centres. Cela permettrait une meilleure organisation et une réduction des coûts opérationnels.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech approuve un report conditionnel à une modernisation des infrastructures numériques. Cela permettrait d'assurer une mise en œuvre efficace et harmonisée de la directive.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur Energies Fossiles et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Maintenir une transition énergétique progressive pour préserver les emplois dans les secteurs fossiles (charbon, pétrole) en Europe centrale et orientale.",
+      "Protéger les investissements historiques dans les infrastructures énergétiques traditionnelles (réseaux de gaz naturel, centrales thermiques) contre la concurrence des énergies renouvelables.",
+      "Éviter les réglementations restrictives sur l'exploitation minière et l'extraction pétrolière en territoires européens stratégiques (comme le Bassin de Paris ou les gisements du Nord de la Mer du Nord).",
+      "Soutenir un cadre européen flexible pour les exportations d'énergies fossiles vers des pays tiers, notamment en Asie et en Afrique.",
+      "Contrer l'harmonisation des normes climatiques européennes qui menacent la compétitivité des industries liées aux combustibles fossiles (acier, chimie)."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies Fossiles.",
+      "Les intérêts économiques et stratégiques de Energies Fossiles sont directement concernés."
+    ],
+    "stratégie": "Énergies Fossiles adopte une stratégie de résistance ciblée à l'européanisation des normes climatiques, combinant lobbying direct sur les décideurs politiques et financement de campagnes déniant la portée des réchauffements climatiques. L'objectif est d'obtenir un moratoire temporaire sur la transition énergétique radicale (notamment pour l'industrie du charbon en Pologne), tout en défendant une approche technologique de « décarbonation par substitution » via des solutions comme le gaz naturel et la capture de CO2. Le lobby s'appuie sur des alliances stratégiques avec les pays producteurs d'énergies fossiles (Hongrie, Pologne) ainsi que des partis européens conservateurs (PPE, Conservateurs) qui défendent une transition énergétique à rythme lent. Parallèlement, il investit dans l'argumentaire économique et social pour justifier la nécessité de « préserver les emplois » et de garantir l'accès à un prix d'énergie abordable en Europe centrale.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien transition énergétique progressive + protection des secteurs traditionnels)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les régions fortement dépendantes des énergies fossiles (comme la Silésie en Pologne) pourraient subir un choc socio-économique brutal si les transitions sont accélérées sans compensation.",
+      "La transition vers l'énergie renouvelable risque de fragiliser la sécurité énergétique européenne, notamment face aux fluctuations géopolitiques et aux dépendances envers des importations d'hydrogène vert non garanties.",
+      "Les secteurs industriels traditionnels (acier, chimie) ne pourraient pas se réadapter sans subventions massives, risquant un effondrement de la production européenne.",
+      "Le lobby souligne que les énergies fossiles restent nécessaires dans une économie post-carbone comme source d'énergie de secours et de stockage, notamment pour l'industrie lourde.",
+      "Un moratoire temporaire sur certaines réglementations climatiques permettrait de préparer un cadre technologique plus solide pour la transition, évitant des coûts économiques inutiles.",
+      "Les investissements dans le gaz naturel et les projets de capture du CO2 (CCUS) offrent une voie réaliste vers une décarbonation progressive, contrairement à des solutions radicales comme l'interdiction totale du charbon."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "Cette proposition accroît la pression migratoire en Europe, ce qui risque d'entraîner une montée du populisme anti-européen et une remise en cause des politiques climatiques. Les Énergies Fossiles craignent que cette augmentation ne déstabilise les régions industrielles dépendantes de l'énergie bon marché, limitant la capacité d'investissement dans le gaz naturel.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "NEUTRE",
+        "justification": "Bien que les Énergies Fossiles ne soutiennent pas directement ce fonds, elles s'opposent à sa mise en œuvre sans garantie de financement prioritaire aux régions touchées par la transition énergétique. Cela pourrait créer des tensions entre les besoins socio-économiques des zones industrielles et l'aide migratoire.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Ce point pourrait être bénéfique si les formations sont alignées sur des compétences sectorielles liées aux énergies fossiles (ex : maintenance de centrales thermiques), permettant ainsi de préserver des emplois dans le secteur tout en facilitant l'adaptation des travailleurs.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Ce mécanisme risque d'alourdir le fardeau fiscal des pays producteurs d'énergies fossiles (comme la Pologne), augmentant leur dette publique et limitant leurs investissements dans les infrastructures énergétiques. Les Énergies Fossiles proposent une compensation via un financement commun pour les projets de transition énergétique.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition aligne avec l'objectif des Énergies Fossiles de préserver une autonomie énergétique européenne, tout en évitant un surmenage des pays d'accueil. Cela permettrait également de ne pas sacrifier les investissements dans le gaz naturel et le stockage de CO2.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les Énergies Fossiles s'opposent à une exclusion totale, mais acceptent un équilibre entre les pays producteurs d'énergies fossiles et ceux en première ligne. Cela favoriserait une coopération plus étroite sur la transition énergétique tout en préservant la souveraineté nationale.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "DEFAVORABLE",
+        "justification": "La concentration des ressources sur les frontières externes pourrait exacerber les conflits sociaux en Europe centrale, où la transition énergétique est déjà perçue comme une menace. Les Énergies Fossiles préfèrent un répartition plus uniforme des aides migratoires.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un délai permettrait d'ajuster les politiques climatiques sans compromettre la stabilité économique des régions dépendantes des énergies fossiles. Cela offrirait également plus de temps pour développer des solutions technologiques comme le gaz naturel et la capture du CO2.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les régions dépendantes des énergies fossiles (Pologne, Hongrie) et l'objectif climatique de la directive. Évaluer le risque d'émergence d'une fracture Nord-Sud en Europe sur la transition énergétique, avec une résistance forte dans les pays producteurs de charbon. Recommandé : renforcer l'analyse des impacts socio-économiques locaux et surveiller les alliances entre les partis conservateurs et les secteurs industriels traditionnels.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T12:12:44.430639",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur Banque et Finance et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Financer l’intégration par des fonds européens.",
+      "Promouvoir des mécanismes stables de solidarité budgétaire.",
+      "Assurer la stabilité financière des systèmes bancaires nationaux face aux réformes structurelles",
+      "Soutenir l’harmonisation des réglementations fiscales transfrontalières",
+      "Protéger les secteurs d’activité stratégiques (assurance, investissements) de la pression budgétaire",
+      "Faciliter la mobilité des capitaux européens pour financer les projets d’intérêt commun"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés.",
+      "Une réglementation trop stricte pourrait limiter l’accès au financement des PME innovantes",
+      "La pression sur les fonds européens pourraient affecter la rentabilité des investissements à long terme"
+    ],
+    "stratégie": "Banque et Finance adopte une approche de négociation équilibrée, visant à promouvoir un cadre réglementaire stable qui favorise à la fois l’innovation financière et la sécurité économique. L’alliance avec les pays économiquement solides comme la France et l'Italie permet d’influencer les décisions européennes en faveur de politiques macroéconomiques favorables au secteur financier. Le lobby s’appuie sur une coalition transversale incluant des acteurs progressistes (Verts/ALE) pour soutenir les initiatives vertes, tout en maintenant un dialogue avec des forces plus conservatrices comme le PPE. L’objectif principal est de préserver l’autonomie réglementaire nationale tout en facilitant la coopération transfrontalière. Une stratégie proactive consiste à promouvoir l’intégration du secteur bancaire dans les projets d’investissement communautaires, notamment dans le domaine des énergies propres et de la transition numérique.",
+    "alliances": [
+      "France (collaboration sur les politiques de financement climatique et de stabilité monétaire)",
+      "Italie (partenariat stratégique pour défendre l’harmonisation fiscale européenne)",
+      "Verts/ALE (soutien à la transition vers une économie verte, en particulier dans le secteur bancaire)",
+      "S&D (convergence d’intérêts sur les questions de régulation et d’équité sociale)",
+      "Big Tech (partenariat pour des infrastructures numériques sécurisées et accessibles à tous les acteurs économiques)",
+      "Automobile (collaboration pour financer la transition industrielle vers des technologies propres)",
+      "Banque (renforcement de l’autorité du secteur bancaire dans les négociations européennes)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation trop stricte sur les capitaux et aux quotas de répartition)",
+      "Conservateurs (préférence pour une transition énergétique progressive et non radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux mesures climatiques ambitieuses)"
+    ],
+    "éléments_d_argumentaire": [
+      "La stabilité du secteur bancaire est un pilier essentiel de la croissance européenne, nécessitant des réglementations cohérentes et non fragmentées.",
+      "L’harmonisation des normes fiscales transfrontalières permettra d’éliminer les distorsions de concurrence et de renforcer la confiance des investisseurs européens.",
+      "Le financement des projets climatiques doit inclure un rôle central pour le secteur bancaire, qui dispose des outils nécessaires pour gérer les risques associés aux investissements durables.",
+      "Les mesures de solidarité européenne doivent respecter l’autonomie des systèmes financiers nationaux et éviter une surcharge budgétaire excessive.",
+      "La mobilité des capitaux doit rester un levier stratégique pour financer les infrastructures critiques, notamment dans les secteurs d’énergie et de transport.",
+      "Une réglementation trop stricte risque de limiter l’accès au financement pour les petites entreprises innovantes, freinant ainsi la croissance économique européenne."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’augmentation des quotas de répartition pourrait être bénéfique pour le secteur bancaire si elle est accompagnée d’une compensation financière européenne. Cela permettrait de renforcer la stabilité monétaire tout en facilitant l’accès à des capitaux internationaux.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "NEUTRE",
+        "justification": "Bien que le financement de l’intégration soit une priorité européenne, son impact direct sur le secteur bancaire reste limité. Toutefois, une gestion prudente du fonds est nécessaire pour éviter les distorsions économiques.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "La conditionnalité des aides à la formation professionnelle aligne avec les objectifs du secteur bancaire de favoriser un marché du travail bien préparé, en particulier pour les métiers de l’économie numérique.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Un mécanisme de solidarité accrue pourrait augmenter la pression budgétaire sur les systèmes bancaires des pays捐助者, ce qui nécessiterait un équilibre prudent pour éviter une surcharge fiscale.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE",
+        "justification": "Une limitation des quotas risque de fragmenter le marché monétaire européen et d’affaiblir l’efficacité des politiques économiques coordonnées, ce qui serait contraire aux intérêts du secteur bancaire.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "L’exclusion d’États membres créerait un déséquilibre économique et pourrait perturber la stabilité monétaire européenne, ce qui n’est pas dans l’intérêt du secteur bancaire.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux centres d’accueil est justifiable si cela permet de renforcer la sécurité et l’efficacité des systèmes bancaires dans les régions concernées, tout en maintenant une gestion prudente du budget européen.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report pourrait permettre une meilleure préparation des systèmes bancaires européens à l’application de la directive, tout en évitant un impact négatif sur la stabilité financière européenne.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre réglementations bancaires et objectifs climatiques. Évaluer impact des mesures de solidarité sur la rentabilité des investissements bancaires en Europe centrale (Allemagne, France). Surveiller les risques d’instabilité monétaire liés aux quotas de répartition.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T12:29:31.346423",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Utiliser la main-d’œuvre migrante pour soutenir l’agriculture.",
+      "Assurer un accès facilité au travail saisonnier.",
+      "Protéger les subventions agricoles contre les pressions budgétaires européennes.",
+      "Maintenir des normes réglementaires favorables aux produits agrochimiques (pesticides, fertilisants).",
+      "Promouvoir l’innovation technologique dans la production agricole."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés."
+    ],
+    "stratégie": "Agrochimie adopte une approche proactive en s’engageant dans un lobbying ciblé pour influencer les politiques agricoles européennes. Son objectif principal est d’assurer une réglementation favorable à l’utilisation de produits chimiques agricoles, tout en garantissant la disponibilité d’une main-d’œuvre migrante pour le travail saisonnier dans les secteurs agricoles. Le lobby s’appuie sur des partenariats stratégiques avec des pays producteurs de matières premières agricoles et des acteurs européens favorables à une transition énergétique modérée, sans compromettre la compétitivité du secteur agroalimentaire européen. En parallèle, il milite pour un cadre réglementaire qui facilite l’accès aux marchés mondiaux, en évitant les restrictions excessives imposées par des directives environnementales trop strictes.",
+    "alliances": [
+      "France (soutien à la flexibilité du marché de travail agricole + investissements dans les technologies agrochimiques)",
+      "Italie (collaboration sur l’innovation technologique et la réglementation sectorielle)",
+      "S&D (priorité aux investissements régionaux pour le secteur agricole)",
+      "PPE (soutien à une transition énergétique progressive compatible avec les intérêts industriels du secteur agrochimique)",
+      "Big Tech (partenariat sur l’innovation numérique dans la gestion de la chaîne d’approvisionnement agricole)",
+      "Banque (soutien aux financements structuraux pour le développement des infrastructures agricoles)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation européenne plus stricte sur les pesticides et fertilisants)",
+      "Conservateurs (préférence pour une approche modérée en matière de transition écologique, limitant l’impact des directives environnementales)",
+      "Énergies fossiles (lobbies centrales charbon opposés à un renforcement des normes environnementales qui pénalisent les secteurs traditionnels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La disponibilité d’une main-d’œuvre migrante est cruciale pour maintenir la productivité agricole, en particulier dans les régions européennes à forte densité de travail saisonnier.",
+      "Une réglementation flexible sur l’utilisation des pesticides et fertilisants permet au secteur Agrochimie de rester compétitif face aux normes environnementales internationales croissantes.",
+      "Le soutien financier européen est essentiel pour financer l’innovation technologique dans les pratiques agricoles, garantissant la durabilité économique du secteur.",
+      "La concurrence entre les pays européens pour le contrôle des marchés mondiaux agroalimentaires exige une coordination stratégique au niveau européen pour préserver les intérêts économiques des producteurs locaux.",
+      "Une transition énergétique modérée, adaptée aux spécificités du secteur agricole, permet d’éviter un recours excessif à des pratiques non durables ou coûteuses."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car une augmentation des quotas de répartition favoriserait l’ouverture des frontières pour le recrutement de travailleurs migrants, essentielle pour assurer la main-d’œuvre saisonnière dans les secteurs agricoles. Cela renforcerait également la coopération transnationale entre les pays européens.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cet amendement, car bien qu’elle soutienne l’intégration des migrants dans le secteur agricole, elle estime que la mise en place d’un fonds spécifique pourrait entraver la flexibilité nécessaire pour s’adapter aux besoins locaux et éviter une dépendance excessive à un financement centralisé.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s’oppose partiellement à cet amendement, car des conditions trop strictes sur la formation linguistique pourraient freiner l’accès immédiat au marché du travail agricole. Cependant, elle reconnaît l’importance de renforcer les compétences professionnelles pour améliorer la qualité de la main-d’œuvre.",
+        "priorite": "haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition que le mécanisme de solidarité comprenne des mesures spécifiques pour l’agriculture, comme une répartition équitable des ressources et un soutien aux pays producteurs de matières premières agricoles.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s’oppose à cet amendement, car une limite des quotas à 80 % pourrait entraver l’accès suffisant à la main-d’œuvre migrante nécessaire pour maintenir la productivité agricole. Cela risquerait de pénaliser les secteurs agricoles dépendants d’une main-d’œuvre saisonnière.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s’oppose à l’exclusion de certains pays des obligations de répartition, car cela pourrait créer des inégalités entre les États membres et fragiliser la coopération transnationale nécessaire pour assurer une gestion équilibrée de la main-d’œuvre migrante.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie appuie cet amendement, car une mise en place prioritaire des centres d’accueil aux frontières facilitera l’intégration rapide des migrants dans le secteur agricole, réduisant les délais de recrutement et améliorant la coordination entre les États membres.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cet amendement à condition que le report permette un ajustement des normes réglementaires et une adaptation des pratiques agricoles aux nouvelles directives, évitant ainsi des perturbations majeures pour les secteurs dépendants des subventions et de la réglementation.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre les normes environnementales imposées par les Verts/ALE et les intérêts du secteur Agrochimie. Évaluer régulièrement l’impact des restrictions sur la disponibilité de la main-d’œuvre agricole dans les pays producteurs d’énergie fossile comme la Pologne et la Hongrie. Recommandation : renforcer les partenariats avec les partis favorables aux investissements régionaux (S&D, PPE) pour préserver les subventions agricoles.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T13:22:21.934062",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, en particulier sur les politiques de santé publique, l'accès aux médicaments, les réglementations des brevets, et les financements liés à la recherche et au développement (R&D).",
+    "enjeux_directive": [
+      "Assurer un accès équitable aux soins pour tous les citoyens européens, y compris les migrants.",
+      "Promouvoir l'innovation pharmaceutique en facilitant les collaborations transfrontalières et en soutenant la R&D européenne.",
+      "Protéger les brevets et les droits de propriété intellectuelle des entreprises du secteur face aux pressions pour un accès à bas prix.",
+      "Intégrer les besoins sanitaires spécifiques des populations vulnérables (migrants, régions défavorisées) dans la législation européenne."
+    ],
+    "impacts_directive": [
+      "La directive pourrait influencer la répartition des ressources de santé publique, affectant directement l'approvisionnement en médicaments et les coûts liés à leur distribution.",
+      "Elle pourrait renforcer les exigences réglementaires sur la transparence des prix des médicaments, impactant la rentabilité des entreprises pharmaceutiques."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie de négociation centrée sur la collaboration avec les acteurs favorables à l'innovation (partis progressistes et lobbies technologiques) tout en se positionnant comme un interlocuteur clé pour garantir la pérennité des secteurs industriels stratégiques. Il privilégie une approche pragmatique, combinant des arguments économiques (protection de l'industrie pharmaceutique européenne), sociaux (santé publique et accès aux soins) et idéologiques (défense du libre-échange et de la R&D). Il s'appuie sur des alliances sectorielles pour renforcer son influence au sein des comités européens, tout en évitant les conflits directs avec les partis favorables à une régulation accrue.",
+    "alliances": [
+      "France (collaboration sur l'innovation pharmaceutique et la R&D européenne)",
+      "Italie (partage d'intérêts dans le développement des infrastructures de santé publique)",
+      "S&D (soutien aux politiques de santé équitables et aux financements publics pour la R&D)",
+      "Verts/ALE (collaboration sur l'intégration des aspects environnementaux en pharmacie, comme les médicaments biosourcés)",
+      "Big Tech (synergies sur le développement d'outils numériques de santé et de télé-médecine)",
+      "Agrochimie (partage d'intérêts dans la recherche biotechnologique et agricole appliquée à la santé)",
+      "PPE (soutien à des politiques industrielles favorables aux secteurs pharmaceutiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au financement de l'assurance maladie européenne, considéré comme une menace pour les budgets nationaux)",
+      "Conservateurs (préférence pour une régulation plus légère des prix des médicaments en faveur de l'économie privée)",
+      "Énergies fossiles (rivalité avec le secteur pharmaceutique sur les investissements publics dans la R&D et les infrastructures sanitaires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France défend un accès équitable aux médicaments pour tous, en particulier pour les régions les plus touchées par l'insuffisance de soins.",
+      "Les Verts/ALE soutiennent la R&D vertueuse et l'utilisation de ressources durables dans le secteur pharmaceutique, comme les médicaments biosourcés.",
+      "Le lobby Big Tech insiste sur l'intégration des outils numériques (télé-médecine, IA) pour améliorer la distribution et l'efficacité des soins en Europe.",
+      "L'Agrochimie souligne les synergies entre la recherche agricole et pharmaceutique, notamment dans le développement de médicaments biosourcés ou biologiques.",
+      "Le PPE défend une approche industrielle forte pour protéger l'industrie pharmaceutique européenne contre l'émergence de concurrents non européens.",
+      "La S&D appuie des politiques publiques favorisant la R&D et les financements publics pour garantir un accès universel aux médicaments."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "La directive pourrait entraîner une surcharge des systèmes de santé dans certains pays, affectant la disponibilité et l'efficacité des traitements médicaux. Le secteur pharmaceutique s'inquiète du risque d'une perte de contrôle sur les flux de médicaments, qui pourraient être déstabilisés par une répartition excessive.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "Le lobby pharmaceutique s'engage à soutenir les initiatives qui favorisent l'accès aux soins pour tous, y compris les migrants. Un fonds dédié permettrait d'améliorer la qualité des services de santé dans les régions touchées par le flux migratoire.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "NEUTRE",
+        "justification": "Le lobby pharmaceutique ne s'oppose pas à ce type de mesure, mais estime qu'elle doit être accompagnée d'une garantie sur l'accès aux soins pour éviter une fracture sanitaire entre les migrants et la population locale.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le lobby pharmaceutique soutient cette idée à condition que les ressources allouées soient dédiées à l'amélioration des infrastructures de santé et aux formations médicales, plutôt qu'à la simple répartition de quotas.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait une meilleure gestion des ressources sanitaires nationales, évitant une surcharge des systèmes de santé et garantissant une distribution équilibrée des soins.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le lobby pharmaceutique s'oppose à l'exclusion de pays en raison du risque d'inégalités dans la distribution des soins. Cependant, il accepte que certains États puissent demander une exemption temporaire en cas de crise sanitaire majeure.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Le lobby pharmaceutique soutient l'idée de centres modernisés, équipés pour garantir un accès immédiat aux soins médicaux pour tous les nouveaux arrivants. Cela renforcerait la santé publique et éviterait des crises sanitaires à grande échelle.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le retard pourrait entraver la mise en place rapide des mesures nécessaires pour garantir un accès équitable aux soins. Le lobby pharmaceutique préfère une application progressive mais opérationnelle dès que possible.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur pharmaceutique et régulations strictes sur les prix des médicaments (ex: pressions de la France pour un accès équitable). Évaluer impact des politiques migratoires sur les capacités d'accueil en santé dans les régions Sud. Recommander surveillance des alliances avec le lobby Big Tech et l'Agrochimie, qui pourraient influencer la direction stratégique du secteur pharmaceutique.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T12:47:20.969608",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile et cherche à influencer la législation européenne, notamment sur les transitions énergétiques, l'innovation technologique, et la main-d’œuvre qualifiée. Il défend des politiques favorables aux investissements dans le développement de véhicules électriques, l'hydrogène vert, et la modernisation des infrastructures routières.",
+    "enjeux_directive": [
+      "Bénéficier de main-d’œuvre qualifiée issue des migrations.",
+      "Renforcer l’image de responsabilité sociale du secteur.",
+      "Maintenir une position de leadership dans les technologies propres (véhicules électriques, batterie, hydrogène).",
+      "Sécuriser la transition industrielle sans perte de compétitivité européenne."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur automobile, notamment en matière d’adaptation aux normes environnementales et de répartition des responsabilités migratoires.",
+      "Les intérêts économiques et stratégiques de l'industrie automobile sont directement concernés par les objectifs climatiques et la modernisation du marché européen."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L’automobile adopte une stratégie proactive, combinant lobbying sectoriel avec alliances transversales pour influencer la directive. Elle privilégie un dialogue constructif avec les partis favorables à l'innovation technologique (Verts/ALE, S&D) et les pays leaders industriels (France, Italie). Elle défend des positions équilibrées : soutien aux mesures climatiques conditionnées par des investissements dans la transition verte, tout en résistant à des moratoires ou restrictions potentielles sur l'industrie. Elle cherche également à maximiser les bénéfices de la directive via le développement de compétences liés aux migrations, notamment pour combler les besoins en main-d’œuvre qualifiée dans les secteurs haute technologie.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "PPE (privilégie stabilité économique + soutien secteur traditionnel)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur automobile est un moteur essentiel de l’économie européenne, représentant des millions d’emplois et nécessitant des investissements massifs pour la transition écologique.",
+      "L’industrie automobile est prête à s’adapter aux objectifs climatiques, à condition que les politiques accompagnent cette transition par des financements publics et un soutien technologique (batteries, hydrogène).",
+      "Les migrations peuvent apporter une main-d’œuvre qualifiée indispensable pour moderniser les usines et développer les technologies propres (ex : production de batteries, logiciels de conduite autonome).",
+      "L’automobile doit rester compétitive sur le marché mondial en évitant des mesures trop restrictives qui pourraient déplacer la production vers des pays non européens.",
+      "La collaboration avec les secteurs numériques (Big Tech) est cruciale pour intégrer l’intelligence artificielle et les réseaux 5G dans les véhicules connectés, renforçant ainsi l’excellence européenne.",
+      "L’industrie automobile a besoin d’une transition juste, avec des mesures de requalification des travailleurs traditionnels (ex : mécaniciens) pour éviter la dégradation sociale et les conflits syndicaux."
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs traditionnels (Volkswagen, PSA) et transition écologique. Évaluer impact des quotas migratoires sur la disponibilité de main-d’œuvre qualifiée dans les régions industrielles (France, Allemagne). Surveiller oppositions d’Énergies fossiles sur moratoires charbon.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-29T13:03:42.209176",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’industrie automobile soutient l’augmentation des quotas migratoires dans la mesure où ces flux apportent une main-d’œuvre qualifiée nécessaire pour les secteurs technologiques (ex : développement de véhicules électriques, logiciels autonomes). Cependant, elle exige que cette politique soit accompagnée d’un plan de formation professionnelle et linguistique pour intégrer ces travailleurs dans le tissu industriel européen.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "Un fonds dédié à l’intégration des migrants pourrait être bénéfique pour le secteur automobile, en facilitant l’accès aux qualifications nécessaires pour les métiers de la transition verte (ex : électro-techniciens, ingénieurs). Cela renforcerait également la capacité de l’industrie à attirer des talents étrangers.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "L’automobile appuie cette mesure pour garantir que les migrants disposent des compétences linguistiques et techniques nécessaires aux postes de travail dans l’industrie. Cela réduirait les coûts d’intégration et augmenterait la productivité sectorielle.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "NEUTRE",
+        "justification": "Le secteur automobile reste neutre sur cette proposition, car il ne perçoit pas directement les impacts des politiques migratoires dans les pays frontaliers. Cependant, il s’engage à soutenir des initiatives européennes de coopération internationale pour améliorer la gestion des flux migratoires.",
+        "priorite": "faible",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L’automobile est opposée à cette limite, car elle pourrait bloquer l’accès à la main-d’œuvre qualifiée nécessaire pour les projets d’innovation technologique. Cependant, elle accepte une approche équilibrée, en combinant des quotas flexibles avec un suivi rigoureux de l’intégration professionnelle.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "L’industrie automobile s’oppose à l’exclusion d’États membres, car cela risquerait de fragmenter les politiques migratoires et de nuire aux synergies sectorielles. Elle préconise une approche cohérente au niveau européen.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’automobile appuie ce soutien conditionnellement, à l’issue de l’intégration des migrants dans le secteur. Elle considère que des infrastructures adéquates aux frontières renforceraient la capacité d’accueil et réduiraient les flux non maîtrisés.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Le secteur automobile reste neutre, car il ne voit pas de justification stratégique pour un report. Cependant, il suggère que les mesures soient appliquées progressivement, en concertation avec les acteurs industriels.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  }
+]

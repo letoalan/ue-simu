@@ -1,0 +1,212 @@
+{
+  "directive": {
+    "id": "2-5",
+    "title": "Coopération diplomatique européenne",
+    "description": "Missions diplomatiques communes et représentation unique. Instaurer une représentation unique de l’UE dans les organisations internationales et déployer des missions diplomatiques conjointes pour renforcer la voix de l’Union, améliorer la cohérence extérieure et promouvoir la paix et la stabilité.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Renforcer la cohérence et l’efficacité de l’action extérieure de l’UE via le Service européen pour l’action extérieure (SEAE).",
+        "Affirmer la voix de l'Union dans les enceintes multilatérales par une représentation unique.",
+        "Déployer des missions diplomatiques conjointes et mutualiser la protection consulaire des citoyens européens.",
+        "Créer des capacités d'action préventive et de gestion concertée des crises internationales."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Exclure certains États membres de la représentation unique",
+        "enjeux": [
+          "Préserver son statut de membre permanent au Conseil de sécurité de l’ONU et l'autonomie de son réseau diplomatique mondial.",
+          "Soutenir la solidarité diplomatique européenne tout en conservant une liberté d'action stratégique souveraine."
+        ],
+        "strategie": "Défendre son statut diplomatique singulier (siège à l'ONU) tout en promouvant une solidarité européenne accrue face aux crises géopolitiques."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutien favorable au multilatéralisme et à la coordination diplomatique européenne intégrée.",
+        "enjeux": [
+          "Renforcer le multilatéralisme, le respect du droit international et l'influence globale de l'Union.",
+          "Mutualiser les réseaux diplomatiques pour optimiser l'efficacité et réduire les coûts administratifs."
+        ],
+        "role_description": "Médiateur pour une diplomatie multilatérale intégrée et un compromis constructif entre États membres."
+      },
+      {
+        "name": "Italie",
+        "role": "Non-porteur",
+        "position": "Soutien à la diplomatie commune avec un accent prioritaire sur la Méditerranée et le voisinage Sud.",
+        "enjeux": [
+          "Accroître la solidarité diplomatique européenne dans le bassin méditerranéen et la gestion des crises régionales.",
+          "Mutualiser les services consulaires et développer des mécanismes d'intervention d'urgence."
+        ],
+        "role_description": "Défenseur d'une diplomatie commune proactive dans le voisinage méridional."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Limiter la représentation unique à certaines organisations",
+        "enjeux": [
+          "Préserver la souveraineté nationale en matière de politique étrangère et de relations internationales.",
+          "Empêcher une centralisation des compétences diplomatiques au profit des institutions bruxelloises."
+        ],
+        "strategie": "Fédérer les États souverainistes pour circonscrire la représentation unique à un nombre restreint d'enceintes."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "enjeux": [
+          "Préserver ses alliances bilatérales stratégiques (notamment avec les États-Unis) et son action directe sur le flanc Est.",
+          "Empêcher que la diplomatie européenne ne ralentisse les prises de position face aux menaces régionales."
+        ],
+        "strategie": "Défendre la primauté et l'agilité des diplomaties bilatérales nationales sur les mécanismes intégrés."
+      },
+      {
+        "name": "Suède",
+        "role": "Porteur",
+        "amendment": "Reporter l’application de la directive de deux ans",
+        "enjeux": [
+          "Assurer une transition réaliste et ordonnée pour l'harmonisation des missions consulaires et diplomatiques.",
+          "Préserver son expertise historique de médiation internationale et la défense rigoureuse des droits humains."
+        ],
+        "strategie": "Obtenir un calendrier d'application pragmatique pour garantir la viabilité administrative des réformes."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "enjeux": [
+          "Renforcer la crédibilité géopolitique de l'UE et protéger les intérêts stratégiques européens face aux régimes autoritaires.",
+          "Mettre en place une solidarité diplomatique et consulaire automatique pour tous les citoyens de l'Union."
+        ],
+        "strategie": "Faire de l'Union un acteur diplomatique fort doté de mécanismes concrets d'assistance et de solidarité."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Créer un fonds européen pour la diplomatie préventive",
+        "enjeux": [
+          "Privilégier la résolution pacifique des conflits, la médiation et le soutien aux droits humains.",
+          "Doter l'Union de ressources financières dédiées à l'anticipation des crises et à la diplomatie préventive."
+        ],
+        "strategie": "Placer la prévention, la paix et la solidarité internationale au cœur de l'action diplomatique européenne."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Élargir la représentation unique à toutes les organisations internationales",
+        "enjeux": [
+          "Fédéraliser et unifier la voix de l'Europe dans l'ensemble des instances mondiales pour maximiser son poids politique.",
+          "Renforcer le SEAE et créer un véritable corps diplomatique européen commun."
+        ],
+        "strategie": "Pousser l'intégration maximale vers une diplomatie européenne unifiée et influente."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "enjeux": [
+          "Assurer une formation diplomatique d'excellence axée sur le droit international, les droits humains et la diplomatie climatique.",
+          "Garantir des standards éthiques et démocratiques stricts dans toutes les représentations de l'Union."
+        ],
+        "strategie": "Conditionner les missions communes à une professionnalisation et un socle de valeurs partagées."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Défense de la souveraineté nationale des États membres dans la conduite de leurs relations extérieures.",
+        "enjeux": [
+          "Préserver la souveraineté diplomatique exclusive des capitales nationales.",
+          "Refuser la création d'un service diplomatique européen supranational obligatoire."
+        ],
+        "strategie": "S'opposer à toute centralisation fédérale et défendre le modèle de coopération intergouvernementale."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Soutien au pacifisme multilatéral universel sous l'égide de l'ONU, critique de toute logique de confrontation de blocs.",
+        "enjeux": [
+          "Promouvoir le désarmement, la justice sociale internationale et le respect universel du droit international.",
+          "Éviter que la diplomatie européenne ne devienne un instrument géopolitique agressif."
+        ],
+        "strategie": "Plaider pour une diplomatie de paix, de coopération et de respect de la souveraineté des peuples."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Participer à la cyber-diplomatie et aux négociations internationales sur la gouvernance de l'internet et de l'IA.",
+          "Garantir la sécurité des infrastructures numériques et des flux mondiaux de données face aux cybermenaces."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "France",
+          "Parti Populaire Européen"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Sécuriser les corridors d'approvisionnement énergétique internationaux et la diplomatie des ressources stratégiques.",
+          "Anticiper et gérer l'impact des régimes de sanctions diplomatiques internationales sur les contrats et approvisionnements énergétiques."
+        ],
+        "alliances": [
+          "Pologne",
+          "Conservateurs et Réformistes",
+          "Hongrie"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Renforcer la voix de l'UE au sein des institutions financières mondiales (FMI, Banque mondiale, G20, BRI).",
+          "Assurer la sécurité juridique et la coordination internationale des sanctions financières et des flux monétaires."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen",
+          "Renouveau Européen"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Défendre les intérêts exportateurs européens dans les négociations commerciales internationales et à l'OMC.",
+          "Harmoniser les normes sanitaires et phytosanitaires (SPS) à l'international pour lever les barrières non tarifaires."
+        ],
+        "alliances": [
+          "Italie",
+          "Socialistes et Démocrates"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Renforcer la diplomatie sanitaire mondiale (OMS) et sécuriser les chaînes d'approvisionnement de santé face aux crises.",
+          "Défendre les droits de propriété intellectuelle (accords ADPIC/TRIPS) et la reconnaissance mutuelle des standards thérapeutiques."
+        ],
+        "alliances": [
+          "France",
+          "Renouveau Européen",
+          "Parti Populaire Européen"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Faciliter la conclusion d'accords commerciaux multilatéraux et bilatéraux pour fluidifier les exportations de véhicules et composants.",
+          "Prévenir et résoudre les différends commerciaux et les barrières tarifaires et non tarifaires sur les grands marchés mondiaux."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,613 @@
+# par\_s2-d5
+
+Source : `directives/fiches-acteurs/s2/d5/par_s2-d5.json`
+
+## Contenu
+
+- **Élément 1** :
+  - **type** : Parti
+  - **nom** : Parti Populaire Européen
+  - **actor\_id** : ppe
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Renforcer la crédibilité géopolitique de l'Union européenne sur la scène internationale.
+    - Instaurer un mécanisme de solidarité diplomatique automatique en cas de crise extérieure (2-5D).
+    - Assurer une protection consulaire efficace et coordonnée pour tous les citoyens de l'UE dans le monde.
+    - Allier fermeté diplomatique, sécurité et défense des intérêts stratégiques européens.
+  - **impacts\_directive** :
+    - La directive conférera à l'Union une stature internationale accrue face aux puissances rivales.
+    - Elle assurera une protection opérationnelle directe à l'ensemble des ressortissants européens.
+  - **stratégie** : Le PPE est l'initiateur de l'amendement 2-5D créant un mécanisme de solidarité diplomatique en cas de crise. Le parti défend une diplomatie européenne forte, protectrice et influente, capable de répondre avec fermeté aux défis géopolitiques mondiaux. Il appuie l'élargissement de la représentation unique (2-5A) et recherche des compromis réalistes sur la formation (2-5C) et le financement préventif (2-5B), tout en rejetant les velléités de division ou de repli souverainiste.
+  - **alliances** :
+    - France (convergence sur la solidarité diplomatique et la stature de puissance)
+    - Allemagne (appui commun au multilatéralisme fort et à la stabilité)
+    - Renouveau Européen (soutien à l'affirmation géopolitique de l'UE)
+    - Socialistes et Démocrates (accord sur la protection consulaire et la gestion de crise)
+    - Banque et Finance (défense de la diplomatie économique et financière)
+    - Automobile (soutien aux accords commerciaux protecteurs)
+  - **oppositions** :
+    - Hongrie (opposition à l'affaiblissement de la voix européenne commune)
+    - Conservateurs et Réformistes (rejet de l'inaction supranationale)
+  - **éléments\_d\_argumentaire** :
+    - L'Union européenne doit être en mesure d'agir et de protéger ses citoyens partout dans le monde avec un mécanisme de solidarité sans faille (2-5D).
+    - Une diplomatie européenne affirmée est la clé pour défendre nos valeurs démocratiques et nos intérêts économiques stratégiques.
+    - La mutualisation consulaire garantit à chaque citoyen européen une assistance immédiate même dans les pays où son État d'origine n'a pas d'ambassade.
+    - La voix de l'Europe ne sera respectée que si elle fait preuve d'une unité indéfectible face aux régimes autoritaires.
+  - **références** :
+    - s2d5.json
+    - scenario2.json
+  - **notes\_internes** : Maintenir la priorité absolue sur l'amendement 2-5D pour inscrire la solidarité diplomatique concrète au cœur du texte final.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `5`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T17:30:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-5A
+      - **titre** : Élargir la représentation unique à toutes les organisations internationales
+      - **position** : FAVORABLE
+      - **justification** : Le PPE défend une représentation commune étendue pour peser face aux grandes puissances dans toutes les enceintes multilatérales.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la représentation unique à toutes les organisations internationales
+    - **Élément 2** :
+      - **amendement** : 2-5B
+      - **titre** : Créer un fonds européen pour la diplomatie préventive
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable au fonds préventif sous réserve d'une gouvernance rigoureuse et d'un contrôle budgétaire strict.
+      - **priorite** : haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un fonds européen pour la diplomatie préventive
+    - **Élément 3** :
+      - **amendement** : 2-5C
+      - **titre** : Conditionner la participation aux missions à la formation diplomatique commune
+      - **position** : NEUTRE
+      - **justification** : Soutient la qualité de la formation mais refuse des critères rigides qui bloqueraient les nominations rapides.
+      - **priorite** : moyenne
+      - **origine** : Verts/ALE
+      - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+    - **Élément 4** :
+      - **amendement** : 2-5D
+      - **titre** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+      - **position** : FAVORABLE
+      - **justification** : Amendement phare du PPE instituant un mécanisme automatique de secours et d'assistance diplomatique et consulaire en cas d'urgence internationale.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+    - **Élément 5** :
+      - **amendement** : 2-5E
+      - **titre** : Limiter la représentation unique à certaines organisations
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Le PPE s'oppose à un rabaissement général de la stature diplomatique de l'Union.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la représentation unique à certaines organisations
+    - **Élément 6** :
+      - **amendement** : 2-5F
+      - **titre** : Exclure certains États membres de la représentation unique
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Le PPE comprend la spécificité du statut de la France au Conseil de sécurité de l'ONU comme atout stratégique pour l'Europe.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de la représentation unique
+    - **Élément 7** :
+      - **amendement** : 2-5G
+      - **titre** : Soutenir prioritairement la diplomatie bilatérale nationale
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Le bilatéralisme ne doit pas miner l'unité européenne mais s'articuler harmonieusement avec elle.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+    - **Élément 8** :
+      - **amendement** : 2-5H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Préfère une mise en œuvre sans délai excessif au vu de l'instabilité internationale actuelle.
+      - **priorite** : faible
+      - **origine** : Suède
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 2** :
+  - **type** : Parti
+  - **nom** : Socialistes et Démocrates
+  - **actor\_id** : sd
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Créer un fonds européen pour la diplomatie préventive et le règlement pacifique des différends (2-5B).
+    - Placer les droits humains, la démocratie, la justice sociale et l'aide au développement au cœur des relations extérieures.
+    - Renforcer le multilatéralisme universel dans le cadre de la charte des Nations unies.
+    - Promouvoir la paix durable, la médiation de conflits et le désarmement.
+  - **impacts\_directive** :
+    - La directive permettra d'orienter l'action extérieure européenne vers la prévention plutôt que la réaction militaire.
+    - Elle renforcera la légitimité éthique et démocratique de l'Union européenne sur la scène internationale.
+  - **stratégie** : Le groupe S&D porte l'amendement 2-5B pour doter l'Union d'un fonds de diplomatie préventive ambitieux. Convaincu que la paix durable s'obtient par le dialogue, la coopération et le développement économique inclusif, le S&D milite pour une diplomatie humaine et multilatérale. Il soutient l'élargissement de la représentation unique (2-5A), la formation commune (2-5C) et la solidarité consulaire (2-5D), tout en refusant les logiques de repli bilatéral ou de confrontation stérile.
+  - **alliances** :
+    - Verts/ALE (convergence sur la paix, les droits humains et la formation diplomatique)
+    - Renouveau Européen (accord sur la représentation multilatérale unifiée)
+    - Parti Populaire Européen (compromis sur la solidarité de crise et la diplomatie préventive)
+    - Italie (soutien à la stabilisation de la Méditerranée et diplomatie humanitaire)
+    - Allemagne (attachement commun à la médiation pacifique)
+  - **oppositions** :
+    - Hongrie (critique de l'opposition aux valeurs universelles de paix et de solidarité)
+    - Conservateurs et Réformistes (rejet du repli nationaliste)
+  - **éléments\_d\_argumentaire** :
+    - Investir dans la diplomatie préventive coûte infiniment moins cher en vies et en ressources que de gérer des conflits armés ouverts.
+    - Le fonds européen de diplomatie préventive (2-5B) est l'outil indispensable pour intervenir en amont avec des médiateurs formés et neutres.
+    - Une diplomatie européenne unifiée doit porter les valeurs de démocratie, d'égalité et de droits humains à travers le monde.
+    - La solidarité diplomatique doit protéger tous les citoyens européens sans distinction de nationalité.
+  - **références** :
+    - s2d5.json
+    - scenario2.json
+  - **notes\_internes** : Mobiliser les soutiens progressistes et centristes pour garantir un budget significatif au fonds de diplomatie préventive.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `5`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T17:30:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-5A
+      - **titre** : Élargir la représentation unique à toutes les organisations internationales
+      - **position** : FAVORABLE
+      - **justification** : Soutien plein à une voix européenne forte pour porter les valeurs de paix et de multilatéralisme.
+      - **priorite** : haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la représentation unique à toutes les organisations internationales
+    - **Élément 2** :
+      - **amendement** : 2-5B
+      - **titre** : Créer un fonds européen pour la diplomatie préventive
+      - **position** : FAVORABLE
+      - **justification** : Amendement initié par le S&D pour faire de l'anticipation des conflits et de la médiation le cœur de l'action extérieure de l'UE.
+      - **priorite** : très\_haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un fonds européen pour la diplomatie préventive
+    - **Élément 3** :
+      - **amendement** : 2-5C
+      - **titre** : Conditionner la participation aux missions à la formation diplomatique commune
+      - **position** : FAVORABLE
+      - **justification** : La formation commune garantit la maîtrise du droit international et des droits fondamentaux par tous les diplomates européens.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+    - **Élément 4** :
+      - **amendement** : 2-5D
+      - **titre** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+      - **position** : FAVORABLE
+      - **justification** : La solidarité est un principe fondamental de l'Union qui doit s'appliquer pleinement aux relations extérieures.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+    - **Élément 5** :
+      - **amendement** : 2-5E
+      - **titre** : Limiter la représentation unique à certaines organisations
+      - **position** : DEFAVORABLE
+      - **justification** : Cette restriction affaiblirait l'impact des politiques diplomatiques européennes.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la représentation unique à certaines organisations
+    - **Élément 6** :
+      - **amendement** : 2-5F
+      - **titre** : Exclure certains États membres de la représentation unique
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Le S&D regrette les dérogations mais accepte une approche pragmatique pour préserver l'accord d'ensemble.
+      - **priorite** : faible
+      - **origine** : France
+      - **description** : Exclure certains États membres de la représentation unique
+    - **Élément 7** :
+      - **amendement** : 2-5G
+      - **titre** : Soutenir prioritairement la diplomatie bilatérale nationale
+      - **position** : DEFAVORABLE
+      - **justification** : Prioriser le bilatéralisme fragmenterait la solidarité et l'action internationale concertée de l'UE.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+    - **Élément 8** :
+      - **amendement** : 2-5H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE
+      - **justification** : L'urgence diplomatique requiert une action rapide sans délais injustifiés.
+      - **priorite** : moyenne
+      - **origine** : Suède
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 3** :
+  - **type** : Parti
+  - **nom** : Renouveau Européen
+  - **actor\_id** : re
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Élargir la représentation unique de l'UE à toutes les organisations internationales (2-5A).
+    - Fédéraliser et moderniser l'action extérieure pour doter l'Union d'une voix puissante et respectée dans le monde.
+    - Renforcer les prérogatives du SEAE et constituer une véritable diplomatie européenne intégrée.
+    - Dépasser les concurrences nationales stériles pour affirmer la souveraineté européenne.
+  - **impacts\_directive** :
+    - La directive constitue une avancée historique vers une diplomatie européenne véritablement intégrée.
+    - Elle placera l'Union européenne sur un pied d'égalité avec les superpuissances dans tous les forums internationaux.
+  - **stratégie** : Renouveau Européen est le porteur de l'amendement 2-5A. Il prône une intégration diplomatique ambitieuse, convaincu que seule une représentation unique généralisée permet à l'Europe de faire face aux défis mondiaux (commerce, climat, sécurité, régulation numérique). Il soutient ardemment le fonds préventif (2-5B), la formation commune (2-5C) et la solidarité de crise (2-5D), et s'oppose vigoureusement à toute tentative de dilution souverainiste (2-5E, 2-5G).
+  - **alliances** :
+    - Commission européenne (allié naturel pour une diplomatie unifiée forte)
+    - Socialistes et Démocrates (accord sur la représentation unifiée et le multilatéralisme)
+    - Parti Populaire Européen (convergence sur la force géopolitique de l'UE)
+    - Verts/ALE (soutien à l'académie diplomatique et au droit international)
+    - Big Tech (coopération sur la cyber-diplomatie et les standards numériques mondiaux)
+  - **oppositions** :
+    - Hongrie (opposition résolue au repli nationaliste)
+    - Conservateurs et Réformistes (rejet de l'intergouvernementalisme frileux)
+    - Pologne (refus de subordonner la diplomatie commune au bilatéralisme)
+  - **éléments\_d\_argumentaire** :
+    - Dans un monde de géants et de rivalités exacerbées, les diplomaties nationales isolées n'ont pas la taille critique nécessaire pour s'imposer.
+    - L'élargissement de la représentation unique à toutes les organisations internationales (2-5A) donne à l'Europe le poids politique correspondant à sa puissance économique.
+    - Une diplomatie intégrée est la condition sine qua non de la véritable souveraineté européenne.
+    - La coordination totale de nos réseaux diplomatiques et consulaires offre aux Européens une protection sans égale.
+  - **références** :
+    - s2d5.json
+    - scenario2.json
+  - **notes\_internes** : Défendre l'amendement 2-5A avec la plus haute priorité et négocier des passerelles avec la France sur les modalités opérationnelles.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `5`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T17:30:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-5A
+      - **titre** : Élargir la représentation unique à toutes les organisations internationales
+      - **position** : FAVORABLE
+      - **justification** : Amendement phare de Renouveau pour bâtir une diplomatie européenne intégrée et incontournable sur la scène mondiale.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la représentation unique à toutes les organisations internationales
+    - **Élément 2** :
+      - **amendement** : 2-5B
+      - **titre** : Créer un fonds européen pour la diplomatie préventive
+      - **position** : FAVORABLE
+      - **justification** : Ce fonds renforce la réactivité et la crédibilité de l'action extérieure de l'Union.
+      - **priorite** : haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un fonds européen pour la diplomatie préventive
+    - **Élément 3** :
+      - **amendement** : 2-5C
+      - **titre** : Conditionner la participation aux missions à la formation diplomatique commune
+      - **position** : FAVORABLE
+      - **justification** : La création d'un corps diplomatique formé ensemble est le socle d'une diplomatie commune efficace.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+    - **Élément 4** :
+      - **amendement** : 2-5D
+      - **titre** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+      - **position** : FAVORABLE
+      - **justification** : La solidarité diplomatique concrétise l'appartenance à une communauté de destin européenne.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+    - **Élément 5** :
+      - **amendement** : 2-5E
+      - **titre** : Limiter la représentation unique à certaines organisations
+      - **position** : DEFAVORABLE
+      - **justification** : Cette proposition affaiblirait drastiquement la portée du texte et la stature internationale de l'Union.
+      - **priorite** : très\_haute
+      - **origine** : Hongrie
+      - **description** : Limiter la représentation unique à certaines organisations
+    - **Élément 6** :
+      - **amendement** : 2-5F
+      - **titre** : Exclure certains États membres de la représentation unique
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Renouveau souhaite l'unité la plus large possible mais accepte une exception temporaire et ciblée pour le Conseil de sécurité de l'ONU.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de la représentation unique
+    - **Élément 7** :
+      - **amendement** : 2-5G
+      - **titre** : Soutenir prioritairement la diplomatie bilatérale nationale
+      - **position** : DEFAVORABLE
+      - **justification** : Privilégier le bilatéralisme va à l'encontre de la construction d'une politique étrangère européenne intégrée.
+      - **priorite** : haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+    - **Élément 8** :
+      - **amendement** : 2-5H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE
+      - **justification** : Le monde n'attendra pas deux ans : l'Europe doit s'affirmer sans tarder sur la scène géopolitique.
+      - **priorite** : haute
+      - **origine** : Suède
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 4** :
+  - **type** : Parti
+  - **nom** : Verts/Alliance Libre Européenne (Verts/ALE)
+  - **actor\_id** : verts\_ale
+  - **role\_europeen** : Porteur
+  - **enjeux\_directive** :
+    - Conditionner la participation aux missions diplomatiques communes à une formation approfondie (2-5C).
+    - Promouvoir la diplomatie climatique, environnementale et la justice internationale.
+    - Garantir la primauté du droit international, des droits humains et du désarmement dans l'action extérieure.
+    - Assurer la transparence, le contrôle démocratique et l'exemplarité éthique des représentations de l'Union.
+  - **impacts\_directive** :
+    - La directive favorisera l'émergence d'une diplomatie européenne fondée sur les valeurs démocratiques et écologiques.
+    - Elle assurera une professionnalisation accrue et une culture partagée du droit international.
+  - **stratégie** : Les Verts/ALE portent l'amendement 2-5C visant à instaurer une académie diplomatique européenne commune obligatoire pour participer aux missions conjointes. Ils veulent une diplomatie européenne de transformation, engagée dans les négociations climatiques mondiales, le respect strict des traités internationaux et la défense des libertés fondamentales. Ils soutiennent le fonds de diplomatie préventive (2-5B) et la représentation unique (2-5A), tout en réclamant un contrôle parlementaire rigoureux.
+  - **alliances** :
+    - Socialistes et Démocrates (front commun sur la prévention des crises et les droits humains)
+    - Renouveau Européen (accord sur la formation diplomatique commune et le multilatéralisme)
+    - Suède (sensibilité commune à la rigueur démocratique et aux droits de l'homme)
+  - **oppositions** :
+    - Hongrie (dénonciation du recul des standards démocratiques et de l'obstruction multilatérale)
+    - Conservateurs et Réformistes (rejet de l'affaiblissement des engagements climatiques et du droit international)
+  - **éléments\_d\_argumentaire** :
+    - La crédibilité internationale de l'UE dépend du professionnalisme et des valeurs éthiques de ses représentants.
+    - La formation diplomatique commune (2-5C) est la garantie que chaque diplomate européen défendra avec compétence le droit international et la transition écologique.
+    - La diplomatie préventive (2-5B) doit intégrer l'anticipation des crises climatiques et environnementales, sources majeures de conflits futurs.
+    - Une représentation unie permet à l'Union d'imposer des normes environnementales et éthiques ambitieuses dans les traités mondiaux.
+  - **références** :
+    - s2d5.json
+    - scenario2.json
+  - **notes\_internes** : S'assurer que le cursus de formation commune intègre des modules obligatoires sur la diplomatie climatique, les droits de l'homme et la médiation non-violente.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `5`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T17:30:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-5A
+      - **titre** : Élargir la représentation unique à toutes les organisations internationales
+      - **position** : FAVORABLE
+      - **justification** : Une voix européenne unie renforce le poids des combats pour le climat et les droits humains à l'ONU et dans les agences mondiales.
+      - **priorite** : haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la représentation unique à toutes les organisations internationales
+    - **Élément 2** :
+      - **amendement** : 2-5B
+      - **titre** : Créer un fonds européen pour la diplomatie préventive
+      - **position** : FAVORABLE
+      - **justification** : Outil fondamental pour prévenir pacifiquement les crises et soutenir les sociétés civiles en danger.
+      - **priorite** : très\_haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un fonds européen pour la diplomatie préventive
+    - **Élément 3** :
+      - **amendement** : 2-5C
+      - **titre** : Conditionner la participation aux missions à la formation diplomatique commune
+      - **position** : FAVORABLE
+      - **justification** : Amendement initié par les Verts/ALE pour fonder les missions communes sur un socle irréprochable de droit international et de valeurs démocratiques.
+      - **priorite** : très\_haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+    - **Élément 4** :
+      - **amendement** : 2-5D
+      - **titre** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+      - **position** : FAVORABLE
+      - **justification** : La protection et la solidarité doivent s'étendre à tous les citoyens et défenseurs des droits humains en situation d'urgence.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+    - **Élément 5** :
+      - **amendement** : 2-5E
+      - **titre** : Limiter la représentation unique à certaines organisations
+      - **position** : DEFAVORABLE
+      - **justification** : Cette proposition freinerait l'influence de l'UE dans les négociations écologiques et humanitaires mondiales.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la représentation unique à certaines organisations
+    - **Élément 6** :
+      - **amendement** : 2-5F
+      - **titre** : Exclure certains États membres de la représentation unique
+      - **position** : DEFAVORABLE
+      - **justification** : Les Verts/ALE privilégient une action collective et transparente sans passe-droit national.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de la représentation unique
+    - **Élément 7** :
+      - **amendement** : 2-5G
+      - **titre** : Soutenir prioritairement la diplomatie bilatérale nationale
+      - **position** : DEFAVORABLE
+      - **justification** : Le repli bilatéral favorise les compromis au rabais et affaiblit les règles multilatérales.
+      - **priorite** : haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+    - **Élément 8** :
+      - **amendement** : 2-5H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Comprend le besoin de formation initiale mais souhaite une mise en œuvre rapide des piliers clés.
+      - **priorite** : faible
+      - **origine** : Suède
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 5** :
+  - **type** : Parti
+  - **nom** : Conservateurs et Réformistes Européens (ECR)
+  - **actor\_id** : ecr
+  - **role\_europeen** : Non-porteur - Défense de la souveraineté nationale et subsidiarité diplomatique.
+  - **enjeux\_directive** :
+    - Préserver la souveraineté diplomatique exclusive des États membres.
+    - Refuser la création d'un service diplomatique fédéral supranational contraignant.
+    - Préserver la liberté des alliances bilatérales directes et le lien transatlantique.
+    - Défendre le principe de subsidiarité stricte dans la politique étrangère.
+  - **impacts\_directive** :
+    - Le groupe s'inquiète du risque d'effacement des voix nationales au profit de positions bruxelloises uniformisées.
+    - Il cherchera à introduire des clauses de flexibilité et des dérogations souveraines.
+  - **stratégie** : L'ECR combat toute tentative de dessaisir les capitales nationales de leur diplomatie souveraine. Favorable à la coopération intergouvernementale pragmatique mais fermement opposé au fédéralisme diplomatique, il appuie les amendements de subsidiarité (2-5E, 2-5G) et le report d'application (2-5H), tout en s'opposant vivement à l'élargissement de la représentation unique (2-5A) et aux formations contraignantes (2-5C).
+  - **alliances** :
+    - Pologne (soutien total à l'amendement 2-5G sur le bilatéralisme)
+    - Hongrie (appui à l'amendement 2-5E sur la limitation de la représentation unique)
+    - Énergies Fossiles (préservation des relations diplomatiques énergétiques bilatérales)
+  - **oppositions** :
+    - Renouveau Européen (rejet frontal de toute intégration diplomatique fédérale)
+    - Commission européenne (opposition à la centralisation supranationale)
+  - **éléments\_d\_argumentaire** :
+    - La politique étrangère touche au cœur de la souveraineté nationale et doit demeurer une compétence exclusive des États.
+    - Une diplomatie unique affaiblira l'Europe en l'obligeant à des compromis lents et insipides fondés sur le plus petit dénominateur commun.
+    - Les alliances bilatérales fortes (notamment avec les États-Unis) garantissent notre sécurité bien plus efficacement qu'un super-service diplomatique bruxellois.
+    - La subsidiarité et le respect des traditions diplomatiques de chaque nation doivent être rigoureusement préservés.
+  - **références** :
+    - s2d5.json
+    - scenario2.json
+  - **notes\_internes** : Coordonner les votes avec les députés polonais et hongrois pour maximiser le soutien aux amendements 2-5E et 2-5G.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `5`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T17:30:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-5A
+      - **titre** : Élargir la représentation unique à toutes les organisations internationales
+      - **position** : DEFAVORABLE
+      - **justification** : Rejet catégorique de toute centralisation diplomatique supranationale.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la représentation unique à toutes les organisations internationales
+    - **Élément 2** :
+      - **amendement** : 2-5B
+      - **titre** : Créer un fonds européen pour la diplomatie préventive
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Réticence face à la création de nouveaux fonds gérés par les institutions européennes.
+      - **priorite** : moyenne
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un fonds européen pour la diplomatie préventive
+    - **Élément 3** :
+      - **amendement** : 2-5C
+      - **titre** : Conditionner la participation aux missions à la formation diplomatique commune
+      - **position** : DEFAVORABLE
+      - **justification** : Chaque nation souveraine doit former librement ses propres diplomates.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+    - **Élément 4** :
+      - **amendement** : 2-5D
+      - **titre** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable à l'entraide consulaire entre États membres sans transfert de souveraineté.
+      - **priorite** : moyenne
+      - **origine** : Parti Populaire Européen
+      - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+    - **Élément 5** :
+      - **amendement** : 2-5E
+      - **titre** : Limiter la représentation unique à certaines organisations
+      - **position** : FAVORABLE
+      - **justification** : Soutien plein à la limitation du champ de la représentation unique pour protéger les diplomaties d'État.
+      - **priorite** : très\_haute
+      - **origine** : Hongrie
+      - **description** : Limiter la représentation unique à certaines organisations
+    - **Élément 6** :
+      - **amendement** : 2-5F
+      - **titre** : Exclure certains États membres de la représentation unique
+      - **position** : FAVORABLE
+      - **justification** : Soutient toute exception préservant les prérogatives souveraines des capitales.
+      - **priorite** : haute
+      - **origine** : France
+      - **description** : Exclure certains États membres de la représentation unique
+    - **Élément 7** :
+      - **amendement** : 2-5G
+      - **titre** : Soutenir prioritairement la diplomatie bilatérale nationale
+      - **position** : FAVORABLE
+      - **justification** : Position cardinale de l'ECR réaffirmant la primauté légitime des relations diplomatiques bilatérales directes.
+      - **priorite** : très\_haute
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+    - **Élément 8** :
+      - **amendement** : 2-5H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE
+      - **justification** : Tout report permet de freiner l'intégration supranationale et de préserver l'autonomie des États.
+      - **priorite** : haute
+      - **origine** : Suède
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 6** :
+  - **type** : Parti
+  - **nom** : Gauche Unitaire Européenne/Gauche Verte Nordique (GUE/NGL)
+  - **actor\_id** : gue\_ngl
+  - **role\_europeen** : Non-porteur - Pacifisme, droit international et coopération solidaire.
+  - **enjeux\_directive** :
+    - Promouvoir une diplomatie universelle de paix, de désarmement et de respect mutuel des souverainetés.
+    - Refuser que la diplomatie européenne ne serve de caution à des politiques d'ingérence ou d'alignement atlantiste.
+    - Renforcer le multilatéralisme universel sous l'égide de l'ONU et le respect du droit international humanitaire.
+    - Défendre les droits des peuples, la justice climatique et la solidarité Nord-Sud.
+  - **impacts\_directive** :
+    - Le groupe veillera à ce que l'action diplomatique commune ne soit pas militarisée ni subordonnée à des intérêts géopolitiques agressifs.
+    - Il soutiendra les volets de médiation de paix et de prévention des conflits.
+  - **stratégie** : La Gauche Unitaire soutient les initiatives diplomatiques axées sur la paix, la médiation pacifique et la diplomatie préventive (2-5B). Elle s'oppose en revanche à une politique étrangère européenne qui favoriserait une logique de blocs ou servirait d'instrument géopolitique hégémonique. Elle demande une transparence démocratique totale et le respect absolu de la charte de l'ONU.
+  - **alliances** :
+    - Socialistes et Démocrates (convergence sur le fonds de diplomatie préventive et le désarmement)
+    - Verts/ALE (soutien commun au droit international et aux droits humains)
+  - **oppositions** :
+    - Conservateurs et Réformistes (rejet de l'alignement belliciste)
+    - Parti Populaire Européen (critique de la diplomatie axée sur la puissance militaire)
+  - **éléments\_d\_argumentaire** :
+    - La diplomatie doit servir la paix, la solidarité internationale et le respect de tous les peuples, non les intérêts impériaux des grandes puissances.
+    - Le fonds pour la diplomatie préventive (2-5B) doit être prioritairement mobilisé pour le désarmement et la résolution pacifique des différends.
+    - L'Union européenne doit être une voix indépendante et pacifique dans le monde, fidèle aux principes fondateurs de l'ONU.
+    - La formation des diplomates (2-5C) doit mettre l'accent sur les droits économiques, sociaux et culturels et la justice climatique mondiale.
+  - **références** :
+    - s2d5.json
+    - scenario2.json
+  - **notes\_internes** : Voter résolument pour l'amendement 2-5B et exiger que les missions conjointes soient systématiquement soumises au respect du droit international humanitaire.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `5`
+  - **actor\_type** : parti
+  - **generated\_at** : 2026-10-10T17:30:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-5A
+      - **titre** : Élargir la représentation unique à toutes les organisations internationales
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable si la représentation unifiée défend la paix et le multilatéralisme universel à l'ONU.
+      - **priorite** : moyenne
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la représentation unique à toutes les organisations internationales
+    - **Élément 2** :
+      - **amendement** : 2-5B
+      - **titre** : Créer un fonds européen pour la diplomatie préventive
+      - **position** : FAVORABLE
+      - **justification** : Soutien plein et entier à un fonds orienté vers la médiation pacifique et la prévention des conflits.
+      - **priorite** : très\_haute
+      - **origine** : Socialistes & Démocrates
+      - **description** : Créer un fonds européen pour la diplomatie préventive
+    - **Élément 3** :
+      - **amendement** : 2-5C
+      - **titre** : Conditionner la participation aux missions à la formation diplomatique commune
+      - **position** : FAVORABLE
+      - **justification** : La formation commune doit inculquer le respect scrupuleux du droit international humanitaire et de la paix.
+      - **priorite** : haute
+      - **origine** : Verts/ALE
+      - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+    - **Élément 4** :
+      - **amendement** : 2-5D
+      - **titre** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+      - **position** : FAVORABLE
+      - **justification** : La solidarité diplomatique doit protéger les populations et les travailleurs humanitaires en zone de crise.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+    - **Élément 5** :
+      - **amendement** : 2-5E
+      - **titre** : Limiter la représentation unique à certaines organisations
+      - **position** : NEUTRE
+      - **justification** : Préfère juger au cas par cas selon la nature des organisations internationales concernées.
+      - **priorite** : faible
+      - **origine** : Hongrie
+      - **description** : Limiter la représentation unique à certaines organisations
+    - **Élément 6** :
+      - **amendement** : 2-5F
+      - **titre** : Exclure certains États membres de la représentation unique
+      - **position** : DEFAVORABLE
+      - **justification** : Opposée aux privilèges diplomatiques exclusifs d'une seule nation.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de la représentation unique
+    - **Élément 7** :
+      - **amendement** : 2-5G
+      - **titre** : Soutenir prioritairement la diplomatie bilatérale nationale
+      - **position** : NEUTRE
+      - **justification** : Admet le droit à une diplomatie nationale souveraine mais prône le multilatéralisme universel.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+    - **Élément 8** :
+      - **amendement** : 2-5H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Ouverte à un délai pour consolider les garde-fous démocratiques et pacifiques.
+      - **priorite** : faible
+      - **origine** : Suède
+      - **description** : Reporter l’application de la directive de deux ans

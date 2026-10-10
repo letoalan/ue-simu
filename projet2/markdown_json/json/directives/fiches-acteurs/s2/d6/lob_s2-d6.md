@@ -1,0 +1,610 @@
+# lob\_s2-d6
+
+Source : `directives/fiches-acteurs/s2/d6/lob_s2-d6.json`
+
+## Contenu
+
+- **Élément 1** :
+  - **type** : Lobby
+  - **nom** : Big Tech
+  - **actor\_id** : tech
+  - **role\_europeen** : Représente les acteurs des technologies de l'information, des plateformes cloud et de la cybersécurité, promouvant l'innovation et des cadres juridiques clairs pour les données.
+  - **enjeux\_directive** :
+    - Fournir des technologies d'investigation numérique et des infrastructures cloud sécurisées aux forces de sécurité européennes.
+    - Garantir un cadre juridique clair et harmonisé pour les réquisitions judiciaires de preuves électroniques transfrontalières.
+    - Préserver le chiffrement fort des communications et la confiance des utilisateurs face aux demandes d'accès indiscriminé.
+    - Coopérer activement dans la neutralisation des rançongiciels, des botnets et des cybermenaces étatiques.
+  - **impacts\_directive** :
+    - Une coopération européenne unifiée sur la cybercriminalité facilitera la collaboration technique et évitera des obligations nationales contradictoires.
+    - Les entreprises technologiques bénéficieront d'un marché européen structuré de la cybersécurité et de la protection des données.
+  - **stratégie** : Big Tech soutient fermement l'élargissement de la directive à la cybercriminalité (2-6A), qui conforte son rôle de partenaire stratégique de la résilience européenne. Elle appuie les garanties de protection de la vie privée (2-6C) pour préserver la confiance de ses clients et refuse des contraintes techniques impraticables ou fragmentées.
+  - **alliances** :
+    - Renouveau Européen (partage de l'ambition d'innovation et de lutte cyber)
+    - Parti Populaire Européen (soutien à la résilience et à la sécurité numérique)
+    - France (collaboration sur la souveraineté numérique et la lutte contre les cyberattaques)
+    - Banque et Finance (synergies sur la sécurité des systèmes de paiement)
+  - **oppositions** :
+    - Conservateurs et Réformistes (crainte d'une fragmentation des règles numériques nationales)
+    - Hongrie (méfiance face aux exigences réglementaires et de coopération technique)
+  - **éléments\_d\_argumentaire** :
+    - La cybercriminalité transfrontalière exige des technologies de pointe et une collaboration étroite entre autorités publiques et leaders du numérique.
+    - L'amendement 2-6A est crucial pour créer un bouclier cybernétique européen crédible et efficace.
+    - La protection des données (2-6C) et le chiffrement fort sont les piliers indispensables de la sécurité numérique globale.
+    - Des règles harmonisées à l'échelle des 27 évitent le casse-tête juridique de réquisitions divergentes pays par pays.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Veiller à ce que l'élargissement cyber (2-6A) s'accompagne de canaux de réquisition judiciaire standardisés et sécurisés, sans imposer de failles de sécurité dans le chiffrement.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : lobby
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Big Tech soutient cet amendement capital qui renforce le cadre de cybersécurité européen et protège les infrastructures critiques face aux cyberattaques.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Permet de mutualiser les données d'analyse des cybermenaces et de cartographier les attaques complexes.
+      - **priorite** : haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE
+      - **justification** : Conforme aux engagements de protection des données clients et indispensable pour maintenir la confiance numérique.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : NEUTRE
+      - **justification** : Soutient la lutte antiterroriste tout en exigeant que les réquisitions numériques suivent des protocoles légaux rigoureux.
+      - **priorite** : moyenne
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Craint qu'une liste trop étroite n'exclue certaines formes émergentes d'attaques cybernétiques.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : La cyber-sécurité exige un réseau européen sans failles géographiques pour être efficace.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Favorable si cela permet d'accélérer la numérisation des tribunaux et le traitement des preuves numériques.
+      - **priorite** : faible
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE
+      - **justification** : La rapidité d'évolution des cybermenaces exige des réponses opérationnelles immédiates.
+      - **priorite** : haute
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 2** :
+  - **type** : Lobby
+  - **nom** : Énergies Fossiles
+  - **actor\_id** : fossiles
+  - **role\_europeen** : Représente les opérateurs des infrastructures gazières, pétrolières et des réseaux énergétiques stratégiques.
+  - **enjeux\_directive** :
+    - Sécuriser les infrastructures critiques d'énergie (gazoducs, raffineries, terminaux GNL, réseaux de distribution) contre le sabotage et le terrorisme.
+    - Protéger les systèmes industriels de contrôle de l'énergie (SCADA) contre les cyberattaques majeures et les rançongiciels.
+    - Participer aux protocoles de réponse coordonnée en cas de menace terroriste visant les approvisionnements énergétiques.
+    - Assurer une circulation fluide des équipes de sécurité et des flux logistiques stratégiques d'urgence.
+  - **impacts\_directive** :
+    - Une coopération policière renforcée permettra une surveillance transfrontalière efficace des corridors énergétiques vitaux.
+    - L'intégration cyber protégera les réseaux de distribution d'énergie connectés contre des pannes massives d'origine criminelle.
+  - **stratégie** : Le secteur des énergies fossiles privilégie la résilience et la continuité des infrastructures critiques. Il soutient fortement l'unité antiterroriste (2-6D) et l'élargissement cyber (2-6A) comme des protections directes de ses installations. Il accueille favorablement l'amendement polonais (2-6G) pour sécuriser les sites d'énergie de proximité et soutient le report allemand (2-6H) pour adapter ses protocoles techniques.
+  - **alliances** :
+    - Pologne (partage de l'impératif de sécurité des infrastructures de base)
+    - Parti Populaire Européen (défense de l'ordre public et de la sécurité énergétique)
+    - Conservateurs et Réformistes (appui à la sécurité des approvisionnements nationaux)
+  - **oppositions** :
+    - Gauche Unitaire (réticence face à des contraintes réglementaires disproportionnées)
+    - Hongrie (méfiance envers des restrictions de coopération sur les crimes touchant l'énergie)
+  - **éléments\_d\_argumentaire** :
+    - Les infrastructures énergétiques sont des cibles prioritaires pour les terroristes et les cybercriminels : leur protection est une urgence vitale.
+    - L'unité antiterroriste européenne (2-6D) est indispensable pour coordonner la surveillance des réseaux énergétiques transnationaux.
+    - La cybercriminalité (2-6A) représente une menace directe de black-out sur les systèmes de contrôle des pipelines et terminaux.
+    - La coopération policière transfrontalière doit sécuriser sans délai les corridors d'approvisionnement stratégiques de l'Union.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : S'assurer que la directive intègre la protection des réseaux énergétiques dans les priorités opérationnelles d'Europol et des centres de commandement conjoints.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : lobby
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Les cyberattaques contre les systèmes de transport d'énergie menacent l'approvisionnement des citoyens : une coopération renforcée est vitale.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Permet de surveiller les menaces criminelles et tentatives d'intrusion visant les infrastructures stratégiques.
+      - **priorite** : moyenne
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : NEUTRE
+      - **justification** : N'affecte pas directement les opérations énergétiques mais soutient la sécurité juridique globale.
+      - **priorite** : faible
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : Essentiel pour prévenir les attentats et sabotages visant les gazoducs, raffineries et infrastructures d'hydrocarbures.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE\_PARTIEL
+      - **justification** : Risquerait d'exclure les sabotages industriels ou le cyber-terrorisme touchant l'énergie.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Les réseaux énergétiques sont transfrontaliers : tout angle mort policier fragilise l'ensemble de la chaîne.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE
+      - **justification** : Les tribunaux nationaux doivent avoir les moyens de poursuivre rapidement les actes de sabotage sur le sol national.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Permet d'adapter les protocoles de cybersécurité industrielle sans perturber l'exploitation des sites.
+      - **priorite** : haute
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 3** :
+  - **type** : Lobby
+  - **nom** : Banque et Finance
+  - **actor\_id** : finance
+  - **role\_europeen** : Représente les institutions bancaires et financières européennes, défendant l'intégrité des marchés, la sécurité des transactions et la lutte contre les crimes financiers.
+  - **enjeux\_directive** :
+    - Renforcer l'efficacité des enquêtes transfrontalières contre le blanchiment d'argent et le financement du terrorisme (AML/CFT).
+    - Combattre la cybercriminalité financière, les fraudes bancaires massives et les attaques contre les infrastructures de paiement.
+    - Faciliter la coopération entre cellules de renseignement financier (CRF), autorités judiciaires et banques commerciales.
+    - Sécuriser juridiquement les échanges de données financières d'enquête dans le respect du secret bancaire légitime et du RGPD.
+  - **impacts\_directive** :
+    - Une police judiciaire européenne intégrée permettra de tracer et de geler plus vite les flux financiers criminels transnationaux.
+    - L'harmonisation des enquêtes cyber protégera la résilience du système bancaire face aux attaques de rançongiciels.
+  - **stratégie** : Le secteur bancaire et financier soutient activement l'élargissement à la cybercriminalité (2-6A) et l'unité antiterroriste (2-6D), qui sont au cœur de la lutte contre les réseaux illicites. Il appuie l'observatoire des crimes transfrontaliers (2-6B) pour mieux modéliser les nouvelles typologies de blanchiment, tout en veillant à la sécurité juridique des échanges de données (2-6C).
+  - **alliances** :
+    - Allemagne (partenariat fort sur la lutte contre la fraude financière et la cyber-sécurité)
+    - Parti Populaire Européen (défense de la stabilité et de l'ordre financier)
+    - Socialistes et Démocrates (accord sur la confiscation des avoirs illicites et la lutte anti-blanchiment)
+    - Big Tech (coopération sur la sécurité des paiements numériques et de la blockchain)
+  - **oppositions** :
+    - Hongrie (méfiance envers des limitations excessives qui entraveraient le traçage des flux financiers)
+    - Gauche Unitaire (vigilance pour éviter des restrictions procédurales paralysant le gel des avoirs criminels)
+  - **éléments\_d\_argumentaire** :
+    - L'argent sale et le financement du terrorisme transitent en quelques secondes d'un pays à l'autre : la police doit pouvoir suivre la trace à la même vitesse.
+    - La lutte contre la cybercriminalité (2-6A) est indispensable pour préserver la confiance des citoyens dans les paiements numériques.
+    - L'unité antiterroriste (2-6D) facilite le croisement immédiat des données de renseignement financier pour neutraliser les cellules terroristes.
+    - La coopération policière européenne protège l'intégrité de l'euro et assèche les ressources des réseaux mafieux.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Soutenir la création d'équipes d'enquête financières conjointes sous l'égide d'Eurojust et d'Europol pour accélérer les procédures de gel des avoirs criminels.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : lobby
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Capital pour sécuriser les infrastructures de paiement et démanteler les réseaux internationaux de cyberfraude financière.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Permet de cartographier les nouveaux circuits de blanchiment et d'adapter les systèmes de détection bancaire.
+      - **priorite** : haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Garantit la sécurité juridique des données financières tout en préservant les obligations légales de déclaration de soupçon.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : Facilite l'assèchement des canaux financiers du terrorisme international grâce à une réponse coordonnée.
+      - **priorite** : très\_haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : La fraude financière et le blanchiment sont souvent interconnectés avec d'autres infractions : une limitation serait néfaste.
+      - **priorite** : moyenne
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Les criminels financiers utiliseraient immédiatement les pays exclus comme passerelles de blanchiment.
+      - **priorite** : haute
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Les pôles financiers des tribunaux nationaux ont besoin d'experts et d'équipements pour juger les fraudes complexes.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : NEUTRE
+      - **justification** : Comprend les nécessités d'adaptation informatique mais privilégie une mise en œuvre rapide des outils anti-fraude.
+      - **priorite** : faible
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 4** :
+  - **type** : Lobby
+  - **nom** : Agrochimie
+  - **actor\_id** : agrochimie
+  - **role\_europeen** : Représente les industries des intrants agricoles et de la protection des cultures, défendant la sécurité des produits et l'intégrité des chaînes logistiques.
+  - **enjeux\_directive** :
+    - Démanteler les réseaux criminels internationaux de trafic et de contrefaçon de produits phytosanitaires dangereux.
+    - Sécuriser les sites industriels de stockage de substances chimiques contre les risques de vol, d'intrusion ou de terrorisme.
+    - Protéger les chaînes logistiques alimentaires et agricoles contre les actes de sabotage et le bioterrorisme.
+    - Faciliter le signalement rapide et coordonné des cargaisons suspectes aux frontières extérieures de l'Union.
+  - **impacts\_directive** :
+    - Des équipes conjointes de police et de douanes permettront d'intercepter les importations illégales de produits chimiques frelatés.
+    - La coordination policière protégera la santé des agriculteurs et des consommateurs contre les substances toxiques non autorisées.
+  - **stratégie** : L'agrochimie soutient les mesures renforçant la répression des trafics transfrontaliers (2-6B) et la coopération cyber (2-6A) pour traquer la vente en ligne de produits contrefaits. Elle accueille favorablement l'unité antiterroriste (2-6D) pour prévenir le risque de détournement de matières dangereuses et s'oppose aux restrictions de mandat (2-6E) qui laisseraient de côté la criminalité environnementale et chimique.
+  - **alliances** :
+    - Italie (partenariat fort contre les trafics illicites et les contrefaçons)
+    - Parti Populaire Européen (fermeté contre les réseaux criminels organisés)
+    - Pharmaceutique (synergies sur la lutte contre la contrefaçon et le trafic de substances)
+  - **oppositions** :
+    - Hongrie (crainte d'une exclusion des trafics environnementaux du champ de coopération)
+    - Gauche Unitaire (vigilance face aux blocages procéduraux sur le contrôle des cargaisons)
+  - **éléments\_d\_argumentaire** :
+    - Le trafic international de pesticides contrefaits est aux mains d'organisations criminelles majeures et met en danger la santé et les sols européens.
+    - L'observatoire européen des crimes transfrontaliers (2-6B) permettra de tracer les filières d'importation clandestine.
+    - La protection des sites chimiques contre la menace terroriste (2-6D) exige une coordination policière de haut niveau.
+    - La lutte contre la criminalité transfrontalière doit intégrer la protection de la chaîne agroalimentaire européenne.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Inciter Europol à maintenir une priorité opérationnelle permanente sur le démantèlement des filières de contrefaçon chimique et de trafic de substances illicites.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : lobby
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Essentiel pour fermer les plateformes numériques clandestines vendant des produits chimiques contrefaits ou interdits.
+      - **priorite** : haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Aidera à documenter les routes de contrebande de produits chimiques illicites aux frontières de l'Union.
+      - **priorite** : très\_haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : NEUTRE
+      - **justification** : Respecte la protection des données tant qu'elle ne paralyse pas le traçage des réseaux de trafiquants.
+      - **priorite** : faible
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : Renforce la sécurité face aux risques de détournement terroriste de substances chimiques dangereuses.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : Risquerait d'exclure les trafics de contrefaçons chimiques et d'intrants illicites du mandat policier.
+      - **priorite** : haute
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Les trafiquants contourneraient les contrôles en utilisant les territoires exclus comme bases arrière logistiques.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Permet de former les magistrats nationaux aux spécificités de la délinquance chimique et environnementale.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : NEUTRE
+      - **justification** : Préfère une action rapide mais accepte une adaptation technique si elle garantit l'efficacité des contrôles.
+      - **priorite** : faible
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 5** :
+  - **type** : Lobby
+  - **nom** : Pharmaceutique
+  - **actor\_id** : pharma
+  - **role\_europeen** : Représente les laboratoires de recherche biomédicale et les fabricants de médicaments, promouvant la sécurité sanitaire et la protection de la propriété intellectuelle.
+  - **enjeux\_directive** :
+    - Démanteler les réseaux criminels mondiaux de fabrication et distribution de médicaments falsifiés et contrefaits.
+    - Protéger les données sensibles de recherche biomédicale contre le cyber-espionnage industriel et le vol de propriété intellectuelle.
+    - Sécuriser la chaîne d'approvisionnement pharmaceutique mondiale contre les vols de cargaisons et le détournement de substances contrôlées.
+    - Renforcer la coopération entre autorités de police, douanes et agences de sécurité du médicament (EMA).
+  - **impacts\_directive** :
+    - La coordination transfrontalière permettra d'intercepter les faux médicaments avant qu'ils n'atteignent les patients européens.
+    - Le volet cyberprotègera les investissements massifs en R&D contre les attaques de rançongiciels ciblant les laboratoires.
+  - **stratégie** : Le secteur pharmaceutique soutient avec force l'élargissement à la cybercriminalité (2-6A) pour protéger ses données cliniques, ainsi que l'observatoire européen des crimes transfrontaliers (2-6B) pour cartographier le trafic de faux médicaments. Il appuie l'unité antiterroriste (2-6D) sur les questions de biosûreté et s'oppose à toute restriction du mandat pénal européen (2-6E).
+  - **alliances** :
+    - France (collaboration sur la sécurité sanitaire et la protection de l'innovation)
+    - Allemagne (partenariat sur la cybersécurité industrielle et la recherche)
+    - Renouveau Européen (appui à la lutte contre la cybercriminalité)
+    - Parti Populaire Européen (défense de la propriété intellectuelle et de l'ordre public)
+  - **oppositions** :
+    - Hongrie (opposition à la limitation du champ des enquêtes pénales)
+    - Gauche Unitaire (vigilance face aux obstacles au partage de données sur les trafics de médicaments)
+  - **éléments\_d\_argumentaire** :
+    - Les médicaments contrefaits tuent : ils constituent un crime organisé transfrontalier qui exige une riposte policière européenne intégrée.
+    - La cybercriminalité (2-6A) menace directement les données de santé et la recherche médicale européenne de pointe.
+    - L'observatoire des crimes transfrontaliers (2-6B) aidera à démanteler les plateformes en ligne vendant des médicaments falsifiés.
+    - La sécurité des chaînes logistiques de santé est un élément clé de la sécurité intérieure de l'Union.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Assurer la coordination opérationnelle permanente entre Europol et l'Agence européenne des médicaments (EMA) pour la traçabilité des produits falsifiés.
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : lobby
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : Crucial pour protéger la recherche biomédicale et fermer les pharmacies illégales en ligne vendant des contrefaçons dangereuses.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Fournit une cartographie indispensable des réseaux criminels de faux médicaments opérant dans l'UE.
+      - **priorite** : haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient la protection des données de santé des patients tout en permettant des poursuites judiciaires rapides contre les trafiquants.
+      - **priorite** : haute
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : Renforce les protocoles de sécurité face aux menaces de bioterrorisme et de contamination criminelle de produits de santé.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : Risquerait d'exclure les infractions liées aux contrefaçons thérapeutiques du mandat de coopération policière.
+      - **priorite** : haute
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Les trafiquants de médicaments s'implanteraient dans les territoires exclus pour distribuer leurs produits toxiques.
+      - **priorite** : moyenne
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Les tribunaux nationaux doivent être dotés d'experts pour juger les infractions pharmaceutiques complexes.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : DEFAVORABLE
+      - **justification** : Le trafic de faux médicaments exige une action policière immédiate pour protéger la santé des Européens.
+      - **priorite** : moyenne
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans
+- **Élément 6** :
+  - **type** : Lobby
+  - **nom** : Automobile
+  - **actor\_id** : auto
+  - **role\_europeen** : Représente les constructeurs automobiles et équipementiers européens, promouvant la sécurité des véhicules, la mobilité connectée et la protection industrielle.
+  - **enjeux\_directive** :
+    - Renforcer la cybersécurité des véhicules connectés et autonomes face aux cyberattaques, piratages de flottes et prises de contrôle à distance.
+    - Démanteler les filières internationales de vol et de trafic de véhicules haut de gamme et de pièces détachées volées.
+    - Améliorer l'interconnexion en temps réel des bases de données d'immatriculation européennes (EUCARIS) pour les forces de l'ordre.
+    - Sécuriser les chaînes logistiques transfrontalières de composants automobiles contre le crime organisé.
+  - **impacts\_directive** :
+    - Une coopération policière réactive facilitera l'interception des véhicules volés avant leur sortie de l'espace Schengen.
+    - Le volet cyber renforcera la résilience des logiciels embarqués et des infrastructures de mobilité connectée.
+  - **stratégie** : Le secteur automobile soutient l'élargissement à la cybercriminalité (2-6A), enjeu technologique existentiel pour les véhicules connectés. Il appuie l'observatoire des crimes transfrontaliers (2-6B) pour cartographier le trafic de véhicules, et soutient l'unité antiterroriste (2-6D) pour prévenir l'utilisation de véhicules comme armes. Il s'oppose aux exclusions de pays (2-6F) qui créeraient des filières de fuite pour les voleurs de voitures.
+  - **alliances** :
+    - Allemagne (partenariat central sur l'industrie automobile et la cybersécurité des transports)
+    - Italie (collaboration étroite contre les réseaux de vol et recel de véhicules)
+    - Parti Populaire Européen (défense de la sécurité industrielle et de la compétitivité)
+    - Big Tech (synergies sur la cybersécurité des logiciels embarqués)
+  - **oppositions** :
+    - Hongrie (méfiance envers des limitations de coopération qui épargneraient le trafic de véhicules)
+    - France (réserves sur les exclusions bilatérales nuisibles à la traçabilité des immatriculations)
+  - **éléments\_d\_argumentaire** :
+    - Les véhicules modernes sont des ordinateurs sur roues : la cybersécurité (2-6A) est indissociable de la sécurité routière et publique.
+    - Le vol transfrontalier de véhicules alimente le financement du grand banditisme international et nécessite un partage de données immédiat.
+    - L'observatoire européen (2-6B) permettra de neutraliser les réseaux clandestins de recel de pièces détachées dans toute l'UE.
+    - La sécurité des chaînes logistiques automobiles exige une coopération policière sans failles aux frontières intérieures et extérieures.
+  - **références** :
+    - s2d6.json
+    - scenario2.json
+  - **notes\_internes** : Promouvoir une interconnexion fluide entre les fichiers policiers d'Europol et les registres européens d'immatriculation des véhicules (EUCARIS).
+  - **scenario\_id** : `2`
+  - **directive\_id** : `6`
+  - **actor\_type** : lobby
+  - **generated\_at** : 2026-10-10T21:10:00.000000
+  - **version** : 4.8
+  - **positions\_amendements** :
+    - **Élément 1** :
+      - **amendement** : 2-6A
+      - **titre** : Élargir la coopération à la lutte contre la cybercriminalité
+      - **position** : FAVORABLE
+      - **justification** : L'automobile connectée est directement exposée aux cyberattaques : cet amendement protège la sécurité des usagers et de l'industrie.
+      - **priorite** : très\_haute
+      - **origine** : Renouveau Européen
+      - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+    - **Élément 2** :
+      - **amendement** : 2-6B
+      - **titre** : Instaurer un observatoire européen des crimes transfrontaliers
+      - **position** : FAVORABLE
+      - **justification** : Indispensable pour cartographier et démanteler les réseaux internationaux de vol et de trafic de véhicules.
+      - **priorite** : haute
+      - **origine** : Conservateurs et Réformistes
+      - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+    - **Élément 3** :
+      - **amendement** : 2-6C
+      - **titre** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Soutient la protection des données des conducteurs tout en permettant l'identification rapide des véhicules volés.
+      - **priorite** : moyenne
+      - **origine** : Gauche Unitaire
+      - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+    - **Élément 4** :
+      - **amendement** : 2-6D
+      - **titre** : Créer une unité européenne de lutte contre le terrorisme
+      - **position** : FAVORABLE
+      - **justification** : Contribue à la sécurisation des flottes et des infrastructures de transport contre les attaques terroristes.
+      - **priorite** : haute
+      - **origine** : Parti Populaire Européen
+      - **description** : Créer une unité européenne de lutte contre le terrorisme
+    - **Élément 5** :
+      - **amendement** : 2-6E
+      - **titre** : Limiter la coopération à certains types de criminalité
+      - **position** : DEFAVORABLE
+      - **justification** : Risquerait d'exclure le vol organisé de véhicules et les trafics transfrontaliers de composants automobiles.
+      - **priorite** : haute
+      - **origine** : Hongrie
+      - **description** : Limiter la coopération à certains types de criminalité
+    - **Élément 6** :
+      - **amendement** : 2-6F
+      - **titre** : Exclure certains États membres de l’échange systématique de données
+      - **position** : DEFAVORABLE
+      - **justification** : Permettrait aux filières de voleurs de voitures d'exploiter les pays exclus comme zones de transit sécurisées.
+      - **priorite** : haute
+      - **origine** : France
+      - **description** : Exclure certains États membres de l’échange systématique de données
+    - **Élément 7** :
+      - **amendement** : 2-6G
+      - **titre** : Soutenir prioritairement les systèmes judiciaires nationaux
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Permet d'accélérer les procédures judiciaires et la restitution des véhicules volés aux propriétaires légitimes.
+      - **priorite** : moyenne
+      - **origine** : Pologne
+      - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+    - **Élément 8** :
+      - **amendement** : 2-6H
+      - **titre** : Reporter l’application de la directive de deux ans
+      - **position** : FAVORABLE\_CONDITIONNEL
+      - **justification** : Donne aux constructeurs et autorités le temps d'adapter les protocoles de cybersécurité des véhicules connectés.
+      - **priorite** : moyenne
+      - **origine** : Allemagne
+      - **description** : Reporter l’application de la directive de deux ans

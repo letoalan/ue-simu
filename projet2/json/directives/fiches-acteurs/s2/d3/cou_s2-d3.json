@@ -1,0 +1,761 @@
+[
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Non-porteur - Soutiens une solidarité migratoire sous conditions de contrôle renforcé.",
+    "enjeux_directive": [
+      "Équilibre entre humanité et sécurité nationale face aux flux migratoires.",
+      "Préserver la cohésion sociale dans les régions frontalières (Alsace-Moselle, Provence-Alpes-Côte d'Azur).",
+      "Sécuriser l'intégration des migrants tout en préservant le modèle social français.",
+      "Assurer un partage équitable des responsabilités migratoires entre États membres."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La France adopte une approche pragmatique, combinant engagement humanitaire avec exigences de sécurité. Elle défend un modèle d'intégration structurée (formation linguistique, insertion professionnelle) et insiste sur la nécessité de renforcer les capacités des frontières extérieures de l'UE pour éviter l'effondrement des systèmes migratoires. Parallèlement, elle promeut une transition énergétique bas-carbone alignée avec ses investissements nucléaires (EPR2) et la relance industrielle (hydrogène vert). En diplomatie européenne, elle agit comme médiateur entre les positions radicales des Verts/ALE et les résistances de l'Allemagne sur les quotas migratoires. L'objectif est d'assurer un consensus minimal autour d'une feuille de route à trois étapes : contrôle renforcé des frontières, intégration progressive, partage équitable des responsabilités.",
+    "alliances": [
+      "Allemagne (partage objectif nucléaire + coopération sur l'hydrogène vert)",
+      "Italie (collaboration sur les politiques migratoires et la relance industrielle en Méditerranée)",
+      "Verts/ALE (soutien aux objectifs climatiques et à la transition écologique)",
+      "S&D (priorité aux investissements dans les régions défavorisées et aux formations linguistiques)",
+      "Big Tech (innovation sur les infrastructures numériques pour l'administration migratoire)",
+      "Automobile (protection des secteurs industriels stratégiques face à la concurrence mondiale)",
+      "Banque (soutien aux investissements structuraux en énergie et innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon + défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires)",
+      "Pologne (résistance à l'harmonisation des quotas migratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France insiste sur la nécessité d'un contrôle renforcé des frontières extérieures pour éviter l'effondrement des systèmes migratoires, comme en témoignent les flux croissants en Méditerranée.",
+      "Elle défend une intégration structurée (formation linguistique + insertion professionnelle) pour prévenir la marginalisation sociale des migrants, en s'appuyant sur ses réussites historiques en matière d'intégration.",
+      "La France souligne les risques économiques d'une augmentation brutale des quotas migratoires sans garantie de financement suffisant pour l'accompagnement social et le logement.",
+      "Elle milite pour la préservation du modèle social français, en s'opposant à toute harmonisation excessive des systèmes de protection sociale entre États membres.",
+      "La France promeut une transition énergétique bas-carbone, combinant son arsenal nucléaire (EPR2) et les investissements dans l'hydrogène vert, comme le démontre son accord avec l'Italie sur les projets transalpins.",
+      "Elle met en avant la nécessité de renforcer la solidarité entre régions frontalières (Alsace-Moselle) et les pays d'origine des migrants pour éviter un déséquilibre territorial.",
+      "La France s'oppose aux exclusions sectorielles de l'obligation de répartition, considérant que cela risquerait de fragmenter la solidarité européenne.",
+      "Elle défend une approche progressive et mesurée des objectifs climatiques, en s'appuyant sur les retards technologiques en matière d'énergies renouvelables."
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs industriels (automobile, aéronautique) et objectifs climatiques directive. Évaluer régulièrement impact des mesures migratoires sur les régions frontalières (Alsace-Moselle). Surveiller l'harmonisation des quotas migrants avec la Pologne et l'Hongrie.",
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient une augmentation des quotas migratoires à condition que l'UE mette en place un mécanisme de financement compensatoire pour accompagner les migrants. Une augmentation non contrôlée risquerait d'accroître la pression sur les régions frontalières et de menacer le modèle social français.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "La France s'engage à soutenir la création d'un fonds européen dédié à l'intégration des migrants, avec une allocation prioritaire aux régions frontalières. Cela permettrait de renforcer les dispositifs existants (Caf, Pôle Emploi) sans surcharger le budget national.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "La France défend un lien direct entre l'accès aux aides européennes et la réussite des formations linguistiques. Cela garantirait une intégration effective des migrants tout en préservant les normes culturelles nationales.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient une solidarité renforcée pour les pays frontières, à condition que cette solidarité soit compensée par des transferts d'investissements dans les infrastructures d'accueil et de logement.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose à toute limite arbitraire des quotas migratoires. Elle propose une flexibilité en fonction des capacités structurelles des États membres et des ressources européennes disponibles.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "La France s'oppose fermement à toute exclusion d'États membres, considérant que cela risquerait de fragmenter la solidarité européenne. Elle prône plutôt une harmonisation progressive des quotas.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "La France défend un soutien accru aux centres d'accueil en première ligne, avec des investissements européens ciblés. Cela renforcerait la capacité de gestion des flux migratoires sans surcharger les régions intérieures.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie un report temporaire de la directive à condition d'instaurer des mesures d'urgence pour renforcer les capacités migratoires européennes. Cela permettrait de mieux préparer l'UE face aux flux croissants.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T16:48:35.921042",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Non-porteur - Soutien affirmé à une répartition contraignante et ambitieuse.",
+    "enjeux_directive": [
+      "Répondre à la pression migratoire interne.",
+      "Consolider son rôle moteur en Europe.",
+      "Assurer un équilibre entre ambitions climatiques et compétitivité industrielle.",
+      "Renforcer l'unité européenne face aux défis migratoires transnationaux."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Allemagne.",
+      "La position de Allemagne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Allemagne adopte une approche pragmatique et multilatérale dans sa négociation, combinant un soutien inconditionnel aux objectifs climatiques européens avec des réserves sur les impacts socio-économiques. Elle insiste sur la nécessité d'une transition énergétique rapide pour atteindre la neutralité carbone d'ici 2045 tout en prévenant la déstructuration industrielle, notamment dans le secteur automobile. En matière de migration, elle privilégie une répartition juste et équitable des flux migratoires au sein de l'UE, associée à un soutien renforcé aux régions frontalières. Stratégiquement, elle cherche à consolider son leadership en Europe tout en évitant la marginalisation de ses alliés économiques (comme les pays d'Europe centrale) face aux pressions des partis écologistes et socialistes. Sur le plan diplomatique, elle mise sur l'unité allemande pour contrebalancer les positions divergentes d'autres États membres.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (réticence sur quotas de répartition)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Allemagne défend une transition énergétique accélérée pour atteindre la neutralité carbone d'ici 2045, ce qui exige un soutien accru à l'hydrogène vert et aux infrastructures verte.",
+      "Elle s'inquiète des risques de déséquilibres économiques entre les régions frontalières (comme le Baden-Wurtemberg) et les autres États membres, justifiant un mécanisme de solidarité renforcé.",
+      "La répartition des quotas migratoires doit être alignée sur la capacité d'accueil nationale pour éviter une saturation des infrastructures sociales en Allemagne.",
+      "Elle s'oppose à toute exclusion de pays membres des obligations de répartition, considérant que cela affaiblirait l'unité européenne face aux flux migratoires transnationaux.",
+      "Le soutien aux secteurs industriels stratégiques (automobile, chimie) est crucial pour préserver la compétitivité allemande sur les marchés globaux.",
+      "L'Allemagne insiste sur un cadre juridique clair pour l'intégration des migrants, associant cela à des investissements dans la formation linguistique et professionnelle.",
+      "Elle défend une approche équilibrée entre les objectifs climatiques et l'emploi, notamment en protégeant les centrales nucléaires (en dépit des résistances historiques) pour assurer la sécurité d'approvisionnement.",
+      "La priorité est donnée aux centres d'accueil situés aux frontières extérieures de l'UE, ce qui permet une gestion plus efficace des flux migratoires."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement car il permet d'accélérer l'adoption d'énergies propres tout en renforçant la solidarité européenne. Cela aligne avec ses objectifs climatiques, mais nécessite un accompagnement financier pour éviter les déséquilibres économiques entre régions.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne approuve ce fonds sous réserve qu'il comprenne des mesures de formation linguistique et professionnelle. Elle estime que cela renforcera la cohésion sociale tout en soutenant les économies locales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure correspond aux priorités allemandes de modernisation des qualifications et d'intégration efficace des migrants. Elle renforce également l'attractivité de la main-d'œuvre européenne.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne considère que ce mécanisme est essentiel pour soutenir ses régions frontalières tout en maintenant l'unité européenne. Cela évitera la surcharge de certaines zones et renforcera la coopération transfrontalière.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'inquiète d'une limitation trop stricte des quotas, ce qui pourrait freiner l'adoption d'énergies propres. Elle préconise un plafond flexible en fonction de la capacité structurelle des pays membres.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose à toute exclusion de pays membres, considérant que cela affaiblirait l'unité européenne face aux flux migratoires. Elle défend un cadre commun pour la répartition.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement correspond à la stratégie allemande de gestion efficace des flux migratoires. Il permet une meilleure coordination entre les États membres et renforce l'efficacité des politiques d'intégration.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose à un report, car cela pourrait affaiblir la crédibilité des objectifs climatiques européens. Elle défend une mise en œuvre rapide pour respecter les engagements internationaux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions industrie allemande (Volkswagen, Siemens) face aux mesures climatiques. Équilibrer transition énergétique et compétitivité secteur automobile. Surveiller impact des quotas migratoires sur régions frontalières (Baden-Wurtemberg).",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T16:30:29.491624",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Alléger la pression migratoire sur ses frontières.",
+      "Obtenir un soutien financier et logistique accru.",
+      "Renforcer les capacités des centres d'accueil en Méditerranée.",
+      "Assurer une transition écologique compatible avec le développement industriel régional."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Italie.",
+      "La position de l'Italie reflète ses préoccupations nationales spécifiques sur la gestion des flux migratoires et l'harmonisation des politiques climatiques."
+    ],
+    "stratégie": "L'Italie adopte une approche multifacette centrée sur trois axes : (1) renforcer sa position de leader dans la gestion des migrations en Méditerranée, notamment avec les pays du Sud de l'Europe ; (2) défendre des financements européens ciblés pour soutenir ses régions méridionales et ses secteurs industriels stratégiques (comme la pêche et le tourisme) ; (3) promouvoir une transition écologique progressive, en insistant sur l'importance de ne pas pénaliser les économies locales. Elle privilégie des alliances avec des pays partageant ses priorités migratoires et climatiques, tout en s'opposant à toute proposition qui pourrait accroître sa charge migratoire ou limiter ses marges de manœuvre sectorielles.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Verts/ALE (soutien hydrogène vert + transition écologique)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "Espagne (collaboration projets maritimes Méditerranée)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (réticence sur financement régions Sud)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Italie insiste sur la nécessité d'une solidarité active entre les pays de première ligne dans la gestion des flux migratoires, en particulier avec ses partenaires méditerranéens (Espagne, Libye).",
+      "Elle défend un financement européen ciblé pour moderniser les infrastructures frontalières et les centres d'accueil, qui sont sous-dimensionnés par rapport aux besoins locaux.",
+      "L'Italie s'oppose à tout amendement augmentant ses quotas de répartition migratoire sans compensations financières ou logistiques, risquant d'aggraver sa pression démographique et économique.",
+      "Elle met en avant la nécessité d'une transition écologique qui ne pénalise pas les secteurs industriels traditionnels (comme la pêche, le tourisme) de ses régions méridionales.",
+      "L'Italie soutient un mécanisme de solidarité accrue avec les pays en première ligne, mais exige que cela soit associé à des financements européens directs et non seulement à une répartition plus équitable des quotas.",
+      "Elle défend l'idée d'un développement régional différencié, en insistant sur la nécessité d'investir davantage dans les régions du Sud (qui abritent 40% de la population italienne) pour éviter un déséquilibre Nord-Sud.",
+      "L'Italie s'oppose à toute exclusion de pays membres des obligations de répartition migratoire, affirmant que cela pourrait fragiliser les coopérations transfrontalières et le système Schengen."
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions régionales entre Nord et Sud de l'Italie sur répartition fonds verts. Évaluer impact des mesures climatiques sur secteurs traditionnels (agriculture, tourisme). Prioriser dialogue avec Espagne/Portugal sur projets maritimes Méditerranée.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T17:05:21.560828",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie s'oppose à une augmentation brutale des quotas migratoires sans compensations financières ou logistiques. Elle est prête à soutenir un taux plus modéré, à condition que cela soit associé à des investissements européens ciblés pour renforcer ses capacités d'accueil.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient fermement la création d'un fonds spécifique pour l'intégration des migrants, en insistant sur l'importance d'une approche concertée au niveau européen pour éviter une charge excessive sur ses régions frontalières.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie approuve le principe de conditionnalité, mais exige que les formations soient adaptées aux besoins locaux (notamment en Lombardie et dans le Sud). Elle craint un double standard entre les régions riches et les régions défavorisées.",
+        "priorite": "haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cette proposition, mais souligne que ce mécanisme doit être associé à des financements directs et non seulement à une redistribution plus équitable des quotas de répartition.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie approuve un plafonnement des quotas, mais propose que ce seuil soit revisité régulièrement et ajusté selon les capacités réelles de chaque État membre.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie s'oppose à toute exclusion de pays membres, affirmant que cela risquerait de fragmenter le système Schengen et d'affaiblir les coopérations transfrontalières.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "L'Italie est l'initiatrice de cet amendement, qui vise à renforcer la capacité des centres d'accueil frontaliers (comme ceux en Calabre et en Sicile), tout en garantissant un financement européen ciblé pour ces infrastructures essentielles. Cette proposition s'inscrit dans sa stratégie de solidarité active avec les pays voisins.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie approuve un report, mais exige que cela soit accompagné d'une révision des mécanismes existants pour éviter une charge migratoire supplémentaire. Elle préfère une mise en œuvre progressive, associée à des investissements européens ciblés.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Préserver sa souveraineté nationale face aux obligations de répartition migratoire.",
+      "Limiter l'impact social et politique d'une répartition contraignante.",
+      "Protéger les intérêts économiques liés à la production industrielle et aux infrastructures critiques.",
+      "Maintenir un équilibre entre coopération européenne et autonomie nationale dans la gestion des flux migratoires.",
+      "Assurer la sécurité énergétique tout en respectant les normes climatiques européennes."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Fédérer les pays hostiles à une approche obligatoire en insistant sur la nécessité d'une transition énergétique progressivement maîtrisée, tout en défendant un droit national à déterminer ses propres quotas de répartition migratoire. La Hongrie privilégiera des alliances avec des acteurs partageant sa vision de l'autonomie nationale et des partenariats sectoriels (ex : énergie, industrie) pour renforcer sa position dans les négociations européennes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux positions de souveraineté nationale et à la continuité des politiques sectorielles)",
+      "S&D (priorité investissements régions défavorisées, alignement sur les objectifs sociaux européens)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (exigences climatiques ambitieuses et quotas de répartition élevés)"
+    ],
+    "éléments_d_argumentaire": [
+      "La souveraineté nationale doit primer sur les obligations européennes, surtout dans des domaines sensibles comme la gestion migratoire.",
+      "Les investissements dans l'énergie nucléaire et les infrastructures critiques doivent être protégés contre une pression excessive européenne.",
+      "Une transition écologique doit respecter le rythme socio-économique de chaque État membre, évitant des mesures abruptes qui pourraient menacer la compétitivité industrielle.",
+      "Les quotas de répartition migratoire doivent rester proportionnels à la capacité nationale, en tenant compte des spécificités géographiques et sociales de l'Union.",
+      "La stabilité économique de la Hongrie dépend de sa capacité à gérer les flux migratoires sans compromettre ses priorités sectorielles (industrie, énergie).",
+      "Les alliances stratégiques avec d'autres pays partageant des visions similaires renforcent la position de la Hongrie dans les négociations européennes.",
+      "L'équilibre entre coopération européenne et autonomie nationale est essentiel pour préserver l'identité culturelle et politique hongroise."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "La Hongrie s'oppose à l'augmentation des quotas car cela pourrait accroître la pression migratoire sur son territoire, en contradiction avec ses capacités nationales et ses priorités socio-économiques. Une telle mesure risquerait de fragiliser les infrastructures sociales et industrielles existantes, tout en mettant à l'épreuve la gestion des flux migratoires.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient le principe d'un fonds dédié à l'intégration, à condition qu'il soit accompagné de mesures garantissant une répartition équitable et respectueuse des capacités nationales. Cette approche permettrait de mieux coordonner les efforts européens tout en protégeant les intérêts locaux.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie approuve cette mesure car elle favorise une intégration plus efficace des migrants tout en s'assurant que les investissements européens soient alignés avec les besoins locaux. Cela renforce la coopération européenne tout en protégeant l'équilibre socio-économique national.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie appuie ce mécanisme sous réserve qu'il ne compromette pas la capacité nationale à gérer les flux migratoires. Une approche équilibrée permettrait de renforcer la solidarité européenne tout en préservant l'autonomie stratégique de chaque État membre.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie a initié cet amendement pour défendre un droit national à déterminer ses propres quotas, en tenant compte de ses capacités socio-économiques et géographiques. Cette mesure permet d'assurer une gestion équilibrée des flux migratoires tout en respectant les priorités nationales.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient cette idée à condition que les exclusions soient basées sur des critères objectifs et non discriminatoires. Cela permettrait d'assurer une répartition plus juste, tout en évitant de créer des divisions au sein de l'Union européenne.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie approuve cette mesure car elle renforce la capacité des pays situés aux frontières de l'Union à gérer efficacement les flux migratoires, tout en prévenant une saturation excessive des infrastructures internes. Cela favorise une approche proactive et coordonnée.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie appuie cette proposition à condition qu'elle soit accompagnée d'une révision des objectifs et des modalités de mise en œuvre. Cela permettrait d'assurer une transition plus fluide, tout en maintenant un cadre clair pour les négociations futures.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions internes entre secteurs industriels et objectifs climatiques européens. Évaluer régulièrement impact des mesures migratoires sur les infrastructures sociales de la région centrale. Surveiller l'équilibre entre autonomie nationale et coopération européenne dans le cadre des négociations sectorielles.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T17:20:58.250592",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Limiter les obligations immédiates de répartition des migrants pour protéger la souveraineté nationale.",
+      "Obtenir une flexibilité temporelle et des conditions adaptées à l'absorption des flux migratoires, en particulier dans les régions frontalières.",
+      "Assurer un équilibre entre les objectifs climatiques de l'UE et la préservation des secteurs économiques stratégiques (p. ex. industries du charbon).",
+      "Soutenir une transition énergétique progressive tout en maintenant la sécurité d'approvisionnement en énergie."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques, notamment sur la gestion des flux migratoires et la transition énergétique."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-3H",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "La Pologne adopte une approche défensive et pragmatique, visant à limiter les pressions immédiates tout en défendant des intérêts nationaux clés. Elle cherche à former un front commun avec d'autres pays réticents (comme la Hongrie) pour renforcer sa position lors des négociations. En parallèle, elle s'engage sur des thèmes transversaux comme l'énergie, la transition écologique et les investissements infrastructuraux, en cherchant à aligner ses objectifs avec ceux de certains pays occidentaux tout en préservant une autonomie stratégique.",
+    "alliances": [
+      "France (soutien aux objectifs climatiques et au développement des énergies renouvelables)",
+      "Italie (collaboration sur les projets d’hydrogène vert et la relance industrielle)",
+      "Verts/ALE (soutien à la transition écologique et aux mesures climatiques)",
+      "S&D (priorité aux investissements dans les régions défavorisées et aux politiques sociales)",
+      "Big Tech (innovation dans les infrastructures numériques et les énergies propres)",
+      "Automobile (protection des secteurs industriels stratégiques et de l’emploi)",
+      "Banque (soutien aux investissements structuraux en énergie et à l’innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centrales de charbon opposés aux mesures climatiques strictes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne défend la nécessité d'une transition énergétique progressive, en soulignant les enjeux économiques et sociaux liés à la décarbonation des secteurs industriels (p. ex. le charbon).",
+      "Elle insiste sur la nécessité de protéger les intérêts nationaux face aux pressions de l’UE, notamment concernant les obligations de répartition des migrants et les quotas.",
+      "La Pologne mise sur l'importance d'une approche concertée avec ses partenaires historiques (comme la Hongrie) pour renforcer sa position lors des négociations européennes.",
+      "Elle soutient le développement des énergies propres, notamment l’hydrogène vert et les projets de relance industrielle, en s'appuyant sur des collaborations avec des pays comme la France et l'Italie.",
+      "La Pologne défend un cadre de coopération qui intègre les réalités nationales tout en répondant aux exigences européennes. Elle insiste notamment sur la nécessité d'une transition climatique équilibrée, associant modernisation industrielle et protection des emplois.",
+      "Elle s'oppose à toute mesure jugée intrusive dans ses compétences nationales, comme les conditions de répartition liées à la formation linguistique ou professionnelle."
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec l'Allemagne et la France sur la transition énergétique (secteurs du charbon, industries dépendantes). Évaluer impact des mesures climatiques sur les régions de Silésie. Surveiller conflits idéologiques entre PPE et Verts/ALE sur le rythme de la transition écologique.",
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne s'oppose à cette augmentation des quotas, arguant qu'elle augmenterait la pression migratoire sur ses régions frontalières et nuirait à la stabilité sociale. Elle préfère une approche progressive et conditionnelle qui tienne compte de sa capacité d’accueil nationale.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cette initiative à condition qu’elle ne soit pas liée à une augmentation immédiate des quotas de répartition. Elle préconise que le fonds serve à financer des mesures d’accompagnement social et économique dans les régions touchées par l’immigration.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s’oppose partiellement à cette mesure, considérant qu’elle pourrait limiter l’autonomie nationale dans la gestion des flux migratoires. Elle préfère une approche plus flexible et adaptée aux besoins locaux.",
+        "priorite": "faible",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne approuve cette proposition à condition qu’elle inclue des mesures concrètes pour soutenir ses régions frontalières. Elle souligne l’importance d’une répartition équitable des charges migratoires.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "La Pologne défend cette limite comme un compromis réaliste qui permettrait d’assurer une gestion durable des flux migratoires tout en protégeant les intérêts nationaux. Elle considère que cette approche concilie objectifs européens et responsabilités locales.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne s’exprime en faveur d’une exclusion conditionnelle, notamment pour les pays situés à la frontière extérieure de l’UE. Elle insiste sur la nécessité de garantir une répartition équitable et respectueuse des capacités nationales.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne appuie cette proposition à condition que l’aide européenne comprenne un financement adéquat pour des infrastructures adaptées. Elle souligne l’importance de préserver la sécurité et l’ordre public dans les zones frontalières.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "La Pologne est l'initiateur de cet amendement, qui permettrait à la nation de mieux se préparer aux obligations liées à l’intégration des migrants et de renforcer les capacités d’accueil locales. Cet échéancier supplémentaire offre un temps d’adaptation nécessaire pour aligner les politiques nationales avec les objectifs européens.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T17:37:38.099160",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Limiter la portée des quotas contraignants.",
+      "Protéger son autonomie nationale.",
+      "Assurer une transition énergétique respectueuse de ses priorités climatiques.",
+      "Réduire les charges administratives liées aux obligations de répartition.",
+      "Éviter un nivellement vers le bas des standards environnementaux européens"
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Obtenir des exemptions ciblées pour certains États tout en défendant une approche coopérative sur les objectifs climatiques. La Suède privilégiera un modèle de solidarité conditionnelle, associant des mesures d'accompagnement (financement de la transition, renforcement des capacités des pays vulnérables) à l'exemption des États membres rejetant les quotas. Elle s'appuiera sur son leadership en matière d'énergies propres et de neutralité carbone pour justifier un rôle pilote dans les politiques européennes, tout en évitant une harmonisation excessive qui pourrait entraver ses progrès technologiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance aux quotas de répartition)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Suède défend un modèle d'exception pour les pays ayant des capacités nationales limitées, en s'appuyant sur son expérience historique dans la gestion des flux migratoires et l'intégration sociale.",
+      "Elle propose une approche différenciée basée sur des critères objectifs (taille de la population, capacité administrative) plutôt que sur des exclusions à priori.",
+      "La Suède met en avant ses investissements massifs dans les énergies renouvelables comme justification d'une exemption temporaire pour certains États membres en difficulté.",
+      "Elle défend un mécanisme de compensation financière pour les pays bénéficiant d'exemptions, afin d'assurer une solidarité européenne équilibrée.",
+      "La Suède insiste sur la nécessité d'un dialogue permanent avec les pays rejetant les quotas, plutôt que sur des mesures coercitives.",
+      "Elle propose un cadre juridique clair pour l'application des exemptions, évitant tout abus ou fragmentation du marché intérieur.",
+      "La Suède souligne la nécessité de renforcer les capacités des pays voisins (ex : Finlande) dans le cadre d'une approche régionale plus intégrée."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-3A",
+        "titre": "Augmenter les quotas de répartition de 20 %",
+        "position": "DEFAVORABLE",
+        "justification": "La Suède considère que cette augmentation risquerait d'accentuer les pressions migratoires sur ses frontières nordiques, alors que son système d'accueil est déjà optimisé. Elle propose plutôt une répartition basée sur des critères économiques et sociaux plus adaptés à la situation européenne actuelle.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Augmenter les quotas de répartition de 20 %"
+      },
+      {
+        "amendement": "2-3B",
+        "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+        "position": "FAVORABLE",
+        "justification": "La Suède soutient cette initiative comme moyen de renforcer les capacités des pays d'accueil tout en assurant une prise en charge équitable. Elle propose un financement conditionnel à la mise en place de politiques linguistiques et professionnelles rigoureuses.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Instaurer un fonds européen pour l’intégration des migrants"
+      },
+      {
+        "amendement": "2-3C",
+        "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+        "position": "FAVORABLE",
+        "justification": "La Suède défend cette mesure comme garantie de l'efficacité des investissements européens. Elle suggère d'intégrer des indicateurs de réussite (taux d'insertion professionnelle, maîtrise linguistique) dans les critères de répartition des fonds.",
+        "priorite": "haute",
+        "origine": "Conservateurs & Réformistes",
+        "description": "Conditionner les aides à la formation linguistique et professionnelle"
+      },
+      {
+        "amendement": "2-3D",
+        "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède appuie cet amendement à condition qu'il soit associé à une augmentation proportionnelle des financements européens. Elle propose un système de répartition dynamique basé sur l'impact migratoire mesuré en temps réel.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+      },
+      {
+        "amendement": "2-3E",
+        "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+        "position": "FAVORABLE",
+        "justification": "La Suède considère que cette limite permettrait d'assurer une responsabilité partagée tout en évitant des surcharges excessives. Elle propose un seuil ajustable selon les flux migratoires annuels et la capacité administrative des États membres.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+      },
+      {
+        "amendement": "2-3F",
+        "titre": "Exclure certains États membres des obligations de répartition",
+        "position": "FAVORABLE",
+        "justification": "L'amendement 2-3F, initié par la Suède, vise à permettre une flexibilité nécessaire pour les pays ayant des capacités administratives limitées ou des structures sociales inadaptées. Il prévoit un mécanisme de compensation financière et technique pour ces États membres, tout en maintenant l'objectif global de solidarité européenne.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Exclure certains États membres des obligations de répartition"
+      },
+      {
+        "amendement": "2-3G",
+        "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+        "position": "FAVORABLE",
+        "justification": "La Suède appuie cette mesure comme moyen de renforcer la gestion des flux migratoires. Elle propose un financement ciblé pour les pays frontaliers (ex : Finlande, Norvège) et le développement d'infrastructures adaptées à l'intégration sociale.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+      },
+      {
+        "amendement": "2-3H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède s'oppose à un report absolu, mais propose une mise en œuvre progressive accompagnée d'une révision du cadre légal. Elle suggère une période transitoire de 18 mois associée à l'évaluation des impacts et au renforcement des capacités des États membres.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d3.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur industriel (Ericsson, Volvo) et objectifs climatiques directive. Évaluer impact des quotas sur l'approvisionnement en main-d'œuvre pour les régions nordiques. Surveillance nécessaire des relations avec la Finlande concernant les flux migratoires transfrontaliers.",
+    "scenario_id": 2,
+    "directive_id": 3,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T17:52:12.998818",
+    "version": "4.7"
+  }
+]

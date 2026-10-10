@@ -1,0 +1,752 @@
+# scenario2
+
+Source : `scenario2.json`
+
+## Contenu
+
+- **scenario** : `2`
+- **directive** :
+  - **Élément 1** :
+    - **id** : `1`
+    - **nom** : Initiative sécurité énergétique
+    - **orientation** : Stock stratégique de gaz (90 jours)
+    - **proposition** : Diversification des sources d’approvisionnement (Afrique, Norvège, etc.)
+    - **description** : Réduire la dépendance au gaz russe à 10 % et renforcer la sécurité énergétique de l’Union
+    - **declaration\_intention** : La présente directive vise à garantir la sécurité énergétique de l’Union européenne en diversifiant les sources d’approvisionnement et en instaurant des stocks stratégiques de gaz. Elle entend renforcer l’indépendance énergétique de l’UE, réduire la vulnérabilité face aux crises internationales et assurer la stabilité des approvisionnements pour les citoyens et l’industrie. Cette initiative s’inscrit dans la stratégie européenne de transition énergétique et de résilience, conformément aux priorités du Conseil européen.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.93`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Parti Populaire Européen
+        - **id** : 2-1A
+        - **description** : Porter le stock stratégique à 120 jours
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.94`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Socialistes & Démocrates
+        - **id** : 2-1B
+        - **description** : Accélérer les investissements dans les interconnexions énergétiques
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-1C
+        - **description** : Inclure un volet hydrogène dans la stratégie énergétique
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.94`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Verts/ALE
+        - **id** : 2-1D
+        - **description** : Conditionner les aides à la réduction de la consommation de gaz
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.93`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-1E
+        - **description** : Limiter le stock stratégique à 60 jours
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.92`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : Italie
+        - **id** : 2-1F
+        - **description** : Exclure certains États membres des obligations de stockage
+        - **impact** :
+          - **normandie\_eu** : `82`
+          - **vdem\_eu** : `0.84`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.92`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-1G
+        - **description** : Soutenir prioritairement les infrastructures gazières existantes
+        - **impact** :
+          - **normandie\_eu** : `84`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.93`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Suède
+        - **id** : 2-1H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.92`
+  - **Élément 2** :
+    - **id** : `2`
+    - **nom** : Défense commune européenne
+    - **orientation** : Budget européen de défense à 0,5 % du PIB
+    - **proposition** : Achat commun d’équipements (drones, cyber, etc.) et financement de la recherche dans la défense.
+    - **description** : Augmenter les dépenses communes à 80 Md€/an, renforcer l’autonomie stratégique et la sécurité collective de l’UE.
+    - **declaration\_intention** : La présente directive vise à renforcer la défense européenne en instaurant un budget commun et en favorisant l’achat conjoint d’équipements stratégiques. Elle entend promouvoir l’autonomie stratégique, la solidarité entre États membres et la capacité de l’UE à répondre aux défis sécuritaires internationaux. Cette initiative s’inscrit dans la stratégie globale de sécurité et de défense de l’Union, conformément aux priorités du Conseil européen.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.4`
+      - **idh\_eu** : `0.94`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-2A
+        - **description** : Porter le budget de défense à 0,7 % du PIB
+        - **impact** :
+          - **normandie\_eu** : `90`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.3`
+          - **idh\_eu** : `0.94`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Socialistes & Démocrates
+        - **id** : 2-2B
+        - **description** : Créer un fonds européen pour la recherche en cybersécurité
+        - **impact** :
+          - **normandie\_eu** : `89`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.95`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Verts/ALE
+        - **id** : 2-2C
+        - **description** : Conditionner l’accès aux équipements à la coopération transfrontalière
+        - **impact** :
+          - **normandie\_eu** : `89`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.4`
+          - **idh\_eu** : `0.94`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Parti Populaire Européen
+        - **id** : 2-2D
+        - **description** : Inclure un volet formation pour les forces armées européennes
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.95`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Italie
+        - **id** : 2-2E
+        - **description** : Limiter le budget de défense à 0,4 % du PIB
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.93`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-2F
+        - **description** : Exclure certains États membres des achats communs
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.93`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : France
+        - **id** : 2-2G
+        - **description** : Soutenir prioritairement les industries de défense nationales
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.4`
+          - **idh\_eu** : `0.94`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-2H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+  - **Élément 3** :
+    - **id** : `3`
+    - **nom** : Solidarité migratoire européenne
+    - **orientation** : Quotas contraignants de répartition des migrants
+    - **proposition** : Instaurer un mécanisme permanent de répartition équitable des demandeurs d’asile et de protection internationale entre États membres.
+    - **description** : Réduire la mortalité migratoire à 0,05 %, améliorer l’accueil et l’intégration, et renforcer la solidarité européenne.
+    - **declaration\_intention** : La présente directive vise à instaurer un mécanisme européen de solidarité migratoire, fondé sur des quotas contraignants de répartition des demandeurs d’asile. Elle entend garantir une gestion humaine, équitable et efficace des flux migratoires, tout en renforçant la cohésion et la solidarité entre États membres. Cette initiative s’inscrit dans la stratégie globale de l’Union en matière de migration et d’asile, conformément aux valeurs et priorités du Conseil européen.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `82`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.92`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-3A
+        - **description** : Augmenter les quotas de répartition de 20 %
+        - **impact** :
+          - **normandie\_eu** : `81`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.93`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Socialistes & Démocrates
+        - **id** : 2-3B
+        - **description** : Instaurer un fonds européen pour l’intégration des migrants
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.93`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Conservateurs & Réformistes
+        - **id** : 2-3C
+        - **description** : Conditionner les aides à la formation linguistique et professionnelle
+        - **impact** :
+          - **normandie\_eu** : `82`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.94`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Gauche Unitaire
+        - **id** : 2-3D
+        - **description** : Créer un mécanisme de solidarité accrue avec les pays en première ligne
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.93`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-3E
+        - **description** : Limiter les quotas de répartition à 80 % de la capacité nationale
+        - **impact** :
+          - **normandie\_eu** : `84`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.91`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : Suède
+        - **id** : 2-3F
+        - **description** : Exclure certains États membres des obligations de répartition
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.91`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Italie
+        - **id** : 2-3G
+        - **description** : Soutenir prioritairement les centres d’accueil aux frontières extérieures
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.92`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-3H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `84`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.91`
+  - **Élément 4** :
+    - **id** : `4`
+    - **nom** : Souveraineté agricole européenne
+    - **orientation** : Réserve stratégique de céréales (6 mois)
+    - **proposition** : Soutien aux agriculteurs locaux, développement des circuits courts et constitution d’une réserve stratégique alimentaire.
+    - **description** : Réduire les importations alimentaires à 20 %, renforcer la sécurité alimentaire et la résilience agricole de l’UE.
+    - **declaration\_intention** : La présente directive vise à garantir la souveraineté agricole de l’Union européenne en instaurant une réserve stratégique de céréales et en soutenant la production agricole locale. Elle entend réduire la dépendance aux importations, renforcer la sécurité alimentaire et promouvoir une agriculture durable et résiliente. Cette initiative s’inscrit dans la stratégie européenne de souveraineté agricole, conformément aux priorités du Conseil européen et du Pacte vert pour l’Europe.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `83`
+      - **vdem\_eu** : `0.84`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.91`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-4A
+        - **description** : Porter la réserve stratégique à 9 mois
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.92`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Verts/ALE
+        - **id** : 2-4B
+        - **description** : Conditionner les aides à la transition agroécologique
+        - **impact** :
+          - **normandie\_eu** : `84`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Gauche Unitaire
+        - **id** : 2-4C
+        - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+        - **impact** :
+          - **normandie\_eu** : `84`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.92`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Socialistes & Démocrates
+        - **id** : 2-4D
+        - **description** : Créer un label européen de circuits courts
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : France
+        - **id** : 2-4E
+        - **description** : Limiter la réserve stratégique à 3 mois
+        - **impact** :
+          - **normandie\_eu** : `81`
+          - **vdem\_eu** : `0.83`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.9`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : Suède
+        - **id** : 2-4F
+        - **description** : Exclure certains produits agricoles de la réserve
+        - **impact** :
+          - **normandie\_eu** : `82`
+          - **vdem\_eu** : `0.84`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.91`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-4G
+        - **description** : Soutenir prioritairement les grandes exploitations
+        - **impact** :
+          - **normandie\_eu** : `82`
+          - **vdem\_eu** : `0.83`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.91`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-4H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `82`
+          - **vdem\_eu** : `0.84`
+          - **pib\_growth\_eu** : `1.9`
+          - **idh\_eu** : `0.9`
+  - **Élément 5** :
+    - **id** : `5`
+    - **nom** : Coopération diplomatique européenne
+    - **orientation** : Missions diplomatiques communes et représentation unique
+    - **proposition** : Instaurer une représentation unique de l’UE dans les organisations internationales et déployer des missions diplomatiques conjointes.
+    - **description** : Renforcer la voix de l’UE sur la scène mondiale, améliorer la cohérence des positions européennes et promouvoir la paix et la stabilité.
+    - **declaration\_intention** : La présente directive vise à renforcer la cohérence et l’efficacité de la diplomatie européenne en instaurant une représentation unique dans les organisations internationales et en déployant des missions diplomatiques conjointes. Elle entend promouvoir la paix, la sécurité et les valeurs de l’Union sur la scène mondiale, tout en renforçant la solidarité et l’unité entre États membres. Cette initiative s’inscrit dans la stratégie globale de l’Union en matière de politique étrangère, conformément aux priorités du Conseil européen et du Service européen pour l’action extérieure.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.89`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.94`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-5A
+        - **description** : Élargir la représentation unique à toutes les organisations internationales
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.9`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.95`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Socialistes & Démocrates
+        - **id** : 2-5B
+        - **description** : Créer un fonds européen pour la diplomatie préventive
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.9`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.94`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Verts/ALE
+        - **id** : 2-5C
+        - **description** : Conditionner la participation aux missions à la formation diplomatique commune
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.95`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Parti Populaire Européen
+        - **id** : 2-5D
+        - **description** : Instaurer un mécanisme de solidarité diplomatique en cas de crise
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.9`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.94`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-5E
+        - **description** : Limiter la représentation unique à certaines organisations
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : France
+        - **id** : 2-5F
+        - **description** : Exclure certains États membres de la représentation unique
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-5G
+        - **description** : Soutenir prioritairement la diplomatie bilatérale nationale
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.94`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Suède
+        - **id** : 2-5H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.93`
+  - **Élément 6** :
+    - **id** : `6`
+    - **nom** : Coopération transfrontalière et sécurité intérieure
+    - **orientation** : Police et justice européennes intégrées
+    - **proposition** : Mise en place de centres de commandement communs, échange systématique de données policières et judiciaires.
+    - **description** : Renforcer la lutte contre le crime organisé, le terrorisme et la cybercriminalité, tout en garantissant le respect des droits fondamentaux.
+    - **declaration\_intention** : La présente directive vise à renforcer la sécurité intérieure de l’Union européenne en instaurant une coopération transfrontalière approfondie entre les forces de police et les systèmes judiciaires nationaux. Elle entend promouvoir l’échange systématique de données, la coordination des enquêtes et la protection des citoyens, tout en garantissant le respect des droits fondamentaux et de la vie privée. Cette initiative s’inscrit dans la stratégie de sécurité intérieure de l’Union, conformément aux priorités du Conseil européen et du Parlement.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `89`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.94`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-6A
+        - **description** : Élargir la coopération à la lutte contre la cybercriminalité
+        - **impact** :
+          - **normandie\_eu** : `90`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.95`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Conservateurs et Réformistes
+        - **id** : 2-6B
+        - **description** : Instaurer un observatoire européen des crimes transfrontaliers
+        - **impact** :
+          - **normandie\_eu** : `89`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.95`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Gauche Unitaire
+        - **id** : 2-6C
+        - **description** : Conditionner l’accès aux données à des garanties strictes de protection de la vie privée
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.94`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Parti Populaire Européen
+        - **id** : 2-6D
+        - **description** : Créer une unité européenne de lutte contre le terrorisme
+        - **impact** :
+          - **normandie\_eu** : `90`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.95`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-6E
+        - **description** : Limiter la coopération à certains types de criminalité
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.6`
+          - **idh\_eu** : `0.93`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : France
+        - **id** : 2-6F
+        - **description** : Exclure certains États membres de l’échange systématique de données
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.85`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.93`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-6G
+        - **description** : Soutenir prioritairement les systèmes judiciaires nationaux
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.5`
+          - **idh\_eu** : `0.94`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Allemagne
+        - **id** : 2-6H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.86`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+  - **Élément 7** :
+    - **id** : `7`
+    - **nom** : Politique d’influence culturelle et éducative
+    - **orientation** : Fonds européen pour la promotion de la culture et de l’éducation
+    - **proposition** : Créer un programme massif d’échanges éducatifs, de bourses Erasmus+ élargies et de diffusion de la culture européenne à l’international.
+    - **description** : Renforcer l’attractivité et l’influence de l’UE dans le monde, promouvoir les valeurs européennes et favoriser la mobilité des étudiants et des artistes.
+    - **declaration\_intention** : La présente directive vise à renforcer l’influence culturelle et éducative de l’Union européenne à l’international, en soutenant les échanges, la mobilité et la diffusion des valeurs européennes. Elle entend promouvoir la diversité culturelle, la compréhension mutuelle et la coopération entre les peuples, tout en renforçant la position de l’UE sur la scène mondiale. Cette initiative s’inscrit dans la stratégie européenne pour l’éducation, la culture et la jeunesse, conformément aux priorités du Conseil européen.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `84`
+      - **vdem\_eu** : `0.9`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.95`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-7A
+        - **description** : Élargir Erasmus+ à tous les niveaux d’éducation
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.91`
+          - **pib\_growth\_eu** : `1.9`
+          - **idh\_eu** : `0.96`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Gauche Unitaire
+        - **id** : 2-7B
+        - **description** : Instaurer un fonds européen pour la création artistique
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.91`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.96`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Conservateurs et Réformistes
+        - **id** : 2-7C
+        - **description** : Conditionner les aides à la promotion des valeurs européennes
+        - **impact** :
+          - **normandie\_eu** : `84`
+          - **vdem\_eu** : `0.9`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.95`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Socialiste et Démocrates
+        - **id** : 2-7D
+        - **description** : Créer des centres culturels européens à l’étranger
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.91`
+          - **pib\_growth\_eu** : `1.9`
+          - **idh\_eu** : `0.96`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-7E
+        - **description** : Limiter le programme aux étudiants universitaires
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.94`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-7F
+        - **description** : Exclure certains domaines artistiques du fonds
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.94`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Italie
+        - **id** : 2-7G
+        - **description** : Soutenir prioritairement les initiatives nationales
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.94`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Suède
+        - **id** : 2-7H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `83`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.9`
+          - **idh\_eu** : `0.94`
+  - **Élément 8** :
+    - **id** : `8`
+    - **nom** : Souveraineté numérique et cybersécurité
+    - **orientation** : Infrastructures critiques européennes protégées
+    - **proposition** : Définir des normes communes de cybersécurité, créer un corps européen de cybersécurité et mutualiser les ressources.
+    - **description** : Renforcer la résilience face aux cyberattaques, garantir la souveraineté numérique et protéger les infrastructures critiques de l’UE.
+    - **declaration\_intention** : La présente directive vise à renforcer la souveraineté numérique et la cybersécurité de l’Union européenne en instaurant des normes communes, en mutualisant les ressources et en créant un corps européen de cybersécurité. Elle entend protéger les infrastructures critiques, garantir la sécurité des citoyens et des entreprises, et renforcer la compétitivité de l’UE sur la scène mondiale. Cette initiative s’inscrit dans la stratégie européenne pour la transition numérique, conformément aux priorités du Conseil européen.
+    - **statistiques\_depart** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+    - **amendements** :
+      - **Élément 1** :
+        - **type** : parlement
+        - **origine** : Parti Populaire Européen
+        - **id** : 2-8A
+        - **description** : Élargir le corps européen de cybersécurité à tous les secteurs critiques
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.94`
+      - **Élément 2** :
+        - **type** : parlement
+        - **origine** : Renouveau Européen
+        - **id** : 2-8B
+        - **description** : Instaurer un fonds européen pour l’innovation en cybersécurité
+        - **impact** :
+          - **normandie\_eu** : `87`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.94`
+      - **Élément 3** :
+        - **type** : parlement
+        - **origine** : Gauche Unitaire
+        - **id** : 2-8C
+        - **description** : Conditionner les aides à la formation des professionnels du secteur
+        - **impact** :
+          - **normandie\_eu** : `86`
+          - **vdem\_eu** : `0.88`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.94`
+      - **Élément 4** :
+        - **type** : parlement
+        - **origine** : Socialistes & Démocrates
+        - **id** : 2-8D
+        - **description** : Créer un mécanisme de réponse rapide aux cyberattaques
+        - **impact** :
+          - **normandie\_eu** : `88`
+          - **vdem\_eu** : `0.89`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.95`
+      - **Élément 5** :
+        - **type** : conseil
+        - **origine** : Italie
+        - **id** : 2-8E
+        - **description** : Limiter le champ d’action du corps européen de cybersécurité
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.8`
+          - **idh\_eu** : `0.93`
+      - **Élément 6** :
+        - **type** : conseil
+        - **origine** : Allemagne
+        - **id** : 2-8F
+        - **description** : Exclure certains secteurs des normes communes
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 7** :
+        - **type** : conseil
+        - **origine** : Pologne
+        - **id** : 2-8G
+        - **description** : Soutenir prioritairement les initiatives nationales de cybersécurité
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.7`
+          - **idh\_eu** : `0.93`
+      - **Élément 8** :
+        - **type** : conseil
+        - **origine** : Hongrie
+        - **id** : 2-8H
+        - **description** : Reporter l’application de la directive de deux ans
+        - **impact** :
+          - **normandie\_eu** : `85`
+          - **vdem\_eu** : `0.87`
+          - **pib\_growth\_eu** : `1.9`
+          - **idh\_eu** : `0.93`

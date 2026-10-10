@@ -1,0 +1,61 @@
+/* ==========================================================================
+   Section Décryptage & Modales Pédagogiques
+   ========================================================================== */
+
+.pedagogy-view {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.quiz-card {
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--color-border);
+}
+
+.btn-quiz-opt {
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+}
+
+.btn-quiz-opt:hover {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.pedagogy-modal-content {
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.18);
+  animation: modalScale 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes modalScale {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* Accessibilité Smartphone & Touch */
+@media (max-width: 768px) {
+  .pedagogy-modal-content {
+    width: 95vw !important;
+    max-width: 95vw !important;
+    padding: 16px !important;
+  }
+  
+  .quiz-item button {
+    font-size: 0.88rem !important;
+    min-height: 44px; /* Zone tactile minimale WCAG */
+  }
+
+  .zoom-modal-content {
+    width: 98vw !important;
+    height: 95vh !important;
+    padding: 12px !important;
+  }
+}

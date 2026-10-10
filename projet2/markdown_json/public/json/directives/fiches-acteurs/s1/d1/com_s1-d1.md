@@ -1,0 +1,170 @@
+# com\_s1-d1
+
+Source : `directives/fiches-acteurs/s1/d1/com_s1-d1.json`
+
+## Contenu
+
+- **type** : Commission
+- **nom** : Commission européenne
+- **role\_europeen** : Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.
+- **enjeux\_directive** :
+  - Assurer le respect des objectifs climatiques dans un cadre budgétaire réaliste (2% du PIB).
+  - Équilibrer ambitions réduction carbone, sécurité énergétique et compétitivité économique.
+  - Anticiper les blocages et favoriser compromis et stratégies gagnantes.
+  - Renforcer l'harmonisation des politiques nationales avec la stratégie européenne pour une transition écologique juste.
+  - Garantir la transparence et la responsabilité dans l'utilisation des fonds européens liés à la directive.
+  - Promouvoir l'équité sociale et les inclusions régionales en intégrant des mécanismes de solidarité.
+- **impacts\_directive** :
+  - La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.
+  - La Commission verra son influence institutionnelle consolidée à travers ce texte législatif.
+- **impacts\_amendements** :
+  - **Élément 1** :
+    - **id** : 1-1A
+    - **origine** : Verts/ALE
+    - **description** : Augmenter la part du PIB investi à 2,5%
+    - **impact** : accroîtrait l'ambition et la portée de la directive stimulerait significativement la croissance économique
+  - **Élément 2** :
+    - **id** : 1-1B
+    - **origine** : Socialistes & Démocrates
+    - **description** : Cibler prioritairement les régions défavorisées
+    - **impact** : soutenait la croissance économique réduirait les inégalités sociales
+  - **Élément 3** :
+    - **id** : 1-1C
+    - **origine** : Renouveau Européen
+    - **description** : Imposer un moratoire sur les centrales à charbon
+    - **impact** : Aurait un impact modéré sur la mise en œuvre de la directive.
+  - **Élément 4** :
+    - **id** : 1-1D
+    - **origine** : Parti Populaire Européen
+    - **description** : Accroître l’innovation dans l’hydrogène vert
+    - **impact** : accroîtrait l'ambition et la portée de la directive soutenait la croissance économique
+  - **Élément 5** :
+    - **id** : 1-1E
+    - **origine** : Hongrie
+    - **description** : Réduire l’investissement à 1,5% du PIB
+    - **impact** : modérerait la portée et les exigences de la directive risquerait d'accroître les inégalités
+  - **Élément 6** :
+    - **id** : 1-1F
+    - **origine** : Italie
+    - **description** : Exclure l’industrie lourde des subventions
+    - **impact** : réduirait le champ d'application de la directive
+  - **Élément 7** :
+    - **id** : 1-1G
+    - **origine** : Pologne
+    - **description** : Prioriser l’emploi local
+    - **impact** : soutenait la croissance économique
+  - **Élément 8** :
+    - **id** : 1-1H
+    - **origine** : France
+    - **description** : Relancer le nucléaire civil
+    - **impact** : Aurait un impact modéré sur la mise en œuvre de la directive.
+- **stratégie** : La Commission européenne adopte une approche multilatérale, axée sur l'équilibre entre ambition climatique et soutenabilité économique. Elle vise à maximiser l'impact des fonds européens en favorisant les régions les plus vulnérables (via la cible 1-1B) tout en s'assurant que les investissements (1-1A et 1-1D) soient orientés vers des technologies propres. Elle défend un moratoire sur le charbon (1-1C) comme pilier de la transition énergétique, mais reste prudente sur l'exclusion sectorielle (1-1F), préférant une approche nuancée pour éviter les ruptures économiques. Enfin, elle soutient un renforcement du nucléaire (1-1H) comme complément à la transition énergétique, tout en veillant à ne pas marginaliser des acteurs clés comme l'industrie lourde.
+- **alliances** :
+  - PPE (Parti Populaire Européen) : Soutien aux innovations technologiques (hydrogène vert) et à la stabilité institutionnelle.
+  - S&D (Socialistes & Démocrates) : Privilégie les régions défavorisées et l'emploi local, alignement sur les priorités sociales.
+  - Verts/ALE (Verts/Alliance Libre Européenne) : Ambition climatique élevée, soutien aux investissements verts.
+  - Renouveau Européen : Prise de position ferme contre les énergies fossiles (moratoire sur le charbon).
+  - France : Partenariat stratégique sur la relance du nucléaire civil comme complément à l'hydrogène vert.
+  - Allemagne : Coordination sur la transition technologique et l'équilibre entre sécurité énergétique et réduction des émissions.
+- **oppositions** :
+  - Hongrie : Oppose la hausse du PIB investi (1-1A) par peur d'une pression budgétaire excessive.
+  - Énergies fossiles (lobby) : Rejet du moratoire sur le charbon (1-1C) et de l'hydrogène vert (1-1D) comme menaces à la compétitivité industrielle.
+  - Automobile (lobby) : Contre l'exclusion des subventions (1-1F), arguant d'un impact négatif sur les emplois.
+- **éléments\_d\_argumentaire** :
+  - La directive doit concilier objectifs climatiques et stabilité économique, en évitant une surcharge budgétaire pour les États membres.
+  - Les investissements dans l'hydrogène vert (1-1D) sont essentiels pour la compétitivité européenne à long terme.
+  - Le ciblage des régions défavorisées (1-1B) renforce le principe d'équité sociale et de solidarité interrégionale.
+  - Un moratoire sur les centrales à charbon (1-1C) est une exigence climatique incontournable, même si des transitions sectorielles doivent être gérées progressivement.
+  - La relance du nucléaire civil (1-1H) doit rester conditionnelle à la sécurité et aux normes environnementales strictes.
+  - L'exclusion de l'industrie lourde des subventions (1-1F) pourrait créer une distorsion de concurrence, nécessitant des compensations sectorielles.
+  - Le financement à 2,5% du PIB (1-1A) doit être accompagné d'une gestion rigoureuse pour éviter les gaspillages et garantir la transparence.
+- **positions\_amendements** :
+  - **Élément 1** :
+    - **amendement** : 1-1A
+    - **titre** : Augmenter la part du PIB investi à 2,5%
+    - **position** : FAVORABLE\_CONDITIONNEL
+    - **justification** : La Commission s'engage à soutenir une hausse de l'investissement, mais exige des mécanismes de contrôle stricts pour éviter les dérives budgétaires et garantir la transparence. Cela reste conditionnel à un consensus clair sur les priorités sectorielles.
+    - **priorite** : haute
+    - **origine** : Verts/ALE
+    - **description** : Augmenter la part du PIB investi à 2,5%
+  - **Élément 2** :
+    - **amendement** : 1-1B
+    - **titre** : Cibler prioritairement les régions défavorisées
+    - **position** : FAVORABLE
+    - **justification** : Cibler les régions défavorisées renforce la cohésion territoriale et l'équité sociale, alignant la directive sur les objectifs de solidarité européenne. Cela est un pilier stratégique pour la Commission.
+    - **priorite** : très\_haute
+    - **origine** : Socialistes & Démocrates
+    - **description** : Cibler prioritairement les régions défavorisées
+  - **Élément 3** :
+    - **amendement** : 1-1C
+    - **titre** : Imposer un moratoire sur les centrales à charbon
+    - **position** : FAVORABLE
+    - **justification** : Le moratoire sur le charbon est compatible avec les objectifs climatiques et doit être un levier central de la transition énergétique, en accompagnant les régions dépendantes du charbon.
+    - **priorite** : très\_haute
+    - **origine** : Renouveau Européen
+    - **description** : Imposer un moratoire sur les centrales à charbon
+  - **Élément 4** :
+    - **amendement** : 1-1D
+    - **titre** : Accroître l’innovation dans l’hydrogène vert
+    - **position** : FAVORABLE
+    - **justification** : L'hydrogène vert est un pilier technologique clé pour la transition énergétique. La Commission soutient activement son développement, en particulier dans les secteurs industriels et transport.
+    - **priorite** : haute
+    - **origine** : Parti Populaire Européen
+    - **description** : Accroître l’innovation dans l’hydrogène vert
+  - **Élément 5** :
+    - **amendement** : 1-1E
+    - **titre** : Réduire l’investissement à 1,5% du PIB
+    - **position** : DEFAVORABLE
+    - **justification** : Réduire l'investissement à 1,5% du PIB risquerait de fragiliser les objectifs climatiques et économiques. La Commission considère que cette réduction n'est pas compatible avec la directive.
+    - **priorite** : très\_haute
+    - **origine** : Hongrie
+    - **description** : Réduire l’investissement à 1,5% du PIB
+  - **Élément 6** :
+    - **amendement** : 1-1F
+    - **titre** : Exclure l’industrie lourde des subventions
+    - **position** : DEFAVORABLE\_PARTIEL
+    - **justification** : Exclure l'industrie lourde des subventions pourrait créer des distorsions de concurrence. La Commission propose des compensations sectorielles pour éviter les ruptures économiques.
+    - **priorite** : moyenne
+    - **origine** : Italie
+    - **description** : Exclure l’industrie lourde des subventions
+  - **Élément 7** :
+    - **amendement** : 1-1G
+    - **titre** : Prioriser l’emploi local
+    - **position** : FAVORABLE\_CONDITIONNEL
+    - **justification** : Prioriser l'emploi local est une exigence sociale, mais doit être associée à des critères de durabilité et d'équité pour éviter les pratiques discriminatoires.
+    - **priorite** : moyenne
+    - **origine** : Pologne
+    - **description** : Prioriser l’emploi local
+  - **Élément 8** :
+    - **amendement** : 1-1H
+    - **titre** : Relancer le nucléaire civil
+    - **position** : FAVORABLE\_CONDITIONNEL
+    - **justification** : Le nucléaire civil peut compléter la transition énergétique, mais doit être soumis à des normes strictes de sécurité et d'acceptabilité sociale pour éviter les risques environnementaux.
+    - **priorite** : moyenne
+    - **origine** : France
+    - **description** : Relancer le nucléaire civil
+- **références** :
+  - s1d1.json
+  - scenario1.json
+- **notes\_internes** : À prioriser la coordination avec le PPE et les Verts/ALE sur l'hydrogène vert. Préparer des justifications techniques pour défendre les amendements conditionnels contre les oppositions sectorielles.
+- **metadata** :
+  - **source\_file** : s1-d1.json
+  - **type** : commission
+  - **directive\_id** : 1-1
+  - **tokens** :
+    - **count** : `747`
+    - **model\_reference** : Qwen3-14B
+    - **counted\_at** : 2025-10-13T20:43:09.759417
+    - **context\_limits** :
+      - **fits\_8k** : `true`
+      - **fits\_16k** : `true`
+      - **fits\_32k** : `true`
+      - **fits\_128k** : `true`
+    - **size\_category** : small
+    - **estimated\_processing** : trivial
+- **actor\_id** : commission
+- **actor\_type** : institution
+- **scenario\_id** : `1`
+- **directive\_id** : `1`
+- **generated\_at** : 2025-10-19T01:26:09.147483
+- **version** : combined\_v4.3

@@ -1,0 +1,752 @@
+[
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Adapter les impératifs réglementaires aux capacités des micro-entreprises.",
+      "Préserver la compétitivité des petites structures.",
+      "Promouvoir l'innovation technologique dans le secteur de l'énergie verte.",
+      "Assurer une transition énergétique juste en protégeant les emplois du secteur industriel traditionnel.",
+      "Renforcer la coopération transfrontalière sur les projets d'hydrogène vert et d'énergies renouvelables."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Promouvoir une différenciation claire dans les obligations selon la taille des entreprises. La France défend un cadre réglementaire flexible qui intègre à la fois les exigences climatiques européennes et les réalités économiques des PME et micro-entreprises. Elle insiste sur le soutien aux secteurs stratégiques (automobile, aéronautique) tout en favorisant l'innovation dans les énergies propres. L'alliance avec les partis pro-écologie (Verts/ALE) et les industriels (Automobile, Big Tech) permet de concilier objectifs climatiques et compétitivité nationale.",
+    "alliances": [
+      "Italie (collaboration sur les projets d'hydrogène vert et relance industrielle)",
+      "Verts/ALE (soutien à la transition écologique et aux objectifs climatiques ambitieux)",
+      "S&D (priorité aux investissements dans les régions défavorisées et soutien aux PME)",
+      "Big Tech (innovation technologique dans l'infrastructure numérique énergétique)",
+      "Automobile (protection des secteurs industriels stratégiques et modernisation de la chaîne de production)",
+      "PPE (soutien à une transition énergétique structurée avec un rôle central pour le nucléaire)",
+      "Banque (financement des projets d'investissement dans les énergies renouvelables)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires et aux obligations climatiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France défend un cadre réglementaire qui protège les PME et micro-entreprises tout en maintenant des objectifs climatiques ambitieux, évitant une surcharge administrative.",
+      "Le soutien à l'industrie automobile permet de préserver des emplois stratégiques tout en orientant la production vers des technologies propres (électrification, recyclage).",
+      "La collaboration avec les partis écologistes (Verts/ALE) renforce le consensus sur l'innovation technologique et l'économie circulaire.",
+      "Le soutien à l'hydrogène vert est un levier de compétitivité européenne, notamment pour les régions du Sud de la France.",
+      "La flexibilité nationale dans la mise en œuvre du reporting permet d'adapter les obligations aux spécificités locales (ex: Pyrénées-Orientales).",
+      "L'expertise française dans le nucléaire est un atout pour la transition énergétique, contrairement à une approche purement décarbonée.",
+      "Le financement des PME par les banques favorise l'équilibre entre réglementation et croissance économique.",
+      "La France insiste sur la nécessité d'une transition juste qui protège les travailleurs des secteurs traditionnels (charbon, sidérurgie)."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient ce délai accéléré à condition que des mesures d'accompagnement soient prévues pour les PME. Cela permettrait de renforcer la transparence environnementale tout en évitant une surcharge administrative pour les entreprises petites et moyennes.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE",
+        "justification": "La France s'engage à promouvoir une approche intégrée de la biodiversité, en particulier pour les régions ultramarines et les zones Natura 2000. Cet amendement renforce la responsabilité des entreprises dans la préservation des écosystèmes.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement comme essentiel pour soutenir l'adaptation des PME et des micro-entreprises à la réglementation environnementale, en particulier dans les zones rurales.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient ce principe à condition que des mesures sectorielles soient mises en place, notamment dans l'industrie lourde et la construction. Cela permettrait d'assurer un équilibre entre objectifs climatiques et compétitivité.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose à ce report en raison des risques d'inégalité entre entreprises, mais reste ouverte à un calendrier adapté si des mesures de soutien sont associées.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "La France défend cette simplification comme un levier crucial pour réduire la charge administrative sur les PME, en particulier dans les régions du Sud et l'Est.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "La France s'engage à promouvoir cette flexibilité pour adapter les obligations aux spécificités régionales, notamment dans le cadre de l'Union européenne de la Mer.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE",
+        "justification": "La France défend fermement cet amendement qu'elle a elle-même proposé, car il permet de protéger des secteurs économiques fragiles (artisanaux, services) tout en maintenant un cadre réglementaire pertinent pour les entreprises plus importantes. Cet amendement reflète la volonté de l'État français d'équilibrer exigences climatiques et soutien aux PME.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions industrielles dans les régions de l'Est (ex: mines de charbon) et impact des mesures sur les PME agricoles. Évaluer régulièrement l'impact du soutien aux industries fossiles en Europe centrale. Maintenir dialogue avec les partis écologistes pour éviter dérapages climatiques non compatibles avec la transition juste.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "pays",
+    "generated_at": "2025-10-25T11:43:07.989117",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Mettre en place des délais adaptés à la capacité d'adaptation des PME pour éviter un impact économique négatif sur l'économie nationale.",
+      "Protéger les secteurs économiques stratégiques (énergie, agriculture) contre les contraintes trop strictes qui pourraient menacer leur compétitivité internationale.",
+      "Assurer une transition écologique progressive sans compromettre la stabilité des investissements publics et privés dans le pays.",
+      "Équilibrer les objectifs climatiques de l'UE avec les priorités nationales en matière de développement économique et d'emploi."
+    ],
+    "impacts_directive": [
+      "La directive pourrait affecter la capacité de Hongrie à maintenir sa croissance industrielle tout en respectant les normes environnementales européennes.",
+      "Les entreprises hongroises pourraient être contraintes d'adopter des pratiques plus coûteuses, ce qui risquerait de réduire leur compétitivité sur le marché international."
+    ],
+    "stratégie": "La Hongrie adopte une stratégie centrée sur l'adaptation progressive des entreprises à la directive, en privilégiant les délais pour les PME et les mesures flexibles. Elle cherche à concilier ses objectifs environnementaux avec la préservation de son secteur économique. En s'appuyant sur des alliances stratégiques, elle défend une approche qui permet aux entreprises hongroises de se conformer sans subir de pertes économiques importantes. Cette stratégie est renforcée par un soutien actif à l'innovation et aux investissements dans les secteurs clés comme l'énergie et la technologie.",
+    "alliances": [
+      "France (collaboration sur les projets d'hydrogène vert et de transition énergétique)",
+      "Pologne (partage des préoccupations concernant les contraintes économiques pour les PME)",
+      "S&D (soutien aux investissements dans les régions défavorisées pour favoriser l'équité économique)",
+      "PPE (accord sur la préservation de la stabilité économique et industrielle face à des normes environnementales strictes)",
+      "Énergies fossiles (defense d'une transition progressive plutôt qu'imposée, soutien aux industries traditionnelles)",
+      "Big Tech (soutien à l'innovation numérique qui facilite la conformité aux règles de reporting)",
+      "Automobile (protection des secteurs industriels stratégiques contre les mesures trop restrictives)"
+    ],
+    "oppositions": [
+      "Allemagne (préférence pour une transition écologique accélérée et des normes plus strictes sur le reporting environnemental)",
+      "Conservateurs (soutien à une approche plus radicale de la transition énergétique, opposés aux délais prolongés)",
+      "Verts/ALE (défense d'une application immédiate du reporting pour toutes les entreprises, y compris les PME)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Hongrie défend une approche équilibrée qui permet à ses entreprises de s'adapter progressivement aux nouvelles réglementations, évitant ainsi un impact économique négatif.",
+      "Les délais supplémentaires pour les PME favorisent une transition plus douce et moins coûteuse, ce qui est crucial pour la stabilité économique du pays.",
+      "Le soutien des partis comme le PPE et S&D renforce l'argumentaire en mettant en avant l'équité sociale et la préservation de l'emploi.",
+      "Les alliés industriels (comme Big Tech) apportent un appui technique et financier pour assurer la conformité aux normes sans compromettre la compétitivité.",
+      "La protection des secteurs traditionnels comme l'énergie et l'industrie est stratégique pour éviter une dégradation économique et sociale en Hongrie.",
+      "Les alliés politiques (comme la Pologne) partagent les mêmes préoccupations économiques, renforçant le poids de l'argumentaire dans les négociations."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "DEFAVORABLE",
+        "justification": "La Hongrie s'oppose à une accélération immédiate de la mise en œuvre du reporting, car cela pourrait placer des PME dans une situation de désavantage compétitif par rapport aux grandes entreprises. Une transition progressive est nécessaire pour garantir un équilibre entre les objectifs environnementaux et l'impact économique.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient l'idée d'une mention de la biodiversité, mais insiste sur une approche flexible pour éviter des contraintes trop coûteuses. Elle propose que cette inclusion soit accompagnée de mesures financières et techniques pour faciliter sa mise en œuvre.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie appuie fermement cet amendement car il permet aux PME de se conformer sans subir des coûts excessifs. Cet accompagnement est crucial pour éviter une dégradation économique et sociale, tout en favorisant la transition écologique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Hongrie s'oppose à une telle obligation pour les petites et moyennes entreprises, car elle pourrait accroître leurs coûts opérationnels. Cependant, elle reconnaît l'importance d'une réduction des émissions et propose un délai de mise en œuvre progressif.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par la Hongrie, vise à donner aux PME le temps nécessaire pour s'adapter aux nouvelles réglementations. Il permet d'éviter un impact économique négatif et favorise une transition écologique équilibrée. La priorité est élevée car cette mesure protège les intérêts économiques des entreprises hongroises.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie soutient cette simplification car elle réduit la charge administrative pour les petites entreprises, facilitant ainsi leur conformité aux nouvelles règles. Cela favorise une transition écologique plus accessible et moins coûteuse.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie défend cette flexibilité pour permettre aux pays de s'adapter en fonction de leurs spécificités économiques et sociales. Cela évite une uniformisation des règles qui pourrait nuire à certains secteurs ou régions.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie appuie cette exclusion car elle permet de ne pas charger des entreprises très petites, qui n'ont pas la capacité financière ou technique pour se conformer aux règles. Cela favorise un équilibre entre les objectifs environnementaux et la préservation des micro-entreprises.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l'industrie hongroise (notamment dans le secteur de l'énergie) et les objectifs climatiques. Évaluer régulièrement l'impact des mesures sur les PME, en particulier dans les régions économiquement vulnérables comme la Transylvanie. Surveiller également les risques d'inégalités entre les secteurs industriels soutenus par les alliés (comme Big Tech) et ceux opposés à certaines mesures (comme les Énergies fossiles).",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "pays",
+    "generated_at": "2025-10-25T12:16:47.843049",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Réduire la charge documentaire pour les petites entreprises.",
+      "Faciliter la conformité tout en garantissant un minimum d’information.",
+      "Assurer une transition écologique équilibrée sans pénaliser l’économie réelle.",
+      "Protéger les industries stratégiques (automobile, agriculture) face à des exigences trop contraignantes."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Favoriser une simplification opérationnelle pragmatique. L'Italie défend une approche équilibrée entre objectifs climatiques et soutien aux entreprises, en particulier les PME. Elle privilégie des mesures incitatives plutôt qu'imposées, tout en consolidant la coopération avec ses voisins méditerranéens pour l'innovation technologique et les projets de transition écologique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La simplification du reporting pour les PME de moins de 500 salariés favorise la compétitivité nationale sans compromettre l'objectif climatique.",
+      "L'Italie souligne que les PME représentent plus de 90% des entreprises italiennes, nécessitant des mesures adaptées à leur taille et à leurs ressources.",
+      "Le soutien aux secteurs stratégiques (automobile, agriculture) est crucial pour éviter un déséquilibre économique entre les pays membres.",
+      "La transition écologique doit être accompagnée de financements publics et de dispositifs incitatifs pour garantir l'acceptabilité sociale.",
+      "L'Italie propose une flexibilité nationale dans la mise en œuvre du reporting, tout en respectant les cadres européens communs.",
+      "La protection des régions économiquement vulnérables (Sud Italien) est un pilier de sa position sur les amendements.",
+      "Une coopération renforcée avec l'Espagne et le Portugal sur les projets maritimes de la Méditerranée permettra d'atteindre des objectifs climatiques communs."
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Prioriser collaboration Espagne/Portugal projets maritimes Méditerranée. Évaluer régulièrement impact mesures régions Sud (40% population, 25% investissements). Surveiller tensions Nord-Sud sur répartition fonds verts.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "pays",
+    "generated_at": "2025-10-25T11:57:55.899048",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient la mise en place d'une réglementation stricte pour les grandes entreprises, mais souligne la nécessité de s'adapter aux spécificités des secteurs industriels italiens (ex. : automobile). Elle propose une transition progressive pour éviter un impact brutal sur l'économie réelle.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE",
+        "justification": "L'Italie défend fermement l'intégration de la biodiversité dans les obligations légales, en particulier pour protéger les zones naturelles sensibles du Sud et des régions insulaires (ex. : Sardaigne). Cela renforce sa position de leader européen sur l'écologie.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "L'Italie propose un financement public ciblé pour les petites et moyennes entreprises, qui représentent plus de 90% des entreprises italiennes. Cela permettra d'assurer une transition écologique juste sans pénaliser les acteurs économiques les plus fragiles.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie s'engage à soutenir cette exigence, mais insiste sur la nécessité d'une flexibilité sectorielle. Elle propose des mesures adaptées aux industries traditionnelles (ex. : agriculture) pour éviter un impact négatif sur l'économie rurale.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE",
+        "justification": "L'Italie défend un délai supplémentaire pour les PME cotées, qui ont besoin de plus de temps pour s'adapter à la réglementation. Elle propose une approche équilibrée entre rigueur climatique et soutien aux entreprises en difficulté.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Italie défend fermement cet amendement qu'elle a elle-même proposé pour alléger la charge administrative des PME, qui représentent plus de 90% des entreprises italiennes. Cette simplification est cruciale pour éviter une perte d'emplois et préserver la compétitivité nationale.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "L'Italie propose une flexibilité nationale pour s'adapter aux réalités économiques et sociales spécifiques de chaque pays. Elle souligne que les disparités régionales entre le Nord et le Sud italien nécessitent des approches différenciées.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient partiellement cette proposition. Elle préconise une exclusion temporaire des micro-entreprises, en attendant que les conditions économiques s'améliorent et que les financements publics soient mis en place pour leur permettre de se conformer.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Respecter les spécificités nationales dans la mise en œuvre.",
+      "Garantir un cadre adaptable selon les contextes locaux.",
+      "Protéger les secteurs industriels stratégiques (charbon, métallurgie).",
+      "Mettre en place des mesures progressives pour éviter une perte de compétitivité économique.",
+      "Assurer la cohésion européenne tout en tenant compte des disparités régionales."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La stratégie de Pologne repose sur une approche équilibrée combinant la subsidiarité, la flexibilité réglementaire, et un engagement progressif vers les objectifs climatiques européens. Le pays insiste sur l'importance d'un cadre adaptable aux réalités économiques et sociales locales, tout en défendant des mesures qui préservent les secteurs industriels stratégiques (notamment le charbon). Pologne soutient une transition écologique structurée, mais refuse toute approche abrupte ou inadaptée à son contexte géographique et industriel. Elle prône une coopération renforcée avec ses partenaires européens pour concilier les objectifs climatiques et l'indépendance énergétique nationale, tout en garantissant un soutien financier aux PME et aux régions défavorisées.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big pharma (soutien réglementation laxiste pour secteurs non polluants)"
+    ],
+    "éléments_d_argumentaire": [
+      "La flexibilité nationale est essentielle pour adapter la directive aux spécificités économiques et sociales de Pologne, notamment en matière d'industrie lourde et d'énergie.",
+      "Une transition écologique radicale pourrait menacer les secteurs industriels stratégiques (charbon, métallurgie), affectant la stabilité économique du pays.",
+      "La subsidiarité doit primer pour éviter une uniformisation des règles qui négligeraient les disparités régionales et sectorielles de Pologne.",
+      "Le soutien aux PME et aux petites entreprises est crucial pour assurer une transition juste et inclusive, sans pénaliser les acteurs économiques locaux.",
+      "La coopération transfrontalière avec les pays voisins (notamment la France et l'Italie) renforce la crédibilité de Pologne dans la mise en œuvre des objectifs climatiques européens.",
+      "Le développement des énergies propres doit être accompagné d'investissements massifs pour garantir une transition sans perte de compétitivité industrielle.",
+      "La directive doit intégrer un volet spécifique sur la biodiversité, alignant les objectifs écologiques avec les priorités nationales de Pologne."
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions secteur énergétique (centrales charbon, régions Sud-Est dépendantes du charbon). Évaluer impact des mesures climatiques sur l'économie industrielle. Surveiller la position de la gauche unitaire et les conflits avec les partis conservateurs sur le rythme de transition.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "pays",
+    "generated_at": "2025-10-25T20:48:09.295240",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Pologne estime que l'accélération de la mise en œuvre des obligations de reporting pourrait mettre une pression excessive sur ses secteurs industriels traditionnels, notamment le charbon et la métallurgie, qui ont besoin d'une transition progressive pour éviter un impact économique négatif. Cependant, elle s'engage à respecter les objectifs climatiques européens dans un cadre adapté.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE",
+        "justification": "Pologne soutient cet amendement car il renforce l'alignement des obligations de reporting avec les objectifs de préservation de la biodiversité, ce qui correspond à ses priorités écologiques et aux engagements internationaux. Cet élément permettrait d'intégrer un suivi spécifique des impacts environnementaux sur les écosystèmes locaux.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "Pologne défend cet amendement qui permettrait de soutenir les petites entreprises, particulièrement dans les régions économiquement vulnérables. Cela favoriserait une transition juste et inclusive, tout en préservant la compétitivité du tissu économique national.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "NEUTRE",
+        "justification": "Pologne ne s'oppose pas à cet amendement mais souligne l'importance d'un cadre flexible et équilibré. Elle considère que la publication obligatoire d'objectifs de réduction d'émissions doit être accompagnée de mesures concrètes pour éviter une surcharge réglementaire non adaptée aux réalités économiques locales.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Pologne est favorable à cet amendement dans la mesure où il permettrait aux PME cotées d'adapter leur stratégie de conformité sans compromettre les objectifs climatiques européens. Cependant, elle insiste sur l'importance d'une mise en œuvre progressive et bien encadrée.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Pologne soutient cet amendement car il réduit la charge administrative pour les petites entreprises, qui sont souvent moins équipées pour respecter les obligations réglementaires complexes. Cela favoriserait une transition écologique plus inclusive et équitable.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "Pologne est l'initiateur de cet amendement, qui permettrait aux États membres d'adapter les obligations de reporting à leurs réalités économiques et sociales. Cet élément est essentiel pour éviter une uniformisation inadaptée des règles européennes, tout en garantissant la convergence vers les objectifs climatiques communs.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Pologne est favorable à cet amendement, mais souligne l'importance de disposer de mécanismes de soutien pour ces entreprises. L'exclusion des micro-entreprises doit être accompagnée d'initiatives pour leur permettre de respecter les obligations écologiques sans surcharge réglementaire.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Non porteur - Supporte globalement le reporting avec vigilance sur la charge pour les entreprises.",
+    "enjeux_directive": [
+      "Assurer transparence sans surcharger les acteurs économiques.",
+      "Encourager le reporting numérique innovant.",
+      "Médiation entre objectifs climatiques et compétitivité industrielle",
+      "Soutien aux PME dans la transition énergétique",
+      "Conciliation entre ambitions européennes et logiques sectorielles allemandes"
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Allemagne.",
+      "La position de Allemagne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Allemagne adopte une approche pragmatique, combinant soutien à la transparence environnementale avec une volonté d'éviter les charges excessives pour les entreprises. Elle privilégie un reporting renforcé mais progressif, associant des mesures de flexibilité nationale aux exigences européennes. Son objectif est de positionner l'industrie allemande comme pionnière dans la transition verte tout en maintenant son excellence industrielle (automobile, chimie). Elle défend un cadre réglementaire qui favorise les investissements durables mais évite les distorsions de concurrence. La priorité est donnée aux PME via des mesures d'accompagnement financier et à la simplification administrative pour les petites entreprises.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à la suppression des subventions sectorielles)",
+      "Big pharma (opposition à la transparence renforcée)"
+    ],
+    "éléments_d_argumentaire": [
+      "Priorité aux PME: La directive doit inclure des mesures d'accompagnement financier adaptées pour les petites entreprises, qui constituent le socle économique allemand.",
+      "Équilibre réglementaire: Le reporting ne doit pas devenir un frein à l'innovation industrielle, en particulier dans les secteurs stratégiques comme la chimie et l'automobile.",
+      "Soutien aux technologies vertes: L'Allemagne défend des mécanismes incitatifs pour le développement d'énergies renouvelables (hydrogène, éolien offshore) sans surcharger les entreprises.",
+      "Flexibilité nationale: Les Länder allemands doivent conserver une marge de manœuvre dans l'application du reporting, en raison des disparités régionales (ex: Bade-Wurtemberg vs Mecklembourg-Poméranie-Occidentale).",
+      "Soutien à la transition numérique: La directive doit encourager les investissements dans les infrastructures numériques et le digitale de l'économie.",
+      "Protection des secteurs stratégiques: Les industries allemandes (automobile, chimie) doivent être protégées contre les distorsions de concurrence liées à la transition écologique.",
+      "Valorisation du nucléaire: L'Allemagne défend un rôle résiduel mais calculé pour le nucléaire dans la mix énergétique, comme levier de stabilité électrique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement car il aligne avec sa stratégie de transition énergétique accélérée et permet d'augmenter les investissements dans l'hydrogène vert, secteur clé pour sa neutralité carbone 2045. Cela renforce aussi la conformité des grands groupes allemands (BASF, Volkswagen) avec les normes européennes.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Bien que l'Allemagne soutienne la protection de la biodiversité, elle préconise une approche progressive. Les entreprises allemandes du secteur agricole (Bayer) et de la construction nécessitent des dispositions techniques adaptées pour éviter les surcoûts non justifiés.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne est favorable à cet amendement car elle reconnaît les limites des PME dans l'adaptation aux nouvelles réglementations. Cela permettrait de préserver le tissu économique allemand, particulièrement dans les régions rurales et en déclin industriel.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "NEUTRE",
+        "justification": "L'Allemagne est neutre sur cet amendement car elle considère que l'obligation doit être graduée, en fonction des secteurs. Les PME et les entreprises du sud-est allemand (ex: Saxe) nécessitent un délai supplémentaire pour s'adapter.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose partiellement à cet amendement car elle estime que la transition ne doit pas être reportée. Cependant, elle propose des mesures d'accompagnement spécifiques pour les PME allemandes.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement car elle veut éviter la surcharge administrative pour les PME allemandes, particulièrement dans les régions économiquement fragiles comme le sud-ouest.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend cette mesure pour respecter les disparités régionales (ex: Bavière vs Brandebourg) et permettre des adaptations sectorielles, notamment dans l'industrie lourde.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient l'idée d'exclusion des micro-entreprises mais propose des seuils adaptés pour éviter la fragmentation. Elle est particulièrement attentive aux secteurs de la petite agriculture et de la restauration.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre les régions industrielles (Saxony, Rhénanie) et objectifs climatiques directive. Position nucléaire délicate (réticences historiques). Équilibrer transition énergétique et compétitivité secteur automobile (Volkswagen, BMW).",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "pays",
+    "generated_at": "2025-10-25T11:28:08.183372",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Non porteur - Soutient la simplification et le maintien d’exigences élevées.",
+    "enjeux_directive": [
+      "Maintenir un haut standard européen de durabilité et transparence.",
+      "Harmoniser et renforcer la confiance dans les données.",
+      "Assurer une transition écologique rapide tout en préservant la compétitivité industrielle suédoise.",
+      "Équilibrer les exigences réglementaires avec les besoins des PME."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Suède adopte une approche pragmatique en défendant des normes élevées tout en favorisant la simplification réglementaire. Elle s’engage à soutenir les PME via des mesures financières, en alignant ses priorités sur l’innovation technologique et la transition écologique. En matière d’alliances, elle privilégie les pays partageant ses objectifs climatiques (France, Italie) et s’appuie sur les Verts/ALE pour renforcer sa position sur le reporting environnemental. Elle oppose cependant des acteurs comme Hongrie ou les lobbies fossiles, qui défendent une approche plus lente de la transition énergétique. Sa stratégie repose sur un équilibre entre exigences européennes strictes et souplesse nationale pour éviter un surcoût réglementaire, tout en maintenant son leadership dans les secteurs verte et numérique.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Suède justifie son soutien à la simplification réglementaire pour éviter des coûts excessifs sur les PME, tout en maintenant un cadre strict pour les grandes entreprises.",
+      "Elle insiste sur l’importance d’un reporting environnemental ambitieux, aligné sur ses objectifs climatiques nationaux de neutralité carbone 2045.",
+      "La Suède défend la nécessité d’une flexibilité nationale pour s’adapter aux spécificités économiques et industrielles suédoises.",
+      "Elle valorise les investissements dans les infrastructures numériques, soutenus par le lobbying Big Tech, comme un levier de croissance verte.",
+      "L’alliance avec l’industrie automobile permet de protéger des secteurs stratégiques tout en favorisant une transition vers une mobilité durable.",
+      "La collaboration avec les Verts/ALE renforce la crédibilité de Suède sur les objectifs climatiques européens, tout en évitant un alignement excessif avec des partis plus radicaux.",
+      "Le soutien des banques à des investissements structuraux en énergie renouvelable justifie une approche favorables aux amendements facilitant l’accès au financement."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-5A",
+        "titre": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026",
+        "position": "FAVORABLE",
+        "justification": "Suède soutient cet amendement car il renforce la transparence environnementale et aligne les exigences européennes sur ses objectifs climatiques nationaux. Cela favorise un suivi rigoureux des émissions, crucial pour atteindre la neutralité carbone 2045.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer l’application du reporting pour toutes les grandes entreprises dès 2026"
+      },
+      {
+        "amendement": "1-5B",
+        "titre": "Inclure un volet spécifique sur la biodiversité dans le reporting",
+        "position": "FAVORABLE",
+        "justification": "Suède appuie cette mesure pour intégrer des critères environnementaux plus complets, renforçant sa position de leader en matière de durabilité et de protection des écosystèmes nordiques vulnérables.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Inclure un volet spécifique sur la biodiversité dans le reporting"
+      },
+      {
+        "amendement": "1-5C",
+        "titre": "Instaurer un accompagnement financier pour les PME pour la mise en conformité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Suède est favorable à condition que les financements soient accessibles aux PME suédoises, qui ont besoin de soutien pour s’adapter sans compromettre leur compétitivité.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Instaurer un accompagnement financier pour les PME pour la mise en conformité"
+      },
+      {
+        "amendement": "1-5D",
+        "titre": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement renforce la transparence et contraint les entreprises à adopter des stratégies climatiques concrètes, alignées sur les ambitions suédoises de réduction des émissions.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Rendre obligatoire la publication d’objectifs de réduction d’émissions pour toutes les entreprises concernées"
+      },
+      {
+        "amendement": "1-5E",
+        "titre": "Reporter de deux ans l’application pour les PME cotées",
+        "position": "NEUTRE",
+        "justification": "Suède reste neutre sur cette mesure, souhaitant éviter un report trop long qui pourrait décourager la mise en conformité proactive des PME.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter de deux ans l’application pour les PME cotées"
+      },
+      {
+        "amendement": "1-5F",
+        "titre": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés",
+        "position": "FAVORABLE",
+        "justification": "Cette simplification est nécessaire pour réduire la charge administrative sur les PME, tout en maintenant un minimum d’exigences environnementales.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Simplifier le contenu des informations à publier pour les entreprises de moins de 500 salariés"
+      },
+      {
+        "amendement": "1-5G",
+        "titre": "Permettre une flexibilité nationale dans la mise en œuvre du reporting",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Suède appuie cette mesure à condition qu’elle ne compromette pas les standards européens, permettant ainsi d’adapter le cadre aux réalités suédoises tout en maintenant une harmonisation.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Permettre une flexibilité nationale dans la mise en œuvre du reporting"
+      },
+      {
+        "amendement": "1-5H",
+        "titre": "Exclure les micro-entreprises du champ d’application",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Suède s’oppose partiellement à cette exclusion, craignant que cela crée un décalage entre les PME et les micro-entreprises, risquant de fragmenter la responsabilité environnementale.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure les micro-entreprises du champ d’application"
+      }
+    ],
+    "références": [
+      "s1d5.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre lobbies fossiles (Pologne, Hongrie) et objectifs climatiques directive. Évaluer régulièrement impact des mesures sur les industries suédoises dépendantes de la transition énergétique. Recommander renforcer dialogue avec PME pour éviter un surcoût réglementaire.",
+    "scenario_id": 1,
+    "directive_id": 5,
+    "actor_type": "pays",
+    "generated_at": "2025-10-25T21:03:59.910083",
+    "version": "4.7"
+  }
+]

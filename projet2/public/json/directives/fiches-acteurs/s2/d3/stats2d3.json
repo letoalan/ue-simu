@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 3,
+  "nom": "Solidarité migratoire européenne",
+  "valeurs_prevues": {
+    "normandie_eu": 82,
+    "vdem_eu": 0.88,
+    "pib_growth_eu": 1.5,
+    "idh_eu": 0.92
+  },
+  "amendements": [
+    {
+      "id": "2-3A",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 81,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-3B",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "normandie_eu": 83,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-3C",
+      "origine": "Conservateurs & Réformistes",
+      "valeurs_prevues": {
+        "normandie_eu": 82,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-3D",
+      "origine": "Gauche Unitaire",
+      "valeurs_prevues": {
+        "normandie_eu": 83,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-3E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 84,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.91
+      }
+    },
+    {
+      "id": "2-3F",
+      "origine": "Suède",
+      "valeurs_prevues": {
+        "normandie_eu": 85,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.91
+      }
+    },
+    {
+      "id": "2-3G",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "normandie_eu": 83,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.92
+      }
+    },
+    {
+      "id": "2-3H",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 84,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.91
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "scenario": 1,
+  "directive": 7,
+  "nom": "Plan logement social et rénovation durable",
+  "valeurs_prevues": {
+    "pib_eu": 2.1,
+    "gini_eu": 0.26,
+    "co2_eu": 5.5,
+    "veb_eu": 87
+  },
+  "amendements": [
+    {
+      "id": "1-7A",
+      "origine": "Gauche Unitaire",
+      "valeurs_prevues": {
+        "pib_eu": 2.2,
+        "gini_eu": 0.24,
+        "co2_eu": 5.0,
+        "veb_eu": 89
+      }
+    },
+    {
+      "id": "1-7B",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.25,
+        "co2_eu": 4.8,
+        "veb_eu": 90
+      }
+    },
+    {
+      "id": "1-7C",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.24,
+        "co2_eu": 5.4,
+        "veb_eu": 88
+      }
+    },
+    {
+      "id": "1-7D",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.23,
+        "co2_eu": 5.5,
+        "veb_eu": 89
+      }
+    },
+    {
+      "id": "1-7E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.27,
+        "co2_eu": 5.7,
+        "veb_eu": 86
+      }
+    },
+    {
+      "id": "1-7F",
+      "origine": "Allemagne",
+      "valeurs_prevues": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.28,
+        "co2_eu": 5.6,
+        "veb_eu": 85
+      }
+    },
+    {
+      "id": "1-7G",
+      "origine": "Italie",
+      "valeurs_prevues": {
+        "pib_eu": 2.1,
+        "gini_eu": 0.27,
+        "co2_eu": 5.8,
+        "veb_eu": 86
+      }
+    },
+    {
+      "id": "1-7H",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "pib_eu": 2.0,
+        "gini_eu": 0.27,
+        "co2_eu": 5.6,
+        "veb_eu": 86
+      }
+    }
+  ]
+}

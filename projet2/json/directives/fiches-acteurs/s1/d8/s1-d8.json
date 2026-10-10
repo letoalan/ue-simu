@@ -1,0 +1,753 @@
+{
+  "directive": {
+    "id": "1-8",
+    "title": "Fédéralisme fiscal européen",
+    "description": "La présente directive vise à instaurer un cadre fiscal harmonisé au sein de l’Union européenne, en alignant les taux d’imposition sur les sociétés et de TVA afin de lutter contre l’évasion fiscale, d’assurer une concurrence loyale et de renforcer la solidarité budgétaire. Elle s’inscrit dans la continuité des priorités du Conseil européen pour une Europe plus intégrée, compétitive et équitable, tout en garantissant la subsidiarité et la proportionnalité des mesures adoptées."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "Promouvoir un cadre fiscal harmonisé pour renforcer la solidarité, l’équité fiscale et la compétitivité de l’Union. La Commission joue le rôle de médiateur pour trouver un compromis entre les États membres et les partis politiques.",
+    "enjeux_directive": [
+      "Lutter efficacement contre l’évasion et la fraude fiscale.",
+      "Assurer une concurrence loyale entre États membres.",
+      "Renforcer la solidarité budgétaire et le financement commun des politiques européennes.",
+      "Garantir la subsidiarité et la proportionnalité des mesures."
+    ],
+    "impacts_directive": [
+      "La directive renforce le rôle de la Commission en tant que garant de l’équité fiscale et de l’intégration économique en Europe.",
+      "Augmenter les recettes fiscales de 150 Md€/an, améliorer la justice fiscale et renforcer l’intégration économique européenne."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-8A",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "impact": "Cet amendement renforcerait la justice fiscale et les ressources de l’UE, mais pourrait être perçu comme un frein à la compétitivité financière."
+      },
+      {
+        "id": "1-8B",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique",
+        "impact": "Cet amendement alignerait la fiscalité sur les objectifs environnementaux, mais pourrait complexifier l’affectation des budgets."
+      },
+      {
+        "id": "1-8C",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées",
+        "impact": "Cet amendement renforcerait la solidarité territoriale, mais nécessiterait des mécanismes de redistribution complexes."
+      },
+      {
+        "id": "1-8D",
+        "origine": "Socialistes et Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "impact": "Cet amendement améliorerait la lutte contre la fraude fiscale, mais pourrait être jugé trop contraignant pour les entreprises."
+      },
+      {
+        "id": "1-8E",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "impact": "Cet amendement assouplirait la mise en œuvre pour les États, mais pourrait affaiblir l’harmonisation."
+      },
+      {
+        "id": "1-8F",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "impact": "Cet amendement protégerait les petites entreprises, mais créerait une inégalité de traitement fiscal."
+      },
+      {
+        "id": "1-8G",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "impact": "Cet amendement permettrait une adaptation progressive, mais retarderait les bénéfices de l’harmonisation."
+      },
+      {
+        "id": "1-8H",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "impact": "Cet amendement tiendrait compte des disparités économiques, mais pourrait fragiliser l’uniformité du système."
+      }
+    ],
+    "stratégie": "Trouver un équilibre entre harmonisation fiscale et respect des spécificités nationales. La Commission soutient les amendements qui renforcent l’équité et la transparence sans compromettre la compétitivité.",
+    "alliances": [
+      "Socialistes et Démocrates",
+      "Renouveau Européen"
+    ],
+    "oppositions": [
+      "Hongrie",
+      "Pologne",
+      "Conservateurs et Réformistes"
+    ],
+    "éléments_d_argumentaire": [
+      "L’harmonisation fiscale est essentielle pour une Union économique plus juste et intégrée.",
+      "Cette directive permettra de lutter contre la concurrence fiscale déloyale et de financer les politiques communes."
+    ],
+    "références": [
+      "s1-d8.json (directive, commission)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Soutient une forte harmonisation mais vigilant sur la charge économique pour les entreprises.",
+      "enjeux_directive": [
+        "Assurer une concurrence fiscale équitable.",
+        "Maintenir la compétitivité des entreprises allemandes."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l’Allemagne de promouvoir un niveau de jeu équitable et de renforcer la stabilité économique de l’UE."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8D",
+          "origine": "Socialistes et Démocrates",
+          "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+          "impact": "L’Allemagne soutient cet amendement pour renforcer la lutte contre l’évasion fiscale."
+        }
+      ],
+      "stratégie": "Défendre une harmonisation robuste tout en protégeant les intérêts économiques nationaux.",
+      "alliances": [
+        "France",
+        "Suède",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Une fiscalité harmonisée est un pilier du marché unique. Elle garantit une concurrence loyale et prévient le dumping fiscal."
+      ],
+      "références": [
+        "s1-d8.json (countries, Allemagne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Porte un amendement pour exclure les PME de l’harmonisation de l’impôt sur les sociétés.",
+      "enjeux_directive": [
+        "Protéger les petites entreprises locales de contraintes excessives.",
+        "Favoriser la compétitivité des PME et leur dynamisme économique.",
+        "Concilier harmonisation fiscale et spécificités des structures nationales."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la France de promouvoir une justice fiscale tout en préservant son tissu économique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8F",
+          "origine": "France",
+          "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+          "impact": "La France soutient cet amendement pour protéger ses petites et moyennes entreprises."
+        }
+      ],
+      "stratégie": "Chercher un compromis équilibré entre harmonisation et protection des PME.",
+      "alliances": [
+        "Allemagne",
+        "Italie",
+        "Parti Populaire Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "Les PME sont le cœur de l’économie européenne. Elles doivent être protégées pour maintenir l’emploi et l’innovation."
+      ],
+      "références": [
+        "s1-d8.json (countries, France)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Italie",
+      "role_europeen": "Porte un amendement pour reporter l’application de l’harmonisation fiscale de deux ans.",
+      "enjeux_directive": [
+        "Prévoir un délai pour l’adaptation des systèmes fiscaux nationaux.",
+        "Assurer une transition ordonnée et mûrie.",
+        "Réduire le choc pour les acteurs économiques."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l’Italie de moderniser sa fiscalité dans un cadre européen sécurisé."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8G",
+          "origine": "Italie",
+          "description": "Reporter l’application de l’harmonisation fiscale de deux ans",
+          "impact": "L’Italie soutient cet amendement pour avoir le temps nécessaire à une transition en douceur."
+        }
+      ],
+      "stratégie": "Soutenir une entrée progressive dans le dispositif pour une adaptation en douceur.",
+      "alliances": [
+        "France",
+        "Hongrie",
+        "Parti Populaire Européen",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "Un report est nécessaire pour une mise en œuvre réussie. Il faut du temps pour adapter nos systèmes sans perturber l’économie."
+      ],
+      "références": [
+        "s1-d8.json (countries, Italie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Hongrie",
+      "role_europeen": "Porte un amendement pour autoriser des dérogations temporaires pour les États à faible revenu.",
+      "enjeux_directive": [
+        "Permettre une transition adaptée à la capacité économique nationale.",
+        "Garantir la soutenabilité budgétaire des pays les moins avancés.",
+        "Concilier intégration fiscale et réalités économiques."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par la Hongrie comme une menace pour sa souveraineté fiscale et sa compétitivité économique."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8H",
+          "origine": "Hongrie",
+          "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
+          "impact": "La Hongrie soutient cet amendement pour préserver sa marge de manœuvre économique."
+        }
+      ],
+      "stratégie": "S’opposer à une harmonisation trop rigide et promouvoir des mécanismes adaptés et progressifs.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "L’harmonisation doit tenir compte des différences de développement économique. Sans flexibilité, elle créera des injustices."
+      ],
+      "références": [
+        "s1-d8.json (countries, Hongrie)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Veut limiter les contraintes pour favoriser la croissance économique locale.",
+      "enjeux_directive": [
+        "Protéger les spécificités économiques nationales.",
+        "Eviter une montée trop rapide des prélèvements."
+      ],
+      "impacts_directive": [
+        "La directive est perçue comme un risque pour l’attractivité économique de la Pologne et sa souveraineté fiscale."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8H",
+          "origine": "Hongrie",
+          "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
+          "impact": "La Pologne soutient cet amendement pour défendre les intérêts des économies émergentes."
+        }
+      ],
+      "stratégie": "S’allier avec les pays partageant les mêmes préoccupations pour obtenir des exemptions et des délais.",
+      "alliances": [
+        "Hongrie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Allemagne",
+        "France",
+        "Suède"
+      ],
+      "éléments_d_argumentaire": [
+        "Une taille unique ne convient pas à tous. L’Europe doit respecter les différences de développement entre ses membres."
+      ],
+      "références": [
+        "s1-d8.json (countries, Pologne)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Porte un amendement pour permettre une flexibilité nationale sur le taux de TVA (±2%).",
+      "enjeux_directive": [
+        "Maintenir une marge de manœuvre fiscale pour les États.",
+        "Concilier harmonisation et autonomie budgétaire.",
+        "Assurer stabilité et continuité des recettes nationales."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Suède de promouvoir un cadre fiscal stable et prévisible."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8E",
+          "origine": "Suède",
+          "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+          "impact": "La Suède soutient cet amendement pour préserver une part de souveraineté fiscale."
+        }
+      ],
+      "stratégie": "Promouvoir un cadre fiscal harmonisé avec des marges de manœuvre souples pour les États.",
+      "alliances": [
+        "Allemagne",
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "éléments_d_argumentaire": [
+        "L’harmonisation est nécessaire, mais une flexibilité limitée permet de s’adapter aux contextes nationaux sans nuire à l’objectif commun."
+      ],
+      "références": [
+        "s1-d8.json (countries, Suède)"
+      ]
+    }
+  ],
+  "parties": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Favorise une harmonisation modérée tenant compte des réalités économiques.",
+      "enjeux_directive": [
+        "Assurer la compétitivité des entreprises européennes.",
+        "Éviter une surcharge fiscale excessive."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour le PPE de démontrer son engagement pour une Europe compétitive et intégrée."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8E",
+          "origine": "Suède",
+          "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+          "impact": "Le PPE soutient cet amendement pour un équilibre entre harmonisation et pragmatisme."
+        },
+        {
+          "id": "1-8F",
+          "origine": "France",
+          "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+          "impact": "Le PPE est favorable à la protection des PME proposée par cet amendement."
+        }
+      ],
+      "stratégie": "Soutenir une harmonisation fiscale progressive et réaliste, en protégeant les acteurs économiques.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Suède",
+        "Renouveau Européen"
+      ],
+      "oppositions": [
+        "Gauche Unitaire",
+        "Verts/ALE"
+      ],
+      "éléments_d_argumentaire": [
+        "Une fiscalité compétitive est la clé de la croissance européenne. L’harmonisation doit se faire sans étouffer nos entreprises."
+      ],
+      "références": [
+        "s1-d8.json (parties, Parti Populaire Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Pousse pour une fiscalité plus juste et transparente, notamment pour les multinationales.",
+      "enjeux_directive": [
+        "Améliorer la transparence et responsabiliser les grandes entreprises.",
+        "Lutter contre l’évasion fiscale et la fraude.",
+        "Renforcer la confiance des citoyens dans le système fiscal."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les S&D de promouvoir un modèle social européen fondé sur la justice fiscale."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8D",
+          "origine": "Socialistes et Démocrates",
+          "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+          "impact": "Les S&D soutiennent fermement cet amendement qui est au cœur de leur combat pour l’équité."
+        }
+      ],
+      "stratégie": "Pousser pour des règles strictes et un contrôle renforcé sur la fiscalité des multinationales.",
+      "alliances": [
+        "Verts/ALE",
+        "Gauche Unitaire",
+        "France"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Parti Populaire Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "Il est temps que les grandes entreprises paient leur juste part. La transparence est la première étape vers la justice fiscale."
+      ],
+      "références": [
+        "s1-d8.json (parties, Socialistes et Démocrates)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Prudence sur l’étendue des mesures et le rythme de la réforme.",
+      "enjeux_directive": [
+        "Concilier ambition et réalisme économique.",
+        "Promouvoir une réforme équilibrée."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour RE de promouvoir une intégration économique pragmatique et innovante."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8G",
+          "origine": "Italie",
+          "description": "Reporter l’application de l’harmonisation fiscale de deux ans",
+          "impact": "RE soutient cet amendement pour une mise en œuvre réfléchie et progressive."
+        }
+      ],
+      "stratégie": "S’assurer que la réforme fiscale soit progressive et ne nuise pas à l’innovation et à la compétitivité.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Italie",
+        "Suède"
+      ],
+      "oppositions": [
+        "Gauche Unitaire",
+        "Verts/ALE"
+      ],
+      "éléments_d_argumentaire": [
+        "L’innovation doit être au cœur de notre modèle économique. Une réforme fiscale doit la stimuler, pas la brider."
+      ],
+      "références": [
+        "s1-d8.json (parties, Renouveau Européen)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Pousse pour lier la fiscalité aux objectifs environnementaux.",
+      "enjeux_directive": [
+        "Garantir un financement durable des politiques vertes.",
+        "Associer fiscalité et objectifs environnementaux.",
+        "Renforcer la responsabilité climatique des États."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les Verts/ALE d’ancrer la transition écologique dans le financement de l’UE."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8B",
+          "origine": "Verts/ALE",
+          "description": "Allouer une part des recettes fiscales à la transition écologique",
+          "impact": "Les Verts/ALE soutiennent cet amendement crucial pour le financement de la transition verte."
+        }
+      ],
+      "stratégie": "Pousser pour une fiscalité verte qui finance directement la transition écologique.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Conservateurs et Réformistes",
+        "Parti Populaire Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "La fiscalité doit servir notre avenir. Flécher une partie des recettes vers la transition écologique est un investissement indispensable."
+      ],
+      "références": [
+        "s1-d8.json (parties, Verts/ALE)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Défend la souveraineté fiscale nationale et s’oppose à une harmonisation trop poussée.",
+      "enjeux_directive": [
+        "Défendre la souveraineté nationale sur la politique fiscale.",
+        "S’opposer à toute nouvelle réglementation européenne qui serait un fardeau pour les États membres."
+      ],
+      "impacts_directive": [
+        "La directive est perçue par les C&R comme une atteinte à la souveraineté nationale et un frein à la compétitivité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8C",
+          "origine": "Conservateurs et Réformistes",
+          "description": "Créer un fonds de cohésion pour les régions défavorisées",
+          "impact": "Les C&R soutiennent cet amendement qui propose une alternative de solidarité sans harmonisation contraignante."
+        },
+        {
+          "id": "1-8H",
+          "origine": "Hongrie",
+          "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
+          "impact": "Les C&R soutiennent cet amendement qui défend la différenciation entre États membres."
+        }
+      ],
+      "stratégie": "S’opposer à l’harmonisation fiscale et promouvoir la coopération volontaire et la subsidiarité.",
+      "alliances": [
+        "Hongrie",
+        "Pologne"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "La compétence fiscale doit rester nationale. Bruxelles ne doit pas dicter aux États comment lever leurs impôts."
+      ],
+      "références": [
+        "s1-d8.json (parties, Conservateurs et Réformistes)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire",
+      "role_europeen": "Pousse pour une fiscalité très progressive et une taxation forte de la finance.",
+      "enjeux_directive": [
+        "Renforcer la fiscalité sociale et écologique.",
+        "Lutter contre la spéculation financière.",
+        "Augmenter les ressources pour la transition écologique et sociale."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour la Gauche Unitaire de promouvoir une rupture avec les politiques fiscales néolibérales."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8A",
+          "origine": "Gauche Unitaire",
+          "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+          "impact": "La Gauche Unitaire soutient cet amendement qui est une proposition phare de son programme."
+        }
+      ],
+      "stratégie": "Pousser pour des mesures structurelles fortes de justice fiscale, notamment une taxe sur les transactions financières.",
+      "alliances": [
+        "Socialistes et Démocrates",
+        "Verts/ALE"
+      ],
+      "oppositions": [
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes",
+        "Renouveau Européen"
+      ],
+      "éléments_d_argumentaire": [
+        "Il est temps de faire payer ceux qui ont profité du système. Une taxe sur la finance est une question de justice sociale."
+      ],
+      "références": [
+        "s1-d8.json (parties, Gauche Unitaire)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les intérêts des entreprises technologiques, qui cherchent à influencer les politiques fiscales pour minimiser leur charge.",
+      "enjeux_directive": [
+        "S’opposer à une fiscalité trop lourde et spécifique sur les acteurs numériques.",
+        "Promouvoir un cadre fiscal flexible et propice à l’innovation."
+      ],
+      "impacts_directive": [
+        "La directive pourrait uniformiser et potentiellement alourdir la fiscalité pour le secteur numérique en Europe."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8E",
+          "origine": "Suède",
+          "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+          "impact": "Big Tech soutient cet amendement pour préserver des niches de compétitivité fiscale."
+        }
+      ],
+      "stratégie": "Lobbying pour un cadre fiscal light et des exemptions, en s’alliant avec les partis et États libéraux.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen",
+        "Suède"
+      ],
+      "oppositions": [
+        "Socialistes et Démocrates",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "Une fiscalité trop lourde tuera l’innovation numérique en Europe. Nous avons besoin de règles qui encouragent la croissance."
+      ],
+      "références": [
+        "s1-d8.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Energies fossiles",
+      "role_europeen": "Représente les industries du gaz et du pétrole, et vise à minimiser les taxes et redevances environnementales.",
+      "enjeux_directive": [
+        "Lobby pour retarder ou réduire la pression fiscale liée aux émissions et à l’environnement.",
+        "Recherche d’allégements fiscaux pour le secteur énergétique conventionnel."
+      ],
+      "impacts_directive": [
+        "La directive pourrait faciliter la mise en place de taxes carbone ou environnementales harmonisées, ce qui nuirait au secteur."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8H",
+          "origine": "Hongrie",
+          "description": "Autoriser des dérogations temporaires pour les États à faible revenu",
+          "impact": "Le lobby des énergies fossiles soutient cet amendement pour éviter une application stricte des normes."
+        }
+      ],
+      "stratégie": "S’allier avec les États dépendants des énergies fossiles pour obtenir des exemptions et reporter les échéances.",
+      "alliances": [
+        "Hongrie",
+        "Pologne",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "éléments_d_argumentaire": [
+        "Une transition énergétique brutale coûtera cher aux citoyens. La fiscalité doit être progressive et ne pas pénaliser notre sécurité énergétique."
+      ],
+      "références": [
+        "s1-d8.json (lobbies, Energies fossiles)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente les intérêts du secteur financier, cherchant à influencer les mécanismes de taxation et de transparence.",
+      "enjeux_directive": [
+        "Promotion d’une fiscalité claire et stable pour les investissements.",
+        "Soutenir la transparence fiscale pour réduire les risques, mais s’opposer à des taxes spécifiques comme la TTF."
+      ],
+      "impacts_directive": [
+        "La directive pourrait introduire plus de transparence et de stabilité, mais aussi des taxes spécifiques néfastes pour le secteur."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8A",
+          "origine": "Gauche Unitaire",
+          "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+          "impact": "Le lobby de la finance s’oppose farouchement à cet amendement qu’il considère comme néfaste."
+        }
+      ],
+      "stratégie": "Défendre un cadre fiscal stable et prévisible pour les investissements, et lutter contre toute taxe spécifique sur les transactions.",
+      "alliances": [
+        "Parti Populaire Européen",
+        "Renouveau Européen",
+        "Suède"
+      ],
+      "oppositions": [
+        "Gauche Unitaire",
+        "Socialistes et Démocrates"
+      ],
+      "éléments_d_argumentaire": [
+        "La stabilité fiscale est le fondement de la confiance des investisseurs. Une taxe sur les transactions nuirait à la compétitivité européenne."
+      ],
+      "références": [
+        "s1-d8.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Représente les entreprises de l’agrochimie, cherchant à minimiser la fiscalité sur les intrants agricoles.",
+      "enjeux_directive": [
+        "Plaide pour des règles fiscales adaptées à l’agriculture et à l’industrie chimique.",
+        "Appui aux dérogations ou ajustements pour ne pas pénaliser la filière."
+      ],
+      "impacts_directive": [
+        "L’harmonisation pourrait mener à une taxation plus forte des produits chimiques, affectant la compétitivité du secteur."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8F",
+          "origine": "France",
+          "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+          "impact": "Le lobby de l’agrochimie soutient cet amendement, de nombreuses entreprises du secteur étant des PME."
+        }
+      ],
+      "stratégie": "S’allier avec les pays et partis défendant les intérêts agricoles et industriels pour obtenir des exemptions.",
+      "alliances": [
+        "Pologne",
+        "Hongrie",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE"
+      ],
+      "éléments_d_argumentaire": [
+        "Notre secteur est crucial pour la sécurité alimentaire européenne. Une fiscalité punitive mettrait en péril notre compétitivité face aux importations."
+      ],
+      "références": [
+        "s1-d8.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharma",
+      "role_europeen": "Représente l’industrie pharmaceutique, cherchant à promouvoir une fiscalité favorable à l’innovation et à la R&D.",
+      "enjeux_directive": [
+        "Soutenir une fiscalité incitative pour la recherche et l’innovation.",
+        "Promouvoir la transparence fiscale pour un environnement stable."
+      ],
+      "impacts_directive": [
+        "La directive pourrait offrir un cadre fiscal stable, favorable aux investissements de long terme dans la R&D."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-8D",
+          "origine": "Socialistes et Démocrates",
+          "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+          "impact": "Le lobby pharmaceutique soutient une transparence raisonnable qui renforce la confiance sans divulguer de secrets commerciaux."
+        }
+      ],
+      "stratégie": "S’allier avec les partis et États favorables à l’innovation pour promouvoir des crédits d’impôt et une stabilité fiscale.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen",
+        "Allemagne",
+        "Suède"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La recherche sauve des vies. Une fiscalité stable et prévisible est essentielle pour investir dans les médicaments de demain."
+      ],
+      "références": [
+        "s1-d8.json (lobbies, Pharma)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l’industrie automobile, cherchant à influencer la fiscalité liée à la mobilité et à la transition.",
+      "enjeux_directive": [
+        "Veiller à ce que la fiscalité ne dégrade pas la compétitivité de l’industrie.",
+        "Recherche des mesures incitatives pour la transition écologique (ex: bonus/malus harmonisé)."
+      ],
+      "impacts_directive": [
+        "L’harmonisation fiscale pourrait simplifier les règles pour le secteur, mais aussi standardiser des taxes défavorables."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Pousser pour une harmonisation des taxes d’immatriculation et des incitations à l’achat de véhicules propres.",
+      "alliances": [
+        "Allemagne",
+        "France",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L’industrie automobile est en pleine transition. Une fiscalité européenne cohérente peut accélérer le passage à la mobilité propre."
+      ],
+      "références": [
+        "s1-d8.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

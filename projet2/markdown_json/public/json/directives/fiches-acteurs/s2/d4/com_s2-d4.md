@@ -1,0 +1,130 @@
+# com\_s2-d4
+
+Source : `directives/fiches-acteurs/s2/d4/com_s2-d4.json`
+
+## Contenu
+
+- **type** : Commission
+- **nom** : Commission européenne
+- **actor\_id** : commission
+- **role\_europeen** : Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.
+- **enjeux\_directive** :
+  - Garantir la sécurité et la souveraineté agricoles de l'Union européenne en réduisant la dépendance aux importations alimentaires et d'intrants.
+  - Soutenir la production agricole locale et les circuits courts pour renforcer la résilience des territoires ruraux.
+  - Équilibrer souveraineté agricole, transition agroécologique et viabilité économique des exploitations.
+  - Anticiper les tensions de marché entre pays agricoles exportateurs nets et pays importateurs nets.
+  - Promouvoir l'agronomie de précision, la modélisation météorologique et l'anticipation des calamités agricoles pour limiter les pertes de récoltes.
+  - Assurer une répartition équitable des ressources entre régions rurales productrices et grands bassins de consommation.
+- **impacts\_directive** :
+  - La directive renforcera le rôle de la Commission dans la régulation et la gestion coordonnée des réserves stratégiques agricoles européennes.
+  - La Commission verra son autorité consolidée pour équilibrer transition agroécologique et sécurité des approvisionnements alimentaires.
+- **stratégie** : La Commission européenne adopte une approche transversale pour garantir la cohérence entre transition agroécologique, résilience alimentaire et équilibre budgétaire. Elle privilégie le dialogue stratégique avec les États membres et les filières agricoles pour aligner les mesures sur les priorités de l'Union. La stratégie se concentre sur trois piliers : 1) bâtir un filet de sécurité céréalier crédible face aux crises géopolitiques et climatiques, 2) accompagner la transition agroécologique sans compromettre la viabilité économique des exploitants, et 3) harmoniser les politiques nationales de stockage pour prévenir toute distorsion de concurrence au sein du marché unique.
+- **alliances** :
+  - France (soutien à l'autonomie agricole, régulation des marchés et gestion des stocks)
+  - Italie (promotion des signes de qualité AOP/IGP, circuits courts et résilience hydrique)
+  - Verts/ALE (soutien à la transition agroécologique et préservation des sols)
+  - S&D (soutien aux circuits courts, label européen et accessibilité alimentaire)
+  - Banque et Finance (financement des capacités de stockage et modernisation des exploitations)
+  - Automobile (décarbonation du machinisme agricole et logistique alimentaire durable)
+  - Big Tech (outils numériques d'agronomie de précision, prévisions météo et anticipation des calamités agricoles par l'IA)
+- **oppositions** :
+  - Hongrie (demande de report de deux ans et flexibilité excessive sur les stocks)
+  - Pologne (demande de priorisation exclusive des grandes exploitations céréalières)
+  - Conservateurs et Réformistes (opposition aux contraintes réglementaires et surcoûts bureaucratiques)
+  - Énergies fossiles (inquiétude sur les coûts énergétiques du séchage et stockage des céréales)
+  - Agrochimie (résistance aux contraintes sur les intrants et défense du modèle conventionnel)
+- **éléments\_d\_argumentaire** :
+  - La directive renforce l'autosuffisance et la souveraineté agricoles européennes face aux chocs géopolitiques et aux dérèglements climatiques mondiaux.
+  - L'intégration des circuits courts favorise une économie rurale plus résiliente, tout en soutenant équitablement les petits producteurs locaux.
+  - La transition agroécologique est indispensable pour préserver la fertilité des sols et garantir la durabilité de la production à long terme.
+  - Les mécanismes de stockage stratégique évitent les flambées spéculatives de prix et harmonisent les conditions de marché entre États membres.
+  - Le soutien aux innovations ciblées (agronomie de précision, modélisation météorologique et anticipation des calamités agricoles) optimise l'usage des ressources naturelles.
+  - La coordination européenne garantit une solidarité effective entre pays excédentaires et déficitaires lors de crises alimentaires imprévues.
+- **positions\_amendements** :
+  - **Élément 1** :
+    - **amendement** : 2-4A
+    - **titre** : Porter la réserve stratégique à 9 mois
+    - **position** : FAVORABLE\_CONDITIONNEL
+    - **justification** : Cette mesure renforcerait considérablement la sécurité alimentaire européenne face aux crises géopolitiques prolongées, mais elle exige une gestion rigoureuse des coûts d'immobilisation des stocks.
+    - **priorite** : haute
+    - **origine** : Renouveau Européen
+    - **description** : Porter la réserve stratégique à 9 mois
+  - **Élément 2** :
+    - **amendement** : 2-4B
+    - **titre** : Conditionner les aides à la transition agroécologique
+    - **position** : FAVORABLE
+    - **justification** : Ce dispositif aligne le soutien public sur les impératifs de préservation des sols et de réduction des intrants, garantissant une résilience agricole durable.
+    - **priorite** : haute
+    - **origine** : Verts/ALE
+    - **description** : Conditionner les aides à la transition agroécologique
+  - **Élément 3** :
+    - **amendement** : 2-4C
+    - **titre** : Instaurer un fonds européen pour la relocalisation alimentaire
+    - **position** : FAVORABLE
+    - **justification** : Ce fonds renforce l'indépendance productive locale et revitalise les zones rurales défavorisées en rapprochant production et consommation.
+    - **priorite** : haute
+    - **origine** : Gauche Unitaire
+    - **description** : Instaurer un fonds européen pour la relocalisation alimentaire
+  - **Élément 4** :
+    - **amendement** : 2-4D
+    - **titre** : Créer un label européen de circuits courts
+    - **position** : FAVORABLE
+    - **justification** : Ce label offre une transparence accrue aux consommateurs et valorise économiquement les producteurs engagés dans des filières de proximité.
+    - **priorite** : moyenne
+    - **origine** : Socialistes & Démocrates
+    - **description** : Créer un label européen de circuits courts
+  - **Élément 5** :
+    - **amendement** : 2-4E
+    - **titre** : Limiter la réserve stratégique à 3 mois
+    - **position** : DEFAVORABLE\_PARTIEL
+    - **justification** : Un horizon de 3 mois réduit les coûts de stockage mais limite fortement la capacité de résilience de l'Union en cas de mauvaise récolte majeure consécutive.
+    - **priorite** : moyenne
+    - **origine** : France
+    - **description** : Limiter la réserve stratégique à 3 mois
+  - **Élément 6** :
+    - **amendement** : 2-4F
+    - **titre** : Exclure certains produits agricoles de la réserve
+    - **position** : DEFAVORABLE
+    - **justification** : Une réserve restreinte risque de déstabiliser les équilibres nutritionnels et de créer des failles dans la couverture de sécurité alimentaire.
+    - **priorite** : faible
+    - **origine** : Suède
+    - **description** : Exclure certains produits agricoles de la réserve
+  - **Élément 7** :
+    - **amendement** : 2-4G
+    - **titre** : Soutenir prioritairement les grandes exploitations
+    - **position** : DEFAVORABLE
+    - **justification** : Cette priorisation accentuerait les disparités territoriales au détriment des exploitations familiales essentielles au maillage rural.
+    - **priorite** : moyenne
+    - **origine** : Pologne
+    - **description** : Soutenir prioritairement les grandes exploitations
+  - **Élément 8** :
+    - **amendement** : 2-4H
+    - **titre** : Reporter l’application de la directive de deux ans
+    - **position** : DEFAVORABLE\_PARTIEL
+    - **justification** : Un différé de deux ans retarderait inutilement la mise en place d'un bouclier alimentaire devenu urgent dans le contexte géopolitique actuel.
+    - **priorite** : faible
+    - **origine** : Hongrie
+    - **description** : Reporter l’application de la directive de deux ans
+- **références** :
+  - s2d4.json
+  - scenario2.json
+- **notes\_internes** : Surveiller les tensions entre modèles agricoles intensifs (Pologne) et familiaux/agroécologiques (France, Italie). Évaluer l'impact des sécheresses sur les régions méditerranéennes et danubiennes.
+- **metadata** :
+  - **source\_file** : s2-d4.json
+  - **type** : commission
+  - **directive\_id** : 2-4
+  - **tokens** :
+    - **count** : `748`
+    - **model\_reference** : Qwen3-14B
+    - **counted\_at** : 2025-10-26T23:04:46.031985
+    - **context\_limits** :
+      - **fits\_8k** : `true`
+      - **fits\_16k** : `true`
+      - **fits\_32k** : `true`
+      - **fits\_128k** : `true`
+    - **size\_category** : small
+- **scenario\_id** : `2`
+- **directive\_id** : `4`
+- **actor\_type** : commission
+- **generated\_at** : 2025-11-01T10:14:13.757964
+- **version** : 4.7

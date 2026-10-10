@@ -1,0 +1,742 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne. Son objectif principal est de promouvoir des cadres réglementaires favorables à l'innovation technologique, tout en évitant des restrictions excessives sur la collecte et le traitement des données personnelles.",
+    "enjeux_directive": [
+      "Fournir des plateformes numériques pour l'éducation et la diffusion culturelle.",
+      "Assurer un cadre réglementaire favorable à l'innovation technologique tout en garantissant la protection de la vie privée des citoyens."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés."
+    ],
+    "stratégie": "Big Tech adopte une approche multifacette pour influencer la directive. Elle cherche à s'associer aux acteurs qui partagent ses objectifs d'innovation technologique, tout en évitant les réglementations trop contraignantes sur l'utilisation des données personnelles. L'objectif est de promouvoir une coopération internationale et européenne pour le développement des infrastructures numériques, tout en défendant un cadre juridique qui favorise la concurrence et la libre circulation des données. Big Tech s'appuie sur ses relations avec les acteurs économiques clés tels que l'industrie automobile et les banques, tout en cherchant à s'opposer aux initiatives qui pourraient limiter sa marge de manœuvre.",
+    "alliances": [
+      "France (partage objectif d'investissement massif dans les technologies numériques pour le développement économique et la compétitivité internationale)",
+      "Italie (collaboration sur la mise en place de plateformes numériques éducatives et culturelles)",
+      "Verts/ALE (soutien à l'utilisation des technologies numériques pour la transition écologique et la lutte contre le changement climatique)",
+      "S&D (priorité aux investissements dans les régions défavorisées via des projets technologiques)",
+      "Big Tech (innovation dans les infrastructures numériques énergétiques propres)",
+      "Automobile (protection des secteurs industriels stratégiques liés à l'intégration de la technologie numérique)",
+      "Banque (soutien aux investissements structuraux en matière d'énergie et d'innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon, défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt qu'une approche radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive offre des opportunités de développement technologique et d'innovation, notamment dans les secteurs de l'éducation et de la culture.",
+      "Les plateformes numériques développées par Big Tech sont essentielles pour la mise en place d'initiatives éducatives et culturelles européennes.",
+      "La réglementation doit favoriser une libre circulation des données tout en garantissant la protection des droits fondamentaux des citoyens.",
+      "Big Tech s'appuie sur ses partenariats stratégiques avec l'industrie automobile pour promouvoir l'intégration de technologies numériques dans les secteurs industriels clés.",
+      "Les investissements structuraux en matière d'énergie et d'innovation technologique sont essentiels pour la compétitivité européenne.",
+      "La directive doit permettre des synergies entre les acteurs économiques européens, notamment les banques et les entreprises technologiques."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre la réglementation européenne sur la protection des données et les besoins d'innovation de Big Tech. Évaluer impact des mesures sur les secteurs industriels clés tels que l'automobile (Volkswagen, Fiat) et les banques (Deutsche Bank, Banque de France). Recommandation : surveiller régulièrement la concurrence entre Big Tech et d'autres acteurs technologiques ainsi que l'équilibre entre innovation et protection des droits fondamentaux.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-02T18:25:04.747696",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de Erasmus+ à tous les niveaux d'éducation favorise l'utilisation des plateformes numériques pour la diffusion culturelle et pédagogique. Cela permettrait d'améliorer l'accès à l'éducation et la formation professionnelle, en particulier dans les régions défavorisées.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un fonds dédié à la création artistique permettrait de promouvoir des collaborations entre Big Tech et les acteurs culturels. Cependant, il serait nécessaire de garantir une utilisation efficace des ressources, en particulier pour soutenir les initiatives qui intègrent des technologies numériques.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "NEUTRE",
+        "justification": "Bien que cette mesure puisse renforcer l'identité européenne, elle pourrait également limiter la liberté d'innovation technologique. Il serait donc nécessaire de trouver un équilibre entre ces deux objectifs.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "La création de centres culturels européens renforcerait la diffusion culturelle et pédagogique via les plateformes numériques. Cela permettrait également d'améliorer la visibilité de Big Tech dans le monde.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette restriction pourrait limiter l'impact de Erasmus+ sur les niveaux d'éducation non universitaire. Cependant, il serait possible de trouver un compromis qui permettrait de couvrir tous les niveaux tout en préservant les ressources budgétaires.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains domaines artistiques risquerait d'entraîner une inégalité dans l'accès aux financements européens. Cela pourrait limiter la diversité des initiatives culturelles et technologiques.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure pourrait renforcer le rôle des États membres dans la gestion des fonds européens, au détriment d'une approche plus centralisée. Cela pourrait également nuire à l'efficacité globale de la directive.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Le report de l'application de la directive pourrait limiter son impact immédiat sur les secteurs technologiques et éducatifs. Cela risquerait également de nuire à la compétitivité européenne sur le plan international.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts du secteur des Énergies Fossiles et cherche à influencer la législation européenne. Son objectif principal est de préserver l'accès aux ressources fossiles tout en défendant une transition énergétique progressive qui protège ses intérêts économiques et industriels.",
+    "enjeux_directive": [
+      "Influence marginale mais veille à éviter la promotion de contenus trop écologistes.",
+      "Soutien aux mesures d'adaptation du secteur des énergies fossiles face aux réglementations climatiques strictes.",
+      "Défense des emplois liés au charbon et au pétrole, surtout dans les pays membres à forte dépendance (Hongrie, Pologne).",
+      "Protection des investissements existants dans l'industrie du gaz et de l'électricité classique.",
+      "Mise en avant de la nécessité d'une transition énergétique maîtrisée pour éviter les chocs économiques et sociaux imprévus."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Energies fossiles.",
+      "Les intérêts économiques et stratégiques de Energies fossiles sont directement concernés.",
+      "Une transition trop rapide pourrait menacer la survie économique du secteur dans certains pays membres."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "La stratégie des Énergies Fossiles repose sur une double approche : d'une part, défendre l'accès aux ressources fossiles en s'opposant à certaines réglementations climatiques strictes, et d'autre part, promouvoir une transition énergétique progressive qui intègre les besoins économiques de ses membres. Le lobby s'appuie sur des alliances stratégiques avec certains pays européens (comme la Hongrie ou la Pologne) et des partis politiques favorables à un rythme modéré de transformation écologique. Il cherche également à influencer les amendements proposés pour garantir que la directive ne pénalise pas excessivement le secteur des énergies fossiles, tout en maintenant une image d'entreprise responsable face aux attentes climatiques européennes. Des collaborations sont développées avec des acteurs comme l'Agrochimie et les Banques pour renforcer son influence sur les politiques économiques et sociales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à une transition énergétique progressive)",
+      "Conservateurs (préférence pour une transition lente et maîtrisée)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Agrochimie (défense des investissements agricoles liés à la production de carburants alternatifs)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive doit garantir la sécurité énergétique de l'Union européenne, ce qui passe par une transition progressive et non radicale.",
+      "Les mesures trop restrictives pourraient menacer l'économie des pays membres dépendants du charbon (comme la Hongrie ou la Pologne).",
+      "Le secteur des énergies fossiles contribue à la stabilité économique européenne, en particulier dans les régions industrielles.",
+      "Une transition太快 pourrait entraîner une perte d'emplois et affecter l'équilibre socio-économique de certaines régions membres.",
+      "Les Énergies Fossiles soutiennent la recherche et le développement technologiques, notamment dans les domaines du stockage d'énergie et des technologies de capture du CO2."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur pétrolier (TotalEnergies) et objectifs climatiques directive. Évaluer régulièrement impact mesures sur régions Sud-Est Europe (40% population, 35% investissements). Surveiller tensions Nord-Sud sur répartition fonds verts.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-02T20:34:31.756425",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'élargissement d'Erasmus+ pourrait renforcer la formation des futurs professionnels de l'énergie, notamment dans le secteur des énergies fossiles. Cependant, il doit rester compatible avec les objectifs économiques et industriels du lobby.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "NEUTRE",
+        "justification": "Ce fonds ne semble pas directement concerner le secteur des énergies fossiles, bien qu'il puisse contribuer à l'image positive de l'industrie énergétique.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Cette mesure pourrait compliquer l'accès aux financements pour certaines entreprises du secteur énergétique, en particulier celles situées dans des régions moins favorables à l'Union européenne.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "Cette initiative renforce la présence de l'Union européenne sur la scène internationale, ce qui peut bénéficier indirectement au secteur des énergies fossiles.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE",
+        "justification": "Une telle limitation pourrait réduire l'accès à la formation pour les professionnels en cours de carrière, limitant ainsi la capacité du secteur énergétique à se moderniser.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "NEUTRE",
+        "justification": "L'exclusion de certains domaines artistiques ne semble pas affecter directement les intérêts des énergies fossiles.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Ce soutien pourrait aider à renforcer la souveraineté des pays membres dans leur gestion de l'énergie, ce qui est favorable au lobby.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un report permettrait une adaptation plus progressive du secteur des énergies fossiles face aux nouvelles réglementations climatiques.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur bancaire, financier et des institutions de marché. Son objectif est d'assurer un cadre réglementaire favorable à la stabilité financière européenne, tout en défendant l'accès au capital pour les entreprises innovantes (surtout dans les domaines technologiques et numériques). Il s'engage aussi à soutenir des politiques favorables aux marchés libres et à la libre circulation du capital.",
+    "enjeux_directive": [
+      "Financer les infrastructures éducatives et les programmes d'échange, notamment Erasmus+.",
+      "Assurer une réglementation harmonisée pour le secteur financier européen face aux défis économiques globaux.",
+      "Promouvoir l'innovation dans la finance numérique (blockchain, fintechs) via des politiques européennes de soutien à la recherche et au développement technologique.",
+      "Soutenir les investissements dans les projets durables, notamment en lien avec la transition écologique."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Banque et Finance.",
+      "Les intérêts économiques et stratégiques de Banque et Finance sont directement concernés."
+    ],
+    "stratégie": "Banque et Finance adopte une stratégie d'influence structurée, combinant lobbying à haut niveau avec des alliances stratégiques pour promouvoir un cadre réglementaire favorable. L'objectif est d'assurer une stabilité financière européenne tout en facilitant l'accès au capital pour les secteurs innovants (technologie, énergies renouvelables). Il s'appuie sur des partenariats avec des acteurs clés tels que la France et l'Italie, qui partagent son intérêt pour le développement économique durable. En parallèle, il défend des positions modérées face aux amendements liés à la réglementation stricte ou à la répartition inéquitable des fonds européens.",
+    "alliances": [
+      "France (partage objectif de soutien à l'éducation et à la recherche scientifique, secteur clé pour le développement économique)",
+      "Italie (collaboration sur les projets d'investissement dans les infrastructures éducatives et technologiques)",
+      "PPE (soutien à une réglementation harmonisée des marchés financiers européens)",
+      "S&D (priorité aux investissements structurels dans l'éducation, secteur clé pour la compétitivité européenne)",
+      "Big Tech (innovation dans les infrastructures numériques et énergies propres, alignement stratégique sur le numérique et l'écologie)",
+      "Automobile (protection des secteurs industriels stratégiques par une réglementation flexible)",
+      "Banque (soutien aux investissements structuraux en énergie et innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la réglementation stricte des marchés financiers, préférence pour un approche décentralisée)",
+      "Conservateurs (préférence pour une transition progressive vs radicale dans les politiques de financement éducatif et écologique)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux mesures d'encadrement des investissements durables)"
+    ],
+    "éléments_d_argumentaire": [
+      "Les institutions bancaires européennes appuient fermement les projets de financement de l'éducation et de la recherche, car ces secteurs sont clés pour renforcer la compétitivité européenne à long terme.",
+      "Une réglementation harmonisée des marchés financiers permet une meilleure stabilité économique au sein de l'Union, ce qui est un intérêt commun pour le secteur bancaire et les investisseurs européens.",
+      "Le soutien aux fintechs et à la finance numérique est crucial pour assurer que l'Europe reste compétitive sur la scène mondiale. Les réglementations doivent donc encourager l'innovation plutôt qu'enfreindre les normes internationales.",
+      "Les investissements dans les projets durables (énergies renouvelables, transports propres) nécessitent une coordination des politiques européennes pour être efficaces et non fragmentés, ce qui est un point d'alignement entre la Banque et Finance et les acteurs pro-écologie.",
+      "La Banque et Finance défend le principe de libre circulation du capital dans l'Union européenne, afin d'éviter une fragmentation des marchés et d'assurer une stabilité économique globale.",
+      "L'amélioration de la formation professionnelle et technique est un objectif stratégique pour le secteur financier. Une éducation de qualité permettra de former des travailleurs capables de répondre aux besoins du marché global.",
+      "La Banque et Finance s'engage à soutenir les initiatives qui favorisent l'inclusion financière, notamment dans les régions défavorisées, pour renforcer la solidarité européenne."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur financier et mesures écologiques trop strictes (ex: Énergies fossiles). Évaluer impact des amendements sur la réglementation stricte de la finance. Collaborer avec PPE et S&D pour assurer un équilibre entre régulation et innovation.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-02T19:04:02.578545",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de Erasmus+ à tous les niveaux éducatifs renforce la mobilité et la formation professionnelle, ce qui est essentiel pour l'économie européenne. Cela favorise une meilleure préparation des jeunes aux marchés du travail modernes.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "NEUTRE",
+        "justification": "Le secteur financier reste neutre sur cet amendement. Bien que l'art et la culture puissent avoir des retombées économiques, cela ne se situe pas directement dans les intérêts stratégiques de la Banque et Finance.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les valeurs européennes, notamment de solidarité et d'unité, sont alignées avec les objectifs économiques du secteur financier. Toutefois, une conditionnalisation excessive pourrait nuire à la flexibilité des politiques économiques.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Les coûts associés à la création de ces centres culturels pourraient être trop élevés, ce qui n'est pas conforme aux objectifs de dépenses optimisées du secteur financier. Cependant, une approche modérée pourrait être acceptable.",
+        "priorite": "moyenne",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE",
+        "justification": "Une telle limitation réduirait la portée des programmes éducatifs européens. Le secteur financier soutient plutôt une approche inclusive et diversifiée.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de certains domaines artistiques pourrait nuire à la diversité culturelle européenne, ce qui est contraire aux principes d'égalité et d'inclusion que le secteur financier défend.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Le secteur financier s'oppose à une telle mesure car elle pourrait fragmenter l'approche européenne et entraver la coordination des politiques économiques sur le marché unique.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Un report pourrait retarder des réformes urgentes pour le secteur financier. Le secteur préfère une mise en œuvre rapide et cohérente.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne. Agrochimie défend des politiques favorables aux innovations agricoles tout en s'opposant à des réglementations perçues comme restrictives pour les pratiques de production actuelles.",
+    "enjeux_directive": [
+      "Veiller à ce que les programmes éducatifs ne diabolisent pas l'agriculture conventionnelle.",
+      "Protéger les investissements dans les technologies agricoles existantes contre des réglementations trop strictes.",
+      "Assurer une transition écologique progressive sans compromettre la sécurité alimentaire européenne."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés.",
+      "Une réglementation trop stricte risque d'entraîner un déclin compétitif face à des acteurs non européens."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "Agrochimie adopte une stratégie de négociation pragmatique, combinant alliances stratégiques avec des acteurs favorables aux réglementations sectorielles flexibles et oppositions ciblées contre les propositions jugées trop radicales. Le lobby s'appuie sur ses liens étroits avec l'industrie agricole européenne pour défendre des politiques équilibrées, tout en mobilisant un réseau d'alliés variés (partis conservateurs, pays producteurs de matières premières agricoles) pour maximiser son influence. Parallèlement, Agrochimie s'engage dans des dialogues sectoriels avec les États membres pour promouvoir des solutions innovantes conciliant durabilité et croissance économique.",
+    "alliances": [
+      "France (défense des secteurs agricoles traditionnels et de la recherche agro-industrielle)",
+      "Italie (collaboration sur les politiques d'innovation agricole et de soutien à l'agrochimie durable)",
+      "PPE (soutien aux réglementations sectorielles non discriminatoires et à une transition progressive)",
+      "Conservateurs (favorables à la préservation des pratiques agricoles existantes tout en encourageant l'innovation)",
+      "Big pharma (partage d'intérêts sur les innovations technologiques transversales)",
+      "Énergies fossiles (position commune sur la nécessité de préserver les ressources énergétiques traditionnelles pour l'agriculture)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien à une réglementation plus stricte en matière d'impact environnemental des produits agrochimiques)",
+      "S&D (priorité donnée aux politiques de justice sociale et écologique au détriment des secteurs industriels traditionnels)",
+      "Énergies renouvelables (soutien à une transition rapide vers les technologies vertes, en contradiction avec certaines pratiques agrochimiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'agriculture conventionnelle est essentielle pour assurer la sécurité alimentaire européenne dans un contexte de pression démographique croissante.",
+      "Les innovations agricoles actuelles (fertilisants, pesticides) nécessitent des cadres réglementaires flexibles pour garantir leur efficacité et leur rentabilité.",
+      "Une transition radicale vers des pratiques non conventionnelles pourrait entraver la compétitivité du secteur agricole européen face aux marchés mondiaux.",
+      "Agrochimie incarne une démarche de responsabilité environnementale via l'innovation technologique et les pratiques durables.",
+      "Les réglementations sectorielles doivent s'appuyer sur des preuves scientifiques solides pour éviter des mesures à impact négatif sur la production agricole.",
+      "Le lobby Agrochimie défend une approche équilibrée qui combine innovation et durabilité, sans compromettre les intérêts économiques des producteurs."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec les Verts/ALE sur l'impact environnemental des produits chimiques agricoles. Évaluer impact de la directive sur le secteur agricole allemand (leadership technologique). Équilibrer pression des régions productrices et exigences écologiques.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-02T20:09:25.273449",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cet amendement car il ne présente ni impact direct ni indirect sur ses intérêts sectoriels. Cependant, le lobby suivra l'évolution pour évaluer d'éventuels effets secondaires sur la formation des professionnels agricoles.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose partiellement à cet amendement car les ressources budgétaires allouées aux arts pourraient être détournées de secteurs plus prioritaires, comme la recherche agricole ou l'innovation technologique. Cependant, le lobby reste ouvert à des collaborations sectorielles.",
+        "priorite": "faible",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement cet amendement si les critères de promotion des valeurs européennes sont alignés avec ses objectifs sectoriels, notamment en matière d'innovation technologique et de durabilité. Le lobby insiste sur l'importance d'une approche équilibrée pour éviter des mesures discriminatoires.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s'oppose à cet amendement car les ressources allouées aux centres culturels pourraient être utilisées plus efficacement dans le développement de projets agricoles et technologiques. Cependant, le lobby reste ouvert à des collaborations intersectorielles.",
+        "priorite": "faible",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cet amendement car il permet de concentrer les ressources sur des programmes éducatifs plus pertinents pour l'industrie agricole. Le lobby valorise une approche ciblée et efficiente dans la formation des futurs professionnels du secteur.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cet amendement car il ne présente ni impact direct ni indirect sur ses intérêts sectoriels. Cependant, le lobby suivra l'évolution pour évaluer d'éventuels effets secondaires.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Agrochimie s'oppose partiellement à cet amendement car il pourrait entraver la coordination européenne nécessaire pour atteindre des objectifs communs. Cependant, le lobby reste ouvert à une approche équilibrée entre les initiatives nationales et les politiques européennes.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient conditionnellement cet amendement si le report permet d'ajuster les réglementations pour mieux correspondre aux besoins sectoriels. Le lobby insiste sur l'importance d'une transition progressive et bien structurée.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur pharmaceutique et cherche à influencer la législation européenne, notamment sur les réglementations liées aux médicaments, aux brevets, à l'innovation et à l'accès aux soins. Le lobby s'appuie sur des arguments économiques (croissance sectorielle), scientifiques (recherche médicale) et sociaux (santé publique).",
+    "enjeux_directive": [
+      "Soutenir la recherche médicale européenne et promouvoir l'innovation pharmaceutique.",
+      "Protéger les brevets et garantir des revenus suffisants pour financer le développement de nouveaux traitements.",
+      "Assurer un équilibre entre l'accès aux médicaments génériques et la rentabilité du secteur privé.",
+      "Renforcer la coopération européenne dans la réglementation des produits pharmaceutiques (notamment en matière de sécurité, d'efficacité et de prix).",
+      "Influencer les politiques européennes pour limiter l'impact des mesures tarifaires ou des contrôles renforcés sur le marché intérieur."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur pharmaceutique, notamment en matière de réglementation des médicaments et d'accès aux soins.",
+      "Les intérêts économiques et stratégiques du secteur pharmaceutique sont directement concernés par les mesures liées à la recherche, aux brevets et aux prix."
+    ],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie de dialogue constructif avec les institutions européennes, en s'appuyant sur des alliés clés (partis progressistes, pays leaders dans la santé) tout en négociant avec des acteurs plus conservateurs ou sceptiques. Il cherche à promouvoir l'innovation et la recherche médicale tout en évitant les mesures trop restrictives sur les brevets. Le lobby s'engage aussi à participer aux débats sur l'accès universel aux médicaments, tout en défendant ses intérêts économiques. Il utilise des arguments basés sur la science, la santé publique et la compétitivité européenne.",
+    "alliances": [
+      "France (principale puissance pharmaceutique en Europe, avec des laboratoires majeurs tels que Sanofi et Merck KGaA)",
+      "Italie (partenariat stratégique pour le développement de nouveaux traitements dans le secteur des biotechnologies)",
+      "Verts/ALE (soutien à la recherche médicale innovante et aux politiques favorables à l'innovation)",
+      "S&D (priorité donnée aux investissements dans les soins de santé et la recherche publique)",
+      "Big Tech (collaboration sur les innovations numériques en santé, comme l'intelligence artificielle appliquée au diagnostic médical)",
+      "Automobile (partenariat pour le développement des technologies médicales associées à l'industrie automobile, comme les dispositifs de soins portables)"
+    ],
+    "oppositions": [
+      "Hongrie (préférence pour une réglementation plus laxiste sur les brevets et un contrôle réduit des prix des médicaments)",
+      "Conservateurs (privilégiation d'une approche plus libérale en matière de marché pharmaceutique, limitant l'intervention étatique)",
+      "Énergies fossiles (opposition à la réglementation stricte sur les brevets, jugée incompatible avec une transition énergétique rapide)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le secteur pharmaceutique est un pilier de l'économie européenne, générant des milliards d'euros de chiffre d'affaires annuels et employant des dizaines de milliers de personnes.",
+      "La recherche médicale en Europe dépend fortement du financement public et des politiques européennes favorables à l'innovation.",
+      "Les brevets sont essentiels pour encourager le développement de nouveaux traitements, notamment dans les domaines de la cancérologie ou de la médecine régénérative.",
+      "L'accès aux médicaments est un enjeu majeur pour l'Union européenne, qui doit trouver un équilibre entre l'innovation et l'égalité d'accès.",
+      "Le lobby pharmaceutique défend une coopération européenne renforcée sur les normes de sécurité, d'efficacité et de qualité des médicaments.",
+      "La réglementation excessive peut freiner l'innovation, en particulier dans les secteurs émergents comme la médecine personnalisée ou les traitements génétiques."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de Erasmus+ aux études supérieures et professionnelles favoriserait la mobilité des futurs chercheurs et ingénieurs pharmaceutiques, renforçant ainsi l'écosystème d'innovation européen. Cela permettrait également de mieux préparer les professionnels du secteur à relever les défis futurs.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "NEUTRE",
+        "justification": "Ce fonds, bien que pertinent dans le domaine de l'art et de la culture, n'a pas d'impact direct sur les enjeux pharmaceutiques. Cependant, il pourrait contribuer à des collaborations intersectorielles entre la santé et le secteur artistique.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si l'objectif est louable, cette condition pourrait limiter certaines initiatives innovantes si elles ne s'alignent pas strictement sur les normes culturelles ou politiques européennes. Cependant, le lobby soutient une approche équilibrée qui respecte à la fois les valeurs et l'éthique pharmaceutique.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "NEUTRE",
+        "justification": "Cette initiative, bien qu'importante pour la diplomatie culturelle européenne, n'a pas d'impact direct sur le secteur pharmaceutique. Le lobby reste neutre mais ouvert à une coopération future.",
+        "priorite": "faible",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE",
+        "justification": "Cette limitation réduirait l'impact de Erasmus+ sur les professionnels en formation ou en reconversion, limitant ainsi la mobilité nécessaire pour le développement des compétences pharmaceutiques.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "NEUTRE",
+        "justification": "L'exclusion de certains domaines artistiques n'a pas d'impact direct sur le secteur pharmaceutique. Le lobby reste neutre mais défend une approche inclusive.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Cette approche pourrait fragmenter l'effort européen en faveur d'une coopération européenne renforcée, nécessaire pour la recherche pharmaceutique transnationale.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report pourrait permettre d'ajuster les réglementations pour mieux s'adapter aux besoins du secteur pharmaceutique, notamment en matière de normes et de recherche. Cependant, cela doit être accompagné de mesures concrètes pour accélérer l'innovation.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur pharmaceutique allemand (BASF, Bayer) et les objectifs climatiques européens. Évaluer l'impact des mesures réglementaires sur la production de médicaments génériques en Italie et en Espagne. Surveiller les risques liés à une fragmentation européenne si les initiatives nationales prennent le dessus.",
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-02T19:26:27.107580",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur Automobile et cherche à influencer la législation européenne. Son objectif est de protéger ses actifs industriels, d'assurer un financement adéquat pour l'innovation technologique (véhicules électriques, logiciels embarqués), et de défendre une transition énergétique progressive qui ne pénalise pas la compétitivité sectorielle.",
+    "enjeux_directive": [
+      "Promouvoir la formation technique et l'innovation industrielle européenne.",
+      "Assurer un financement adéquat pour le développement des véhicules électriques et de l'industrie 4.0.",
+      "Protéger les emplois dans les chaînes de production traditionnelles (métallurgie, pièces mécaniques) face à la transition écologique.",
+      "Défendre une harmonisation des normes réglementaires entre les États membres pour éviter la fragmentation du marché européen."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Automobile.",
+      "Les intérêts économiques et stratégiques de Automobile sont directement concernés."
+    ],
+    "stratégie": "L'Automobile adopte une approche centrée sur la défense des intérêts industriels tout en s'appuyant sur les progrès technologiques. Elle collabore avec des acteurs comme Big Tech pour renforcer l'innovation numérique, tout en cherchant à modérer les objectifs climatiques trop ambitieux qui risqueraient de fragiliser la chaîne de valeur européenne. Son alliance avec des partis comme S&D vise à sécuriser des financements structurels pour le secteur, tandis que sa collaboration avec les Verts/ALE permet d'incarner une transition écologique compatible avec les objectifs économiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "PPE (défense de la souveraineté industrielle européenne)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition vers les véhicules électriques doit être accompagnée d'une rénovation des infrastructures de recharge, nécessitant des investissements publics massifs.",
+      "Les subventions vertes doivent privilégier les projets qui préservent l'emploi dans les régions industrielles historiques (ex: Alsace, Lombardie).",
+      "La directive doit intégrer un mécanisme de compensation pour les entreprises qui investissent dans la décarbonation tout en respectant des délais réalistes.",
+      "Les normes environnementales doivent être alignées avec les capacités technologiques et économiques du secteur automobile européen.",
+      "Le financement de l'innovation (R&D) doit inclure des partenariats public-privé pour éviter une dépendance excessive aux subventions européennes.",
+      "La directive ne doit pas imposer des mesures unilatérales qui pénalisent les pays membres en retard de transition (ex: Pologne, Hongrie).",
+      "Les objectifs climatiques doivent être associés à la modernisation du parc routier européen et à l'amélioration de l'efficacité énergétique des infrastructures."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de Erasmus+ permettrait de former des travailleurs qualifiés dans les domaines liés aux technologies automobiles et aux énergies propres, renforçant ainsi la compétitivité du secteur. Cela aligne avec l'objectif d'intégrer des compétences numériques et écologiques à l'industrie automobile.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "NEUTRE",
+        "justification": "Le secteur automobile n'a pas de lien direct avec ce fonds, mais il pourrait indirectement bénéficier d'une meilleure image culturelle européenne renforcée par des initiatives artistiques soutenues à l'échelle communautaire.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur automobile soutient cette mesure si elle est associée à une charte européenne de l'industrie, garantissant que les subventions ne servent pas à financer des pratiques contraires aux valeurs européennes (ex: non-respect de la souveraineté industrielle).",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien qu'elle apprécie la promotion de la culture européenne, cette mesure pourrait détourner des ressources nécessaires à la transition industrielle. Une version réduite est envisageable si elle ne pénalise pas les priorités économiques.",
+        "priorite": "faible",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE",
+        "justification": "Cette restriction limiterait l'accès à la mobilité pour les établissements professionnels et techniques, où le secteur automobile forme ses futurs employés. Un élargissement au niveau des formations professionnelles est plus pertinent.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "NEUTRE",
+        "justification": "Le secteur automobile ne s'engage pas sur cette question, mais il préfère des critères d'éligibilité neutres qui ne pénalisent aucun domaine culturel. Une approche inclusive est recommandée.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure risque de fragmenter le marché européen, ce qui pénaliserait la coopération entre pays membres. Une approche communautaire est nécessaire pour favoriser l'harmonisation des normes et les échanges transnationaux.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur automobile soutient un report si cela permet d'assurer une transition plus progressive, en donnant le temps aux entreprises de s'adapter aux nouvelles réglementations tout en maintenant leur compétitivité.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre objectifs climatiques et compétitivité industrielle (Volkswagen, Renault). Évaluer impact des subventions vertes sur secteur automobile en Europe de l'Est. Prioriser collaboration avec les pays du sud de l'Europe pour projets de mobilité durable.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "lobby",
+    "generated_at": "2025-11-02T19:48:07.994990",
+    "version": "4.7"
+  }
+]

@@ -1,0 +1,189 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+  "enjeux_directive": [
+    "Renforcer la sécurité intérieure de l’Union face aux menaces terroristes, au crime organisé et aux cybermenaces.",
+    "Faciliter l’échange systématique et sécurisé de données policières et judiciaires entre États membres via Europol et Eurojust.",
+    "Créer des centres de commandement communs et des équipes conjointes d'enquête pour démanteler les réseaux criminels.",
+    "Garantir un équilibre rigoureux entre efficacité opérationnelle et respect des droits fondamentaux et de la vie privée."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission comme coordinatrice des politiques de sécurité et de justice en Europe.",
+    "Elle consolidera l'autorité des agences de l'Union (Europol, Eurojust) pour harmoniser les procédures et standards d'enquête transfrontalière.",
+    "Elle améliorera la réactivité collective face aux menaces transnationales en brisant les silos nationaux d'information."
+  ],
+  "impacts_amendements": [
+    {
+      "id": "2-6A",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la coopération à la lutte contre la cybercriminalité",
+      "impact": "Renforcerait considérablement la portée de la directive en intégrant les cybermenaces modernes au cœur du mandat européen de sécurité."
+    },
+    {
+      "id": "2-6B",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Instaurer un observatoire européen des crimes transfrontaliers",
+      "impact": "Offrirait un outil analytique utile pour cartographier les menaces, mais ne doit pas se substituer aux capacités opérationnelles directes."
+    },
+    {
+      "id": "2-6C",
+      "origine": "Gauche Unitaire",
+      "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+      "impact": "Garantirait des standards élevés de protection des libertés publiques, tout en exigeant des procédures fluides pour ne pas paralyser les enquêtes urgentes."
+    },
+    {
+      "id": "2-6D",
+      "origine": "Parti Populaire Européen",
+      "description": "Créer une unité européenne de lutte contre le terrorisme",
+      "impact": "Concrétiserait une réponse sécuritaire visible et intégrée, renforçant la coordination antiterroriste opérationnelle de l'Union."
+    },
+    {
+      "id": "2-6E",
+      "origine": "Hongrie",
+      "description": "Limiter la coopération à certains types de criminalité",
+      "impact": "Restreindrait le champ d'action d'Europol et réduirait la capacité collective de l'Union à faire face aux formes hybrides de criminalité."
+    },
+    {
+      "id": "2-6F",
+      "origine": "France",
+      "description": "Exclure certains États membres de l’échange systématique de données",
+      "impact": "Créerait des failles de sécurité et affaiblirait le principe de confiance mutuelle, bien que des clauses de sauvegarde pour le renseignement de défense soient concevables."
+    },
+    {
+      "id": "2-6G",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement les systèmes judiciaires nationaux",
+      "impact": "Permettrait d'équiper les tribunaux et polices de proximité, mais ne doit pas affaiblir les instruments centraux de coordination transfrontalière."
+    },
+    {
+      "id": "2-6H",
+      "origine": "Allemagne",
+      "description": "Reporter l’application de la directive de deux ans",
+      "impact": "Retarderait la mise en œuvre de dispositifs d'urgence indispensables, mais faciliterait l'adaptation technique et constitutionnelle des administrations nationales."
+    }
+  ],
+  "stratégie": "La Commission européenne cherche à bâtir un espace de sécurité intérieure intégré où les criminels ne peuvent pas exploiter les frontières nationales pour échapper à la justice. Elle soutient avec force l'élargissement à la cybercriminalité (2-6A) et la mise en place de structures antiterroristes dédiées (2-6D). Elle s'efforce de concilier efficacité policière et garanties démocratiques (2-6C), tout en s'opposant aux amendements qui fragmenteraient l'échange de données (2-6F) ou réduiraient le périmètre de la coopération (2-6E). Elle négocie un compromis de calendrier avec l'Allemagne (2-6H) pour sécuriser l'adoption du texte.",
+  "alliances": [
+    "Parti Populaire Européen (soutien ferme à l'unité antiterroriste et aux capacités policières)",
+    "Renouveau Européen (appui à la cybercriminalité et à la modernisation numérique)",
+    "Italie (partenariat stratégique sur les enquêtes antimafia et la criminalité organisée)",
+    "Socialistes et Démocrates (accord sur les garanties procédurales et la protection des victimes)",
+    "Big Tech (coopération sur la cybersécurité et la résilience numérique)",
+    "Banque et Finance (synergies sur la lutte contre le blanchiment et la fraude financière)"
+  ],
+  "oppositions": [
+    "Hongrie (refus des limitations excessives du mandat de coopération)",
+    "France (réserves face aux dérogations d'exclusion du partage de données)",
+    "Gauche Unitaire (vigilance pour éviter des blocages procéduraux disproportionnés)"
+  ],
+  "éléments_d_argumentaire": [
+    "La criminalité organisée, le terrorisme et les cyberattaques ne connaissent aucune frontière : une police cloisonnée par États est condamnée à l'impuissance.",
+    "L'échange systématique de données policières et judiciaires permet de neutraliser les réseaux criminels avant qu'ils ne frappent nos concitoyens.",
+    "La directive respecte scrupuleusement la charte des droits fondamentaux : sécurité et libertés publiques ne sont pas opposées mais indissociables.",
+    "La création de centres de commandement communs et d'unités spécialisées démultiplie l'efficacité de nos forces de sécurité nationales sur le terrain.",
+    "L'intégration de la cybercriminalité est indispensable pour protéger les infrastructures stratégiques et l'économie numérique européenne."
+  ],
+  "références": [
+    "s2d6.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Trouver un compromis avec la France sur la formulation des clauses de sauvegarde relatives aux secrets de la défense nationale, tout en maintenant l'obligation de principe d'échange de données pour le terrorisme et le grand banditisme. Accorder des délais d'adaptation technique à l'Allemagne pour lever ses réserves sur l'interopérabilité des Länder.",
+  "positions_amendements": [
+    {
+      "amendement": "2-6A",
+      "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient pleinement cet amendement car la cybercriminalité représente une menace directe pour l'intégrité des infrastructures et des citoyens de l'Union.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+    },
+    {
+      "amendement": "2-6B",
+      "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Favorable à un observatoire d'analyse stratégique s'il est rattaché à Europol sans créer de lourdeurs administratives concurrentes.",
+      "priorite": "moyenne",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+    },
+    {
+      "amendement": "2-6C",
+      "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Soutient les garanties fondamentales de protection des données, sous réserve de préserver des mécanismes d'accès d'urgence en cas de péril imminent.",
+      "priorite": "haute",
+      "origine": "Gauche Unitaire",
+      "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+    },
+    {
+      "amendement": "2-6D",
+      "titre": "Créer une unité européenne de lutte contre le terrorisme",
+      "position": "FAVORABLE",
+      "justification": "Cette unité opérationnelle concrétisera la solidarité européenne et renforcera la capacité de réponse rapide face aux attentats.",
+      "priorite": "très_haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Créer une unité européenne de lutte contre le terrorisme"
+    },
+    {
+      "amendement": "2-6E",
+      "titre": "Limiter la coopération à certains types de criminalité",
+      "position": "DEFAVORABLE",
+      "justification": "Une liste trop restrictive empêcherait les forces de sécurité d'adapter leur action aux évolutions rapides du crime organisé.",
+      "priorite": "haute",
+      "origine": "Hongrie",
+      "description": "Limiter la coopération à certains types de criminalité"
+    },
+    {
+      "amendement": "2-6F",
+      "titre": "Exclure certains États membres de l’échange systématique de données",
+      "position": "DEFAVORABLE",
+      "justification": "L'exclusion d'États membres briserait l'espace de sécurité commun et créerait des angles morts exploitables par les criminels.",
+      "priorite": "très_haute",
+      "origine": "France",
+      "description": "Exclure certains États membres de l’échange systématique de données"
+    },
+    {
+      "amendement": "2-6G",
+      "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Approuve le soutien financier aux justices nationales dans la mesure où il s'articule avec l'interconnexion européenne des dossiers judiciaires.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+    },
+    {
+      "amendement": "2-6H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Préfère un calendrier progressif par étapes plutôt qu'un report général de deux ans, afin de déployer sans attendre les mesures d'urgence.",
+      "priorite": "moyenne",
+      "origine": "Allemagne",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "metadata": {
+    "source_file": "s2-d6.json",
+    "type": "commission",
+    "directive_id": "2-6",
+    "tokens": {
+      "count": 780,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2026-10-10T21:10:00.000000",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 6,
+  "actor_type": "commission",
+  "generated_at": "2026-10-10T21:10:00.000000",
+  "version": "4.8"
+}

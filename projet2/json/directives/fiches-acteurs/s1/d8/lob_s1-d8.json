@@ -1,0 +1,754 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les intérêts du secteur Big Tech et cherche à influencer la législation européenne. Son rôle inclut la défense des modèles d'économie numérique, l'opposition aux réglementations contraignantes pour les plateformes technologiques, et la promotion de politiques favorables à l'innovation et à la concurrence mondiale.",
+    "enjeux_directive": [
+      "S’opposer à une fiscalité trop lourde sur les acteurs numériques.",
+      "Promouvoir un cadre légèrement flexible et propice à l’innovation.",
+      "Défendre des règles de protection de la propriété intellectuelle adaptées au secteur numérique.",
+      "Mettre en place des mécanismes d'harmonisation réglementaire qui favorisent les investissements transnationaux."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Big Tech.",
+      "Les intérêts économiques et stratégiques de Big Tech sont directement concernés."
+    ],
+    "stratégie": "Big Tech adopte une stratégie de lobbying actif visant à influencer les décisions européennes en faveur d’un cadre réglementaire favorisant l’innovation, la flexibilité fiscale et l’internationalisation des services numériques. Le lobby s’appuie sur ses alliances avec des pays membres de l’UE (comme la France et l'Italie) ainsi que des partis européens comme le PPE et les Verts/ALE. Il promeut des amendements qui favorisent une fiscalité équitable mais non contraignante pour les acteurs technologiques, tout en s’opposant à toute réglementation perçue comme entravant la concurrence numérique mondiale. La stratégie inclut également l'identification d’alliés parmi des secteurs économiques complémentaires (comme l’industrie automobile) pour renforcer sa position face aux oppositions de groupes plus traditionnels (énergies fossiles, banque).",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance à l'harmonisation fiscale européenne)"
+    ],
+    "éléments_d_argumentaire": [
+      "Big Tech défend une fiscalité équitable qui ne pénalise pas la croissance technologique. Une taxe excessive sur les transactions financières ou l’impôt sur les sociétés pourrait limiter l’investissement dans les infrastructures numériques.",
+      "Le lobby insiste pour que toute réglementation européenne prenne en compte l’évolution rapide de l’économie numérique, qui dépend d’une flexibilité accrue des cadres juridiques et fiscaux.",
+      "Les mesures visant à renforcer la transparence fiscale des multinationales sont perçues comme favorables à Big Tech, car elles offrent une possibilité de moderniser les modèles économiques sans compromettre la concurrence mondiale.",
+      "Le lobby soutient l’harmonisation fiscale européenne, tant que celle-ci s’applique à un échéancier progressif (comme le report de deux ans proposé dans l’amendement 1-8G), afin de ne pas désavantager les secteurs technologiques.",
+      "Big Tech défend une exclusion des PME de l’harmonisation fiscale, arguant que cela protégerait la diversité économique et éviterait une concurrence déloyale entre entreprises numériques et traditionnelles.",
+      "Le lobby est favorable à un mécanisme de flexibilité nationale sur le taux de TVA (±2%), qui permettrait aux pays membres d’adapter leurs politiques fiscales selon des besoins locaux, tout en maintenant une cohésion européenne.",
+      "Les mesures visant à renforcer la transparence fiscale sont perçues comme favorables à Big Tech, car elles offrent une possibilité de moderniser les modèles économiques sans compromettre la concurrence mondiale."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette mesure à condition qu’elle ne pénalise pas l’innovation numérique. Une taxe excessive pourrait réduire les investissements dans les infrastructures technologiques, mais une mise en œuvre progressive favoriserait la transition écologique tout en préservant la croissance.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie ce point car il aligne les intérêts du secteur technologique et les objectifs climatiques européens. Une allocation ciblée des recettes fiscales permettrait de financer l’innovation verte sans pénaliser la croissance numérique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie cette proposition à condition que le financement soit orienté vers des projets technologiques et numériques. Un fonds ciblé pourrait renforcer l’égalité numérique tout en favorisant l’innovation dans les régions moins développées.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette mesure car elle favorise la modernisation des modèles économiques des entreprises technologiques. Une transparence accrue renforcerait la confiance des investisseurs et l’internationalisation du secteur.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Big Tech appuie cette proposition car elle permettrait aux pays membres d’adapter leurs politiques fiscales selon des besoins locaux, tout en maintenant une cohésion européenne. Une flexibilité modérée favorise la croissance numérique sans désavantager les acteurs technologiques.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "Big Tech défend cette exclusion car elle protégerait la diversité économique et éviterait une concurrence déloyale entre entreprises numériques et traditionnelles. Une harmonisation trop rigide pourrait pénaliser les PME innovantes.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech appuie ce report à condition qu’il soit accompagné d’un plan de modernisation des cadres fiscaux européens. Un délai progressif permettrait aux acteurs technologiques de s’adapter sans compromettre leur croissance internationale.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Big Tech soutient cette proposition à condition que les dérogations ne pénalisent pas la concurrence numérique européenne. Un dispositif temporaire pourrait aider les pays en difficulté sans compromettre l’équilibre économique global.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions avec les pays de l’Est (Pologne, Hongrie) sur la fiscalité européenne et les réglementations climatiques. Évaluer impact des amendements fiscaux sur les PME technologiques en Europe centrale. Surveiller les positions des partis Verts/ALE et S&D sur les mesures d’harmonisation fiscale.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T07:42:30.975805",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les intérêts des acteurs économiques liés aux énergies fossiles (charbon, pétrole, gaz) et cherche à influencer la législation européenne pour préserver leur modèle économique, limiter les réglementations environnementales strictes et défendre les secteurs industriels associés.",
+    "enjeux_directive": [
+      "Concurrence accrue avec les énergies renouvelables et l'hydrogène vert dans le cadre de la transition écologique européenne.",
+      "Pression fiscale croissante sur les activités liées aux émissions de CO2 (taxes carbone, taxes environnementales).",
+      "Réglementations européennes restrictives sur les infrastructures énergétiques classiques (ex. moratoires sur le charbon).",
+      "Impact des politiques climatiques sur l'industrie pétrolière et gazière européenne.",
+      "Dépendance géopolitique des pays membres envers les exportations d'énergies fossiles."
+    ],
+    "impacts_directive": [
+      "La directive pourrait entraîner une restructuration majeure du secteur énergétique européen, avec des pertes de revenus pour les entreprises du pétrole et du gaz.",
+      "Risques de délocalisation industrielle vers des pays non européens moins réglementés en matière d'environnement.",
+      "Pression sur les États membres qui comptent sur l'exportation d'énergies fossiles (ex. Pologne, Hongrie)."
+    ],
+    "stratégie": "Lobby des énergies fossiles adopte une approche multifacette pour influencer la directive européenne : (1) Formation de coalitions stratégiques avec les pays et partis conservateurs, favorables à une transition énergétique progressive plutôt que radicale ; (2) Financement d'études économiques sur les coûts de la transition écologique et ses impacts sur l'emploi dans le secteur des énergies fossiles ; (3) Mise en avant des risques géopolitiques associés à une dépendance accrue aux importations d'énergie renouvelable, notamment depuis des pays non européens ; (4) Promotion de l'idée que les énergies fossiles restent nécessaires pour assurer la sécurité énergétique européenne jusqu'au moins 2040 ; (5) Utilisation de lobbying ciblé au sein des institutions européennes comme le Conseil européen, le Parlement européen et la Commission européenne, avec une attention particulière aux régions économiquement dépendantes des énergies fossiles.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien transition progressive + défense de secteurs traditionnels)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France et l'Italie considèrent que la transition énergétique doit se faire dans un cadre de stabilité économique, en préservant les emplois dans le secteur des énergies fossiles.",
+      "Le PPE défend une approche graduée pour réduire les impacts socio-économiques bruts sur les régions dépendantes du charbon et du gaz naturel.",
+      "La S&D souligne la nécessité d'investir dans les régions défavorisées, y compris celles touchées par le déclin des énergies fossiles, pour assurer une transition juste.",
+      "Les lobbies Big Tech soutiennent que l'électrification et les infrastructures numériques doivent être développées de manière complémentaire aux énergies fossiles, sans compromettre la sécurité énergétique européenne.",
+      "L'industrie automobile défend l'idée qu'une transition trop rapide vers les énergies renouvelables pourrait nuire à la compétitivité du secteur européen dans un contexte de concurrence mondiale."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "À surveiller tensions régionales (Pologne, Hongrie) liées à la dépendance du gaz naturel russe et aux impacts des politiques climatiques. Évaluer régulièrement les risques de perte d'emplois dans les secteurs traditionnels (charbon, pétrole). Surveiller les tensions entre l'industrie énergétique classique et les partisans du développement des énergies renouvelables.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T08:03:45.147010",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "DEFAVORABLE",
+        "justification": "Une telle taxe pourrait pénaliser les investissements dans les infrastructures énergétiques classiques, rendant plus difficiles les financements pour la modernisation des centrales thermiques et des réseaux de distribution d'énergie. Les énergies fossiles s'opposent à toute mesure fiscale qui pourrait accroître le coût du capital pour leur secteur.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "DEFAVORABLE",
+        "justification": "Les énergies fossiles s'inquiètent que cette mesure accroisse les coûts de financement de leurs infrastructures. Elles craignent également une redistribution inéquitable des ressources entre les États membres, ce qui pourrait exacerber les tensions géopolitiques au sein de l'Union européenne.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les énergies fossiles acceptent cet amendement à condition que le financement des régions touchées par la transition énergétique (ex. régions du charbon) soit prioritaire. Elles considèrent qu'un tel fonds pourrait atténuer les impacts sociaux de la fermeture d'usines et l'abandon progressif des énergies fossiles.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Les énergies fossiles s'opposent à toute augmentation des coûts d'imposition qui pourrait pénaliser la compétitivité de leurs entreprises. Elles acceptent cependant un cadre général de transparence, tant que cela ne conduit pas à une taxation excessive.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Les énergies fossiles soutiennent cette mesure car elle permet aux États membres d'adapter leurs politiques fiscales en fonction des besoins économiques locaux. Cela leur donne plus de marge pour financer des projets dans le secteur énergétique classique.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "Les énergies fossiles s'opposent à toute harmonisation fiscale qui pourrait pénaliser les petites et moyennes entreprises du secteur. Elles soutiennent une approche flexible pour préserver la compétitivité des PME locales.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Les énergies fossiles soutiennent ce report à condition qu'il soit accompagné d'une révision des politiques fiscales actuelles, afin de ne pas pénaliser inutilement le secteur. Elles craignent que l'harmonisation fiscale accélérée nuise à leur compétitivité.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE",
+        "justification": "Les énergies fossiles soutiennent cette mesure car elle permet aux pays membres plus fragiles économiquement de bénéficier d'une transition énergétique adaptée. Elles considèrent que cela favorise une coopération européenne plus harmonieuse.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les intérêts du secteur bancaire et financier, en particulier les grandes institutions européennes, les fonds d'investissement, et les banques centrales. Son objectif est de promouvoir une réglementation harmonisée, une fiscalité stable, et des politiques favorables à la libre circulation des capitaux. Il s’oppose à toute mesure qui pourrait augmenter le coût du capital ou limiter l’autonomie des acteurs privés.",
+    "enjeux_directive": [
+      "Soutenir un cadre réglementaire stable pour les marchés financiers européens, en évitant les distorsions de concurrence entre États membres.",
+      "Promouvoir une fiscalité équitable et non discriminatoire des institutions financières, en particulier des banques et fonds d’investissement.",
+      "Assurer la liberté d’action des acteurs privés dans le secteur financier, tout en respectant les objectifs de durabilité environnementale.",
+      "Protéger les intérêts des grandes banques européennes face aux réglementations trop contraignantes ou incohérentes entre États membres.",
+      "Préserver la souveraineté des systèmes financiers nationaux tout en favorisant l’intégration européenne."
+    ],
+    "impacts_directive": [
+      "La directive aura un impact direct sur le secteur bancaire, notamment via les mesures de régulation et de fiscalité.",
+      "Elle pourrait modifier la structure des marchés financiers européens en imposant des règles communes sur les transactions financières.",
+      "Les intérêts stratégiques du lobby Banque et Finance seront directement concernés par les décisions prises au niveau européen."
+    ],
+    "stratégie": "Le lobby Banque et Finance adopte une approche de collaboration étroite avec les États membres qui partagent ses priorités, comme la France et l’Allemagne. Il s’allie avec des partis européens comme le PPE (pour sa vision libérale du marché financier) et les Verts/ALE (pour leur soutien à une transition écologique compatible avec la stabilité financière). En parallèle, il s’oppose aux initiatives qui visent à imposer des taxes lourdes sur les transactions ou à encadrer trop strictement le secteur bancaire. Il cherche à influencer les amendements via des négociations directes avec les États membres, en mettant l’accent sur la nécessité d’une régulation équilibrée et non discriminatoire. Il utilise également des lobbyings ciblés auprès des ministères des Finances et de la Banque centrale européenne pour défendre ses positions.",
+    "alliances": [
+      "France (collaboration sur les politiques de fiscalité favorable aux secteurs finance et investissement)",
+      "Allemagne (partage des objectifs d’intégration financière européenne)",
+      "Verts/ALE (soutien à la transition écologique sans compromettre la stabilité financière)",
+      "PPE (privilégie une régulation harmonisée mais non intrusive du secteur bancaire)",
+      "S&D (priorité aux investissements dans les infrastructures durables, compatibles avec les besoins du secteur financier)",
+      "Big Tech (collaboration sur la réforme numérique des marchés financiers)",
+      "Automobile (protection des financements industriels stratégiques)"
+    ],
+    "oppositions": [
+      "Hongrie (soutien aux industries fossiles et opposition aux mesures fiscales lourdes pour le secteur financier)",
+      "Conservateurs (préférence pour une régulation plus flexible du secteur bancaire)",
+      "Énergies fossiles (favorise les politiques sectorielles qui limitent la fiscalité des entreprises en lien avec le secteur financier)"
+    ],
+    "éléments_d_argumentaire": [
+      "La stabilité de l’économie européenne dépend d’une réglementation financière cohérente, capable de garantir la confiance des investisseurs tout en protégeant les acteurs privés.",
+      "Une taxe sur les transactions financières à l’échelle européenne pourrait désincentiviser les investissements dans l’Union européenne, favorisant ainsi une fuite des capitaux vers des zones moins réglementées.",
+      "La fiscalité des secteurs bancaire et financier doit rester équitable mais éviter de pénaliser les institutions qui investissent dans les projets durables.",
+      "Les mesures visant à renforcer la transparence fiscale doivent être conçues pour ne pas entraver la mobilité des capitaux ou créer des distorsions entre les États membres.",
+      "Le secteur financier européen, en particulier les grandes banques allemandes et françaises, doit être protégé contre une réglementation trop lourde qui pourrait nuire à sa compétitivité internationale.",
+      "Les fonds d’investissement et les acteurs privés doivent conserver un rôle clé dans la répartition des ressources économiques européennes, sans ingérence excessive de l’Union européenne."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les banques allemandes (comme Deutsche Bank) et les politiques d’intégration financière européenne. Évaluer l’impact des amendements sur la compétitivité du secteur financier français face à des réglementations plus strictes. Surveiller les débats autour de la fiscalité des fonds d’investissement dans le contexte de la transition écologique.",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "DEFAVORABLE",
+        "justification": "L’instauration d’une taxe sur les transactions financières pourrait pénaliser les banques européennes et réduire la liquidité des marchés. Elle risque de décourager les investissements dans l’économie européenne, favorisant ainsi une fuite des capitaux vers des zones non réglementées. Cette mesure n’est pas compatible avec la stabilité du secteur financier.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur financier peut soutenir cette initiative si elle est bien conçue et si les fonds sont utilisés pour financer des projets durables, notamment dans le secteur bancaire. Cependant, il faut éviter de pénaliser les institutions qui investissent déjà dans la transition écologique.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "NEUTRE",
+        "justification": "Le secteur financier n’est pas directement concerné par cette proposition, mais il peut soutenir l’initiative si le financement est géré de manière transparente et efficace. Cependant, une trop grande dépendance des régions défavorisées pourrait affecter la stabilité du marché.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le secteur financier peut soutenir cette initiative à condition qu’elle ne pénalise pas les entreprises qui investissent dans des projets durables. Une transparence accrue est bénéfique, mais doit être accompagnée de mesures pour éviter une distorsion de concurrence.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait aux États membres d’adapter leurs politiques fiscales à leur situation économique. Elle favorise la flexibilité nécessaire pour soutenir les secteurs financiers locaux sans pénaliser les entreprises.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "L’exclusion des PME favoriserait la croissance économique et l’innovation. Cela permettrait à ces entreprises d’investir dans des projets durables sans être pénalisées par une réglementation trop rigoureuse.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Cette mesure permettrait d’éviter une surcharge réglementaire trop rapide pour le secteur financier. Elle donne aux États membres le temps nécessaire pour s’adapter à de nouvelles règles sans compromettre la stabilité du marché.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "NEUTRE",
+        "justification": "Le secteur financier n’est pas directement concerné par cette proposition, mais il peut soutenir l’initiative si elle permet de préserver la stabilité économique des États membres les plus vulnérables. Cependant, une dérogation excessive pourrait affecter la compétitivité du marché européen.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ],
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T08:22:05.545643",
+    "version": "4.7"
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les intérêts du secteur Agrochimie et cherche à influencer la législation européenne, en particulier sur les réglementations environnementales, fiscales et d’aide aux filières agricoles. Son objectif principal est de défendre les entreprises agrochimiques contre des mesures perçues comme trop restrictives ou coûteuses.",
+    "enjeux_directive": [
+      "Plaide pour des règles fiscales adaptées à l’agriculture et industrie chimique, notamment sur les exemptions de TVA pour produits agricoles et fertilisants.",
+      "Appui aux dérogations ou ajustements pour ne pas pénaliser la filière agrochimique face à des normes environnementales strictes.",
+      "Soutien à la recherche et développement (R&D) dans les domaines de l’agriculture durable et des pesticides biosourcés.",
+      "Défense d’une concurrence équitable avec les secteurs agricoles non européens, notamment en matière de subventions et de normes de qualité.",
+      "Opposition à toute réglementation européenne sur les OGM ou les pratiques agricoles qui pourrait limiter la production agricole."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Agrochimie, notamment en matière de fiscalité et d’innovation.",
+      "Les intérêts économiques et stratégiques de Agrochimie sont directement concernés par les mesures liées à la transition écologique.",
+      "Le lobby agrochimique pourrait être contraint de modifier ses pratiques s’il y a une augmentation des normes environnementales ou des coûts de production."
+    ],
+    "stratégie": "Agrochimie adopte une stratégie multifacette pour influencer la législation européenne. Elle privilégie les alliances avec des pays membres (comme la France et l'Italie) qui partagent ses intérêts économiques, ainsi que des groupes politiques comme le PPE et les Verts/ALE, en mettant l'accent sur les aspects économiques et écologiques. Elle s'appuie également sur des lobys comme Big Tech pour promouvoir l'innovation technologique dans l'agriculture. Parallèlement, elle oppose de manière ciblée certaines mesures fiscales ou environnementales qui pourraient nuire à son secteur, en collaborant avec des acteurs comme les Énergies fossiles et le parti Conservateurs. L’objectif est de maintenir une position dominante dans la réglementation européenne tout en évitant toute mesure qui pourrait pénaliser ses activités. Enfin, Agrochimie cherche à promouvoir des amendements qui favorisent les subventions pour l’innovation technologique et la R&D, tout en s’opposant à une taxation excessive des produits agricoles.",
+    "alliances": [
+      "France (partage objectif de soutien aux secteurs agricoles et agrochimiques)",
+      "Italie (collaboration sur l'innovation technologique et les subventions sectorielles)",
+      "PPE (soutien à des politiques économiques favorables aux industries traditionnelles)",
+      "Verts/ALE (partage de préoccupations environnementales et promotion d’agriculture durable)",
+      "Big Tech (innovation technologique dans l'agriculture 4.0)",
+      "Automobile (protection des secteurs industriels stratégiques liés à l’agriculture)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la taxe sur les transactions financières et aux subventions pour secteurs écologiques)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt qu’immédiate)",
+      "Énergies fossiles (lobbies centrales charbon - opposés à toute réglementation environnementale stricte)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'agriculture et l'industrie chimique sont des piliers économiques de nombreux pays membres, notamment la France et l'Italie. Agrochimie plaide donc pour une réglementation qui préserve ces secteurs.",
+      "Les entreprises agrochimiques investissent massivement dans la R&D, notamment en matière d’innovation écologique (comme les pesticides biosourcés). Ces investissements doivent être soutenus par des politiques fiscales favorables.",
+      "La taxe sur les transactions financières risque de pénaliser les entreprises agricoles et agrochimiques, qui dépendent fortement des flux monétaires internationaux. Agrochimie s’oppose donc à cette mesure.",
+      "Le secteur agrochimique joue un rôle crucial dans la sécurité alimentaire européenne. Il faut éviter toute réglementation qui pourrait limiter la production agricole ou rendre les produits plus coûteux pour les consommateurs.",
+      "Les subventions pour les secteurs écologiques, comme celles proposées par les Verts/ALE, doivent être équilibrées avec des mesures d’aide aux entreprises agrochimiques pour éviter une dégradation de leur compétitivité.",
+      "Agrochimie soutient la flexibilité nationale sur le taux de TVA (±2%) pour permettre aux pays membres d’ajuster les taxes selon leurs besoins économiques et sectoriels."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre Agrochimie, Énergies fossiles et les partis Verts/ALE sur la transition écologique. Les régions agricoles comme la France et l'Italie pourraient être affectées par des mesures fiscales trop strictes. Recommandation : surveiller les impacts des subventions pour secteurs écologiques sur la rentabilité de Agrochimie.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T09:17:10.951483",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "DEFAVORABLE",
+        "justification": "Agrochimie s’oppose à cette mesure car elle pourrait augmenter le coût des flux monétaires internationaux, affectant négativement les entreprises agricoles et agrochimiques qui dépendent de ces transactions. De plus, cela risque d’inhiber l’investissement dans la R&D sectorielle.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cette proposition à condition que les subventions soient équilibrées entre les secteurs écologiques et industriels. Elle préconise une répartition qui permette de financer à la fois l’innovation écologique et le développement des entreprises agricoles.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie approuve cette idée car cela permettrait d’apporter des aides ciblées aux régions agricoles en difficulté, notamment en France et en Italie. Cela renforcerait la compétitivité du secteur agroalimentaire européen.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "NEUTRE",
+        "justification": "Agrochimie reste neutre sur cette proposition car elle pourrait entraîner des coûts administratifs importants pour les entreprises, notamment les PME du secteur. Cependant, elle reconnaît l’importance de la transparence fiscale pour éviter l’évasion fiscale.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cette mesure car elle permettrait aux pays membres d’ajuster les taxes selon leurs besoins économiques, notamment pour protéger les secteurs agricoles et agrochimiques.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie approuve cette proposition car elle protégerait les petites et moyennes entreprises du secteur, qui sont souvent plus vulnérables face aux normes fiscales européennes. Cela renforcerait leur compétitivité.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Agrochimie soutient cette idée à condition que le report soit accompagné d’une évaluation des impacts sur les secteurs agricoles et agrochimiques. Elle craint que l’harmonisation fiscale actuelle pénalise ces secteurs.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE",
+        "justification": "Agrochimie soutient cette proposition car elle permettrait aux pays membres en difficulté économique de bénéficier de mesures fiscales adaptées, sans compromettre la stabilité européenne.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les intérêts du secteur Pharmaceutique et cherche à influencer la législation européenne.",
+    "enjeux_directive": [
+      "Soutien pour une meilleure transparence fiscale et engagement responsable.",
+      "Favorise un cadre fiscal stable pour la recherche et innovation.",
+      "Protection des brevets et des innovations médicales face aux pressions de réglementation excessive.",
+      "Accès équitable aux médicaments tout en maintenant les marges bénéficiaires des entreprises.",
+      "Harmonisation des réglementations européennes sur les essais cliniques pour accélérer la mise sur le marché."
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur Pharmaceutique.",
+      "Les intérêts économiques et stratégiques de Pharmaceutique sont directement concernés.",
+      "Les mesures fiscales et réglementaires pourraient affecter la capacité du secteur à financer la recherche et développement (R&D)."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "Le lobby pharmaceutique adopte une stratégie de lobbying actif visant à influencer les décisions politiques européennes en mettant l'accent sur la nécessité d'un cadre fiscal stable et des mesures de protection des brevets. Il collabore étroitement avec des pays comme la France, l'Italie, le Royaume-Uni (même s'il n'est pas dans le pool) pour défendre des politiques favorables à l'innovation pharmaceutique. En parallèle, il s'allie avec des partis européens tels que le PPE et les Verts/ALE pour promouvoir une réglementation équilibrée qui encourage à la fois la recherche médicale et la transition écologique. Cependant, il oppose souvent ses positions à ceux qui défendent des taxes lourdes sur les entreprises ou des mesures restrictives sur les brevets. Le lobby pharmaceutique cherche également à établir des partenariats stratégiques avec d'autres secteurs comme l'industrie technologique pour renforcer son influence politique.",
+    "alliances": [
+      "France (partage objectif de recherche médicale et innovation)",
+      "Italie (collaboration sur la réglementation européenne des brevets)",
+      "Verts/ALE (soutien à la transition écologique tout en protégeant les brevets)",
+      "PPE (défense d'un cadre fiscal stable pour l'industrie pharmaceutique)",
+      "Big Tech (partenariats sur la digitalisation et l'innovation dans la santé)",
+      "Agrochimie (collaboration sur des projets de recherche croisés en biotechnologie)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à une réglementation européenne stricte sur les brevets)",
+      "Conservateurs (préférence pour des mesures fiscales moins lourdes pour l'industrie pharmaceutique)",
+      "Énergies fossiles (lobbies opposés aux taxes qui pourraient affecter le financement de la R&D pharmaceutique)"
+    ],
+    "éléments_d_argumentaire": [
+      "La mise en place d'une taxe sur les transactions financières pourrait réduire les ressources disponibles pour financer la recherche et développement (R&D) dans l'industrie pharmaceutique.",
+      "La création d'un fonds de cohésion pour les régions défavorisées permettrait de renforcer l'accès aux médicaments dans ces zones, ce qui est bénéfique à long terme pour le secteur.",
+      "L'imposition d'une transparence fiscale obligatoire pour les multinationales pourrait compliquer la gestion des activités internationales des entreprises pharmaceutiques, mais reste acceptable si elle favorise l'équité fiscale.",
+      "La flexibilité nationale sur le taux de TVA pourrait permettre aux pays d'adapter leurs politiques fiscales sans affecter négativement les prix des médicaments.",
+      "L'exclusion des PME de l'harmonisation fiscale est favorable au secteur pharmaceutique, car elle protège les petites entreprises innovantes de réglementations trop contraignantes.",
+      "Le report de l'application de l'harmonisation fiscale offre un délai précieux pour ajuster les structures juridiques et fiscales des entreprises pharmaceutiques.",
+      "Les dérogations temporaires pour les États à faible revenu permettront d'éviter une perte soudaine de financement public, ce qui est bénéfique à long terme."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les entreprises pharmaceutiques et les réglementations sur les brevets. Évaluer l'impact des amendements fiscaux sur le financement de la R&D, notamment dans les pays membres comme la France et l'Italie. Surveiller également les débats autour de la flexibilité nationale sur le taux de TVA en Europe.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T08:38:39.078888",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "DEFAVORABLE",
+        "justification": "Une telle taxe pourrait réduire le financement disponible pour la R&D pharmaceutique, essentielle pour innover et répondre aux besoins de santé publique. Elle risquerait d'entraîner des coûts supplémentaires pour les entreprises du secteur.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Ce point est conditionnellement soutenu car il pourrait favoriser l'innovation dans des secteurs connexes, comme les biotechnologies durables. Cependant, les ressources allouées doivent être suffisantes pour ne pas pénaliser le financement de la recherche pharmaceutique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Ce fonds permettrait d'améliorer l'accès aux médicaments dans des zones géographiques isolées, ce qui est bénéfique à long terme pour la santé publique et la réputation du secteur pharmaceutique.",
+        "priorite": "très_haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "NEUTRE",
+        "justification": "Ce point ne présente ni avantage ni inconvénient majeur pour le secteur pharmaceutique. Il pourrait cependant compliquer la gestion des activités internationales si les normes varient trop entre les pays.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "Cette flexibilité permettrait aux pays d'adapter leur politique fiscale sans affecter négativement les prix des médicaments, ce qui est bénéfique pour l'accès à la santé publique.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE",
+        "justification": "Cette exclusion protège les petites entreprises innovantes du secteur pharmaceutique, qui pourraient être pénalisées par des réglementations trop rigoureuses.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Ce report donne aux entreprises pharmaceutiques le temps nécessaire pour s'adapter à de nouvelles règles fiscales. Cependant, il doit être accompagné d'une clarification claire sur les conséquences à long terme.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "FAVORABLE",
+        "justification": "Ces dérogations permettraient de protéger les systèmes de financement public sans affecter négativement le secteur pharmaceutique, qui dépend souvent de ressources publiques pour ses recherches.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les intérêts du secteur automobile et cherche à influencer la législation européenne, en particulier sur les politiques de transition écologique, d'innovation technologique et de fiscalité sectorielle.",
+    "enjeux_directive": [
+      "Veiller à ce que la directive ne pénalise pas la compétitivité du secteur automobile face aux concurrents mondiaux (ex: Asie).",
+      "Rechercher des mesures incitatives pour la transition écologique, notamment en matière d'électrification et d'hydrogène vert.",
+      "Assurer un financement adéquat pour la modernisation de l'industrie (R&D, infrastructures de recharge, formation des travailleurs).",
+      "Protéger les emplois dans les régions industrielles dépendantes du secteur automobile (ex: Rhin-Rhône, Lombardie).",
+      "Préconiser une approche équilibrée entre objectifs climatiques et préservation de la chaîne de valeur européenne.",
+      "Mettre en avant les co-bénéfices économiques de la transition écologique (ex: création d'emplois dans l'électrification, innovation technologique)"
+    ],
+    "impacts_directive": [
+      "La directive aura des conséquences importantes pour le secteur automobile, notamment sur les normes environnementales, la fiscalité sectorielle et la répartition des fonds de transition.",
+      "Les intérêts économiques et stratégiques de l'automobile sont directement concernés par la mise en place de mesures incitatives ou restrictives."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L’acteur Automobile adopte une stratégie de négociation équilibrée, combinant défense des intérêts sectoriels (protection de la compétitivité) et engagement dans la transition écologique. Il privilégie les alliances avec des pays industrialisés (ex: France, Allemagne) et des partis favorables à une approche progressive (PPE, S&D). L’acteur mise sur l’alliance stratégique avec le lobby Big Tech pour promouvoir l’innovation technologique dans les énergies propres. Il s’oppose farouchement aux mesures fiscales qui pénaliserait la production automobile et défend un cadre européen cohérent, mais flexible, pour la transition écologique. L'objectif est de concilier les objectifs climatiques avec la préservation des emplois dans le secteur automobile, tout en capitalisant sur les synergies technologiques (ex: électrification, intelligence artificielle).",
+    "alliances": [
+      "France (partage l'objectif de transition écologique et la nécessité d'investissements dans l'électrification du secteur automobile)",
+      "Italie (collaboration sur les projets d’hydrogène vert et la relance industrielle à l’échelle européenne)",
+      "PPE (soutien aux mesures incitatives pour la modernisation de l'industrie, tout en défendant une approche progressive du changement climatique)",
+      "S&D (priorité aux investissements dans les régions industrielles touchées par la transition écologique)",
+      "Verts/ALE (soutien à la transition écologique mais avec un focus sur les solutions technologiques adaptées au secteur automobile)",
+      "Big Tech (innovation infrastructures numériques et logicielles pour l’automobile du futur)",
+      "Banque (soutien aux investissements structuraux dans le secteur automobile et la transition écologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la mise en place d’un moratoire sur les énergies fossiles, défense des industries traditionnelles)",
+      "Conservateurs (préférence pour une transition progressive plutôt qu’une approche radicale de transformation industrielle)",
+      "Énergies fossiles (lobbies centraux charbon opposés aux mesures incitatives pour le secteur automobile)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition écologique doit être accompagnée d’un soutien fiscal et technologique fort pour éviter la délocalisation des usines vers des pays moins réglementés.",
+      "Les coûts de la transition ne doivent pas pénaliser les entreprises européennes par rapport à leurs concurrents mondiaux (ex: Asie).",
+      "Une industrialisation rapide de l’électrification nécessite des investissements massifs dans les infrastructures de recharge, les batteries et la formation des travailleurs.",
+      "Les mesures fiscales doivent être conçues pour inciter à la modernisation plutôt que d’imposer des coûts directs sur le secteur automobile.",
+      "Le lobby Automobile défend un cadre européen cohérent mais flexible, permettant aux pays de s'adapter à leur contexte industriel local (ex: Allemagne vs France).",
+      "La transition écologique offre des opportunités économiques et technologiques (ex: création d’emplois dans l’électrification, innovation en IA).",
+      "Les régions industrielles dépendantes du secteur automobile doivent être soutenues pour éviter une crise sociale liée à la transformation industrielle.",
+      "La collaboration avec le secteur technologique (Big Tech) est cruciale pour développer les solutions innovantes adaptées au futur de l’industrie automobile."
+    ],
+    "références": [
+      "s1d8.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur automobile (Volkswagen, Renault) et les objectifs climatiques de la directive. Évaluer l’impact des mesures fiscales sur les entreprises européennes par rapport aux concurrents mondiaux. Surveiller la coordination entre le lobby automobile et les acteurs technologiques pour éviter un déséquilibre dans la transition énergétique.",
+    "scenario_id": 1,
+    "directive_id": 8,
+    "actor_type": "lobby",
+    "generated_at": "2025-10-28T08:58:11.617549",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "1-8A",
+        "titre": "Instaurer une taxe sur les transactions financières à l’échelle européenne",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’instauration d’une taxe sur les transactions financières peut être bénéfique si les recettes sont orientées vers des investissements dans la transition écologique. Cela permettrait de financer l’électrification du secteur automobile et le développement de technologies propres, tout en soutenant les entreprises européennes face à la concurrence mondiale.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer une taxe sur les transactions financières à l’échelle européenne"
+      },
+      {
+        "amendement": "1-8B",
+        "titre": "Allouer une part des recettes fiscales à la transition écologique",
+        "position": "FAVORABLE",
+        "justification": "La réaffectation des recettes fiscales vers la transition écologique est un levier stratégique pour le secteur automobile. Cela permettrait de financer l’innovation technologique, les infrastructures nécessaires à la transition (ex: rechargeurs électriques) et de soutenir l’industrie européenne face aux coûts de transformation.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Allouer une part des recettes fiscales à la transition écologique"
+      },
+      {
+        "amendement": "1-8C",
+        "titre": "Créer un fonds de cohésion pour les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "Le secteur automobile est fortement présent dans des régions industrielles souvent touchées par la désindustrialisation. Le financement de ces régions via un fonds européen permettrait d’assurer une transition écologique juste et équitable, tout en préservant les emplois locaux.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Créer un fonds de cohésion pour les régions défavorisées"
+      },
+      {
+        "amendement": "1-8D",
+        "titre": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales",
+        "position": "NEUTRE",
+        "justification": "Bien que la transparence fiscale soit un objectif légitime, son impact sur le secteur automobile dépendra de l’application concrète. Une mise en œuvre trop rigoureuse pourrait pénaliser les entreprises européennes par rapport aux concurrents non soumis à ces règles.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Mettre en place un mécanisme de transparence fiscale obligatoire pour les multinationales"
+      },
+      {
+        "amendement": "1-8E",
+        "titre": "Permettre une flexibilité nationale sur le taux de TVA (±2%)",
+        "position": "FAVORABLE",
+        "justification": "La flexibilité nationale sur la TVA est cruciale pour permettre aux pays européens de soutenir leur industrie automobile locale, en particulier dans des régions où le secteur joue un rôle économique majeur. Cela éviterait une perte compétitive face à d’autres marchés.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Permettre une flexibilité nationale sur le taux de TVA (±2%)"
+      },
+      {
+        "amendement": "1-8F",
+        "titre": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L’exclusion des PME de l’harmonisation fiscale pourrait être bénéfique si elle permet d’éviter un surcoût pour les petites entreprises du secteur automobile, qui sont souvent plus vulnérables face à la concurrence mondiale. Cependant, une mise en œuvre maladroite risquerait de créer des distorsions de concurrence.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure les PME de l’harmonisation de l’impôt sur les sociétés"
+      },
+      {
+        "amendement": "1-8G",
+        "titre": "Reporter l’application de l’harmonisation fiscale de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report de deux ans dans l’application de l’harmonisation fiscale permettrait aux pays européens d’ajuster leurs politiques et à la Commission de mieux cadrer les mesures avant leur mise en œuvre. Cela éviterait des impacts négatifs imprévisibles sur le secteur automobile.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Reporter l’application de l’harmonisation fiscale de deux ans"
+      },
+      {
+        "amendement": "1-8H",
+        "titre": "Autoriser des dérogations temporaires pour les États à faible revenu",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Si la directive prévoit des dérogations pour les États à faible revenu, cela pourrait créer un déséquilibre fiscal entre les pays européens. Cependant, une approche circonspecte et équilibrée permettrait de soutenir ces États sans pénaliser l’industrie automobile européenne.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Autoriser des dérogations temporaires pour les États à faible revenu"
+      }
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+# stats1d3
+
+Source : `directives/fiches-acteurs/s1/d3/stats1d3.json`
+
+## Contenu
+
+- **scenario** : `1`
+- **directive** : `3`
+- **nom** : Réforme financière agricole et agroécologique
+- **valeurs\_prevues** :
+  - **pib\_eu** : `2.2`
+  - **gini\_eu** : `0.28`
+  - **co2\_eu** : `6.0`
+  - **veb\_eu** : `82`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 1-3A
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.1`
+      - **gini\_eu** : `0.26`
+      - **co2\_eu** : `5.5`
+      - **veb\_eu** : `87`
+  - **Élément 2** :
+    - **id** : 1-3B
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.27`
+      - **co2\_eu** : `5.2`
+      - **veb\_eu** : `85`
+  - **Élément 3** :
+    - **id** : 1-3C
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.27`
+      - **co2\_eu** : `5.8`
+      - **veb\_eu** : `88`
+  - **Élément 4** :
+    - **id** : 1-3D
+    - **origine** : Conservateurs et Réformistes
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.25`
+      - **co2\_eu** : `5.9`
+      - **veb\_eu** : `86`
+  - **Élément 5** :
+    - **id** : 1-3E
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `6.4`
+      - **veb\_eu** : `80`
+  - **Élément 6** :
+    - **id** : 1-3F
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.26`
+      - **co2\_eu** : `6.1`
+      - **veb\_eu** : `83`
+  - **Élément 7** :
+    - **id** : 1-3G
+    - **origine** : Italie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.28`
+      - **co2\_eu** : `6.0`
+      - **veb\_eu** : `84`
+  - **Élément 8** :
+    - **id** : 1-3H
+    - **origine** : Allemagne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `6.7`
+      - **veb\_eu** : `79`

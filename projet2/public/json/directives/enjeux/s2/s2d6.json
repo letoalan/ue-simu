@@ -1,0 +1,213 @@
+{
+  "directive": {
+    "id": "2-6",
+    "title": "Coopération transfrontalière et sécurité intérieure",
+    "description": "Mise en place de centres de commandement communs, échange systématique de données policières et judiciaires. Renforcer la lutte contre le crime organisé, le terrorisme et la cybercriminalité, tout en garantissant le respect des droits fondamentaux.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Renforcer l’interopérabilité des systèmes d’information policiers et judiciaires à l'échelle européenne (Europol, Eurojust).",
+        "Mettre en place des centres opérationnels conjoints pour démanteler les réseaux criminels transfrontaliers et terroristes.",
+        "Accélérer le partage sécurisé de données tout en garantissant le respect rigoureux des droits fondamentaux et de la vie privée.",
+        "Harmoniser les protocoles de réponse rapide face aux cyberattaques majeures et aux menaces hybrides."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Exclure certains États membres de l’échange systématique de données",
+        "enjeux": [
+          "Préserver la souveraineté nationale sur les renseignements sensibles et la protection des sources de sécurité intérieure.",
+          "Éviter que des partages automatiques ne compromettent des enquêtes de terrorisme ou des secrets de défense nationale."
+        ],
+        "strategie": "Défendre l'amendement 2-6F pour instaurer des dérogations souveraines ciblées lorsque la sécurité nationale vitale est en jeu."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "amendment": "Reporter l’application de la directive de deux ans",
+        "enjeux": [
+          "Assurer une mise en conformité technique et juridique rigoureuse entre le niveau fédéral et les Länder.",
+          "Garantir des standards constitutionnels stricts de protection des données personnelles avant le déploiement opérationnel."
+        ],
+        "strategie": "Plaider pour un délai de transition réaliste de deux ans (2-6H) permettant d'adapter les infrastructures policières et judiciaires."
+      },
+      {
+        "name": "Italie",
+        "role": "Non-porteur",
+        "position": "Soutien très actif à la coopération policière intégrée et aux équipes conjointes d’enquête antimafia.",
+        "enjeux": [
+          "Capitaliser sur son expertise de lutte contre le crime organisé transnational et le trafic d'êtres humains.",
+          "Mutualiser les ressources pour surveiller les routes criminelles maritimes et transfrontalières en Méditerranée."
+        ],
+        "role_description": "Promoteur d'une intégration policière poussée et de la saisie transfrontalière des avoirs criminels."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Limiter la coopération à certains types de criminalité",
+        "enjeux": [
+          "Restreindre l'ingérence des agences européennes aux seuls crimes graves clairement définis.",
+          "Préserver le contrôle exclusif des autorités nationales sur la sécurité publique ordinaire."
+        ],
+        "strategie": "Fédérer les pays soucieux de leur souveraineté pour encadrer strictement le mandat de coopération policière (2-6E)."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "enjeux": [
+          "Consolider l'autonomie et les prérogatives des tribunaux et parquets nationaux face aux structures supranationales.",
+          "Garantir que les financements européens soutiennent directement la modernisation des polices et tribunaux nationaux."
+        ],
+        "strategie": "Porter l'amendement 2-6G pour consacrer la primauté et le renforcement des juridictions nationales."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Soutien vigilant à la coopération policière, conditionné à des garanties démocratiques et de protection de la vie privée.",
+        "enjeux": [
+          "Garantir le respect scrupuleux de l'État de droit, de la proportionnalité et du contrôle judiciaire des fichiers de police.",
+          "Prévenir toute dérive vers une surveillance de masse automatisée sans contrôle parlementaire."
+        ],
+        "role_description": "Défenseur intransigeant des libertés civiles et de la transparence démocratique des agences de sécurité."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Créer une unité européenne de lutte contre le terrorisme",
+        "enjeux": [
+          "Renforcer l’autorité et les capacités opérationnelles d'Europol face à la menace terroriste et au grand banditisme.",
+          "Offrir une protection concrète et visible aux citoyens européens face aux menaces extérieures et intérieures."
+        ],
+        "strategie": "Promouvoir une Europe qui protège par des structures opérationnelles permanentes et coordonnées (2-6D)."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Non-porteur",
+        "position": "Soutien à la sécurité collective allié à des garanties procédurales strictes et à la protection des victimes.",
+        "enjeux": [
+          "Assurer un équilibre irréprochable entre efficacité sécuritaire et garanties fondamentales des droits de la défense.",
+          "Renforcer la lutte contre la traite des êtres humains, l'exploitation criminelle et la criminalité financière."
+        ],
+        "strategie": "Veiller à l'encadrement éthique des outils policiers et au respect des principes démocratiques."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "enjeux": [
+          "Moderniser l'appareil sécuritaire européen face aux attaques numériques d'ampleur et aux rançongiciels.",
+          "Créer des capacités de cyber-enquête transfrontalières intégrées pour protéger l'espace numérique commun."
+        ],
+        "strategie": "Faire de la cybercriminalité le pilier central de la modernisation de la sécurité intérieure européenne (2-6A)."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Non-porteur",
+        "position": "Soutien très conditionnel, vigilance extrême contre la surveillance de masse et les abus technologiques.",
+        "enjeux": [
+          "Protéger la vie privée des citoyens et encadrer strictement l'utilisation de l'intelligence artificielle et de la biométrie par la police.",
+          "Exiger un contrôle judiciaire indépendant pour tout échange de données personnelles transfrontalier."
+        ],
+        "strategie": "Imposer des garde-fous stricts sur les fichiers de police et défendre les droits civiques fondamentaux."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "enjeux": [
+          "Privilégier le partage d'analyses et de renseignements stratégiques sans créer de structures de police fédérale coercitives.",
+          "Respecter la subsidiarité et la souveraineté des polices et justices d'État."
+        ],
+        "strategie": "Proposer un observatoire analytique (2-6B) comme alternative mesurée à une intégration supranationale excessive."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "enjeux": [
+          "Interdire les collectes indiscriminées de données et protéger les lanceurs d'alerte et militants.",
+          "Subordonner tout accès aux données policières à l'autorisation préalable d'un juge indépendant."
+        ],
+        "strategie": "Mobiliser pour des verrous juridiques intransigeants protégeant la vie privée contre la surveillance d'État (2-6C)."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Fournir des infrastructures sécurisées et du chiffrement de bout en bout pour les communications policières et judiciaires.",
+          "Garantir un cadre juridique clair et proportionné pour les réquisitions de données numériques transfrontalières."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "Parti Populaire Européen",
+          "France"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Sécuriser les infrastructures critiques énergétiques (oléoducs, terminaux méthaniers, réseaux de distribution) contre les sabotages et cyberattaques.",
+          "Participer aux protocoles de réponse d'urgence face aux menaces terroristes visant les installations stratégiques."
+        ],
+        "alliances": [
+          "Pologne",
+          "Parti Populaire Européen",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Coopérer étroitement avec les forces de l'ordre pour démanteler les circuits de blanchiment d'argent et le financement du terrorisme (AML/CFT).",
+          "Harmoniser les signalements de cyberfraudes financières transfrontalières pour protéger l'intégrité du système de paiement."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Lutter contre les réseaux criminels de contrefaçon de produits phytosanitaires et le trafic illicite de substances dangereuses.",
+          "Sécuriser les installations chimiques et les chaînes logistiques d'intrants contre les risques de vol ou de terrorisme."
+        ],
+        "alliances": [
+          "Italie",
+          "Parti Populaire Européen"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Démanteler les filières internationales de médicaments contrefaits et falsifiés mettant en péril la santé publique.",
+          "Sécuriser les données de recherche médicale sensible contre l'espionnage industriel et les cyberattaques ciblées."
+        ],
+        "alliances": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Renforcer la cybersécurité des véhicules connectés et autonomes face aux cyberattaques et piratages de flottes.",
+          "Améliorer l'interconnexion des fichiers d'immatriculation pour lutter contre les trafics internationaux de véhicules volés."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Italie",
+          "Parti Populaire Européen"
+        ]
+      }
+    ]
+  }
+}

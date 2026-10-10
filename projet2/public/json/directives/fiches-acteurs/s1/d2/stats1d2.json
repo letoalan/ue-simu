@@ -1,0 +1,93 @@
+{
+  "scenario": 1,
+  "directive": 2,
+  "nom": "Marché unique numérique",
+  "valeurs_prevues": {
+    "pib_eu": 2.5,
+    "gini_eu": 0.32,
+    "co2_eu": 7.0,
+    "veb_eu": 78
+  },
+  "amendements": [
+    {
+      "id": "1-2A",
+      "origine": "Verts/ALE",
+      "valeurs_prevues": {
+        "pib_eu": 2.4,
+        "gini_eu": 0.30,
+        "co2_eu": 7.0,
+        "veb_eu": 80
+      }
+    },
+    {
+      "id": "1-2B",
+      "origine": "Gauche Unitaire",
+      "valeurs_prevues": {
+        "pib_eu": 2.7,
+        "gini_eu": 0.29,
+        "co2_eu": 6.9,
+        "veb_eu": 80
+      }
+    },
+    {
+      "id": "1-2C",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "pib_eu": 2.8,
+        "gini_eu": 0.31,
+        "co2_eu": 6.8,
+        "veb_eu": 82
+      }
+    },
+    {
+      "id": "1-2D",
+      "origine": "Socialistes & Démocrates",
+      "valeurs_prevues": {
+        "pib_eu": 2.5,
+        "gini_eu": 0.30,
+        "co2_eu": 7.0,
+        "veb_eu": 81
+      }
+    },
+    {
+      "id": "1-2E",
+      "origine": "France",
+      "valeurs_prevues": {
+        "pib_eu": 2.6,
+        "gini_eu": 0.30,
+        "co2_eu": 6.9,
+        "veb_eu": 79
+      }
+    },
+    {
+      "id": "1-2F",
+      "origine": "Allemagne",
+      "valeurs_prevues": {
+        "pib_eu": 2.3,
+        "gini_eu": 0.33,
+        "co2_eu": 7.1,
+        "veb_eu": 77
+      }
+    },
+    {
+      "id": "1-2G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "pib_eu": 2.6,
+        "gini_eu": 0.32,
+        "co2_eu": 6.8,
+        "veb_eu": 82
+      }
+    },
+    {
+      "id": "1-2H",
+      "origine": "Suède",
+      "valeurs_prevues": {
+        "pib_eu": 2.4,
+        "gini_eu": 0.31,
+        "co2_eu": 7.0,
+        "veb_eu": 80
+      }
+    }
+  ]
+}

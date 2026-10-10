@@ -1,0 +1,191 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+  "enjeux_directive": [
+    "Renforcer la cohérence et l’efficacité de l’action extérieure de l’UE via le Service européen pour l’action extérieure (SEAE).",
+    "Affirmer une voix européenne unifiée dans les organisations et enceintes multilatérales.",
+    "Déployer des missions diplomatiques conjointes et mutualiser la protection consulaire des citoyens européens.",
+    "Créer des mécanismes de solidarité diplomatique et de diplomatie préventive face aux crises internationales.",
+    "Promouvoir une approche multilatérale fondée sur les règles, la paix et la médiation pacifique."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle du SEAE et de la Commission dans la conduite concertée des relations extérieures de l'Union.",
+    "Elle consolidera l'autorité et la visibilité de l'UE comme acteur géopolitique crédible et unifié.",
+    "Elle favorisera une coordination étroite entre diplomatie stratégique, politique commerciale et aide humanitaire."
+  ],
+  "impacts_amendements": [
+    {
+      "id": "2-5A",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la représentation unique à toutes les organisations internationales",
+      "impact": "Renforcerait significativement l'influence multilatérale de l'Union, mais exige une adhésion totale des États membres et un mandat diplomatique clair."
+    },
+    {
+      "id": "2-5B",
+      "origine": "Socialistes & Démocrates",
+      "description": "Créer un fonds européen pour la diplomatie préventive",
+      "impact": "Permettrait d'anticiper les crises géopolitiques et de financer des médiations rapides avant l'escalade des conflits."
+    },
+    {
+      "id": "2-5C",
+      "origine": "Verts/ALE",
+      "description": "Conditionner la participation aux missions à la formation diplomatique commune",
+      "impact": "Améliorerait l'interopérabilité, les standards éthiques et le professionnalisme des équipes diplomatiques communes."
+    },
+    {
+      "id": "2-5D",
+      "origine": "Parti Populaire Européen",
+      "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+      "impact": "Offrirait un filet de sécurité diplomatique indispensable pour protéger les ressortissants et missions des États membres en crise."
+    },
+    {
+      "id": "2-5E",
+      "origine": "Hongrie",
+      "description": "Limiter la représentation unique à certaines organisations",
+      "impact": "Modérerait la portée et la visibilité internationale de l'Union en créant des régimes d'exception par organisation."
+    },
+    {
+      "id": "2-5F",
+      "origine": "France",
+      "description": "Exclure certains États membres de la représentation unique",
+      "impact": "Introduirait une asymétrie entre États membres, bien que compréhensible pour préserver le statut spécifique du siège permanent français au CSNU."
+    },
+    {
+      "id": "2-5G",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement la diplomatie bilatérale nationale",
+      "impact": "Risquerait de fragmenter la parole européenne au détriment de l'action collective unifiée."
+    },
+    {
+      "id": "2-5H",
+      "origine": "Suède",
+      "description": "Reporter l’application de la directive de deux ans",
+      "impact": "Reporterait de deux ans les bénéfices d'une voix unifiée, mais faciliterait l'adaptation logistique et administrative des chancelleries nationales."
+    }
+  ],
+  "stratégie": "La Commission européenne adopte une stratégie centrée sur le renforcement de la cohérence institutionnelle et la promotion d’une diplomatie multilatérale. Elle vise à aligner les actions diplomatiques des États membres avec un cadre stratégique commun sous l'égide du SEAE. En matière de représentation unique, elle soutient son déploiement ambitieux pour peser de tout son poids dans les forums mondiaux (ONU, OMC, G20). Elle accueille très favorablement la création d'un fonds de diplomatie préventive (2-5B) et d'un mécanisme de solidarité diplomatique (2-5D), tout en recherchant des compromis pragmatiques sur les formations communes (2-5C) et les spécificités de souveraineté légitimes (2-5F). Elle s'oppose en revanche aux tentatives de vidage du texte qui viseraient à sanctuariser un bilatéralisme isolé (2-5G) ou à restreindre drastiquement le champ de la coopération (2-5E).",
+  "alliances": [
+    "Renouveau Européen (partage l'objectif d'une représentation unique élargie et d'un rôle diplomatique fédéral)",
+    "Socialistes & Démocrates (soutien au fonds de diplomatie préventive et à la médiation pacifique)",
+    "PPE (appui au mécanisme de solidarité diplomatique et à la crédibilité internationale)",
+    "Verts/ALE (soutien à la formation diplomatique commune et à la diplomatie multilatérale)",
+    "Allemagne (attachement fort au multilatéralisme et aux règles internationales)",
+    "Italie (intérêt pour les missions conjointes et la stabilisation de la Méditerranée)",
+    "Banque et Finance (soutien à la représentation coordonnée dans les instances financières mondiales)"
+  ],
+  "oppositions": [
+    "Hongrie (refus d'une représentation unique et défense stricte de la souveraineté bilatérale)",
+    "Pologne (priorité donnée à la diplomatie bilatérale nationale et aux liens transatlantiques exclusifs)",
+    "Conservateurs et Réformistes (défense de la souveraineté diplomatique exclusive des capitales)"
+  ],
+  "éléments_d_argumentaire": [
+    "Une diplomatie européenne unifiée démultiplie l'influence des 27 États membres face aux grandes puissances géopolitiques.",
+    "La représentation unique dans les organisations internationales met fin aux cacophonies et garantit la défense coordonnée des valeurs et intérêts européens.",
+    "Le fonds européen pour la diplomatie préventive permet d'intervenir en amont pour désamorcer les conflits plutôt que de subir des crises déstabilisatrices.",
+    "Le mécanisme de solidarité diplomatique garantit à chaque citoyen européen une protection consulaire renforcée, partout dans le monde.",
+    "Une formation diplomatique commune constitue le socle indispensable d'une culture stratégique partagée au sein du Service européen pour l'action extérieure."
+  ],
+  "références": [
+    "s2d5.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller les tensions de souveraineté diplomatique entre la France (siège permanent au Conseil de sécurité de l'ONU) et les partisans d'une intégration fédérale stricte. Trouver un terrain d'entente avec la Suède sur un calendrier progressif d'application sans dénaturer l'ambition initiale.",
+  "positions_amendements": [
+    {
+      "amendement": "2-5A",
+      "titre": "Élargir la représentation unique à toutes les organisations internationales",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il concrétise la vision d'une voix européenne forte et cohérente dans toutes les enceintes multilatérales majeures.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Élargir la représentation unique à toutes les organisations internationales"
+    },
+    {
+      "amendement": "2-5B",
+      "titre": "Créer un fonds européen pour la diplomatie préventive",
+      "position": "FAVORABLE",
+      "justification": "La Commission juge ce fonds indispensable pour agir de façon proactive, financer des médiations de paix et éviter l'embrasement de crises internationales.",
+      "priorite": "très_haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Créer un fonds européen pour la diplomatie préventive"
+    },
+    {
+      "amendement": "2-5C",
+      "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission soutient la professionnalisation et l'harmonisation via une académie diplomatique européenne, mais souhaite éviter des critères d'accès trop rigides qui freineraient le déploiement opérationnel des missions.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+    },
+    {
+      "amendement": "2-5D",
+      "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+      "position": "FAVORABLE",
+      "justification": "Ce mécanisme concrétise le principe de solidarité entre États membres en assurant une assistance consulaire et diplomatique automatique en cas d'urgence.",
+      "priorite": "haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+    },
+    {
+      "amendement": "2-5E",
+      "titre": "Limiter la représentation unique à certaines organisations",
+      "position": "DEFAVORABLE",
+      "justification": "Une telle restriction affaiblirait la portée de la directive et fragmenterait la parole de l'Union sur la scène mondiale.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Limiter la représentation unique à certaines organisations"
+    },
+    {
+      "amendement": "2-5F",
+      "titre": "Exclure certains États membres de la représentation unique",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "La Commission défend l'universalité de la représentation commune, tout en admettant des aménagements pragmatiques pour le statut historique de la France au Conseil de sécurité des Nations unies.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Exclure certains États membres de la représentation unique"
+    },
+    {
+      "amendement": "2-5G",
+      "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+      "position": "DEFAVORABLE",
+      "justification": "Privilégier le bilatéralisme isolé risque de réintroduire des divergences nationales et d'annihiler l'impact géopolitique de l'action collective européenne.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+    },
+    {
+      "amendement": "2-5H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE",
+      "justification": "La Commission préconise une entrée en vigueur rapide pour répondre aux crises géopolitiques contemporaines, tout en restant ouverte à des phases de transition technique.",
+      "priorite": "faible",
+      "origine": "Suède",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "metadata": {
+    "source_file": "s2-d5.json",
+    "type": "commission",
+    "directive_id": "2-5",
+    "tokens": {
+      "count": 750,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2026-10-10T17:30:00.000000",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 5,
+  "actor_type": "commission",
+  "generated_at": "2026-10-10T17:30:00.000000",
+  "version": "4.8"
+}

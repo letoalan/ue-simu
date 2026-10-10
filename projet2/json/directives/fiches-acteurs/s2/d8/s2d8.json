@@ -1,0 +1,881 @@
+{
+  "directive": {
+    "id": "2-8",
+    "title": "Souveraineté numérique et cybersécurité",
+    "description": "Renforcer la résilience face aux cyberattaques, garantir la souveraineté numérique et protéger les infrastructures critiques de l’UE.",
+    "commission": {
+      "type": "Commission",
+      "nom": "Commission européenne",
+      "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux_directive": [
+        "Harmoniser les normes de cybersécurité au niveau européen.",
+        "Protéger les infrastructures critiques et sensibles.",
+        "Réduire la dépendance aux technologies étrangères.",
+        "Anticiper les tensions entre souveraineté nationale et intégration européenne."
+      ],
+      "impacts_directive": [
+        "La directive permettrait à la Commission d'agir comme un régulateur de premier plan, renforçant son autorité pour harmoniser les normes de cybersécurité à l'échelle de l'UE.",
+        "Elle augmenterait son budget et son influence dans le domaine du numérique, tout en renforçant son autorité pour coordonner les efforts des États membres."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "2-8A",
+          "origine": "PPE",
+          "description": "Soutien financier à la recherche",
+          "impact": "Positif. Cet amendement s'aligne avec les objectifs de la Commission de stimuler l'innovation et de réduire la dépendance technologique de l'UE."
+        },
+        {
+          "id": "2-8B",
+          "origine": "S&D",
+          "description": "Soutien à la formation continue",
+          "impact": "Positif. Cet amendement renforce la dimension sociale de la directive et permettrait de créer une main-d'œuvre qualifiée, essentielle pour atteindre les objectifs de cybersécurité."
+        },
+        {
+          "id": "2-8C",
+          "origine": "Renouveau Européen",
+          "description": "Renforcer le corps européen de cybersécurité",
+          "impact": "Positif. Cet amendement permet de garantir l'efficacité de la directive et l'ambition de la Commission. Il aligne les objectifs du Parlement sur ceux de la Commission."
+        },
+        {
+          "id": "2-8D",
+          "origine": "Verts/ALE",
+          "description": "Intégrer les critères de durabilité",
+          "impact": "Positif. Cet amendement aligne la politique numérique sur le Pacte vert, un atout pour la Commission."
+        },
+        {
+          "id": "2-8E",
+          "origine": "Italie",
+          "description": "Limiter le champ d’action du corps européen",
+          "impact": "Négatif. Cet amendement affaiblirait la portée de la directive et la capacité de l'UE à se défendre. Il est un risque majeur pour le compromis."
+        },
+        {
+          "id": "2-8F",
+          "origine": "Allemagne",
+          "description": "Exclure certains secteurs des normes communes",
+          "impact": "Négatif. Cet amendement créerait des failles de sécurité, ce qui est un risque pour la directive et pour l'ensemble de l'UE."
+        },
+        {
+          "id": "2-8G",
+          "origine": "Pologne",
+          "description": "Soutenir prioritairement les initiatives nationales",
+          "impact": "Négatif. Cet amendement est contraire au principe d'harmonisation et de souveraineté européenne. Il affaiblirait la directive."
+        },
+        {
+          "id": "2-8H",
+          "origine": "Hongrie",
+          "description": "Reporter l’application de la directive",
+          "impact": "Négatif. Cet amendement retarderait la mise en œuvre de la directive et enverrait un signal négatif sur l'ambition de l'Union."
+        }
+      ],
+      "stratégie": "La Commission doit s'appuyer sur les pays porteurs (France, Allemagne, Italie) pour promouvoir un cadre de cybersécurité ambitieux. Elle doit argumenter que la souveraineté numérique est un enjeu de souveraineté globale et que l'Union doit parler d'une seule voix pour se défendre. Elle doit s'allier avec les partis les plus ambitieux sur l'harmonisation pour faire passer les mesures clés de la directive.",
+      "alliances": [
+        "États membres porteurs (France, Allemagne)",
+        "Partis favorables à une politique numérique ambitieuse (PPE, Socialistes et Démocrates, Renouveau Européen, Verts/ALE)"
+      ],
+      "oppositions": [
+        "Partis qui s'opposent à une centralisation des pouvoirs (Conservateurs et Réformistes)",
+        "États membres qui craignent de perdre leur autonomie (Hongrie, Italie, Pologne)"
+      ],
+      "éléments_d_argumentaire": [
+        "La souveraineté numérique est un enjeu de sécurité nationale pour chaque État membre.",
+        "Le coût de la non-Europe en matière de cybersécurité est beaucoup plus élevé que celui d'une politique commune.",
+        "Nous devons protéger nos entreprises et nos citoyens contre les cyberattaques."
+      ]
+    },
+    "countries": [
+      {
+        "type": "Etat",
+        "nom": "France",
+        "role_europeen": "Non-porteur",
+        "position": "Soutien fort à une cybersécurité européenne ambitieuse.",
+        "enjeux_directive": [
+          "Consolider son rôle moteur en Europe numérique.",
+          "Protéger ses infrastructures stratégiques."
+        ],
+        "impacts_directive": [
+          "La directive renforcerait la position de la France en tant que leader de la cybersécurité en Europe. Elle lui permettrait de bénéficier de normes harmonisées et d'un budget européen pour la recherche et le développement."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement est cohérent avec l'objectif de la France de renforcer la recherche en cybersécurité."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Positif. L'amendement permettrait de créer une main-d'œuvre qualifiée en France, ce qui est un atout pour le pays."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un soutien à la France dans son objectif de renforcer la défense européenne."
+          },
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Négatif. L'amendement est négatif car il ajouterait des obligations de durabilité, ce qui pourrait retarder le déploiement des infrastructures numériques et augmenter les coûts."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il affaiblirait la directive et la capacité de l'UE à se défendre."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il créerait des failles de sécurité en excluant certains secteurs."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "Négatif. L'amendement est contraire à l'objectif de la France d'harmoniser les normes de cybersécurité en Europe."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "Négatif. L'amendement est un risque pour la France, car il retarderait la mise en œuvre de la directive et affaiblirait la position de l'UE sur la scène internationale."
+          }
+        ],
+        "stratégie": "La France cherche à s'allier avec l'Allemagne et les autres pays porteurs pour faire avancer la directive le plus rapidement possible. Elle met en avant l'importance de la souveraineté numérique pour la souveraineté européenne.",
+        "alliances": [
+          "Allemagne",
+          "Parti Populaire Européen",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté numérique est un enjeu de sécurité nationale. Nous devons agir ensemble.",
+          "Une Europe forte a besoin d'un espace numérique sécurisé."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Allemagne",
+        "role_europeen": "Porteur",
+        "position": "Soutient l'harmonisation mais défend les intérêts de son industrie.",
+        "enjeux_directive": [
+          "Protéger ses industries sensibles.",
+          "Limiter les coûts réglementaires."
+        ],
+        "impacts_directive": [
+          "La directive renforcerait la position de l'Allemagne en tant qu'acteur majeur des échanges numériques en Europe. Elle lui permettrait d'utiliser le cadre européen pour étendre l'influence de ses institutions et entreprises."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. Cet amendement permettrait de soutenir la recherche et le développement dans l'industrie allemande."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Positif. Cet amendement est cohérent avec l'objectif de l'Allemagne de former une main-d'œuvre qualifiée pour son industrie."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque pour l'Allemagne, car il pourrait entraîner des coûts et des obligations supplémentaires pour ses entreprises."
+          },
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Positif. Cet amendement est cohérent avec l'agenda allemand de transition écologique."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "Positif. L'amendement est un atout pour l'Allemagne, car il limiterait les obligations réglementaires."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permet de protéger ses industries sensibles et de limiter les coûts de mise en conformité."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "Positif. L'amendement est un atout pour l'Allemagne, car il permettrait de protéger sa souveraineté nationale en matière de cybersécurité."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "Négatif. L'amendement est un risque pour l'Allemagne, car il retarderait la mise en œuvre de la directive et affaiblirait la position de l'UE."
+          }
+        ],
+        "stratégie": "L'Allemagne soutient activement la directive mais veut garantir un équilibre entre les programmes européens et ses propres réseaux industriels. Elle s'allie avec la France et les autres pays porteurs pour faire avancer la proposition de la Commission.",
+        "alliances": [
+          "France",
+          "Italie",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Hongrie",
+          "Pologne",
+          "Conservateurs et Réformistes"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté numérique est un pilier de notre prospérité. Nous devons encourager les échanges et la recherche pour rester compétitifs.",
+          "La sécurité de notre industrie est une priorité. Nous devons la protéger."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Italie",
+        "role_europeen": "Non-porteur",
+        "position": "Favorable à la coopération européenne, mais craint une perte de souveraineté et une charge réglementaire excessive.",
+        "enjeux_directive": [
+          "Maintenir une autonomie nationale forte.",
+          "Éviter des obligations coûteuses pour ses entreprises."
+        ],
+        "impacts_directive": [
+          "L'Italie bénéficierait de la directive en termes de coopération et de sécurité, mais elle devrait faire face à des obligations réglementaires qui pourraient être coûteuses pour ses entreprises."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement permettrait de renforcer la recherche en cybersécurité, un atout pour le pays."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Négatif. L'amendement est un risque pour l'Italie, car il pourrait renforcer la coopération et limiter la souveraineté nationale."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque pour l'Italie, car il renforcerait le pouvoir du corps européen de cybersécurité, un risque pour la souveraineté nationale."
+          },
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Négatif. L'amendement est un risque pour l'Italie, car il ajouterait des obligations de durabilité, ce qui pourrait augmenter les coûts pour ses entreprises."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "Positif. L'amendement est un atout pour l'Italie, car il préserverait la primauté de la souveraineté nationale et limiterait le champ d'action de l'UE."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour l'Italie, car il lui permettrait de protéger ses industries sensibles et de limiter les obligations réglementaires."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "Positif. L'amendement est un atout pour l'Italie, car il favoriserait les initiatives nationales et limiterait le pouvoir de l'UE."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "Positif. L'amendement est un atout pour l'Italie, car il retarderait la mise en œuvre de la directive, un enjeu clé pour le pays."
+          }
+        ],
+        "stratégie": "L'Italie soutient la directive tout en plaçant la préservation de son autonomie nationale au centre de la négociation. Elle s'allie avec les pays qui cherchent des garanties sur l'autonomie nationale.",
+        "alliances": [
+          "Allemagne",
+          "Pologne",
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "France",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "La sécurité nationale est la responsabilité de chaque État. L'UE doit rester un partenaire, pas un contrôleur.",
+          "Les PME italiennes ont besoin de flexibilité pour s'adapter aux nouvelles normes."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Pologne",
+        "role_europeen": "Non-porteur",
+        "position": "Favorable à la coopération sur la cybersécurité, mais s’oppose à un 'fédéralisme numérique'.",
+        "enjeux_directive": [
+          "Protéger ses infrastructures critiques contre les cyberattaques.",
+          "Limiter les obligations coûteuses de mise en conformité."
+        ],
+        "impacts_directive": [
+          "La directive renforcerait la sécurité de la Pologne face aux menaces numériques, mais elle craindrait une perte de souveraineté et une charge réglementaire excessive."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Négatif. L'amendement renforcerait le pouvoir du Parlement, ce qui est un risque pour le pays."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il renforcerait la coopération et l'intégration européenne."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement renforcerait l'intégration européenne, un risque pour le pays."
+          },
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il ajouterait des obligations de durabilité."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "Positif. L'amendement limiterait l'action de l'UE, ce qui est cohérent avec la position polonaise."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permettrait de protéger son industrie et de limiter les obligations réglementaires."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "Positif. L'amendement est un atout pour le pays, car il lui permettrait de défendre sa souveraineté nationale en matière de cybersécurité."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "Positif. L'amendement retarderait la mise en œuvre de la directive, un enjeu clé pour le pays."
+          }
+        ],
+        "stratégie": "La Pologne s'allie avec les pays qui craignent de perdre leur souveraineté culturelle. Elle argumente que la cybersécurité est une question de sécurité nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Hongrie",
+          "Italie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté nationale est la clé de notre sécurité. Nous devons protéger notre infrastructure.",
+          "Le coût de la mise en conformité ne doit pas peser sur nos entreprises."
+        ]
+      },
+      {
+        "type": "Etat",
+        "nom": "Hongrie",
+        "role_europeen": "Opposant",
+        "position": "Opposée à toute forme de centralisation et de perte de souveraineté nationale.",
+        "enjeux_directive": [
+          "Maintenir sa souveraineté et ses propres choix en matière de sécurité numérique."
+        ],
+        "impacts_directive": [
+          "La directive est un risque pour la Hongrie, car elle affaiblirait sa souveraineté nationale en matière de sécurité numérique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Négatif. L'amendement renforcerait l'intégration européenne, ce qui est un risque pour le pays."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il renforcerait la coopération et l'intégration européenne."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Négatif. L'amendement est un risque majeur pour le pays, car il renforcerait le pouvoir du corps européen de cybersécurité."
+          },
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Négatif. L'amendement est un risque pour le pays, car il ajouterait des obligations de durabilité."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "Positif. L'amendement est un atout pour la Hongrie, car il limiterait le champ d'action de l'UE, ce qui est cohérent avec sa position."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "Positif. L'amendement est un atout pour la Hongrie, car il lui permettrait de protéger son industrie et de limiter les obligations réglementaires."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "Positif. L'amendement est un atout pour la Hongrie, car il favoriserait les initiatives nationales et limiterait le pouvoir de l'UE."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "Positif. L'amendement est un atout pour la Hongrie, car il lui permettrait de défendre sa souveraineté nationale et de retarder la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "La Hongrie s'allie avec les pays qui craignent de perdre leur souveraineté. Elle argumente que la cybersécurité est une question de sécurité nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Pologne",
+          "Italie",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "France",
+          "Allemagne",
+          "Renouveau Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté nationale est la clé de notre sécurité. Nous devons nous opposer à toute tentative de centralisation.",
+          "Cette directive est un pas de plus vers un super-État européen."
+        ]
+      }
+    ],
+    "parties_politiques": [
+      {
+        "type": "Parti",
+        "nom": "Parti Populaire Européen (PPE)",
+        "role_europeen": "Soutien et amendements",
+        "enjeux_directive": [
+          "Renforcer l'identité européenne à travers la culture et l'éducation.",
+          "Soutenir les programmes qui renforcent l'excellence académique."
+        ],
+        "impacts_directive": [
+          "Le PPE soutient la directive car elle permet de renforcer l'identité européenne et d'investir dans l'éducation et la culture, des domaines qui lui sont chers. Le parti verrait son influence renforcée par les amendements qu'il propose et qui s'alignent avec les objectifs de la Commission."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "L'amendement est positif pour le parti, car il montre son engagement à investir dans la recherche et l'innovation."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "L'amendement est un risque pour le parti, car il irait à l'encontre de l'objectif d'harmonisation de l'UE."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "L'amendement est un risque pour le parti, car il créerait des failles de sécurité en excluant certains secteurs."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "L'amendement est un risque pour le parti, car il irait à l'encontre de l'objectif d'harmonisation de l'UE."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "L'amendement est un risque pour le parti, car il retarderait la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "Le PPE s'allie avec la Commission et les autres partis centristes pour faire passer les amendements qui renforcent la directive et augmentent son ambition.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Renouveau Européen",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "Investir dans la souveraineté numérique, c'est investir dans notre avenir.",
+          "La sécurité de notre espace numérique est une priorité."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Socialistes et Démocrates (S&D)",
+        "role_europeen": "Soutien et amendements",
+        "enjeux_directive": [
+          "Réduire les inégalités d'accès à la cybersécurité.",
+          "Démocratiser les programmes européens."
+        ],
+        "impacts_directive": [
+          "Les S&D soutiennent la directive car elle permet de renforcer la cohésion sociale et de réduire les inégalités en rendant la cybersécurité plus accessible. Ils voient dans cette directive un moyen de renforcer la dimension sociale de l'Union."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "L'amendement est positif pour le parti, car il permet de mettre l'accent sur l'accès à la technologie pour tous."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "L'amendement est positif pour le parti, car il met l'accent sur la formation et l'éducation, un enjeu central pour le parti."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est un risque pour le parti, car il pourrait entraîner des coûts et des obligations supplémentaires pour les entreprises."
+          },
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "L'amendement est un risque pour le parti, car il pourrait entraîner des obligations supplémentaires pour les entreprises."
+          }
+        ],
+        "stratégie": "Les S&D s'allient avec les partis de gauche et centristes pour faire passer les amendements qui garantissent un accès équitable à la cybersécurité. Ils argumentent que la technologie ne doit pas être un luxe, mais un droit pour tous les citoyens européens.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Renouveau Européen",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La cybersécurité et le numérique ne doivent pas être un luxe. Nous devons lutter contre les inégalités.",
+          "Le coût de la non-Europe en matière de cybersécurité est beaucoup plus élevé que celui d'une politique commune."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Renouveau Européen",
+        "role_europeen": "Soutien et amendements",
+        "enjeux_directive": [
+          "Renforcer l'ambition et le budget de la directive.",
+          "Accélérer les échanges et les innovations technologiques."
+        ],
+        "impacts_directive": [
+          "Le parti soutient la directive car elle s'inscrit dans son objectif de renforcer la compétitivité de l'Europe. Il verrait son influence renforcée par les amendements qu'il propose, qui visent à augmenter le budget et à accélérer la mise en œuvre de la directive."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il permet de montrer son engagement à agir rapidement et de manière ambitieuse sur les questions clés."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Positif. L'amendement est un atout pour le parti, car il permet de montrer son engagement à agir rapidement et de manière ambitieuse sur les questions clés."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "L'amendement est positif pour le parti, car il permet de garantir les ressources nécessaires et de renforcer l'ambition de la directive."
+          }
+        ],
+        "stratégie": "Renouveau Européen s'allie avec les partis centristes pour pousser des amendements qui garantissent les ressources nécessaires à la directive. Le parti met en avant le rôle de l'innovation et du numérique dans le renforcement de la compétitivité de l'Europe.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "L'Europe ne peut pas se permettre d'être en retard sur la scène mondiale. Nous devons investir massivement dans la cybersécurité.",
+          "Le 'Fonds européen pour la cybersécurité' est un projet visionnaire qui doit être doté d'un budget ambitieux."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Verts/ALE",
+        "role_europeen": "Soutien et amendements",
+        "enjeux_directive": [
+          "Intégrer les critères de durabilité et d'écologie.",
+          "Soutenir les programmes qui promeuvent la diversité et la solidarité."
+        ],
+        "impacts_directive": [
+          "Le parti soutient la directive car elle permet de promouvoir un mode de vie plus durable et une éducation plus respectueuse de l'environnement. Le parti verrait son influence renforcée par les amendements qu'il propose, qui alignent la politique culturelle sur les objectifs du Pacte vert."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "L'amendement est positif pour le parti, car il permet de faire le lien entre le numérique et l'environnement, un enjeu essentiel pour les Verts/ALE."
+          },
+          {
+            "id": "2-8F",
+            "origine": "Allemagne",
+            "impact": "L'amendement est un risque pour le parti, car il pourrait entraîner une exclusion de certains secteurs de la transition énergétique."
+          }
+        ],
+        "stratégie": "Les Verts/ALE s'allient avec les partis de gauche et centristes pour faire passer les amendements qui intègrent les critères de durabilité dans la directive. Le parti argumente que la cybersécurité ne peut pas être dissociée de la question environnementale.",
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Renouveau Européen"
+        ],
+        "oppositions": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ],
+        "éléments_d_argumentaire": [
+          "La technologie ne doit pas être un miroir de nos valeurs. Nous devons promouvoir un mode de vie plus durable.",
+          "Les programmes éducatifs doivent enseigner les enjeux environnementaux à la nouvelle génération."
+        ]
+      },
+      {
+        "type": "Parti",
+        "nom": "Conservateurs et Réformistes",
+        "role_europeen": "Opposition",
+        "enjeux_directive": [
+          "Éviter une centralisation excessive du pouvoir.",
+          "Maintenir la souveraineté nationale sur les questions numériques et éducatives."
+        ],
+        "impacts_directive": [
+          "Le parti s'oppose à la directive car elle affaiblirait la souveraineté nationale. Il y voit un risque de 'fédéralisme numérique' qui serait contraire à ses principes. Le parti chercherait à affaiblir la directive ou à limiter son champ d'action."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "L'amendement est positif pour le parti, car il lui permet de faire la promotion de ses valeurs. Mais il serait un obstacle au compromis."
+          },
+          {
+            "id": "2-8G",
+            "origine": "Pologne",
+            "impact": "L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          },
+          {
+            "id": "2-8H",
+            "origine": "Hongrie",
+            "impact": "L'amendement est un atout pour le parti, car il lui permet de faire la promotion de ses valeurs."
+          }
+        ],
+        "stratégie": "Les Conservateurs et Réformistes s'allient avec les pays qui craignent de perdre leur souveraineté numérique. Le parti argumente que la cybersécurité doit rester une prérogative nationale et que l'Union ne doit pas s'ingérer dans ce domaine.",
+        "alliances": [
+          "Hongrie",
+          "Pologne",
+          "Italie"
+        ],
+        "oppositions": [
+          "Parti Populaire Européen",
+          "Socialistes et Démocrates",
+          "Renouveau Européen",
+          "Verts/ALE",
+          "France",
+          "Allemagne"
+        ],
+        "éléments_d_argumentaire": [
+          "La souveraineté numérique est l'affaire des nations. L'Europe doit rester à sa place.",
+          "Cette directive est un pas de plus vers un super-État européen. Nous devons nous y opposer."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "type": "Lobby",
+        "nom": "Big Tech",
+        "enjeux_directive": [
+          "Fournir des plateformes numériques pour l'éducation et la diffusion culturelle."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en fournissant des plateformes pour la diffusion des programmes éducatifs et culturels, ce qui augmenterait son influence sur le marché européen."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il permet de garantir les ressources nécessaires pour la mise en œuvre de la directive."
+          },
+          {
+            "id": "2-8E",
+            "origine": "Italie",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il limiterait le champ d'action de l'UE et de ses entreprises."
+          }
+        ],
+        "stratégie": "Les Big Tech s'allient avec les partis qui promeuvent l'innovation et la numérisation. Elles argumentent que la technologie est un outil puissant pour moderniser l'éducation et la culture en Europe.",
+        "alliances": [
+          "Renouveau Européen",
+          "Socialistes et Démocrates"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "L'éducation et la culture doivent être connectées. La technologie est la clé d'un avenir radieux.",
+          "Nos plateformes peuvent aider l'Europe à atteindre ses objectifs et à rivaliser avec les grandes puissances."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Énergies fossiles",
+        "enjeux_directive": [
+          "Éviter la promotion de contenus trop écologistes."
+        ],
+        "impacts_directive": [
+          "L'influence du lobby serait marginale, mais il veillerait à ce que les programmes culturels et éducatifs ne soient pas trop critiques de l'industrie fossile. Le lobby s'opposerait à toute tentative d'utiliser la directive pour dénigrer le secteur de l'énergie fossile."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il pourrait entraîner une exclusion de certains secteurs de la transition énergétique."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les partis les plus conservateurs pour défendre les intérêts de ses industries. Il argumente que l'éducation doit rester neutre sur les questions énergétiques.",
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie"
+        ],
+        "oppositions": [
+          "Verts/ALE",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "L'éducation ne doit pas être un outil de propagande. Elle doit rester neutre sur les questions qui touchent l'économie.",
+          "Les emplois de notre secteur sont essentiels. Nous devons les protéger."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Banque et Finance",
+        "enjeux_directive": [
+          "Financer les infrastructures éducatives et les programmes d'échange."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en fournissant des financements pour la construction de nouvelles infrastructures éducatives et pour les programmes d'échange, ce qui créerait de nouvelles opportunités d'investissement."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-8B",
+            "origine": "S&D",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il permet de garantir les ressources nécessaires pour la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les partis centristes pour promouvoir un cadre financier stable. Il argumente que les banques sont les partenaires naturels de l'Europe pour financer les grands projets d'avenir.",
+        "alliances": [
+          "Renouveau Européen",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "Nous sommes prêts à accompagner l'Europe dans ce projet ambitieux. L'investissement dans l'éducation et la culture est rentable à long terme.",
+          "Une Europe forte a besoin d'un secteur financier fort. Nous devons travailler ensemble."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Agrochimie",
+        "enjeux_directive": [
+          "Veiller à ce que les programmes éducatifs ne diabolisent pas l'agriculture conventionnelle."
+        ],
+        "impacts_directive": [
+          "L'influence du lobby serait marginale, mais il veillerait à ce que les programmes éducatifs ne diabolisent pas l'agriculture conventionnelle et ne remettent pas en question le rôle de la science et de la technologie dans l'agriculture."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8D",
+            "origine": "Verts/ALE",
+            "impact": "Négatif. L'amendement est un risque pour le lobby, car il pourrait entraîner une exclusion de certains secteurs de la transition énergétique."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les partis qui défendent les intérêts de l'agriculture pour s'assurer que les programmes éducatifs sont équilibrés. Il argumente que l'agriculture conventionnelle est essentielle pour la sécurité alimentaire de l'Europe.",
+        "alliances": [
+          "Parti Populaire Européen",
+          "Conservateurs et Réformistes"
+        ],
+        "oppositions": [
+          "Verts/ALE",
+          "Socialistes et Démocrates"
+        ],
+        "éléments_d_argumentaire": [
+          "L'éducation doit donner une vision juste et équilibrée de l'agriculture. Nous sommes une partie de la solution, pas le problème.",
+          "Les agriculteurs nourrissent l'Europe. Nous devons les soutenir, y compris dans le domaine éducatif."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Pharmaceutique",
+        "enjeux_directive": [
+          "Soutenir la recherche médicale européenne et promouvoir l'innovation pharmaceutique."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en obtenant un soutien financier pour la recherche médicale, ce qui renforcerait son leadership en Europe et dans le monde."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il permet de garantir les ressources nécessaires pour la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les pays qui soutiennent l'innovation et la recherche pour faire passer des amendements qui lui sont favorables. Il argumente que la recherche médicale est un enjeu de souveraineté pour l'Europe.",
+        "alliances": [
+          "Allemagne",
+          "Renouveau Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "La santé est l'un des piliers de notre société. Nous devons investir dans la recherche pour rester à la pointe de l'innovation.",
+          "Les programmes d'échanges doivent inclure la recherche médicale pour préparer les futurs scientifiques européens."
+        ]
+      },
+      {
+        "type": "Lobby",
+        "nom": "Automobile",
+        "enjeux_directive": [
+          "Promouvoir la formation technique et l'innovation industrielle européenne."
+        ],
+        "impacts_directive": [
+          "Le lobby bénéficierait de la directive en obtenant des fonds pour la formation technique de ses employés et pour la recherche sur l'innovation industrielle. Il pourrait ainsi s'assurer que la main-d'œuvre est bien préparée aux défis de la transition technologique."
+        ],
+        "impacts_amendements": [
+          {
+            "id": "2-8A",
+            "origine": "PPE",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il lui permet de faire la promotion de ses produits et services."
+          },
+          {
+            "id": "2-8C",
+            "origine": "Renouveau Européen",
+            "impact": "Positif. L'amendement est un atout pour le lobby, car il permet de garantir les ressources nécessaires pour la mise en œuvre de la directive."
+          }
+        ],
+        "stratégie": "Le lobby s'allie avec les pays qui défendent les intérêts de l'industrie pour obtenir un soutien financier pour la formation et la R&D. Il argumente que la compétitivité de l'industrie automobile est un enjeu pour l'ensemble de l'Europe.",
+        "alliances": [
+          "France",
+          "Parti Populaire Européen"
+        ],
+        "oppositions": [],
+        "éléments_d_argumentaire": [
+          "Une main-d'œuvre qualifiée est essentielle pour rester un leader industriel. Nous devons investir dans la formation technique.",
+          "L'innovation est le cœur de notre secteur. Nous devons la promouvoir pour garantir notre compétitivité."
+        ]
+      }
+    ]
+  }
+}

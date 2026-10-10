@@ -1,0 +1,771 @@
+[
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "role_europeen": "Moteur de la transition énergétique et technologique",
+    "enjeux_directive": [
+      "Renforcer la souveraineté numérique européenne tout en maintenant la compétitivité industrielle allemande.",
+      "Assurer une transition écologique rapide sans compromettre la sécurité énergétique nationale.",
+      "Harmoniser les politiques fiscales numériques pour éviter la concurrence déloyale au sein de l'UE.",
+      "Protéger les secteurs stratégiques (automobile, chimie) tout en favorisant l'innovation technologique."
+    ],
+    "impacts_directive": [
+      "La directive renforce les positions allemandes sur la transition énergétique et la souveraineté numérique.",
+      "Elle pourrait créer des tensions avec les pays dépendants des énergies fossiles (ex: Pologne)."
+    ],
+    "stratégie": "L'Allemagne adopte une approche équilibrée qui combine ambition climatique, protection industrielle et innovation technologique. Elle mise sur la transition vers l'énergie verte tout en défendant les intérêts des secteurs économiques stratégiques (automobile, chimie). Son objectif est de positionner l'Europe comme leader mondial dans les technologies du futur (hydrogène vert, IA) tout en maintenant une transition progressive pour éviter les perturbations économiques. Elle promeut également une fiscalité numérique harmonisée qui protège les entreprises allemandes des dérives fiscales et réglementaires inégalées.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "PPE (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "S&D (critique des positions allemandes sur les subventions sectorielles)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Allemagne justifie sa stratégie par la nécessité d'accélérer la transition énergétique pour atteindre la neutralité carbone en 2045, tout en préservant la compétitivité industrielle.",
+      "Elle soutient les amendements qui renforcent la souveraineté numérique européenne et protègent les données personnelles contre la surveillance de masse.",
+      "L'Allemagne défend l'exclusion des services essentiels de la régulation (1-2F) pour éviter une fragmentation du marché unique et préserver la continuité des services critiques.",
+      "Elle prône un soutien aux start-ups européennes (1-2C) pour renforcer l'innovation technologique indépendante de Big Tech.",
+      "L'Allemagne appuie les mesures visant à harmoniser la fiscalité numérique (1-2E) pour éviter la concurrence fiscale déloyale au sein de l'UE.",
+      "Elle s'oppose aux régulations trop strictes sur les données personnelles (1-2H), craignant un frein à l'innovation technologique et industrielle.",
+      "L'Allemagne insiste sur la nécessité d'une transition écologique rapide, mais conditionnée par des mesures de soutien aux secteurs touchés (ex: automobile)."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement pour renforcer sa position de leader européen en matière de protection des données, alignée sur les standards stricts du RGPD. Cela permet de protéger l'écosystème numérique allemand tout en évitant une fragmentation réglementaire à l'échelle européenne.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne est favorable à cet amendement, mais avec des conditions pour éviter une délocalisation des activités de Big Tech vers des pays non européens. Elle propose des mécanismes d'équité fiscale qui tiennent compte des investissements locaux et des emplois créés.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne appuie cet amendement pour renforcer l'écosystème technologique européen, particulièrement dans les secteurs stratégiques comme l'intelligence artificielle et la transition énergétique. Cela permet de réduire la dépendance envers les géants du numérique non européens.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "La protection des droits fondamentaux est un pilier de la politique allemande. L'Allemagne soutient cet amendement pour garantir une limitation rigoureuse de la surveillance de masse, conformément à ses engagements internationaux et européens.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne défend cet amendement pour éviter la concurrence fiscale déloyale entre les pays européens et garantir une base imposable équitable pour les géants du numérique. Cela renforce la solidarité européenne sur le plan fiscal.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par l'Allemagne, vise à éviter une fragmentation du marché unique en excluant des secteurs critiques (énergie, santé) de certaines régulations. Cela permet de maintenir la continuité des services essentiels tout en favorisant l'innovation.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement pour renforcer la résilience numérique européenne face aux cybermenaces. Cela permet de protéger les infrastructures critiques et d'éviter une dépendance excessive à des solutions externes.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose partiellement à cet amendement, car elle craint que des restrictions trop strictes puissent freiner l'innovation technologique et la compétitivité industrielle. Elle propose une approche équilibrée qui protège les données tout en favorisant l'usage responsable.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre objectifs climatiques et secteurs industriels (Volkswagen, Siemens). Évaluer impact de l'harmonisation fiscale numérique sur les entreprises allemandes. Suivre les débats autour du nucléaire (réticences historiques certaines régions).",
+    "actor_id": "allemagne",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "generated_at": "2025-10-20T10:44:57.310743",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "France",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la fiscalité numérique au niveau européen pour éviter la concurrence fiscale déloyale.",
+      "Garantir un cadre clair et stable pour les entreprises numériques.",
+      "Concilier innovation et équité fiscale.",
+      "Protéger les secteurs stratégiques (industrie, agriculture) contre les distorsions de concurrence causées par des réglementations incohérentes.",
+      "Assurer une transition numérique équitable entre pays membres, en préservant la souveraineté européenne sur les données."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Promouvoir une harmonisation fiscale visant à protéger l’industrie numérique nationale tout en soutenant le développement technologique en Europe. La France défend un approche équilibrée qui combine régulation rigoureuse des géants du numérique avec un soutien aux startups, afin de stimuler la croissance économique et garantir une concurrence juste. Elle insiste sur la nécessité d’intégrer les spécificités nationales (comme le rôle stratégique du nucléaire) tout en renforçant l’innovation technologique à travers l’UE. La France vise également à renforcer la cybersécurité et à limiter la surveillance de masse, tout en protégeant les droits fondamentaux des citoyens.",
+    "alliances": [
+      "Italie (collaboration sur l'hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien à la transition écologique et aux objectifs climatiques ambitieux)",
+      "S&D (priorité donnée aux investissements dans les régions défavorisées)",
+      "Big Tech (innovation dans les infrastructures numériques et énergies propres)",
+      "Automobile (protection des secteurs industriels stratégiques)",
+      "Banque (soutien aux investissements structuraux en énergie et innovation)",
+      "PPE (partage de la vision d'une Europe forte, technologiquement indépendante)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies des centrales à charbon opposés aux mesures restrictives)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France défend la nécessité d'une fiscalité numérique harmonisée pour éviter les distorsions de concurrence entre États membres, protégeant ainsi l'économie européenne face à une concurrence internationale non régulée.",
+      "Le soutien aux startups européennes est crucial pour renforcer l'innovation technologique et réduire la dépendance vis-à-vis des géants du numérique (comme les Big Tech), favorisant ainsi un écosystème européen compétitif.",
+      "La France souligne l'importance de limiter la surveillance de masse pour protéger la vie privée des citoyens tout en maintenant une cyber-sécurité rigoureuse face aux menaces internationales.",
+      "Une approche forte sur les données personnelles est nécessaire pour renforcer la confiance des utilisateurs dans les services numériques européens, ce qui stimule l'adoption de technologies innovantes et respectueuses de la vie privée.",
+      "La France plaide pour une exclusion des services essentiels (santé, transports) de la régulation numérique afin d'éviter tout impact négatif sur les droits fondamentaux et les services publics.",
+      "Le renforcement de la cybersécurité est considéré comme un pilier essentiel pour protéger l'infrastructure numérique européenne contre les cyberattaques, garantissant ainsi la continuité des services critiques.",
+      "La France défend une harmonisation progressive mais rigoureuse de la fiscalité numérique, afin d'éviter tout désavantage compétitif envers les pays membres qui n'ont pas encore mis en place des mesures similaires.",
+      "L'harmonisation des lois sur la protection des données personnelles permettra d'assurer une meilleure cohérence juridique et de faciliter l'interopérabilité des systèmes numériques européens."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement pour renforcer la confiance des citoyens dans les services numériques et assurer une protection juridique cohérente sur l’ensemble du territoire européen, tout en favorisant l'innovation technologique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie cet amendement à condition qu’il soit accompagné de mesures favorisant le développement des startups et la réduction de la dépendance européenne vis-à-vis des géants technologiques non européens.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "La France est favorable à cet amendement car elle considère que le soutien aux startups est essentiel pour renforcer l’indépendance technologique européenne et stimuler la croissance économique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement pour protéger les libertés fondamentales des citoyens européens tout en maintenant une vigilance nécessaire face aux menaces cybernétiques.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "La France est l'initiatrice de cet amendement et défend fermement sa mise en œuvre pour éviter les distorsions de concurrence fiscale entre les États membres, tout en garantissant une équité fiscale au niveau européen.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient cet amendement à condition qu’il soit accompagné d’un cadre clair pour garantir que ces services ne soient pas pénalisés par des règles inadaptées, compromettant leur capacité à fonctionner efficacement.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "La France défend cet amendement car la sécurité numérique est un pilier fondamental de l’infrastructure européenne et doit être renforcée pour protéger les données sensibles des citoyens et des institutions.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie cet amendement à condition que les restrictions soient proportionnées et encadrées par des garanties juridiques strictes pour éviter tout abus de pouvoir.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur industriel (Automobile, Énergies fossiles) et objectifs climatiques. Position nucléaire délicate en raison des réticences historiques dans certaines régions. Équilibrer transition numérique et protection de la souveraineté européenne sur les données.",
+    "actor_id": "france",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "generated_at": "2025-10-20T11:01:40.883446",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "role_europeen": "Médiateur",
+    "enjeux_directive": [
+      "Harmoniser la fiscalité numérique pour éviter les distorsions de concurrence entre États membres.",
+      "Protéger l'industrie automobile italienne face aux réglementations climatiques exigeantes.",
+      "Soutenir les PME italiennes dans le cadre d'une transition numérique et écologique progressive.",
+      "Maintenir un équilibre entre innovation technologique et protection des données personnelles.",
+      "Assurer une répartition juste des fonds européens pour les régions du sud de l'Italie."
+    ],
+    "impacts_directive": [
+      "La directive pourrait affecter la compétitivité industrielle italienne si les normes environnementales sont trop strictes.",
+      "L'harmonisation fiscale numérique pourrait renforcer la position de l'Italie sur le marché européen des services numériques."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-2E",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique",
+        "impact": "stimulerait significativement la croissance économique"
+      }
+    ],
+    "stratégie": "Promouvoir une transition écologique et numérique progressive en s'appuyant sur les secteurs industriels stratégiques (automobile, énergie) tout en défendant des mesures de protection sociale pour éviter un chômage structurel. L'Italie privilégiera une approche pragmatique, combinant soutien aux entreprises innovantes et respect des obligations climatiques, sans compromettre la compétitivité industrielle. Elle cherchera à concilier les exigences de l'UE avec les spécificités économiques du sud de l'Italie.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien hydrogène vert + transition écologique)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "PPE (défense de l'industrie manufacturière européenne)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "éléments_d_argumentaire": [
+      "La protection des données personnelles est essentielle pour préserver la confiance des citoyens envers les services numériques, tout en évitant un frein à l'innovation technologique.",
+      "L'harmonisation fiscale numérique doit permettre de réduire les distorsions entre pays membres sans pénaliser les économies plus faibles comme l'Italie.",
+      "Le soutien aux start-ups européennes favorisera l'émergence d'entreprises italiennes capables de concurrencer les géants du numérique mondial.",
+      "La limitation de la surveillance de masse doit être équilibrée avec des mesures robustes de cybersécurité pour protéger l'économie italienne des cybermenaces.",
+      "L'exclusion des services essentiels de la régulation pourrait fragiliser la sécurité nationale et nuire à la stabilité du secteur énergétique italien.",
+      "Renforcer la cybersécurité est indispensable pour protéger les infrastructures critiques, en particulier dans un contexte d'augmentation des cyberattaques ciblant l'industrie italienne.",
+      "La fiscalité numérique doit être conçue de manière à éviter une charge excessive pour les PME italiennes, tout en garantissant une contribution équitable des géants du numérique.",
+      "L'accès aux données personnelles doit rester soumis à des conditions strictes pour préserver la vie privée des citoyens sans entraver le développement technologique."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cet amendement pour renforcer la confiance des citoyens dans les services numériques, tout en maintenant une réglementation claire et proportionnée qui favorise l'innovation technologique. Une protection renforcée des données est essentielle pour éviter les risques de violation de la vie privée liés au développement exponentiel des technologies d'IA.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie appuie cette mesure à condition qu'elle ne pénalise pas les PME italiennes. Une taxation équitable des géants du numérique permettrait de financer la transition écologique et les investissements dans l'innovation, tout en évitant une délocalisation industrielle vers des pays non réglementés.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "L'Italie considère que le soutien aux start-ups est crucial pour renforcer la compétitivité européenne face aux géants du numérique. Cela permettrait de créer des emplois qualifiés et d'accélérer l'adoption des technologies numériques dans les secteurs stratégiques comme l'énergie, l'agriculture ou l'industrie.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie défend le droit à la vie privée mais reconnaît l'importance des mesures de sécurité nationale. Une limitation trop stricte de la surveillance de masse pourrait compromettre la capacité de l'Italie à se protéger contre les cybermenaces, en particulier dans un contexte d'augmentation des cyberattaques ciblant le secteur énergétique.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "L'Italie appuie cette initiative pour éviter les distorsions de concurrence entre États membres. Une harmonisation fiscale permettrait d'éviter une fuite des capitaux vers des pays non réglementés et de garantir un cadre équitable pour les entreprises italiennes opérant à l'international.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie s'oppose à cette proposition car elle pourrait fragiliser la sécurité nationale et nuire à la stabilité du secteur énergétique italien. La régulation des services essentiels est indispensable pour garantir un approvisionnement fiable en énergie, surtout dans le contexte de la transition vers les énergies renouvelables.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient fermement cet amendement pour protéger ses infrastructures critiques, en particulier dans un contexte d'augmentation des cyberattaques ciblant le secteur énergétique italien. Une cybersécurité renforcée est essentielle pour préserver la stabilité économique et sociale du pays.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "NEUTRE",
+        "justification": "L'Italie adopte une position neutre sur cet amendement, car elle estime que la limitation de l'accès aux données personnelles doit être équilibrée avec les besoins des secteurs économiques clés comme la santé et la finance. Une réglementation trop rigide pourrait entraver l'innovation technologique.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre régions du nord et du sud de l'Italie concernant la répartition des fonds verts. Prioriser la collaboration avec l'Espagne et le Portugal pour les projets maritimes en Méditerranée. Évaluer régulièrement l'impact des mesures climatiques sur le secteur automobile italien, qui emploie environ 15% de la population active.",
+    "actor_id": "italie",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "generated_at": "2025-10-20T11:20:36.222792",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "role_europeen": "Contre-réformateur",
+    "enjeux_directive": [
+      "Maintenir la souveraineté nationale sur les données personnelles et l'infrastructure numérique.",
+      "Protéger les secteurs économiques stratégiques (agriculture, énergie) contre une réglementation excessive.",
+      "Soutenir des politiques d'investissement à long terme en évitant la concurrence fiscale déloyale.",
+      "Assurer la continuité du développement économique sans compromettre les priorités nationales."
+    ],
+    "impacts_directive": [
+      "La directive pourrait limiter les marges de manœuvre de la Hongrie sur des dossiers sensibles comme l'énergie ou la migration.",
+      "Les positions hongroises reflètent une volonté de préserver un modèle économique distinct au sein de l'UE."
+    ],
+    "stratégie": "La Hongrie adopte une approche pragmatique en soutenant les amendements qui renforcent sa souveraineté nationale tout en cherchant à concilier les exigences européennes avec ses priorités économiques. Elle privilégie la défense des secteurs industriels clés (agroalimentaire, énergie) et insiste sur une transition écologique progressive. Son objectif est de participer à l'Union européenne tout en préservant son autonomie politique et économique. La Hongrie s'appuie sur des alliances stratégiques pour influencer les débats européens sans se conformer entièrement aux consensus majoritaires.",
+    "alliances": [
+      "Allemagne (soutien mutuel sur les investissements industriels et la sécurité énergétique)",
+      "Italie (collaboration sur le développement des infrastructures du Sud-Est de l'Europe)",
+      "S&D (partage d'intérêts en matière de financement régional et de soutien aux PME)",
+      "Verts/ALE (accord partiel sur la protection des données personnelles et la cybersécurité)",
+      "Big Tech (appui pour la modernisation du secteur numérique malgré les divergences sur la fiscalité)",
+      "Énergies fossiles (protection de l'industrie charbonneuse en opposition aux moratoires)",
+      "Conservateurs (accord sur une transition énergétique progressive et la préservation des traditions nationales)"
+    ],
+    "oppositions": [
+      "France (désaccord sur les priorités climatiques et le rôle de l'État dans l'économie)",
+      "Pologne (conflits d'intérêts sur la gouvernance européenne et la souveraineté nationale)",
+      "Verts/ALE (opposition à la défense des secteurs fossiles et à la résistance aux réglementations strictes)",
+      "Énergies renouvelables (inquiétudes sur la non-prise en compte des transitions énergétiques rapides)"
+    ],
+    "éléments_d_argumentaire": [
+      "La souveraineté nationale doit primer sur les initiatives européennes qui risquent de limiter l'autonomie des États membres.",
+      "Le développement économique ne doit pas être subordonné à des objectifs climatiques trop ambitieux sans garanties de financement.",
+      "Les secteurs traditionnels (agriculture, énergie) doivent être protégés contre les réglementations qui pourraient menacer leur viabilité.",
+      "Une transition écologique doit se faire de manière progressive, en prenant en compte la réalité économique des pays membres.",
+      "La protection des données personnelles est essentielle pour préserver la sécurité nationale et la confidentialité des citoyens.",
+      "L'harmonisation fiscale numérique doit être équilibrée pour éviter d'avantage les grandes entreprises européennes.",
+      "Les start-ups européennes doivent être soutenues, mais dans le cadre de politiques favorables aux petites et moyennes entreprises hongroises."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie soutient cet amendement car il renforce sa souveraineté sur les données nationales et protège l'intimité des citoyens, un enjeu crucial pour préserver la confiance du public dans les institutions numériques.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Hongrie s'oppose à une taxation excessive des géants numériques, craignant un déséquilibre économique qui pourrait pénaliser les PME et les startups hongroises. Elle préfère une approche équilibrée vis-à-vis de tous les acteurs du secteur.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie s'engage à soutenir les start-ups, mais avec des conditions strictes pour éviter que les aides ne viennent au détriment des entreprises locales. Elle insiste sur une allocation équitable des ressources.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie appuie cet amendement pour renforcer les libertés fondamentales des citoyens et limiter les abus potentiels de la surveillance de masse, un enjeu clé pour son modèle démocratique.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "NEUTRE",
+        "justification": "La Hongrie reste neutre sur cette question, préférant observer les effets de l'harmonisation fiscale avant d'y adhérer. Elle s'inquiète des conséquences pour l'équilibre économique interne.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE",
+        "justification": "La Hongrie s'oppose à l'exclusion des services essentiels de la régulation, craignant une fragmentation des normes européennes et un affaiblissement du cadre commun.",
+        "priorite": "faible",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie appuie cet amendement, mais avec des réserves sur la manière dont les mesures de cybersécurité seront appliquées. Elle insiste sur une approche qui respecte la souveraineté nationale.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie s'aligne sur cet amendement pour protéger les droits des citoyens et éviter une concentration excessive de données dans un seul État membre.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "notes_internes": "Surveiller la tension entre la souveraineté hongroise sur les données personnelles et les exigences européennes en matière de cybersécurité. Évaluer régulièrement l'impact des politiques d'énergie sur les industries traditionnelles (charbon, agriculture). Surveiller les tensions économiques avec la France et l'Italie concernant la répartition des fonds européens.",
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "scenario_id": 1,
+    "directive_id": 2,
+    "actor_id": "hongrie",
+    "actor_type": "pays",
+    "generated_at": "2025-10-20T11:37:59.733650",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Assurer la sécurité énergétique nationale face aux pressions climatiques européennes.",
+      "Protéger les industries traditionnelles (charbon, agriculture) contre les réglementations environnementales radicales.",
+      "Renforcer l'autonomie technologique et cybernétique dans un contexte géopolitique tendu.",
+      "Mettre en avant des investissements structurels dans l'infrastructure et la modernisation industrielle.",
+      "Soutenir une transition énergétique progressive, compatible avec les objectifs climatiques de l'UE mais adaptée aux réalités économiques polonaises."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques, notamment en matière d'énergie et de souveraineté technologique."
+    ],
+    "stratégie": "Pologne adopte une approche défensive et pragmatique dans les négociations européennes, visant à protéger ses intérêts économiques (notamment la sécurité énergétique) tout en s'engageant progressivement vers un cadre climatique européen. Elle privilégie des alliances avec des pays partageant des préoccupations similaires sur la transition énergétique et les réformes économiques, tout en défendant fermement l'autonomie technologique et industrielle face aux pressions de l'UE. L'accent est mis sur le maintien d'une souveraineté nationale dans les domaines stratégiques (énergie, cybersécurité) tout en participant à des initiatives européennes qui renforcent la stabilité économique et sécuritaire du pays.",
+    "alliances": [
+      "France (collaboration sur la modernisation industrielle et l'harmonisation fiscale numérique)",
+      "Italie (partage d'intérêts économiques et de préoccupations sur les réglementations climatiques radicales)",
+      "PPE (soutien à une transition énergétique progressive, alignée avec les objectifs politiques de l'Union européenne)",
+      "S&D (priorité aux investissements régionaux et aux projets structurels d'infrastructure)",
+      "Big Tech (défense du développement technologique et de la souveraineté numérique en Europe)",
+      "Automobile (protection des secteurs industriels stratégiques et soutien à l'innovation manufacturière)",
+      "Banque (soutien aux investissements structuraux dans le secteur énergétique et la modernisation économique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition aux moratoires sur le charbon, défense des industries fossiles traditionnelles)",
+      "Conservateurs (préférence pour une transition énergétique plus lente et moins contraignante)",
+      "Énergies fossiles (lobbies centrales charbon - opposés à toute réglementation restrictive sur l'utilisation du charbon)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne défend la nécessité d'une transition énergétique progressive, compatible avec les objectifs climatiques de l'UE mais respectant les réalités économiques nationales et les besoins en sécurité énergétique.",
+      "Soutien à une approche multilatérale dans la régulation numérique, garantissant un cadre harmonisé sans compromettre l'autonomie technologique européenne.",
+      "Préoccupation majeure face aux pressions de l'UE sur les industries traditionnelles (charbon, agriculture), nécessitant des compensations économiques et une transition énergétique bien planifiée.",
+      "Défense d'une approche stratégique en matière de cybersécurité, alignée avec les priorités européennes tout en préservant la souveraineté nationale.",
+      "Soutien à une harmonisation fiscale numérique qui ne pénalise pas les pays exportateurs ou les secteurs industriels vulnérables.",
+      "Priorité aux investissements structurels dans l'infrastructure et la modernisation économique, avec un accent particulier sur les régions moins développées.",
+      "Défense des intérêts de l'industrie nationale face à une concurrence européenne trop rigoureuse ou déséquilibrée."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Pologne soutient cet amendement car il aligne avec ses priorités en matière de cybersécurité et de protection des données, en particulier dans le contexte d'une croissance exponentielle des menaces cybernétiques. Cela renforce également la confiance des citoyens envers les systèmes numériques nationaux.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Pologne s'oppose partiellement à cette mesure, arguant que cela pourrait pénaliser les entreprises polonaises actives dans le secteur numérique et affecter négativement la compétitivité du pays. Cependant, elle reste ouverte à une harmonisation fiscale juste qui ne pénalise pas les PME.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE",
+        "justification": "Pologne soutient activement cette initiative, car elle considère que le développement des start-ups technologiques est essentiel pour l'innovation et la modernisation économique du pays. Cela renforce également les liens entre l'industrie polonaise et les acteurs technologiques européens.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Pologne soutient cet amendement à condition que les mesures de sécurité nationale ne soient pas compromises. Elle défend un équilibre entre la protection des données personnelles et la nécessité de maintenir des capacités de surveillance pour la sécurité intérieure.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Pologne soutient cet amendement à condition qu'il ne pénalise pas les pays exportateurs ou les secteurs industriels vulnérables. Elle considère que l'harmonisation fiscale doit être équilibrée pour éviter la concurrence déloyale.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Pologne s'oppose à une exclusion totale des services essentiels, craignant que cela ne compromette la sécurité nationale. Cependant, elle reste ouverte à une approche flexible qui garantit l'équilibre entre régulation et souveraineté.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Pologne est l'initiatrice de cet amendement, défendant fermement sa nécessité pour protéger les infrastructures critiques et renforcer la résilience numérique du pays. Cet amendement aligne avec ses priorités stratégiques sur la souveraineté technologique et la sécurité nationale.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Pologne soutient cet amendement à condition que les mesures ne compromettent pas la sécurité nationale. Elle défend un équilibre entre protection des données et nécessité de maintenir des capacités d'accès pour la gestion des crises.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre l'industrie du charbon (PGE, Energa) et les objectifs climatiques de la directive. Évaluer régulièrement les impacts sur les régions Sud-Est de Pologne (40% des emplois dans le secteur énergétique). Surveiller les conflits d'intérêts entre lobby industriel du charbon et l'initiative européenne en matière de transition énergétique.",
+    "actor_id": "pologne",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "generated_at": "2025-10-20T11:55:30.388831",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Renforcer la souveraineté numérique européenne pour protéger les données personnelles et limiter l'accès des géants du numérique.",
+      "Promouvoir une transition écologique rapide en alignant les réglementations sur les industries de l'énergie et les technologies vertes.",
+      "Harmoniser la fiscalité numérique pour éviter une concurrence fiscale déloyale entre États membres.",
+      "Soutenir les startups technologiques européennes tout en limitant les pratiques monopolistiques des géants du secteur.",
+      "Protéger l'industrie automobile suédoise contre les réglementations trop contraignantes sur la transition énergétique."
+    ],
+    "impacts_directive": [
+      "La directive influencera directement la position de Suède sur la protection des données et les réglementations fiscales numériques.",
+      "Suède doit concilier ses priorités environnementales avec les exigences économiques de l'industrie automobile."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-2H",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles",
+        "impact": "renforce la protection des droits individuels tout en favorisant une régulation plus stricte de la collecte des données par les entreprises."
+      }
+    ],
+    "stratégie": "Suède adopte une approche pro-écosystème numérique et pro-environnement, combinée à un soutien clair pour les secteurs industriels stratégiques. Sa stratégie vise à renforcer la souveraineté européenne dans le domaine des données tout en favorisant l'innovation technologique. Elle milite pour une fiscalité numérique harmonisée, alignée sur ses objectifs de réduction des inégalités économiques et environnementales. En parallèle, elle défend les intérêts de secteurs comme la voiture électrique et l'énergie verte, tout en restant ouverte à la collaboration avec d'autres pays membres pour des projets communs.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Big Pharma (préférences réglementaires sectorielles)"
+    ],
+    "éléments_d_argumentaire": [
+      "Protection des données personnelles : Suède défend une régulation stricte pour préserver la vie privée et éviter les abus des géants du numérique.",
+      "Harmonisation fiscale numérique : Une approche européenne permettrait de lutter contre l'évasion fiscale et d'assurer un équilibre entre les États membres.",
+      "Soutien aux startups européennes : L'innovation technologique dépend de la mise en place de cadres favorables à l'émergence de nouvelles entreprises.",
+      "Transition écologique rapide : La Suède soutient une approche ambitieuse pour atteindre les objectifs climatiques, notamment via des investissements dans les énergies propres.",
+      "Cybersécurité renforcée : Une directive plus rigoureuse sur la cybersécurité protège l'infrastructure numérique européenne et limite les risques de cyberattaques.",
+      "Limitation de la surveillance de masse : Suède s'oppose à toute réglementation permettant une collecte excessive de données par des organismes publics ou privés.",
+      "Favoriser l'équité fiscale : Une fiscalité harmonisée éviterait les dérives d'une concurrence déloyale entre États membres."
+    ],
+    "références": [
+      "s1d2.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs technologiques et réglementations strictes sur la protection des données. Suède doit gérer les attentes de l'industrie automobile face aux transitions énergétiques rapides. Évaluer impact des amendements sur les startups suédoises et leur accessibilité à des financements européens.",
+    "positions_amendements": [
+      {
+        "amendement": "1-2A",
+        "titre": "Renforcer la protection des données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Suède soutient ce point car il aligne avec ses priorités de défense des droits individuels et d'une régulation numérique rigoureuse, nécessaire pour préserver l'équilibre entre innovation technologique et protection des données. Cela renforce la souveraineté européenne dans le domaine des technologies.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles"
+      },
+      {
+        "amendement": "1-2B",
+        "titre": "Taxer les géants du numérique",
+        "position": "FAVORABLE",
+        "justification": "Suède défend cette mesure pour réduire la dépendance des États membres vis-à-vis de quelques acteurs dominants et redistribuer les bénéfices à l'échelle européenne. Cela favorise une plus grande équité économique.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique"
+      },
+      {
+        "amendement": "1-2C",
+        "titre": "Soutenir les start-ups européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Suède soutient ce point mais insiste sur des conditions favorables à la croissance économique et technologique. Il est essentiel de ne pas imposer des cadres trop lourds qui pourraient entraver l'émergence d'entreprises innovantes.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes"
+      },
+      {
+        "amendement": "1-2D",
+        "titre": "Limiter la surveillance de masse",
+        "position": "FAVORABLE",
+        "justification": "Suède défend cette mesure pour protéger les droits fondamentaux des citoyens et éviter une concentration excessive des pouvoirs d'État. Cela renforce la confiance dans le cadre numérique européen.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Limiter la surveillance de masse"
+      },
+      {
+        "amendement": "1-2E",
+        "titre": "Harmoniser la fiscalité numérique",
+        "position": "FAVORABLE",
+        "justification": "Suède soutient cette mesure pour éviter une concurrence fiscale déloyale entre États membres et assurer un équilibre économique plus juste au sein de l'Union européenne.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique"
+      },
+      {
+        "amendement": "1-2F",
+        "titre": "Exclure les services essentiels de la régulation",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Suède s'oppose à une exclusion totale des services essentiels, mais accepte un cadre flexible pour éviter une réglementation trop contraignante. Cela permet d'assurer la continuité des services cruciaux tout en maintenant des normes élevées.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation"
+      },
+      {
+        "amendement": "1-2G",
+        "titre": "Renforcer la cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Suède soutient cette initiative pour protéger l'infrastructure numérique européenne contre les cybermenaces. Cela renforce la confiance des citoyens et des entreprises dans le cadre technologique européen.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité"
+      },
+      {
+        "amendement": "1-2H",
+        "titre": "Limiter l’accès aux données personnelles",
+        "position": "FAVORABLE",
+        "justification": "Suède est l'initiateur de cet amendement pour renforcer la protection des données individuelles et limiter les abus par les géants du numérique. Cela favorise une régulation plus stricte mais également équitable sur l'utilisation des données.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles"
+      }
+    ],
+    "actor_id": "suede",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 2,
+    "generated_at": "2025-10-20T12:12:33.479625",
+    "version": "combined_v4.6.2"
+  }
+]

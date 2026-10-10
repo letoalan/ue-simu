@@ -1,0 +1,81 @@
+/* Sub-navigation for Intro view */
+.intro-subnav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  padding: 8px 14px;
+  border-radius: var(--radius-lg);
+  margin-bottom: 20px;
+}
+
+.intro-subnav {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.intro-subnav-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 16px;
+  border-radius: var(--radius-md);
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--color-text-muted);
+  font-weight: 600;
+  font-size: 0.88rem;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.intro-subnav-btn:hover {
+  background: var(--color-surface-hover);
+  color: var(--color-text-main);
+}
+
+.intro-subnav-btn.active {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  border-color: rgba(37, 99, 235, 0.25);
+  font-weight: 700;
+}
+
+.role-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: all var(--transition-fast);
+}
+
+.role-card:hover {
+  border-color: var(--color-primary);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Smartphone Liquid Ergonomics */
+@media (max-width: 640px) {
+  .main-layout { padding: 10px; gap: 14px; }
+  .card { padding: 14px; }
+  .btn { min-height: 44px; }
+}
+
+/* Prefers Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  .hero-video { display: none; }
+  .hero-media-wrapper { background: #001a4d url('/medias/images/euro/instiue.jpg') center/cover no-repeat; }
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

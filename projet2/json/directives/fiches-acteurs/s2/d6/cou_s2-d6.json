@@ -1,0 +1,707 @@
+[
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Préserver la souveraineté nationale sur le renseignement de sécurité intérieure et les dossiers classifiés de contre-terrorisme.",
+      "Renforcer l'efficacité opérationnelle des forces de police et de gendarmerie dans les enquêtes transfrontalières.",
+      "Empêcher une transmission automatique et non filtrée de données vers des partenaires dont la sécurité d'information est défaillante.",
+      "Valoriser l'expérience française de coordination antiterroriste (PNAT, DGSI) à l'échelle européenne."
+    ],
+    "impacts_directive": [
+      "La directive facilitera le démantèlement des réseaux criminels opérant entre la France et les pays frontaliers.",
+      "Elle imposera des ajustements stricts pour préserver le secret de la défense nationale dans les échanges d'Europol."
+    ],
+    "stratégie": "La France est à l'initiative de l'amendement 2-6F visant à exclure certains flux et partenaires de l'échange systématique lorsque les garanties de confidentialité ne sont pas réunies ou que la sécurité nationale vitale est menacée. Favorable sur le fond à la coopération antiterroriste (2-6D) et à la cybercriminalité (2-6A), Paris exige une stricte souveraineté sur ses sources humaines et ses renseignements de sécurité les plus critiques.",
+    "alliances": [
+      "Allemagne (concertation étroite sur la lutte antiterroriste et la sécurité aux frontières)",
+      "Italie (collaboration intense contre le grand banditisme et les trafics transfrontaliers)",
+      "Parti Populaire Européen (appui à l'unité antiterroriste européenne)",
+      "Pharmaceutique (sécurisation conjointe contre les contrefaçons médicales)",
+      "Big Tech (coopération sur les réquisitions judiciaires de données numériques)"
+    ],
+    "oppositions": [
+      "Gauche Unitaire (refus de contraintes procédurales excessives freinant les enquêtes antiterroristes)",
+      "Hongrie (désaccord sur le refus de coopérer sur les grands trafics criminels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité nationale reste de la responsabilité exclusive de chaque État membre : l'échange de données doit être ciblé et maîtrisé.",
+      "L'amendement 2-6F protège nos sources de renseignement et évite les fuites d'informations vers des pays tiers hostiles.",
+      "La France est un moteur de la coopération antiterroriste mais refuse une automaticité aveugle sans évaluation de sécurité.",
+      "La lutte contre la cybercriminalité (2-6A) et le grand banditisme nécessite des partenariats opérationnels de confiance absolue."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Maintenir une ligne ferme sur la sanctuarisation du secret de la défense nationale et des prérogatives des services de renseignement intérieur dans l'amendement 2-6F.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2026-10-10T21:10:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "La France soutient activement la coopération cyber pour protéger ses infrastructures critiques et neutraliser les rançongiciels.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Favorable si cet observatoire produit des analyses utiles sans alourdir les procédures judiciaires.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Craint que des conditions trop rigides ne ralentissent la réactivité des forces de l'ordre en cas de menace terroriste imminente.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "Appuie le renforcement des capacités opérationnelles antiterroristes conjointes sous réserve du respect des prérogatives souveraines.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE",
+        "justification": "Une restriction excessive nuirait à la flexibilité opérationnelle face à la criminalité organisée polymorphe.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "FAVORABLE",
+        "justification": "Amendement initié par la France pour sanctuariser la souveraineté sur le renseignement sensible et prévenir les failles de sécurité.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Soutient le financement des tribunaux nationaux en complément de l'interconnexion européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "La France estime que l'urgence des menaces terroristes et cybernétiques ne permet pas d'attendre deux ans supplémentaires.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Adapter les systèmes d'information policiers fédéraux (BKA) et régionaux (Länder) aux nouvelles normes européennes.",
+      "Garantir la conformité stricte des échanges de données avec la jurisprudence constitutionnelle de Karlsruhe sur l'autodétermination informationnelle.",
+      "Renforcer la réponse collective européenne face aux cyberattaques et au terrorisme transnational.",
+      "Préserver un équilibre démocratique solide entre efficacité policière et respect scrupuleux de l'État de droit."
+    ],
+    "impacts_directive": [
+      "La directive nécessitera une refonte complexe des interconnexions informatiques entre les 16 polices régionales et l'Office fédéral de police criminelle.",
+      "Elle permettra une détection plus précoce des filières criminelles opérant à travers les frontières allemandes."
+    ],
+    "stratégie": "L'Allemagne est la porteuse de l'amendement 2-6H préconisant un report de deux ans de l'application de la directive. Tout en soutenant pleinement les finalités de sécurité intérieure, de lutte antiterroriste (2-6D) et de cyber-défense (2-6A), Berlin a besoin de ce délai pour adapter sa structure fédérale complexe et s'assurer que les garanties de protection des données satisfont les exigences constitutionnelles.",
+    "alliances": [
+      "France (pilier de la coopération sécuritaire et policière bilatérale)",
+      "Parti Populaire Européen (engagement partagé pour l'ordre public et la sécurité)",
+      "Suède (sensibilité commune aux garanties d'État de droit et de proportionnalité)",
+      "Banque et Finance (coopération étroite sur la cybercriminalité bancaire et financière)",
+      "Automobile (protection des véhicules connectés contre le piratage)"
+    ],
+    "oppositions": [
+      "Hongrie (désaccord sur la limitation de la coopération policière européenne)",
+      "France (divergence sur la nécessité du report de deux ans)"
+    ],
+    "éléments_d_argumentaire": [
+      "La mise en œuvre technique et constitutionnelle dans un État fédéral exige un calendrier soutenable de deux ans (2-6H).",
+      "L'Allemagne soutient une coopération policière européenne d'excellence, dotée de bases juridiques irréprochables.",
+      "La cybercriminalité (2-6A) et le terrorisme (2-6D) exigent une mutualisation des compétences analytiques sous contrôle judiciaire strict.",
+      "Un report bien préparé évitera les failles de sécurité et garantira la fiabilité totale des bases de données partagées."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Défendre fermement le report de deux ans comme une nécessité d'adaptation constitutionnelle et fédérale, tout en affirmant le soutien de fond au renforcement d'Europol.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2026-10-10T21:10:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne place la protection de ses infrastructures numériques et industrielles au premier rang de ses priorités de sécurité.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE",
+        "justification": "Soutient un instrument d'analyse stratégique partagé pour mieux anticiper les dynamiques criminelles.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "Conforme à la doctrine constitutionnelle allemande exigeant des garanties fortes sur la protection des données personnelles.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "Soutient une cellule de coordination antiterroriste intégrée pour prévenir les attentats transfrontaliers.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE",
+        "justification": "Restreindre le mandat affaiblirait la capacité des polices européennes à agir contre les nouvelles formes de délinquance.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Privilégie l'égalité entre partenaires européens mais comprend la nécessité de protéger le secret de défense.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "NEUTRE",
+        "justification": "Favorable au renforcement des moyens judiciaires mais sans détriment pour la coopération centrale européenne.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Amendement initié par l'Allemagne pour permettre l'adaptation technique et juridique de ses polices fédérales et régionales.",
+        "priorite": "très_haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Non-porteur - Soutien actif aux équipes conjointes d’enquête et à la lutte antimafia.",
+    "enjeux_directive": [
+      "Mobiliser la coopération policière européenne contre les organisations mafieuses transnationales (Ndrangheta, Camorra).",
+      "Faciliter la saisie et la confiscation transfrontalière des avoirs criminels et des biens mal acquis dans toute l'UE.",
+      "Renforcer la surveillance conjointe des réseaux criminels de trafic d'êtres humains et d'armes en Méditerranée.",
+      "Accélérer l'interopérabilité des fichiers de police pour traquer les fugitifs internationaux."
+    ],
+    "impacts_directive": [
+      "L'Italie bénéficiera grandement de l'entraide judiciaire rapide pour tracer les flux financiers criminels dissimulés dans d'autres pays de l'Union.",
+      "Ses unités spécialisées (Carabinieri, Guardia di Finanza, DIA) joueront un rôle de premier plan dans les centres de commandement communs."
+    ],
+    "stratégie": "L'Italie est l'un des soutiens les plus enthousiastes de la directive. Forte de sa législation antimafia d'avant-garde, elle pousse pour une intégration opérationnelle maximale, soutenant la création de l'unité antiterroriste (2-6D), l'élargissement cyber (2-6A) et l'observatoire des crimes transfrontaliers (2-6B). Elle s'oppose à toute restriction du champ de coopération (2-6E) ou exclusion de partenaires (2-6F).",
+    "alliances": [
+      "France (collaboration policière et judiciaire transfrontalière étroite)",
+      "Parti Populaire Européen (engagement commun pour l'ordre public et la sécurité)",
+      "Socialistes et Démocrates (soutien à la confiscation des avoirs criminels et à la protection des victimes)",
+      "Agrochimie (lutte contre les mafias agroalimentaires et les contrefaçons)",
+      "Automobile (démantèlement des filières internationales de vol de véhicules)"
+    ],
+    "oppositions": [
+      "Hongrie (rejet des limitations frileuses du mandat policier)",
+      "Pologne (méfiance envers un repli judiciaire purement national)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le crime organisé opère à l'échelle européenne et mondiale : les polices européennes doivent agir avec les mêmes armes et sans frontières.",
+      "La saisie des avoirs criminels dans tous les États membres est le moyen le plus efficace de détruire les réseaux mafieux.",
+      "L'unité antiterroriste (2-6D) et l'observatoire (2-6B) sont indispensables pour croiser le renseignement criminel en temps réel.",
+      "L'Italie met son savoir-faire d'enquête à la disposition de l'ensemble de ses partenaires européens."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Pousser pour que la directive facilite la réutilisation sociale des biens confisqués aux organisations criminelles dans toute l'Union.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2026-10-10T21:10:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "Les organisations criminelles utilisent massivement les outils numériques pour blanchir leurs capitaux et coordonner leurs trafics.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE",
+        "justification": "Un observatoire dédié renforcera la cartographie des clans criminels et des flux financiers illicites.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Soutient les droits fondamentaux sans que cela ne devienne un bouclier d'impunité pour les chefs de réseaux criminels.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE",
+        "justification": "Appui total à la mise en place d'une force antiterroriste coordonnée à l'échelle de l'Union.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE",
+        "justification": "Les criminels diversifient constamment leurs activités : limiter le mandat de coopération affaiblirait la répression.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie refuse les régimes d'exception qui créeraient des havres de sécurité pour les mafieux en fuite.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Favorable au soutien des tribunaux nationaux si cela s'accompagne d'une pleine interopérabilité européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "L'urgence de la lutte contre le crime organisé exige une entrée en vigueur immédiate des nouveaux dispositifs.",
+        "priorite": "moyenne",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Préserver la souveraineté nationale exclusive sur la police, l'ordre public et la sécurité intérieure.",
+      "Empêcher une ingérence des agences bruxelloises (Europol) dans les affaires intérieures de l'État.",
+      "Restreindre strictement la coopération aux seules infractions transfrontalières graves sans transfert de compétences.",
+      "Garder la maîtrise totale de l'accès aux bases de données policières et citoyennes nationales."
+    ],
+    "impacts_directive": [
+      "La directive pourrait limiter la souveraineté sécuritaire de Budapest si le champ de coopération n'est pas strictement verrouillé.",
+      "La position hongroise reflète la défense sans concession des compétences policières régaliennes."
+    ],
+    "stratégie": "La Hongrie est la porteuse de l'amendement 2-6E visant à limiter la coopération à une liste restreinte de crimes graves. Elle s'oppose à toute idée d'une police fédérale européenne ou de centres de commandement dotés de pouvoirs contraignants. Elle soutient l'amendement polonais (2-6G) axé sur la primauté judiciaire nationale et accueille favorablement le report de deux ans (2-6H).",
+    "alliances": [
+      "Pologne (front commun pour la défense de la souveraineté policière et judiciaire)",
+      "Conservateurs et Réformistes (partage d'une vision de subsidiarité stricte)",
+      "Énergies Fossiles (protection des installations souveraines)"
+    ],
+    "oppositions": [
+      "Renouveau Européen (rejet du fédéralisme sécuritaire)",
+      "Commission européenne (opposition à la centralisation supranationale des enquêtes)",
+      "Parti Populaire Européen (méfiance envers des unités opérationnelles permanentes)"
+    ],
+    "éléments_d_argumentaire": [
+      "La police et l'ordre public sont des compétences souveraines inaliénables de chaque État membre.",
+      "L'amendement 2-6E circonscrit la coopération aux menaces les plus graves et préserve l'indépendance de nos forces de sécurité.",
+      "L'UE doit respecter les compétences des autorités nationales et ne pas tenter de créer une police fédérale bruxelloise.",
+      "La coopération doit reposer sur le volontariat et le respect de la subsidiarité (2-6G)."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Mobiliser les partenaires d'Europe centrale pour soutenir l'amendement 2-6E et refuser toute disposition permettant des opérations de police étrangère sur le territoire national sans autorisation préalable expresse.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2026-10-10T21:10:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Réticente face à un élargissement qui donnerait aux agences européennes un droit de regard sur les réseaux informatiques nationaux.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE",
+        "justification": "Soutient un observatoire analytique qui n'empiète pas sur les compétences opérationnelles de la police hongroise.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Approuve le contrôle de l'accès aux données pour protéger la souveraineté informationnelle nationale.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "DEFAVORABLE",
+        "justification": "Opposée à la création d'unités supranationales susceptibles d'interférer avec les services de sécurité hongrois.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "FAVORABLE",
+        "justification": "Amendement initié par la Hongrie pour restreindre le champ de la directive et préserver l'autonomie policière nationale.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "FAVORABLE",
+        "justification": "Soutient toute clause reconnaissant le droit d'un État membre de restreindre le partage de données sensibles.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "Appui plein à l'amendement polonais sanctuarisant la souveraineté des justices d'État.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un report de deux ans permet de retarder l'intégration policière et d'évaluer les risques pour la souveraineté nationale.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Consolider l'autonomie et les moyens matériels des tribunaux, parquets et forces de police polonais.",
+      "Garantir la priorité absolue aux juridictions nationales face aux cours et autorités supranationales.",
+      "Sécuriser la frontière orientale de l'Union contre la criminalité transfrontalière organisée et les menaces hybrides.",
+      "Bénéficier de financements européens directs pour équiper ses forces de sécurité sans subir de tutelle judiciaire centralisée."
+    ],
+    "impacts_directive": [
+      "La directive pourrait imposer des contraintes institutionnelles si elle accordait un pouvoir hiérarchique aux instances supranationales.",
+      "La position polonaise vise à orienter les fonds de l'UE vers les infrastructures judiciaires et policières nationales."
+    ],
+    "stratégie": "La Pologne est à l'initiative de l'amendement 2-6G soutenant prioritairement les systèmes judiciaires nationaux. Favorable à une coopération pragmatique contre la criminalité transfrontalière et la traite des êtres humains sur le flanc oriental, Varsovie refuse toute subordination de ses magistrats à des instances fédérales. Elle soutient l'observatoire (2-6B), la proposition hongroise (2-6E) et le report allemand (2-6H).",
+    "alliances": [
+      "Hongrie (solidarité stratégique pour la défense des prérogatives judiciaires souveraines)",
+      "Conservateurs et Réformistes (appui au Parlement européen pour la subsidiarité)",
+      "Parti Populaire Européen (convergence sur la fermeté sécuritaire et la protection des frontières)",
+      "Énergies Fossiles (protection des sites sensibles)"
+    ],
+    "oppositions": [
+      "Renouveau Européen (refus de la fédéralisation de la justice et de la police)",
+      "Commission européenne (méfiance face aux mécanismes supranationaux centralisés)"
+    ],
+    "éléments_d_argumentaire": [
+      "Une coopération européenne efficace repose sur des systèmes judiciaires nationaux solides, modernes et respectés (2-6G).",
+      "La Pologne assume la sécurité de la frontière orientale de l'Europe et a besoin de moyens pour ses propres forces de l'ordre.",
+      "Les juridictions nationales sont les mieux placées pour juger les affaires dans le respect des traditions juridiques de chaque peuple.",
+      "La coopération transfrontalière doit être un réseau d'entraide entre égaux et non une structure hiérarchique descendante."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Veiller à ce que les fonds prévus par la directive bénéficient directement à la modernisation des postes de police et des tribunaux aux frontières orientales.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2026-10-10T21:10:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "Soutient la coopération cyber pour contrer les cyberattaques hybrides ciblant le flanc oriental.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE",
+        "justification": "Un observatoire analytique permet de mieux cartographier les réseaux criminels sans empiéter sur la souveraineté opérationnelle.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "NEUTRE",
+        "justification": "Admet l'importance de la protection des données mais veille à ne pas entraver les enquêtes de sécurité nationale.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Favorable à l'entraide antiterroriste si elle respecte l'autorité de commandement des services polonais.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "FAVORABLE",
+        "justification": "Soutient la restriction du champ d'application pour éviter les dérives bureaucratiques supranationales.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Comprend les impératifs de secret de sécurité nationale invoqués par la France.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE",
+        "justification": "Amendement phare de la Pologne affirmant la primauté et le soutien budgétaire indispensable aux justices nationales.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un report de deux ans permet d'adapter les tribunaux et les polices nationales sans précipitation.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Non-porteur - Défense des libertés fondamentales et proportionnalité policière.",
+    "enjeux_directive": [
+      "Garantir le respect scrupuleux de l'État de droit, de la proportionnalité et des libertés civiles dans l'activité policière transfrontalière.",
+      "Préserver la transparence administrative et le contrôle démocratique des bases de données criminelles.",
+      "Lutter efficacement contre la cybercriminalité et les réseaux criminels organisés infiltrant les sociétés scandinaves.",
+      "Empêcher la surveillance de masse automatisée et l'usage disproportionné de technologies intrusives."
+    ],
+    "impacts_directive": [
+      "La directive améliorera la traçabilité des réseaux criminels opérant entre le continent et les pays nordiques.",
+      "Elle exigera des garde-fous solides pour rester conforme aux normes suédoises très strictes de transparence et de protection de la vie privée."
+    ],
+    "stratégie": "La Suède appuie une coopération policière européenne moderne, méthodique et efficace contre le crime organisé et les cyberattaques (2-6A). Elle subordonne toutefois son soutien à des exigences éthiques rigoureuses : contrôle judiciaire effectif, respect de la vie privée (2-6C) et proportionnalité des mesures d'enquête. Elle accueille avec pragmatisme le report d'application (2-6H) pour sécuriser les adaptations juridiques.",
+    "alliances": [
+      "Allemagne (sensibilité commune aux standards constitutionnels et à la rigueur de gestion)",
+      "Gauche Unitaire (partage de l'exigence de protection de la vie privée et des données)",
+      "Renouveau Européen (soutien à la lutte contre la cybercriminalité)",
+      "Big Tech (dialogue sur la protection des données et la sécurité numérique)"
+    ],
+    "oppositions": [
+      "Hongrie (critique de l'absence de volonté d'harmonisation démocratique)",
+      "France (réserves face aux exclusions unilatérales de partage de données)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité des citoyens ne peut être garantie durablement que si elle repose sur le respect absolu de l'État de droit.",
+      "La protection des données et de la vie privée (2-6C) n'est pas un obstacle à la police, c'est le garant de la légitimité démocratique de son action.",
+      "La cybercriminalité (2-6A) est la menace contemporaine la plus urgente : l'Europe doit développer des capacités de pointe partagées.",
+      "L'échange de données policières doit être encadré par des magistrats indépendants pour prévenir tout abus de surveillance."
+    ],
+    "références": [
+      "s2d6.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Soutenir les amendements renforçant le contrôle judiciaire et les droits de la défense dans le traitement des données policières partagées.",
+    "scenario_id": 2,
+    "directive_id": 6,
+    "actor_type": "pays",
+    "generated_at": "2026-10-10T21:10:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-6A",
+        "titre": "Élargir la coopération à la lutte contre la cybercriminalité",
+        "position": "FAVORABLE",
+        "justification": "La Suède est à la pointe de la transition numérique et soutient fermement la neutralisation des cybercriminels à l'échelle européenne.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la coopération à la lutte contre la cybercriminalité"
+      },
+      {
+        "amendement": "2-6B",
+        "titre": "Instaurer un observatoire européen des crimes transfrontaliers",
+        "position": "FAVORABLE",
+        "justification": "Appuie la transparence et l'objectivation des données criminelles par des analyses scientifiques indépendantes.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Instaurer un observatoire européen des crimes transfrontaliers"
+      },
+      {
+        "amendement": "2-6C",
+        "titre": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée",
+        "position": "FAVORABLE",
+        "justification": "Position essentielle pour la Suède : aucune collecte de données policières ne doit se faire sans garanties strictes de vie privée.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Conditionner l’accès aux données à des garanties strictes de protection de la vie privée"
+      },
+      {
+        "amendement": "2-6D",
+        "titre": "Créer une unité européenne de lutte contre le terrorisme",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Soutient la coordination antiterroriste à condition qu'elle soit soumise à un contrôle parlementaire et judiciaire strict.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Créer une unité européenne de lutte contre le terrorisme"
+      },
+      {
+        "amendement": "2-6E",
+        "titre": "Limiter la coopération à certains types de criminalité",
+        "position": "DEFAVORABLE",
+        "justification": "La lutte contre les réseaux criminels transfrontaliers exige une vision d'ensemble et non des cloisons arbitraires.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la coopération à certains types de criminalité"
+      },
+      {
+        "amendement": "2-6F",
+        "titre": "Exclure certains États membres de l’échange systématique de données",
+        "position": "DEFAVORABLE",
+        "justification": "Défend l'universalité des règles et l'égalité des États membres dans le respect des traités européens.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de l’échange systématique de données"
+      },
+      {
+        "amendement": "2-6G",
+        "titre": "Soutenir prioritairement les systèmes judiciaires nationaux",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Le soutien aux juridictions nationales doit être garanti, à condition qu'il respecte l'indépendance de la justice et l'État de droit.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les systèmes judiciaires nationaux"
+      },
+      {
+        "amendement": "2-6H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Un délai de transition de deux ans permet d'harmoniser les législations et de garantir des systèmes informatiques sécurisés.",
+        "priorite": "haute",
+        "origine": "Allemagne",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+  "enjeux_directive": [
+    "Assurer une répartition équitable des demandeurs d’asile dans un cadre contraignant.",
+    "Équilibrer solidarité européenne, pressions sociales nationales et respect des droits humains.",
+    "Anticiper les blocages politiques et favoriser les compromis viables entre États membres.",
+    "Consolider l’influence institutionnelle de la Commission dans le cadre des politiques migratoires européennes.",
+    "Renforcer la légitimité de la gouvernance européenne face aux défis migratoires à long terme."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La stratégie de la Commission européenne repose sur une approche multifacette, combinant un engagement ferme envers l’harmonisation des politiques migratoires avec un souci constant de respecter les divergences nationales. L’institution mise principalement sur trois piliers : d’une part, un renforcement des mécanismes de solidarité européenne pour éviter la concentration excessive du flux migratoire dans certains États membres (notamment Italie et Grèce) ; d’autre part, une promotion active des solutions basées sur l’innovation technologique, notamment en matière de gestion des frontières extérieures et d’intégration des migrants. Enfin, la Commission s’appuie sur une diplomatie institutionnelle ciblée pour convaincre les États réticents (comme la Hongrie) de participer à un système équilibré. Cette stratégie vise non seulement à préserver l’unité européenne face aux pressions migratoires, mais aussi à renforcer le rôle central de la Commission comme instance de coordination et de régulation au sein de l’Union.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+  ],
+  "éléments_d_argumentaire": [
+    "La directive favorise une distribution plus équitable des flux migratoires, ce qui réduit la charge excessive sur certains États membres et renforce l’unité européenne.",
+    "L’intégration structurée des migrants contribue à l’économie européenne en développant des compétences et en stimulant les secteurs de l’éducation et du travail.",
+    "Les investissements dans la formation linguistique et professionnelle garantissent une meilleure insertion sociale et économique des migrants, réduisant ainsi les tensions sociales.",
+    "La Commission propose un cadre juridique clair et contraignant qui évite les interprétations divergentes par les États membres, assurant une cohérence institutionnelle.",
+    "Le soutien aux centres d’accueil aux frontières extérieures permet de décharger les pays de première ligne (Italie, Grèce) tout en favorisant l’application des droits humains.",
+    "La solidarité accrue avec les pays en première ligne renforce la crédibilité de l’Union européenne comme acteur global et garant des valeurs humanitaires.",
+    "Les quotas équilibrés évitent à la fois une surcharge des capacités nationales et un sous-emploi des ressources européennes, optimisant ainsi le fonctionnement du système."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "2-3A",
+      "titre": "Augmenter les quotas de répartition de 20 %",
+      "position": "FAVORABLE",
+      "justification": "Cette augmentation reflète l’ambition européenne d’une gestion plus juste des flux migratoires tout en renforçant la solidarité entre États membres. Elle s’aligne avec les objectifs climatiques et de transition écologique, notamment via un soutien accru aux infrastructures énergétiques renouvelables.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Augmenter les quotas de répartition de 20 %"
+    },
+    {
+      "amendement": "2-3B",
+      "titre": "Instaurer un fonds européen pour l’intégration des migrants",
+      "position": "FAVORABLE",
+      "justification": "Ce fonds permettrait de structurer les politiques d’intégration à travers l’Union, en facilitant la mise en place d’un réseau commun de compétences et de langues. Il renforcerait également l’unité européenne face aux défis migratoires.",
+      "priorite": "haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Instaurer un fonds européen pour l’intégration des migrants"
+    },
+    {
+      "amendement": "2-3C",
+      "titre": "Conditionner les aides à la formation linguistique et professionnelle",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Cette conditionnalité favorise l’insertion des migrants tout en garantissant que les investissements européens servent efficacement leurs objectifs. Elle évite aussi des risques de gaspillage des fonds publics.",
+      "priorite": "moyenne",
+      "origine": "Conservateurs & Réformistes",
+      "description": "Conditionner les aides à la formation linguistique et professionnelle"
+    },
+    {
+      "amendement": "2-3D",
+      "titre": "Créer un mécanisme de solidarité accrue avec les pays en première ligne",
+      "position": "FAVORABLE",
+      "justification": "Ce dispositif renforce la crédibilité de l’Union européenne et protège les pays exposés, comme l'Italie ou la Grèce. Il permet également d’éviter une dépendance excessive à des solutions nationales.",
+      "priorite": "très_haute",
+      "origine": "Gauche Unitaire",
+      "description": "Créer un mécanisme de solidarité accrue avec les pays en première ligne"
+    },
+    {
+      "amendement": "2-3E",
+      "titre": "Limiter les quotas de répartition à 80 % de la capacité nationale",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Cette limitation pourrait fragiliser l’équilibre entre solidarité européenne et autonomie nationale. Elle risque également d’entraîner une surcharge dans certains États membres, contraire aux objectifs de la directive.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Limiter les quotas de répartition à 80 % de la capacité nationale"
+    },
+    {
+      "amendement": "2-3F",
+      "titre": "Exclure certains États membres des obligations de répartition",
+      "position": "DEFAVORABLE",
+      "justification": "Cette exclusion compromettrait la cohésion européenne et renforcerait les positions nationalistes. Elle risque aussi de provoquer un isolement institutionnel pour les États concernés.",
+      "priorite": "faible",
+      "origine": "Suède",
+      "description": "Exclure certains États membres des obligations de répartition"
+    },
+    {
+      "amendement": "2-3G",
+      "titre": "Soutenir prioritairement les centres d’accueil aux frontières extérieures",
+      "position": "FAVORABLE",
+      "justification": "Ce soutien permet une gestion plus efficace des flux migratoires tout en protégeant les droits humains. Il s’inscrit dans la logique de l’aide européenne ciblée.",
+      "priorite": "haute",
+      "origine": "Italie",
+      "description": "Soutenir prioritairement les centres d’accueil aux frontières extérieures"
+    },
+    {
+      "amendement": "2-3H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Un report risque d’aggraver les tensions migratoires et de fausser la mise en œuvre des politiques européennes. Cependant, il pourrait être envisagé dans un cadre très restrictif.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "références": [
+    "s2d3.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller les tensions entre secteurs de l’énergie fossile en Europe centrale (Pologne, Hongrie) et objectifs climatiques. Évaluer régulièrement les risques d’isolement institutionnel des États réticents. Surveiller aussi la coordination entre le financement de la transition écologique et la gestion migratoire.",
+  "metadata": {
+    "source_file": "s2-d3.json",
+    "type": "commission",
+    "directive_id": "2-3",
+    "tokens": {
+      "count": 749,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-26T23:04:46.022975",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 3,
+  "actor_type": "commission",
+  "generated_at": "2025-10-29T19:04:08.686033",
+  "version": "4.7"
+}

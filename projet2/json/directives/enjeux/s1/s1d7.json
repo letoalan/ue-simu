@@ -1,0 +1,191 @@
+{
+  "directive": {
+    "id": "1-7",
+    "title": "Plan logement social et rénovation durable",
+    "description": "Construire 5 millions de logements sociaux neutres en carbone et accélérer la rénovation énergétique du parc existant, avec un objectif de réduction de la précarité énergétique et de promotion de la mixité sociale.",
+    "commission": {
+      "role": "Promouvoir une politique ambitieuse de construction et rénovation durable afin de répondre aux enjeux sociaux et environnementaux en Europe.",
+      "enjeux": [
+        "Réduire la précarité énergétique dans les zones urbaines et rurales.",
+        "Accélérer la rénovation énergétique pour contribuer à la lutte contre le changement climatique.",
+        "Favoriser l’inclusion sociale via la mixité dans les logements sociaux.",
+        "Garantir une cohésion territoriale équilibrée."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Assouplir les conditions d’accès aux aides pour la rénovation des petites exploitations.",
+        "enjeux": [
+          "Faciliter l’accès à la rénovation énergétique pour les propriétaires modestes.",
+          "Promouvoir la mixité sociale dans le logement social.",
+          "Réduire la précarité énergétique de manière ciblée."
+        ],
+        "strategie": "Pousser pour un soutien accru et un accompagnement adapté aux particuliers et collectivités."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Permettre une flexibilité nationale sur le rythme de construction et rénovation.",
+        "enjeux": [
+          "Adapter les objectifs aux capacités nationales et régionales.",
+          "Éviter des contraintes trop rigides pour certains Etats membres.",
+          "Garantir une mise en œuvre progressive."
+        ],
+        "strategie": "Soutenir des compromis pour ménager les spécificités locales."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Inclure une période de report de deux ans pour l’obligation de rénovation des logements détenus par petits bailleurs.",
+        "enjeux": [
+          "Protéger les propriétaires modestes face à des coûts importants.",
+          "Veiller à la pérennité du parc de logements accessibles.",
+          "Réduire l’impact social des mesures."
+        ],
+        "strategie": "Faire valoir la nécessité d’une transition équilibrée entre ambitieux objectifs et réalités sociales."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Autoriser des dérogations pour les zones rurales à faible densité.",
+        "enjeux": [
+          "Prendre en compte les spécificités rurales et l’impact économique.",
+          "Garantir la cohésion territoriale et éviter les abandons.",
+          "Fournir des solutions adaptées aux territoires fragiles."
+        ],
+        "strategie": "Mettre l’accent sur l’adaptation territoriale des mesures."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutien à la rénovation énergétique, avec vigilance sur les modalités de mise en œuvre.",
+        "enjeux": [
+          "Garantir une mise en conformité efficace et rapide.",
+          "Soutenir les innovations dans les matériaux et technologies de rénovation."
+        ]
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Favorise des standards élevés et une forte ambition climatique dans le secteur du logement.",
+        "enjeux": [
+          "Promouvoir la neutralité carbone dans la construction neuve et rénovation.",
+          "Soutenir les politiques sociales d’accès au logement."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Porter l’objectif à 7 millions de logements sociaux à construire d’ici 2035.",
+        "enjeux": [
+          "Accroître fortement l’offre de logements sociaux.",
+          "Réduire la précarité énergétique et lutter contre l’exclusion.",
+          "Fédérer un large soutien politique à l’initiative."
+        ],
+        "strategie": "Mettre en avant l’urgence sociale et climatique du logement."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Rendre la rénovation énergétique des logements sociaux obligatoire.",
+        "enjeux": [
+          "Assurer des gains d’efficacité énergétique concrets.",
+          "Promouvoir la lutte contre le réchauffement climatique.",
+          "Améliorer la qualité de vie des habitants."
+        ],
+        "strategie": "Exiger des mesures contraignantes et des objectifs précis."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Inclure un quota de logements accessibles aux personnes à mobilité réduite.",
+        "enjeux": [
+          "Garantir l’accès au logement à tous, y compris personnes handicapées.",
+          "Favoriser l’inclusion sociale dans la politique du logement.",
+          "Promouvoir la qualité et la diversité des logements sociaux."
+        ],
+        "strategie": "Insister sur des mesures d’inclusion sociale fortes."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Conditionner l’attribution des aides à la mixité sociale et générationnelle.",
+        "enjeux": [
+          "Favoriser la cohésion sociale par le logement.",
+          "Encourager des politiques innovantes de mixité.",
+          "Promouvoir la durabilité sociale des projets."
+        ],
+        "strategie": "Mettre la mixité sociale au cœur du dispositif."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Favorisent une approche pragmatique et souple, avec des flexibilités locales.",
+        "enjeux": [
+          "Eviter des surcharges administratives et contraintes excessives.",
+          "Respecter la subsidiarité et diversité des contextes nationaux."
+        ]
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Appellent à un renforcement de l’ambition sociale et écologique.",
+        "enjeux": [
+          "Promouvoir un logement social plus accessible, durable et équitable.",
+          "Réclamer des moyens ambitieux pour la rénovation et construction."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Développement de solutions smart building et gestion énergétique.",
+          "Promotion de la digitalisation dans la planification et rénovation."
+        ],
+        "alliances": ["Renouveau Européen", "Verts/ALE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": [
+          "Limitation des pénalités et des contraintes urgentes sur le secteur du bâtiment.",
+          "Appui au lobbying pour un rythme adapté de transition."
+        ],
+        "alliances": ["Hongrie", "Italie", "Conservateurs et Réformistes"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Financement de projets de rénovation et construction durable.",
+          "Développement d’instruments financiers pour le secteur immobilier vert."
+        ]
+      },
+      {
+        "sector": "Agro-chimie",
+        "interests": [
+          "Impliquée indirectement via politiques rurales liées à la construction.",
+          "Veille à la cohérence avec les politiques agricoles."
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Promotion de la qualité de l’air et santé environnementale dans le logement.",
+          "Soutien aux normes sanitaires dans la construction."
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Soutien aux projets d’accessibilité et mobilité durable en lien avec le logement.",
+          "Intérêt pour l’intégration de solutions de mobilité verte."
+        ],
+        "alliances": ["Pologne", "PPE", "Conservateurs"]
+      }
+    ]
+  }
+}

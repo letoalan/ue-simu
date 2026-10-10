@@ -1,0 +1,145 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Proposer et défendre une réforme ambitieuse des soutiens agricoles intégrant les objectifs du Pacte vert, tout en conciliant durabilité, compétitivité et équité sociale.",
+  "enjeux_directive": [
+    "Accélérer la transition agroécologique en Europe.",
+    "Réorienter les subventions vers des pratiques agricoles durables.",
+    "Maintenir la compétitivité et la résilience du secteur agricole.",
+    "Soutenir la souveraineté alimentaire et protéger la biodiversité.",
+    "Renforcer l'innovation technologique dans les pratiques agricoles.",
+    "Assurer une répartition équitable des fonds entre régions agricoles et non agricoles."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission européenne adopte une approche multilatérale et progressiste, combinant ambition écologique avec un souci de justice sociale et économique. Elle s'appuie sur des négociations stratégiques pour aligner les subventions agricoles sur les objectifs climatiques tout en préservant la compétitivité du secteur agricole européen. La Commission mobilise des partenariats transversaux avec des acteurs clés (pays, partis et lobbies) afin de garantir un consensus large autour des réformes. Elle insiste particulièrement sur l'innovation technologique, la préservation des sols, et le soutien aux exploitations familiales, tout en anticipant les résistances des secteurs traditionnels (comme l'agrochimie) par des mesures de transition progressive. La Commission utilise également un argumentaire basé sur la sécurité alimentaire, les opportunités économiques du marché vert et la nécessité d'une réponse cohérente aux crises climatiques.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Agrochimie (résistance aux restrictions pesticides)"
+  ],
+  "éléments_d_argumentaire": [
+    "La réduction des pesticides favorise la santé des sols et la biodiversité, renforçant la résilience agricole à long terme.",
+    "L'agriculture biologique représente un levier économique majeur pour les régions rurales, en créant des emplois durables.",
+    "Les circuits courts et l'autosuffisance alimentaire renforcent la sécurité alimentaire face aux crises géopolitiques.",
+    "Le soutien aux petites exploitations garantit une justice sociale dans le secteur agricole, évitant leur marginalisation.",
+    "L'innovation technologique (agro-robotique, irrigation durable) améliore l'efficacité des pratiques agricoles et réduit les coûts environnementaux.",
+    "La préservation de la biodiversité agricole est un pilier fondamental pour atteindre les objectifs climatiques européens.",
+    "L'harmonisation des subventions entre les États membres favorise une égalité de conditions et évite les distorsions de concurrence.",
+    "Le financement de la santé des sols assure une base économique viable pour le secteur agricole à l'horizon 2030."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-3A",
+      "titre": "Augmenter la part des subventions à l’agriculture biologique à 50%",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cet amendement car il aligne les politiques agricoles européennes avec les objectifs climatiques et environnementaux. Une augmentation de la part des subventions vers l'agriculture biologique favoriserait une transition plus rapide vers des pratiques durables, tout en renforçant les petites exploitations familiales, secteur clé pour la justice sociale et économique.",
+      "priorite": "très_haute",
+      "origine": "Socialistes & Démocrates",
+      "description": "Augmenter la part des subventions à l’agriculture biologique à 50%"
+    },
+    {
+      "amendement": "1-3B",
+      "titre": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission considère cet amendement comme un levier essentiel pour la santé des sols et l'écosystème agricole. Toutefois, elle préconise une transition progressive pour éviter les impacts économiques négatifs sur les exploitations en difficulté ou les régions dépendantes de ces secteurs.",
+      "priorite": "haute",
+      "origine": "Verts/ALE",
+      "description": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030"
+    },
+    {
+      "amendement": "1-3C",
+      "titre": "Créer un fonds d’innovation pour la santé des sols",
+      "position": "FAVORABLE",
+      "justification": "La Commission appuie cet amendement comme une opportunité stratégique de financement innovant pour la recherche et l'application technologiques en agriculture. Ce fonds favoriserait des solutions durables à long terme, tout en renforçant le rôle pionnier de l'Union européenne dans la transition écologique.",
+      "priorite": "très_haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Créer un fonds d’innovation pour la santé des sols"
+    },
+    {
+      "amendement": "1-3D",
+      "titre": "Soutenir les circuits courts et la relocalisation alimentaire",
+      "position": "FAVORABLE",
+      "justification": "La Commission valorise cet amendement comme un outil pour renforcer l'autosuffisance alimentaire, réduire les déchets logistiques, et soutenir les acteurs locaux. Cela permettrait d'assurer une meilleure résilience face aux crises géopolitiques tout en favorisant la biodiversité agricole.",
+      "priorite": "haute",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Soutenir les circuits courts et la relocalisation alimentaire"
+    },
+    {
+      "amendement": "1-3E",
+      "titre": "Maintenir une part de subventions pour l’agriculture conventionnelle",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission reconnaît la nécessité d'équilibrer les subventions entre agriculture biologique et conventionnelle. Cet amendement garantit un soutien aux exploitations en transition, tout en évitant une rupture trop brutale qui pourrait affecter la sécurité alimentaire ou l'emploi dans certaines régions.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Maintenir une part de subventions pour l’agriculture conventionnelle"
+    },
+    {
+      "amendement": "1-3F",
+      "titre": "Assouplir les conditions d’accès aux aides pour les petites exploitations",
+      "position": "FAVORABLE",
+      "justification": "La Commission appuie cet amendement comme un levier de justice sociale et économique. Un accès facilité aux aides favoriserait l'inclusion des petits exploitants, renforçant ainsi la diversité agricole et la résilience face aux chocs climatiques.",
+      "priorite": "haute",
+      "origine": "France",
+      "description": "Assouplir les conditions d’accès aux aides pour les petites exploitations"
+    },
+    {
+      "amendement": "1-3G",
+      "titre": "Inclure un soutien spécifique à l’irrigation durable",
+      "position": "FAVORABLE",
+      "justification": "La Commission considère cet amendement comme crucial pour les régions souffrant de sécheresses chroniques. L'irrigation durable est une priorité pour la sécurité alimentaire et la préservation des ressources en eau, notamment dans le sud de l'Europe.",
+      "priorite": "moyenne",
+      "origine": "Italie",
+      "description": "Inclure un soutien spécifique à l’irrigation durable"
+    },
+    {
+      "amendement": "1-3H",
+      "titre": "Reporter l’objectif de réduction des pesticides à 2040",
+      "position": "DEFAVORABLE",
+      "justification": "La Commission est opposée à ce report car il pourrait entraver la transition écologique nécessaire pour atteindre les objectifs climatiques européens. Cependant, elle reconnaît le besoin d'une transition progressivement maîtrisée et propose des mécanismes de soutien aux exploitants impactés.",
+      "priorite": "faible",
+      "origine": "Allemagne",
+      "description": "Reporter l’objectif de réduction des pesticides à 2040"
+    }
+  ],
+  "références": [
+    "s1d3.json",
+    "scenario1.json"
+  ],
+  "notes_internes": "Surveiller tensions entre secteurs agrochimiques (Big pharma, Agrochimie) et objectifs de réduction des pesticides. Évaluer impact des mesures sur les régions agricoles du Sud de l’Europe (Italie, Espagne non disponible), où la dépendance aux pratiques traditionnelles est forte. Recommander un suivi rigoureux des transitions pour éviter les dérives économiques dans les secteurs en difficulté.",
+  "metadata": {
+    "source_file": "s1-d3.json",
+    "type": "commission",
+    "directive_id": "1-3",
+    "tokens": {
+      "count": 786,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-21T14:59:26.739353",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 3,
+  "actor_type": "commission",
+  "generated_at": "2025-10-23T19:38:38.249151",
+  "version": "4.7"
+}

@@ -1,0 +1,209 @@
+{
+  "directive": {
+    "id": "2-8",
+    "title": "Souveraineté numérique et cybersécurité",
+    "description": "Renforcer la résilience face aux cyberattaques, garantir la souveraineté numérique et protéger les infrastructures critiques de l’UE.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Harmoniser les normes de cybersécurité au niveau européen.",
+        "Protéger les infrastructures critiques et sensibles.",
+        "Réduire la dépendance aux technologies étrangères.",
+        "Anticiper les tensions entre souveraineté nationale et intégration européenne."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Non-porteur",
+        "position": "Soutien fort à une cybersécurité européenne ambitieuse.",
+        "enjeux": [
+          "Consolider son rôle moteur en Europe numérique.",
+          "Protéger ses infrastructures stratégiques."
+        ],
+        "role_description": "Allié des pays favorables à une intégration forte."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "amendment": "Exclure certains secteurs des normes communes.",
+        "enjeux": [
+          "Protéger ses industries sensibles.",
+          "Limiter les coûts réglementaires."
+        ],
+        "strategie": "Négocier pour préserver sa compétitivité industrielle."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Limiter le champ d’action du corps européen de cybersécurité.",
+        "enjeux": [
+          "Préserver une marge de manœuvre nationale.",
+          "Éviter une centralisation excessive."
+        ],
+        "strategie": "Plaider pour une approche pragmatique et limitée."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Reporter l’application de la directive de deux ans.",
+        "enjeux": [
+          "Préserver sa souveraineté nationale.",
+          "Gagner du temps pour s’adapter aux normes."
+        ],
+        "strategie": "Fédérer les États réticents pour ralentir le processus."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Soutenir prioritairement les initiatives nationales de cybersécurité.",
+        "enjeux": [
+          "Préserver ses priorités nationales.",
+          "Éviter une harmonisation trop contraignante."
+        ],
+        "strategie": "Insister sur la subsidiarité et l’autonomie nationale."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Soutien à une harmonisation ambitieuse et transparente.",
+        "enjeux": [
+          "Garantir une cybersécurité robuste.",
+          "Assurer un haut niveau de protection des droits fondamentaux."
+        ],
+        "role_description": "Acteur moteur pour une approche ambitieuse et éthique."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Élargir le corps européen de cybersécurité à tous les secteurs critiques.",
+        "enjeux": [
+          "Protéger les industries stratégiques européennes.",
+          "Renforcer la résilience face aux cybermenaces."
+        ],
+        "strategie": "Mettre en avant la nécessité de sécuriser tous les secteurs sensibles."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Créer un mécanisme de réponse rapide aux cyberattaques.",
+        "enjeux": [
+          "Assurer la protection immédiate des citoyens et des entreprises.",
+          "Renforcer la solidarité européenne."
+        ],
+        "strategie": "Allier protection sociale et sécurité numérique."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Instaurer un fonds européen pour l’innovation en cybersécurité.",
+        "enjeux": [
+          "Soutenir la compétitivité des entreprises technologiques.",
+          "Stimuler l’innovation européenne."
+        ],
+        "strategie": "Positionner l’Europe comme leader mondial de la cybersécurité."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Non-porteur",
+        "position": "Soutiennent la directive mais insistent sur la transparence et l’éthique.",
+        "enjeux": [
+          "Garantir le respect des droits numériques.",
+          "Assurer une cybersécurité respectueuse des libertés."
+        ],
+        "strategie": "Faire pression pour renforcer les garde-fous éthiques."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Soutien prudent avec insistance sur la subsidiarité.",
+        "enjeux": [
+          "Préserver les compétences nationales.",
+          "Limiter les dépenses européennes."
+        ],
+        "strategie": "Mettre en avant l’importance des responsabilités nationales."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Conditionner les aides à la formation des professionnels du secteur.",
+        "enjeux": [
+          "Promouvoir l’emploi et la justice sociale.",
+          "Renforcer les compétences locales."
+        ],
+        "strategie": "Associer cybersécurité et justice sociale."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Participer à la définition des normes européennes.",
+          "Obtenir des financements pour l’innovation en cybersécurité."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Protéger leurs infrastructures critiques contre les cyberattaques.",
+          "Limiter les obligations coûteuses de mise en conformité."
+        ],
+        "alliances": [
+          "Pologne",
+          "Hongrie",
+          "Conservateurs et Réformistes"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Renforcer la sécurité des transactions financières.",
+          "Éviter les perturbations liées aux cyberattaques."
+        ],
+        "alliances": [
+          "France",
+          "S&D"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Protéger les chaînes d’approvisionnement agricoles connectées.",
+          "Limiter les nouvelles charges réglementaires."
+        ],
+        "alliances": [
+          "Italie",
+          "PPE"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Sécuriser les données médicales sensibles.",
+          "Obtenir un soutien pour la cybersécurité dans la recherche."
+        ],
+        "alliances": [
+          "Verts/ALE",
+          "S&D"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Protéger les véhicules connectés et autonomes.",
+          "Accéder aux financements européens pour la cybersécurité."
+        ],
+        "alliances": [
+          "Allemagne",
+          "France"
+        ]
+      }
+    ]
+  }
+}

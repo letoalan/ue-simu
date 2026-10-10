@@ -1,0 +1,51 @@
+# manifest
+
+Source : `finance/manifest.json`
+
+## Contenu
+
+- **version** : 1.0.0
+- **currency** : Mds €
+- **periodYears** : `10`
+- **countries** :
+  - DE
+  - FR
+  - IT
+  - PL
+  - SE
+  - HU
+- **parties** :
+  - PPE
+  - SDE
+  - RENEW
+  - VERT
+  - ECR
+  - GUE
+- **lobbies** :
+  - AUTO
+  - AGRI
+  - ENERG
+  - TECH
+  - FINA
+  - CHIM
+- **scenarios** :
+  - **1** :
+    - **directives** :
+      - `1`
+      - `2`
+      - `3`
+      - `4`
+      - `5`
+      - `6`
+      - `7`
+      - `8`
+  - **2** :
+    - **directives** :
+      - `1`
+      - `2`
+      - `3`
+      - `4`
+      - `5`
+      - `6`
+      - `7`
+      - `8`

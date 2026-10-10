@@ -1,0 +1,152 @@
+/* Stepper & Verdict Banners for Voting Phase */
+
+/* Stepper pills scroll */
+.vote-stepper-scroll {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 4px 2px 10px 2px;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+}
+
+.vote-stepper-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+.vote-stepper-scroll::-webkit-scrollbar-thumb {
+  background: var(--color-border);
+  border-radius: var(--radius-full);
+}
+
+.vote-step-pill {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: var(--radius-full);
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.vote-step-pill:hover {
+  background: var(--color-surface-hover);
+  border-color: var(--color-primary-light);
+  color: var(--color-text-main);
+}
+
+.vote-step-pill.active {
+  background: var(--color-primary);
+  color: #ffffff;
+  border-color: var(--color-primary);
+  box-shadow: 0 2px 8px rgba(0, 51, 153, 0.25);
+}
+
+.vote-step-pill.passed {
+  border-color: #10b981;
+  background: #ecfdf5;
+  color: #065f46;
+}
+
+[data-theme="dark"] .vote-step-pill.passed {
+  border-color: rgba(16, 185, 129, 0.5);
+  background: rgba(16, 185, 129, 0.15);
+  color: #34d399;
+}
+
+.vote-step-pill.rejected {
+  border-color: #ef4444;
+  background: #fef2f2;
+  color: #991b1b;
+}
+
+[data-theme="dark"] .vote-step-pill.rejected {
+  border-color: rgba(239, 68, 68, 0.5);
+  background: rgba(239, 68, 68, 0.15);
+  color: #f87171;
+}
+
+/* Verdict Banners */
+.vote-verdict-banner {
+  border-radius: var(--radius-lg);
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+  transition: all 0.3s ease;
+}
+
+.verdict-passed {
+  background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+  border: 2px solid #10b981;
+  color: #065f46;
+}
+
+[data-theme="dark"] .verdict-passed {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.15) 0%, rgba(5, 150, 105, 0.22) 100%);
+  border-color: #10b981;
+  color: #a7f3d0;
+}
+
+.verdict-pending {
+  background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+  border: 2px solid #f59e0b;
+  color: #92400e;
+}
+
+[data-theme="dark"] .verdict-pending {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(217, 119, 6, 0.22) 100%);
+  border-color: #f59e0b;
+  color: #fde68a;
+}
+
+.verdict-rejected {
+  background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+  border: 2px solid #ef4444;
+  color: #991b1b;
+}
+
+[data-theme="dark"] .verdict-rejected {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.15) 0%, rgba(220, 38, 38, 0.22) 100%);
+  border-color: #ef4444;
+  color: #fecaca;
+}
+
+/* Impact chips & status badges */
+.impact-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-main);
+}
+
+.badge-success-solid {
+  background: #10b981;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+}
+
+.badge-danger-solid {
+  background: #ef4444;
+  color: #ffffff;
+  font-weight: 700;
+  padding: 2px 8px;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+}

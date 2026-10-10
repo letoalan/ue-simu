@@ -1,0 +1,79 @@
+# stats1d4
+
+Source : `directives/fiches-acteurs/s1/d4/stats1d4.json`
+
+## Contenu
+
+- **scenario** : `1`
+- **directive** : `4`
+- **nom** : Flexisécurité européenne
+- **valeurs\_prevues** :
+  - **pib\_eu** : `2.1`
+  - **gini\_eu** : `0.27`
+  - **co2\_eu** : `5.0`
+  - **veb\_eu** : `85`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 1-4A
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.0`
+      - **gini\_eu** : `0.24`
+      - **co2\_eu** : `5.0`
+      - **veb\_eu** : `87`
+  - **Élément 2** :
+    - **id** : 1-4B
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.1`
+      - **gini\_eu** : `0.25`
+      - **co2\_eu** : `5.0`
+      - **veb\_eu** : `88`
+  - **Élément 3** :
+    - **id** : 1-4C
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.26`
+      - **co2\_eu** : `4.8`
+      - **veb\_eu** : `90`
+  - **Élément 4** :
+    - **id** : 1-4D
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.25`
+      - **co2\_eu** : `4.9`
+      - **veb\_eu** : `88`
+  - **Élément 5** :
+    - **id** : 1-4E
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `5.1`
+      - **veb\_eu** : `84`
+  - **Élément 6** :
+    - **id** : 1-4F
+    - **origine** : Allemagne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.1`
+      - **gini\_eu** : `0.28`
+      - **co2\_eu** : `5.0`
+      - **veb\_eu** : `83`
+  - **Élément 7** :
+    - **id** : 1-4G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.26`
+      - **co2\_eu** : `5.0`
+      - **veb\_eu** : `87`
+  - **Élément 8** :
+    - **id** : 1-4H
+    - **origine** : Italie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.2`
+      - **gini\_eu** : `0.25`
+      - **co2\_eu** : `5.0`
+      - **veb\_eu** : `86`

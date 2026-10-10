@@ -1,0 +1,110 @@
+/* ==========================================================================
+   Boutons d'Écoute des Directives & Animations Sonores
+   ========================================================================== */
+
+/* Barre d'écoute dans les conteneurs de directives */
+.directive-audio-bar {
+  margin-top: auto;
+  padding-top: 10px;
+  border-top: 1px solid var(--color-border);
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.btn-audio-listen {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: var(--radius-full);
+  font-size: 0.78rem;
+  font-weight: 700;
+  cursor: pointer;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  transition: all var(--transition-fast);
+  user-select: none;
+  min-height: 32px;
+}
+
+.btn-audio-listen:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+/* Bouton Podcast (Teinte bleue UE) */
+.btn-audio-podcast {
+  border-color: rgba(59, 130, 246, 0.3);
+}
+
+.btn-audio-podcast:hover {
+  background: var(--color-primary-light);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.btn-audio-podcast.is-playing {
+  background: var(--color-primary);
+  color: #ffffff;
+  border-color: var(--color-primary-dark);
+  box-shadow: 0 2px 8px rgba(37, 99, 235, 0.35);
+}
+
+.btn-audio-podcast.is-paused {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+/* Bouton Synthèse (Teinte ambre) */
+.btn-audio-synthese {
+  border-color: rgba(245, 158, 11, 0.3);
+}
+
+.btn-audio-synthese:hover {
+  background: var(--color-warning-bg);
+  border-color: #f59e0b;
+  color: #b45309;
+}
+
+.btn-audio-synthese.is-playing {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
+  color: #ffffff;
+  border-color: #b45309;
+  box-shadow: 0 2px 8px rgba(217, 119, 6, 0.35);
+}
+
+.btn-audio-synthese.is-paused {
+  background: var(--color-warning-bg);
+  color: #b45309;
+  border-color: #f59e0b;
+}
+
+/* Indicateur d'ondes sonores animées */
+.audio-wave {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  height: 12px;
+  margin-left: 2px;
+}
+
+.audio-wave span {
+  width: 2.5px;
+  background-color: currentColor;
+  border-radius: 1px;
+  animation: audioWaveBar 1.2s ease-in-out infinite alternate;
+}
+
+.audio-wave span:nth-child(1) { height: 4px; animation-delay: 0.1s; }
+.audio-wave span:nth-child(2) { height: 11px; animation-delay: 0.3s; }
+.audio-wave span:nth-child(3) { height: 7px; animation-delay: 0.5s; }
+
+@keyframes audioWaveBar {
+  0% { height: 3px; }
+  50% { height: 12px; }
+  100% { height: 5px; }
+}

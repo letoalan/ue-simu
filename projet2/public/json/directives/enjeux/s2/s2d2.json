@@ -1,0 +1,160 @@
+{
+  "directive": {
+    "id": "2-2",
+    "title": "Défense commune européenne",
+    "description": "Budget européen alloué à la défense à hauteur de 0,5% du PIB, acquisition collective d’équipements stratégiques (drones, cybersécurité, etc.) et financement de la recherche en défense. L’objectif est de porter les dépenses communes à 80 milliards d’euros et de renforcer l’autonomie stratégique et la sécurité collective de l’Union européenne.",
+    "commission": {
+      "role": "Coordonner la politique de défense commune, promouvoir la coopération industrielle et opérationnelle au sein des États membres.",
+      "enjeux": [
+        "Augmenter la capacité opérationnelle et stratégique de l'UE.",
+        "Rationaliser les ressources à travers des achats groupés et concertés.",
+        "Développer la recherche et l’innovation dans le domaine de la défense.",
+        "Renforcer la cohésion et la solidarité entre les États membres."
+      ]
+    },
+    "countries": [
+      {
+        "name": "Allemagne",
+        "role": "Porteur Partiel",
+        "position": "Soutient une augmentation modérée du budget tout en gardant une flexibilité nationale.",
+        "enjeux": [
+          "Défendre les intérêts de l’industrie nationale.",
+          "Maintenir la compétitivité industrielle européenne."
+        ]
+      },
+      {
+        "name": "France",
+        "role": "Porteur Fort",
+        "position": "Favorise un budget ambitieux et un rôle européen fort, avec soutien à l’industrie de défense nationale.",
+        "enjeux": [
+          "Développer une autonomie stratégique réelle.",
+          "Protéger et renforcer la base industrielle de défense française."
+        ]
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur Partiel",
+        "position": "Demande un plafond budgétaire plus bas (0,4% PIB) et une application différenciée.",
+        "enjeux": [
+          "Garantir une transition budgétaire plausible.",
+          "Protéger le tissu industriel local."
+        ]
+      },
+      {
+        "name": "Hongrie",
+        "role": "Opposant Modéré",
+        "position": "Prône de reporter la mise en œuvre de l’augmentation budgétaire et demande des dérogations.",
+        "enjeux": [
+          "Ajuster la charge financière à ses capacités.",
+          "Protéger la souveraineté nationale."
+        ]
+      },
+      {
+        "name": "Pologne",
+        "role": "Opposant Modéré",
+        "position": "Veut des exemptions concernant les achats communs et un rôle plus central des États.",
+        "enjeux": [
+          "Préserver l’autonomie industrielle et décisionnelle.",
+          "Assurer une contribution adaptée."
+        ]
+      },
+      {
+        "name": "Suède",
+        "role": "Soutien Conditionnel",
+        "position": "Prône le report de l’application du dispositif de deux ans pour adaptation.",
+        "enjeux": [
+          "Permettre un déploiement ordonné.",
+          "Garantir l’efficacité à long terme."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "position": "Soutient une augmentation significative du budget à 0,7% du PIB.",
+        "enjeux": [
+          "Porter une politique de défense ambitieuse européenne.",
+          "Augmenter la capacité opérationnelle et industrielle."
+        ]
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "position": "Prône la mise en place d’un fonds européen pour la cybersécurité.",
+        "enjeux": [
+          "Renforcer la protection des infrastructures critiques.",
+          "Soutenir la recherche et innovation en cyberdéfense."
+        ]
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "position": "Demande une coopération renforcée et un encadrement éthique des opérations.",
+        "enjeux": [
+          "Encadrer les opérations dans le respect des droits fondamentaux.",
+          "Promouvoir une défense européenne cohérente et responsable."
+        ]
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "position": "Met l’accent sur le besoin d’une formation européenne commune des forces.",
+        "enjeux": [
+          "Professionnaliser et harmoniser les standards militaires.",
+          "Optimiser les capacités opérationnelles."
+        ]
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Opposant",
+        "position": "Prudence sur le niveau des dépenses et la portée des outils communs.",
+        "enjeux": [
+          "Protéger la souveraineté nationale.",
+          "Limiter les engagements budgétaires excessifs."
+        ]
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Opposant",
+        "position": "Refus d’une augmentation des dépenses militarisées et prône un budget plus modéré.",
+        "enjeux": [
+          "Favoriser la paix et la diplomatie avant l’armement.",
+          "Limiter les dépenses au strict nécessaire."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": ["Fournir des technologies de pointe pour la défense et la cyberdéfense.",""],
+        "alliances": ["Renouveau Européen", "Verts/ALE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": ["Influencer pour éviter des réglementations trop sévères qui impacteraient certains secteurs liés.",""],
+        "alliances": ["Conservateurs et Réformistes", "Hongrie", "Italie"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": ["Soutenir la structuration financière des dépenses communes.",""],
+        "alliances": []
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": ["Suivi attentif des réglementations en lien avec la défense et la sécurité.",""],
+        "alliances": ["Pologne", "Italie", "PPE"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": ["Investir dans la recherche stratégique en santé liée à la défense.",""],
+        "alliances": ["Renouveau Européen", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": ["Développer des équipements et véhicules pour la défense.",""],
+        "alliances": ["Pologne", "PPE", "Conservateurs et Réformistes"]
+      }
+    ]
+  }
+}

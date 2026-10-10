@@ -1,0 +1,79 @@
+# stats2d4
+
+Source : `directives/fiches-acteurs/s2/d4/stats2d4.json`
+
+## Contenu
+
+- **scenario** : `2`
+- **directive** : `4`
+- **nom** : Souveraineté agricole européenne
+- **valeurs\_prevues** :
+  - **normandie\_eu** : `83`
+  - **vdem\_eu** : `0.84`
+  - **pib\_growth\_eu** : `1.7`
+  - **idh\_eu** : `0.91`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 2-4A
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.85`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.92`
+  - **Élément 2** :
+    - **id** : 2-4B
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `84`
+      - **vdem\_eu** : `0.85`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+  - **Élément 3** :
+    - **id** : 2-4C
+    - **origine** : Gauche Unitaire
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `84`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.92`
+  - **Élément 4** :
+    - **id** : 2-4D
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `83`
+      - **vdem\_eu** : `0.85`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+  - **Élément 5** :
+    - **id** : 2-4E
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `81`
+      - **vdem\_eu** : `0.83`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.9`
+  - **Élément 6** :
+    - **id** : 2-4F
+    - **origine** : Suède
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `82`
+      - **vdem\_eu** : `0.84`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.91`
+  - **Élément 7** :
+    - **id** : 2-4G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `82`
+      - **vdem\_eu** : `0.83`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.91`
+  - **Élément 8** :
+    - **id** : 2-4H
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `82`
+      - **vdem\_eu** : `0.84`
+      - **pib\_growth\_eu** : `1.9`
+      - **idh\_eu** : `0.9`

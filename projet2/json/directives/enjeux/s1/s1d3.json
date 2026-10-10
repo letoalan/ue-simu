@@ -1,0 +1,190 @@
+{
+  "directive": {
+    "id": "1-3",
+    "title": "Réforme financière agricole et agroécologique",
+    "description": "Réorienter les soutiens agricoles vers l’agroécologie et la durabilité. Allouer 40% des subventions agricoles à l’agriculture biologique, à la réduction des pesticides et à la préservation des sols. Renforcer la résilience, la durabilité et la compétitivité de l’agriculture européenne tout en réduisant les inégalités et l’impact environnemental.",
+    "commission": {
+      "role": "Proposer et défendre une réforme ambitieuse des soutiens agricoles intégrant les objectifs du Pacte vert, tout en conciliant durabilité, compétitivité et équité sociale.",
+      "enjeux": [
+        "Accélérer la transition agroécologique en Europe.",
+        "Réorienter les subventions vers des pratiques agricoles durables.",
+        "Maintenir la compétitivité et la résilience du secteur agricole.",
+        "Soutenir la souveraineté alimentaire et protéger la biodiversité."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Assouplir les conditions d’accès aux aides pour les petites exploitations.",
+        "enjeux": [
+          "Protéger la diversité des exploitations agricoles, notamment les petites fermes.",
+          "Faciliter la transition agroécologique sans fragiliser les agriculteurs familiaux.",
+          "Maintenir la cohésion sociale et territoriale rurale."
+        ],
+        "strategie": "Insister sur un soutien ciblé pour les petites exploitations afin d’équilibrer transition écologique et précarité agricole."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Maintenir une part de subventions pour l’agriculture conventionnelle.",
+        "enjeux": [
+          "Assurer une transition progressive compatible avec les réalités économiques locales.",
+          "Protéger une agriculture conventionnelle importante pour certaines régions.",
+          "Préserver la compétitivité face aux marchés mondiaux."
+        ],
+        "strategie": "Pousser un compromis sur la répartition des aides entre agriculture biologique et conventionnelle."
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Inclure un soutien spécifique à l’irrigation durable.",
+        "enjeux": [
+          "Répondre aux enjeux climatiques locaux, notamment la gestion de l’eau.",
+          "Soutenir une agriculture plus résiliente face aux sécheresses.",
+          "Concilier durabilité et sécurité alimentaire."
+        ],
+        "strategie": "Mettre en avant l’importance des infrastructures durables dans la transition agroécologique."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Porteur",
+        "amendment": "Reporter l’objectif de réduction des pesticides à 2040.",
+        "enjeux": [
+          "Eviter un calendrier trop contraignant pour les exploitants.",
+          "Assurer un ajustement progressif compatible avec les pratiques agricoles.",
+          "Maintenir la compétitivité des productions agricoles."
+        ],
+        "strategie": "Proposer un calendrier réaliste pour accompagner la transition en douceur."
+      },
+      {
+        "name": "Pologne",
+        "role": "Non-porteur",
+        "position": "Soutien prudent, défense des exploitations agricoles traditionnelles.",
+        "enjeux": [
+          "Préserver la structure agricole nationale en tenant compte des capacités d’adaptation.",
+          "Favoriser un équilibre entre durabilité et maintien économique."
+        ]
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Favorise une transition forte et rapide vers des pratiques durables.",
+        "enjeux": [
+          "Encourager le passage rapide à l’agriculture biologique et la réduction des pesticides.",
+          "Porter les standards environnementaux européens au plus haut niveau."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Augmenter la part des subventions à l’agriculture biologique à 50%.",
+        "enjeux": [
+          "Renforcer les soutiens publics à l’agriculture durable et biologique.",
+          "Réduire les inégalités territoriales en favorisant les zones rurales défavorisées.",
+          "Favoriser une transition agricole socialement juste."
+        ],
+        "strategie": "Consolider le lien entre transition écologique et justice sociale rurale."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Conditionner les aides à la réduction de 30% des pesticides d’ici 2030.",
+        "enjeux": [
+          "Accélérer la diminution des pesticides pour la santé environnementale.",
+          "Promouvoir un modèle agricole respectueux de la biodiversité.",
+          "Renforcer les politiques agroécologiques dans le cadre européen."
+        ],
+        "strategie": "Exiger des objectifs contraignants et rapides pour la réduction des pesticides."
+      },
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Créer un fonds d’innovation pour la santé des sols.",
+        "enjeux": [
+          "Soutenir la recherche agricole et les technologies durables.",
+          "Favoriser la compétitivité du secteur agricole européen.",
+          "Encourager des pratiques agricoles innovantes pour préserver les sols."
+        ],
+        "strategie": "Promouvoir l’innovation comme levier clé de la transition agroécologique."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Soutenir les circuits courts et la relocalisation alimentaire.",
+        "enjeux": [
+          "Développer les circuits courts pour réduire l’empreinte carbone.",
+          "Soutenir l’agriculture locale et l’économie territoriale.",
+          "Favoriser une alimentation durable à l’échelle communautaire."
+        ],
+        "strategie": "Mettre l’accent sur l’économie locale comme facteur de durabilité."
+      },
+      {
+        "name": "Verts/ALE (Non-porteur)",
+        "position": "Plus exigeants sur les échéances et objectifs contraignants.",
+        "enjeux": [
+          "Pousser des politiques climatiques fortes dans l’ensemble des secteurs agricoles."
+        ]
+      },
+      {
+        "name": "Gauche Unitaire (Non-porteur)",
+        "position": "Critique des compromis insuffisants, insistance sur la justice sociale et écologique.",
+        "enjeux": [
+          "Renforcer les droits des travailleurs agricoles et la protection environnementale."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Promouvoir l’utilisation des outils numériques et de données pour optimiser la gestion agricole.",
+          "Développer la précision agricole via IoT et intelligence artificielle.",
+          "Soutenir l’innovation technologique dans l’agriculture durable."
+        ],
+        "alliances": ["Renouveau Européen", "Verts/ALE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": [
+          "Tentatives d’atténuer les contraintes liées aux émissions des exploitations agricoles intensives.",
+          "Lobby en faveur d’un rythme de transition modéré."
+        ],
+        "alliances": ["Italie", "Hongrie", "Conservateurs et Réformistes"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Financement de projets agricoles durables et innovation verte.",
+          "Promotion des instruments financiers verts adaptés au secteur agricole."
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Maintien d’un cadre favorable à l’utilisation de certaines substances chimiques.",
+          "Pressions pour ajustement des objectifs et délais de réduction des pesticides."
+        ],
+        "alliances": ["Pologne", "Italie", "PPE"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Développement de produits phytosanitaires durables et sûrs.",
+          "Promotion de la recherche en santé environnementale liée à l’agriculture."
+        ],
+        "alliances": ["Renouveau Européen", "Socialistes et Démocrates"]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Moins directement concerné, mais vigilant sur la mobilité durable liée aux zones rurales.",
+          "Soutient les technologies de mobilité électrique pour les exploitations agricoles."
+        ],
+        "alliances": ["Pologne", "PPE", "Conservateurs et Réformistes"]
+      }
+    ]
+  }
+}

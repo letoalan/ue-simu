@@ -1,0 +1,79 @@
+# stats2d5
+
+Source : `directives/fiches-acteurs/s2/d5/stats2d5.json`
+
+## Contenu
+
+- **scenario** : `2`
+- **directive** : `5`
+- **nom** : Coopération diplomatique européenne
+- **valeurs\_prevues** :
+  - **normandie\_eu** : `87`
+  - **vdem\_eu** : `0.89`
+  - **pib\_growth\_eu** : `1.6`
+  - **idh\_eu** : `0.94`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 2-5A
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.9`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.95`
+  - **Élément 2** :
+    - **id** : 2-5B
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.9`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.94`
+  - **Élément 3** :
+    - **id** : 2-5C
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.89`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.95`
+  - **Élément 4** :
+    - **id** : 2-5D
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.9`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.94`
+  - **Élément 5** :
+    - **id** : 2-5E
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+  - **Élément 6** :
+    - **id** : 2-5F
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `85`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`
+  - **Élément 7** :
+    - **id** : 2-5G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.94`
+  - **Élément 8** :
+    - **id** : 2-5H
+    - **origine** : Suède
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `86`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.8`
+      - **idh\_eu** : `0.93`

@@ -1,0 +1,145 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Porteur institutionnel",
+  "enjeux_directive": [
+    "Moderniser le tissu industriel européen pour rester compétitif.",
+    "Favoriser l'automatisation tout en assurant une transition écologique.",
+    "Éviter la délocalisation des activités industrielles.",
+    "Assurer un équilibre entre réduction des émissions et préservation de la capacité industrielle stratégique (acier, semi-conducteurs).",
+    "Mobiliser les financements publics et privés pour l'innovation bas carbone tout en garantissant la viabilité économique des secteurs clés.",
+    "Gérer les tensions géographiques entre régions industrialisées et pays en transition écologique."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La stratégie de la Commission européenne repose sur un triple pilier : (1) renforcer l'indépendance industrielle stratégique de l'UE en soutenant les secteurs clés (acier, semi-conducteurs, automobiles), (2) accélérer la transition écologique via des subventions ciblées et des incitations à l'innovation bas carbone, et (3) maintenir la compétitivité européenne face à la concurrence mondiale. Elle privilégie une approche progressive mais exigeante, combinant soutien aux PME industrielles tout en imposant des critères climatiques stricts pour les grands pollueurs. La Commission s'appuie sur une coalition transversale de partis et d'acteurs économiques pour concilier objectifs environnementaux et nécessités économiques.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Pologne (défiance envers les conditions liées à la décarbonation)"
+  ],
+  "éléments_d_argumentaire": [
+    "L'approche de la Commission combine soutien aux secteurs stratégiques et réduction des émissions, renforçant ainsi l'autonomie industrielle européenne. Cela prévient les risques de dépendance technologique envers des acteurs extérieurs.",
+    "Les subventions conditionnées à la création d'emplois locaux (1-6B) permettent de concilier objectifs écologiques et sociaux, garantissant une transition juste pour les régions industrielles touchées.",
+    "La priorité donnée aux secteurs stratégiques comme l'acier et le semi-conducteur (1-6E) vise à préserver la chaîne d'approvisionnement européenne, cruciale dans un contexte de tensions géopolitiques.",
+    "L'inclusion d'un volet formation pour les travailleurs (1-6C) répond aux besoins urgents des régions en mutation industrielle, facilitant l'adaptation du marché du travail à la transition écologique.",
+    "La flexibilité nationale dans l'allocation des subventions (1-6H) permet de respecter les spécificités économiques et sociales de chaque État membre tout en maintenant un cadre commun européen.",
+    "Le mécanisme de soutien temporaire à l'export (1-6G) renforce la compétitivité des industries européennes sur les marchés mondiaux, compensant les coûts liés aux transitions écologiques.",
+    "L'innovation dans les procédés industriels bas carbone (1-6D) est essentielle pour maintenir le leadership technologique de l'Union européenne dans la lutte contre le changement climatique.",
+    "L'assouplissement des critères de décarbonation pour les PME industrielles (1-6F) vise à éviter leur marginalisation, tout en encourageant un rythme progressif mais incontournable."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "1-6A",
+      "titre": "Porter la subvention à 40% pour les usines les plus polluantes",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission soutient l'idée de soutenir les entreprises industrielles en difficulté, mais insiste sur des conditions strictes liées à la décarbonation et aux investissements dans les technologies vertes. Cette approche permet d'assurer une transition écologique durable tout en préservant la compétitivité industrielle européenne.",
+      "priorite": "très_haute",
+      "origine": "Parti Populaire Européen",
+      "description": "Porter la subvention à 40% pour les usines les plus polluantes"
+    },
+    {
+      "amendement": "1-6B",
+      "titre": "Conditionner les aides à la création d’emplois locaux",
+      "position": "FAVORABLE",
+      "justification": "La Commission est favorable à ce que les subventions soient conditionnées à l'emploi local, afin de renforcer la résilience économique des régions industrielles touchées par la transition écologique. Cela favorise une transition juste et inclusif.",
+      "priorite": "très_haute",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Conditionner les aides à la création d’emplois locaux"
+    },
+    {
+      "amendement": "1-6C",
+      "titre": "Inclure un volet formation pour les travailleurs",
+      "position": "FAVORABLE",
+      "justification": "La Commission est convaincue de l'importance d'un plan de formation pour accompagner la transition industrielle. Cela permettra aux travailleurs de s'adapter aux nouveaux métiers liés à la décarbonation et aux technologies vertes.",
+      "priorite": "haute",
+      "origine": "Renouveau Européen",
+      "description": "Inclure un volet formation pour les travailleurs"
+    },
+    {
+      "amendement": "1-6D",
+      "titre": "Favoriser l’innovation dans les procédés industriels bas carbone",
+      "position": "FAVORABLE",
+      "justification": "La Commission considère que la promotion de l'innovation dans les processus industriels bas carbone est cruciale pour atteindre les objectifs climatiques européens. Elle soutient activement ce volet en mobilisant des fonds européens et en encourageant les partenariats public-privé.",
+      "priorite": "haute",
+      "origine": "Gauche Unitaire",
+      "description": "Favoriser l’innovation dans les procédés industriels bas carbone"
+    },
+    {
+      "amendement": "1-6E",
+      "titre": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)",
+      "position": "FAVORABLE",
+      "justification": "La Commission soutient cette proposition pour préserver l'indépendance industrielle européenne face à la concurrence mondiale. Les secteurs de l'acier et des semi-conducteurs sont essentiels pour la chaîne d'approvisionnement technologique européenne.",
+      "priorite": "très_haute",
+      "origine": "Pologne",
+      "description": "Réserver les subventions aux secteurs stratégiques (acier, semi-conducteurs)"
+    },
+    {
+      "amendement": "1-6F",
+      "titre": "Assouplir les critères de décarbonation pour les PME industrielles",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission est favorable à un assouplement des critères pour les petites entreprises, mais insiste sur la nécessité d'associer ces mesures à des plans de transition écologique concrets. Cela évitera la marginalisation des PME tout en garantissant une réduction globale des émissions.",
+      "priorite": "moyenne",
+      "origine": "France",
+      "description": "Assouplir les critères de décarbonation pour les PME industrielles"
+    },
+    {
+      "amendement": "1-6G",
+      "titre": "Inclure un mécanisme de soutien temporaire à l’export",
+      "position": "FAVORABLE",
+      "justification": "La Commission est favorable à ce dispositif, qui permettra aux industries européennes de maintenir leur compétitivité sur les marchés mondiaux tout en respectant les normes environnementales. Cela renforce la position stratégique de l'Union européenne dans le commerce mondial.",
+      "priorite": "haute",
+      "origine": "Allemagne",
+      "description": "Inclure un mécanisme de soutien temporaire à l’export"
+    },
+    {
+      "amendement": "1-6H",
+      "titre": "Permettre une flexibilité nationale dans l’allocation des subventions",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "La Commission s'engage à permettre une certaine flexibilité nationale, mais souligne la nécessité d'un cadre commun pour garantir l'équité entre les États membres et la cohérence de la transition écologique européenne.",
+      "priorite": "moyenne",
+      "origine": "Suède",
+      "description": "Permettre une flexibilité nationale dans l’allocation des subventions"
+    }
+  ],
+  "notes_internes": "Surveiller tensions industrielles dans le secteur automobile (Volkswagen, Renault) face aux exigences de décarbonation. Évaluer impact des subventions sur les régions en transition écologique (Sud de la France, Italie). Surveiller l'efficacité des mesures liées à la formation pour éviter un sous-emploi technologique.",
+  "références": [
+    "s1d6.json",
+    "scenario1.json"
+  ],
+  "metadata": {
+    "source_file": "s1-d6.json",
+    "type": "commission",
+    "directive_id": "1-6",
+    "tokens": {
+      "count": 723,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-10-21T14:59:26.814123",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "small"
+    }
+  },
+  "scenario_id": 1,
+  "directive_id": 6,
+  "actor_type": "commission",
+  "generated_at": "2025-10-26T22:51:08.637058",
+  "version": "4.7"
+}

@@ -1,0 +1,146 @@
+{
+  "type": "Commission",
+  "nom": "Commission européenne",
+  "actor_id": "commission",
+  "role_europeen": "Renforcer l'influence culturelle et éducative de l'Union européenne à l'international, en soutenant les échanges, la mobilité et la diffusion des valeurs européennes.",
+  "enjeux_directive": [
+    "Promouvoir la diversité culturelle et la compréhension mutuelle.",
+    "Renforcer la coopération entre les peuples.",
+    "Améliorer la position de l'UE sur la scène mondiale.",
+    "Favoriser l'innovation éducative et culturelle européenne.",
+    "Assurer une égalité d'accès aux programmes européens pour tous les niveaux d'éducation.",
+    "Protéger le financement des initiatives artistiques innovantes contre les pressions sectorielles."
+  ],
+  "impacts_directive": [
+    "La directive renforcera le rôle de la Commission dans la mise en œuvre des politiques européennes.",
+    "La Commission verra son influence institutionnelle consolidée à travers ce texte législatif."
+  ],
+  "stratégie": "La Commission européenne adopte une stratégie axée sur l'amplification de la diplomatie culturelle et éducative comme levier de soft power. Elle privilégie des initiatives transnationales (Erasmus+, centres culturels) pour renforcer l'identité européenne tout en favorisant la mobilité des citoyens. L'approche vise à concilier objectifs climatiques et soutien aux secteurs stratégiques, en associant les acteurs économiques (Big Tech, Automobile) aux priorités politiques. La Commission milite pour une transition énergétique inclusive qui intègre les régions historiquement dépendantes des énergies fossiles, tout en défendant un cadre juridique clair sur la promotion des valeurs européennes. Elle cherche à balancer ambitions climatiques et compétitivité industrielle, notamment via le soutien aux secteurs innovants (hydrogène vert) et la coopération transfrontalière.",
+  "alliances": [
+    "France (partage objectif nucléaire + investissements bas-carbone)",
+    "Italie (collaboration hydrogène vert + relance industrielle)",
+    "S&D (priorité investissements régions défavorisées)",
+    "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+    "Big Tech (innovation infrastructures numériques énergies propres)",
+    "Automobile (protection secteurs industriels stratégiques)",
+    "Banque (soutien investissements structuraux énergie + innovation)"
+  ],
+  "oppositions": [
+    "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+    "Conservateurs (préférence transition progressive vs radicale)",
+    "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+    "Pologne (limiter portée directive à universitaires)",
+    "Gauche Unitaire (exclusion certaines disciplines artistiques)"
+  ],
+  "éléments_d_argumentaire": [
+    "La mobilité éducative renforce la cohésion européenne en facilitant l'échange interculturel et les compétences transnationales.",
+    "Les centres culturels à l'étranger serviront de plateformes pour promouvoir les valeurs européennes dans des régions stratégiques (Asie, Amérique latine).",
+    "La conditionnalité des aides à la promotion des valeurs européennes renforce le rôle de l'Union comme acteur normatif international.",
+    "Le financement dédié aux arts favorise l'innovation culturelle et la diversité créative européenne.",
+    "L'élargissement d'Erasmus+ à tous les niveaux éducatifs garantit une égalité d'accès aux opportunités européennes, y compris pour les régions moins développées.",
+    "La priorisation des initiatives nationales peut coexister avec la coordination européenne si les critères de sélection sont harmonisés.",
+    "Reporter l'application de deux ans permet d'intégrer les retours d'expérience et d'assurer une mise en œuvre efficace à long terme.",
+    "Les mesures visant à limiter le programme aux universitaires risquent de marginaliser des segments clés (enseignants, jeunes non universitaires)."
+  ],
+  "positions_amendements": [
+    {
+      "amendement": "2-7A",
+      "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+      "position": "FAVORABLE",
+      "justification": "L'élargissement de Erasmus+ à tous les niveaux éducatifs renforce l'inclusion sociale et améliore la mobilité des citoyens européens, y compris dans les régions périphériques. Cela aligne avec le but de la directive d'améliorer la position internationale de l'UE.",
+      "priorite": "très_haute",
+      "origine": "Renouveau Européen",
+      "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+    },
+    {
+      "amendement": "2-7B",
+      "titre": "Instaurer un fonds européen pour la création artistique",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Le financement dédié aux arts soutient l'innovation culturelle européenne, mais doit être accompagné de critères stricts pour éviter les distorsions de concurrence entre pays membres.",
+      "priorite": "haute",
+      "origine": "Gauche Unitaire",
+      "description": "Instaurer un fonds européen pour la création artistique"
+    },
+    {
+      "amendement": "2-7C",
+      "titre": "Conditionner les aides à la promotion des valeurs européennes",
+      "position": "FAVORABLE",
+      "justification": "Cette conditionnalité renforce la cohésion interne et le rôle de l'UE comme acteur normatif international, tout en évitant de fragmenter les politiques nationales.",
+      "priorite": "très_haute",
+      "origine": "Conservateurs et Réformistes",
+      "description": "Conditionner les aides à la promotion des valeurs européennes"
+    },
+    {
+      "amendement": "2-7D",
+      "titre": "Créer des centres culturels européens à l’étranger",
+      "position": "FAVORABLE",
+      "justification": "Les centres culturels renforcent la visibilité de l'Union européenne à l'international, en particulier dans les pays candidats et partenaires stratégiques.",
+      "priorite": "haute",
+      "origine": "Socialiste et Démocrates",
+      "description": "Créer des centres culturels européens à l’étranger"
+    },
+    {
+      "amendement": "2-7E",
+      "titre": "Limiter le programme aux étudiants universitaires",
+      "position": "DEFAVORABLE_PARTIEL",
+      "justification": "Cette restriction exclurait des segments importants de la population (enseignants, jeunes non universitaires), ce qui serait contraire à l'objectif d'inclusion de la directive.",
+      "priorite": "moyenne",
+      "origine": "Pologne",
+      "description": "Limiter le programme aux étudiants universitaires"
+    },
+    {
+      "amendement": "2-7F",
+      "titre": "Exclure certains domaines artistiques du fonds",
+      "position": "DEFAVORABLE",
+      "justification": "L'exclusion de certaines disciplines artistiques réduirait la diversité culturelle soutenue par l'Union européenne, compromettant ainsi une partie majeure des objectifs de la directive.",
+      "priorite": "moyenne",
+      "origine": "Hongrie",
+      "description": "Exclure certains domaines artistiques du fonds"
+    },
+    {
+      "amendement": "2-7G",
+      "titre": "Soutenir prioritairement les initiatives nationales",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "L'approche doit être accompagnée de mécanismes de coordination européens pour éviter une fragmentation des politiques culturelles au sein de l'UE.",
+      "priorite": "moyenne",
+      "origine": "Italie",
+      "description": "Soutenir prioritairement les initiatives nationales"
+    },
+    {
+      "amendement": "2-7H",
+      "titre": "Reporter l’application de la directive de deux ans",
+      "position": "FAVORABLE_CONDITIONNEL",
+      "justification": "Un report permettrait d'intégrer les retours d'expérience et d'améliorer la mise en œuvre, mais doit être compensé par des mesures transitoires pour éviter une rupture de continuité.",
+      "priorite": "moyenne",
+      "origine": "Suède",
+      "description": "Reporter l’application de la directive de deux ans"
+    }
+  ],
+  "références": [
+    "s2d7.json",
+    "scenario2.json"
+  ],
+  "notes_internes": "Surveiller les tensions entre lobbies énergies fossiles et objectifs climatiques, en particulier dans les régions dépendantes du charbon (Pologne, Hongrie). Évaluer l'impact de la priorisation nationale sur les initiatives transfrontalières. Surveiller les risques de fragmentation des politiques culturelles si les amendements limitant le champ d'application sont adoptés.",
+  "metadata": {
+    "source_file": "s2-d7.json",
+    "type": "commission",
+    "directive_id": "2-7",
+    "tokens": {
+      "count": 6847,
+      "model_reference": "Qwen3-14B",
+      "counted_at": "2025-11-03T19:00:00.000000",
+      "context_limits": {
+        "fits_8k": true,
+        "fits_16k": true,
+        "fits_32k": true,
+        "fits_128k": true
+      },
+      "size_category": "medium"
+    }
+  },
+  "scenario_id": 2,
+  "directive_id": 7,
+  "actor_type": "commission",
+  "generated_at": "2025-11-03T17:52:11.693463",
+  "version": "4.7"
+}

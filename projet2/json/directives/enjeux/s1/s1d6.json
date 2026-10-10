@@ -1,0 +1,183 @@
+{
+  "directive": {
+    "id": "1-6",
+    "title": "Industrie 5.0 et modernisation industrielle",
+    "description": "Subventionner à 30% les usines automatisées et décarbonées. Moderniser l’industrie lourde (acier, ciment, chimie) par des investissements dans l’automatisation, la robotique et la décarbonation. Objectif de réduire de 40% les émissions de CO₂ d’ici 2035, tout en renforçant la compétitivité et la résilience stratégique de l’industrie européenne.",
+    "commission": {
+      "role": "Pilote la transition industrielle vers une industrie 5.0 axée sur la décarbonation et l’automatisation avancée.",
+      "enjeux": [
+        "Réduire significativement l’empreinte carbone industrielle.",
+        "Promouvoir la compétitivité technologique et l’innovation.",
+        "Garantir la résilience stratégique de l’industrie européenne dans un contexte concurrentiel."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Assouplir les critères de décarbonation pour les PME industrielles.",
+        "enjeux": [
+          "Permettre aux PME d’accéder aux subventions malgré contraintes techniques.",
+          "Soutenir la modernisation progressive sans pénaliser les entreprises locales.",
+          "Préserver l’emploi industriel national."
+        ],
+        "strategie": "Mettre en avant la réalité des capacités techniques des PME pour élargir l’assiette des subventions."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Non-porteur",
+        "position": "Veut encourager les subventions dans l’industrie lourde mais avec prudence budgétaire.",
+        "enjeux": [
+          "Soutenir les secteurs stratégiques tout en maîtrisant le coût.",
+          "Influencer pour des critères adaptés aux réalités nationales."
+        ]
+      },
+      {
+        "name": "Italie",
+        "role": "Porteur",
+        "amendment": "Inclure un soutien spécifique à l’automatisation et la robotisation ciblant la durabilité.",
+        "enjeux": [
+          "Accélérer l’adaptation industrielle via l’automatisation pour rester compétitif.",
+          "Encourager les investissements technologiques vers l’écologie."
+        ],
+        "strategie": "Valider la modernisation de l’industrie via des aides ciblées et innovantes."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Veut inclure un mécanisme de soutien à l’export et veiller à la flexibilité nationale.",
+        "enjeux": [
+          "Protéger la compétitivité internationale des industriels allemands.",
+          "Maintenir des marges de manœuvre réglementaire nationales."
+        ]
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Réserver les subventions aux secteurs stratégiques tels que l’acier et la chimie.",
+        "enjeux": [
+          "Assurer la pérennité des secteurs industriels clés.",
+          "Concentrer les ressources sur les industries vitrines de l’économie nationale."
+        ],
+        "strategie": "Prioriser l’allocation des subventions vers les industries vitales et à fort impact."
+      },
+      {
+        "name": "Suède",
+        "role": "Non-porteur",
+        "position": "Souhaite une application flexible et innovante avec accompagnement des PME.",
+        "enjeux": [
+          "Encourager les entreprises à innover tout en garantissant l’adaptabilité.",
+          "Favoriser l’émergence de technologies durables."
+        ]
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Porteur",
+        "amendment": "Augmenter les subventions jusqu’à 40% pour les usines les plus polluantes.",
+        "enjeux": [
+          "Renforcer les aides pour accélérer la sortie des industries les plus émettrices.",
+          "Promouvoir un changement technologique rapide."
+        ],
+        "strategie": "Pousser pour un soutien différencié selon l’intensité polluante et l’innovation."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Porteur",
+        "amendment": "Conditionner les aides à la création d’emplois locaux.",
+        "enjeux": [
+          "Allier transition écologique et maintien de l’emploi.",
+          "Encourager la responsabilité sociale des entreprises."
+        ],
+        "strategie": "Insister sur le lien entre subventions et retombées sociales."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Inclure un volet formation pour les travailleurs dans la modernisation.",
+        "enjeux": [
+          "Favoriser la montée en compétences pour accompagner les technologies.",
+          "Réduire le chômage lié aux transformations industrielles."
+        ],
+        "strategie": "Soutenir les dispositifs d’adaptation professionnelle."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Favoriser l’innovation dans les procédés industriels bas carbone.",
+        "enjeux": [
+          "Accélérer la recherche et les applications de technologies vertes.",
+          "Maximiser l’impact environnemental positif."
+        ],
+        "strategie": "Insister sur la dimension innovante et écologique de l’industrie 5.0."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Non-porteur",
+        "position": "Souhaitent une mise en œuvre tenant compte des réalités sociales.",
+        "enjeux": [
+          "Protéger les travailleurs en transition.",
+          "Assurer la justice sociale dans l’industrie."
+        ]
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Non-porteur",
+        "position": "Demandent des mesures plus strictes et sociales.",
+        "enjeux": [
+          "Insister sur l’impact social et les droits des travailleurs.",
+          "Critiquer les subventions insuffisantes aux PME."
+        ]
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Fournir des solutions pour automatisation intelligente et robotisation.",
+          "Consolider la place de la technologie dans la modernisation industrielle."
+        ],
+        "alliances": ["Renouveau Européen", "Verts/ALE"]
+      },
+      {
+        "sector": "Energies fossiles",
+        "interests": [
+          "Cherchent à limiter les exigences sur la décarbonation.",
+          "Lobby pour un tempo adapté à leurs industries lourdes."
+        ],
+        "alliances": ["Italie", "Hongrie", "Conservateurs et Réformistes"]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Promouvoir le financement des technologies vertes et modernes.",
+          "Développer des instruments de soutien financier adaptés."
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Intéressés par des critères flexibles sur la décarbonation.",
+          "Associés aux politiques agricoles dans la modernisation."
+        ],
+        "alliances": ["Pologne", "Italie", "PPE"]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Investissent dans la recherche pour des procédés durables.",
+          "Veillent au respect des normes environnementales élevées."
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Soutiennent la robotisation et l’innovation vers la mobilité propre.",
+          "Demandent un cadre favorable aux industries européennes."
+        ],
+        "alliances": ["Pologne", "PPE", "Conservateurs et Réformistes"]
+      }
+    ]
+  }
+}

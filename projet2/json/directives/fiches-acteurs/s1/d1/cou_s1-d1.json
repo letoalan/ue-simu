@@ -1,0 +1,765 @@
+[
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "role_europeen": "Moteur stratégique de la transition écologique et économique",
+    "enjeux_directive": [
+      "Sécurisation de la transition énergétique tout en préservant la compétitivité industrielle allemande.",
+      "Équilibre entre objectifs climatiques ambitieux (neutralité carbone 2045) et soutien aux secteurs stratégiques (automobile, chimie).",
+      "Défense des intérêts régionaux (ex: répartition justes des fonds de transition pour les régions industrielles dépendantes du charbon).",
+      "Rôle central dans la coordination européenne de l'hydrogène vert et de la filière nucléaire."
+    ],
+    "impacts_directive": [
+      "La directive structure la politique énergétique allemande, impactant directement le secteur industriel et les investissements publics.",
+      "Les positions allemandes influencent fortement l'équilibre des négociations au sein de la Commission européenne."
+    ],
+    "stratégie": "Mettre en avant un modèle énergétique hybride combinant transition écologique, innovation technologique (hydrogène vert, électrification industrielle) et préservation du secteur industriel allemand. Promouvoir une approche concertée avec les partenaires européens pour éviter des ruptures économiques brutales, tout en défendant l'indépendance énergétique de l'Allemagne via le nucléaire civil et l'hydrogène.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à la modernisation industrielle + stabilité économique)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La transition énergétique doit être accompagnée de mesures pour éviter la déindustrialisation des régions allemandes historiquement liées au charbon.",
+      "L'hydrogène vert représente une opportunité majeure de leadership technologique européen, à soutenir via des investissements massifs.",
+      "Le nucléaire civil reste indispensable pour assurer la stabilité énergétique allemande jusqu'à 2038, en complément des énergies renouvelables.",
+      "Les subventions doivent cibler les secteurs industriels stratégiques (automobile, chimie) pour éviter une perte de compétitivité européenne.",
+      "La relance des investissements à 2,5% du PIB est cruciale pour financer la transition écologique et moderniser l'infrastructure allemande.",
+      "Les régions défavorisées doivent bénéficier d'une répartition équitable des fonds de transition pour éviter des inégalités socio-économiques accrues.",
+      "La directive doit intégrer des mécanismes de compensation pour les entreprises allemandes impactées par la transition, afin de préserver l'emploi local."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement car il aligne avec sa stratégie de transition énergétique accélérée et permet d'accroître les investissements dans l'hydrogène vert, secteur clé pour sa neutralité carbone 2045. Cela renforce également la compétitivité industrielle allemande.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie cet amendement pour réduire les disparités socio-économiques entre les régions. Cependant, elle exige des mécanismes de suivi stricts pour éviter un gaspillage des fonds et garantir une utilisation optimale dans les zones les plus touchées par la transition.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose partiellement à ce moratoire car elle considère que certaines régions industrielles (ex: Saarland) dépendent encore du charbon. Elle propose plutôt un calendrier progressif de fermeture des centrales, accompagné de mesures compensatoires pour les travailleurs et les industries touchées.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne est un leader mondial de la filière hydrogène. Cet amendement renforce sa position stratégique européenne et favorise l'innovation technologique, cruciale pour atteindre les objectifs climatiques tout en préservant l'emploi local.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne considère que 1,5% du PIB est insuffisant pour financer la transition écologique et relancer l'économie allemande. Elle exige un seuil plus élevé (2,5%) pour garantir des investissements suffisants dans les infrastructures et la modernisation industrielle.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose à cette exclusion car certaines industries (ex: chimie, automobile) sont essentielles pour la compétitivité européenne. Elle propose plutôt un accompagnement spécifique pour leur transition vers des processus bas-carbone.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement pour préserver les emplois dans les régions industrielles et éviter une délocalisation des activités vers des pays moins exigeants sur le plan environnemental. Cela renforce également la résilience économique allemande.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie le relancement du nucléaire civil comme complément aux énergies renouvelables, mais exige des garanties sur la sûreté et la gestion des déchets. Elle propose également un calendrier clair pour la fermeture progressive des centrales nucléaires existantes.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur automobile (Volkswagen, BMW) et les objectifs climatiques de la directive. Évaluer l'impact des mesures sur les régions dépendantes du charbon (ex: Sarre). Équilibrer transition énergétique et compétitivité industrielle allemande.",
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "actor_id": "allemagne",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "generated_at": "2025-10-19T15:58:31.777762",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "France",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Défense de la souveraineté énergétique et technologique via le nucléaire civil.",
+      "Maintien de l'industrie lourde (acier, chimie) face aux pressions climatiques.",
+      "Protection des régions économiquement fragiles contre les externalités des transitions sectorielles.",
+      "Équilibre entre objectifs climatiques ambitieux et compétitivité industrielle.",
+      "Mise en avant du nucléaire comme pilier de la transition énergétique européenne."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Mettre en avant la sécurité d'approvisionnement énergétique, la contribution du nucléaire au mix bas-carbone, et la nécessité d'une transition industrielle progressive. La France défend un modèle de développement qui combine innovation technologique (hydrogène vert, décarbonation des centrales) avec protection des secteurs stratégiques (acier, chimie). Elle insiste sur la nécessité d'investir massivement dans les infrastructures critiques tout en préservant l'emploi local. La France s'appuie sur ses capacités industrielles et technologiques pour proposer des solutions européennes innovantes tout en défendant un rythme de transition compatible avec les réalités économiques nationales.",
+    "alliances": [
+      "Italie (collaboration sur la filière hydrogène vert et relance industrielle)",
+      "Verts/ALE (soutien à l'innovation dans le domaine de l'énergie renouvelable et du stockage d'énergie)",
+      "S&D (priorité aux investissements régions défavorisées et soutien à la cohésion territoriale)",
+      "Big Tech (partenariat pour moderniser les infrastructures numériques énergétiques)",
+      "Automobile (protection des secteurs industriels stratégiques et recherche de solutions alternatives low-carbon)",
+      "Banque (soutien aux investissements structuraux dans le domaine énergétique et l'innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur les centrales à charbon et défense des industries fossiles)",
+      "Conservateurs (préférence pour une transition progressive plutôt qu'une approche radicale)",
+      "Énergies fossiles (lobbies centrales à charbon opposés aux mesures de moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "Le nucléaire civil est un pilier essentiel de la transition énergétique française et européenne, offrant une solution bas-carbone fiable et compétitive.",
+      "Les régions économiquement fragiles nécessitent des investissements ciblés pour éviter les déclins industriels et préserver l'emploi local.",
+      "La France défend un rythme de transition énergétique adapté aux réalités industrielles, en particulier dans les secteurs lourds (acier, chimie).",
+      "L'innovation dans le domaine de l'hydrogène vert doit être soutenue pour renforcer la compétitivité européenne et réduire la dépendance aux énergies fossiles.",
+      "Les investissements structurels doivent privilégier les secteurs stratégiques (industrie, transport) tout en garantissant des bénéfices sociaux et environnementaux.",
+      "La France souligne l'importance de préserver le savoir-faire technologique national dans un contexte de concurrence mondiale croissante.",
+      "Les mesures doivent être adaptées aux spécificités géographiques et économiques de chaque pays, en évitant une approche uniforme qui pourrait nuire à certains territoires."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement car une augmentation des investissements permettrait d'accélérer la transition énergétique tout en renforçant les infrastructures critiques. Cela correspond à ses objectifs stratégiques de modernisation et de relance industrielle, avec un impact positif sur la compétitivité économique.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie cette mesure pour préserver l'emploi local et réduire les disparités territoriales. Cependant, elle insiste sur la nécessité d'équilibrer ces investissements avec les priorités nationales de compétitivité industrielle.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France est partiellement opposée à ce moratoire car il pourrait affecter des secteurs économiques stratégiques. Elle propose plutôt une transition progressive, en s'appuyant sur le nucléaire et les énergies renouvelables.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement car l'hydrogène vert représente un pilier essentiel de la transition énergétique européenne. Elle souhaite renforcer sa position de leader technologique dans ce secteur.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "La France est opposée à cette réduction car elle pourrait entraver la relance industrielle et les investissements nécessaires pour maintenir la compétitivité économique nationale. Elle préconise un niveau d'investissement plus élevé.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose à cette exclusion car elle pourrait pénaliser certains secteurs clés. Elle préconise un soutien ciblé pour accompagner leur transition vers des modèles plus durables.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "La France soutient cet amendement car elle considère que la préservation de l'emploi local est essentielle pour éviter les déclins industriels et maintenir l'équilibre territorial.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement est l'initiative originale de la France, qui défend fermement son importance stratégique pour la sécurité énergétique et la transition bas-carbone. Il permet de renforcer la position de la France comme acteur majeur dans le développement des réacteurs à fissile non-épuisable (ex. EPR) et d'assurer une contribution significative à l'équilibre européen.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le secteur automobile (PSA, Renault) et les objectifs climatiques. Évaluer régulièrement l'impact des mesures sur les régions économiquement fragiles (ex: Sud-Est). Surveiller la coordination entre les ambitions nucléaires et les objectifs climatiques européens.",
+    "actor_id": "france",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "generated_at": "2025-10-19T16:14:36.697584",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "role_europeen": "Porteur",
+    "enjeux_directive": [
+      "Accélérer la transition énergétique tout en préservant les emplois industriels traditionnels.",
+      "Promouvoir l'hydrogène vert comme moteur de relance économique et écologique.",
+      "Renforcer les investissements dans les régions du Sud, historiquement sous-financées.",
+      "Protéger les secteurs stratégiques (automobile, agroalimentaire) contre les distorsions concurrentielles.",
+      "Équilibrer les objectifs climatiques avec la nécessité de maintenir la compétitivité industrielle."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Italie.",
+      "La position italienne reflète ses préoccupations nationales spécifiques sur la transition verte et l'emploi."
+    ],
+    "stratégie": "L'Italie adopte une approche équilibrée combinant soutien à la transition écologique (via l'hydrogène vert, les énergies renouvelables) avec la défense des secteurs industriels stratégiques. Elle privilégie des investissements ciblés dans les régions du Sud et les PME innovantes, tout en exigeant une transition progressive pour éviter un chômage de masse. L'Italie insiste sur l'importance d'une coopération transnationale (notamment avec la France et l'Espagne) pour des projets maritimes et énergétiques en Méditerranée, tout en défendant le nucléaire comme complément au mix bas-carbone.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (soutien à l'énergie nucléaire mais réticence sur les subventions)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'hydrogène vert représente un levier inédit pour relancer l'industrie italienne (en particulier la péninsule adriatique) tout en réduisant les émissions.",
+      "La protection des secteurs industriels stratégiques (automobile, agrochimie) est cruciale pour éviter un déplacement de production hors d'Europe.",
+      "Les investissements ciblés dans les régions du Sud (40% de la population italienne) permettront de réduire les écarts économiques et sociaux.",
+      "Le nucléaire civil, bien que controversé, reste une option à explorer pour atteindre les objectifs climatiques sans sacrifier la sécurité énergétique.",
+      "L'opposition aux subventions des industries lourdes s'appuie sur la nécessité de décarboner le secteur tout en évitant une perte d'emplois massives.",
+      "Les partenariats transnationaux (ex. France, Espagne) sont essentiels pour lever les financements et mutualiser les infrastructures maritimes.",
+      "La transition doit être progressive pour éviter des perturbations sociales et économiques brutales, particulièrement dans les régions industrialisées du Nord."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient cette augmentation ciblée dans les secteurs de l'hydrogène vert et des infrastructures régionales. Toutefois, elle exige une évaluation rigoureuse du risque de déplacement industriel vers des pays non européens si la transition n'est pas accompagnée de mesures de protection sociale.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "L'Italie considère que le Sud du pays (40% de la population, 25% des investissements) nécessite un soutien spécifique pour combattre les inégalités structurelles. Une allocation prioritaire de fonds verts permettrait de stimuler l'économie locale tout en renforçant la cohésion nationale.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie propose un moratoire progressif, associé à des mesures de requalification des travailleurs du secteur énergétique. Elle refuse un arrêt immédiat pour éviter une crise sociale dans les régions dépendant des centrales à charbon.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L'Italie considère l'hydrogène comme une opportunité de leadership technologique. Elle exige des investissements ciblés pour créer des clusters industriels autour des projets pilotes (ex. Adriatique, Campanie).",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie juge cette réduction inacceptable pour les régions sous-financées et les PME innovantes. Elle propose un seuil de 2,2% avec une redistribution équitable des fonds.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "FAVORABLE",
+        "justification": "L'Italie, initiateur de cet amendement, défend fermement l'exclusion des industries lourdes (acier, chimie) des subventions pour accélérer leur décarbonation. Elle propose un plan de transition énergétique accompagné d'investissements dans les technologies de capture du CO2.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "L'Italie insiste sur la nécessité d'assurer des emplois locaux dans les projets de transition. Elle exige que 60% du personnel des infrastructures vertes soit recruté dans les régions concernées pour éviter l'émigration des travailleurs.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie appuie l'option nucléaire mais exige un cadre réglementaire européen commun, des garanties de sécurité et une participation active de la communauté scientifique européenne. Elle s'oppose à une approche nationale décentralisée.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le Nord et le Sud sur la répartition des fonds verts (40% de la population sud, 25% des investissements). Évaluer régulièrement l'impact du moratoire progressif sur les centrales à charbon. Renforcer la collaboration avec l'Espagne pour les projets maritimes en Méditerranée.",
+    "actor_id": "italie",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "generated_at": "2025-10-19T16:29:36.567981",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "role_europeen": "Porteur, mais opposant stratégique",
+    "enjeux_directive": [
+      "Défense des intérêts économiques dans les secteurs énergétiques fossiles (centrales à charbon, gaz naturel).",
+      "Protection de la souveraineté nationale face aux décisions unilatérales de l'UE sur le nucléaire et l'énergie.",
+      "Mise en avant des régions rurales et défavorisées pour accroître les investissements (Amendement 1-1B).",
+      "Soutien à une transition énergétique progressive, non radicale (opposition aux amendements verts).",
+      "Défense de l'industrie lourde contre la suppression de subventions (Amendement 1-1F)."
+    ],
+    "impacts_directive": [
+      "La directive menace les centrales à charbon et le gaz naturel, secteurs clés de l'économie hongroise.",
+      "La position de Hongrie reflète ses préoccupations nationales sur la dépendance énergétique et l'emploi."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-1E",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB",
+        "impact": "Aurait un impact significatif sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "La Hongrie adopte une stratégie de résistance à l'accélération des transitions écologiques radicales, tout en cherchant à aligner ses objectifs nationaux (énergies fossiles, industrie lourde) avec les ambitions européennes. Elle privilégie un dialogue stratégique avec les partis conservateurs et le lobby énergies fossiles pour maintenir une position modérée sur la transition énergétique. En même temps, elle cherche à renforcer ses alliances régionales (Pologne, Slovaquie) et à obtenir des garanties de soutien économique aux secteurs industriels traditionnels. Le pays mise également sur le nucléaire comme pilier de sa politique énergétique, tout en défendant un approche progressiste plutôt que radicale. Cette stratégie vise à éviter les mesures unilatérales de l'UE qui pourraient menacer son autonomie économique et sa souveraineté nationale.",
+    "alliances": [
+      "Pologne (partage des priorités énergétiques fossiles + défense des régions rurales)",
+      "Conservateurs (soutien à une transition énergétique progressive + rejet du moratoire sur le charbon)",
+      "Énergies fossiles (défense des centrales à charbon et du gaz naturel, secteurs clés de l'économie hongroise)",
+      "PPE (parti politique pro-énergies traditionnelles + défense de la souveraineté nationale)",
+      "Big Pharma (soutien aux investissements dans les infrastructures sanitaires et technologiques)",
+      "Industrie lourde (protection des secteurs industriels face à la suppression de subventions)",
+      "S&D (priorité aux régions défavorisées + soutien à un financement équilibré des investissements)"
+    ],
+    "oppositions": [
+      "France (privilégie l'accélération de la transition écologique et l'hydrogène vert)",
+      "Verts/ALE (soutiennent le moratoire sur les centrales à charbon et la transition radicale)",
+      "S&D (privilégient des investissements plus élevés dans les régions défavorisées)",
+      "Énergies renouvelables (opposent la priorité au nucléaire et aux énergies fossiles)",
+      "Big Tech (soutiennent une transition numérique forte, non compromise par les intérêts industriels traditionnels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Hongrie défend un moratoire progressif sur les centrales à charbon plutôt qu'un arrêt immédiat, pour éviter des pertes d'emploi et garantir la stabilité énergétique.",
+      "Le pays insiste sur l'importance de l'énergie nucléaire comme pilier du mix énergétique, contrairement aux positions radicales des Verts/ALE.",
+      "La Hongrie souligne que les régions défavorisées doivent bénéficier d'un financement prioritaire pour éviter les déséquilibres territoriaux.",
+      "Elle oppose l'Amendement 1-1F, qui exclut l'industrie lourde des subventions, arguant qu'elle est essentielle à la croissance économique du pays.",
+      "Le pays préconise une transition énergétique modérée, non radicale, en accord avec les priorités des partis conservateurs et de l'industrie lourde.",
+      "La Hongrie met en avant ses intérêts stratégiques dans le gaz naturel, un secteur clé pour sa sécurité énergétique, contrairement aux objectifs climatiques radicaux.",
+      "Elle défend la nécessité d'un investissement modéré à 1,5% du PIB (Amendement 1-1E) pour éviter un surcoût économique non maîtrisé.",
+      "Le pays appelle à une collaboration régionale avec les États de l'Est et du Sud-Est de l'UE pour renforcer la résilience énergétique face aux pressions climatiques."
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le lobby énergies fossiles et les partis Verts/ALE. Évaluer l'impact de la transition modérée sur les secteurs industriels traditionnels (centrales à charbon, gaz naturel). Surveiller aussi la coordination stratégique avec la Pologne pour renforcer la résilience face aux pressions climatiques européennes.",
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Hongrie est opposée à une augmentation significative de l'investissement à 2,5% du PIB, car cela pourrait entraîner un surcoût économique non maîtrisé. Le pays préfère une approche modérée en privilégiant les investissements ciblés dans des secteurs clés comme le nucléaire et l'énergie renouvelable.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie soutient cet amendement, car elle considère que les régions rurales et défavorisées doivent bénéficier d'une attention particulière pour éviter les déséquilibres territoriaux. Cela correspond à ses priorités nationales de développement équilibré.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE",
+        "justification": "La Hongrie s'oppose à l'imposition d'un moratoire immédiat sur les centrales à charbon, car cela menacerait des emplois et perturberait la stabilité énergétique du pays. Elle préconise plutôt une transition progressive.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "NEUTRE",
+        "justification": "La Hongrie reste neutre sur cet amendement, car elle ne considère pas encore l'hydrogène vert comme une priorité stratégique. Cependant, elle est prête à explorer des collaborations si cela correspond à ses objectifs nationaux.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "FAVORABLE",
+        "justification": "Hongrie défend fermement cet amendement qu'elle a elle-même proposé pour aligner les investissements avec ses priorités nationales. Cela permet de maintenir une croissance économique modérée tout en évitant un surcoût budgétaire non maîtrisé.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE",
+        "justification": "La Hongrie s'oppose à cet amendement, car elle considère que l'industrie lourde est essentielle à la croissance économique du pays. Exclure ce secteur de toute subvention pourrait menacer des emplois et nuire à la stabilité industrielle.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Hongrie soutient cet amendement dans les limites qui ne compromettent pas ses priorités industrielles. Elle est prête à explorer des collaborations si cela correspond à ses objectifs économiques locaux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE",
+        "justification": "La Hongrie soutient fermement cet amendement, car elle considère le nucléaire comme un pilier essentiel de sa politique énergétique. Elle s'oppose à toute approche radicale qui pourrait menacer son autonomie énergétique.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "actor_id": "hongrie",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "generated_at": "2025-10-19T16:47:45.227615",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "role_europeen": "Porteur et acteur clé dans les débats sur la transition énergétique et la souveraineté industrielle",
+    "enjeux_directive": [
+      "Maitrise de la transition énergétique tout en préservant l'industrie du charbon (qui emploie plus de 100 000 personnes)",
+      "Défense de la souveraineté technologique dans le nucléaire civil",
+      "Protection des intérêts économiques régions centrales (Poznań, Katowice) dépendantes du charbon",
+      "Recherche d'un équilibre entre objectifs climatiques et compétitivité industrielle",
+      "Soutien aux investissements structurels dans les infrastructures de transport et d'énergie"
+    ],
+    "impacts_directive": [
+      "La directive pourrait accélérer la fermeture des centrales à charbon, menaçant des milliers d'emplois",
+      "Impact significatif sur le secteur énergétique national (60% de la production électrique actuelle provenant du charbon)",
+      "Nécessite une restructuration industrielle coûteuse pour les régions minières"
+    ],
+    "stratégie": "La Pologne adopte une approche pragmatique et défensive dans les négociations européennes, combinant trois piliers : (1) Maintenir un moratoire progressif sur le charbon tout en protégeant l'emploi local, (2) Promouvoir le nucléaire comme solution bas-carbone à forte densité énergétique, et (3) Soutenir les investissements structurels dans les régions défaavorisées. Elle privilégie des alliances avec les pays partageant une vision de transition énergétique graduée (Allemagne, Italie), tout en restant prudente sur les mesures radicales comme l'interdiction du charbon ou la suppression des subventions à l'industrie lourde. La Pologne insiste également sur la nécessité d'une répartition équitable des fonds européens entre régions industrielles et rurales, en soulignant son rôle de pont entre les États membres orientaux et occidentaux.",
+    "alliances": [
+      "Allemagne (collaboration sur le développement du nucléaire civil + investissements structurels)",
+      "Italie (partage des préoccupations sur la transition énergétique progressive et la protection de l'emploi local)",
+      "Verts/ALE (soutien à la transition écologique, mais en respectant les réalités économiques nationales)",
+      "S&D (priorité aux investissements régions défavorisées + soutien au développement des infrastructures)",
+      "Big Tech (innovation dans les énergies propres et numériques)",
+      "Banque (financement des projets structurels d'énergie et de transport)",
+      "Automobile (protection des secteurs industriels stratégiques contre une transition trop rapide)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition au moratoire sur le charbon, défense des intérêts industriels fossiles communs)",
+      "Conservateurs (préférence pour une transition énergétique plus lente et moins coûteuse)",
+      "Énergies fossiles (lobbies centrales à charbon - opposés aux mesures restrictives)",
+      "Verts/ALE (démarche radicale sur la suppression des subventions à l'industrie lourde)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne défend le maintien d'un moratoire tempéré sur les centrales à charbon, permettant une transition progressive tout en préservant 100 000 emplois dans les régions industrielles.",
+      "Le nucléaire civil est présenté comme une solution indispensable pour atteindre la neutralité carbone en respectant l'indépendance énergétique nationale.",
+      "La Pologne insiste sur la nécessité d'une répartition équitable des fonds européens entre les régions industrielles et rurales, afin de ne pas accentuer les disparités territoriales.",
+      "Les investissements structurels dans les infrastructures (transport, énergie) sont considérés comme cruciaux pour le développement économique à long terme.",
+      "La Pologne oppose un veto aux mesures radicales supprimant les subventions à l'industrie lourde, arguant qu'elles pénaliseraient inéquitablement les régions dépendantes de ces secteurs.",
+      "L'alliance avec la France et l'Italie sur le nucléaire civil permet de renforcer la position de la Pologne dans les négociations européennes.",
+      "La protection des emplois locaux est présentée comme un pilier essentiel de la transition énergétique, en particulier dans les régions minières."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement sous réserve de garantir une répartition équitable des fonds entre les régions industrielles et rurales. Elle considère que cette augmentation pourrait accélérer la transition énergétique tout en nécessitant un accompagnement social pour les régions touchées par la fermeture des centrales à charbon.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE",
+        "justification": "La Pologne appuie fermement cette mesure, soulignant que ses régions industrielles (comme la Silésie) ont besoin d'un soutien particulier pour accompagner la transition énergétique. Cette ciblage permettrait de compenser les disparités économiques et sociales.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose à une interdiction immédiate du charbon, préférant un moratoire progressif qui permette de reconvertir les emplois et de moderniser l'industrie. Elle propose des délais étalés selon les régions.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cette mesure comme une alternative viable au charbon, tout en soulignant la nécessité d'investissements massifs pour rendre cette transition économiquement viable. Elle souhaite voir des projets pilotes développés sur son territoire.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne considère que cette réduction pénaliserait les régions industrielles dépendantes des investissements structurels. Elle propose un seuil plus élevé pour permettre une transition énergétique efficace.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose à une suppression immédiate, arguant que cela pénaliserait les régions minières. Elle propose un retrait progressif avec accompagnement social et investissements alternatifs.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par la Pologne, vise à protéger les emplois locaux dans le cadre de la transition énergétique. Il permet de garantir un accompagnement social pour les régions touchées par la fermeture des centrales à charbon.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cette mesure sous réserve de financements européens et d'accords industriels. Elle considère que le nucléaire est essentiel pour atteindre la neutralité carbone tout en préservant l'indépendance énergétique.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre régions industrielles et rurales sur la répartition des fonds européens. Évaluer l'impact économique de la transition énergétique sur le secteur du charbon (Vattenfall, PGE). Maintenir un dialogue constant avec la France et l'Italie sur les projets nucléaires communs.",
+    "actor_id": "pologne",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "generated_at": "2025-10-19T17:04:36.232348",
+    "version": "combined_v4.6.2"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "role_europeen": "Non porteur, mais soutien stratégique des politiques de transition énergétique et technologique",
+    "enjeux_directive": [
+      "Mobilisation des investissements climatiques pour atteindre les objectifs de neutralité carbone d'ici 2045.",
+      "Développement du secteur de l’hydrogène vert comme pilier de la transition énergétique européenne.",
+      "Renforcement de la souveraineté technologique dans le domaine des énergies renouvelables et numériques.",
+      "Protection des industries traditionnelles tout en favorisant la transition écologique (ex. secteur pétrolier).",
+      "Coopération transnationale pour les projets maritimes et fluviaux de stockage d’énergie (ex. projet Balticconnector)."
+    ],
+    "impacts_directive": [
+      "La directive renforce l’ambition climatique de Suède, mais exige des compromis sur la répartition des fonds européens.",
+      "Les investissements dans les énergies propres accélèrent la transition industrielle, tout en risquant d’exclure certains secteurs."
+    ],
+    "stratégie": "La Suède adopte une approche proactive de leadership climatique et technologique, combinant ambizione environnementale avec un soutien stratégique aux innovations industrielles. Elle priorise la transition vers l’hydrogène vert en tant que pilier des énergies propres, tout en défendant le maintien des investissements structuraux (2,5% du PIB) pour accompagner cette transformation. Parallèlement, elle exige une coopération renforcée avec les pays nordiques et méditerranéens sur les projets transfrontaliers de stockage d’énergie. La Suède mise également sur des alliances avec les partis écologistes (Verts/ALE) et les lobbies technologiques (Big Tech) pour promouvoir une transition énergétique rapide, tout en évitant les retournements sectoriels qui pourraient menacer la compétitivité industrielle.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (résistance aux mesures restrictives sur l’industrie lourde)"
+    ],
+    "éléments_d_argumentaire": [
+      "Leadership climatique: Suède mise sur son expertise dans les énergies renouvelables pour influencer la directive.",
+      "Innovation technologique: Soutien aux projets d’hydrogène vert comme pilier de l’économie européenne post-carbone.",
+      "Transition industrielle: Protection des secteurs stratégiques (ex. pétrolier) pendant la transition écologique.",
+      "Coopération régionale: Renforcement des liens avec les pays nordiques et méditerranéens pour les projets transfrontaliers d’énergie.",
+      "Investissements structuraux: Défense de l’objectif de 2,5% du PIB pour financer la transition énergétique.",
+      "Équilibre économique: Promotion d’une transition qui préserve l’emploi local et évite les délocalisations industrielles.",
+      "Souveraineté technologique: Mise en avant des solutions suédoises (ex. filière batterie) pour renforcer la dépendance européenne aux énergies propres."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "1-1A",
+        "titre": "Augmenter la part du PIB investi à 2,5%",
+        "position": "FAVORABLE",
+        "justification": "La Suède défend cet amendement comme un pilier de la transition écologique, permettant d’accélérer les investissements dans l’hydrogène vert et les énergies renouvelables. Cet objectif aligne avec sa stratégie nationale de 2045 pour la neutralité carbone et renforce la souveraineté technologique européenne.",
+        "priorite": "très_haute",
+        "origine": "Verts/ALE",
+        "description": "Augmenter la part du PIB investi à 2,5%"
+      },
+      {
+        "amendement": "1-1B",
+        "titre": "Cibler prioritairement les régions défavorisées",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède appuie cet amendement pour réduire les disparités régionales, mais exige des garanties sur la transparence des fonds et leur utilisation efficace. Elle souligne l’importance d’associer les régions nordiques à la transition énergétique.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Cibler prioritairement les régions défavorisées"
+      },
+      {
+        "amendement": "1-1C",
+        "titre": "Imposer un moratoire sur les centrales à charbon",
+        "position": "FAVORABLE",
+        "justification": "La Suède soutient cet amendement pour aligner la directive avec ses objectifs climatiques ambitieux et réduire les émissions de CO2. Elle exige toutefois un accompagnement des travailleurs du secteur charbon.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Imposer un moratoire sur les centrales à charbon"
+      },
+      {
+        "amendement": "1-1D",
+        "titre": "Accroître l’innovation dans l’hydrogène vert",
+        "position": "FAVORABLE",
+        "justification": "L’hydrogène vert est une priorité pour la Suède, qui dispose d’une expertise technologique reconnue. Cet amendement renforce son rôle de leader européen dans ce secteur.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Accroître l’innovation dans l’hydrogène vert"
+      },
+      {
+        "amendement": "1-1E",
+        "titre": "Réduire l’investissement à 1,5% du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Suède juge cet objectif insuffisant pour atteindre les objectifs climatiques et technologiques. Elle propose un plafond plus ambitieux (2,5%) tout en exigeant un suivi rigoureux des investissements.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Réduire l’investissement à 1,5% du PIB"
+      },
+      {
+        "amendement": "1-1F",
+        "titre": "Exclure l’industrie lourde des subventions",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Suède soutient une transition progressive, exigeant un accompagnement pour les secteurs industriels (ex. pétrolier) afin d’éviter les délocalisations et préserver l’emploi.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure l’industrie lourde des subventions"
+      },
+      {
+        "amendement": "1-1G",
+        "titre": "Prioriser l’emploi local",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède appuie cet amendement pour préserver les emplois locaux, mais exige des garanties sur la mise en œuvre. Elle souligne l’importance d’investir dans les régions nordiques et rurales.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Prioriser l’emploi local"
+      },
+      {
+        "amendement": "1-1H",
+        "titre": "Relancer le nucléaire civil",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède défend une approche équilibrée, associant les énergies renouvelables au nucléaire pour assurer la sécurité d’approvisionnement. Elle exige toutefois des conditions strictes sur la gestion des déchets radioactifs.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Relancer le nucléaire civil"
+      }
+    ],
+    "références": [
+      "s1d1.json",
+      "scenario1.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs industriels traditionnels (ex. pétrolier) et objectifs climatiques directive. Évaluer impact des mesures sur les régions nordiques (75% de la population, 60% des investissements). Surveiller conflits d’intérêts entre lobbies énergies fossiles et transition écologique.",
+    "actor_id": "suede",
+    "actor_type": "pays",
+    "scenario_id": 1,
+    "directive_id": 1,
+    "generated_at": "2025-10-19T17:20:03.025034",
+    "version": "combined_v4.6.2"
+  }
+]

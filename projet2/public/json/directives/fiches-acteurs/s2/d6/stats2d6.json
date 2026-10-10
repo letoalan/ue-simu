@@ -1,0 +1,93 @@
+{
+  "scenario": 2,
+  "directive": 6,
+  "nom": "Coopération transfrontalière et sécurité intérieure",
+  "valeurs_prevues": {
+    "normandie_eu": 89,
+    "vdem_eu": 0.87,
+    "pib_growth_eu": 1.5,
+    "idh_eu": 0.94
+  },
+  "amendements": [
+    {
+      "id": "2-6A",
+      "origine": "Renouveau Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 90,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-6B",
+      "origine": "Conservateurs et Réformistes",
+      "valeurs_prevues": {
+        "normandie_eu": 89,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-6C",
+      "origine": "Gauche Unitaire",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.89,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-6D",
+      "origine": "Parti Populaire Européen",
+      "valeurs_prevues": {
+        "normandie_eu": 90,
+        "vdem_eu": 0.88,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.95
+      }
+    },
+    {
+      "id": "2-6E",
+      "origine": "Hongrie",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.6,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-6F",
+      "origine": "France",
+      "valeurs_prevues": {
+        "normandie_eu": 87,
+        "vdem_eu": 0.85,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.93
+      }
+    },
+    {
+      "id": "2-6G",
+      "origine": "Pologne",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.87,
+        "pib_growth_eu": 1.5,
+        "idh_eu": 0.94
+      }
+    },
+    {
+      "id": "2-6H",
+      "origine": "Allemagne",
+      "valeurs_prevues": {
+        "normandie_eu": 88,
+        "vdem_eu": 0.86,
+        "pib_growth_eu": 1.7,
+        "idh_eu": 0.93
+      }
+    }
+  ]
+}

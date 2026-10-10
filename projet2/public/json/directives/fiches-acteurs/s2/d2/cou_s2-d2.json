@@ -1,0 +1,753 @@
+[
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur Partiel - Soutient une augmentation modérée du budget tout en gardant une flexibilité nationale.",
+    "enjeux_directive": [
+      "Défendre les intérêts de l’industrie nationale.",
+      "Maintenir la compétitivité industrielle européenne.",
+      "Assurer une transition énergétique alignée avec les objectifs climatiques de l'UE tout en préservant l'autonomie technologique allemande.",
+      "Gérer les tensions entre l'industrie traditionnelle (charbon, automobile) et les engagements climatiques européens."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Allemagne.",
+      "La position de Allemagne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Allemagne adopte une approche équilibrée entre les impératifs de défense, la transition écologique et la préservation des secteurs industriels clés. Elle vise à renforcer l'autonomie stratégique européenne tout en évitant un surinvestissement dans des domaines non prioritaires. Sa stratégie repose sur une collaboration étroite avec les pays voisins pour mutualiser les coûts de défense, tout en promouvant des investissements ciblés dans les technologies vertes (hydrogène, énergies renouvelables). Elle cherche également à concilier les objectifs climatiques de l'UE avec la nécessité de maintenir la compétitivité industrielle allemande, en particulier dans le secteur automobile. L'Allemagne soutient un accroissement progressif du budget de défense (0,7 % du PIB) mais préfère une approche modérée pour éviter de surcharger les finances publiques.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (rejet des contraintes sur les secteurs traditionnels)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Allemagne prône un renforcement de la défense européenne, mais insiste sur l'importance d'une coordination étroite avec ses partenaires pour éviter une fragmentation des efforts.",
+      "Elle met en avant l'urgence de moderniser les infrastructures énergétiques tout en garantissant la stabilité du secteur industriel traditionnel (charbon, sidérurgie).",
+      "La transition écologique est un objectif prioritaire pour l'Allemagne, mais elle doit se faire dans le respect des réalités économiques et sociales nationales.",
+      "L'industrie allemande exige des garanties sur la préservation de ses compétences technologiques (automobile, énergies renouvelables) face à une concurrence européenne accrue.",
+      "L'Allemagne souligne l'importance d'une approche commune en matière de défense, mais refuse tout mécanisme qui pourrait entraver la flexibilité nationale dans les décisions stratégiques.",
+      "Elle valorise le rôle des grands groupes allemands (Volkswagen, Siemens) comme acteurs clés de l'innovation technologique et industrielle européenne.",
+      "L'Allemagne défend une coopération transfrontalière rigoureuse pour éviter les inégalités économiques entre les régions membres, tout en préservant son autonomie nationale."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient cet amendement sur la base d'une nécessaire modernisation des capacités militaires européennes. Cependant, elle insiste sur l'importance de garantir une coordination étroite avec les partenaires européens pour éviter des dépenses redondantes et inutiles. Elle préfère un approche graduelle qui respecte la situation économique nationale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne appuie fermement cet amendement, considérant que la sécurité numérique est un pilier essentiel de la souveraineté européenne. Elle met en avant l'importance d'une coopération transnationale dans ce domaine pour renforcer les défenses technologiques face aux menaces mondiales.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement comme un moyen de garantir une utilisation optimale des ressources européennes. Elle considère que cette condition favorisera une meilleure coordination entre les États membres et évitera les inefficacités liées à la fragmentation des efforts.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne reconnaît l'importance de la formation des forces armées, mais souligne que cette mesure doit être accompagnée d'une réforme structurelle du secteur de la défense européen. Elle propose une approche progressive pour éviter les coûts excessifs.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne oppose partiellement cet amendement car elle estime que ce plafond pourrait entraver la modernisation nécessaire des capacités militaires. Cependant, elle reste ouverte à une discussion sur les modalités de financement pour éviter un impact négatif sur l'économie nationale.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose à cette proposition car elle considère que l'exclusion de certains pays pourrait fragiliser la cohésion européenne. Elle préfère une approche inclusive qui encourage la participation de tous les États membres.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie cet amendement en insistant sur l'importance d'une indépendance technologique dans le secteur de la défense. Cependant, elle préconise une collaboration européenne qui permette de mutualiser les coûts et d'éviter des redondances.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose à cette proposition car elle estime que le report pourrait compromettre les objectifs stratégiques et climatiques fixés. Elle préfère une mise en œuvre progressive mais opérationnelle dès que possible.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs traditionnels (charbon, automobile) et objectifs climatiques. Évaluer impact de la transition énergétique sur les régions industrielles historiques (Saxony, Ruhr). Surveiller position nucléaire délicate face aux reticences historiques dans certaines régions.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T10:09:26.595887",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur Fort - Favorise un budget ambitieux et un rôle européen fort, avec soutien à l’industrie de défense nationale.",
+    "enjeux_directive": [
+      "Développer une autonomie stratégique réelle en matière de défense technologique et industrielle.",
+      "Protéger et renforcer la base industrielle de défense française face à la concurrence européenne et mondiale.",
+      "Assurer un financement adéquat des forces armées pour répondre aux menaces géopolitiques contemporaines.",
+      "Promouvoir une approche transatlantique solide tout en préservant l’indépendance stratégique de l’Europe."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "France adopte une approche défensive et proactive pour renforcer la souveraineté technologique européenne, tout en développant des partenariats stratégiques avec les pays voisins. L’accent est mis sur l’autonomisation industrielle (notamment dans les secteurs aérospatiaux, navals et de l’électronique de défense), le financement des forces armées et la modernisation des infrastructures critiques. La France défend un budget de défense à 0,7 % du PIB pour accompagner cette transition, tout en exigeant une protection stricte de ses entreprises de défense (comme Dassault Aviation ou Thales) contre les pressions d’intégration européenne excessive. Elle favorise également la création de fonds européens pour renforcer l’innovation technologique commune, à condition que ces ressources ne compromettent pas la capacité de production nationale.",
+    "alliances": [
+      "Allemagne (collaboration sur la défense technologique et le financement commun des équipements stratégiques)",
+      "Italie (partage d’objectifs industriels dans les secteurs aéronautique et naval)",
+      "PPE (soutien à la modernisation des forces armées européennes)",
+      "S&D (priorité aux investissements structuraux en défense)",
+      "Big Tech (innovation infrastructures numériques critiques pour la sécurité nationale)",
+      "Automobile (protection des industries de base face aux pressions d’intégration européenne)",
+      "Banque (soutien aux financements structuraux de l’industrie de défense)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la coordination transfrontalière des équipements de défense, préférence pour une autonomie nationale)",
+      "Conservateurs (préférence pour un budget de défense plus modéré et une transition progressive vers l’indépendance stratégique européenne)",
+      "Énergies fossiles (opposition aux mesures climatiques qui pourraient limiter les investissements dans certaines technologies de défense)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France défend la nécessité d’un budget de défense à 0,7 % du PIB pour assurer une capacité opérationnelle indépendante face aux menaces géopolitiques contemporaines (ex. : tensions russo-ucrainiennes).",
+      "L’industrie de défense nationale (Dassault Aviation, Thales) est un pilier économique stratégique qui doit être préservée contre les pressions d’intégration excessive.",
+      "La France propose une approche collaborative avec l’Allemagne et l’Italie pour co-développer des équipements militaires à usage commun tout en conservant le contrôle technologique national.",
+      "Les amendements sur la recherche en cybersécurité (2-2B) sont favorables, car ils renforcent les capacités européennes face aux cyberattaques, un enjeu vital pour la sécurité nationale.",
+      "La France s’oppose à l’exclusion d’états membres des achats communs (2-2F), car cela risquerait de fragmenter le marché européen et d’affaiblir la chaîne de production commune.",
+      "Le soutien aux industries nationales (amendement 2-2G) est un pilier de sa stratégie, car il permet de préserver les emplois dans les régions productrices de défense (ex. : Île-de-France, Alsace).",
+      "La France appuie l’élaboration d’un fonds européen pour la recherche en cybersécurité (2-2B), considérant que cette coopération renforcera la résilience numérique commune de l’Union.",
+      "Elle s’oppose à une augmentation du budget de défense au-delà de 0,7 % du PIB (amendement 2-2A), préférant une allocation optimisée plutôt qu’une dépense inutile."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre la défense industrielle nationale (Dassault, Thales) et les pressions européennes d’intégration. Évaluer régulièrement l’impact des mesures climatiques sur les secteurs stratégiques (ex. : aviation). Surveiller les risques de déséquilibre Nord-Sud dans la répartition des financements communs.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "France soutient cet amendement conditionnellement au respect des priorités nationales sur la modernisation industrielle. Une dépense de 0,7 % du PIB est nécessaire pour renforcer la capacité opérationnelle indépendante face aux menaces géopolitiques, mais doit être accompagnée d’investissements ciblés dans les secteurs stratégiques (aéronautique, cyberdéfense) et non de dépenses inutiles.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "France défend fermement cette initiative, considérant que la cybersécurité est un enjeu vital pour la sécurité nationale et européenne. Un fonds commun permettrait de renforcer la résilience numérique et d’assurer une coordination efficace contre les cyberattaques, tout en évitant la fragmentation des efforts entre États membres.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "France appuie cet amendement, mais conditionne son adoption à la préservation de la souveraineté technologique nationale. La coopération transfrontalière est bénéfique pour l’industrie européenne, mais les équipements doivent être conçus et contrôlés dans des centres techniques indépendants (ex. : France, Allemagne).",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "France soutient cet amendement, car la formation des forces armées européennes est essentielle pour renforcer l’efficacité opérationnelle commune. Une approche transnationale permettrait de mieux préparer les troupes à des missions multinationales tout en respectant les spécificités nationales.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "France s’oppose partiellement à cet amendement. Un budget inférieur à 0,7 % du PIB affaiblirait la capacité opérationnelle de l’Union et pourrait compromettre les investissements nécessaires pour moderniser l’industrie de défense nationale. Cependant, des économies ciblées sur des secteurs non stratégiques sont possibles.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "France s’oppose à cet amendement, car il risquerait de fragmenter le marché européen et d’affaiblir la chaîne de production commune. Une exclusion pourrait favoriser des acteurs non européens (ex. : États-Unis) et nuire à l’autonomie stratégique européenne.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "France est l’initiateur de cet amendement, qui vise à protéger les entreprises de défense nationales (Dassault, Thales) contre les pressions d’intégration européenne excessive. Cet amendement garantit la préservation des emplois et du savoir-faire technologique français, tout en encourageant une coopération stratégique avec ses partenaires européens.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "France s’oppose à cet amendement, car un retard d’application affaiblirait la coordination stratégique européenne et pourrait permettre aux acteurs non européens (ex. : Chine) de progresser dans le secteur de la défense. Une mise en œuvre rapide est nécessaire pour renforcer l’autonomie technologique commune.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T10:29:27.654398",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur Partiel - Demande un plafond budgétaire plus bas (0,4% PIB) et une application différenciée.",
+    "enjeux_directive": [
+      "Garantir une transition budgétaire plausible en alignement avec la situation économique italienne.",
+      "Protéger le tissu industriel local face à des pressions européennes exigeantes.",
+      "Assurer la souveraineté stratégique sur les équipements de défense sans compromettre les objectifs climatiques.",
+      "Équilibrer les priorités nationales (protection des régions du Sud) avec les exigences communes de l'UE.",
+      "Promouvoir une approche collaborative pour la sécurité européenne tout en préservant les intérêts italiens."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques liées à la dette publique et à l'industrie de défense."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L'Italie adopte une approche pragmatique pour concilier les exigences européennes avec ses réalités économiques. Elle prône un plafond budgétaire modéré (0,4% du PIB) afin de respecter sa dette publique élevée tout en maintenant la capacité de défense nationale. Son objectif est d'assurer une transition progressive vers des technologies plus durables sans compromettre les secteurs industriels stratégiques comme l'automobile et l'aéronautique. L'Italie cherche également à promouvoir une approche coopérative transfrontalière, en particulier avec ses partenaires méditerranéens (Espagne, Portugal), pour renforcer la sécurité collective tout en préservant sa souveraineté industrielle. Elle soutient des initiatives favorisant l'innovation technologique dans le domaine de la cybersécurité et souhaite que les investissements européens soient répartis de manière équitable entre les régions du Nord et du Sud, en priorisant les projets qui stimulent l'économie italienne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Italie insiste sur la nécessité d'un plafond budgétaire réaliste (0,4% du PIB) pour éviter une augmentation de la dette publique qui pourrait menacer sa stabilité économique.",
+      "Elle défend l'importance de protéger les industries nationales, notamment dans le secteur automobile et aéronautique, face à des pressions européennes exigeantes.",
+      "L'Italie prône une approche coopérative transfrontalière pour renforcer la sécurité collective européenne tout en préservant sa souveraineté industrielle.",
+      "Elle soutient l'innovation technologique dans le domaine de la cybersécurité, considérant que cela renforce la résilience européenne face aux menaces numériques.",
+      "L'Italie propose une répartition équitable des investissements européens entre les régions du Nord et du Sud pour stimuler l'économie italienne et réduire les disparités régionales.",
+      "Elle défend la nécessité d'une transition progressivement mais durable, en évitant un changement brutal qui pourrait affecter négativement certaines industries traditionnelles.",
+      "L'Italie s'engage à collaborer avec ses partenaires européens pour promouvoir une approche commune de la sécurité européenne, tout en tenant compte des intérêts nationaux."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Prioriser collaboration Espagne/Portugal projets maritimes Méditerranée. Évaluer régulièrement impact mesures régions Sud (40% population, 25% investissements). Surveiller tensions Nord-Sud sur répartition fonds verts.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T10:46:49.476517",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie est opposée à un plafond budgétaire trop élevé (0,7% du PIB), car cela pourrait exacerber la situation de sa dette publique et affecter les investissements dans des secteurs clés comme l'économie réelle. Cependant, elle reste ouverte à une approche flexible qui tienne compte des réalités économiques nationales.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient activement cette proposition, car elle considère que l'innovation technologique dans le domaine de la cybersécurité renforce la résilience européenne face aux menaces numériques et favorise la compétitivité des secteurs stratégiques italiens.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "NEUTRE",
+        "justification": "L'Italie adopte une position neutre, car elle estime que cette mesure pourrait renforcer la collaboration européenne tout en nécessitant des ajustements pour respecter les intérêts nationaux italiens.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie est favorable à cette proposition si elle inclut des initiatives de formation qui renforcent la capacité militaire européenne tout en prenant en compte les contraintes budgétaires et les besoins nationaux italiens.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "FAVORABLE",
+        "justification": "Italie est l'initiateur de cet amendement. Elle défend fermement cette proposition pour aligner les objectifs européens avec sa situation économique et éviter une augmentation de la dette publique, tout en préservant la capacité militaire nationale.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie s'oppose à cette proposition, car elle considère que l'exclusion de certains pays pourrait fragiliser la cohésion européenne et nuire aux intérêts italiens en matière de coopération industrielle.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "L'Italie soutient cette proposition, car elle considère que le renforcement des industries de défense nationales est essentiel pour assurer la souveraineté industrielle et renforcer la sécurité européenne.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie est favorable à un report conditionnel, car elle estime que cela permettrait d'ajuster les mesures en fonction des réalités économiques et des retours d'expérience avant l'application finale.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Opposant Modéré - Prône de reporter la mise en œuvre de l’augmentation budgétaire et demande des dérogations.",
+    "enjeux_directive": [
+      "Ajuster la charge financière à ses capacités.",
+      "Protéger la souveraineté nationale.",
+      "Éviter les impacts sur les secteurs industriels stratégiques (agroalimentaire, extraction minière).",
+      "Maintenir l’indépendance des décisions budgétaires face aux pressions de l’UE."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Hongrie adopte une posture de négociateur modéré, cherchant à concilier les objectifs européens avec les contraintes budgétaires et les impératifs économiques nationaux. Elle privilégie la collaboration sectorielle (surtout dans l’industrie et l’énergie) pour défendre ses intérêts tout en évitant des positions extrémistes qui pourraient isoler le pays. Le focus est sur les dérogations budgétaires, la protection des secteurs stratégiques (comme les mines de charbon et l’agriculture), et la coordination transfrontalière dans les régions périphériques. L’accent est mis sur un dialogue constructif avec les acteurs pro-européens tout en maintenant une résistance ferme face aux amendements qui menacent les priorités nationales.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à la souveraineté nationale et aux priorités économiques locales)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Pologne (résistance aux mesures d’harmonisation budgétaire européenne)"
+    ],
+    "éléments_d_argumentaire": [
+      "La directive menace la souveraineté nationale en imposant des cadres budgétaires contraignants, ce qui réduit l’autonomie de Hongrie dans les décisions économiques.",
+      "Les secteurs industriels stratégiques (ex. extraction du charbon) sont menacés par les pressions climatiques, risquant d’entraîner des pertes d’emplois et une dégradation de la compétitivité nationale.",
+      "L’absence de flexibilité dans les objectifs budgétaires ne tient pas compte des spécificités économiques du pays (ex. faible base fiscale, déséquilibre régional).",
+      "La directive pourrait exacerber les tensions avec les États membres moins développés en imposant un modèle uniforme de transition écologique qui ignore les réalités locales.",
+      "Les initiatives européennes ne prennent pas suffisamment en compte la nécessité d’investissements dans des infrastructures critiques (ex. énergie, transport) pour soutenir l’économie nationale.",
+      "La coordination transfrontalière proposée sous-estime les difficultés de mise en œuvre dans des régions géographiquement isolées ou économiquement fragiles.",
+      "Les amendements visant à renforcer le budget de défense (ex. 2-2A) ne sont pas alignés avec les priorités hongroises, qui privilégient la modernisation économique plutôt que l’augmentation des dépenses militaires.",
+      "La directive risque d’exclure Hongrie d’initiatives clés si ses dérogations ne sont pas respectées, ce qui pourrait affaiblir sa position géopolitique au sein de l’UE."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre secteurs industriels traditionnels (ex. Charbon, extraction) et les objectifs climatiques de l’UE. Évaluer régulièrement l’impact des amendements sur la compétitivité nationale (secteur agricole, métaux). Surveiller les frictions avec Pologne sur les priorités budgétaires.",
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T11:03:55.269821",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "Hongrie juge inadapté un objectif uniforme pour tous les États membres, considérant qu’il ignore les réalités économiques et historiques de pays comme la Hongrie. Elle préfère une approche flexible qui permette des priorités différentes selon les capacités nationales.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "Hongrie soutient ce fonds car il renforce la sécurité numérique européenne, un secteur stratégique pour l’avenir technologique et économique de l’UE. Cela aligne avec ses propres initiatives en matière d’innovation et de cybersécurité.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie appuie cette condition, à condition qu’elle ne pénalise pas les régions périphériques ou les projets locaux. Elle propose un mécanisme d’exemption pour les zones économiquement fragiles.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "NEUTRE",
+        "justification": "Hongrie ne s’oppose pas à ce volet, mais elle souligne que le financement et la logistique doivent être adaptés aux spécificités nationales. Elle reste prudemment neutre jusqu’à une clarification des modalités pratiques.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie peut accepter une limite, mais sous réserve qu’elle soit négociable et qu’elle permette des exceptions pour les États membres moins développés. Elle insiste sur la nécessité d’équilibre entre objectifs communs et flexibilité nationale.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Hongrie s’oppose à une exclusion directe, mais elle comprend le besoin de conditions pour les États membres non conformes. Elle préfère un dialogue constructif plutôt qu’une mesure punitive.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "Hongrie soutient cet amendement car elle considère que le renforcement des industries de défense nationales est essentiel pour sa sécurité stratégique et son indépendance technologique. Cela aligne avec ses priorités sectorielles.",
+        "priorite": "très_haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Hongrie est l’initiateur de cet amendement. Elle défend fermement sa proposition pour permettre une mise en œuvre progressive qui tient compte des spécificités économiques et sociales du pays, tout en évitant d’isoler le pays face aux pressions européennes.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Opposant Modéré - Veut des exemptions concernant les achats communs et un rôle plus central des États.",
+    "enjeux_directive": [
+      "Préserver l’autonomie industrielle et décisionnelle.",
+      "Assurer une contribution adaptée.",
+      "Protéger les industries de défense nationales face à la concurrence européenne.",
+      "Équilibrer les obligations climatiques avec les besoins énergétiques nationaux."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La Pologne adopte une stratégie de résistance ciblée visant à préserver son autonomie industrielle et sa souveraineté dans les domaines de la défense et des achats communs. Elle cherche à obtenir des exemptions pour éviter que ses secteurs stratégiques (énergie, armement) ne soient contraints par des règles européennes qu'elle juge inadaptées à son contexte géographique et historique. En parallèle, elle s'engage dans une diplomatie multilatérale pour mobiliser des alliances qui partagent ses préoccupations sur le rôle des États membres dans la gouvernance européenne, tout en évitant de se positionner comme un opposant radical. Son objectif est d'être perçue comme un acteur modéré mais déterminé, capable de proposer des compromis tout en défendant fermement ses intérêts nationaux.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à la souveraineté des États membres dans les domaines de la défense et de l'énergie)",
+      "S&D (priorité aux investissements régions défavorisées, y compris en Pologne)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Verts/ALE (soutien transition écologique radicale + objectifs climatiques ambitieux)",
+      "Conservateurs (préférence transition progressive vs radicale)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne argumente que les achats communs européens menacent sa souveraineté industrielle, notamment dans le secteur de la défense où elle souhaite maintenir une capacité de production autonome.",
+      "Elle souligne que l'obligation d'appliquer des normes climatiques strictes sans compensation financière risque de pénaliser ses régions industrielles, encore dépendantes du charbon.",
+      "La Pologne défend le principe selon lequel les États membres doivent conserver un rôle central dans la prise de décisions stratégiques, notamment concernant l'utilisation des ressources nationales.",
+      "Elle met en avant la nécessité d'harmoniser les contributions financières au budget européen pour éviter que certains pays ne soient désavantagés dans le cadre des politiques communes.",
+      "La Pologne insiste sur la protection des industries de défense nationales, jugées essentielles à la sécurité européenne face aux menaces géopolitiques croissantes.",
+      "Elle argumente que les règles européennes doivent tenir compte des réalités économiques et sociales spécifiques des États membres, notamment ceux encore en transition vers une économie bas-carbone.",
+      "La Pologne défend l'idée qu'une approche trop rigide dans la mise en œuvre de directives pourrait fragiliser les relations entre les États membres, menaçant la cohésion européenne."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec les pays de l'Est (Hongrie, Slovaquie) sur le moratoire du charbon et les impacts sur la sécurité énergétique. Évaluer régulièrement l'impact des politiques climatiques sur les régions industrielles polonaises (ex: Silesie). Surveiller les conflits d'intérêts entre les lobbies de l'énergie fossile et ceux de l'industrie de défense.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement conditionnellement à la garantie que les budgets nationaux ne soient pas contraints par des règles européennes inadaptées à ses priorités stratégiques. Elle souhaite un financement européen complémentaire pour moderniser son armée tout en préservant sa souveraineté industrielle.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "NEUTRE",
+        "justification": "La Pologne reste neutre sur cet amendement car elle estime que les investissements dans la cybersécurité doivent rester sous contrôle national, sauf si un cadre commun européen permet de garantir une coordination efficace sans compromettre l'autonomie nationale.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose partiellement à cet amendement, arguant que les conditions d'accès aux équipements doivent rester flexibles pour permettre des partenariats stratégiques avec des pays non membres de l'UE. Elle préfère une approche basée sur la confiance mutuelle plutôt qu'une réglementation stricte.",
+        "priorite": "faible",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cet amendement car elle considère que la formation commune des forces armées renforce la coopération européenne tout en permettant de moderniser ses propres capacités militaires sans compromettre son autonomie industrielle.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne s'oppose fermement à cet amendement car elle juge que cette limite est incompatible avec ses objectifs stratégiques. Elle considère qu'un budget de défense plus élevé est nécessaire pour assurer la sécurité nationale et européenne face aux menaces croissantes.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initialement proposé par la Pologne, vise à protéger les industries nationales des règles européennes inadaptées. Il permet de préserver l'autonomie des États membres tout en assurant une coopération européenne dans les domaines stratégiques.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cet amendement car elle considère que la protection des industries de défense nationales est essentielle pour assurer la sécurité européenne. Elle insiste sur l'importance d'une coopération stratégique entre les États membres tout en préservant leur autonomie industrielle.",
+        "priorite": "haute",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement conditionnellement à une évaluation des impacts de la directive sur les secteurs stratégiques. Elle souhaite un report pour permettre aux États membres de s'adapter aux nouvelles obligations tout en préservant leur souveraineté.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T11:21:12.751648",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Soutien Conditionnel - Prône le report de l’application du dispositif de deux ans pour adaptation.",
+    "enjeux_directive": [
+      "Assurer une transition énergétique sans compromettre la sécurité nationale",
+      "Maintenir un leadership technologique dans les secteurs verts et numériques",
+      "Équilibrer les objectifs climatiques avec les intérêts économiques des industries stratégiques (défense, automobile)",
+      "Protéger l'autonomie industrielle suédoise face aux pressions de la construction européenne commune",
+      "Garantir une répartition équitable des fonds européens entre régions nordiques et zones périphériques"
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Suède adopte une approche pragmatique en défendant un calendrier progressif pour l'application des mesures, tout en soutenant les objectifs climatiques à long terme de l'UE. Elle privilégie la coopération transfrontalière pour renforcer les infrastructures énergétiques nordiques (comme le corridor de l'électrification du Nord) tout en maintenant son indépendance stratégique dans les secteurs de la défense et des technologies critiques. La Suède insiste sur la nécessité d'un financement européen ciblé pour accélérer la transition écologique, tout en protégeant ses industries traditionnelles (métaux, forestiers) face à une concurrence européenne accrue. Elle mise aussi sur le leadership technologique dans les énergies renouvelables et les solutions numériques pour consolider sa position de pionnière verticale en Europe.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (défiance vis-à-vis de la gouvernance européenne des fonds climatiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Suède défend un calendrier progressif pour l'application de la directive, permettant aux États membres d'intégrer les mesures sans compromettre leur souveraineté industrielle. Elle s'appuie sur son expérience historique de transition écologique (décarbonation des transports en 2030) pour proposer un modèle adaptatif.",
+      "Elle souligne la nécessité d'une coopération transfrontalière structurée, notamment dans les projets nordiques (interconnexions énergétiques, corridors de transport), comme alternative à une gouvernance européenne centralisée. Cela renforce sa position stratégique en Europe du Nord.",
+      "La Suède met en avant la nécessité d'un financement européen ciblé pour soutenir les industries vertes (métallurgie, énergies renouvelables) tout en préservant son autonomie technologique. Elle critique les propositions de moratoires sur le charbon sans alternative immédiate.",
+      "Elle insiste sur la protection des secteurs stratégiques (défense, automobile) face à une concurrence européenne accrue et à l'ouverture d'actifs critiques aux investisseurs non européens. Cela relève de sa sécurité nationale.",
+      "La Suède défend un rôle central des banques européennes dans le financement des transitions vertes, tout en exigeant une transparence accrue sur les impacts socio-économiques des mesures climatiques (surtout pour les régions nordiques moins industrialisées).",
+      "Elle propose un soutien prioritaire aux innovations technologiques (énergies marines, stockage de CO2) comme alternative aux investissements massifs dans la défense. Cela aligne ses objectifs stratégiques avec les ambitions climatiques européennes.",
+      "La Suède critique les propositions d'exclusion des États membres des achats communs, considérant que cela fragiliserait l'union européenne et renforcerait les positions des acteurs non européens (comme les États-Unis) dans les secteurs stratégiques."
+    ],
+    "références": [
+      "s2d2.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteur automobile suédois (Volvo, Scania) et objectifs climatiques. Position nucléaire délicate avec les régions nordiques réticentes à l'approvisionnement étranger. Équilibrer transition énergétique et compétitivité des métallurgies vertes.",
+    "positions_amendements": [
+      {
+        "amendement": "2-2A",
+        "titre": "Porter le budget de défense à 0,7 % du PIB",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède soutient cet amendement dans la mesure où il aligne avec sa stratégie de renforcement des capacités militaires européennes tout en permettant une transition écologique progressive. Cependant, elle préconise un financement européen ciblé pour éviter une surcharge budgétaire nationale.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Porter le budget de défense à 0,7 % du PIB"
+      },
+      {
+        "amendement": "2-2B",
+        "titre": "Créer un fonds européen pour la recherche en cybersécurité",
+        "position": "FAVORABLE",
+        "justification": "La Suède approuve cet amendement car il renforce sa position de leadership technologique et sécurise les infrastructures critiques (comme les réseaux énergétiques nordiques) contre les menaces cybernétiques. Cela aligne avec ses objectifs stratégiques européens.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la recherche en cybersécurité"
+      },
+      {
+        "amendement": "2-2C",
+        "titre": "Conditionner l’accès aux équipements à la coopération transfrontalière",
+        "position": "FAVORABLE",
+        "justification": "La Suède soutient cet amendement comme un levier pour renforcer les projets nordiques (interconnexions énergétiques, corridors de transport) tout en maintenant son autonomie stratégique. Cela favorise la collaboration régionale sans sacrifier l'indépendance industrielle.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner l’accès aux équipements à la coopération transfrontalière"
+      },
+      {
+        "amendement": "2-2D",
+        "titre": "Inclure un volet formation pour les forces armées européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède approuve cet amendement à condition que la formation intègre des modules sur l'innovation technologique (comme l'électrification de la marine) et les défis climatiques. Cela permettrait d'allier sécurité nationale et objectifs écologiques.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Inclure un volet formation pour les forces armées européennes"
+      },
+      {
+        "amendement": "2-2E",
+        "titre": "Limiter le budget de défense à 0,4 % du PIB",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Suède s'oppose partiellement à cet amendement car elle considère que cette limite fragiliserait la sécurité européenne et l'indépendance stratégique de la Scandinavie. Elle propose plutôt un seuil dynamique ajusté selon les risques géopolitiques.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Limiter le budget de défense à 0,4 % du PIB"
+      },
+      {
+        "amendement": "2-2F",
+        "titre": "Exclure certains États membres des achats communs",
+        "position": "DEFAVORABLE",
+        "justification": "La Suède s'oppose à cet amendement car elle considère que cela fragmenterait l'union européenne et renforcerait les positions de pays tiers (comme les États-Unis) dans les secteurs stratégiques. Elle préconise une gouvernance européenne inclusive.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Exclure certains États membres des achats communs"
+      },
+      {
+        "amendement": "2-2G",
+        "titre": "Soutenir prioritairement les industries de défense nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Suède soutient cet amendement dans la mesure où il permettrait de préserver son autonomie technologique (comme le développement des missiles et du matériel militaire) tout en favorisant l'innovation verte. Elle s'oppose cependant à une protection excessive qui limiterait la concurrence européenne.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Soutenir prioritairement les industries de défense nationales"
+      },
+      {
+        "amendement": "2-2H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "La Suède approuve cet amendement car elle considère que cette période permettrait une meilleure adaptation des États membres, surtout pour les régions nordiques moins industrialisées. Cela aligne avec son objectif de transition ordonnée et durable.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 2,
+    "actor_type": "pays",
+    "generated_at": "2025-10-29T11:39:02.497314",
+    "version": "4.7"
+  }
+]

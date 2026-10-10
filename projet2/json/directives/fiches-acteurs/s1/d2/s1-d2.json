@@ -1,0 +1,597 @@
+{
+  "directive": {
+    "id": "1-2",
+    "title": "Marché unique numérique",
+    "description": "Harmoniser les régulations IA et cloud. Créer un cadre légal pour les données et l’IA éthique. Augmenter la part du numérique dans le PIB à 15%."
+  },
+  "commission": {
+    "type": "Commission",
+    "nom": "Commission européenne",
+    "role_europeen": "La Commission porte la proposition de directive et veille à l'équilibre entre innovation, souveraineté numérique, protection des droits et compétitivité.",
+    "enjeux_directive": [
+      "Accélérer la transformation numérique de l’Union européenne.",
+      "Harmoniser les cadres réglementaires sur l'IA et le cloud.",
+      "Garantir la sécurité, la compétitivité et la souveraineté numérique tout en protégeant les droits fondamentaux.",
+      "Stimuler une croissance inclusive et respectueuse de l’éthique."
+    ],
+    "impacts_directive": [
+      "La directive vise à augmenter la part du numérique dans le PIB de l'UE à 15%."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "1-2A",
+        "origine": "Verts/ALE",
+        "description": "Renforcer la protection des données personnelles",
+        "impact": "L’amendement pourrait renforcer la confiance des citoyens, mais pourrait aussi imposer des contraintes supplémentaires aux entreprises, potentiellement freinant l’innovation et la croissance du PIB."
+      },
+      {
+        "id": "1-2B",
+        "origine": "Gauche Unitaire",
+        "description": "Taxer les géants du numérique",
+        "impact": "Un tel amendement permettrait d'augmenter les recettes fiscales (hausse du PIB) et de renforcer la justice fiscale, mais pourrait encourager les délocalisations et freiner l'investissement."
+      },
+      {
+        "id": "1-2C",
+        "origine": "Renouveau Européen",
+        "description": "Soutenir les start-ups européennes",
+        "impact": "Cet amendement stimulerait l’innovation, la création d’emplois et la compétitivité, mais pourrait être perçu comme un protectionnisme technologique."
+      },
+      {
+        "id": "1-2D",
+        "origine": "Socialistes et Démocrates",
+        "description": "Limiter la surveillance de masse",
+        "impact": "L’amendement renforcerait la protection des droits des citoyens et la démocratie, mais pourrait complexifier la régulation de la cybersécurité."
+      },
+      {
+        "id": "1-2E",
+        "origine": "France",
+        "description": "Harmoniser la fiscalité numérique",
+        "impact": "Soutenir une fiscalité plus juste en Europe, mais pourrait entraîner des conflits d'intérêts entre les États membres."
+      },
+      {
+        "id": "1-2F",
+        "origine": "Allemagne",
+        "description": "Exclure les services essentiels de la régulation",
+        "impact": "Protégerait la compétitivité de secteurs clés allemands, mais fragiliserait la cohérence de la directive."
+      },
+      {
+        "id": "1-2G",
+        "origine": "Pologne",
+        "description": "Renforcer la cybersécurité",
+        "impact": "Garantirait la sécurité des infrastructures, mais pourrait augmenter les coûts pour les entreprises."
+      },
+      {
+        "id": "1-2H",
+        "origine": "Suède",
+        "description": "Limiter l’accès aux données personnelles",
+        "impact": "Renforcerait la protection de la vie privée, mais pourrait limiter l'innovation basée sur les données."
+      }
+    ],
+    "stratégie": "Adopter une position de médiateur en cherchant un compromis entre les ambitions des groupes politiques sur la protection des données et les préoccupations des États membres sur la compétitivité et la souveraineté numérique.",
+    "alliances": [
+      "La Commission cherchera des alliés parmi les États membres pragmatiques (comme l'Allemagne) et les partis politiques qui soutiennent l'innovation (comme Renouveau Européen)."
+    ],
+    "oppositions": [
+      "L'opposition viendra des acteurs qui considèrent la directive trop laxiste sur la protection des données (Verts/ALE) ou trop contraignante pour les entreprises (certains États membres)."
+    ],
+    "éléments_d_argumentaire": [
+      "La directive est un investissement stratégique pour la compétitivité et la souveraineté numérique de l'UE.",
+      "Le plan actuel de 15% du PIB est un compromis viable qui équilibre les ambitions et les contraintes réglementaires."
+    ],
+    "références": [
+      "s1d2.json (directive, commission)",
+      "scenario1.json (directive 2)"
+    ]
+  },
+  "countries": [
+    {
+      "type": "Etat",
+      "nom": "France",
+      "role_europeen": "Porte un amendement visant à harmoniser la fiscalité numérique.",
+      "enjeux_directive": [
+        "Renforcer la fiscalité numérique au niveau européen pour éviter la concurrence fiscale déloyale.",
+        "Garantir un cadre clair et stable pour les entreprises numériques.",
+        "Concilier innovation et équité fiscale."
+      ],
+      "impacts_directive": [
+        "La directive initiale (sans amendement) ne permet pas de répondre aux enjeux de justice fiscale et de souveraineté numérique de la France."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2E",
+          "origine": "France",
+          "description": "Harmoniser la fiscalité numérique",
+          "impact": "L'amendement français permettrait de protéger les industries nationales tout en assurant une meilleure équité fiscale."
+        }
+      ],
+      "stratégie": "Promouvoir une harmonisation fiscale visant à protéger l’industrie numérique nationale tout en soutenant le développement technologique en Europe.",
+      "alliances": [
+        "Allemagne",
+        "Socialistes et Démocrates",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Pays à faible fiscalité et lobbies de la Big Tech."
+      ],
+      "éléments_d_argumentaire": [
+        "L'harmonisation fiscale est un préalable à une concurrence saine et équitable dans le marché unique numérique.",
+        "Il est de notre devoir de s'assurer que les géants du numérique contribuent à l'économie de la même manière que les autres entreprises."
+      ],
+      "références": [
+        "s1d2.json (countries, France)",
+        "scenario1.json (amendements, 1-2E)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Allemagne",
+      "role_europeen": "Porte un amendement visant à exclure les services essentiels de la régulation.",
+      "enjeux_directive": [
+        "Protéger certains secteurs clés de l’économie numérique allemande (Industrie 4.0).",
+        "Assurer une compétitivité tout en respectant la diversité nationale."
+      ],
+      "impacts_directive": [
+        "La directive initiale pourrait imposer des régulations trop strictes sur les services clés de l'industrie allemande."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2F",
+          "origine": "Allemagne",
+          "description": "Exclure les services essentiels de la régulation",
+          "impact": "Protégerait la compétitivité de secteurs clés allemands, mais fragiliserait la cohérence de la directive."
+        }
+      ],
+      "stratégie": "Chercher à limiter l’univers de la régulation pour préserver la compétitivité des acteurs nationaux technologiques.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [
+        "Verts/ALE, Socialistes et Démocrates, Gauche Unitaire."
+      ],
+      "éléments_d_argumentaire": [
+        "L'innovation est un moteur de notre croissance, et une régulation excessive pourrait freiner le développement de l'IA et du cloud en Europe.",
+        "Une flexibilité réglementaire est nécessaire pour soutenir les secteurs les plus innovants."
+      ],
+      "références": [
+        "s1d2.json (countries, Allemagne)",
+        "scenario1.json (amendements, 1-2F)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Pologne",
+      "role_europeen": "Porte un amendement visant à renforcer la cybersécurité.",
+      "enjeux_directive": [
+        "Garantir la protection des infrastructures numériques contre les cyberattaques.",
+        "Promouvoir une stratégie de cybersécurité paneuropéenne intégrée.",
+        "Favoriser le développement des compétences numériques sécurisées."
+      ],
+      "impacts_directive": [
+        "La directive initiale ne prend pas suffisamment en compte les enjeux de sécurité numérique de l'Europe."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2G",
+          "origine": "Pologne",
+          "description": "Renforcer la cybersécurité",
+          "impact": "Cet amendement renforcerait la sécurité numérique de l'UE, mais pourrait augmenter les coûts pour les entreprises."
+        }
+      ],
+      "stratégie": "Se positionner comme acteur clé dans la sécurité numérique européenne et promouvoir la coopération transfrontalière.",
+      "alliances": [
+        "Italie",
+        "Allemagne",
+        "Lobby de l'Automobile"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La souveraineté numérique passe par une cybersécurité forte et une protection de nos infrastructures stratégiques.",
+        "Une approche européenne de la cybersécurité est indispensable pour faire face aux menaces extérieures."
+      ],
+      "références": [
+        "s1d2.json (countries, Pologne)",
+        "scenario1.json (amendements, 1-2G)"
+      ]
+    },
+    {
+      "type": "Etat",
+      "nom": "Suède",
+      "role_europeen": "Porte un amendement visant à limiter l’accès aux données personnelles.",
+      "enjeux_directive": [
+        "Protéger les données personnelles des citoyens.",
+        "Assurer la transparence et la responsabilité des entreprises technologiques."
+      ],
+      "impacts_directive": [
+        "La directive initiale est jugée trop souple sur les questions de protection des données et de vie privée."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2H",
+          "origine": "Suède",
+          "description": "Limiter l’accès aux données personnelles",
+          "impact": "Cet amendement renforcerait la protection de la vie privée, mais pourrait limiter l'innovation basée sur les données."
+        }
+      ],
+      "stratégie": "S'allier avec les groupes les plus soucieux de la vie privée pour renforcer la régulation et la protection des données.",
+      "alliances": [
+        "Verts/ALE",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Les pays et les groupes qui privilégient la compétitivité et la croissance (Renouveau Européen, Hongrie)."
+      ],
+      "éléments_d_argumentaire": [
+        "La confiance des citoyens dans le marché unique numérique est un prérequis pour son développement.",
+        "La protection de la vie privée est un droit fondamental et ne doit pas être sacrifiée au nom de la croissance économique."
+      ],
+      "références": [
+        "s1d2.json (countries, Suède)",
+        "scenario1.json (amendements, 1-2H)"
+      ]
+    }
+  ],
+  "partis": [
+    {
+      "type": "Parti",
+      "nom": "Parti Populaire Européen",
+      "role_europeen": "Non-porteur, mais médiateur, cherchant un équilibre entre innovation et régulation.",
+      "enjeux_directive": [
+        "Soutenir la compétitivité des entreprises européennes.",
+        "Promouvoir l’innovation technologique et le développement du marché unique numérique."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient la directive, mais cherche à en limiter les contraintes réglementaires pour protéger les entreprises."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2E",
+          "origine": "France",
+          "description": "Harmoniser la fiscalité numérique",
+          "impact": "Un tel amendement permettrait de soutenir les entreprises nationales et de renforcer la justice fiscale."
+        },
+        {
+          "id": "1-2F",
+          "origine": "Allemagne",
+          "description": "Exclure les services essentiels de la régulation",
+          "impact": "Cet amendement protégerait la compétitivité des secteurs clés allemands et des entreprises européennes."
+        }
+      ],
+      "stratégie": "Agir comme un pont entre les acteurs qui privilégient la croissance et ceux qui privilégient la régulation.",
+      "alliances": [
+        "Commission européenne",
+        "Renouveau Européen",
+        "Big Tech"
+      ],
+      "oppositions": [
+        "Verts/ALE, Gauche Unitaire, Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La croissance et l'emploi sont des priorités, et la directive doit les encourager.",
+        "Une régulation pragmatique est essentielle pour un marché unique numérique fort."
+      ],
+      "références": [
+        "s1d2.json (parties, PPE)",
+        "scenario1.json (amendements, 1-2E, 1-2F)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Socialistes et Démocrates",
+      "role_europeen": "Porte un amendement visant à limiter la surveillance de masse.",
+      "enjeux_directive": [
+        "Protéger les droits des citoyens et la démocratie.",
+        "Assurer un usage éthique de l'IA et de la technologie."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient la directive, mais craint que la technologie ne soit utilisée pour la surveillance de masse."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2D",
+          "origine": "Socialistes et Démocrates",
+          "description": "Limiter la surveillance de masse",
+          "impact": "Cet amendement renforcerait la protection des droits des citoyens et la démocratie, mais pourrait complexifier la régulation de la cybersécurité."
+        }
+      ],
+      "stratégie": "Se positionner comme garant de la justice sociale et des droits fondamentaux dans la transition numérique.",
+      "alliances": [
+        "Suède",
+        "Verts/ALE",
+        "Gauche Unitaire"
+      ],
+      "oppositions": [
+        "Certains gouvernements et lobbies qui privilégient les intérêts économiques."
+      ],
+      "éléments_d_argumentaire": [
+        "Le numérique doit servir l'humain et non le contraire.",
+        "La protection des données et de la vie privée est un pilier de la démocratie européenne."
+      ],
+      "références": [
+        "s1d2.json (parties, Socialistes et Démocrates)",
+        "scenario1.json (amendements, 1-2D)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Renouveau Européen",
+      "role_europeen": "Porte un amendement visant à soutenir les start-ups européennes.",
+      "enjeux_directive": [
+        "Soutenir l’innovation technologique en Europe.",
+        "Accélérer la croissance du secteur numérique et des start-ups."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient la directive, mais la trouve insuffisamment ambitieuse en matière de soutien à l'innovation."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2C",
+          "origine": "Renouveau Européen",
+          "description": "Soutenir les start-ups européennes",
+          "impact": "Cet amendement stimulerait l’innovation, la création d’emplois et la compétitivité, mais pourrait être perçu comme un protectionnisme technologique."
+        }
+      ],
+      "stratégie": "Se positionner comme l'acteur clé de l'innovation et de la compétitivité numérique en Europe.",
+      "alliances": [
+        "Commission",
+        "Parti Populaire Européen",
+        "Big Tech",
+        "Banque et Finance"
+      ],
+      "oppositions": [
+        "Les groupes qui privilégient la régulation au détriment de l'innovation."
+      ],
+      "éléments_d_argumentaire": [
+        "L'innovation est la clé pour une souveraineté numérique réussie et compétitive.",
+        "La directive doit être mise en œuvre de manière pragmatique, en encourageant l'investissement et la recherche."
+      ],
+      "références": [
+        "s1d2.json (parties, Renouveau Européen)",
+        "scenario1.json (amendements, 1-2C)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Verts/ALE",
+      "role_europeen": "Porte un amendement visant à renforcer la protection des données personnelles.",
+      "enjeux_directive": [
+        "Renforcer la protection des données et de la vie privée des citoyens.",
+        "Promouvoir une approche éthique de la technologie."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient pleinement la directive, mais la trouve insuffisamment ambitieuse sur le plan de la protection des données."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2A",
+          "origine": "Verts/ALE",
+          "description": "Renforcer la protection des données personnelles",
+          "impact": "L’amendement pourrait renforcer la confiance des citoyens, mais pourrait aussi imposer des contraintes supplémentaires aux entreprises."
+        }
+      ],
+      "stratégie": "Faire valoir la nécessité d'une régulation forte pour la protection des données et de la vie privée.",
+      "alliances": [
+        "Suède",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [
+        "Les pays et les groupes qui privilégient la compétitivité au détriment de la protection des données."
+      ],
+      "éléments_d_argumentaire": [
+        "La protection des données est un droit fondamental et un préalable à la confiance dans le marché numérique.",
+        "Une régulation forte est nécessaire pour garantir une IA éthique et respectueuse des citoyens."
+      ],
+      "références": [
+        "s1d2.json (parties, Verts/ALE)",
+        "scenario1.json (amendements, 1-2A)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Conservateurs et Réformistes",
+      "role_europeen": "Non-porteur, mais s'oppose à une régulation trop contraignante.",
+      "enjeux_directive": [
+        "Soutenir la compétitivité des entreprises et la flexibilité réglementaire."
+      ],
+      "impacts_directive": [
+        "Le groupe soutient la directive, mais souhaite en limiter la portée pour ne pas entraver l'innovation et la compétitivité."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2F",
+          "origine": "Allemagne",
+          "description": "Exclure les services essentiels de la régulation",
+          "impact": "Cet amendement protégerait la compétitivité de secteurs clés et des entreprises européennes."
+        }
+      ],
+      "stratégie": "S'opposer aux mesures trop contraignantes pour les industries et les pays les plus prudents.",
+      "alliances": [
+        "Allemagne",
+        "Pologne",
+        "Italie"
+      ],
+      "oppositions": [
+        "Les Verts/ALE et les Socialistes et Démocrates."
+      ],
+      "éléments_d_argumentaire": [
+        "La transition numérique doit être progressive et ne doit pas mettre en péril la compétitivité de nos entreprises.",
+        "Une réforme trop radicale menace la souveraineté industrielle de l'Europe."
+      ],
+      "références": [
+        "s1d2.json (parties, Conservateurs et Réformistes)",
+        "scenario1.json (amendements, 1-2F)"
+      ]
+    },
+    {
+      "type": "Parti",
+      "nom": "Gauche Unitaire Européenne/Gauche Verte Nordique",
+      "role_europeen": "Porte un amendement pour taxer les géants du numérique.",
+      "enjeux_directive": [
+        "Lutter contre l'évasion fiscale des grandes entreprises technologiques.",
+        "Promouvoir la justice fiscale et la solidarité."
+      ],
+      "impacts_directive": [
+        "Le groupe considère la directive comme un pas dans la bonne direction, mais la juge trop timide et trop influencée par les lobbies industriels."
+      ],
+      "impacts_amendements": [
+        {
+          "id": "1-2B",
+          "origine": "Gauche Unitaire",
+          "description": "Taxer les géants du numérique",
+          "impact": "Un tel amendement permettrait d'augmenter les recettes fiscales (hausse du PIB) et de renforcer la justice fiscale."
+        }
+      ],
+      "stratégie": "Se positionner en opposition radicale à l'approche du marché pour défendre les intérêts des citoyens et des travailleurs.",
+      "alliances": [
+        "Verts/ALE",
+        "ONG environnementales (non-officiel)"
+      ],
+      "oppositions": [
+        "Le Parti Populaire Européen, les lobbies industriels."
+      ],
+      "éléments_d_argumentaire": [
+        "Le numérique doit servir l'intérêt général, et non les profits de quelques multinationales.",
+        "La justice fiscale est un prérequis pour une transition numérique réussie."
+      ],
+      "références": [
+        "s1d2.json (parties, Gauche Unitaire)",
+        "scenario1.json (amendements, 1-2B)"
+      ]
+    }
+  ],
+  "lobbies": [
+    {
+      "type": "Lobby",
+      "nom": "Big Tech",
+      "role_europeen": "Représente les intérêts des grandes entreprises technologiques, cherchant à promouvoir leurs solutions numériques et leur modèle économique.",
+      "enjeux_directive": [
+        "Limiter les régulations qui pourraient freiner l'innovation.",
+        "Maintenir un environnement concurrentiel favorable.",
+        "S'opposer aux taxes sur les services numériques."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour les entreprises technologiques de développer un nouveau marché, mais peut imposer des contraintes réglementaires."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Mettre en avant le rôle de la technologie comme solution à tous les enjeux de la transition, tout en s'opposant aux mesures jugées trop contraignantes.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [
+        "Les groupes qui s'opposent à la collecte de données ou à la dépendance technologique (certains Verts/ALE, Gauche Unitaire)."
+      ],
+      "éléments_d_argumentaire": [
+        "La technologie est la clé pour une Europe plus compétitive et plus durable.",
+        "Une régulation excessive freinerait l'innovation et la croissance."
+      ],
+      "références": [
+        "s1d2.json (lobbies, Big Tech)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Banque et Finance",
+      "role_europeen": "Représente les intérêts des banques et des fonds d'investissement, cherchant à promouvoir le financement de la transition numérique.",
+      "enjeux_directive": [
+        "Financer les projets d'innovation numérique et les start-ups.",
+        "Promouvoir les instruments financiers adaptés au secteur numérique."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité de développement de marché pour l'industrie de la finance."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "Se positionner comme le partenaire financier de la transition numérique, en s'alliant avec les acteurs les plus progressistes pour promouvoir des solutions de financement adaptées.",
+      "alliances": [
+        "Renouveau Européen",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'investissement privé est indispensable pour réussir la transition numérique.",
+        "Nous pouvons apporter les capitaux nécessaires pour les projets de grande envergure."
+      ],
+      "références": [
+        "s1d2.json (lobbies, Banque et Finance)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Agrochimie",
+      "role_europeen": "Moins directement concerné, mais vigilant sur les enjeux de données agricoles.",
+      "enjeux_directive": [
+        "Limiter les contraintes imposées par des régulations numériques spécifiques pour l’industrie.",
+        "Veiller à la compatibilité des règlements européens avec l’innovation technologique agro."
+      ],
+      "impacts_directive": [
+        "La directive pourrait imposer des contraintes sur la collecte et l'utilisation des données agricoles."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les acteurs qui s'opposent à la régulation pour défendre la flexibilité réglementaire.",
+      "alliances": [
+        "Pologne",
+        "Italie",
+        "Parti Populaire Européen"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "La technologie est un atout pour l'agriculture, et il ne faut pas entraver son développement.",
+        "La collecte de données est essentielle pour une agriculture plus efficace et plus durable."
+      ],
+      "références": [
+        "s1d2.json (lobbies, Agrochimie)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Pharmaceutique",
+      "role_europeen": "Vigilant sur les enjeux de données de santé et de recherche numérique.",
+      "enjeux_directive": [
+        "Assurer un usage responsable des données de santé et de recherche numérique.",
+        "Soutenir les innovations dans la santé numérique et la réglementation adaptée."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité pour l'industrie pharmaceutique de se positionner comme un acteur de la santé publique en lien avec les données."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec les groupes soucieux de la santé publique (Socialistes et Démocrates) pour promouvoir la recherche.",
+      "alliances": [
+        "Renouveau Européen",
+        "Socialistes et Démocrates"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "L'utilisation responsable des données de santé est essentielle pour le développement des thérapies et de la recherche."
+      ],
+      "références": [
+        "s1d2.json (lobbies, Pharmaceutique)"
+      ]
+    },
+    {
+      "type": "Lobby",
+      "nom": "Automobile",
+      "role_europeen": "Représente l'industrie automobile, cherchant à influencer la réglementation des données liées aux véhicules connectés et autonomes.",
+      "enjeux_directive": [
+        "Soutenir la cybersécurité et l’innovation dans la mobilité intelligente."
+      ],
+      "impacts_directive": [
+        "La directive est une opportunité d'obtenir des aides pour la modernisation et la décarbonation du secteur."
+      ],
+      "impacts_amendements": [],
+      "stratégie": "S'allier avec des acteurs soucieux de la protection de l'emploi et de l'industrie (Pologne, PPE, Conservateurs et Réformistes).",
+      "alliances": [
+        "Pologne",
+        "Parti Populaire Européen",
+        "Conservateurs et Réformistes"
+      ],
+      "oppositions": [],
+      "éléments_d_argumentaire": [
+        "Les véhicules connectés sont une source d'innovation majeure, mais leur développement nécessite un cadre réglementaire clair et sécurisé."
+      ],
+      "références": [
+        "s1d2.json (lobbies, Automobile)"
+      ]
+    }
+  ]
+}

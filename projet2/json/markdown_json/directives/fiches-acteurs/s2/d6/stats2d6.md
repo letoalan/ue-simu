@@ -1,0 +1,79 @@
+# stats2d6
+
+Source : `directives/fiches-acteurs/s2/d6/stats2d6.json`
+
+## Contenu
+
+- **scenario** : `2`
+- **directive** : `6`
+- **nom** : Coopération transfrontalière et sécurité intérieure
+- **valeurs\_prevues** :
+  - **normandie\_eu** : `89`
+  - **vdem\_eu** : `0.87`
+  - **pib\_growth\_eu** : `1.5`
+  - **idh\_eu** : `0.94`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 2-6A
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `90`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.95`
+  - **Élément 2** :
+    - **id** : 2-6B
+    - **origine** : Conservateurs et Réformistes
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `89`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.95`
+  - **Élément 3** :
+    - **id** : 2-6C
+    - **origine** : Gauche Unitaire
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.89`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.94`
+  - **Élément 4** :
+    - **id** : 2-6D
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `90`
+      - **vdem\_eu** : `0.88`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.95`
+  - **Élément 5** :
+    - **id** : 2-6E
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.6`
+      - **idh\_eu** : `0.93`
+  - **Élément 6** :
+    - **id** : 2-6F
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `87`
+      - **vdem\_eu** : `0.85`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.93`
+  - **Élément 7** :
+    - **id** : 2-6G
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.87`
+      - **pib\_growth\_eu** : `1.5`
+      - **idh\_eu** : `0.94`
+  - **Élément 8** :
+    - **id** : 2-6H
+    - **origine** : Allemagne
+    - **valeurs\_prevues** :
+      - **normandie\_eu** : `88`
+      - **vdem\_eu** : `0.86`
+      - **pib\_growth\_eu** : `1.7`
+      - **idh\_eu** : `0.93`

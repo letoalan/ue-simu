@@ -1,0 +1,79 @@
+# stats1d6
+
+Source : `directives/fiches-acteurs/s1/d6/stats1d6.json`
+
+## Contenu
+
+- **scenario** : `1`
+- **directive** : `6`
+- **nom** : Industrie 5.0 et modernisation industrielle
+- **valeurs\_prevues** :
+  - **pib\_eu** : `2.3`
+  - **gini\_eu** : `0.31`
+  - **co2\_eu** : `7.5`
+  - **veb\_eu** : `76`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 1-6A
+    - **origine** : Parti Populaire Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.3`
+      - **co2\_eu** : `6.5`
+      - **veb\_eu** : `78`
+  - **Élément 2** :
+    - **id** : 1-6B
+    - **origine** : Conservateurs et Réformistes
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.28`
+      - **co2\_eu** : `7.0`
+      - **veb\_eu** : `77`
+  - **Élément 3** :
+    - **id** : 1-6C
+    - **origine** : Renouveau Européen
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `7.3`
+      - **veb\_eu** : `78`
+  - **Élément 4** :
+    - **id** : 1-6D
+    - **origine** : Gauche Unitaire
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.6`
+      - **gini\_eu** : `0.3`
+      - **co2\_eu** : `7.0`
+      - **veb\_eu** : `80`
+  - **Élément 5** :
+    - **id** : 1-6E
+    - **origine** : Pologne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.32`
+      - **co2\_eu** : `7.8`
+      - **veb\_eu** : `75`
+  - **Élément 6** :
+    - **id** : 1-6F
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `7.7`
+      - **veb\_eu** : `76`
+  - **Élément 7** :
+    - **id** : 1-6G
+    - **origine** : Allemagne
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.6`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `7.6`
+      - **veb\_eu** : `77`
+  - **Élément 8** :
+    - **id** : 1-6H
+    - **origine** : Suède
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.33`
+      - **co2\_eu** : `7.9`
+      - **veb\_eu** : `75`

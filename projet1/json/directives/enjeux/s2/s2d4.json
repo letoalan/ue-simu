@@ -1,0 +1,212 @@
+{
+  "directive": {
+    "id": "2-4",
+    "title": "Souveraineté agricole européenne",
+    "description": "Réserve stratégique de céréales (6 mois). Soutien aux agriculteurs locaux, développement des circuits courts et constitution d'une réserve stratégique alimentaire pour réduire les importations et garantir l'autonomie.",
+    "commission": {
+      "role": "Porte la proposition initiale, garantit la cohérence institutionnelle et fait le lien entre Parlement, Conseil et acteurs externes.",
+      "enjeux": [
+        "Garantir la sécurité alimentaire de l'Union européenne en réduisant la dépendance aux importations.",
+        "Soutenir la production agricole locale et les circuits courts pour renforcer la résilience.",
+        "Équilibrer souveraineté alimentaire, transition écologique et viabilité économique du secteur agricole.",
+        "Anticiper les tensions entre pays agricoles exportateurs et pays importateurs nets."
+      ]
+    },
+    "countries": [
+      {
+        "name": "France",
+        "role": "Porteur",
+        "amendment": "Limiter la réserve stratégique à 3 mois",
+        "enjeux": [
+          "Éviter les surcoûts de stockage et préserver la compétitivité des exportations agricoles.",
+          "Défendre le modèle agricole français et valoriser les circuits courts."
+        ],
+        "strategie": "Prôner une gestion pragmatique des stocks pour préserver la rentabilité des exploitations."
+      },
+      {
+        "name": "Allemagne",
+        "role": "Non-porteur",
+        "position": "Soutient la directive avec vigilance sur les coûts et la libre circulation des denrées agricoles.",
+        "enjeux": [
+          "Sécuriser les approvisionnements des industries de transformation agroalimentaire.",
+          "Préserver l'équilibre budgétaire et le bon fonctionnement du marché intérieur."
+        ],
+        "role_description": "Médiateur pour une coordination européenne sans lourdeurs administratives excessives."
+      },
+      {
+        "name": "Italie",
+        "role": "Non-porteur",
+        "position": "Soutient fortement la directive mais exige un accès équitable aux fonds de soutien aux filières de qualité.",
+        "enjeux": [
+          "Soutenir les productions sous signes de qualité (AOP/IGP) et l'agriculture méditerranéenne.",
+          "Renforcer la résilience hydrique et climatique des exploitations."
+        ],
+        "role_description": "Défenseur des agricultures méridionales et des circuits courts territoriaux."
+      },
+      {
+        "name": "Hongrie",
+        "role": "Porteur",
+        "amendment": "Reporter l’application de la directive de deux ans",
+        "enjeux": [
+          "Donner du temps aux exploitations nationales pour s'adapter aux exigences de stockage.",
+          "Préserver la souveraineté nationale face aux contraintes réglementaires."
+        ],
+        "strategie": "Chercher des appuis auprès des pays demandant flexibilité et délais d'application."
+      },
+      {
+        "name": "Pologne",
+        "role": "Porteur",
+        "amendment": "Soutenir prioritairement les grandes exploitations",
+        "enjeux": [
+          "Consolider les capacités de production céréalière des grands bassins agricoles de l'Est.",
+          "Sécuriser des volumes importants face aux instabilités géopolitiques régionales."
+        ],
+        "strategie": "Pousser pour des aides ciblant les exploitations à fort volume de rendement."
+      },
+      {
+        "name": "Suède",
+        "role": "Porteur",
+        "amendment": "Exclure certains produits agricoles de la réserve",
+        "enjeux": [
+          "Limiter la réserve aux céréales essentielles pour éviter gaspillage et coûts excessifs.",
+          "Assurer une gestion rigoureuse, efficiente et transparente des stocks publics."
+        ],
+        "strategie": "Plaider pour une gestion ciblée et rationnelle des denrées stockées."
+      }
+    ],
+    "parties": [
+      {
+        "name": "Parti Populaire Européen",
+        "role": "Non-porteur",
+        "position": "Soutient la souveraineté alimentaire tout en défendant la compétitivité et la rentabilité du secteur agricole.",
+        "enjeux": [
+          "Maintenir l'équilibre entre sécurité alimentaire et économie de marché.",
+          "Protéger le revenu des agriculteurs face aux pressions réglementaires."
+        ],
+        "strategie": "Rechercher des compromis pragmatiques sans pénaliser la compétitivité européenne."
+      },
+      {
+        "name": "Socialistes et Démocrates",
+        "role": "Porteur",
+        "amendment": "Créer un label européen de circuits courts",
+        "enjeux": [
+          "Assurer une alimentation saine, durable et accessible à tous les citoyens.",
+          "Soutenir les petits producteurs ruraux et renforcer la cohésion sociale."
+        ],
+        "strategie": "Associer souveraineté alimentaire, justice sociale et dynamisme territorial."
+      },
+      {
+        "name": "Renouveau Européen",
+        "role": "Porteur",
+        "amendment": "Porter la réserve stratégique à 9 mois",
+        "enjeux": [
+          "Renforcer l'autonomie stratégique européenne face aux crises géopolitiques mondiales.",
+          "Moderniser la logistique et la numérisation des filières agricoles."
+        ],
+        "strategie": "Promouvoir une réponse européenne ambitieuse, innovante et intégrée."
+      },
+      {
+        "name": "Verts/ALE",
+        "role": "Porteur",
+        "amendment": "Conditionner les aides à la transition agroécologique",
+        "enjeux": [
+          "Lier sécurité alimentaire, préservation de la biodiversité et protection des sols.",
+          "Réduire la dépendance aux engrais chimiques et aux pesticides."
+        ],
+        "strategie": "Faire de l'agroécologie le garant indispensable de la résilience à long terme."
+      },
+      {
+        "name": "Conservateurs et Réformistes",
+        "role": "Non-porteur",
+        "position": "Soutien conditionnel fondé sur la subsidiarité, la réduction des normes et la liberté des exploitants.",
+        "enjeux": [
+          "Préserver la liberté de gestion des agriculteurs et des États membres.",
+          "Éviter la bureaucratisation et la surréglementation de l'agriculture."
+        ],
+        "strategie": "Défendre l'autonomie nationale et s'opposer aux contraintes écologiques excessives."
+      },
+      {
+        "name": "Gauche Unitaire",
+        "role": "Porteur",
+        "amendment": "Instaurer un fonds européen pour la relocalisation alimentaire",
+        "enjeux": [
+          "Protéger l'agriculture paysanne face aux spéculations de marché.",
+          "Garantir le droit à une alimentation de qualité pour les classes populaires."
+        ],
+        "strategie": "Mobiliser pour des aides publiques directes à la relocalisation agricole."
+      }
+    ],
+    "lobbies": [
+      {
+        "sector": "Big Tech",
+        "interests": [
+          "Développement de solutions d'agronomie de précision et d'outils numériques (capteurs IoT, modélisation agronomique, prévision météorologique et anticipation des calamités agricoles par l'IA).",
+          "Valorisation et sécurisation des données agricoles et logistiques."
+        ],
+        "alliances": [
+          "Renouveau Européen",
+          "PPE",
+          "France"
+        ]
+      },
+      {
+        "sector": "Energies Fossiles",
+        "interests": [
+          "Sécuriser l'accès aux engrais azotés et carburants agricoles indispensables aux récoltes.",
+          "Limiter les surcoûts énergétiques liés au séchage et au stockage prolongé des céréales."
+        ],
+        "alliances": [
+          "Conservateurs et Réformistes",
+          "Hongrie",
+          "Pologne"
+        ]
+      },
+      {
+        "sector": "Banque et Finance",
+        "interests": [
+          "Financer les infrastructures de stockage de la réserve stratégique et la modernisation agricole.",
+          "Développer des outils financiers de couverture contre la volatilité des cours céréaliers."
+        ],
+        "alliances": [
+          "Socialistes et Démocrates",
+          "France",
+          "Italie"
+        ]
+      },
+      {
+        "sector": "Agrochimie",
+        "interests": [
+          "Préserver la protection des récoltes céréalières et la productivité des surfaces agricoles.",
+          "Plaider pour une transition agroécologique progressive sans baisse brutale des rendements."
+        ],
+        "alliances": [
+          "Pologne",
+          "PPE",
+          "Hongrie"
+        ]
+      },
+      {
+        "sector": "Pharmaceutique",
+        "interests": [
+          "Garantir les normes de biosécurité et la sécurité sanitaire de la chaîne alimentaire.",
+          "Renforcer la traçabilité sanitaire des filières agricoles et d'élevage."
+        ],
+        "alliances": [
+          "Socialistes et Démocrates",
+          "Verts/ALE"
+        ]
+      },
+      {
+        "sector": "Automobile",
+        "interests": [
+          "Promouvoir le machinisme agricole durable et décarboner les flottes logistiques alimentaires.",
+          "Valoriser les débouchés des biocarburants durables issus de l'agriculture."
+        ],
+        "alliances": [
+          "Allemagne",
+          "Renouveau Européen"
+        ]
+      }
+    ]
+  }
+}

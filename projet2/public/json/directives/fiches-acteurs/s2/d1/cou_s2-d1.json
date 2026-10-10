@@ -1,0 +1,666 @@
+[
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur Fort - Soutient activement la diversification pour réduire sa dépendance historique au gaz russe.",
+    "enjeux_directive": [
+      "Sécuriser ses approvisionnements industriels critiques.",
+      "Maintenir la compétitivité de son économie exportatrice.",
+      "Accélérer la transition vers une économie bas-carbone tout en préservant les secteurs stratégiques (automobile, chimie).",
+      "Renforcer l'interconnexion énergétique européenne pour stabiliser les flux."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Allemagne.",
+      "La position de Allemagne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Allemagne adopte une stratégie mixte combinant prudence et ambition pour la transition énergétique. Elle s'appuie sur le nucléaire (avec un moratoire temporaire) comme pilier de sa sécurité énergétique, tout en développant massivement l'éolien offshore et le stockage d'hydrogène vert. Son objectif est de réduire la dépendance au gaz russe tout en préservant les secteurs industriels (automobile, chimie) qui sont des piliers économiques. Elle milite pour un cadre réglementaire harmonisé à l'échelle européenne, favorisant les investissements dans les infrastructures énergétiques transfrontalières et les technologies de pointe. En même temps, elle défend un rythme progressif de transition pour éviter les chocs économiques brusques, en particulier pour les régions industrielles comme la Ruhr.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien aux politiques énergétiques traditionnelles et à la stabilité de l'UE)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "S&D (privilégie investissements régions défavorisées au détriment des secteurs industriels)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité énergétique est un pilier de la souveraineté allemande, nécessitant une réduction progressive mais structurée de la dépendance aux importations russes.",
+      "L'industrie allemande (notamment les secteurs chimique et automobile) exige un accompagnement financier pour s'adapter à la transition énergétique sans perte de compétitivité internationale.",
+      "Le nucléaire reste une source d'énergie bas-carbone fiable, mais sa réintroduction dépend d'une acceptation politique des régions touchées (principalement dans le sud-ouest).",
+      "L'hydrogène vert doit être priorisé pour décarboner les secteurs difficiles à électrifier (comme la métallurgie et l'industrie chimique), nécessitant un cadre réglementaire clair.",
+      "Les investissements dans les interconnexions énergétiques transfrontalières renforcent la résilience européenne tout en créant des opportunités économiques pour les entreprises allemandes.",
+      "La transition doit inclure des mesures sociales pour accompagner les travailleurs des secteurs traditionnels (charbon, pétrole) vers de nouveaux métiers dans l'économie verte.",
+      "L'Allemagne défend une approche européenne coordonnée plutôt qu'une fragmentation nationale, afin d'éviter des distorsions du marché et d'accélérer la transition collective."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE",
+        "justification": "L'Allemagne soutient cet amendement pour renforcer sa sécurité énergétique et permettre une transition vers des sources durables, tout en maintenant un niveau de réserves suffisant pour éviter les chocs économiques brusques. Cela aligne avec ses objectifs climatiques à long terme.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne appuie cet amendement, mais souligne la nécessité de garantir une répartition équitable des coûts entre les États membres. Les interconnexions doivent être un levier de solidarité européenne et non une charge nationale.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "L'hydrogène vert est essentiel pour décarboner les secteurs industriels allemands. L'Allemagne soutient activement son développement, en particulier via des partenariats transnationaux avec l'Italie et la France.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose partiellement à cet amendement car elle considère que des mesures incitatives plutôt qu'une conditionnalité stricte sont plus efficaces pour encourager la transition énergétique sans pénaliser l'économie.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Cet amendement est trop restrictif pour les besoins industriels et économiques allemands. Il ne prend pas en compte les réalités des secteurs clés, comme l'industrie chimique.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose à cette proposition car elle risque d'entraîner une fragmentation européenne et de fragiliser les pays plus vulnérables sur le plan énergétique.",
+        "priorite": "faible",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "NEUTRE",
+        "justification": "L'Allemagne adopte une position neutre sur cet amendement, préférant un équilibre entre la préservation des infrastructures actuelles et l'accélération de la transition vers des solutions durables.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose à un report prolongé, mais comprend que des ajustements temporaires puissent être nécessaires pour assurer une mise en œuvre progressive et équilibrée.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions industrie allemande (Volkswagen, Siemens) et objectifs climatiques directive. Position nucléaire délicate (réticences historiques régions). Équilibrer transition énergétique et compétitivité secteur automobile.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "pays",
+    "generated_at": "2025-10-28T17:12:44.018220",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur - Favorable à la diversification tout en préservant ses intérêts dans le secteur énergétique.",
+    "enjeux_directive": [
+      "Renforcer sa position de hub énergétique européen, notamment via l'hydrogène vert et les interconnexions transfrontalières.",
+      "Protéger ses champions énergétiques nationaux (EDF, Air Liquide) tout en développant une transition écologique progressive.",
+      "Maintenir un rôle central dans la stratégie européenne nucléaire post-2030 malgré les divergences sectorielles.",
+      "Sécuriser l'approvisionnement gazier via des investissements dans l'infrastructure existante tout en anticipant la transition vers l'hydrogène.",
+      "Assurer une équité géographique entre le nord et le sud de la France dans la répartition des financements climatiques."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La France adopte une approche hybride qui combine modernisation du nucléaire (avec un objectif de maintenir 50% de la production électrique d'ici 2035) et promotion des énergies renouvelables, notamment via le développement de l'hydrogène vert. Elle s'appuie sur sa position géographique pour devenir un hub transfrontalier (interconnexions vers l'Italie, l'Espagne et la Belgique), tout en défendant les intérêts des acteurs nationaux comme EDF, TotalEnergies ou Air Liquide. Sur le plan politique, elle s'allie à des partis favorables aux investissements structurels (S&D) et à des lobbyistes technologiques (Big Tech) pour défendre ses priorités sectorielles, tout en restant prudente face à une transition trop rapide qui pourrait affecter la compétitivité industrielle. Son influence repose sur un équilibre entre l'ambition climatique européenne et la nécessité de sécuriser les approvisionnements énergétiques nationaux.",
+    "alliances": [
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)",
+      "PPE (défense nucléaire + coopération technologique)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Agrochimie (soutien aux énergies traditionnelles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France défend le nucléaire comme pilier de sa transition énergétique, arguant que son expertise technologique et ses capacités d'exportation de réacteurs constituent un avantage stratégique européen.",
+      "Elle s'appuie sur les interconnexions transfrontalières (notamment vers l'Italie et la Belgique) pour renforcer sa position de hub énergétique, tout en défendant les intérêts des acteurs locaux comme EDF.",
+      "Son alliance avec le parti S&D permet d'obtenir des financements ciblés pour les régions du sud de la France, souvent moins développées économiquement.",
+      "Le soutien de Big Tech et de l'industrie automobile favorise l'innovation numérique dans les infrastructures énergétiques (smart grids, gestion optimisée des ressources).",
+      "La France préconise une transition progressive vers l'hydrogène vert afin de protéger ses secteurs industriels (métallurgie, chimie) qui dépendent encore du gaz naturel.",
+      "Elle critique les amendements visant à limiter le stock stratégique de gaz à 60 jours, arguant que cela pourrait fragiliser la sécurité énergétique nationale dans un contexte géopolitique tendu.",
+      "Le lobby bancaire soutient des politiques favorables aux investissements structurels en énergie, tout en exigeant une répartition équitable des fonds entre les régions françaises."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE",
+        "justification": "La France soutient ce amendement pour renforcer la sécurité énergétique nationale, notamment face aux risques géopolitiques persistants (désapprovisionnement gazier). Cela permet de sécuriser les approvisionnements et d'assurer une transition progressive vers l'hydrogène vert sans compromettre la stabilité économique.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "La France s'engage à accélérer ces investissements pour renforcer ses infrastructures transfrontalières (notamment vers l'Italie et la Belgique), ce qui consolidera sa position de hub énergétique européen. Cela favorisera également les exportations d'électricité et renforcera la coopération technologique avec des pays voisins.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie l'intégration de l'hydrogène vert dans la stratégie européenne, mais exige des garanties sur les financements et les infrastructures (pipelines, terminaux). Elle craint que l'absence d'une feuille de route claire fragilise le développement industriel local.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose partiellement à cet amendement, craignant que cela pénalise les secteurs industriels dépendants du gaz (métallurgie, chimie). Elle propose plutôt un accompagnement progressif via des subventions ciblées et une modernisation de l'infrastructure.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "La France s'oppose fermement à cet amendement, considérant que cela fragiliserait la sécurité énergétique nationale. Elle défend un stock de 120 jours comme seuil optimal pour maintenir la stabilité du marché en cas de crise géopolitique ou de perturbations climatiques.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "La France s'oppose à l'idée d'exclusions sectorielles, arguant que cela créerait des inégalités entre les pays européens. Elle défend une approche uniforme pour garantir la cohésion du marché unique énergétique.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France soutient ce amendement en partie, mais exige une transition vers l'hydrogène vert dans les 10 prochaines années. Elle craint que le maintien des infrastructures gazières prolonge l'utilisation de combustibles fossiles et compromette les objectifs climatiques.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "La France s'oppose à tout report, jugeant que cela retarderait la mise en œuvre des mesures nécessaires pour atteindre les objectifs climatiques et renforcer la sécurité énergétique européenne. Elle préconise une application progressive mais ferme.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le nucléaire et l'industrie chimique (TotalEnergies, Arkema) sur la transition énergétique. Évaluer régulièrement l'équilibre géographique des investissements en Provence-Alpes-Côte d'Azur vs Île-de-France. Veiller à ne pas marginaliser les régions du sud face aux projets maritimes méditerranéens.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "pays",
+    "generated_at": "2025-10-28T17:29:55.790527",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur Partiel - Demande des exemptions pour certains États membres des obligations de stockage.",
+    "enjeux_directive": [
+      "Adapter les obligations à ses contraintes budgétaires.",
+      "Préserver sa flexibilité dans les choix énergétiques.",
+      "Protéger les secteurs industriels stratégiques (agroalimentaire, mécanique) face aux coûts de transition.",
+      "Renforcer la coopération méditerranéenne pour le développement des infrastructures hydrogène vert."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Italie adopte une approche pragmatique dans les négociations européennes, combinant la défense des intérêts nationaux avec un engagement conditionnel pour la transition énergétique. Elle insiste sur l'adaptation des obligations de stockage à ses contraintes budgétaires et géographiques (notamment en Sicile et dans le sud du pays), tout en soutenant les initiatives visant à renforcer la sécurité énergétique. L'Italie prône un modèle de transition qui intègre les énergies fossiles en décarbonation progressive, tout en développant des projets d'hydrogène vert avec l'Espagne et le Portugal pour exploiter les ressources maritimes méditerranéennes. Elle mise sur la collaboration avec les partis pro-européens (S&D) pour obtenir un financement ciblé pour les régions défavorisées, tout en restant prudente sur les mesures radicales qui pourraient menacer l'équilibre économique national.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La flexibilité des obligations de stockage permet d'adapter les mesures aux réalités géographiques et économiques italiennes, notamment en Sicile.",
+      "L'Italie défend un modèle de transition énergétique qui intègre la décarbonation progressive des industries traditionnelles (agroalimentaire, mécanique).",
+      "Le soutien à l'hydrogène vert doit être complété par une coopération transfrontalière méditerranéenne avec l'Espagne et le Portugal.",
+      "Les régions du sud (40% de la population) nécessitent des investissements ciblés pour éviter un déséquilibre territorial.",
+      "La protection des secteurs industriels stratégiques (automobile, mécanique) doit être prioritaire pour préserver les emplois et l'innovation.",
+      "Les financements européens doivent être conditionnés à la réduction de la consommation de gaz, tout en soutenant les infrastructures existantes.",
+      "L'Italie propose un moratoire temporaire sur certaines obligations de stockage pour permettre une transition plus souple et équilibrée.",
+      "La dépendance actuelle envers le gaz naturel exige un soutien à la modernisation des réseaux de distribution existants."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie s'oppose partiellement à ce prolongement car cela pourrait accroître la dépendance aux importations et augmenter les coûts d'approvisionnement, notamment pour les régions du sud où l'accès aux infrastructures énergétiques reste limité. Cependant, elle reste ouverte à une approche différenciée par pays.",
+        "priorite": "moyenne",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient cette proposition à condition que les financements soient ciblés pour renforcer les liaisons vers l'Espagne et le sud de la France, afin d'améliorer la sécurité énergétique méditerranéenne. Cela permettrait également de réduire la dépendance envers le gaz importé.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "FAVORABLE",
+        "justification": "L'Italie s'engage activement en faveur de l'hydrogène vert, notamment via les projets maritimes transfrontaliers avec le Portugal et l'Espagne. Cette mesure renforcerait la sécurité énergétique tout en créant des opportunités économiques pour les régions côtières.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient cette proposition à condition que les mesures soient accompagnées d'investissements dans les infrastructures existantes pour éviter une rupture brusque dans l'approvisionnement. Les secteurs industriels du nord (automobile, mécanique) dépendent encore fortement du gaz.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "Cette mesure serait trop contraignante pour l'Italie, surtout en période de crise énergétique. Elle risquerait d'aggraver les tensions dans les régions du sud et de pénaliser les industriels dépendant du gaz naturel.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "FAVORABLE",
+        "justification": "Italie défend fermement cet amendement qu'elle a elle-même proposé pour s'adapter aux réalités économiques et géographiques nationales. L'exclusion des pays les plus vulnérables (comme la Hongrie) permettrait une transition plus équilibrée tout en préservant l'équilibre budgétaire de l'Italie, notamment dans les régions du sud où l'infrastructure énergétique reste fragile.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient cette proposition à condition qu'elle soit associée à des investissements dans la décarbonation progressive des réseaux. Les secteurs industriels du nord (automobile, mécanique) dépendent encore fortement de ces infrastructures.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie s'oppose partiellement à ce report car il pourrait retarder la mise en place d'une transition énergétique cohérente. Cependant, elle reste ouverte à une approche différenciée par pays, notamment pour les régions du sud qui ont besoin de plus de temps pour se préparer.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le nord (industries dépendantes du gaz) et le sud (régions vulnérables économiquement). Évaluer régulièrement l'impact des mesures sur la compétitivité des secteurs mécaniques. Prioriser la coopération transfrontalière méditerranéenne pour les projets hydrogène.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "pays",
+    "generated_at": "2025-10-28T17:46:40.637928",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Porteur Conditionnel - Soutient prioritairement les infrastructures gazières existantes plutôt que de nouveaux investissements.",
+    "enjeux_directive": [
+      "Valoriser ses infrastructures gazières nationales.",
+      "Maintenir son rôle de corridor énergétique vers l'Est.",
+      "Protéger les intérêts économiques des régions industrielles (Silesie).",
+      "Assurer la sécurité énergétique face aux pressions climatiques européennes.",
+      "Équilibrer les objectifs de transition écologique avec les besoins sectoriels industriels."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La stratégie de la Pologne est centrée sur la défense des infrastructures gazières existantes, considérées comme essentielles à sa sécurité énergétique et à son indépendance stratégique vis-à-vis de l'Union européenne. Elle cherche à renforcer les liens avec les pays partageant un intérêt commun pour la stabilité des marchés européens du gaz, notamment en s'appuyant sur le soutien de l'Allemagne et de l'Italie, qui ont également des priorités énergétiques similaires. La Pologne mise également sur sa position géographique clé entre l'Europe de l'Ouest et la Russie pour promouvoir un rôle de médiateur dans les projets énergétiques transfrontaliers. Elle adopte une approche pragmatique, combinant des engagements limités envers la transition écologique avec un soutien actif aux investissements dans le gaz naturel et les infrastructures existantes. Cette stratégie vise à concilier les exigences climatiques européennes avec les besoins économiques nationaux, tout en évitant une dépendance accrue vis-à-vis des énergies renouvelables, qui pourraient affecter la compétitivité industrielle du pays.",
+    "alliances": [
+      "Allemagne (partage d'intérêts sur les infrastructures gazières et la sécurité énergétique européenne)",
+      "Italie (collaboration stratégique dans le cadre des projets transfrontaliers et la stabilité des marchés du gaz)",
+      "PPE (soutien à une transition énergétique progressive et aux investissements industriels sectoriels)",
+      "S&D (priorité aux investissements régions défavorisées, y compris les infrastructures gazières existantes)",
+      "Big Tech (innovation dans les systèmes d'infrastructure énergétique connectée à l'échelle européenne)",
+      "Automobile (protection des secteurs industriels stratégiques dépendants de l'énergie stable et abordable)",
+      "Banque (soutien aux investissements structuraux dans le gaz et les infrastructures existantes)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à la transition énergétique rapide et défense des intérêts du secteur du charbon)",
+      "Conservateurs (préférence pour une transition énergétique progressive plutôt qu'une approche radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés aux moratoires sur les combustibles fossiles)"
+    ],
+    "éléments_d_argumentaire": [
+      "La préservation des infrastructures gazières existantes est cruciale pour assurer la sécurité énergétique nationale et réduire la dépendance vis-à-vis de l'importation russe.",
+      "Les investissements dans le gaz naturel doivent être privilégiés par rapport aux énergies renouvelables, qui sont perçus comme moins fiables pour les besoins industriels à long terme.",
+      "La Pologne a un rôle stratégique en tant que corridor énergétique vers l'Est de l'Europe, ce qui justifie son soutien actif aux projets de connectivité transfrontalière.",
+      "Les régions industrielles comme la Silesie dépendent fortement du gaz naturel pour leur économie, rendant nécessaire une approche équilibrée envers la transition écologique.",
+      "La sécurité énergétique doit rester un objectif prioritaire, ce qui implique de ne pas abandonner trop rapidement les sources d'énergie fossiles non polluantes comme le gaz naturel.",
+      "Les alliances stratégiques avec des pays partageant des intérêts communs (comme l'Italie et l'Allemagne) renforcent la position de la Pologne en matière d'influence énergétique européenne.",
+      "L'industrie automobile polonaise, qui est un secteur clé pour l'économie nationale, nécessite une approche énergétique stable et abordable."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les objectifs climatiques de l'UE et la dépendance polonaise au gaz naturel. Évaluer régulièrement l'impact des mesures sur les secteurs industriels, notamment en Silesie. Surveiller les évolutions politiques de l'Italie et de l'Allemagne dans le cadre des projets transfrontaliers.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "pays",
+    "generated_at": "2025-10-28T18:26:32.013256",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement pour assurer une sécurité énergétique accrue, tout en soulignant l'importance de ne pas compromettre les investissements dans le gaz naturel. Cela permettrait d'équilibrer les besoins nationaux avec les exigences climatiques de l'UE.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "FAVORABLE",
+        "justification": "La Pologne appuie cet amendement car cela renforcerait la connectivité énergétique européenne, y compris vers l'Est et le Sud de l'UE. Cela favoriserait une meilleure répartition des ressources énergétiques et renforcerait les liens transfrontaliers.",
+        "priorite": "très_haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "NEUTRE",
+        "justification": "La Pologne reste neutre sur cet amendement, car elle considère que l'hydrogène vert doit coexister avec le gaz naturel plutôt qu'être présenté comme une alternative immédiate. L'approche devrait être progressive et respecter les besoins industriels du pays.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose partiellement à cet amendement, car elle estime que la transition doit se faire en tenant compte des réalités industrielles et économiques nationales. Une réduction trop abrupte de la consommation de gaz pourrait affecter les secteurs clés comme l'industrie lourde.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne s'oppose fortement à cet amendement, car cela réduirait la sécurité énergétique nationale. Elle estime que les stocks doivent être suffisants pour couvrir des situations d'urgence ou de crise, en particulier face aux risques géopolitiques actuels.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne s'oppose à cet amendement, car elle considère que tous les pays européens devraient contribuer à la sécurité énergétique commune. L'exclusion de certains États membres pourrait créer des déséquilibres et affaiblir l'union européenne.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE",
+        "justification": "La Pologne est l'initiateur de cet amendement, car elle considère que le soutien aux infrastructures gazières existantes est crucial pour assurer la sécurité énergétique nationale et réduire la dépendance vis-à-vis des importations russes. Cet amendement vise à renforcer les liens avec d'autres pays partageant des intérêts similaires (comme l'Italie et l'Allemagne).",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cet amendement pour permettre une mise en œuvre plus progressive de la directive, en tenant compte des réalités économiques et industrielles nationales. Cela offrirait un délai supplémentaire pour s'adapter aux exigences climatiques européennes sans compromettre la stabilité énergétique.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Opposant Modéré - Demande de limiter le stock stratégique à 60 jours pour réduire les coûts.",
+    "enjeux_directive": [
+      "Réduction des charges financières liées aux stocks énergétiques obligatoires",
+      "Préservation des industries traditionnelles (gaz, charbon) face à la transition rapide vers des sources d'énergie renouvelables",
+      "Méthodes de financement alternatifs pour les infrastructures énergétiques existantes",
+      "Impact sur l'indépendance énergétique nationale en cas de réglementation stricte",
+      "Équilibre entre les objectifs climatiques européens et la sécurité économique hongroise"
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Hongrie adopte une approche modérée dans le cadre des négociations européennes, visant à concilier les exigences climatiques avec la préservation de sa sécurité énergétique et son autonomie économique. La stratégie repose sur trois piliers principaux : (1) la défense d'une transition énergétique progressive plutôt que radicale, en s'appuyant sur ses ressources existantes (gaz naturel, centrales thermiques) ; (2) la promotion de solutions à faible coût pour atteindre les objectifs climatiques, notamment par le développement des infrastructures gazières et l'optimisation des stocks stratégiques ; (3) une collaboration étroite avec d'autres États membres partageant des visions similaires sur l'équilibre entre transition écologique et stabilité économique. Cette approche permet à la Hongrie de maintenir un rôle actif au sein de l'Union européenne sans sacrifier ses intérêts nationaux, tout en évitant les tensions majeures avec les partenaires européens.",
+    "alliances": [
+      "Pologne (partage des préoccupations économiques face aux transitions rapides et aux coûts associés)",
+      "Italie (collaboration sur la modernisation des infrastructures gazières existantes)",
+      "S&D (soutien aux investissements dans les régions défavorisées en lien avec les réseaux énergétiques)",
+      "Énergies fossiles (lobby pour la préservation des centrales thermiques et des stocks stratégiques)",
+      "Conservateurs (préférence pour une transition progressive et des mesures à faible coût)",
+      "Banque (soutien aux financements structuraux pour les projets énergétiques nationaux)"
+    ],
+    "oppositions": [
+      "France (défense d'une transition rapide vers l'hydrogène vert et la réduction progressive du gaz naturel)",
+      "Verts/ALE (opposition à toute solution dépendant des énergies fossiles, en faveur de l'innovation écologique)",
+      "Big Tech (préférence pour une infrastructure numérique interconnectée au lieu d'une dépendance à la fois aux énergies traditionnelles et aux réseaux physiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La limitation du stock stratégique à 60 jours permettrait de réduire les coûts de financement pour l'État hongrois, en évitant des investissements massifs dans des infrastructures non rentables sur le long terme.",
+      "Le maintien d'une part significative de gaz naturel dans la stratégie énergétique nationale garantit une certaine autonomie face aux fluctuations du marché international et aux pressions politiques extérieures.",
+      "La modernisation des infrastructures gazières existantes offre un compromis entre les objectifs climatiques européens et l'efficacité économique hongroise, en évitant la nécessité de reconstruire entièrement le réseau énergétique.",
+      "Les investissements dans les régions défavorisées, soutenus par des partenaires comme le S&D, renforcent la cohésion territoriale tout en développant une économie plus diversifiée et moins dépendante du secteur gazier.",
+      "La collaboration avec l'industrie énergétique traditionnelle (via les lobby Énergies fossiles) permet de préserver des emplois locaux et d'éviter un chômage massif dans certaines régions de Hongrie.",
+      "Une transition progressive, appuyée par les Conservateurs et la Banque, évite des perturbations économiques soudaines tout en maintenant une trajectoire vers la neutralité carbone à long terme.",
+      "La position hongroise s'appuie sur l'expérience de certains États membres (comme la Pologne) pour prouver que des solutions énergétiques mixtes peuvent être viables et économiquement justifiées."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-1E",
+        "titre": "Limiter le stock stratégique à 60 jours",
+        "position": "FAVORABLE",
+        "justification": "Hongrie défend fermement cet amendement qu'elle a elle-même proposé, car il réduit significativement les coûts financiers associés aux stocks énergétiques obligatoires. Cet objectif aligne avec ses priorités économiques nationales tout en permettant une transition progressive vers des sources d'énergie renouvelables sans compromettre la sécurité énergétique du pays. Cette mesure répond également à un besoin urgent de réduire les dépenses publiques dans le contexte actuel de crise économique et de pression budgétaire.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Limiter le stock stratégique à 60 jours"
+      },
+      {
+        "amendement": "2-1F",
+        "titre": "Exclure certains États membres des obligations de stockage",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie soutient partiellement cet amendement, car il pourrait permettre aux pays comme la Pologne ou la Hongrie d'éviter des charges financières excessives. Cependant, cette position doit être accompagnée de mesures garantissant une équité dans la répartition des responsabilités énergétiques au sein de l'Union européenne. Une exclusion totale de certaines nations pourrait nuire à la cohésion européenne et créer des déséquilibres sectoriels.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Exclure certains États membres des obligations de stockage"
+      },
+      {
+        "amendement": "2-1G",
+        "titre": "Soutenir prioritairement les infrastructures gazières existantes",
+        "position": "FAVORABLE",
+        "justification": "L'investissement dans les infrastructures gazières actuelles représente une solution économique viable et rentable pour la Hongrie. Cela permet de moderniser des infrastructures dépassées sans avoir à reconstruire entièrement le réseau énergétique, ce qui éviterait des coûts élevés et des perturbations sociales. Ce soutien est particulièrement important pour les régions industrielles du pays.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement les infrastructures gazières existantes"
+      },
+      {
+        "amendement": "2-1D",
+        "titre": "Conditionner les aides à la réduction de la consommation de gaz",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que Hongrie apprécie l'idée d'une transition écologique, elle considère que cette condition est trop restrictive et pourrait nuire à sa capacité économique. Une réduction immédiate de la consommation de gaz risquerait de perturber le fonctionnement industriel et de créer des chômage dans certaines régions. Elle propose donc une approche plus équilibrée, combinant investissements dans l'hydrogène vert avec un maintien temporaire du gaz naturel.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner les aides à la réduction de la consommation de gaz"
+      },
+      {
+        "amendement": "2-1C",
+        "titre": "Inclure un volet hydrogène dans la stratégie énergétique",
+        "position": "NEUTRE",
+        "justification": "Hongrie est prête à soutenir le développement de l'hydrogène vert, mais uniquement s'il est associé à des mesures financières et technologiques qui permettent une transition progressive. Elle considère que la priorité actuelle devrait être donnée aux infrastructures gazières existantes plutôt qu'à un déploiement immédiat de l'hydrogène, qui reste coûteux et peu développé à ce stade.",
+        "priorite": "faible",
+        "origine": "Renouveau Européen",
+        "description": "Inclure un volet hydrogène dans la stratégie énergétique"
+      },
+      {
+        "amendement": "2-1B",
+        "titre": "Accélérer les investissements dans les interconnexions énergétiques",
+        "position": "DEFAVORABLE",
+        "justification": "Hongrie est opposée à une accélération trop rapide des investissements dans les interconnexions énergétiques, car cela pourrait entraîner des coûts élevés sans bénéfices immédiats. Elle préfère une approche plus prudente et mesurée, qui permettrait de mieux surveiller l'impact économique de ces projets sur le pays.",
+        "priorite": "faible",
+        "origine": "Socialistes & Démocrates",
+        "description": "Accélérer les investissements dans les interconnexions énergétiques"
+      },
+      {
+        "amendement": "2-1A",
+        "titre": "Porter le stock stratégique à 120 jours",
+        "position": "DEFAVORABLE",
+        "justification": "L'augmentation du stock stratégique à 120 jours est considérée par Hongrie comme un surcoût inutile et non justifié par les bénéfices économiques ou énergétiques. Elle préfère maintenir le stock actuel à un niveau plus bas, qui lui semble suffisant pour assurer la sécurité énergétique sans compromettre la stabilité financière du pays.",
+        "priorite": "faible",
+        "origine": "Parti Populaire Européen",
+        "description": "Porter le stock stratégique à 120 jours"
+      },
+      {
+        "amendement": "2-1H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie appuie un report de la directive, à condition qu'il soit accompagné de mesures concrètes pour réduire les coûts d'implémentation. Cela permettrait au pays de se préparer plus efficacement et de mieux aligner ses politiques nationales avec les objectifs européens. Cependant, elle refuse un report absolu qui pourrait compromettre la cohésion européenne.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre les secteurs industriels traditionnels (centrales thermiques, gaz) et les objectifs climatiques européens. Évaluer régulièrement l'impact des mesures sur les régions économiquement vulnérables de Hongrie. Maintenir une coopération étroite avec la Pologne pour éviter un isolement politique face aux autres membres de l'Union européenne.",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "pays",
+    "generated_at": "2025-10-28T18:06:49.130071",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Soutien Conditionnel - Prône le report de l'application de la directive de deux ans pour une mise en œuvre progressive.",
+    "enjeux_directive": [
+      "Permettre une adaptation ordonnée de ses infrastructures.",
+      "Garantir l'efficacité à long terme du dispositif."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "impacts_amendements": [
+      {
+        "id": "2-1H",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans",
+        "impact": "Aurait un impact modéré sur la mise en œuvre de la directive."
+      }
+    ],
+    "stratégie": "<think>\nOkay, let's tackle this query step by step. The user wants me to develop a strategy based on the given context and requirements. First, I need to understand the existing strategy, which is currently empty. The context mentions alliances, oppositions, and specific amendments like 2-1H.\n\nThe user specified adding references to key amendments,",
+    "alliances": [],
+    "oppositions": [],
+    "éléments_d_argumentaire": [
+      "Accélérer les investissements dans les technologies énergétiques intelligentes garantit la sécurité énergétique tout en réduisant les coûts opérationnels à long terme pour les ménages et les industries.",
+      "Consolider la résilience des infrastructures transfrontalières renforce la coopération régionale et positionne la Suède comme un acteur clé dans le réseau de transport européen."
+    ],
+    "références": [
+      "s2d1.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "<think>\nOkay, let's start by understanding the user's request. They want me to generate internal notes based on the given scenario and actors. The user specified that I must only use the provided list of actors, which includes countries, European par",
+    "scenario_id": 2,
+    "directive_id": 1,
+    "actor_type": "pays",
+    "generated_at": "2025-10-28T18:47:21.454885",
+    "version": "4.7"
+  }
+]

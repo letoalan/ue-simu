@@ -1,0 +1,72 @@
+/* ==========================================================================
+   Sandbox Party Split-View (Hémicycle d'un côté, Satisfaction de l'autre)
+   ========================================================================== */
+
+.sandbox-party-split-view {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (min-width: 820px) {
+  .sandbox-party-split-view {
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    align-items: stretch;
+  }
+}
+
+.sandbox-split-col-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.sandbox-party-col-hemicycle,
+.sandbox-party-col-satisfaction {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  transition: background-color var(--transition-normal), border-color var(--transition-normal);
+}
+
+.sandbox-hemicycle-box {
+  width: 100%;
+  min-height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sandbox-hemicycle-box .hemicycle-container {
+  width: 100%;
+}
+
+.sandbox-hemicycle-box svg {
+  max-height: 185px;
+  width: 100%;
+}
+
+.sandbox-hemicycle-box .hemicycle-legend {
+  margin-top: 4px;
+  gap: 4px;
+}
+
+.sandbox-hemicycle-box .hemicycle-party-btn {
+  padding: 2px 5px;
+  font-size: 0.72rem;
+}
+
+[data-theme="dark"] .sandbox-party-col-hemicycle,
+[data-theme="dark"] .sandbox-party-col-satisfaction {
+  background: rgba(30, 41, 59, 0.6);
+  border-color: var(--color-border);
+}

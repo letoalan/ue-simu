@@ -1,0 +1,703 @@
+[
+  {
+    "type": "Lobby",
+    "nom": "Big Tech",
+    "actor_id": "tech",
+    "role_europeen": "Représente les acteurs majeurs des technologies de l'information et des plateformes numériques, défendant un cadre mondial harmonisé pour l'économie de la donnée et la cyber-diplomatie.",
+    "enjeux_directive": [
+      "Participer activement à la cyber-diplomatie européenne et aux négociations mondiales sur la gouvernance de l'internet.",
+      "Promouvoir des traités internationaux multilatéraux sur la libre circulation transfrontalière des données et les standards éthiques de l'IA.",
+      "Assurer la protection coordonnée des infrastructures numériques critiques mondiales face aux cyberattaques et aux menaces hybrides.",
+      "Éviter la fragmentation réglementaire internationale et les cyber-frontières numériques."
+    ],
+    "impacts_directive": [
+      "Une représentation diplomatique européenne unifiée facilitera la négociation de traités numériques internationaux cohérents.",
+      "Le secteur technologique pourra s'appuyer sur le réseau diplomatique du SEAE pour défendre des normes numériques ouvertes à l'échelle mondiale."
+    ],
+    "stratégie": "Big Tech privilégie une représentation diplomatique européenne forte et unifiée pour peser dans les instances multilatérales de normalisation numérique (UIT, ONU, OCDE). Elle soutient l'élargissement de la représentation unique (2-5A) et la solidarité diplomatique face aux cybercrises (2-5D), tout en proposant d'associer des experts technologiques aux missions diplomatiques conjointes et à la formation du SEAE (2-5C).",
+    "alliances": [
+      "Renouveau Européen (partage de l'ambition d'une souveraineté numérique et diplomatique mondiale)",
+      "Parti Populaire Européen (coopération sur la cybersécurité et la résilience stratégique)",
+      "France (collaboration sur la régulation de l'IA et la diplomatie technologique)",
+      "Banque et Finance (convergence sur la sécurité des transactions numériques mondiales)"
+    ],
+    "oppositions": [
+      "Conservateurs et Réformistes (crainte de fragmentations bilatérales des normes numériques)",
+      "Hongrie (méfiance face aux restrictions d'accès aux forums technologiques internationaux)"
+    ],
+    "éléments_d_argumentaire": [
+      "La cyber-diplomatie est devenue un champ géopolitique majeur qui nécessite une présence européenne unifiée et hautement qualifiée.",
+      "Une représentation unique de l'UE à l'UIT et à l'ONU garantit que les standards éthiques européens de l'IA prévaudront au niveau mondial.",
+      "Les mécanismes de solidarité diplomatique (2-5D) doivent intégrer l'assistance immédiate en cas de cyberattaques massives déstabilisatrices.",
+      "La formation diplomatique commune (2-5C) doit inclure la compréhension des enjeux numériques mondiaux et de la gouvernance des données."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Veiller à ce que la directive valorise les partenariats public-privé en matière de veille technologique et de cyber-diplomatie.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2026-10-10T17:30:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Big Tech soutient cette proposition pour assurer une voix européenne forte et harmonisée dans toutes les instances internationales de normalisation technologique.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Favorable si le fonds intègre la prévention des cyber-conflits et la surveillance des menaces numériques hybrides.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE",
+        "justification": "La formation commune est l'opportunité de former les diplomates européens aux enjeux de cyber-sécurité et de souveraineté numérique.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Renforce la réponse coordonnée en cas de cyber-crise internationale touchant les infrastructures critiques européennes.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Restreindre la représentation unique risquerait d'exclure les agences internationales de régulation technologique où l'Europe doit parler d'une seule voix.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Préfère un cadre commun homogène pour éviter la divergence des positions technologiques européennes.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Comprend les partenariats bilatéraux mais privilégie une régulation multilatérale harmonisée.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "La vitesse de l'innovation technologique mondiale exige une diplomatie européenne immédiatement opérationnelle.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Énergies Fossiles",
+    "actor_id": "fossiles",
+    "role_europeen": "Représente les acteurs des approvisionnements énergétiques, des infrastructures gazières et pétrolières et des partenariats internationaux de ressources.",
+    "enjeux_directive": [
+      "Sécuriser les corridors d'approvisionnement énergétique internationaux et la stabilité des pays producteurs partenaires.",
+      "Anticiper et gérer l'impact des régimes de sanctions diplomatiques internationales sur les contrats et approvisionnements à long terme.",
+      "Veiller à ce que la diplomatie européenne protège la sécurité énergétique et la continuité des flux en période de crise géopolitique.",
+      "Maintenir des canaux de dialogue diplomatique bilatéraux avec les grands pays exportateurs de ressources énergétiques."
+    ],
+    "impacts_directive": [
+      "Une diplomatie européenne coordonnée peut renforcer le poids des acheteurs européens face aux grands cartels de producteurs.",
+      "Les décisions diplomatiques collectives sur les sanctions ou partenariats auront un impact direct sur la sécurité d'approvisionnement du continent."
+    ],
+    "stratégie": "Le secteur des énergies fossiles privilégie la continuité et la sécurité des approvisionnements. Il soutient les mécanismes de solidarité diplomatique en cas de crise extérieure (2-5D) qui peuvent aider à surmonter les ruptures d'approvisionnement, mais tient à préserver la souplesse des diplomaties bilatérales (2-5G) pour sécuriser des contrats énergétiques vitaux. Il soutient un report (2-5H) pour laisser le temps d'adapter les contrats internationaux aux nouvelles règles de sanctions.",
+    "alliances": [
+      "Pologne (priorité commune à la sécurité d'approvisionnement et à la flexibilité bilatérale)",
+      "Hongrie (défense de la liberté contractuelle et des relations énergétiques spécifiques)",
+      "Conservateurs et Réformistes (soutien à la flexibilité et au réalisme géopolitique)",
+      "Parti Populaire Européen (partage du souci de sécurité énergétique)"
+    ],
+    "oppositions": [
+      "Verts/ALE (désaccord sur l'intégration exclusive de critères écologiques restrictifs dans la diplomatie)",
+      "Renouveau Européen (crainte d'une centralisation diplomatique trop rigide)"
+    ],
+    "éléments_d_argumentaire": [
+      "La sécurité d'approvisionnement énergétique est une composante vitale de la sécurité nationale et européenne qui exige une diplomatie pragmatique.",
+      "Les mécanismes de solidarité diplomatique (2-5D) sont indispensables pour faire face solidairement aux chantages énergétiques extérieurs.",
+      "La flexibilité bilatérale (2-5G) permet de négocier des accords d'approvisionnement d'urgence adaptés aux spécificités géographiques de chaque État.",
+      "Les sanctions diplomatiques doivent être minutieusement calibrées pour ne pas pénaliser la compétitivité et le pouvoir d'achat des citoyens européens."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Veiller à ce que les missions diplomatiques conjointes incluent des attachés spécialisés dans la sécurité des approvisionnements stratégiques.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2026-10-10T17:30:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Favorable si la représentation unifiée renforce le pouvoir de négociation de l'UE auprès des pays producteurs de ressources.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "La prévention des crises dans les pays producteurs et le long des corridors d'approvisionnement est un facteur clé de stabilité énergétique.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "NEUTRE",
+        "justification": "N'affecte pas directement les opérations énergétiques mais soutient la professionnalisation générale.",
+        "priorite": "faible",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Permet de répondre solidairement aux ruptures d'approvisionnement et aux pressions géopolitiques extérieures.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "FAVORABLE",
+        "justification": "Permet de préserver la marge de manœuvre des États dans les enceintes bilatérales ou régionales dédiées à l'énergie.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Comprend le besoin de flexibilité spécifique pour certains pays stratégiques.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "FAVORABLE",
+        "justification": "Les canaux bilatéraux sont cruciaux pour signer et renouveler rapidement les contrats de fourniture d'énergie.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Accorde le délai nécessaire pour sécuriser les contrats d'approvisionnement en cours et adapter les cadres juridiques.",
+        "priorite": "haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Banque et Finance",
+    "actor_id": "finance",
+    "role_europeen": "Représente les institutions bancaires et financières européennes, promouvant la stabilité monétaire, la sécurité des flux de capitaux et l'harmonisation des régulations financières mondiales.",
+    "enjeux_directive": [
+      "Assurer une voix européenne forte et influente au sein des institutions financières mondiales (FMI, Banque mondiale, G20, BRI).",
+      "Coordonner efficacement l'application des régimes de sanctions financières internationales pour garantir la sécurité juridique.",
+      "Promouvoir le rôle international de l'euro et protéger le système financier européen contre les mesures extraterritoriales de pays tiers.",
+      "Faciliter la diplomatie économique et les investissements transfrontaliers sécurisés."
+    ],
+    "impacts_directive": [
+      "Une représentation unique de l'UE au FMI et au G20 renforcera considérablement l'influence monétaire et financière européenne.",
+      "La coordination diplomatique améliorera la prévisibilité juridique lors de l'application de sanctions économiques internationales."
+    ],
+    "stratégie": "Le secteur bancaire et financier soutient activement l'élargissement de la représentation unique (2-5A) dans les enceintes financières multilatérales. Il valorise la solidarité diplomatique (2-5D) comme élément stabilisateur face aux chocs géopolitiques globaux, et appuie la formation diplomatique commune (2-5C) pour que les délégations européennes maîtrisent parfaitement les subtilités de la diplomatie financière et monétaire.",
+    "alliances": [
+      "Allemagne (partage d'intérêts sur la stabilité financière et la discipline budgétaire)",
+      "Parti Populaire Européen (défense de la compétitivité et de la sécurité des investissements)",
+      "Renouveau Européen (soutien au rôle international de l'euro et à la représentation unie)",
+      "Big Tech (coopération sur la sécurité des paiements internationaux et la fintech)"
+    ],
+    "oppositions": [
+      "Hongrie (méfiance face aux restrictions d'accès aux institutions financières internationales)",
+      "Conservateurs et Réformistes (réserves sur la perte d'influence bilatérale des places financières nationales)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Union européenne représente la première puissance commerciale du monde : elle doit parler d'une seule voix forte au FMI et au G20.",
+      "Une diplomatie financière unifiée permet de contrer efficacement l'extraterritorialité des législations de puissances rivales.",
+      "Le mécanisme de solidarité diplomatique (2-5D) renforce la confiance des investisseurs internationaux dans la stabilité européenne.",
+      "La bonne coordination des sanctions financières évite les failles de conformité et protège les banques européennes de risques légaux disproportionnés."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Pousser pour que la représentation unique s'étende prioritairement aux comités de Bâle et aux enceintes multilatérales de réglementation prudentielle.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2026-10-10T17:30:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Renforce l'influence de l'UE sur les politiques monétaires et financières globales (FMI, Banque mondiale, BRI).",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "La prévention des crises géopolitiques protège la stabilité des marchés financiers et évite la volatilité extrême.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE",
+        "justification": "Les diplomates de l'UE doivent être rigoureusement formés aux enjeux macrofinanciers et aux régimes de sanctions.",
+        "priorite": "haute",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Rassure les marchés et renforce la résilience économique collective des États membres.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Affaiblirait la voix européenne dans les enceintes multilatérales économiques stratégiques.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Préfère une cohérence globale pour éviter les distorsions de concurrence entre places financières.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Une coordination européenne collective est indispensable pour peser face aux grands blocs financiers mondiaux.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Un délai d'adaptation technique est acceptable mais l'urgence des réformes financières internationales demeure.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Agrochimie",
+    "actor_id": "agrochimie",
+    "role_europeen": "Représente les industries des intrants agricoles, de la protection des cultures et des biotechnologies exportatrices.",
+    "enjeux_directive": [
+      "Défendre les intérêts exportateurs européens dans les négociations commerciales internationales et à l'OMC.",
+      "Harmoniser les normes sanitaires et phytosanitaires (SPS) à l'international pour lever les barrières non tarifaires.",
+      "Sécuriser les chaînes d'approvisionnement en matières premières agricoles et intrants sur les marchés mondiaux.",
+      "Assurer une diplomatie commerciale proactive pour ouvrir de nouveaux marchés aux produits agroalimentaires européens."
+    ],
+    "impacts_directive": [
+      "Une diplomatie commerciale unifiée donnera plus de poids à l'Union dans les comités SPS et les différends commerciaux à l'OMC.",
+      "Les missions diplomatiques conjointes faciliteront la promotion des normes de qualité et d'exportation européennes."
+    ],
+    "stratégie": "Le secteur de l'agrochimie soutient l'élargissement de la représentation unique à l'OMC et à la FAO (2-5A) pour défendre avec force les standards européens et lutter contre le protectionnisme déguisé. Il accueille favorablement la solidarité diplomatique (2-5D) pour protéger les chaînes logistiques en cas de crise géopolitique, tout en appréciant la flexibilité bilatérale (2-5G) pour les accords phytosanitaires ciblés.",
+    "alliances": [
+      "Italie (défense des exportations et reconnaissance des signes de qualité)",
+      "Socialistes et Démocrates (accord sur la sécurité alimentaire mondiale et la prévention des crises)",
+      "Pharmaceutique (synergies sur les normes biotechnologiques et la propriété intellectuelle)"
+    ],
+    "oppositions": [
+      "Hongrie (désaccord sur la limitation de l'action commerciale multilatérale)",
+      "Verts/ALE (vigilance face aux exigences environnementales unilatérales dans les accords)"
+    ],
+    "éléments_d_argumentaire": [
+      "La diplomatie commerciale européenne unifiée est essentielle pour faire reconnaître nos normes à l'OMC face à la concurrence déloyale.",
+      "L'accès sécurisé aux marchés internationaux et aux matières premières agricoles est une composante clé de la souveraineté alimentaire.",
+      "La formation des diplomates (2-5C) doit inclure la maîtrise des barrières non tarifaires et des règles SPS internationales.",
+      "Le mécanisme de solidarité diplomatique (2-5D) permet de riposter collectivement contre les embargos commerciaux injustifiés."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Encourager le SEAE à nommer des conseillers agricoles dans les représentations diplomatiques communes au sein des pays émergents clés.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2026-10-10T17:30:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Permet de défendre d'une seule voix forte les intérêts commerciaux et les normes SPS européennes à l'OMC et à la FAO.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "La stabilisation des zones rurales et des routes commerciales prévient les ruptures d'approvisionnement.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Soutient la formation à condition qu'elle intègre les compétences en négociation commerciale et scientifique.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Protège les exportations et les investissements européens face aux mesures de rétorsion ou sanctions arbitraires.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Affaiblirait l'Union dans les comités multilatéraux spécialisés en commerce et agriculture.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Préfère un front uni pour éviter la concurrence entre exportateurs agricoles européens sur les marchés tiers.",
+        "priorite": "faible",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Utile pour des protocoles phytosanitaires bilatéraux spécifiques, mais complémentaire du multilatéralisme.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Ouvert à un calendrier progressif si cela garantit la stabilité des flux commerciaux.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Pharmaceutique",
+    "actor_id": "pharma",
+    "role_europeen": "Représente les industries de santé, de biotechnologie et de recherche pharmaceutique innovante.",
+    "enjeux_directive": [
+      "Renforcer la diplomatie sanitaire mondiale et la présence européenne au sein de l'Organisation mondiale de la santé (OMS).",
+      "Défendre les droits de propriété intellectuelle (accords ADPIC/TRIPS) dans les traités et négociations internationales.",
+      "Sécuriser les chaînes d'approvisionnement mondiales en principes actifs et biomédicaments face aux crises sanitaires.",
+      "Promouvoir la reconnaissance mutuelle des autorisations de mise sur le marché et des bonnes pratiques de fabrication."
+    ],
+    "impacts_directive": [
+      "Une représentation unique à l'OMS et à l'OMC assurera une défense unifiée des standards d'innovation et de propriété intellectuelle.",
+      "La solidarité diplomatique permettra une coordination rapide en cas de crise sanitaire transfrontalière majeure."
+    ],
+    "stratégie": "Le secteur pharmaceutique soutient la représentation unique (2-5A) pour renforcer l'Europe dans la gouvernance sanitaire mondiale à l'OMS. Il valorise le mécanisme de solidarité diplomatique (2-5D) qui sécurise la logistique et l'acheminement des traitements en zone de crise, et soutient le fonds préventif (2-5B) pour anticiper les urgences épidémiques mondiales.",
+    "alliances": [
+      "France (collaboration sur l'innovation thérapeutique et la diplomatie sanitaire)",
+      "Renouveau Européen (soutien à la représentation unifiée à l'OMS et à l'OMC)",
+      "Parti Populaire Européen (défense de la propriété intellectuelle et des investissements de recherche)",
+      "Big Tech (coopération sur la santé numérique et les données biomédicales mondiales)"
+    ],
+    "oppositions": [
+      "Hongrie (crainte d'une marginalisation dans les instances sanitaires internationales)",
+      "Gauche Unitaire (tensions sur les flexibilités des brevets et licences obligatoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La diplomatie sanitaire européenne doit parler d'une seule voix forte à l'OMS pour anticiper les futures pandémies mondiales.",
+      "La défense de la propriété intellectuelle dans les traités internationaux est la condition indispensable pour financer la recherche biomédicale de pointe.",
+      "Le mécanisme de solidarité diplomatique (2-5D) garantit la protection des corridors d'approvisionnement en médicaments essentiels en temps de crise.",
+      "Les missions diplomatiques conjointes facilitent les accords de reconnaissance mutuelle réglementaire avec les grandes agences internationales (FDA, PMDA)."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "S'assurer que la représentation unique de l'UE à l'OMS et à l'OMC préserve fermement le cadre des brevets pharmaceutiques face aux demandes de dérogations excessives.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2026-10-10T17:30:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Renforce considérablement la position européenne à l'OMS, à l'OMC et à l'OMPI pour défendre l'innovation et les standards de santé.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "Permet d'intégrer la diplomatie sanitaire préventive et la détection précoce des menaces biologiques mondiales.",
+        "priorite": "haute",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Favorable si la formation intègre la gestion des crises sanitaires et les traités sur la propriété intellectuelle.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Crucial pour coordonner l'aide médicale d'urgence et sécuriser les chaînes d'approvisionnement en santé.",
+        "priorite": "très_haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Pourrait exclure les agences sanitaires et de propriété intellectuelle clés de l'action coordonnée européenne.",
+        "priorite": "haute",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "Privilégie un cadre réglementaire sanitaire unifié sans divisions entre États membres.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "NEUTRE",
+        "justification": "Ouvert aux coopérations bilatérales mais défend la primauté de la coordination européenne sur les normes mondiales.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "Les défis sanitaires mondiaux requièrent une coordination immédiate de l'UE sur la scène internationale.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Lobby",
+    "nom": "Automobile",
+    "actor_id": "auto",
+    "role_europeen": "Représente les constructeurs automobiles et équipementiers européens, défendant le libre-échange, la réduction des barrières douanières et la sécurisation des chaînes de valeur mondiales.",
+    "enjeux_directive": [
+      "Faciliter la conclusion d'accords commerciaux multilatéraux et bilatéraux pour ouvrir les marchés d'exportation de véhicules et pièces.",
+      "Prévenir et lever les barrières tarifaires et non tarifaires pesant sur l'industrie automobile européenne dans le monde.",
+      "Protéger les chaînes d'approvisionnement mondiales face aux tensions diplomatiques et risques d'embargos commerciaux.",
+      "Harmoniser les normes techniques automobiles internationales dans le cadre de la CEE-ONU (Forum mondial WP.29)."
+    ],
+    "impacts_directive": [
+      "Une diplomatie commerciale unifiée donnera plus de poids à l'Union dans les négociations bilatérales avec les grandes puissances économiques.",
+      "Les représentations diplomatiques conjointes faciliteront la résolution rapide des différends douaniers ou d'homologation technique."
+    ],
+    "stratégie": "Le secteur automobile soutient résolument une voix européenne forte et unifiée pour négocier des accords de libre-échange ambitieux et faire tomber les barrières protectionnistes. Il appuie l'élargissement de la représentation unique (2-5A) dans les enceintes commerciales et de normalisation technique (CEE-ONU), et accueille favorablement la solidarité diplomatique (2-5D) pour protéger les chaînes logistiques en cas de crise extérieure.",
+    "alliances": [
+      "Allemagne (défense de la compétitivité et des exportations industrielles mondiales)",
+      "Parti Populaire Européen (appui au libre-échange fondé sur des règles et à la protection industrielle)",
+      "Banque et Finance (soutien au financement des échanges internationaux)",
+      "Big Tech (coopération sur les normes des véhicules autonomes et connectés)"
+    ],
+    "oppositions": [
+      "Hongrie (désaccord sur la limitation de l'action diplomatique commerciale)",
+      "Conservateurs et Réformistes (crainte de positions frileuses sur les accords de libre-échange)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'industrie automobile européenne emploie des millions de personnes et dépend directement de l'accès aux marchés mondiaux d'exportation.",
+      "Une diplomatie européenne unifiée est indispensable pour résister aux mesures protectionnistes et guerres tarifaires des grands blocs concurrents.",
+      "La présence conjointe dans les enceintes de normalisation mondiale (CEE-ONU) garantit que les standards européens de sécurité et d'émissions deviennent les standards mondiaux.",
+      "Le mécanisme de solidarité diplomatique (2-5D) permet d'intervenir rapidement lors de blocages logistiques ou douaniers pénalisant les flux industriels."
+    ],
+    "références": [
+      "s2d5.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Inciter le SEAE à mobiliser son réseau pour faciliter l'accès des constructeurs européens aux matières premières critiques indispensables aux composants électroniques.",
+    "scenario_id": 2,
+    "directive_id": 5,
+    "actor_type": "lobby",
+    "generated_at": "2026-10-10T17:30:00.000000",
+    "version": "4.8",
+    "positions_amendements": [
+      {
+        "amendement": "2-5A",
+        "titre": "Élargir la représentation unique à toutes les organisations internationales",
+        "position": "FAVORABLE",
+        "justification": "Renforce la capacité de l'UE à négocier des accords commerciaux ambitieux et à imposer ses normes techniques à l'échelle mondiale.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir la représentation unique à toutes les organisations internationales"
+      },
+      {
+        "amendement": "2-5B",
+        "titre": "Créer un fonds européen pour la diplomatie préventive",
+        "position": "FAVORABLE",
+        "justification": "La stabilité internationale et la prévention des conflits sont indispensables à la fluidité des chaînes d'approvisionnement industrielles.",
+        "priorite": "moyenne",
+        "origine": "Socialistes & Démocrates",
+        "description": "Créer un fonds européen pour la diplomatie préventive"
+      },
+      {
+        "amendement": "2-5C",
+        "titre": "Conditionner la participation aux missions à la formation diplomatique commune",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Soutient la formation à condition qu'elle renforce les compétences des diplomates en diplomatie économique et industrielle.",
+        "priorite": "moyenne",
+        "origine": "Verts/ALE",
+        "description": "Conditionner la participation aux missions à la formation diplomatique commune"
+      },
+      {
+        "amendement": "2-5D",
+        "titre": "Instaurer un mécanisme de solidarité diplomatique en cas de crise",
+        "position": "FAVORABLE",
+        "justification": "Garantit un soutien diplomatique collectif d'urgence en cas de mesures discriminatoires ou d'embargos visant les exportations européennes.",
+        "priorite": "haute",
+        "origine": "Parti Populaire Européen",
+        "description": "Instaurer un mécanisme de solidarité diplomatique en cas de crise"
+      },
+      {
+        "amendement": "2-5E",
+        "titre": "Limiter la représentation unique à certaines organisations",
+        "position": "DEFAVORABLE",
+        "justification": "Une telle limitation affaiblirait l'impact de l'Europe dans les négociations commerciales et techniques multilatérales.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Limiter la représentation unique à certaines organisations"
+      },
+      {
+        "amendement": "2-5F",
+        "titre": "Exclure certains États membres de la représentation unique",
+        "position": "DEFAVORABLE",
+        "justification": "L'industrie automobile européenne fonctionne comme une chaîne de valeur intégrée transfrontalière qui requiert une voix européenne unie.",
+        "priorite": "moyenne",
+        "origine": "France",
+        "description": "Exclure certains États membres de la représentation unique"
+      },
+      {
+        "amendement": "2-5G",
+        "titre": "Soutenir prioritairement la diplomatie bilatérale nationale",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Préfère une négociation commerciale européenne collective, bien plus puissante face aux superpuissances.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Soutenir prioritairement la diplomatie bilatérale nationale"
+      },
+      {
+        "amendement": "2-5H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "NEUTRE",
+        "justification": "Pragmatique sur le calendrier si cela permet de consolider les instruments de diplomatie économique.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  }
+]

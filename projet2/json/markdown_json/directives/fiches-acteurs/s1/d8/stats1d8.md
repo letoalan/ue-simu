@@ -1,0 +1,79 @@
+# stats1d8
+
+Source : `directives/fiches-acteurs/s1/d8/stats1d8.json`
+
+## Contenu
+
+- **scenario** : `1`
+- **directive** : `8`
+- **nom** : Fédéralisme fiscal européen
+- **valeurs\_prevues** :
+  - **pib\_eu** : `2.4`
+  - **gini\_eu** : `0.3`
+  - **co2\_eu** : `6.0`
+  - **veb\_eu** : `83`
+- **amendements** :
+  - **Élément 1** :
+    - **id** : 1-8A
+    - **origine** : Gauche Unitaire
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.3`
+      - **gini\_eu** : `0.28`
+      - **co2\_eu** : `6.0`
+      - **veb\_eu** : `84`
+  - **Élément 2** :
+    - **id** : 1-8B
+    - **origine** : Verts/ALE
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.29`
+      - **co2\_eu** : `5.8`
+      - **veb\_eu** : `86`
+  - **Élément 3** :
+    - **id** : 1-8C
+    - **origine** : Conservateurs et Réformistes
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.27`
+      - **co2\_eu** : `6.0`
+      - **veb\_eu** : `85`
+  - **Élément 4** :
+    - **id** : 1-8D
+    - **origine** : Socialistes & Démocrates
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.4`
+      - **gini\_eu** : `0.28`
+      - **co2\_eu** : `6.0`
+      - **veb\_eu** : `84`
+  - **Élément 5** :
+    - **id** : 1-8E
+    - **origine** : Suède
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `6.1`
+      - **veb\_eu** : `82`
+  - **Élément 6** :
+    - **id** : 1-8F
+    - **origine** : France
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.32`
+      - **co2\_eu** : `6.1`
+      - **veb\_eu** : `82`
+  - **Élément 7** :
+    - **id** : 1-8G
+    - **origine** : Italie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.6`
+      - **gini\_eu** : `0.31`
+      - **co2\_eu** : `6.2`
+      - **veb\_eu** : `81`
+  - **Élément 8** :
+    - **id** : 1-8H
+    - **origine** : Hongrie
+    - **valeurs\_prevues** :
+      - **pib\_eu** : `2.5`
+      - **gini\_eu** : `0.33`
+      - **co2\_eu** : `6.2`
+      - **veb\_eu** : `81`

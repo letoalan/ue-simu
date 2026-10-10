@@ -1,0 +1,750 @@
+[
+  {
+    "type": "Etat",
+    "nom": "France",
+    "actor_id": "france",
+    "role_europeen": "Porteur - Champion historique de l'exception culturelle et de la francophonie, soutient massivement l'expansion culturelle européenne.",
+    "enjeux_directive": [
+      "Étendre l'influence de la culture française via le cadre européen.",
+      "Renforcer le rayonnement des institutions culturelles françaises.",
+      "Assurer une représentation équitable du français dans les programmes européens d'éducation et de recherche.",
+      "Protéger la souveraineté nationale sur les politiques culturelles tout en participant à l'harmonisation européenne."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de France.",
+      "La position de France reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La France adopte une approche diplomatique centrée sur la défense de l'exception culturelle européenne, en insistant sur la nécessité d'intégrer des mesures favorables à la langue française, aux institutions culturelles nationales et au rayonnement international du patrimoine français. Elle combine un plaidoyer actif pour une plus grande autonomie dans les décisions culturelles avec une volonté de coopération sur des projets européens transversaux (échanges éducatifs, financement artistique). La France mise sur des alliances stratégiques (partis progressistes et conservateurs) et des lobbyings ciblés pour défendre ses intérêts tout en s'engageant dans une transition écologique alignée avec les objectifs climatiques européens.",
+    "alliances": [
+      "Italie (collaboration sur la promotion de l'éducation artistique et culturelle au sein du programme Erasmus+)",
+      "Verts/ALE (soutien à la création d'espaces culturels européens en Europe de l'Est, alignés avec les objectifs climatiques)",
+      "S&D (partage des priorités pour le financement des initiatives artistiques et éducatives dans les régions défavorisées)",
+      "Big Tech (promotion des infrastructures numériques culturelles comme leviers de l'expansion européenne)",
+      "Automobile (protection des secteurs industriels stratégiques, en lien avec la transition écologique)",
+      "Banque (soutien aux investissements structurels dans les projets éducatifs et culturels européens)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition à l'élargissement des fonds artistiques, considérant qu'ils dévient de la priorité nationale de réduction des déficits)",
+      "Conservateurs (préférence pour une transition énergétique et culturelle progressive plutôt que radicale)",
+      "Énergies fossiles (lobbies centrales charbon opposés à toute mesure visant à conditionner les aides européennes à l'adoption de valeurs climatiques)"
+    ],
+    "éléments_d_argumentaire": [
+      "La France souligne la nécessité d'un financement européen dédié aux initiatives artistiques, en particulier pour préserver le rayonnement du cinéma, des arts plastiques et des traditions culturelles régionales.",
+      "Elle défend l'idée d'élargir Erasmus+ à tous les niveaux éducatifs (y compris la formation professionnelle) comme levier de compétitivité européenne et de mobilité des jeunes.",
+      "La France insiste sur le besoin de conditionner les aides européennes à la promotion des valeurs démocratiques, de l'égalité des sexes et du respect des droits humains, en tant que fondamentaux de l'Union.",
+      "Elle milite pour la création de centres culturels européens dans des pays non membres (comme le Maroc ou la Turquie) afin d'étendre l'influence culturelle européenne au-delà des frontières.",
+      "La France s'oppose à l'idée d'exclure certains domaines artistiques du fonds européen, considérant que cela limiterait la diversité créative et l'émergence de nouvelles formes d'expression.",
+      "Elle appuie le soutien prioritaire aux initiatives nationales dans les secteurs culturels, tout en valorisant les synergies européennes entre les institutions artistiques des pays membres."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "La France soutient fermement cet amendement car il aligne avec sa stratégie de promotion de la mobilité éducative à l'échelle européenne. L'élargissement des bénéficiaires permettrait d'intégrer plus de jeunes issus de formations professionnelles et de l'enseignement technique, renforçant ainsi la compétitivité européenne tout en favorisant une circulation transnationale plus large.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE",
+        "justification": "La France s'engage en faveur de cet amendement, car il permettrait d'accorder des subventions ciblées aux secteurs artistiques, y compris à l'audiovisuel et au cinéma. Cela favoriserait la production culturelle européenne, tout en assurant une plus grande visibilité des créations artistiques françaises sur les marchés internationaux.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie cet amendement, mais souligne la nécessité d'une définition claire de ces 'valeurs' pour éviter tout risque de manipulation politique. Elle est prête à s'engager dans un processus collaboratif avec les autres États membres afin que ce conditionnement reste strictement encadré et neutre.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "La France est favorable à la création de tels centres, en particulier dans les pays candidats à l'adhésion européenne ou ceux disposant d'une forte communauté francophone. Cela renforcerait le rôle culturel des institutions européennes et favoriserait un dialogue interculturel plus large.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La France s'oppose à cette restriction, car elle risquerait de marginaliser les jeunes en formation professionnelle. Elle propose un compromis pour inclure ces catégories sans pénaliser la qualité du programme universitaire.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "La France considère que l'exclusion de certains domaines artistiques nuirait à la diversité créative. Elle défend un financement ouvert à tous les secteurs, y compris le numérique, l'art contemporain et les arts traditionnels.",
+        "priorite": "moyenne",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La France appuie cet amendement en tant que moyen de renforcer la souveraineté culturelle des États membres. Cependant, elle insiste sur l'importance d'une collaboration étroite avec les institutions européennes pour éviter tout isolement des initiatives nationales.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "La France s'oppose à ce report, car il pourrait retarder des mesures clés pour le rayonnement culturel européen. Elle préfère un calendrier strict qui garantit l'application rapide et la mise en œuvre effective de la directive.",
+        "priorite": "faible",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions entre le financement des arts et les impératifs budgétaires nationaux (ex: débats sur le budget du ministère de la Culture). Évaluer les risques d'isolement de certains secteurs artistiques français si les fonds européens sont réduits. Assurer une coordination étroite avec les régions pour éviter des inégalités dans l'accès aux subventions culturelles.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-11-03T16:17:32.017987",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Allemagne",
+    "actor_id": "allemagne",
+    "role_europeen": "Porteur - Soutient l'initiative tout en préservant ses propres réseaux culturels (Goethe Institut, DAAD).",
+    "enjeux_directive": [
+      "Maintenir sa position dominante dans les échanges éducatifs.",
+      "Promouvoir la langue allemande et sa recherche académique.",
+      "Sécuriser l'accès aux financements européens pour le développement des infrastructures numériques.",
+      "Renforcer la coopération transnationale en matière de formation professionnelle et d'innovation technologique."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de l'Allemagne.",
+      "La position de l'Allemagne reflète ses préoccupations nationales spécifiques.",
+      "Les mesures européennes pourraient impacter la compétitivité des secteurs industriels clés."
+    ],
+    "impacts_amendements": [],
+    "stratégie": "L'Allemagne adopte une approche de leadership modéré dans le cadre de cette directive, visant à renforcer son rôle d'acteur clé en Europe tout en préservant ses priorités nationales. Elle s'appuie sur des alliances stratégiques pour promouvoir l'expansion du programme Erasmus+ vers tous les niveaux éducatifs, tout en défendant un soutien accru aux initiatives culturelles allemandes (Goethe Institut, DAAD). Parallèlement, elle cherche à concilier ses engagements climatiques avec la préservation des secteurs industriels stratégiques (automobile, énergie) via une transition progressive. Cette stratégie est ancrée dans le désir de maintenir l'équilibre entre coopération européenne et souveraineté nationale, tout en renforçant les liens culturels et économiques avec des partenaires clés comme la France et l'Italie.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (soutien à l'économie de marché et aux infrastructures numériques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'expansion du programme Erasmus+ vers tous les niveaux éducatifs renforce la position de l'Allemagne dans le secteur des formations professionnelles et universitaires.",
+      "Le soutien aux initiatives culturelles allemandes (Goethe Institut, DAAD) permet de promouvoir la langue allemande sur une échelle européenne tout en préservant les identités nationales.",
+      "La priorité donnée aux investissements régionaux via l'axe S&D favorise une répartition plus équitable des ressources européennes, renforçant ainsi le capital social des régions allemandes défavorisées.",
+      "L'intégration de la transition énergétique dans les formations professionnelles prépare un secteur industriel compétitif face aux enjeux climatiques, tout en maintenant un rôle central à l'Allemagne dans la production d'énergie verte (hydrogène vert).",
+      "La coopération avec des acteurs comme Big Tech et le lobby automobile garantit une continuité technologique et industrielle au sein de l'Union européenne.",
+      "Le dialogue avec les partis européens (PPE, S&D) permet de concilier les intérêts économiques allemands avec les objectifs collectifs de l'UE sur la transition écologique."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "À surveiller tensions industrie allemande (Volkswagen, Siemens) et objectifs climatiques directive. Position nucléaire délicate (réticences historiques régions). Équilibrer transition énergétique et compétitivité secteur automobile.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-11-03T16:00:12.861283",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'expansion du programme Erasmus+ vers tous les niveaux éducatifs permettra à l'Allemagne de renforcer sa position dans le secteur de la formation professionnelle et universitaire, tout en favorisant une mobilité accrue des étudiants allemands. Cela correspond également aux objectifs européens de promotion de l'éducation inclusive.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La création d'un fonds européen dédié à l'art favoriserait la promotion culturelle européenne, tout en assurant une contribution proportionnelle de l'Allemagne (via le Goethe Institut et le DAAD) sans affecter les budgets nationaux dédiés aux initiatives culturelles allemandes.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Bien que l'Allemagne soutienne les principes de la construction européenne, elle s'inquiète du risque d'une instrumentalisation excessive des fonds européens pour promouvoir des normes culturelles uniformisées à l'égard des identités nationales.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "NEUTRE",
+        "justification": "L'Allemagne reste neutre sur cette proposition, car elle préfère maintenir la responsabilité de sa diplomatie culturelle (via le Goethe Institut) plutôt que de participer à des initiatives multinationales qui pourraient diluer son influence.",
+        "priorite": "moyenne",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE",
+        "justification": "La limitation du programme aux seuls étudiants universitaires réduirait les opportunités de mobilité des jeunes allemands en formation professionnelle, ce qui pourrait nuire à la compétitivité du secteur industriel allemand.",
+        "priorite": "faible",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Allemagne s'oppose à l'exclusion de certains domaines artistiques, car cela pourrait marginaliser des secteurs culturels importants (comme la musique classique ou le cinéma allemand) qui bénéficient du financement européen.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Allemagne soutient le principe de soutien aux initiatives nationales, à condition que cela ne compromette pas la coopération européenne. Cela permettrait de préserver les spécificités culturelles allemandes tout en favorisant l'intégration européenne.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "DEFAVORABLE",
+        "justification": "L'Allemagne s'oppose au report de l'application, car cela pourrait retarder les bénéfices attendus du programme Erasmus+ pour les étudiants allemands et nuire à la mise en œuvre des objectifs climatiques liés à la transition énergétique.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Italie",
+    "actor_id": "italie",
+    "role_europeen": "Porteur - Demande un soutien prioritaire aux initiatives nationales plutôt qu'aux programmes centralisés.",
+    "enjeux_directive": [
+      "Valoriser son patrimoine culturel exceptionnel.",
+      "Préserver l'autonomie de ses institutions culturelles.",
+      "Protéger les secteurs économiques stratégiques (tourisme, agriculture, artisanat).",
+      "Équilibrer les financements entre régions nord et sud du pays."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Italie.",
+      "La position de Italie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "L'Italie adopte une approche pragmatique, combinant défense des intérêts nationaux à la coopération européenne. Elle priorise les initiatives culturelles locales tout en cherchant un équilibre entre les objectifs européens et les besoins sectoriels italiens (tourisme, agriculture). L'Italie insiste sur une décentralisation des financements pour préserver l'autonomie régionale, tout en soutenant la modernisation des infrastructures culturelles. Elle s'engage dans des alliances avec des pays partageant ses priorités économiques et culturelles, tout en restant vigilante face aux positions qui pourraient menacer son modèle socio-économique ou sa souveraineté culturelle. L'Italie milite activement pour des amendements favorisant les initiatives nationales et un financement ciblé des régions du sud.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Pologne (soutien à la subsidiarité nationale sur les financements culturels)"
+    ],
+    "éléments_d_argumentaire": [
+      "L'Italie défend le patrimoine artistique et historique unique, nécessaire pour le tourisme, un pilier économique.",
+      "Les régions du sud souffrant de sous-investissements nécessitent une allocation prioritaire des fonds européens.",
+      "La subsidiarité doit prévaloir sur les décisions culturelles, pour respecter la diversité locale.",
+      "L'Italie souhaite moderniser ses infrastructures énergétiques sans compromettre l'industrie traditionnelle (ex: sidérurgie).",
+      "Les secteurs agricoles et artisanaux doivent être protégés contre les réglementations trop centralisées.",
+      "La culture italienne, pilier identitaire, doit rester au centre des politiques européennes.",
+      "L'Italie soutient la flexibilité dans l'application des directives pour permettre une adaptation aux réalités locales."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions régions du sud (Calabre, Sicile) et financements directs. Évaluer impact des mesures culturelles sur les secteurs artisanaux. Surveiller l'alignement des objectifs climatiques avec les priorités économiques italiennes.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-11-03T16:32:22.560140",
+    "version": "4.7",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient l'idée de généraliser Erasmus+, mais exige des adaptations pour intégrer les formations professionnelles et techniques (ex: écoles artisanales, enseignement agricole), secteurs clés pour le tissu économique italien. Une extension sans adaptation risquerait d'éloigner des publics moins diplômés, ce qui pourrait nuire à l'inclusion sociale.",
+        "priorite": "haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE",
+        "justification": "L'Italie s'engage à soutenir ce fonds, vu son importance pour le patrimoine culturel et l'économie du tourisme. Cependant, elle souhaite que les projets soient co-financés par les régions locales et qu'ils privilégient la préservation des formes d'art traditionnelles (ex: théâtre antique, artisanship) pour éviter une uniformisation culturelle.",
+        "priorite": "très_haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "L'Italie s'oppose partiellement à cette condition, arguant qu'elle pourrait limiter la liberté de gestion des fonds par les régions. Elle propose plutôt une approche flexible où les valeurs européennes soient encouragées sans imposer un cadre rigide, en respectant la diversité culturelle italienne.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "NEUTRE",
+        "justification": "L'Italie reste neutre sur ce point, préférant que les initiatives culturelles internationales soient développées via les établissements italiens existants (ex: ambassades, académies). Elle ne souhaite pas dédoubler ses ressources en créant de nouveaux centres sans une étude d'impact sur le budget.",
+        "priorite": "faible",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie s'oppose à cette limitation, considérant que les formations professionnelles et techniques (ex: hôtellerie-restauration) sont cruciales pour l'économie italienne. Une réduction du programme aux seuls étudiants universitaires pourrait marginaliser des secteurs clés de la formation.",
+        "priorite": "haute",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "L'Italie s'oppose catégoriquement à l'exclusion de certains domaines artistiques. Elle défend la pluralité des formes d'art, y compris les traditions régionales (ex: musique populaire sicilienne), pour éviter une perte de diversité culturelle et une marginalisation des secteurs non conventionnels.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par l'Italie, vise à garantir que les fonds européens soient utilisés pour des projets nationaux, en particulier dans les régions du sud, et non uniquement pour des initiatives centralisées. Cela permettrait de renforcer la souveraineté italienne tout en favorisant une croissance inclusive, essentielle pour un pays comme l'Italie où les inégalités régionales sont marquées.",
+        "priorite": "très_haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "L'Italie soutient un report, mais uniquement si cela permet une meilleure adaptation aux réalités locales. Elle exige que les régions aient le temps de mettre en place des infrastructures et des cadres juridiques nécessaires pour respecter la directive sans perturber l'économie italienne.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ]
+  },
+  {
+    "type": "Etat",
+    "nom": "Suède",
+    "actor_id": "suede",
+    "role_europeen": "Porteur - Prône le report de l'application de la directive de deux ans pour une mise en œuvre progressive.",
+    "enjeux_directive": [
+      "Adapter le programme aux spécificités nordiques (géographie, énergie renouvelable, système éducatif).",
+      "Garantir l'efficacité des investissements éducatifs dans un contexte de transition écologique.",
+      "Soutenir les initiatives artistiques liées aux valeurs suédoises (protection de la nature, neutralité climatique).",
+      "Mettre en place des centres culturels européens à l'étranger pour promouvoir le modèle scandinave."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Suède.",
+      "La position de Suède reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Suède adopte une approche équilibrée entre innovation, durabilité et coopération multilatérale. Elle privilégie une transition écologique progressive tout en soutenant les investissements dans l'éducation et la culture. L'objectif est de maximiser les bénéfices de la directive tout en protégeant ses secteurs clés (énergie verte, formation professionnelle). La Suède joue un rôle central pour aligner les objectifs climatiques européens avec les réalités nordiques, notamment en matière d'énergie renouvelable. Elle valorise également le développement des arts et de la culture comme leviers de cohésion européenne.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "Verts/ALE (soutien transition écologique + objectifs climatiques)",
+      "S&D (priorité investissements régions défavorisées)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Suède prône une approche éducative inclusive, avec l'élargissement d'Erasmus+ à tous les niveaux pour renforcer la mobilité et la coopération européenne.",
+      "Elle défend un fonds européen dédié aux arts comme levier de cohésion culturelle, en alignement avec ses politiques de préservation du patrimoine.",
+      "La conditionnalité des aides à l'égard des valeurs européennes permet d'assurer une harmonisation des standards éducatifs et culturels.",
+      "L'établissement de centres culturels européens à l'étranger renforce la visibilité de l'UE dans les régions non membres, un objectif stratégique pour Suède.",
+      "Le soutien prioritaire aux initiatives nationales permet de préserver le modèle suédois d'éducation et de développement durable.",
+      "La flexibilité offerte par le report de deux ans garantit une adaptation des politiques éducatives sans compromettre les objectifs climatiques."
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions entre secteurs industriels (Vattenfall, Ericsson) et mesures environnementales. Évaluer impact de la directive sur les régions nordiques en matière d'énergie renouvelable. Surveillance nécessaire des déséquilibres culturels entre initiatives européennes et traditions locales.",
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "FAVORABLE",
+        "justification": "L'élargissement de Erasmus+ aux niveaux d'éducation non universitaires favorise la mobilité et l'apprentissage tout au long de la vie, une priorité stratégique pour Suède. Cela renforce le modèle éducatif suédois, qui valorise l'innovation pédagogique et les compétences transversales.",
+        "priorite": "très_haute",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Suède soutient le financement de la création artistique, mais insiste sur l'inclusion des arts traditionnels (musique folklorique, peinture nordique) dans les critères d'attribution. Cela préserve son héritage culturel tout en encourageant l'innovation.",
+        "priorite": "haute",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "FAVORABLE",
+        "justification": "Cette conditionnalité permet de garantir que les fonds européens servent des objectifs communs, notamment en matière d'éducation et de culture. Suède y voit une opportunité de renforcer l'identité européenne tout en respectant sa propre vision des valeurs.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE",
+        "justification": "La création de centres culturels à l'étranger renforce la présence européenne et promeut le modèle suédois. Suède s'engage à soutenir ces initiatives en particulier dans les régions nordiques et baltes.",
+        "priorite": "très_haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Suède s'oppose à cette restriction car elle limite l'accès à la mobilité pour les jeunes en formation professionnelle. Cependant, elle reconnaît l'importance de cibler les universités pour optimiser les ressources.",
+        "priorite": "moyenne",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "DEFAVORABLE",
+        "justification": "L'exclusion de domaines artistiques est inacceptable pour Suède, qui défend la diversité des expressions culturelles. Elle propose une révision des critères d'éligibilité pour inclure les arts traditionnels.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Suède soutient le renforcement des initiatives nationales, mais avec une condition : que ces initiatives soient alignées sur les objectifs européens de durabilité et d'éducation. Cela évite les duplications inutiles.",
+        "priorite": "moyenne",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE",
+        "justification": "Cet amendement, initié par Suède, permet une mise en œuvre progressive de la directive. Il offre un délai nécessaire pour s'adapter aux spécificités nordiques et garantir une transition écologique et éducative sans compromettre les objectifs climatiques.",
+        "priorite": "très_haute",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-11-03T17:17:29.992788",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Pologne",
+    "actor_id": "pologne",
+    "role_europeen": "Opposant Modéré - Demande de limiter le programme aux étudiants universitaires pour contrôler les coûts.",
+    "enjeux_directive": [
+      "Réduire l'impact budgétaire sur les finances publiques.",
+      "Maintenir le contrôle national sur l'éducation primaire et secondaire.",
+      "Éviter une dépendance accrue aux fonds européens pour la formation professionnelle.",
+      "Protéger les priorités nationales de développement économique en limitant les obligations transfrontalières.",
+      "Préserver la souveraineté éducative face à une harmonisation excessive des politiques européennes."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Pologne.",
+      "La position de Pologne reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "La Pologne adopte une approche pragmatique dans la négociation, combinant des positions fermes sur les enjeux budgétaires et éducatifs avec un souci de maintenir un équilibre diplomatique. Elle privilégie les alliances stratégiques avec des acteurs partageant ses préoccupations économiques (comme la France) ou sa vision conservatrice du rôle de l'État dans l'éducation (comme le PPE). En parallèle, elle engage des discussions constructives sur les amendements liés à la transition écologique (ex. : 2-7A), tout en défendant un cadre limité pour Erasmus+. Son objectif est de garantir une autonomie nationale dans l'orientation de ses politiques éducatives, tout en évitant des conflits majeurs avec les institutions européennes.",
+    "alliances": [
+      "France (partage objectif nucléaire + investissements bas-carbone)",
+      "Italie (collaboration hydrogène vert + relance industrielle)",
+      "PPE (priorité souveraineté nationale + résistance à l'harmonisation excessive des politiques éducatives)",
+      "S&D (soutien aux investissements dans les régions défavorisées de Pologne)",
+      "Big Tech (innovation infrastructures numériques énergies propres)",
+      "Automobile (protection secteurs industriels stratégiques)",
+      "Banque (soutien investissements structuraux énergie + innovation)"
+    ],
+    "oppositions": [
+      "Hongrie (opposition moratoire charbon + défense industries fossiles)",
+      "Conservateurs (préférence transition progressive vs radicale)",
+      "Énergies fossiles (lobbies centrales charbon - opposés moratoires)",
+      "Verts/ALE (soutien à l'élargissement d'Erasmus+ aux écoles secondaires)"
+    ],
+    "éléments_d_argumentaire": [
+      "La Pologne souligne que le budget national est déjà sous pression en raison des coûts de la transition écologique et du soutien aux régions défavorisées. Une extension de Erasmus+ à tous les niveaux d'éducation pourrait aggraver cette situation.",
+      "L'Éducation primaire et secondaire relève de la compétence nationale, selon l'article 178 du Traité sur le fonctionnement de l'Union européenne. La Pologne considère que la directive encroche dans ce domaine, risquant de fragiliser son autonomie éducative.",
+      "Les amendements visant à limiter Erasmus+ aux étudiants universitaires permettent de mieux contrôler les coûts et d'aligner le programme sur les priorités nationales de formation professionnelle.",
+      "La Pologne propose un modèle de collaboration avec la France et l'Italie pour renforcer les infrastructures numériques, tout en maintenant des normes éducatives distinctes adaptées à ses besoins locaux.",
+      "Les lobbyistes d'industries traditionnelles (charbon) influencent le gouvernement polonais par leur importance économique, ce qui justifie une position défavorable aux amendements favorisant la transition écologique.",
+      "La Pologne met en avant ses réussites dans l'éducation universitaire pour justifier un focus sur les étudiants de niveau supérieur, considérés comme plus pertinentes pour l'innovation et le développement économique.",
+      "Les acteurs du secteur automobile (ex. : Volkswagen) soutiennent la position polonaise en argumentant que des investissements massifs dans Erasmus+ détourneraient les ressources de projets industriels critiques.",
+      "La Pologne insiste sur l'importance d'une transition énergétique progressive, alignée avec ses objectifs nationaux de développement économique et la nécessité de protéger les emplois."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "DEFAVORABLE",
+        "justification": "La Pologne est opposée à l'élargissement de Erasmus+ aux écoles primaires et secondaires, car cela augmenterait le fardeau financier sur un budget national déjà tendu. Elle préfère concentrer les ressources sur des initiatives universitaires qui alignent mieux avec ses objectifs stratégiques économiques et ses priorités nationales en matière d'éducation.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "NEUTRE",
+        "justification": "La Pologne reste neutre sur ce point, car elle considère que les financements culturels relèvent davantage des compétences nationales. Cependant, elle pourrait s'engager dans des collaborations bilatérales avec d'autres pays pour soutenir certaines initiatives artistiques transfrontalières.",
+        "priorite": "faible",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "La Pologne s'oppose à une conditionnalisation stricte, car elle pourrait limiter l'autonomie des pays membres dans la définition de leur propre identité culturelle. Cependant, elle reste ouverte à une approche plus flexible qui respecte les traditions nationales tout en promouvant les valeurs européennes.",
+        "priorite": "moyenne",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient cette initiative en principe, mais souhaite que les centres soient situés dans des pays membres et non dans des régions externes. Elle considère que cela renforcerait la présence européenne tout en préservant la souveraineté culturelle des États.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "FAVORABLE",
+        "justification": "La Pologne est l'initiatrice de cet amendement. Elle défend fermement cette proposition pour limiter les coûts et concentrer les investissements européens sur des initiatives universitaires alignées avec ses priorités économiques stratégiques. Cet amendement permet également de mieux contrôler l'utilisation des fonds dans un contexte budgétaire national complexe.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "NEUTRE",
+        "justification": "La Pologne reste neutre sur ce point, car elle estime que les financements artistiques devraient être déterminés localement. Elle pourrait s'engager dans des collaborations bilatérales pour soutenir certaines disciplines artistiques sans imposer une exclusion systématique.",
+        "priorite": "faible",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE",
+        "justification": "La Pologne soutient cette proposition pour préserver son autonomie dans la gestion de ses programmes éducatifs. Elle considère que les initiatives locales devraient être prioritaires, tout en restant ouverte à des collaborations européennes ciblées.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "La Pologne soutient un report conditionnel, car cela lui permettrait d'adapter les structures administratives et budgétaires pour une mise en œuvre plus efficace. Cependant, elle reste ouverte à un calendrier flexible qui respecte les priorités européennes.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller les tensions avec le lobby des énergies fossiles (ex. : centrales charbon) et leur influence sur la position polonaise. Évaluer régulièrement l'impact de la directive sur les secteurs industriels stratégiques comme l'automobile (Volkswagen). Surveiller également les tensions avec le parti Verts/ALE concernant l'élargissement d'Erasmus+.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-11-03T17:03:49.272788",
+    "version": "4.7"
+  },
+  {
+    "type": "Etat",
+    "nom": "Hongrie",
+    "actor_id": "hongrie",
+    "role_europeen": "Opposant - Veut exclure certains domaines artistiques du fonds pour préserver les valeurs nationales.",
+    "enjeux_directive": [
+      "Protéger l'identité culturelle nationale.",
+      "Éviter l'influence de contenus jugés incompatibles avec les valeurs conservatrices.",
+      "Assurer la souveraineté nationale dans les décisions culturelles.",
+      "Préserver le financement des secteurs artistiques traditionnels.",
+      "Limiter l'intervention européenne dans les politiques culturelles internes."
+    ],
+    "impacts_directive": [
+      "La directive affectera les intérêts stratégiques et économiques de Hongrie.",
+      "La position de Hongrie reflète ses préoccupations nationales spécifiques."
+    ],
+    "stratégie": "Hongrie adopte une approche défensive et pragmatique, combinant des alliances tactiques avec des acteurs partageant un conservatisme culturel, tout en contestant les initiatives jugées trop progressistes. Son objectif principal est de protéger l'identité nationale face à l'homogénéisation culturelle européenne, en particulier dans les domaines artistiques. Elle s'appuie sur des partenariats avec des pays et des partis souverainistes pour renforcer sa position. La stratégie implique également un lobbying ciblé auprès des lobbies économiques (comme la Banque) pour justifier le rejet d'aides conditionnées à des principes européens jugés incompatibles avec les traditions hongroises. En parallèle, Hongrie utilise des amendements comme ceux liés à la culture et aux valeurs nationales pour détourner l'attention de ses propres défis économiques ou politiques. Cette approche vise à maintenir un équilibre entre la nécessaire participation européenne et la préservation d'une autonomie stratégique dans les domaines culturels.",
+    "alliances": [
+      "Pologne (partage des préoccupations sur la souveraineté nationale et l'identité culturelle)",
+      "S&D (priorité aux investissements sociaux en concordance avec les politiques sociales hongroises)",
+      "Verts/ALE (soutien à certaines initiatives environnementales, comme le développement de centres culturels européens à l’étranger)",
+      "PPE (accords sur la stabilité politique et la défense des valeurs nationales face aux pressions idéologiques)",
+      "Big Tech (collaboration sur les infrastructures numériques pour renforcer l'autonomie technologique du pays)",
+      "Énergies fossiles (soutien à la protection des industries traditionnelles, comme le charbon, malgré les pressions climatiques)",
+      "Banque (appui aux politiques économiques nationales et à la préservation de l'indépendance budgétaire)"
+    ],
+    "oppositions": [
+      "France (privilégie une approche plus progressiste dans le financement artistique et culturel)",
+      "Conservateurs (soutiennent un cadre plus flexible mais contestent les exclusions sectorielles proposées par Hongrie)",
+      "Énergies fossiles (opposés aux moratoires sur le charbon, malgré la position de Hongrie)"
+    ],
+    "éléments_d_argumentaire": [
+      "La préservation de l'identité nationale est un pilier fondamental de la politique hongroise, justifiant une gestion autonome des financements culturels.",
+      "Les valeurs européennes doivent être alignées sur les principes historiques et sociaux de la République Hongroise, évitant toute influence extérieure perçue comme intrusive.",
+      "La souveraineté nationale dans les décisions culturelles est un pilier non négociable pour le gouvernement hongrois.",
+      "Les exclusions sectorielles visent à protéger des formes artistiques traditionnelles jugées plus compatibles avec l'identité nationale.",
+      "La défense des industries traditionnelles (comme le charbon) est un argument économique et politique clé pour justifier la résistance aux directives climatiques strictes.",
+      "Les financements conditionnés à des principes idéologiques européens sont perçus comme une atteinte à la liberté d'expression artistique.",
+      "La création de centres culturels européens à l’étranger pourrait renforcer les liens avec les diasporas, un enjeu stratégique pour Hongrie.",
+      "L’élargissement d’Erasmus+ à tous les niveaux éducatifs est jugé inutile face aux priorités nationales de développement du système scolaire."
+    ],
+    "positions_amendements": [
+      {
+        "amendement": "2-7A",
+        "titre": "Élargir Erasmus+ à tous les niveaux d’éducation",
+        "position": "DEFAVORABLE",
+        "justification": "L’élargissement d’Erasmus+ à tous les niveaux éducatifs est perçu comme une dilution des priorités nationales. Hongrie considère que l’approche actuelle, limitée aux étudiants universitaires, permet un meilleur contrôle sur la qualité de l’éducation et son alignement avec les valeurs culturelles du pays.",
+        "priorite": "moyenne",
+        "origine": "Renouveau Européen",
+        "description": "Élargir Erasmus+ à tous les niveaux d’éducation"
+      },
+      {
+        "amendement": "2-7B",
+        "titre": "Instaurer un fonds européen pour la création artistique",
+        "position": "DEFAVORABLE_PARTIEL",
+        "justification": "Le financement de la création artistique est souhaitable, à condition qu’il ne s’inscrive pas dans une vision européenne unifiée qui pourrait marginaliser les formes d’art traditionnelles. Hongrie propose des alternatives axées sur des soutiens nationaux plus souples.",
+        "priorite": "moyenne",
+        "origine": "Gauche Unitaire",
+        "description": "Instaurer un fonds européen pour la création artistique"
+      },
+      {
+        "amendement": "2-7C",
+        "titre": "Conditionner les aides à la promotion des valeurs européennes",
+        "position": "DEFAVORABLE",
+        "justification": "Hongrie s’oppose à toute conditionnalité liée aux valeurs européennes, considérant que cela pourrait compromettre l’autonomie nationale dans la gestion de ses politiques culturelles et sociales.",
+        "priorite": "haute",
+        "origine": "Conservateurs et Réformistes",
+        "description": "Conditionner les aides à la promotion des valeurs européennes"
+      },
+      {
+        "amendement": "2-7D",
+        "titre": "Créer des centres culturels européens à l’étranger",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Hongrie soutient la création de centres culturels, à condition qu’ils respectent les traditions nationales et servent d’instruments pour renforcer le rôle de la diaspora hongroise. Cependant, elle souligne l’importance d’un contrôle strict sur leur orientation.",
+        "priorite": "haute",
+        "origine": "Socialiste et Démocrates",
+        "description": "Créer des centres culturels européens à l’étranger"
+      },
+      {
+        "amendement": "2-7E",
+        "titre": "Limiter le programme aux étudiants universitaires",
+        "position": "FAVORABLE",
+        "justification": "Cette proposition aligne les objectifs de l’Union européenne avec les priorités nationales hongroises, en limitant la portée du programme à un niveau où l’influence culturelle peut être mieux maîtrisée.",
+        "priorite": "très_haute",
+        "origine": "Pologne",
+        "description": "Limiter le programme aux étudiants universitaires"
+      },
+      {
+        "amendement": "2-7F",
+        "titre": "Exclure certains domaines artistiques du fonds",
+        "position": "FAVORABLE",
+        "justification": "Hongrie est l’initiatrice de cet amendement, qui vise à protéger des formes d’art jugées incompatibles avec les valeurs culturelles nationales. Cet élargissement du champ d’exclusion permet un renforcement de la souveraineté nationale dans le financement artistique.",
+        "priorite": "très_haute",
+        "origine": "Hongrie",
+        "description": "Exclure certains domaines artistiques du fonds"
+      },
+      {
+        "amendement": "2-7G",
+        "titre": "Soutenir prioritairement les initiatives nationales",
+        "position": "FAVORABLE",
+        "justification": "Hongrie s’aligne sur cette proposition, qui renforce la capacité des États membres à déterminer leurs propres politiques culturelles sans interférence extérieure. Cela permet de mieux respecter les spécificités nationales.",
+        "priorite": "haute",
+        "origine": "Italie",
+        "description": "Soutenir prioritairement les initiatives nationales"
+      },
+      {
+        "amendement": "2-7H",
+        "titre": "Reporter l’application de la directive de deux ans",
+        "position": "FAVORABLE_CONDITIONNEL",
+        "justification": "Un report permettrait à Hongrie d’ajuster ses politiques culturelles en fonction des pressions européennes. Cependant, cette mesure doit être associée à un renforcement des garanties nationales sur la gestion des fonds.",
+        "priorite": "moyenne",
+        "origine": "Suède",
+        "description": "Reporter l’application de la directive de deux ans"
+      }
+    ],
+    "références": [
+      "s2d7.json",
+      "scenario2.json"
+    ],
+    "notes_internes": "Surveiller tensions avec l'Allemagne et l'Italie sur financement artistique. Évaluer impacts directive sur industries culturelles traditionnelles. Surveiller pressions partis progressistes (Verts/ALE, S&D) menaçant exclusions sectorielles.",
+    "scenario_id": 2,
+    "directive_id": 7,
+    "actor_type": "pays",
+    "generated_at": "2025-11-03T16:47:56.100964",
+    "version": "4.7"
+  }
+]
