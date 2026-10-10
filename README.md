@@ -6,7 +6,9 @@
 [![Mode Clair / Sombre](https://img.shields.io/badge/Thème-Clair%20%7C%20Sombre-purple)](#)
 [![Mobile Ready](https://img.shields.io/badge/Ergonomie-Smartphone%20%26%20Desktop-orange)](#)
 
-> **UE-SIMU** est une plateforme web pédagogique et interactive de simulation institutionnelle conçue pour l'enseignement supérieur, le secondaire et les formations aux affaires européennes. Elle permet d'incarner 19 acteurs décisionnels (États, partis politiques, lobbies, Commission), de négocier des amendements et de simuler en temps réel les trajectoires socio-économiques et environnementales de l'Union européenne sur 10 ans (2025–2034).
+> **UE-SIMU** est une plateforme web pédagogique et interactive de simulation institutionnelle conçue pour l'enseignement supérieur, le secondaire et les formations aux affaires européennes. Elle constitue une **libre adaptation numérique** du jeu pédagogique [**« Panique à la Commission : un jeu de rôle pour comprendre l’Europe »**](https://www.electeursenherbe.fr/jeu-pedagogique-panique-a-la-commission-un-jeu-de-role-pour-comprendre-leurope/) créé par l'association *Électeurs en herbe*.
+>
+> Elle permet d'incarner 19 acteurs décisionnels (États, partis politiques, lobbies, Commission), de négocier des amendements et de simuler en temps réel les trajectoires socio-économiques et environnementales de l'Union européenne sur 10 ans (2025–2034).
 
 ---
 
@@ -147,6 +149,7 @@ Pour consulter l'inventaire exhaustif de tous les modules, leurs responsabilité
 
 ---
 
-## 📄 Licence
+## 📄 Crédits & Licence
 
-Ce projet est sous licence MIT — libre d'utilisation et d'adaptation dans un cadre éducatif et institutionnel.
+- **Inspiration originale** : Libre adaptation numérique et augmentée du jeu de rôle pédagogique [**Panique à la Commission**](https://www.electeursenherbe.fr/jeu-pedagogique-panique-a-la-commission-un-jeu-de-role-pour-comprendre-leurope/) développé par l'association *Électeurs en herbe*.
+- **Licence logicielle** : Ce projet est sous licence MIT — libre d'utilisation et d'adaptation dans un cadre éducatif et institutionnel.
