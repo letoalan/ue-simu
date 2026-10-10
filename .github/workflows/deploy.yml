@@ -1,0 +1,77 @@
+name: Déploiement UE-SIMU sur GitHub Pages
+
+on:
+  # Déclenchement automatique lors d'un push sur la branche principale
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - 'projet2/**'
+      - '.github/workflows/deploy.yml'
+
+  # Déclenchement manuel depuis l'onglet Actions de GitHub
+  workflow_dispatch:
+
+# Permissions requises pour le déploiement sur GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Évite les déploiements concurrents simultanés
+concurrency:
+  group: 'pages'
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Compilation & Tests
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projet2
+
+    steps:
+      - name: 📥 Récupération du code source
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Configuration de Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+          cache-dependency-path: projet2/package-lock.json
+
+      - name: 📦 Installation des dépendances
+        run: npm ci
+
+      - name: 🔍 Vérification TypeScript (0 erreur)
+        run: npm run typecheck
+
+      - name: 🧪 Exécution des tests unitaires (Vitest)
+        run: npm test
+
+      - name: 🏗️ Compilation du bundle de production (Vite)
+        run: npm run build
+
+      - name: 🌐 Configuration de GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 📤 Téléversement de l'artefact de déploiement
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: projet2/dist
+
+  deploy:
+    name: Déploiement en ligne
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 🚀 Déploiement sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
