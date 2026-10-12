@@ -28,6 +28,7 @@ flowchart TD
     Engine -->|Update Result| Store
 
     subgraph UI Mobile-First
+        Store --> UI_Landing["Vue Accueil, Parcours & Atelier Cartes"]
         Store --> UI_Directives["Vue Directives & Négociation"]
         Store --> UI_Simulateur["Vue Simulateur & Graphiques"]
         Store --> UI_Acteurs["Vue Fiches Acteurs"]

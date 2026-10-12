@@ -2,7 +2,7 @@
 
 Ce document constitue la référence exhaustive de l'architecture modulaire de `projet2/src/`.  
 **Règle stricte d'ingénierie logicielle appliquée : aucun fichier ne dépasse 200 lignes.**  
-Tous les modules sont strictement typés en TypeScript, testés avec Vitest (105 tests unitaires et d'intégration validés), et garantissent une expérience responsive fluide (bureau et smartphones tactiles).
+Tous les modules sont strictement typés en TypeScript, testés avec Vitest (111 tests unitaires et d'intégration validés), et garantissent une expérience responsive fluide (bureau et smartphones tactiles).
 
 ---
 
@@ -23,6 +23,7 @@ Tous les modules sont strictement typés en TypeScript, testés avec Vitest (105
    * 6.7. Moteur Graphique Chart.js
    * 6.8. Pédagogie & Institutions
    * 6.9. Composants Flottants & Accessibilité
+   * 6.10. Page d'Accueil & Négociation Institutionnelle
 7. [Feuilles de Styles Modulaires & Ergonomie Mobile (`src/styles/`)](#7-feuilles-de-styles-modulaires--ergonomie-mobile-srcstyles)
 
 ---
@@ -204,6 +205,43 @@ Tous les modules sont strictement typés en TypeScript, testés avec Vitest (105
 ### 6.9. Composants Flottants & Accessibilité (`src/ui/components/`)
 * **`src/ui/components/audioDock.ts`** (198 lignes) : Lecteur audio dockable persistant en bas d'écran avec barre de progression temporelle, sauts $\pm 15$s, vitesse de lecture et volume.
 
+### 6.10. Page d'Accueil & Négociation Institutionnelle (`src/ui/landing/`)
+Ce module regroupe la landing page d'accueil, le sélecteur de parcours UX, l'atelier d'impression des 89 cartes de négociation/influence (format A7 sur planches A4), la vidéo de fond immersive et le lecteur complet de guides. Il est structuré en **3 sous-dossiers thématiques** et respecte rigoureusement la règle d'aucun fichier > 200 lignes :
+
+#### 6.10.1. Sous-dossier Cartes (`src/ui/landing/cards/`)
+* **`cardsTypes.ts`** (28 lignes) : Contrats d'interfaces des cartes de jeu (`ActorCardDefinition`, `ActorDefinition`, `CardType`).
+* **`actorsCatalog.ts`** (199 lignes) : Catalogue officiel des 19 acteurs décisionnels (Commission, 6 États, 6 Partis, 6 Lobbies) et métadonnées associées.
+* **`cardsData.ts`** (65 lignes) : Générateur du stock strict des 89 cartes (`generateAllCards()`, `filterCardsByActors()`, `generateReplacementCard()`).
+* **`cardsWorkshopTypes.ts`** (22 lignes) : Types pour l'atelier des cartes (`WorkshopMode`, `PreviewTab`, `PrintFilter`, `WorkshopState`, `Sheet`).
+* **`cardsWorkshopCardRenderers.ts`** (83 lignes) : Gabarits HTML stricts pour les faces Recto et Verso des cartes A7 (format 74mm × 105mm).
+* **`cardsWorkshopSheets.ts`** (82 lignes) : Découpage en planches 2×2 (miroir horizontal au verso), calcul des métriques et visionneuse de planches A4.
+* **`cardsWorkshopSubPanels.ts`** (115 lignes) : Sélecteurs de mode de tirage (acteur unique, sur-mesure, réimpression) et lecteur 3D unitaire avec retournement interactif.
+* **`cardsWorkshopPrint.ts`** (121 lignes) : Moteur d'impression papier/PDF isolé (`@media print`) et exportateur de document HTML autonome (`ue-simu-cartes-89.html`).
+* **`cardsWorkshopEvents.ts`** (134 lignes) : Gestionnaires d'événements de l'atelier (modes, filtres, sélection d'acteurs, impression, export).
+* **`cardsWorkshopView.ts`** (197 lignes) : Contrôleur orchestrateur principal de l'Atelier des 89 cartes et état local.
+
+#### 6.10.2. Sous-dossier Guides Référentiels (`src/ui/landing/guides/`)
+* **`guideTypes.ts`** (24 lignes) : Structures des guides pédagogiques (`GuideDefinition`, `GuideSection`).
+* **`guideJoueurData.ts`** (114 lignes) : Référentiel complet du Guide du Participant (règles, rôles, codécision, débriefing).
+* **`guideAnimateurData.ts`** (86 lignes) : Guide de Conduite de Séance (animation du trilogue, quorums, arbitrage des cartes).
+* **`guideMasterData.ts`** (71 lignes) : Guide du Maître du Jeu (graine PRNG, configuration, équilibrage des 19 rôles, sauvegardes).
+* **`guidesData.ts`** (13 lignes) : Dictionnaire réactif agrégeant les 3 guides (`GUIDES_DATA`).
+* **`guideReaderRenderers.ts`** (109 lignes) : Rendu des 3 niveaux de lecture (Essentiel en 2 min, Guide complet avec sommaire latéral, Ressources).
+* **`guideReaderExport.ts`** (41 lignes) : Utilitaires de téléchargement du fichier Markdown source et du modèle de Registre officiel en CSV.
+* **`guideReaderView.ts`** (177 lignes) : Contrôleur du lecteur de guides, bascule d'onglets, navigation fluide et déclenchement de parcours.
+
+#### 6.10.3. Sous-dossier Composants (`src/ui/landing/components/`)
+* **`landingHero.ts`** (79 lignes) : En-tête Hero immersive avec **vidéo de background YouTube intégrée** (`_k5MnY859Wo`), calque transparent adapté clair/sombre, statut de session active et boutons d'appel à l'action.
+* **`landingJourneys.ts`** (92 lignes) : Grille comparative des 3 parcours (Participant, Animateur, Maître du Jeu).
+* **`landingResources.ts`** (88 lignes) : Bloc podcasts audio immersifs et modèle de registre de cartes CSV à télécharger.
+* **`landingFooter.ts`** (39 lignes) : Pied de page officiel avec liens rapides et crédits d'adaptation.
+* **`workflowView.ts`** (99 lignes) : Présentation des 3 temps pédagogiques de la séance (Négocier le texte, Négocier les moyens, Comprendre les conséquences).
+
+#### 6.10.4. Racine du Module (`src/ui/landing/`)
+* **`landingView.ts`** (146 lignes) : Orchestrateur maître de la page d'accueil assemblant l'ensemble des blocs avec écouteurs d'événements.
+* **`index.ts`** (14 lignes) : Barrel file réexportant l'ensemble des modules du dossier `landing/`.
+* Forwarders de compatibilité ascendante (`cardsData.ts`, `guidesData.ts`, `cardsWorkshopView.ts`, etc.).
+
 ---
 
 ## 7. Feuilles de Styles Modulaires & Ergonomie Mobile (`src/styles/`)
@@ -212,7 +250,7 @@ Chaque feuille de style respecte rigoureusement la limite des 200 lignes et assu
 
 1. **`src/styles/tokens.css`** (125 lignes) : Tokens CSS, palette chromatique UE, variables HSL clair/sombre, élévations et typographies.
 2. **`src/styles/layout.css`** (85 lignes) : Structure principale `#app`, conteneur `.main-layout`, cartes de gestion de session locale et grille responsive (`.grid-2`, `.grid-3`).
-3. **`src/styles/header.css`** (110 lignes) : En-tête applicative ergonomique mobile-first (`.app-header`), répartition sur 2 niveaux sur smartphone (`header-top-row` avec brand + scenario-badge + theme-toggle, et `journey-switcher` en pleine largeur), et intégration continue fluide sur desktop via `display: contents`.
+3. **`src/styles/header.css`** (190 lignes) : En-tête applicative ergonomique compacte sur 2 niveaux : Ligne 1 (Logo UE-SIMU, navigation desktop centrée, sélecteur clair/sombre) et Ligne 2 (Sélecteur de parcours UX et **cartouche de rappel de contexte actif** `.active-context-cartouche` côte à côte, équilibrés et harmonieux).
 4. **`src/styles/nav.css`** (168 lignes) : Navigation desktop et barre inférieure mobile `mobile-nav` adaptée aux hauteurs d'écran de smartphones.
 5. **`src/styles/journey.css`** (66 lignes) : Sélecteur segmenté de parcours UX (Participant, Animateur, Maître du Jeu) fluide sur smartphone avec répartition égale des onglets.
 6. **`src/styles/components.css`** (128 lignes) : Composants de base, cartes, boutons tactiles ($\ge 44$px de hauteur minimale), formulaires.
@@ -230,4 +268,21 @@ Chaque feuille de style respecte rigoureusement la limite des 200 lignes et assu
 18. **`src/styles/sandboxActors.css`** (159 lignes) : Onglets acteurs scrollables, sélecteur d'entité et grille KPI compacte sur petit écran.
 19. **`src/styles/sandboxAmendments.css`** (75 lignes) : Liste des amendements avec bascule en direct et bouton déclencheur dégradé.
 20. **`src/styles/sandboxPartySplit.css`** (65 lignes) : Vue dédoublée spécifique aux partis politiques (hémicycle interactif et graphique de satisfaction côte à côte).
-21. **`src/styles/main.css`** (25 lignes) : Point d'entrée CSS intégrant les 20 modules par `@import`.
+21. **`src/styles/landing.css`** (19 lignes) : Agrégateur modulaire important l'ensemble des 14 feuilles de styles du sous-dossier `src/styles/landing/`.
+22. **Sous-dossier `src/styles/landing/`** (14 feuilles thématiques) :
+    * `landingLayout.css` (57 lignes) : Conteneur racine de la page d'accueil et grille de section.
+    * `landingHero.css` (176 lignes) : Bannière héroïque avec **vidéo de background YouTube**, iframe non bloquant, calque semi-transparent clair/sombre et actions principales.
+    * `landingJourneys.css` (108 lignes) : Grille comparative et cartes des 3 parcours UX.
+    * `landingWorkshop.css` (198 lignes) : Conteneurs des étapes de l'atelier, sélecteurs radio et barre d'onglets.
+    * `landingCustomActors.css` (71 lignes) : Grille de sélection tactile des 19 acteurs et badges d'entités.
+    * `landingCards.css` (173 lignes) : Rendu dimensionnel strict des cartes A7 (74mm × 105mm, repères de coupe en pointillés).
+    * `landingFlipCard.css` (60 lignes) : Scène 3D avec retournement interactif de carte au clic.
+    * `landingSheets.css` (71 lignes) : Rendu des planches réelles 2×2 pour impression A4 portrait et guide d'impression.
+    * `landingWorkflow.css` (194 lignes) : Cartes de déroulement en 3 temps et flèches directionnelles.
+    * `landingGuideReader.css` (197 lignes) : Lecteur d'articles avec sommaire sticky et navigation par niveau.
+    * `landingCallouts.css` (52 lignes) : Blocs d'alerte pédagogiques (info, avertissement) et tableaux stylisés.
+    * `landingResources.css` (160 lignes) : Fiches de ressources téléchargeables, carrousel audio podcast et boîte CSV.
+    * `landingFooter.css` (78 lignes) : Pied de page officiel avec mentions légales et partenaires.
+    * `landingPrint.css` (79 lignes) : Règles d'isolation de l'impression `@media print` avec gestion des sauts de page A4.
+23. **`src/styles/main.css`** (26 lignes) : Point d'entrée CSS principal intégrant tous les modules applicatifs.
+

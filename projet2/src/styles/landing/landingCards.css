@@ -1,0 +1,172 @@
+/* ==========================================================================
+   UE-SIMU Official A7 Cards (74mm × 105mm)
+   ========================================================================== */
+
+/* UE Card Dimensions & Styles (Format officiel A7 : 74mm × 105mm) */
+.ue-card {
+  width: 74mm !important;
+  height: 105mm !important;
+  max-width: 74mm !important;
+  max-height: 105mm !important;
+  min-width: 74mm !important;
+  min-height: 105mm !important;
+  background: #ffffff !important;
+  color: #172237 !important;
+  border: 1px dashed #777777 !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  display: flex !important;
+  flex-direction: column !important;
+  box-sizing: border-box !important;
+  font-family: Arial, Helvetica, sans-serif !important;
+  user-select: none;
+  overflow: hidden !important;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  position: relative;
+}
+
+.ue-card.empty {
+  border: 1px dashed #cbd5e1 !important;
+  opacity: 0.25;
+  background: transparent !important;
+}
+
+.ue-card-header {
+  height: 11mm;
+  min-height: 11mm;
+  max-height: 11mm;
+  padding: 2mm 3mm;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 9px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+
+.neg .ue-card-header, .neg .ue-score-box {
+  background: #174d87;
+  color: #ffffff;
+}
+
+.inf .ue-card-header, .inf .ue-score-box {
+  background: #713a8c;
+  color: #ffffff;
+}
+
+.card-id-badge {
+  font-family: var(--font-mono), monospace;
+  font-size: 9px;
+  font-weight: 700;
+  background: rgba(0, 0, 0, 0.25);
+  padding: 1px 4px;
+  border-radius: 2px;
+  letter-spacing: 0.3px;
+}
+
+.ue-card-identity {
+  display: flex;
+  align-items: center;
+  gap: 2.5mm;
+  height: 16mm;
+  min-height: 16mm;
+  max-height: 16mm;
+  padding: 2mm 3mm;
+  font-size: 11px;
+  font-weight: 700;
+  background: #f8fafc;
+  border-bottom: 1px solid #e2e8f0;
+  flex-shrink: 0;
+  box-sizing: border-box;
+}
+
+.ue-card-logo {
+  width: 18mm;
+  height: 12mm;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.ue-card-body {
+  padding: 1.5mm 3mm 2mm;
+  font-size: 9.5px;
+  line-height: 1.2;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.ue-field-label {
+  font-weight: 700;
+  font-size: 8.5px;
+  margin: 1.2mm 0 0.4mm;
+  color: #1e293b;
+  line-height: 1.1;
+}
+
+.ue-field-value {
+  margin: 0 0 1mm;
+  font-size: 9px;
+  color: #334155;
+  line-height: 1.2;
+}
+
+.ue-field-desc {
+  margin: 0.8mm 0 1.2mm;
+  font-size: 8.5px;
+  color: #475569;
+  line-height: 1.2;
+}
+
+.ue-field-line {
+  border-bottom: 1px solid #8892a3;
+  height: 3.8mm;
+  margin-bottom: 0.5mm;
+}
+
+.ue-score-box {
+  text-align: center;
+  font-weight: 700;
+  padding: 1.5mm 2mm;
+  margin: 1.5mm 0;
+  font-size: 12px;
+  border-radius: 3px;
+  line-height: 1.2;
+}
+
+.ue-score-sub {
+  font-size: 8.5px;
+  font-weight: 400;
+  display: block;
+  margin-top: 1px;
+}
+
+.ue-card-notice {
+  font-size: 7px;
+  color: #64748b;
+  text-align: center;
+  display: block;
+  line-height: 1.15;
+  margin-top: 1mm;
+}
+
+.ue-status-box {
+  font-size: 8px;
+  margin: 1.2mm 0 0.8mm;
+  border: 1px solid #cbd5e1;
+  padding: 1mm 1.5mm;
+  border-radius: 2px;
+  background: #f8fafc;
+  line-height: 1.25;
+}
+
+.status-item {
+  white-space: nowrap;
+}

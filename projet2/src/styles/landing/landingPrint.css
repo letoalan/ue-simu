@@ -1,0 +1,78 @@
+/* ==========================================================================
+   UE-SIMU Print Isolation & Dedicated @media print Rules
+   ========================================================================== */
+
+#uePrintCardsContainer {
+  display: none;
+}
+
+@media print {
+  /* Masquer le layout de l'application interactive pendant l'impression */
+  body.is-printing-cards #headerContainer,
+  body.is-printing-cards #mainContainer,
+  body.is-printing-cards #audioDockContainer,
+  body.is-printing-cards #mobileNavContainer,
+  body.is-printing-cards .app-header,
+  body.is-printing-cards .mobile-nav {
+    display: none !important;
+  }
+
+  /* Afficher uniquement les planches d'impression */
+  body.is-printing-cards #uePrintCardsContainer {
+    display: block !important;
+  }
+
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+
+  html, body {
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+    color: #172237 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .print-page {
+    width: 100%;
+    max-width: 190mm;
+    height: auto !important;
+    min-height: 0 !important;
+    page-break-after: always;
+    break-after: page;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    padding-top: 4mm;
+    margin: 0 auto;
+    box-sizing: border-box;
+  }
+
+  .print-page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+
+  .print-caption {
+    text-align: center;
+    font-size: 9px;
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 5mm;
+    line-height: 1;
+  }
+
+  .print-grid {
+    display: grid;
+    grid-template-columns: 74mm 74mm;
+    grid-template-rows: 105mm 105mm;
+    gap: 8mm;
+    margin: 0 auto;
+    width: 156mm;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+}

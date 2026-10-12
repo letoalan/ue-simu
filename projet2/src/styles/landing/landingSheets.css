@@ -1,0 +1,70 @@
+/* ==========================================================================
+   UE-SIMU Planches d'Impression Réelle (A4 Portrait, 2×2 Cartes A7)
+   ========================================================================== */
+
+.sheets-viewer-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  overflow-x: auto;
+  padding: 10px 0;
+}
+
+.sheet-pair-container {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.sheet-paper {
+  width: 210mm;
+  min-height: 276mm;
+  background: white;
+  border: 1px solid #ccc;
+  box-shadow: var(--shadow-md);
+  padding-top: 6mm;
+  padding-bottom: 6mm;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+
+.sheet-caption {
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+  color: #475569;
+  margin-bottom: 5mm;
+}
+
+.sheet-grid {
+  display: grid;
+  grid-template-columns: 74mm 74mm;
+  grid-template-rows: 105mm 105mm;
+  gap: 8mm;
+  margin: 0 auto;
+  width: 156mm;
+}
+
+/* Print Guide Banner */
+.print-guide-banner {
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 16px 20px;
+}
+
+.print-guide-banner h4 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+}
+
+.print-guide-steps {
+  margin: 0;
+  padding-left: 20px;
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}

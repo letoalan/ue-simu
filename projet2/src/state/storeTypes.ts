@@ -13,7 +13,7 @@ import type {
   FinancialAgreement
 } from '../domain/financeTypes';
 
-export type TabId = 'intro' | 'institutions' | 'scenario' | 'actors' | 'vote' | 'finance' | 'pedagogy' | 'simulator';
+export type TabId = 'landing' | 'intro' | 'institutions' | 'scenario' | 'actors' | 'vote' | 'finance' | 'pedagogy' | 'simulator';
 
 export type VoteChoice = 'pour' | 'abstention' | 'contre';
 

@@ -3,7 +3,7 @@ import { toggleTheme } from '../../state/theme';
 
 export function renderHeader(container: HTMLElement): void {
   const state = store.getState();
-  const scenarioTitle = state.scenarioId === 1 ? 'S1 : Écologie' : 'S2 : Géopolitique';
+  const scenarioTitle = state.scenarioId === 1 ? 'S1 : Écologie & Climat' : 'S2 : Sécurité & Géopolitique';
   const defaultDirNom = state.scenarioId === 1 ? 'Pacte vert innovant' : 'Sécurité énergétique';
   const directiveId = state.selectedDirective?.id ?? 1;
   const directiveNom = state.selectedDirective?.nom ?? defaultDirNom;
@@ -15,43 +15,49 @@ export function renderHeader(container: HTMLElement): void {
   container.innerHTML = `
     <header class="app-header">
       <div class="header-inner">
+        <!-- Ligne 1 : Marque à gauche, Navigation principale au centre, Thème à droite -->
         <div class="header-top-row">
           <a href="#" class="brand" id="brandLogo">
             <img src="./medias/images/flags/ue.jpg" alt="Drapeau UE" class="brand-flag" />
             <span class="brand-title">UE-SIMU</span>
           </a>
 
-          <div class="header-top-actions">
-            <div class="scenario-badge" id="headerScenarioBadge" title="${scenarioTitle} — ${directiveLabel}">
-              <span>🏛️</span>
-              <span id="badgeScenarioName">${scenarioTitle}</span>
-              <span class="scenario-badge-sep">•</span>
-              <span id="badgeDirectiveName" class="badge-directive-tag">${directiveLabel}</span>
-            </div>
+          <nav class="desktop-nav" aria-label="Navigation principale">
+            ${renderDesktopNavItems(state, unlocked)}
+          </nav>
 
-            <!-- Bascule Mode Clair / Sombre -->
+          <div class="header-top-actions">
             <button class="theme-toggle-btn" id="btnThemeToggle" aria-label="${isDark ? 'Passer en mode clair' : 'Passer en mode sombre'}" title="${isDark ? 'Passer en mode clair (☀️)' : 'Passer en mode sombre (🌙)'}">
               <span class="theme-toggle-icon">${isDark ? '☀️' : '🌙'}</span>
             </button>
           </div>
         </div>
 
-        <!-- Sélecteur de Parcours UX -->
-        <div class="journey-switcher" role="group" aria-label="Sélecteur de parcours UX">
-          <button class="journey-btn ${j === 'participant' ? 'active' : ''}" data-journey="participant" title="Mon rôle, négocier, comprendre, résultats">
-            🎓 Participant
-          </button>
-          <button class="journey-btn ${j === 'animateur' ? 'active' : ''}" data-journey="animateur" title="Conduite de séance, ordre du jour, votes, projection">
-            🎙️ Animateur
-          </button>
-          <button class="journey-btn ${j === 'maitre_du_jeu' ? 'active' : ''}" data-journey="maitre_du_jeu" title="Configuration, attribution des groupes, sauvegardes">
-            ⚙️ Maître du Jeu
-          </button>
-        </div>
+        <!-- Ligne 2 : Barre de contexte (Sélecteur de parcours + Cartouche actif côte à côte) -->
+        <div class="header-context-bar">
+          <div class="journey-switcher" role="group" aria-label="Sélecteur de parcours UX">
+            <button class="journey-btn ${j === 'participant' ? 'active' : ''}" data-journey="participant" title="Mon rôle, négocier, comprendre, résultats">
+              🎓 Participant
+            </button>
+            <button class="journey-btn ${j === 'animateur' ? 'active' : ''}" data-journey="animateur" title="Conduite de séance, ordre du jour, votes, projection">
+              🎙️ Animateur
+            </button>
+            <button class="journey-btn ${j === 'maitre_du_jeu' ? 'active' : ''}" data-journey="maitre_du_jeu" title="Configuration, attribution des groupes, sauvegardes">
+              ⚙️ Maître du Jeu
+            </button>
+          </div>
 
-        <nav class="desktop-nav" aria-label="Navigation principale">
-          ${renderDesktopNavItems(state, unlocked)}
-        </nav>
+          <div class="active-context-cartouche" id="activeContextCartouche" role="button" tabindex="0" title="Cliquer pour changer de scénario ou de directive">
+            <div class="cartouche-body">
+              <span class="cartouche-icon">🏛️</span>
+              <span class="cartouche-pill">Actif</span>
+              <span class="cartouche-scenario"><strong>${scenarioTitle}</strong></span>
+              <span class="cartouche-sep">•</span>
+              <span class="cartouche-directive"><strong>${directiveLabel}</strong></span>
+            </div>
+            <span class="cartouche-action">Changer ✏️</span>
+          </div>
+        </div>
       </div>
     </header>
   `;
@@ -65,6 +71,7 @@ function renderDesktopNavItems(state: any, unlocked: boolean): string {
 
   if (j === 'participant') {
     return `
+      <button class="nav-btn ${t === 'landing' ? 'active' : ''}" data-tab="landing">📖 Aide & Matériel</button>
       <button class="nav-btn ${t === 'actors' ? 'active' : ''}" data-tab="actors">Mon Rôle 🎭</button>
       <button class="nav-btn ${t === 'vote' ? 'active' : ''}" data-tab="vote">Négocier 📜</button>
       <button class="nav-btn ${t === 'pedagogy' ? 'active' : ''}" data-tab="pedagogy">Comprendre 💡</button>
@@ -74,6 +81,7 @@ function renderDesktopNavItems(state: any, unlocked: boolean): string {
   }
   if (j === 'animateur') {
     return `
+      <button class="nav-btn ${t === 'landing' ? 'active' : ''}" data-tab="landing">📖 Aide & Matériel</button>
       <button class="nav-btn ${t === 'intro' ? 'active' : ''}" data-tab="intro">Séance 📋</button>
       <button class="nav-btn ${t === 'scenario' ? 'active' : ''}" data-tab="scenario">Propositions 📜</button>
       <button class="nav-btn ${t === 'vote' ? 'active' : ''}" data-tab="vote">Votes 🗳️</button>
@@ -82,6 +90,7 @@ function renderDesktopNavItems(state: any, unlocked: boolean): string {
     `;
   }
   return `
+    <button class="nav-btn ${t === 'landing' ? 'active' : ''}" data-tab="landing">📖 Aide & Matériel</button>
     <button class="nav-btn ${t === 'intro' ? 'active' : ''}" data-tab="intro">Accueil 🇪🇺</button>
     <button class="nav-btn ${t === 'scenario' ? 'active' : ''}" data-tab="scenario">Directives 📜</button>
     <button class="nav-btn ${t === 'actors' ? 'active' : ''}" data-tab="actors">Rôles 👥</button>
@@ -101,18 +110,21 @@ export function renderMobileNav(container: HTMLElement): void {
   container.innerHTML = `
     <nav class="mobile-nav" aria-label="Navigation mobile">
       ${j === 'participant' ? `
-        <button class="mobile-nav-btn ${t === 'actors' ? 'active' : ''}" data-tab="actors"><span class="mobile-nav-icon">🎭</span><span>Mon Rôle</span></button>
+        <button class="mobile-nav-btn ${t === 'landing' ? 'active' : ''}" data-tab="landing"><span class="mobile-nav-icon">📖</span><span>Aide</span></button>
+        <button class="mobile-nav-btn ${t === 'actors' ? 'active' : ''}" data-tab="actors"><span class="mobile-nav-icon">🎭</span><span>Rôle</span></button>
         <button class="mobile-nav-btn ${t === 'vote' ? 'active' : ''}" data-tab="vote"><span class="mobile-nav-icon">📜</span><span>Négocier</span></button>
         <button class="mobile-nav-btn ${t === 'pedagogy' ? 'active' : ''}" data-tab="pedagogy"><span class="mobile-nav-icon">💡</span><span>Comprendre</span></button>
         <button class="mobile-nav-btn mobile-nav-btn-simulator ${t === 'simulator' ? 'active' : ''}" data-tab="simulator"><span class="mobile-nav-icon">📊</span><span>Résultats</span></button>
         <button class="mobile-nav-btn ${t === 'finance' ? 'active' : ''} ${!unlocked ? 'locked' : ''}" data-tab="finance"><span class="mobile-nav-icon">${unlocked ? '💶' : '🔒'}</span><span>Finances</span></button>
       ` : j === 'animateur' ? `
+        <button class="mobile-nav-btn ${t === 'landing' ? 'active' : ''}" data-tab="landing"><span class="mobile-nav-icon">📖</span><span>Aide</span></button>
         <button class="mobile-nav-btn ${t === 'intro' ? 'active' : ''}" data-tab="intro"><span class="mobile-nav-icon">📋</span><span>Séance</span></button>
         <button class="mobile-nav-btn ${t === 'scenario' ? 'active' : ''}" data-tab="scenario"><span class="mobile-nav-icon">📜</span><span>Propositions</span></button>
         <button class="mobile-nav-btn ${t === 'vote' ? 'active' : ''}" data-tab="vote"><span class="mobile-nav-icon">🗳️</span><span>Votes</span></button>
         <button class="mobile-nav-btn mobile-nav-btn-simulator ${t === 'simulator' ? 'active' : ''}" data-tab="simulator"><span class="mobile-nav-icon">📽️</span><span>Projection</span></button>
         <button class="mobile-nav-btn ${t === 'finance' ? 'active' : ''} ${!unlocked ? 'locked' : ''}" data-tab="finance"><span class="mobile-nav-icon">${unlocked ? '💶' : '🔒'}</span><span>Finances</span></button>
       ` : `
+        <button class="mobile-nav-btn ${t === 'landing' ? 'active' : ''}" data-tab="landing"><span class="mobile-nav-icon">📖</span><span>Aide</span></button>
         <button class="mobile-nav-btn ${t === 'intro' ? 'active' : ''}" data-tab="intro"><span class="mobile-nav-icon">🇪🇺</span><span>Accueil</span></button>
         <button class="mobile-nav-btn ${t === 'scenario' ? 'active' : ''}" data-tab="scenario"><span class="mobile-nav-icon">📜</span><span>Directives</span></button>
         <button class="mobile-nav-btn ${t === 'actors' ? 'active' : ''}" data-tab="actors"><span class="mobile-nav-icon">👥</span><span>Rôles</span></button>
@@ -133,15 +145,23 @@ export function renderMobileNav(container: HTMLElement): void {
 function attachHeaderEvents(container: HTMLElement): void {
   container.querySelector('#brandLogo')?.addEventListener('click', (e) => {
     e.preventDefault();
-    store.setActiveTab('intro');
+    store.setActiveTab('landing');
   });
 
   container.querySelector('#btnThemeToggle')?.addEventListener('click', () => {
     toggleTheme();
   });
 
-  container.querySelector('#headerScenarioBadge')?.addEventListener('click', () => {
+  const cartouche = container.querySelector('#activeContextCartouche');
+  cartouche?.addEventListener('click', () => {
     store.setActiveTab('scenario');
+  });
+  cartouche?.addEventListener('keydown', (e: Event) => {
+    const ke = e as KeyboardEvent;
+    if (ke.key === 'Enter' || ke.key === ' ') {
+      ke.preventDefault();
+      store.setActiveTab('scenario');
+    }
   });
 
   container.querySelectorAll('.journey-btn').forEach(btn => {

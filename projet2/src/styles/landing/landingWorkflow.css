@@ -1,0 +1,193 @@
+/* ==========================================================================
+   UE-SIMU Bloc 3 : Déroulement (Workflow) & Règles du Jeu
+   ========================================================================== */
+
+.workflow-section {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.workflow-header-group {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.workflow-badge {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--color-primary);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.workflow-title {
+  font-size: 2rem;
+  font-weight: 800;
+  margin: 0 0 10px;
+}
+
+.workflow-subtitle {
+  font-size: 1.05rem;
+  color: var(--color-text-muted);
+  margin: 0;
+}
+
+.workflow-steps-container {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr auto 1fr;
+  align-items: stretch;
+  gap: 12px;
+}
+
+@media (max-width: 960px) {
+  .workflow-steps-container {
+    grid-template-columns: 1fr;
+  }
+  .workflow-arrow {
+    transform: rotate(90deg);
+    margin: 8px auto;
+  }
+}
+
+.workflow-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition-normal);
+}
+
+.workflow-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--color-primary);
+}
+
+.workflow-card-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.workflow-step-badge {
+  font-size: 0.78rem;
+  font-weight: 800;
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  padding: 4px 10px;
+  border-radius: var(--radius-full);
+}
+
+.workflow-step-icon {
+  font-size: 1.6rem;
+}
+
+.workflow-step-name {
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin: 0;
+}
+
+.workflow-step-summary {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--color-primary);
+  margin: 0;
+}
+
+.workflow-details-list {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 0.88rem;
+  color: var(--color-text-muted);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex-grow: 1;
+}
+
+.workflow-step-footer {
+  margin-top: 8px;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.step-tag {
+  background: var(--color-surface-hover);
+  padding: 4px 10px;
+  border-radius: var(--radius-sm);
+}
+
+.warning-footer {
+  color: var(--color-warning);
+}
+
+.workflow-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: var(--color-primary);
+  font-weight: 800;
+}
+
+.workflow-methodology-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 20px;
+}
+
+.methodology-icon {
+  font-size: 1.8rem;
+  flex-shrink: 0;
+}
+
+.methodology-content h4 {
+  margin: 0 0 6px;
+  font-size: 1.05rem;
+  color: var(--color-text-main);
+}
+
+.methodology-content p {
+  margin: 0 0 6px;
+  font-size: 0.92rem;
+  color: var(--color-text-muted);
+  line-height: 1.5;
+}
+
+/* Rules Mini Card */
+.workshop-rules-card {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  box-shadow: var(--shadow-sm);
+}
+
+.card-type-pill {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: var(--radius-sm);
+  font-weight: 700;
+  font-size: 0.75rem;
+}
+
+.card-type-pill.neg {
+  background: #174d87;
+  color: white;
+}
+
+.card-type-pill.inf {
+  background: #713a8c;
+  color: white;
+}

@@ -1,5 +1,6 @@
-// Layout
+// Layout & Landing
 export { renderHeader, renderMobileNav } from './layout/navigation';
+export { renderLandingView } from './landing/landingView';
 
 // Immersion & Rôles
 export { renderIntroView } from './intro/introCarouselView';

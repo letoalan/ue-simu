@@ -1,0 +1,196 @@
+/* ==========================================================================
+   UE-SIMU Guide Reader & Markdown Article Styles
+   ========================================================================== */
+
+.guide-reader {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  margin-bottom: 32px;
+}
+
+.reader-header-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+  background: var(--color-surface-hover);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.reader-guide-tabs {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.reader-guide-btn {
+  padding: 8px 16px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  font-weight: 700;
+  font-size: 0.92rem;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.reader-guide-btn.active {
+  background: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.reader-version-badge {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.reading-levels-bar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.levels-switcher {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.level-btn {
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.level-btn.active {
+  background: var(--color-primary-light);
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+
+.reader-quick-actions {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.reader-body-layout {
+  padding: 24px;
+  min-height: 380px;
+}
+
+.full-guide-container {
+  display: grid;
+  grid-template-columns: 240px 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+@media (max-width: 850px) {
+  .full-guide-container {
+    grid-template-columns: 1fr;
+  }
+  .guide-toc-sidebar {
+    display: none;
+  }
+}
+
+.guide-toc-sidebar {
+  position: sticky;
+  top: 90px;
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 16px;
+}
+
+.toc-title {
+  font-weight: 800;
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 8px;
+}
+
+.toc-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.toc-link {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+  line-height: 1.35;
+}
+
+.toc-link:hover {
+  color: var(--color-primary);
+  font-weight: 600;
+}
+
+.guide-content-article {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.guide-content-header {
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 16px;
+}
+
+.guide-content-badge {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--color-primary);
+}
+
+.guide-article-title {
+  margin: 6px 0 4px;
+  font-size: 1.85rem;
+  font-weight: 800;
+}
+
+.guide-article-subtitle {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 1rem;
+}
+
+.guide-section-block {
+  scroll-margin-top: 100px;
+}
+
+.section-heading {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin: 0 0 12px;
+  color: var(--color-primary);
+}
+
+.section-html-body {
+  font-size: 0.96rem;
+  line-height: 1.65;
+  color: var(--color-text-main);
+}

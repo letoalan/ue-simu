@@ -41,7 +41,7 @@ class AppStore {
       selectedCountry: 'DE',
       selectedParty: 'PPE',
       selectedLobby: 'BIG_TECH',
-      activeTab: 'intro',
+      activeTab: 'landing',
       userJourney: 'participant',
       seed: initialSeed,
       simulationResult: runSimulation({ scenarioId: initialScenarioId, inputs: initialInputs, seed: initialSeed }),

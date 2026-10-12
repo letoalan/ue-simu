@@ -6,6 +6,7 @@ import { renderAudioDock } from './ui/components/audioDock';
 import {
   renderHeader,
   renderMobileNav,
+  renderLandingView,
   renderIntroView,
   renderScenarioView,
   renderSimulatorView,
@@ -45,6 +46,9 @@ function initApp(): void {
     renderMobileNav(mobileNavContainer);
 
     switch (state.activeTab) {
+      case 'landing':
+        renderLandingView(mainContainer);
+        break;
       case 'intro':
         renderIntroView(mainContainer);
         break;
@@ -70,7 +74,7 @@ function initApp(): void {
         renderInstitutionsView(mainContainer);
         break;
       default:
-        renderIntroView(mainContainer);
+        renderLandingView(mainContainer);
     }
   };
 

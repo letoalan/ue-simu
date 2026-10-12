@@ -1,0 +1,197 @@
+/* ==========================================================================
+   UE-SIMU Bloc 2 : Atelier des Cartes (Commandes & Sélecteurs)
+   ========================================================================== */
+
+.cards-workshop {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.workshop-step-box {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: 24px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.step-box-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.step-num {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--color-primary);
+  color: white;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+}
+
+.step-title {
+  margin: 0;
+  font-size: 1.3rem;
+  font-weight: 800;
+}
+
+.step-desc {
+  margin: 2px 0 0;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.material-mode-selector {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 12px;
+}
+
+.mode-radio-card {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 14px;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  cursor: pointer;
+  background: var(--color-surface);
+  transition: border-color var(--transition-fast), background-color var(--transition-fast);
+}
+
+.mode-radio-card:hover {
+  background: var(--color-surface-hover);
+  border-color: var(--color-primary);
+}
+
+.mode-radio-card.active {
+  border-color: var(--color-primary);
+  background: var(--color-primary-light);
+}
+
+.radio-card-title {
+  font-weight: 700;
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+.radio-card-sub {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  line-height: 1.35;
+}
+
+.mode-subpanel {
+  padding: 16px;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-surface-hover);
+}
+
+.subpanel-label {
+  display: block;
+  font-weight: 700;
+  font-size: 0.9rem;
+  margin-bottom: 8px;
+}
+
+.form-select {
+  width: 100%;
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  font-size: 0.95rem;
+}
+
+.active-batch-metrics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+}
+
+.metric-chip {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: 10px;
+  text-align: center;
+  background: var(--color-surface);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.metric-chip.highlight {
+  border-color: var(--color-primary);
+  background: var(--color-primary-light);
+}
+
+.chip-val {
+  font-size: 1.4rem;
+  font-weight: 800;
+}
+
+.chip-lbl {
+  font-size: 0.75rem;
+  color: var(--color-text-muted);
+}
+
+.preview-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.preview-tabs {
+  display: flex;
+  gap: 8px;
+}
+
+.preview-tab-btn {
+  padding: 8px 14px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+}
+
+.preview-tab-btn.active {
+  background: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.preview-actions {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.print-filter-select {
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-main);
+  font-size: 0.88rem;
+}
